@@ -2,9 +2,14 @@ import re
 import pandas as pd
 import pandasgui
 
+
 fichier = "fichier_test.txt"
 
-def parse_winamax_history(file_content):
+def parse_winamax_history(fichier):
+
+    with open(fichier, "r", encoding="utf-8") as f:
+        file_content = f.read()
+
     # Séparer le fichier par main (chaque main commence par "Winamax Poker")
     hands_raw = file_content.split('Winamax Poker - ')
     hands_data = []
@@ -50,11 +55,6 @@ def parse_winamax_history(file_content):
         hands_data.append(hand_info)
 
     return pd.DataFrame(hands_data)
-
-# --- Simulation de l'exécution ---
-# texte_complet = votre_variable_contenant_le_log
-# df = parse_winamax_history(texte_complet)
-# print(df.head())
 
 tab = parse_winamax_history("fichier_test.txt")
 pandasgui.show(tab)
