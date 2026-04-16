@@ -3,6 +3,10 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime
 
+<<<<<<< HEAD
+=======
+HERO = "Samponi"
+>>>>>>> 0b320beef57e7c74f7b093f37fafa540443f2671
 
 def get_position(hero_seat, button_seat, seat_list):
     seats = sorted(seat_list)
@@ -81,9 +85,15 @@ def parse_hand(block):
     if m:
         pf = m.group(1)
 
+<<<<<<< HEAD
     hero_re = re.escape(hero)
     data["fold_preflop"]  = bool(re.search(rf"^{hero_re} folds", pf, re.M))
     data["allin_preflop"] = bool(re.search(rf"^{hero_re} .* and is all-in", pf, re.M))
+=======
+
+    data["fold_preflop"]  = bool(re.search(rf"^{HERO} folds", pf, re.M))
+    data["allin_preflop"] = bool(re.search(rf"^{HERO} .* and is all-in", pf, re.M))
+>>>>>>> 0b320beef57e7c74f7b093f37fafa540443f2671
 
     # Board
     m = re.search(r"\*\*\* FLOP \*\*\* \[(.+?)\]", block)
