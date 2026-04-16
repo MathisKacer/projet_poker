@@ -3,10 +3,6 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime
 
-<<<<<<< HEAD
-=======
-HERO = "Samponi"
->>>>>>> 0b320beef57e7c74f7b093f37fafa540443f2671
 
 def get_position(hero_seat, button_seat, seat_list):
     seats = sorted(seat_list)
