@@ -7,7 +7,7 @@ Seat 3: Juan94_ (500)
 Gladis13 posts small blind 10
 Samponi posts big blind 20
 Dealt to Samponi [8s 6c]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ calls 20
 Gladis13 calls 10
 Samponi checks
@@ -43,7 +43,7 @@ Seat 3: Juan94_ (441)
 Samponi posts small blind 10
 Juan94_ posts big blind 20
 Dealt to Samponi [8s 9s]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Gladis13 raises 20 to 40
 Samponi calls 30
 Juan94_ folds
@@ -77,7 +77,7 @@ Seat 3: Juan94_ (421)
 Juan94_ posts small blind 15
 Gladis13 posts big blind 30
 Dealt to Samponi [Kh 8h]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi raises 30 to 60
 Juan94_ folds
 Gladis13 folds
@@ -96,7 +96,7 @@ Seat 3: Juan94_ (406)
 Gladis13 posts small blind 15
 Samponi posts big blind 30
 Dealt to Samponi [9c Kd]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ folds
 Gladis13 folds
 Samponi collected 45 from pot
@@ -114,7 +114,7 @@ Seat 3: Juan94_ (406)
 Samponi posts small blind 15
 Juan94_ posts big blind 30
 Dealt to Samponi [3d 3s]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Gladis13 folds
 Samponi raises 30 to 60
 Juan94_ calls 30
@@ -147,7 +147,7 @@ Seat 3: Juan94_ (346)
 Juan94_ posts small blind 15
 Gladis13 posts big blind 30
 Dealt to Samponi [Ah Ac]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi raises 30 to 60
 Juan94_ folds
 Gladis13 folds
@@ -166,7 +166,7 @@ Seat 3: Juan94_ (331)
 Gladis13 posts small blind 15
 Samponi posts big blind 30
 Dealt to Samponi [Kd 3s]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ calls 30
 Gladis13 raises 288 to 318 and is all-in
 Samponi folds
@@ -186,7 +186,7 @@ Seat 3: Juan94_ (301)
 Samponi posts small blind 20
 Juan94_ posts big blind 40
 Dealt to Samponi [Jh 6c]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Gladis13 folds
 Samponi folds
 Juan94_ collected 60 from pot
@@ -204,7 +204,7 @@ Seat 3: Juan94_ (321)
 Juan94_ posts small blind 20
 Gladis13 posts big blind 40
 Dealt to Samponi [6c Kh]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi raises 40 to 80
 Juan94_ folds
 Gladis13 folds
@@ -223,7 +223,7 @@ Seat 3: Juan94_ (301)
 Gladis13 posts small blind 20
 Samponi posts big blind 40
 Dealt to Samponi [Th Ks]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ calls 40
 Gladis13 calls 20
 Samponi checks
@@ -249,7 +249,7 @@ Seat 3: Juan94_ (381)
 Samponi posts small blind 20
 Juan94_ posts big blind 40
 Dealt to Samponi [7s 7d]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Gladis13 raises 40 to 80
 Samponi calls 60
 Juan94_ folds
@@ -276,7 +276,7 @@ Seat 3: Juan94_ (341)
 Juan94_ posts small blind 20
 Gladis13 posts big blind 40
 Dealt to Samponi [5d 4s]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi folds
 Juan94_ folds
 Gladis13 collected 60 from pot
@@ -294,7 +294,7 @@ Seat 3: Juan94_ (321)
 Gladis13 posts small blind 20
 Samponi posts big blind 40
 Dealt to Samponi [2h 5s]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ folds
 Gladis13 calls 20
 Samponi checks
@@ -324,7 +324,7 @@ Seat 3: Juan94_ (321)
 Samponi posts small blind 30
 Juan94_ posts big blind 60
 Dealt to Samponi [Ah Jh]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Gladis13 raises 368 to 428 and is all-in
 Samponi raises 323 to 751 and is all-in
 Juan94_ calls 261 and is all-in
@@ -355,7 +355,7 @@ Seat 3: Juan94_ (963)
 Juan94_ posts small blind 30
 Gladis13 posts big blind 60
 Dealt to Samponi [Qd Td]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi raises 263 to 323 and is all-in
 Juan94_ folds
 Gladis13 calls 154 and is all-in
@@ -381,7 +381,7 @@ Seat 3: Juan94_ (933)
 Samponi posts small blind 30
 Juan94_ posts big blind 60
 Dealt to Samponi [As Kc]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi raises 60 to 120
 Juan94_ folds
 Samponi collected 180 from pot
@@ -398,7 +398,7 @@ Seat 3: Juan94_ (873)
 Juan94_ posts small blind 30
 Samponi posts big blind 60
 Dealt to Samponi [Jh 6c]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ calls 30
 Samponi checks
 *** FLOP *** [Jc Ad Qs]
@@ -419,7 +419,7 @@ Seat 3: Juan94_ (813)
 Samponi posts small blind 30
 Juan94_ posts big blind 60
 Dealt to Samponi [8c 3c]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi folds
 Juan94_ collected 90 from pot
 *** SUMMARY ***
@@ -435,7 +435,7 @@ Seat 3: Juan94_ (843)
 Juan94_ posts small blind 30
 Samponi posts big blind 60
 Dealt to Samponi [Th Qh]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ calls 30
 Samponi raises 60 to 120
 Juan94_ calls 60
@@ -465,7 +465,7 @@ Seat 3: Juan94_ (186)
 Samponi posts small blind 40
 Juan94_ posts big blind 80
 Dealt to Samponi [2c 5d]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi folds
 Juan94_ collected 120 from pot
 *** SUMMARY ***
@@ -481,7 +481,7 @@ Seat 3: Juan94_ (226)
 Juan94_ posts small blind 40
 Samponi posts big blind 80
 Dealt to Samponi [6h 8h]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ calls 40
 Samponi checks
 *** FLOP *** [Td 6c Jh]
@@ -503,7 +503,7 @@ Seat 3: Juan94_ (386)
 Samponi posts small blind 40
 Juan94_ posts big blind 80
 Dealt to Samponi [6s Js]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi calls 40
 Juan94_ raises 306 to 386 and is all-in
 Samponi folds
@@ -521,7 +521,7 @@ Seat 3: Juan94_ (466)
 Juan94_ posts small blind 40
 Samponi posts big blind 80
 Dealt to Samponi [4s Qs]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ folds
 Samponi collected 120 from pot
 *** SUMMARY ***
@@ -537,7 +537,7 @@ Seat 3: Juan94_ (426)
 Samponi posts small blind 40
 Juan94_ posts big blind 80
 Dealt to Samponi [Ac Td]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi calls 40
 Juan94_ checks
 *** FLOP *** [9d Kh 2c]
@@ -560,7 +560,7 @@ Seat 3: Juan94_ (586)
 Juan94_ posts small blind 40
 Samponi posts big blind 80
 Dealt to Samponi [Qh 7h]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ folds
 Samponi collected 120 from pot
 *** SUMMARY ***
@@ -576,7 +576,7 @@ Seat 3: Juan94_ (546)
 Samponi posts small blind 40
 Juan94_ posts big blind 80
 Dealt to Samponi [9s 4d]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi folds
 Juan94_ collected 120 from pot
 *** SUMMARY ***
@@ -592,7 +592,7 @@ Seat 3: Juan94_ (586)
 Juan94_ posts small blind 40
 Samponi posts big blind 80
 Dealt to Samponi [5c 2c]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ calls 40
 Samponi checks
 *** FLOP *** [Jh 7c Jd]
@@ -614,7 +614,7 @@ Seat 3: Juan94_ (666)
 Samponi posts small blind 40
 Juan94_ posts big blind 80
 Dealt to Samponi [6h 9d]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi folds
 Juan94_ collected 120 from pot
 *** SUMMARY ***
@@ -630,7 +630,7 @@ Seat 3: Juan94_ (706)
 Juan94_ posts small blind 40
 Samponi posts big blind 80
 Dealt to Samponi [Qs 2c]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ folds
 Samponi collected 120 from pot
 *** SUMMARY ***
@@ -646,7 +646,7 @@ Seat 3: Juan94_ (666)
 Samponi posts small blind 40
 Juan94_ posts big blind 80
 Dealt to Samponi [3c 6h]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi folds
 Juan94_ collected 120 from pot
 *** SUMMARY ***
@@ -662,7 +662,7 @@ Seat 3: Juan94_ (706)
 Juan94_ posts small blind 40
 Samponi posts big blind 80
 Dealt to Samponi [Jc Kc]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ folds
 Samponi collected 120 from pot
 *** SUMMARY ***
@@ -678,7 +678,7 @@ Seat 3: Juan94_ (666)
 Samponi posts small blind 50
 Juan94_ posts big blind 100
 Dealt to Samponi [3s Qd]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi folds
 Juan94_ collected 150 from pot
 *** SUMMARY ***
@@ -694,7 +694,7 @@ Seat 3: Juan94_ (716)
 Juan94_ posts small blind 50
 Samponi posts big blind 100
 Dealt to Samponi [7s Qh]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ raises 200 to 300
 Samponi folds
 Juan94_ collected 400 from pot
@@ -711,7 +711,7 @@ Seat 3: Juan94_ (816)
 Samponi posts small blind 50
 Juan94_ posts big blind 100
 Dealt to Samponi [Ad Qs]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi raises 100 to 200
 Juan94_ folds
 Samponi collected 300 from pot
@@ -728,7 +728,7 @@ Seat 3: Juan94_ (716)
 Juan94_ posts small blind 50
 Samponi posts big blind 100
 Dealt to Samponi [Kd Td]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ folds
 Samponi collected 150 from pot
 *** SUMMARY ***
@@ -744,7 +744,7 @@ Seat 3: Juan94_ (666)
 Samponi posts small blind 50
 Juan94_ posts big blind 100
 Dealt to Samponi [9s 3d]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi folds
 Juan94_ collected 150 from pot
 *** SUMMARY ***
@@ -760,7 +760,7 @@ Seat 3: Juan94_ (716)
 Juan94_ posts small blind 50
 Samponi posts big blind 100
 Dealt to Samponi [7s Kc]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ calls 50
 Samponi raises 100 to 200
 Juan94_ raises 516 to 716 and is all-in
@@ -787,7 +787,7 @@ Seat 3: Juan94_ (1432)
 Samponi posts small blind 50
 Juan94_ posts big blind 100
 Dealt to Samponi [Js 3s]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi calls 18 and is all-in
 *** FLOP *** [7s Ks Kh]
 *** TURN *** [7s Ks Kh][8h]
@@ -812,7 +812,7 @@ Seat 3: Juan94_ (1364)
 Juan94_ posts small blind 50
 Samponi posts big blind 100
 Dealt to Samponi [Kd 4h]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ folds
 Samponi collected 150 from pot
 *** SUMMARY ***
@@ -828,7 +828,7 @@ Seat 3: Juan94_ (1314)
 Samponi posts small blind 50
 Juan94_ posts big blind 100
 Dealt to Samponi [Kh Qs]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi raises 86 to 186 and is all-in
 Juan94_ calls 86
 *** FLOP *** [4d 5s 6s]
@@ -854,7 +854,7 @@ Seat 3: Juan94_ (1314)
 Juan94_ posts small blind 50
 Samponi posts big blind 100
 Dealt to Samponi [Qh 5h]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ folds
 Samponi collected 150 from pot
 *** SUMMARY ***
@@ -870,7 +870,7 @@ Seat 3: Juan94_ (1264)
 Samponi posts small blind 50
 Juan94_ posts big blind 100
 Dealt to Samponi [Qh 2c]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Samponi folds
 Juan94_ collected 150 from pot
 *** SUMMARY ***
@@ -886,7 +886,7 @@ Seat 3: Juan94_ (1314)
 Juan94_ posts small blind 50
 Samponi posts big blind 100
 Dealt to Samponi [Jh 8h]
-*** PRE-FLOP *** 
+*** PRE-FLOP ***
 Juan94_ raises 200 to 300
 Samponi calls 86 and is all-in
 *** FLOP *** [3c 2s 9s]
@@ -901,5 +901,3 @@ Total pot 486 | No rake
 Board: [3c 2s 9s 3s 7c]
 Seat 2: Samponi (big blind) showed [Jh 8h] and lost with One pair : 3
 Seat 3: Juan94_ (small blind) (button) showed [4d 4h] and won 486 with Two pairs : 4 and 3
-
-

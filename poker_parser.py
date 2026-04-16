@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime
 
-HERO = "MathisKcr"
+HERO = "Samponi"
 
 def get_position(seat_num, button_seat):
     seats = [1, 2, 3]
@@ -58,8 +58,7 @@ def parse_hand(block):
     if m:
         pf = m.group(1)
 
-    data["vpip"]          = bool(re.search(rf"^{HERO} (calls|raises)", pf, re.M))
-    data["pfr"]           = bool(re.search(rf"^{HERO} raises", pf, re.M))
+
     data["fold_preflop"]  = bool(re.search(rf"^{HERO} folds", pf, re.M))
     data["allin_preflop"] = bool(re.search(rf"^{HERO} .* and is all-in", pf, re.M))
 
