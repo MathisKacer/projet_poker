@@ -3,16 +3,20 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime
 
-HERO = "MathisKcr"
 
-def get_position(seat_num, button_seat):
-    seats = [1, 2, 3]
+def get_position(hero_seat, button_seat, seat_list):
+    seats = sorted(seat_list)
+    n = len(seats)
     btn_idx = seats.index(button_seat)
-    if seat_num == seats[btn_idx]:
-        return "BTN"
-    if seat_num == seats[(btn_idx + 1) % 3]:
-        return "SB"
-    if seat_num == seats[(btn_idx + 2) % 3]:
+    if n == 2:
+        if hero_seat == seats[btn_idx]:
+            return "BTN"
+        return "BB"
+    if n == 3:
+        if hero_seat == seats[btn_idx]:
+            return "BTN"
+        if hero_seat == seats[(btn_idx + 1) % 3]:
+            return "SB"
         return "BB"
     return "UNKNOWN"
 
@@ -20,6 +24,7 @@ def get_position(seat_num, button_seat):
 def parse_hand(block):
     data = {}
 
+    # Header
     m = re.search(
         r'Tournament "(.+?)" buyIn: ([\d.]+).*?level: (\d+)'
         r'.*?HandId: #(\S+).*?\((\d+)/(\d+)\)'
@@ -37,32 +42,50 @@ def parse_hand(block):
     data["bb_amount"]  = int(m.group(6))
     data["datetime"]   = datetime.strptime(m.group(7), "%Y/%m/%d %H:%M:%S")
 
+    # Bouton
     m = re.search(r"Seat #(\d+) is the button", block)
     if not m:
         return None
     button_seat = int(m.group(1))
 
-    m = re.search(rf"Seat (\d+): {HERO} \((\d+)\)", block)
+    # Sièges
+    seats_found = {
+        m.group(2): {"seat": int(m.group(1)), "stack": int(m.group(3))}
+        for m in re.finditer(r"Seat (\d+): (.+?) \((\d+)\)", block)
+    }
+
+    # Détection automatique du héros
+    m = re.search(r"Dealt to (.+?) \[", block)
     if not m:
         return None
-    data["hero_seat"]   = int(m.group(1))
-    data["stack_start"] = int(m.group(2))
-    data["position"]    = get_position(data["hero_seat"], button_seat)
-    data["stack_bb"]    = round(data["stack_start"] / data["bb_amount"], 2)
+    hero = m.group(1)
 
-    m = re.search(rf"Dealt to {HERO} \[(.+?)\]", block)
+    if hero not in seats_found:
+        return None
+
+    seat_list = [v["seat"] for v in seats_found.values()]
+    data["hero"]          = hero
+    data["hero_seat"]     = seats_found[hero]["seat"]
+    data["stack_start"]   = seats_found[hero]["stack"]
+    data["total_players"] = len(seat_list)
+    data["position"]      = get_position(data["hero_seat"], button_seat, seat_list)
+    data["stack_bb"]      = round(data["stack_start"] / data["bb_amount"], 2)
+
+    # Cartes
+    m = re.search(rf"Dealt to {re.escape(hero)} \[(.+?)\]", block)
     data["hand_cards"] = m.group(1) if m else None
 
+    # Section préflop
     pf = ""
     m = re.search(r"\*\*\* PRE-FLOP \*\*\*(.*?)(?=\*\*\*|\Z)", block, re.S)
     if m:
         pf = m.group(1)
 
-    data["vpip"]          = bool(re.search(rf"^{HERO} (calls|raises)", pf, re.M))
-    data["pfr"]           = bool(re.search(rf"^{HERO} raises", pf, re.M))
-    data["fold_preflop"]  = bool(re.search(rf"^{HERO} folds", pf, re.M))
-    data["allin_preflop"] = bool(re.search(rf"^{HERO} .* and is all-in", pf, re.M))
+    hero_re = re.escape(hero)
+    data["fold_preflop"]  = bool(re.search(rf"^{hero_re} folds", pf, re.M))
+    data["allin_preflop"] = bool(re.search(rf"^{hero_re} .* and is all-in", pf, re.M))
 
+    # Board
     m = re.search(r"\*\*\* FLOP \*\*\* \[(.+?)\]", block)
     data["flop"] = m.group(1) if m else None
     m = re.search(r"\*\*\* TURN \*\*\* \[.+?\]\[(.+?)\]", block)
@@ -74,13 +97,17 @@ def parse_hand(block):
     data["saw_turn"]  = data["turn"]  is not None
     data["saw_river"] = data["river"] is not None
 
+    # Showdown
     sd = re.search(r"\*\*\* SHOW DOWN \*\*\*(.*?)(?=\*\*\*|\Z)", block, re.S)
     data["went_to_showdown"] = sd is not None
-    data["won_at_showdown"]  = bool(sd and re.search(rf"^{HERO} collected", sd.group(1), re.M))
+    data["won_at_showdown"]  = bool(
+        sd and re.search(rf"^{hero_re} collected", sd.group(1), re.M)
+    )
 
-    collected = sum(int(x) for x in re.findall(rf"{HERO} collected (\d+) from", block))
+    # Résultat net
+    collected = sum(int(x) for x in re.findall(rf"{hero_re} collected (\d+) from", block))
     invested  = sum(int(x) for x in re.findall(
-        rf"^{HERO} (?:posts \S+ blind|calls|bets|raises \d+ to) (\d+)", block, re.M
+        rf"^{hero_re} (?:posts \S+ blind|calls|bets|raises \d+ to) (\d+)", block, re.M
     ))
     m = re.search(r"Total pot (\d+)", block)
     data["total_pot"] = int(m.group(1)) if m else None
