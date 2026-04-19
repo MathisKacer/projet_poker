@@ -1,0 +1,429 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4693937090277146625-1-1775748386 - Holdem no limit (10/20) - 2026/04/09 15:26:26 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (500)
+Seat 2: Aktarus006 (500)
+Seat 3: ylann1727 (500)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Aktarus006 posts big blind 20
+Dealt to Samponi [5d 3c]
+*** PRE-FLOP *** 
+ylann1727 calls 20
+Samponi calls 10
+Aktarus006 checks
+*** FLOP *** [6s 7s 4h]
+Samponi bets 60
+Aktarus006 folds
+ylann1727 calls 60
+*** TURN *** [6s 7s 4h][Qd]
+Samponi bets 180
+ylann1727 calls 180
+*** RIVER *** [6s 7s 4h Qd][2d]
+Samponi bets 240 and is all-in
+ylann1727 calls 240 and is all-in
+*** SHOW DOWN ***
+ylann1727 shows [6h 6c] (Trips of 6)
+Samponi shows [5d 3c] (Straight 7 high)
+Samponi collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [6s 7s 4h Qd 2d]
+Seat 1: Samponi (small blind) showed [5d 3c] and won 1020 with Straight 7 high
+Seat 3: ylann1727 (button) showed [6h 6c] and lost with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4693937090277146625-2-1775748429 - Holdem no limit (10/20) - 2026/04/09 15:27:09 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (1020)
+Seat 2: Aktarus006 (480)
+*** ANTE/BLINDS ***
+Aktarus006 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [9h 8c]
+*** PRE-FLOP *** 
+Aktarus006 calls 10
+Samponi checks
+*** FLOP *** [4d Jh 2s]
+Samponi checks
+Aktarus006 bets 40
+Samponi folds
+Aktarus006 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [4d Jh 2s]
+Seat 2: Aktarus006 (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4693937090277146625-3-1775748445 - Holdem no limit (10/20) - 2026/04/09 15:27:25 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (1000)
+Seat 2: Aktarus006 (500)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Aktarus006 posts big blind 20
+Dealt to Samponi [3s 8c]
+*** PRE-FLOP *** 
+Samponi folds
+Aktarus006 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Aktarus006 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4693937090277146625-4-1775748449 - Holdem no limit (10/20) - 2026/04/09 15:27:29 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (990)
+Seat 2: Aktarus006 (510)
+*** ANTE/BLINDS ***
+Aktarus006 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [8c 3c]
+*** PRE-FLOP *** 
+Aktarus006 calls 10
+Samponi checks
+*** FLOP *** [6d 3h 5s]
+Samponi bets 20
+Aktarus006 folds
+Samponi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6d 3h 5s]
+Seat 1: Samponi (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4693937090277146625-5-1775748465 - Holdem no limit (10/20) - 2026/04/09 15:27:45 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (1010)
+Seat 2: Aktarus006 (490)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Aktarus006 posts big blind 20
+Dealt to Samponi [4s Kc]
+*** PRE-FLOP *** 
+Samponi raises 20 to 40
+Aktarus006 calls 20
+*** FLOP *** [4h Ac 6h]
+Aktarus006 bets 80
+Samponi folds
+Aktarus006 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [4h Ac 6h]
+Seat 2: Aktarus006 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4693937090277146625-6-1775748477 - Holdem no limit (15/30) - 2026/04/09 15:27:57 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (970)
+Seat 2: Aktarus006 (530)
+*** ANTE/BLINDS ***
+Aktarus006 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [9c 7h]
+*** PRE-FLOP *** 
+Aktarus006 folds
+Samponi collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Samponi (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4693937090277146625-7-1775748482 - Holdem no limit (15/30) - 2026/04/09 15:28:02 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (985)
+Seat 2: Aktarus006 (515)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Aktarus006 posts big blind 30
+Dealt to Samponi [9c Qc]
+*** PRE-FLOP *** 
+Samponi raises 30 to 60
+Aktarus006 calls 30
+*** FLOP *** [8s 9d 6h]
+Aktarus006 checks
+Samponi bets 120
+Aktarus006 folds
+Samponi collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8s 9d 6h]
+Seat 1: Samponi (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4693937090277146625-8-1775748506 - Holdem no limit (15/30) - 2026/04/09 15:28:26 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (1045)
+Seat 2: Aktarus006 (455)
+*** ANTE/BLINDS ***
+Aktarus006 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [Jc Qd]
+*** PRE-FLOP *** 
+Aktarus006 folds
+Samponi collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Samponi (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4693937090277146625-9-1775748510 - Holdem no limit (15/30) - 2026/04/09 15:28:30 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (1060)
+Seat 2: Aktarus006 (440)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Aktarus006 posts big blind 30
+Dealt to Samponi [5c 6h]
+*** PRE-FLOP *** 
+Samponi calls 15
+Aktarus006 checks
+*** FLOP *** [5h 9d 2c]
+Aktarus006 checks
+Samponi bets 30
+Aktarus006 folds
+Samponi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5h 9d 2c]
+Seat 1: Samponi (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4693937090277146625-10-1775748528 - Holdem no limit (15/30) - 2026/04/09 15:28:48 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (1090)
+Seat 2: Aktarus006 (410)
+*** ANTE/BLINDS ***
+Aktarus006 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [4s 3c]
+*** PRE-FLOP *** 
+Aktarus006 calls 15
+Samponi checks
+*** FLOP *** [Qs 3d 2h]
+Samponi bets 30
+Aktarus006 folds
+Samponi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Qs 3d 2h]
+Seat 1: Samponi (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4693937090277146625-11-1775748538 - Holdem no limit (15/30) - 2026/04/09 15:28:58 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (1120)
+Seat 2: Aktarus006 (380)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Aktarus006 posts big blind 30
+Dealt to Samponi [9s 3h]
+*** PRE-FLOP *** 
+Samponi folds
+Aktarus006 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Aktarus006 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4693937090277146625-12-1775748542 - Holdem no limit (15/30) - 2026/04/09 15:29:02 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (1105)
+Seat 2: Aktarus006 (395)
+*** ANTE/BLINDS ***
+Aktarus006 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [Js Th]
+*** PRE-FLOP *** 
+Aktarus006 calls 15
+Samponi raises 30 to 60
+Aktarus006 calls 30
+*** FLOP *** [2d 6c 8h]
+Samponi checks
+Aktarus006 checks
+*** TURN *** [2d 6c 8h][6d]
+Samponi bets 30
+Aktarus006 calls 30
+*** RIVER *** [2d 6c 8h 6d][Kh]
+Samponi bets 117
+Aktarus006 folds
+Samponi collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [2d 6c 8h 6d Kh]
+Seat 1: Samponi (big blind) won 297
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4693937090277146625-13-1775748576 - Holdem no limit (20/40) - 2026/04/09 15:29:36 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (1195)
+Seat 2: Aktarus006 (305)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Aktarus006 posts big blind 40
+Dealt to Samponi [6d 8d]
+*** PRE-FLOP *** 
+Samponi folds
+Aktarus006 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Aktarus006 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4693937090277146625-14-1775748580 - Holdem no limit (20/40) - 2026/04/09 15:29:40 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (1175)
+Seat 2: Aktarus006 (325)
+*** ANTE/BLINDS ***
+Aktarus006 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [7s Ad]
+*** PRE-FLOP *** 
+Aktarus006 raises 80 to 120
+Samponi calls 80
+*** FLOP *** [Qh 2c 4d]
+Samponi checks
+Aktarus006 bets 205 and is all-in
+Samponi folds
+Aktarus006 collected 445 from pot
+*** SUMMARY ***
+Total pot 445 | No rake
+Board: [Qh 2c 4d]
+Seat 2: Aktarus006 (small blind) (button) won 445
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4693937090277146625-15-1775748591 - Holdem no limit (20/40) - 2026/04/09 15:29:51 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (1055)
+Seat 2: Aktarus006 (445)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Aktarus006 posts big blind 40
+Dealt to Samponi [Js 3s]
+*** PRE-FLOP *** 
+Samponi folds
+Aktarus006 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Aktarus006 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4693937090277146625-16-1775748595 - Holdem no limit (20/40) - 2026/04/09 15:29:55 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (1035)
+Seat 2: Aktarus006 (465)
+*** ANTE/BLINDS ***
+Aktarus006 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [3h 6h]
+*** PRE-FLOP *** 
+Aktarus006 calls 20
+Samponi checks
+*** FLOP *** [8s Kh Kd]
+Samponi checks
+Aktarus006 checks
+*** TURN *** [8s Kh Kd][8h]
+Samponi checks
+Aktarus006 checks
+*** RIVER *** [8s Kh Kd 8h][8c]
+Samponi bets 995 and is all-in
+Aktarus006 folds
+Samponi collected 1075 from pot
+*** SUMMARY ***
+Total pot 1075 | No rake
+Board: [8s Kh Kd 8h 8c]
+Seat 1: Samponi (big blind) won 1075
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4693937090277146625-17-1775748615 - Holdem no limit (20/40) - 2026/04/09 15:30:15 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (1075)
+Seat 2: Aktarus006 (425)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Aktarus006 posts big blind 40
+Dealt to Samponi [9d 6c]
+*** PRE-FLOP *** 
+Samponi folds
+Aktarus006 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Aktarus006 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4693937090277146625-18-1775748620 - Holdem no limit (20/40) - 2026/04/09 15:30:20 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (1055)
+Seat 2: Aktarus006 (445)
+*** ANTE/BLINDS ***
+Aktarus006 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [Ah 8c]
+*** PRE-FLOP *** 
+Aktarus006 raises 405 to 445 and is all-in
+Samponi folds
+Aktarus006 collected 485 from pot
+*** SUMMARY ***
+Total pot 485 | No rake
+Seat 2: Aktarus006 (small blind) (button) won 485
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4693937090277146625-19-1775748634 - Holdem no limit (20/40) - 2026/04/09 15:30:34 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (1015)
+Seat 2: Aktarus006 (485)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Aktarus006 posts big blind 40
+Dealt to Samponi [6d Jc]
+*** PRE-FLOP *** 
+Samponi calls 20
+Aktarus006 raises 80 to 120
+Samponi folds
+Aktarus006 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: Aktarus006 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4693937090277146625-20-1775748642 - Holdem no limit (20/40) - 2026/04/09 15:30:42 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (975)
+Seat 2: Aktarus006 (525)
+*** ANTE/BLINDS ***
+Aktarus006 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [Jh 6c]
+*** PRE-FLOP *** 
+Aktarus006 folds
+Samponi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Samponi (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4693937090277146625-21-1775748647 - Holdem no limit (20/40) - 2026/04/09 15:30:47 UTC
+Table: 'Expresso(1092892394)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (995)
+Seat 2: Aktarus006 (505)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Aktarus006 posts big blind 40
+Dealt to Samponi [As Kc]
+*** PRE-FLOP *** 
+Samponi calls 20
+Aktarus006 raises 465 to 505 and is all-in
+Samponi calls 465
+*** FLOP *** [Th 5s 6s]
+*** TURN *** [Th 5s 6s][Kh]
+*** RIVER *** [Th 5s 6s Kh][Jh]
+*** SHOW DOWN ***
+Aktarus006 shows [7s 7d] (One pair : 7)
+Samponi shows [As Kc] (One pair : Kings)
+Samponi collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [Th 5s 6s Kh Jh]
+Seat 1: Samponi (small blind) (button) showed [As Kc] and won 1010 with One pair : Kings
+Seat 2: Aktarus006 (big blind) showed [7s 7d] and lost with One pair : 7
+
+

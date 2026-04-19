@@ -1,0 +1,805 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4712023468143542273-1-1776437384 - Holdem no limit (10/20) - 2026/04/17 14:49:44 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Fouwinamax (500)
+Seat 2: mthis59 (500)
+Seat 3: Samponi (500)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Fouwinamax posts big blind 20
+Dealt to Samponi [3h 3d]
+*** PRE-FLOP *** 
+mthis59 calls 20
+Samponi calls 10
+Fouwinamax checks
+*** FLOP *** [4s Ac 9c]
+Samponi bets 30
+Fouwinamax calls 30
+mthis59 folds
+*** TURN *** [4s Ac 9c][2c]
+Samponi bets 60
+Fouwinamax folds
+Samponi collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4s Ac 9c 2c]
+Seat 3: Samponi (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4712023468143542273-2-1776437410 - Holdem no limit (10/20) - 2026/04/17 14:50:10 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (450)
+Seat 2: mthis59 (480)
+Seat 3: Samponi (570)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 10
+mthis59 posts big blind 20
+Dealt to Samponi [8d Ah]
+*** PRE-FLOP *** 
+Samponi calls 20
+Fouwinamax calls 10
+mthis59 checks
+*** FLOP *** [9s Th 6d]
+Fouwinamax bets 60
+mthis59 folds
+Samponi folds
+Fouwinamax collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9s Th 6d]
+Seat 1: Fouwinamax (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4712023468143542273-3-1776437426 - Holdem no limit (10/20) - 2026/04/17 14:50:26 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (490)
+Seat 2: mthis59 (460)
+Seat 3: Samponi (550)
+*** ANTE/BLINDS ***
+mthis59 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [2c Ks]
+*** PRE-FLOP *** 
+Fouwinamax calls 20
+mthis59 calls 10
+Samponi checks
+*** FLOP *** [3s Jh 4c]
+mthis59 checks
+Samponi checks
+Fouwinamax bets 39
+mthis59 calls 39
+Samponi folds
+*** TURN *** [3s Jh 4c][Th]
+mthis59 checks
+Fouwinamax checks
+*** RIVER *** [3s Jh 4c Th][8c]
+mthis59 checks
+Fouwinamax bets 138
+mthis59 folds
+Fouwinamax collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | No rake
+Board: [3s Jh 4c Th 8c]
+Seat 1: Fouwinamax (button) won 276
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4712023468143542273-4-1776437456 - Holdem no limit (10/20) - 2026/04/17 14:50:56 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Fouwinamax (569)
+Seat 2: mthis59 (401)
+Seat 3: Samponi (530)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Fouwinamax posts big blind 20
+Dealt to Samponi [6c Ks]
+*** PRE-FLOP *** 
+mthis59 calls 20
+Samponi calls 10
+Fouwinamax checks
+*** FLOP *** [2d Kh 7s]
+Samponi checks
+Fouwinamax checks
+mthis59 checks
+*** TURN *** [2d Kh 7s][Kc]
+Samponi checks
+Fouwinamax checks
+mthis59 checks
+*** RIVER *** [2d Kh 7s Kc][9c]
+Samponi bets 80
+Fouwinamax calls 80
+mthis59 folds
+*** SHOW DOWN ***
+Fouwinamax shows [Ah 8c] (One pair : Kings)
+Samponi shows [6c Ks] (Trips of Kings)
+Samponi collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [2d Kh 7s Kc 9c]
+Seat 1: Fouwinamax (big blind) showed [Ah 8c] and lost with One pair : Kings
+Seat 3: Samponi (small blind) showed [6c Ks] and won 220 with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4712023468143542273-5-1776437481 - Holdem no limit (15/30) - 2026/04/17 14:51:21 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (469)
+Seat 2: mthis59 (381)
+Seat 3: Samponi (650)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 15
+mthis59 posts big blind 30
+Dealt to Samponi [7c 5c]
+*** PRE-FLOP *** 
+Samponi folds
+Fouwinamax calls 15
+mthis59 checks
+*** FLOP *** [6c 3d 4d]
+Fouwinamax bets 39
+mthis59 calls 39
+*** TURN *** [6c 3d 4d][6s]
+Fouwinamax bets 90
+mthis59 calls 90
+*** RIVER *** [6c 3d 4d 6s][9s]
+Fouwinamax bets 310 and is all-in
+mthis59 calls 222 and is all-in
+*** SHOW DOWN ***
+mthis59 shows [2d 4c] (Two pairs : 6 and 4)
+Fouwinamax shows [6h 8h] (Trips of 6)
+Fouwinamax collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [6c 3d 4d 6s 9s]
+Seat 1: Fouwinamax (small blind) showed [6h 8h] and won 850 with Trips of 6
+Seat 2: mthis59 (big blind) showed [2d 4c] and lost with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4712023468143542273-6-1776437530 - Holdem no limit (15/30) - 2026/04/17 14:52:10 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (850)
+Seat 3: Samponi (650)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Fouwinamax posts big blind 30
+Dealt to Samponi [8d As]
+*** PRE-FLOP *** 
+Samponi raises 30 to 60
+Fouwinamax calls 30
+*** FLOP *** [5d 4c Td]
+Fouwinamax checks
+Samponi bets 42
+Fouwinamax folds
+Samponi collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [5d 4c Td]
+Seat 3: Samponi (small blind) (button) won 162
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4712023468143542273-7-1776437554 - Holdem no limit (15/30) - 2026/04/17 14:52:34 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (790)
+Seat 3: Samponi (710)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [Js 7c]
+*** PRE-FLOP *** 
+Fouwinamax calls 15
+Samponi checks
+*** FLOP *** [5d Qd Jh]
+Samponi checks
+Fouwinamax checks
+*** TURN *** [5d Qd Jh][3s]
+Samponi bets 30
+Fouwinamax calls 30
+*** RIVER *** [5d Qd Jh 3s][Jc]
+Samponi bets 60
+Fouwinamax folds
+Samponi collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [5d Qd Jh 3s Jc]
+Seat 3: Samponi (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712023468143542273-8-1776437573 - Holdem no limit (20/40) - 2026/04/17 14:52:53 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (730)
+Seat 3: Samponi (770)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Fouwinamax posts big blind 40
+Dealt to Samponi [2h 7s]
+*** PRE-FLOP *** 
+Samponi folds
+Fouwinamax collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Fouwinamax (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712023468143542273-9-1776437577 - Holdem no limit (20/40) - 2026/04/17 14:52:57 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (750)
+Seat 3: Samponi (750)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [3s Qd]
+*** PRE-FLOP *** 
+Fouwinamax calls 20
+Samponi checks
+*** FLOP *** [Jh Jc 2c]
+Samponi bets 40
+Fouwinamax calls 40
+*** TURN *** [Jh Jc 2c][As]
+Samponi bets 40
+Fouwinamax calls 40
+*** RIVER *** [Jh Jc 2c As][Ah]
+Samponi bets 192
+Fouwinamax folds
+Samponi collected 432 from pot
+*** SUMMARY ***
+Total pot 432 | No rake
+Board: [Jh Jc 2c As Ah]
+Seat 3: Samponi (big blind) won 432
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712023468143542273-10-1776437603 - Holdem no limit (20/40) - 2026/04/17 14:53:23 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (630)
+Seat 3: Samponi (870)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Fouwinamax posts big blind 40
+Dealt to Samponi [4s 5h]
+*** PRE-FLOP *** 
+Samponi calls 20
+Fouwinamax raises 80 to 120
+Samponi folds
+Fouwinamax collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: Fouwinamax (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712023468143542273-11-1776437612 - Holdem no limit (20/40) - 2026/04/17 14:53:32 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (670)
+Seat 3: Samponi (830)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [5c Qh]
+*** PRE-FLOP *** 
+Fouwinamax calls 20
+Samponi checks
+*** FLOP *** [As Qs 6h]
+Samponi bets 40
+Fouwinamax folds
+Samponi collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [As Qs 6h]
+Seat 3: Samponi (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712023468143542273-12-1776437623 - Holdem no limit (20/40) - 2026/04/17 14:53:43 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (630)
+Seat 3: Samponi (870)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Fouwinamax posts big blind 40
+Dealt to Samponi [2s Qd]
+*** PRE-FLOP *** 
+Samponi folds
+Fouwinamax collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Fouwinamax (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712023468143542273-13-1776437627 - Holdem no limit (20/40) - 2026/04/17 14:53:47 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (650)
+Seat 3: Samponi (850)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [2c 4h]
+*** PRE-FLOP *** 
+Fouwinamax calls 20
+Samponi checks
+*** FLOP *** [Ac 4s 3c]
+Samponi checks
+Fouwinamax checks
+*** TURN *** [Ac 4s 3c][2d]
+Samponi bets 40
+Fouwinamax calls 40
+*** RIVER *** [Ac 4s 3c 2d][Th]
+Samponi bets 56
+Fouwinamax calls 56
+*** SHOW DOWN ***
+Fouwinamax shows [Jh 8h] (High card : Ace)
+Samponi shows [2c 4h] (Two pairs : 4 and 2)
+Samponi collected 272 from pot
+*** SUMMARY ***
+Total pot 272 | No rake
+Board: [Ac 4s 3c 2d Th]
+Seat 1: Fouwinamax (small blind) (button) showed [Jh 8h] and lost with High card : Ace
+Seat 3: Samponi (big blind) showed [2c 4h] and won 272 with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712023468143542273-14-1776437645 - Holdem no limit (20/40) - 2026/04/17 14:54:05 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (514)
+Seat 3: Samponi (986)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Fouwinamax posts big blind 40
+Dealt to Samponi [4h Kd]
+*** PRE-FLOP *** 
+Samponi folds
+Fouwinamax collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Fouwinamax (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712023468143542273-15-1776437649 - Holdem no limit (20/40) - 2026/04/17 14:54:09 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (534)
+Seat 3: Samponi (966)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [2h 6c]
+*** PRE-FLOP *** 
+Fouwinamax calls 20
+Samponi checks
+*** FLOP *** [Th Kd 4d]
+Samponi checks
+Fouwinamax checks
+*** TURN *** [Th Kd 4d][Kc]
+Samponi checks
+Fouwinamax checks
+*** RIVER *** [Th Kd 4d Kc][9c]
+Samponi checks
+Fouwinamax checks
+*** SHOW DOWN ***
+Fouwinamax shows [3c 5h] (One pair : Kings)
+Samponi shows [2h 6c] (One pair : Kings)
+Samponi collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Th Kd 4d Kc 9c]
+Seat 1: Fouwinamax (small blind) (button) showed [3c 5h] and lost with One pair : Kings
+Seat 3: Samponi (big blind) showed [2h 6c] and won 80 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712023468143542273-16-1776437668 - Holdem no limit (30/60) - 2026/04/17 14:54:28 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (494)
+Seat 3: Samponi (1006)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+Fouwinamax posts big blind 60
+Dealt to Samponi [6s Tc]
+*** PRE-FLOP *** 
+Samponi folds
+Fouwinamax collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Fouwinamax (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712023468143542273-17-1776437679 - Holdem no limit (30/60) - 2026/04/17 14:54:39 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (524)
+Seat 3: Samponi (976)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [8c 6c]
+*** PRE-FLOP *** 
+Fouwinamax calls 30
+Samponi checks
+*** FLOP *** [Qc 8d 6h]
+Samponi bets 60
+Fouwinamax calls 60
+*** TURN *** [Qc 8d 6h][Jh]
+Samponi bets 60
+Fouwinamax raises 344 to 404 and is all-in
+Samponi calls 344
+*** RIVER *** [Qc 8d 6h Jh][Td]
+*** SHOW DOWN ***
+Samponi shows [8c 6c] (Two pairs : 8 and 6)
+Fouwinamax shows [9d 6s] (Straight Queen high)
+Fouwinamax collected 1048 from pot
+*** SUMMARY ***
+Total pot 1048 | No rake
+Board: [Qc 8d 6h Jh Td]
+Seat 1: Fouwinamax (small blind) (button) showed [9d 6s] and won 1048 with Straight Queen high
+Seat 3: Samponi (big blind) showed [8c 6c] and lost with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712023468143542273-18-1776437697 - Holdem no limit (30/60) - 2026/04/17 14:54:57 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (1048)
+Seat 3: Samponi (452)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+Fouwinamax posts big blind 60
+Dealt to Samponi [Qd Ah]
+*** PRE-FLOP *** 
+Samponi raises 60 to 120
+Fouwinamax calls 60
+*** FLOP *** [Ac 5h Tc]
+Fouwinamax checks
+Samponi checks
+*** TURN *** [Ac 5h Tc][3h]
+Fouwinamax checks
+Samponi bets 60
+Fouwinamax folds
+Samponi collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Ac 5h Tc 3h]
+Seat 3: Samponi (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712023468143542273-19-1776437719 - Holdem no limit (30/60) - 2026/04/17 14:55:19 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (928)
+Seat 3: Samponi (572)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [6d 4s]
+*** PRE-FLOP *** 
+Fouwinamax calls 30
+Samponi checks
+*** FLOP *** [9c 6h 8s]
+Samponi bets 60
+Fouwinamax raises 135 to 195
+Samponi folds
+Fouwinamax collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [9c 6h 8s]
+Seat 1: Fouwinamax (small blind) (button) won 375
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712023468143542273-20-1776437734 - Holdem no limit (30/60) - 2026/04/17 14:55:34 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (1048)
+Seat 3: Samponi (452)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+Fouwinamax posts big blind 60
+Dealt to Samponi [Ad Th]
+*** PRE-FLOP *** 
+Samponi raises 60 to 120
+Fouwinamax calls 60
+*** FLOP *** [8c 7s Ks]
+Fouwinamax bets 240
+Samponi folds
+Fouwinamax collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [8c 7s Ks]
+Seat 1: Fouwinamax (big blind) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712023468143542273-21-1776437743 - Holdem no limit (40/80) - 2026/04/17 14:55:43 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (1168)
+Seat 3: Samponi (332)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [2c 5d]
+*** PRE-FLOP *** 
+Fouwinamax raises 160 to 240
+Samponi folds
+Fouwinamax collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Fouwinamax (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712023468143542273-22-1776437749 - Holdem no limit (40/80) - 2026/04/17 14:55:49 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (1248)
+Seat 3: Samponi (252)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+Fouwinamax posts big blind 80
+Dealt to Samponi [Jh Qs]
+*** PRE-FLOP *** 
+Samponi raises 172 to 252 and is all-in
+Fouwinamax folds
+Samponi collected 332 from pot
+*** SUMMARY ***
+Total pot 332 | No rake
+Seat 3: Samponi (small blind) (button) won 332
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712023468143542273-23-1776437757 - Holdem no limit (40/80) - 2026/04/17 14:55:57 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (1168)
+Seat 3: Samponi (332)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [9d Ad]
+*** PRE-FLOP *** 
+Fouwinamax calls 40
+Samponi raises 252 to 332 and is all-in
+Fouwinamax folds
+Samponi collected 412 from pot
+*** SUMMARY ***
+Total pot 412 | No rake
+Seat 3: Samponi (big blind) won 412
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712023468143542273-24-1776437768 - Holdem no limit (40/80) - 2026/04/17 14:56:08 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (1088)
+Seat 3: Samponi (412)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+Fouwinamax posts big blind 80
+Dealt to Samponi [4s 8h]
+*** PRE-FLOP *** 
+Samponi folds
+Fouwinamax collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Fouwinamax (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712023468143542273-25-1776437772 - Holdem no limit (40/80) - 2026/04/17 14:56:12 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (1128)
+Seat 3: Samponi (372)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [2c Td]
+*** PRE-FLOP *** 
+Fouwinamax calls 40
+Samponi raises 292 to 372 and is all-in
+Fouwinamax calls 292
+*** FLOP *** [Qh Ts 7h]
+*** TURN *** [Qh Ts 7h][Ac]
+*** RIVER *** [Qh Ts 7h Ac][2s]
+*** SHOW DOWN ***
+Fouwinamax shows [9h 8c] (High card : Ace)
+Samponi shows [2c Td] (Two pairs : Tens and 2)
+Samponi collected 744 from pot
+*** SUMMARY ***
+Total pot 744 | No rake
+Board: [Qh Ts 7h Ac 2s]
+Seat 1: Fouwinamax (small blind) (button) showed [9h 8c] and lost with High card : Ace
+Seat 3: Samponi (big blind) showed [2c Td] and won 744 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712023468143542273-26-1776437786 - Holdem no limit (40/80) - 2026/04/17 14:56:26 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (756)
+Seat 3: Samponi (744)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+Fouwinamax posts big blind 80
+Dealt to Samponi [8s 3s]
+*** PRE-FLOP *** 
+Samponi folds
+Fouwinamax collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Fouwinamax (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712023468143542273-27-1776437790 - Holdem no limit (40/80) - 2026/04/17 14:56:30 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (796)
+Seat 3: Samponi (704)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [Jc 3h]
+*** PRE-FLOP *** 
+Fouwinamax calls 40
+Samponi checks
+*** FLOP *** [4h Ah Qd]
+Samponi checks
+Fouwinamax bets 104
+Samponi folds
+Fouwinamax collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | No rake
+Board: [4h Ah Qd]
+Seat 1: Fouwinamax (small blind) (button) won 264
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712023468143542273-28-1776437802 - Holdem no limit (40/80) - 2026/04/17 14:56:42 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (876)
+Seat 3: Samponi (624)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+Fouwinamax posts big blind 80
+Dealt to Samponi [7s 6s]
+*** PRE-FLOP *** 
+Samponi calls 40
+Fouwinamax checks
+*** FLOP *** [Jd 4d 6c]
+Fouwinamax checks
+Samponi bets 80
+Fouwinamax calls 80
+*** TURN *** [Jd 4d 6c][4h]
+Fouwinamax checks
+Samponi bets 80
+Fouwinamax calls 80
+*** RIVER *** [Jd 4d 6c 4h][As]
+Fouwinamax checks
+Samponi checks
+*** SHOW DOWN ***
+Fouwinamax shows [3s Tc] (One pair : 4)
+Samponi shows [7s 6s] (Two pairs : 6 and 4)
+Samponi collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Jd 4d 6c 4h As]
+Seat 1: Fouwinamax (big blind) showed [3s Tc] and lost with One pair : 4
+Seat 3: Samponi (small blind) (button) showed [7s 6s] and won 480 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712023468143542273-29-1776437823 - Holdem no limit (40/80) - 2026/04/17 14:57:03 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (636)
+Seat 3: Samponi (864)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [Jd As]
+*** PRE-FLOP *** 
+Fouwinamax calls 40
+Samponi raises 120 to 200
+Fouwinamax calls 120
+*** FLOP *** [Kc Qs 2h]
+Samponi checks
+Fouwinamax checks
+*** TURN *** [Kc Qs 2h][5h]
+Samponi checks
+Fouwinamax checks
+*** RIVER *** [Kc Qs 2h 5h][8d]
+Samponi checks
+Fouwinamax checks
+*** SHOW DOWN ***
+Fouwinamax shows [6h 4c] (High card : King)
+Samponi shows [Jd As] (High card : Ace)
+Samponi collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Kc Qs 2h 5h 8d]
+Seat 1: Fouwinamax (small blind) (button) showed [6h 4c] and lost with High card : King
+Seat 3: Samponi (big blind) showed [Jd As] and won 400 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712023468143542273-30-1776437850 - Holdem no limit (50/100) - 2026/04/17 14:57:30 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (436)
+Seat 3: Samponi (1064)
+*** ANTE/BLINDS ***
+Samponi posts small blind 50
+Fouwinamax posts big blind 100
+Dealt to Samponi [2c 9d]
+*** PRE-FLOP *** 
+Samponi folds
+Fouwinamax collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Fouwinamax (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712023468143542273-31-1776437854 - Holdem no limit (50/100) - 2026/04/17 14:57:34 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (486)
+Seat 3: Samponi (1014)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 50
+Samponi posts big blind 100
+Dealt to Samponi [9d Ac]
+*** PRE-FLOP *** 
+Fouwinamax calls 50
+Samponi raises 150 to 250
+Fouwinamax calls 150
+*** FLOP *** [3c Ks 8c]
+Samponi checks
+Fouwinamax checks
+*** TURN *** [3c Ks 8c][4d]
+Samponi bets 100
+Fouwinamax calls 100
+*** RIVER *** [3c Ks 8c 4d][Tc]
+Samponi bets 664 and is all-in
+Fouwinamax folds
+Samponi collected 1364 from pot
+*** SUMMARY ***
+Total pot 1364 | No rake
+Board: [3c Ks 8c 4d Tc]
+Seat 3: Samponi (big blind) won 1364
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712023468143542273-32-1776437881 - Holdem no limit (50/100) - 2026/04/17 14:58:01 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (136)
+Seat 3: Samponi (1364)
+*** ANTE/BLINDS ***
+Samponi posts small blind 50
+Fouwinamax posts big blind 100
+Dealt to Samponi [6c 2d]
+*** PRE-FLOP *** 
+Samponi folds
+Fouwinamax collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Fouwinamax (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712023468143542273-33-1776437885 - Holdem no limit (50/100) - 2026/04/17 14:58:05 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (186)
+Seat 3: Samponi (1314)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 50
+Samponi posts big blind 100
+Dealt to Samponi [4s 6d]
+*** PRE-FLOP *** 
+Fouwinamax folds
+Samponi collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: Samponi (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712023468143542273-34-1776437918 - Holdem no limit (50/100) - 2026/04/17 14:58:38 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fouwinamax (136)
+Seat 3: Samponi (1364)
+*** ANTE/BLINDS ***
+Samponi posts small blind 50
+Fouwinamax posts big blind 100
+Dealt to Samponi [7c 8c]
+*** PRE-FLOP *** 
+Samponi raises 100 to 200
+Fouwinamax folds
+Samponi collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: Samponi (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #4712023468143542273-35-1776437929 - Holdem no limit (60/120) - 2026/04/17 14:58:49 UTC
+Table: 'Expresso(1097103457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fouwinamax (36)
+Seat 3: Samponi (1464)
+*** ANTE/BLINDS ***
+Fouwinamax posts small blind 36 and is all-in
+Samponi posts big blind 120
+Dealt to Samponi [3s Qs]
+*** PRE-FLOP *** 
+*** FLOP *** [8c Js Ks]
+*** TURN *** [8c Js Ks][8d]
+*** RIVER *** [8c Js Ks 8d][9c]
+*** SHOW DOWN ***
+Fouwinamax shows [Ts 2c] (One pair : 8)
+Samponi shows [3s Qs] (One pair : 8)
+Samponi collected 156 from pot
+*** SUMMARY ***
+Total pot 156 | No rake
+Board: [8c Js Ks 8d 9c]
+Seat 1: Fouwinamax (small blind) (button) showed [Ts 2c] and lost with One pair : 8
+Seat 3: Samponi (big blind) showed [3s Qs] and won 156 with One pair : 8
+
+

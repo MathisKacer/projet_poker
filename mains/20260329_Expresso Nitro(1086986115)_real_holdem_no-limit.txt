@@ -1,0 +1,457 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668569815131095041-1-1774798477 - Holdem no limit (10/20) - 2026/03/29 15:34:37 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #3 is the button
+Seat 1: UnLucky Lu (300)
+Seat 2: Wincash12 (300)
+Seat 3: Samponi (300)
+*** ANTE/BLINDS ***
+UnLucky Lu posts small blind 10
+Wincash12 posts big blind 20
+Dealt to Samponi [5s 4c]
+*** PRE-FLOP *** 
+Samponi folds
+UnLucky Lu folds
+Wincash12 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Wincash12 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668569815131095041-2-1774798483 - Holdem no limit (10/20) - 2026/03/29 15:34:43 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #1 is the button
+Seat 1: UnLucky Lu (290)
+Seat 2: Wincash12 (310)
+Seat 3: Samponi (300)
+*** ANTE/BLINDS ***
+Wincash12 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [5c 8s]
+*** PRE-FLOP *** 
+UnLucky Lu folds
+Wincash12 folds
+Samponi collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Samponi (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668569815131095041-3-1774798492 - Holdem no limit (10/20) - 2026/03/29 15:34:52 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #2 is the button
+Seat 1: UnLucky Lu (290)
+Seat 2: Wincash12 (300)
+Seat 3: Samponi (310)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+UnLucky Lu posts big blind 20
+Dealt to Samponi [Jc 5h]
+*** PRE-FLOP *** 
+Wincash12 raises 20 to 40
+Samponi folds
+UnLucky Lu calls 20
+*** FLOP *** [2d Qs Qd]
+UnLucky Lu checks
+Wincash12 bets 32
+UnLucky Lu folds
+Wincash12 collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | No rake
+Board: [2d Qs Qd]
+Seat 2: Wincash12 (button) won 122
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668569815131095041-4-1774798519 - Holdem no limit (10/20) - 2026/03/29 15:35:19 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #3 is the button
+Seat 1: UnLucky Lu (250)
+Seat 2: Wincash12 (350)
+Seat 3: Samponi (300)
+*** ANTE/BLINDS ***
+UnLucky Lu posts small blind 10
+Wincash12 posts big blind 20
+Dealt to Samponi [Qs Th]
+*** PRE-FLOP *** 
+Samponi calls 20
+UnLucky Lu folds
+Wincash12 checks
+*** FLOP *** [2d Qh 5s]
+Wincash12 checks
+Samponi bets 20
+Wincash12 calls 20
+*** TURN *** [2d Qh 5s][3d]
+Wincash12 checks
+Samponi bets 20
+Wincash12 calls 20
+*** RIVER *** [2d Qh 5s 3d][Qc]
+Wincash12 bets 65
+Samponi raises 65 to 130
+Wincash12 calls 65
+*** SHOW DOWN ***
+Wincash12 shows [Qd Ts] (Trips of Queens)
+Samponi shows [Qs Th] (Trips of Queens)
+Samponi collected 195 from pot
+Wincash12 collected 195 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [2d Qh 5s 3d Qc]
+Seat 2: Wincash12 (big blind) showed [Qd Ts] and won 195 with Trips of Queens
+Seat 3: Samponi (button) showed [Qs Th] and won 195 with Trips of Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668569815131095041-5-1774798560 - Holdem no limit (15/30) - 2026/03/29 15:36:00 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #1 is the button
+Seat 1: UnLucky Lu (240)
+Seat 2: Wincash12 (355)
+Seat 3: Samponi (305)
+*** ANTE/BLINDS ***
+Wincash12 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [5h Kd]
+*** PRE-FLOP *** 
+UnLucky Lu folds
+Wincash12 folds
+Samponi collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Samponi (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668569815131095041-6-1774798567 - Holdem no limit (15/30) - 2026/03/29 15:36:07 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #2 is the button
+Seat 1: UnLucky Lu (240)
+Seat 2: Wincash12 (340)
+Seat 3: Samponi (320)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+UnLucky Lu posts big blind 30
+Dealt to Samponi [Ac Jh]
+*** PRE-FLOP *** 
+Wincash12 calls 30
+Samponi raises 290 to 320 and is all-in
+UnLucky Lu folds
+Wincash12 folds
+Samponi collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: Samponi (small blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668569815131095041-7-1774798579 - Holdem no limit (15/30) - 2026/03/29 15:36:19 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #3 is the button
+Seat 1: UnLucky Lu (210)
+Seat 2: Wincash12 (310)
+Seat 3: Samponi (380)
+*** ANTE/BLINDS ***
+UnLucky Lu posts small blind 15
+Wincash12 posts big blind 30
+Dealt to Samponi [4s 9h]
+*** PRE-FLOP *** 
+Samponi folds
+UnLucky Lu folds
+Wincash12 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Wincash12 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668569815131095041-8-1774798587 - Holdem no limit (15/30) - 2026/03/29 15:36:27 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #1 is the button
+Seat 1: UnLucky Lu (195)
+Seat 2: Wincash12 (325)
+Seat 3: Samponi (380)
+*** ANTE/BLINDS ***
+Wincash12 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [9d 2d]
+*** PRE-FLOP *** 
+UnLucky Lu folds
+Wincash12 calls 15
+Samponi checks
+*** FLOP *** [7c Ac 3c]
+Wincash12 bets 30
+Samponi folds
+Wincash12 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [7c Ac 3c]
+Seat 2: Wincash12 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668569815131095041-9-1774798611 - Holdem no limit (20/40) - 2026/03/29 15:36:51 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #2 is the button
+Seat 1: UnLucky Lu (195)
+Seat 2: Wincash12 (355)
+Seat 3: Samponi (350)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+UnLucky Lu posts big blind 40
+Dealt to Samponi [3h 7c]
+*** PRE-FLOP *** 
+Wincash12 folds
+Samponi folds
+UnLucky Lu collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: UnLucky Lu (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668569815131095041-10-1774798617 - Holdem no limit (20/40) - 2026/03/29 15:36:57 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #3 is the button
+Seat 1: UnLucky Lu (215)
+Seat 2: Wincash12 (355)
+Seat 3: Samponi (330)
+*** ANTE/BLINDS ***
+UnLucky Lu posts small blind 20
+Wincash12 posts big blind 40
+Dealt to Samponi [3s Ac]
+*** PRE-FLOP *** 
+Samponi calls 40
+UnLucky Lu folds
+Wincash12 checks
+*** FLOP *** [4d Ks 4c]
+Wincash12 checks
+Samponi checks
+*** TURN *** [4d Ks 4c][Kc]
+Wincash12 checks
+Samponi bets 290 and is all-in
+Wincash12 folds
+Samponi collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [4d Ks 4c Kc]
+Seat 3: Samponi (button) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668569815131095041-11-1774798640 - Holdem no limit (20/40) - 2026/03/29 15:37:20 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #1 is the button
+Seat 1: UnLucky Lu (195)
+Seat 2: Wincash12 (315)
+Seat 3: Samponi (390)
+*** ANTE/BLINDS ***
+Wincash12 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [2c 8c]
+*** PRE-FLOP *** 
+UnLucky Lu folds
+Wincash12 raises 40 to 80
+Samponi folds
+Wincash12 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Wincash12 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4668569815131095041-12-1774798656 - Holdem no limit (30/60) - 2026/03/29 15:37:36 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #2 is the button
+Seat 1: UnLucky Lu (195)
+Seat 2: Wincash12 (355)
+Seat 3: Samponi (350)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+UnLucky Lu posts big blind 60
+Dealt to Samponi [Tc 2h]
+*** PRE-FLOP *** 
+Wincash12 folds
+Samponi folds
+UnLucky Lu collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: UnLucky Lu (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4668569815131095041-13-1774798671 - Holdem no limit (30/60) - 2026/03/29 15:37:51 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #3 is the button
+Seat 1: UnLucky Lu (225)
+Seat 2: Wincash12 (355)
+Seat 3: Samponi (320)
+*** ANTE/BLINDS ***
+UnLucky Lu posts small blind 30
+Wincash12 posts big blind 60
+Dealt to Samponi [3s 8s]
+*** PRE-FLOP *** 
+Samponi folds
+UnLucky Lu raises 165 to 225 and is all-in
+Wincash12 raises 130 to 355 and is all-in
+*** FLOP *** [5s 7s 2h]
+*** TURN *** [5s 7s 2h][Kc]
+*** RIVER *** [5s 7s 2h Kc][6s]
+*** SHOW DOWN ***
+UnLucky Lu shows [Qh 6d] (One pair : 6)
+Wincash12 shows [Jh 7d] (One pair : 7)
+Wincash12 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5s 7s 2h Kc 6s]
+Seat 1: UnLucky Lu (small blind) showed [Qh 6d] and lost with One pair : 6
+Seat 2: Wincash12 (big blind) showed [Jh 7d] and won 580 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4668569815131095041-14-1774798699 - Holdem no limit (30/60) - 2026/03/29 15:38:19 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Wincash12 (580)
+Seat 3: Samponi (320)
+*** ANTE/BLINDS ***
+Wincash12 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [Kh 7s]
+*** PRE-FLOP *** 
+Wincash12 folds
+Samponi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Samponi (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4668569815131095041-15-1774798704 - Holdem no limit (30/60) - 2026/03/29 15:38:24 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Wincash12 (550)
+Seat 3: Samponi (350)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+Wincash12 posts big blind 60
+Dealt to Samponi [3s Qd]
+*** PRE-FLOP *** 
+Samponi folds
+Wincash12 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Wincash12 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4668569815131095041-16-1774798708 - Holdem no limit (30/60) - 2026/03/29 15:38:28 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Wincash12 (580)
+Seat 3: Samponi (320)
+*** ANTE/BLINDS ***
+Wincash12 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [9d Th]
+*** PRE-FLOP *** 
+Wincash12 folds
+Samponi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Samponi (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4668569815131095041-17-1774798713 - Holdem no limit (30/60) - 2026/03/29 15:38:33 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Wincash12 (550)
+Seat 3: Samponi (350)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+Wincash12 posts big blind 60
+Dealt to Samponi [Ad 8d]
+*** PRE-FLOP *** 
+Samponi raises 290 to 350 and is all-in
+Wincash12 folds
+Samponi collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 3: Samponi (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4668569815131095041-18-1774798720 - Holdem no limit (40/80) - 2026/03/29 15:38:40 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Wincash12 (490)
+Seat 3: Samponi (410)
+*** ANTE/BLINDS ***
+Wincash12 posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [5d 2s]
+*** PRE-FLOP *** 
+Wincash12 raises 410 to 490 and is all-in
+Samponi folds
+Wincash12 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 2: Wincash12 (small blind) (button) won 570
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4668569815131095041-19-1774798728 - Holdem no limit (40/80) - 2026/03/29 15:38:48 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Wincash12 (570)
+Seat 3: Samponi (330)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+Wincash12 posts big blind 80
+Dealt to Samponi [8s 2d]
+*** PRE-FLOP *** 
+Samponi folds
+Wincash12 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Wincash12 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4668569815131095041-20-1774798732 - Holdem no limit (40/80) - 2026/03/29 15:38:52 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Wincash12 (610)
+Seat 3: Samponi (290)
+*** ANTE/BLINDS ***
+Wincash12 posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [Jh 5s]
+*** PRE-FLOP *** 
+Wincash12 folds
+Samponi collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Samponi (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4668569815131095041-21-1774798737 - Holdem no limit (40/80) - 2026/03/29 15:38:57 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Wincash12 (570)
+Seat 3: Samponi (330)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+Wincash12 posts big blind 80
+Dealt to Samponi [3d Qc]
+*** PRE-FLOP *** 
+Samponi folds
+Wincash12 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Wincash12 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4668569815131095041-22-1774798742 - Holdem no limit (40/80) - 2026/03/29 15:39:02 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Wincash12 (610)
+Seat 3: Samponi (290)
+*** ANTE/BLINDS ***
+Wincash12 posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [4d Qd]
+*** PRE-FLOP *** 
+Wincash12 raises 530 to 610 and is all-in
+Samponi folds
+Wincash12 collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Seat 2: Wincash12 (small blind) (button) won 690
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4668569815131095041-23-1774798750 - Holdem no limit (40/80) - 2026/03/29 15:39:10 UTC
+Table: 'Expresso Nitro(1086986115)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Wincash12 (690)
+Seat 3: Samponi (210)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+Wincash12 posts big blind 80
+Dealt to Samponi [As 6s]
+*** PRE-FLOP *** 
+Samponi raises 130 to 210 and is all-in
+Wincash12 calls 130
+*** FLOP *** [Jd 3d 8c]
+*** TURN *** [Jd 3d 8c][Jc]
+*** RIVER *** [Jd 3d 8c Jc][9s]
+*** SHOW DOWN ***
+Samponi shows [As 6s] (One pair : Jacks)
+Wincash12 shows [9d Jh] (Full of Jacks and 9)
+Wincash12 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Jd 3d 8c Jc 9s]
+Seat 2: Wincash12 (big blind) showed [9d Jh] and won 420 with Full of Jacks and 9
+Seat 3: Samponi (small blind) (button) showed [As 6s] and lost with One pair : Jacks
+
+

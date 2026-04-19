@@ -1,0 +1,266 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4694043498091905025-1-1775751675 - Holdem no limit (10/20) - 2026/04/09 16:21:15 UTC
+Table: 'Expresso Nitro(1092917169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (300)
+Seat 2: Diego27flame (300)
+Seat 3: Leo the mad (300)
+*** ANTE/BLINDS ***
+Diego27flame posts small blind 10
+Leo the mad posts big blind 20
+Dealt to Samponi [7c 8h]
+*** PRE-FLOP *** 
+Samponi folds
+Diego27flame raises 20 to 40
+Leo the mad raises 50 to 90
+Diego27flame calls 50
+*** FLOP *** [Js Jd 3s]
+Diego27flame checks
+Leo the mad checks
+*** TURN *** [Js Jd 3s][2c]
+Diego27flame bets 63
+Leo the mad raises 63 to 126
+Diego27flame calls 63
+*** RIVER *** [Js Jd 3s 2c][Tc]
+Diego27flame checks
+Leo the mad checks
+*** SHOW DOWN ***
+Diego27flame shows [9d Qh] (One pair : Jacks)
+Leo the mad shows [6d Kd] (One pair : Jacks)
+Leo the mad collected 432 from pot
+*** SUMMARY ***
+Total pot 432 | No rake
+Board: [Js Jd 3s 2c Tc]
+Seat 2: Diego27flame (small blind) showed [9d Qh] and lost with One pair : Jacks
+Seat 3: Leo the mad (big blind) showed [6d Kd] and won 432 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4694043498091905025-2-1775751714 - Holdem no limit (10/20) - 2026/04/09 16:21:54 UTC
+Table: 'Expresso Nitro(1092917169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (300)
+Seat 2: Diego27flame (84)
+Seat 3: Leo the mad (516)
+*** ANTE/BLINDS ***
+Leo the mad posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [9d 2c]
+*** PRE-FLOP *** 
+Diego27flame folds
+Leo the mad raises 20 to 40
+Samponi folds
+Leo the mad collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Leo the mad (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4694043498091905025-3-1775751731 - Holdem no limit (10/20) - 2026/04/09 16:22:11 UTC
+Table: 'Expresso Nitro(1092917169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (280)
+Seat 2: Diego27flame (84)
+Seat 3: Leo the mad (536)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Diego27flame posts big blind 20
+Dealt to Samponi [6c 7h]
+*** PRE-FLOP *** 
+Leo the mad folds
+Samponi folds
+Diego27flame collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Diego27flame (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4694043498091905025-4-1775751739 - Holdem no limit (15/30) - 2026/04/09 16:22:19 UTC
+Table: 'Expresso Nitro(1092917169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (270)
+Seat 2: Diego27flame (94)
+Seat 3: Leo the mad (536)
+*** ANTE/BLINDS ***
+Diego27flame posts small blind 15
+Leo the mad posts big blind 30
+Dealt to Samponi [Ad 2s]
+*** PRE-FLOP *** 
+Samponi raises 30 to 60
+Diego27flame raises 34 to 94 and is all-in
+Leo the mad calls 64
+Samponi calls 34
+*** FLOP *** [7c 2h 2d]
+Leo the mad checks
+Samponi bets 30
+Leo the mad calls 30
+*** TURN *** [7c 2h 2d][As]
+Leo the mad checks
+Samponi checks
+*** RIVER *** [7c 2h 2d As][Td]
+Leo the mad checks
+Samponi bets 146 and is all-in
+Leo the mad folds
+*** SHOW DOWN ***
+Diego27flame shows [8s Qh] (One pair : 2)
+Samponi shows [Ad 2s] (Full of 2 and Aces)
+Samponi collected 488 from pot
+*** SUMMARY ***
+Total pot 488 | No rake
+Board: [7c 2h 2d As Td]
+Seat 1: Samponi (button) showed [Ad 2s] and won 488 with Full of 2 and Aces
+Seat 2: Diego27flame (small blind) showed [8s Qh] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694043498091905025-5-1775751796 - Holdem no limit (20/40) - 2026/04/09 16:23:16 UTC
+Table: 'Expresso Nitro(1092917169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (488)
+Seat 3: Leo the mad (412)
+*** ANTE/BLINDS ***
+Leo the mad posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [3d As]
+*** PRE-FLOP *** 
+Leo the mad calls 20
+Samponi checks
+*** FLOP *** [Td 4h Ah]
+Samponi checks
+Leo the mad checks
+*** TURN *** [Td 4h Ah][5s]
+Samponi bets 40
+Leo the mad folds
+Samponi collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Td 4h Ah 5s]
+Seat 1: Samponi (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694043498091905025-6-1775751821 - Holdem no limit (20/40) - 2026/04/09 16:23:41 UTC
+Table: 'Expresso Nitro(1092917169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (528)
+Seat 3: Leo the mad (372)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Leo the mad posts big blind 40
+Dealt to Samponi [2h 8c]
+*** PRE-FLOP *** 
+Samponi folds
+Leo the mad collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Leo the mad (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694043498091905025-7-1775751828 - Holdem no limit (20/40) - 2026/04/09 16:23:48 UTC
+Table: 'Expresso Nitro(1092917169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (508)
+Seat 3: Leo the mad (392)
+*** ANTE/BLINDS ***
+Leo the mad posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [Jh 8s]
+*** PRE-FLOP *** 
+Leo the mad calls 20
+Samponi checks
+*** FLOP *** [7d 2c Qd]
+Samponi checks
+Leo the mad bets 40
+Samponi folds
+Leo the mad collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [7d 2c Qd]
+Seat 3: Leo the mad (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694043498091905025-8-1775751839 - Holdem no limit (20/40) - 2026/04/09 16:23:59 UTC
+Table: 'Expresso Nitro(1092917169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (468)
+Seat 3: Leo the mad (432)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Leo the mad posts big blind 40
+Dealt to Samponi [3d 4h]
+*** PRE-FLOP *** 
+Samponi raises 40 to 80
+Leo the mad raises 352 to 432 and is all-in
+Samponi folds
+Leo the mad collected 512 from pot
+*** SUMMARY ***
+Total pot 512 | No rake
+Seat 3: Leo the mad (big blind) won 512
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694043498091905025-9-1775751850 - Holdem no limit (20/40) - 2026/04/09 16:24:10 UTC
+Table: 'Expresso Nitro(1092917169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (388)
+Seat 3: Leo the mad (512)
+*** ANTE/BLINDS ***
+Leo the mad posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [3d Jc]
+*** PRE-FLOP *** 
+Leo the mad calls 20
+Samponi checks
+*** FLOP *** [Td Tc 8c]
+Samponi checks
+Leo the mad checks
+*** TURN *** [Td Tc 8c][5c]
+Samponi checks
+Leo the mad bets 40
+Samponi calls 40
+*** RIVER *** [Td Tc 8c 5c][Js]
+Samponi checks
+Leo the mad bets 240
+Samponi calls 240
+*** SHOW DOWN ***
+Leo the mad shows [4c 2d] (One pair : Tens)
+Samponi shows [3d Jc] (Two pairs : Jacks and Tens)
+Samponi collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Td Tc 8c 5c Js]
+Seat 1: Samponi (big blind) showed [3d Jc] and won 640 with Two pairs : Jacks and Tens
+Seat 3: Leo the mad (small blind) (button) showed [4c 2d] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4694043498091905025-10-1775751891 - Holdem no limit (30/60) - 2026/04/09 16:24:51 UTC
+Table: 'Expresso Nitro(1092917169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (708)
+Seat 3: Leo the mad (192)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+Leo the mad posts big blind 60
+Dealt to Samponi [5s 4h]
+*** PRE-FLOP *** 
+Samponi folds
+Leo the mad collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Leo the mad (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4694043498091905025-11-1775751901 - Holdem no limit (30/60) - 2026/04/09 16:25:01 UTC
+Table: 'Expresso Nitro(1092917169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (678)
+Seat 3: Leo the mad (222)
+*** ANTE/BLINDS ***
+Leo the mad posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [Ac Jc]
+*** PRE-FLOP *** 
+Leo the mad calls 30
+Samponi raises 60 to 120
+Leo the mad calls 60
+*** FLOP *** [Ts Qh Kc]
+Samponi checks
+Leo the mad bets 102 and is all-in
+Samponi calls 102
+*** TURN *** [Ts Qh Kc][2s]
+*** RIVER *** [Ts Qh Kc 2s][Kd]
+*** SHOW DOWN ***
+Leo the mad shows [2c Jd] (Two pairs : Kings and 2)
+Samponi shows [Ac Jc] (Straight Ace high)
+Samponi collected 444 from pot
+*** SUMMARY ***
+Total pot 444 | No rake
+Board: [Ts Qh Kc 2s Kd]
+Seat 1: Samponi (big blind) showed [Ac Jc] and won 444 with Straight Ace high
+Seat 3: Leo the mad (small blind) (button) showed [2c Jd] and lost with Two pairs : Kings and 2
+
+

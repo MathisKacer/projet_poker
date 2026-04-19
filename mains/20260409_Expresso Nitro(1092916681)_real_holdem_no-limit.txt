@@ -1,0 +1,54 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4694041402147864577-1-1775751617 - Holdem no limit (10/20) - 2026/04/09 16:20:17 UTC
+Table: 'Expresso Nitro(1092916681)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (300)
+Seat 2: R.Ta (300)
+Seat 3: Gabygboss974 (300)
+*** ANTE/BLINDS ***
+Gabygboss974 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [9s Th]
+*** PRE-FLOP *** 
+R.Ta folds
+Gabygboss974 calls 10
+Samponi checks
+*** FLOP *** [Ah 4s 7c]
+Gabygboss974 checks
+Samponi checks
+*** TURN *** [Ah 4s 7c][Ad]
+Gabygboss974 bets 20
+Samponi folds
+Gabygboss974 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ah 4s 7c Ad]
+Seat 3: Gabygboss974 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4694041402147864577-2-1775751640 - Holdem no limit (10/20) - 2026/04/09 16:20:40 UTC
+Table: 'Expresso Nitro(1092916681)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (280)
+Seat 2: R.Ta (300)
+Seat 3: Gabygboss974 (320)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+R.Ta posts big blind 20
+Dealt to Samponi [Kh Td]
+*** PRE-FLOP *** 
+Gabygboss974 calls 20
+Samponi raises 260 to 280 and is all-in
+R.Ta folds
+Gabygboss974 calls 260
+*** FLOP *** [4s 9h 6h]
+*** TURN *** [4s 9h 6h][Jd]
+*** RIVER *** [4s 9h 6h Jd][6d]
+*** SHOW DOWN ***
+Samponi shows [Kh Td] (One pair : 6)
+Gabygboss974 shows [4c Ad] (Two pairs : 6 and 4)
+Gabygboss974 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [4s 9h 6h Jd 6d]
+Seat 1: Samponi (small blind) showed [Kh Td] and lost with One pair : 6
+Seat 3: Gabygboss974 (button) showed [4c Ad] and won 580 with Two pairs : 6 and 4
+
+

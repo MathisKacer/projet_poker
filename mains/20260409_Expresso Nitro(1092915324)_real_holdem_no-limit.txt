@@ -1,0 +1,412 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4694035573877243905-1-1775751449 - Holdem no limit (10/20) - 2026/04/09 16:17:29 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #3 is the button
+Seat 1: FredBeau1 (300)
+Seat 2: Samponi (300)
+Seat 3: DocteurBOB (300)
+*** ANTE/BLINDS ***
+FredBeau1 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [As 8d]
+*** PRE-FLOP *** 
+DocteurBOB calls 20
+FredBeau1 calls 10
+Samponi raises 20 to 40
+DocteurBOB calls 20
+FredBeau1 calls 20
+*** FLOP *** [4h Ah 8c]
+FredBeau1 checks
+Samponi checks
+DocteurBOB bets 120
+FredBeau1 folds
+Samponi raises 140 to 260 and is all-in
+DocteurBOB calls 140 and is all-in
+*** TURN *** [4h Ah 8c][Tc]
+*** RIVER *** [4h Ah 8c Tc][8h]
+*** SHOW DOWN ***
+DocteurBOB shows [Th 4d] (Two pairs : Tens and 8)
+Samponi shows [As 8d] (Full of 8 and Aces)
+Samponi collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [4h Ah 8c Tc 8h]
+Seat 2: Samponi (big blind) showed [As 8d] and won 640 with Full of 8 and Aces
+Seat 3: DocteurBOB (button) showed [Th 4d] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4694035573877243905-2-1775751506 - Holdem no limit (15/30) - 2026/04/09 16:18:26 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FredBeau1 (260)
+Seat 2: Samponi (640)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+FredBeau1 posts big blind 30
+Dealt to Samponi [5s Qd]
+*** PRE-FLOP *** 
+Samponi raises 30 to 60
+FredBeau1 calls 30
+*** FLOP *** [6s 6c 4h]
+FredBeau1 checks
+Samponi bets 30
+FredBeau1 calls 30
+*** TURN *** [6s 6c 4h][Qh]
+FredBeau1 checks
+Samponi bets 30
+FredBeau1 calls 30
+*** RIVER *** [6s 6c 4h Qh][8h]
+FredBeau1 checks
+Samponi bets 60
+FredBeau1 folds
+Samponi collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [6s 6c 4h Qh 8h]
+Seat 2: Samponi (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4694035573877243905-3-1775751538 - Holdem no limit (15/30) - 2026/04/09 16:18:58 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FredBeau1 (140)
+Seat 2: Samponi (760)
+*** ANTE/BLINDS ***
+FredBeau1 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [Qs Qh]
+*** PRE-FLOP *** 
+FredBeau1 folds
+Samponi collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Samponi (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4694035573877243905-4-1775751543 - Holdem no limit (15/30) - 2026/04/09 16:19:03 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FredBeau1 (125)
+Seat 2: Samponi (775)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+FredBeau1 posts big blind 30
+Dealt to Samponi [Qd 4d]
+*** PRE-FLOP *** 
+Samponi folds
+FredBeau1 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: FredBeau1 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4694035573877243905-5-1775751554 - Holdem no limit (15/30) - 2026/04/09 16:19:14 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FredBeau1 (140)
+Seat 2: Samponi (760)
+*** ANTE/BLINDS ***
+FredBeau1 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [Qh 2h]
+*** PRE-FLOP *** 
+FredBeau1 raises 110 to 140 and is all-in
+Samponi folds
+FredBeau1 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Seat 1: FredBeau1 (small blind) (button) won 170
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694035573877243905-6-1775751573 - Holdem no limit (20/40) - 2026/04/09 16:19:33 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FredBeau1 (170)
+Seat 2: Samponi (730)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+FredBeau1 posts big blind 40
+Dealt to Samponi [Qd 3s]
+*** PRE-FLOP *** 
+Samponi raises 40 to 80
+FredBeau1 raises 90 to 170 and is all-in
+Samponi folds
+FredBeau1 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 1: FredBeau1 (big blind) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694035573877243905-7-1775751599 - Holdem no limit (20/40) - 2026/04/09 16:19:59 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FredBeau1 (250)
+Seat 2: Samponi (650)
+*** ANTE/BLINDS ***
+FredBeau1 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [3d Ks]
+*** PRE-FLOP *** 
+FredBeau1 raises 210 to 250 and is all-in
+Samponi folds
+FredBeau1 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 1: FredBeau1 (small blind) (button) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694035573877243905-8-1775751609 - Holdem no limit (20/40) - 2026/04/09 16:20:09 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FredBeau1 (290)
+Seat 2: Samponi (610)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+FredBeau1 posts big blind 40
+Dealt to Samponi [9c 9s]
+*** PRE-FLOP *** 
+Samponi raises 570 to 610 and is all-in
+FredBeau1 folds
+Samponi collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 2: Samponi (small blind) (button) won 650
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694035573877243905-9-1775751621 - Holdem no limit (20/40) - 2026/04/09 16:20:21 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FredBeau1 (250)
+Seat 2: Samponi (650)
+*** ANTE/BLINDS ***
+FredBeau1 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [8c 9c]
+*** PRE-FLOP *** 
+FredBeau1 raises 210 to 250 and is all-in
+Samponi calls 210
+*** FLOP *** [2h 6c Js]
+*** TURN *** [2h 6c Js][Ac]
+*** RIVER *** [2h 6c Js Ac][2s]
+*** SHOW DOWN ***
+Samponi shows [8c 9c] (One pair : 2)
+FredBeau1 shows [8d Jc] (Two pairs : Jacks and 2)
+FredBeau1 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [2h 6c Js Ac 2s]
+Seat 1: FredBeau1 (small blind) (button) showed [8d Jc] and won 500 with Two pairs : Jacks and 2
+Seat 2: Samponi (big blind) showed [8c 9c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4694035573877243905-10-1775751635 - Holdem no limit (30/60) - 2026/04/09 16:20:35 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FredBeau1 (500)
+Seat 2: Samponi (400)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+FredBeau1 posts big blind 60
+Dealt to Samponi [8d 4c]
+*** PRE-FLOP *** 
+Samponi folds
+FredBeau1 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: FredBeau1 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4694035573877243905-11-1775751642 - Holdem no limit (30/60) - 2026/04/09 16:20:42 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FredBeau1 (530)
+Seat 2: Samponi (370)
+*** ANTE/BLINDS ***
+FredBeau1 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [8h Jh]
+*** PRE-FLOP *** 
+FredBeau1 calls 30
+Samponi raises 310 to 370 and is all-in
+FredBeau1 folds
+Samponi collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 2: Samponi (big blind) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4694035573877243905-12-1775751650 - Holdem no limit (30/60) - 2026/04/09 16:20:50 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FredBeau1 (470)
+Seat 2: Samponi (430)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+FredBeau1 posts big blind 60
+Dealt to Samponi [6h 3d]
+*** PRE-FLOP *** 
+Samponi folds
+FredBeau1 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: FredBeau1 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4694035573877243905-13-1775751659 - Holdem no limit (30/60) - 2026/04/09 16:20:59 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FredBeau1 (500)
+Seat 2: Samponi (400)
+*** ANTE/BLINDS ***
+FredBeau1 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [Qh Tc]
+*** PRE-FLOP *** 
+FredBeau1 folds
+Samponi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Samponi (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4694035573877243905-14-1775751663 - Holdem no limit (30/60) - 2026/04/09 16:21:03 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FredBeau1 (470)
+Seat 2: Samponi (430)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+FredBeau1 posts big blind 60
+Dealt to Samponi [4c 5c]
+*** PRE-FLOP *** 
+Samponi raises 60 to 120
+FredBeau1 calls 60
+*** FLOP *** [Kd 5h 6c]
+FredBeau1 checks
+Samponi bets 310 and is all-in
+FredBeau1 folds
+Samponi collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Kd 5h 6c]
+Seat 2: Samponi (small blind) (button) won 550
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4694035573877243905-15-1775751678 - Holdem no limit (30/60) - 2026/04/09 16:21:18 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FredBeau1 (350)
+Seat 2: Samponi (550)
+*** ANTE/BLINDS ***
+FredBeau1 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [3s Qs]
+*** PRE-FLOP *** 
+FredBeau1 raises 290 to 350 and is all-in
+Samponi folds
+FredBeau1 collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 1: FredBeau1 (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4694035573877243905-16-1775751696 - Holdem no limit (40/80) - 2026/04/09 16:21:36 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FredBeau1 (410)
+Seat 2: Samponi (490)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+FredBeau1 posts big blind 80
+Dealt to Samponi [Td 3h]
+*** PRE-FLOP *** 
+Samponi folds
+FredBeau1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: FredBeau1 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4694035573877243905-17-1775751703 - Holdem no limit (40/80) - 2026/04/09 16:21:43 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FredBeau1 (450)
+Seat 2: Samponi (450)
+*** ANTE/BLINDS ***
+FredBeau1 posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [Qc Ts]
+*** PRE-FLOP *** 
+FredBeau1 raises 370 to 450 and is all-in
+Samponi folds
+FredBeau1 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 1: FredBeau1 (small blind) (button) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4694035573877243905-18-1775751713 - Holdem no limit (40/80) - 2026/04/09 16:21:53 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FredBeau1 (530)
+Seat 2: Samponi (370)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+FredBeau1 posts big blind 80
+Dealt to Samponi [Tc Ad]
+*** PRE-FLOP *** 
+Samponi raises 290 to 370 and is all-in
+FredBeau1 calls 290
+*** FLOP *** [As 6h 3s]
+*** TURN *** [As 6h 3s][7d]
+*** RIVER *** [As 6h 3s 7d][9s]
+*** SHOW DOWN ***
+FredBeau1 shows [Kd Td] (High card : Ace)
+Samponi shows [Tc Ad] (One pair : Aces)
+Samponi collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [As 6h 3s 7d 9s]
+Seat 1: FredBeau1 (big blind) showed [Kd Td] and lost with High card : Ace
+Seat 2: Samponi (small blind) (button) showed [Tc Ad] and won 740 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4694035573877243905-19-1775751729 - Holdem no limit (40/80) - 2026/04/09 16:22:09 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FredBeau1 (160)
+Seat 2: Samponi (740)
+*** ANTE/BLINDS ***
+FredBeau1 posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [6s 4c]
+*** PRE-FLOP *** 
+FredBeau1 raises 80 to 160 and is all-in
+Samponi folds
+FredBeau1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: FredBeau1 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4694035573877243905-20-1775751745 - Holdem no limit (40/80) - 2026/04/09 16:22:25 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #2 is the button
+Seat 1: FredBeau1 (240)
+Seat 2: Samponi (660)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+FredBeau1 posts big blind 80
+Dealt to Samponi [Qc 6d]
+*** PRE-FLOP *** 
+Samponi folds
+FredBeau1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: FredBeau1 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 6 - HandId: #4694035573877243905-21-1775751766 - Holdem no limit (50/100) - 2026/04/09 16:22:46 UTC
+Table: 'Expresso Nitro(1092915324)#0' 3-max (real money) Seat #1 is the button
+Seat 1: FredBeau1 (280)
+Seat 2: Samponi (620)
+*** ANTE/BLINDS ***
+FredBeau1 posts small blind 50
+Samponi posts big blind 100
+Dealt to Samponi [8c Kh]
+*** PRE-FLOP *** 
+FredBeau1 raises 180 to 280 and is all-in
+Samponi calls 180
+*** FLOP *** [Jh 4c 8h]
+*** TURN *** [Jh 4c 8h][6h]
+*** RIVER *** [Jh 4c 8h 6h][Qs]
+*** SHOW DOWN ***
+FredBeau1 shows [6s Kd] (One pair : 6)
+Samponi shows [8c Kh] (One pair : 8)
+Samponi collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Jh 4c 8h 6h Qs]
+Seat 1: FredBeau1 (small blind) (button) showed [6s Kd] and lost with One pair : 6
+Seat 2: Samponi (big blind) showed [8c Kh] and won 560 with One pair : 8
+
+

@@ -1,0 +1,283 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668542477664256001-1-1774797509 - Holdem no limit (10/20) - 2026/03/29 15:18:29 UTC
+Table: 'Expresso Nitro(1086979750)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (300)
+Seat 2: HD Boss8620 (300)
+Seat 3: JaaviFA (300)
+*** ANTE/BLINDS ***
+HD Boss8620 posts small blind 10
+JaaviFA posts big blind 20
+Dealt to Samponi [8c 6d]
+*** PRE-FLOP *** 
+Samponi folds
+HD Boss8620 calls 10
+JaaviFA checks
+*** FLOP *** [Jd Kc Jh]
+HD Boss8620 checks
+JaaviFA checks
+*** TURN *** [Jd Kc Jh][Kh]
+HD Boss8620 checks
+JaaviFA checks
+*** RIVER *** [Jd Kc Jh Kh][Js]
+HD Boss8620 bets 20
+JaaviFA raises 20 to 40
+HD Boss8620 calls 20
+*** SHOW DOWN ***
+HD Boss8620 shows [Ts 7h] (Full of Jacks and Kings)
+JaaviFA shows [5d 7d] (Full of Jacks and Kings)
+JaaviFA collected 60 from pot
+HD Boss8620 collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jd Kc Jh Kh Js]
+Seat 2: HD Boss8620 (small blind) showed [Ts 7h] and won 60 with Full of Jacks and Kings
+Seat 3: JaaviFA (big blind) showed [5d 7d] and won 60 with Full of Jacks and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668542477664256001-2-1774797529 - Holdem no limit (10/20) - 2026/03/29 15:18:49 UTC
+Table: 'Expresso Nitro(1086979750)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (300)
+Seat 2: HD Boss8620 (300)
+Seat 3: JaaviFA (300)
+*** ANTE/BLINDS ***
+JaaviFA posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [5h Ac]
+*** PRE-FLOP *** 
+HD Boss8620 calls 20
+JaaviFA calls 10
+Samponi checks
+*** FLOP *** [Td 3h Kh]
+JaaviFA checks
+Samponi checks
+HD Boss8620 checks
+*** TURN *** [Td 3h Kh][6h]
+JaaviFA checks
+Samponi checks
+HD Boss8620 bets 20
+JaaviFA folds
+Samponi folds
+HD Boss8620 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Td 3h Kh 6h]
+Seat 2: HD Boss8620 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668542477664256001-3-1774797563 - Holdem no limit (10/20) - 2026/03/29 15:19:23 UTC
+Table: 'Expresso Nitro(1086979750)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (280)
+Seat 2: HD Boss8620 (340)
+Seat 3: JaaviFA (280)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+HD Boss8620 posts big blind 20
+Dealt to Samponi [8s 7s]
+*** PRE-FLOP *** 
+JaaviFA calls 20
+Samponi calls 10
+HD Boss8620 checks
+*** FLOP *** [Th 9c Jd]
+Samponi bets 260 and is all-in
+HD Boss8620 calls 260
+JaaviFA folds
+*** TURN *** [Th 9c Jd][2h]
+*** RIVER *** [Th 9c Jd 2h][3s]
+*** SHOW DOWN ***
+HD Boss8620 shows [5h Ad] (High card : Ace)
+Samponi shows [8s 7s] (Straight Jack high)
+Samponi collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Th 9c Jd 2h 3s]
+Seat 1: Samponi (small blind) showed [8s 7s] and won 580 with Straight Jack high
+Seat 2: HD Boss8620 (big blind) showed [5h Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668542477664256001-4-1774797595 - Holdem no limit (15/30) - 2026/03/29 15:19:55 UTC
+Table: 'Expresso Nitro(1086979750)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (580)
+Seat 2: HD Boss8620 (60)
+Seat 3: JaaviFA (260)
+*** ANTE/BLINDS ***
+HD Boss8620 posts small blind 15
+JaaviFA posts big blind 30
+Dealt to Samponi [8c 4s]
+*** PRE-FLOP *** 
+Samponi folds
+HD Boss8620 raises 30 to 60 and is all-in
+JaaviFA calls 30
+*** FLOP *** [Qc 9d 5s]
+*** TURN *** [Qc 9d 5s][7c]
+*** RIVER *** [Qc 9d 5s 7c][Ks]
+*** SHOW DOWN ***
+JaaviFA shows [Qs 2d] (One pair : Queens)
+HD Boss8620 shows [8d Kc] (One pair : Kings)
+HD Boss8620 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qc 9d 5s 7c Ks]
+Seat 2: HD Boss8620 (small blind) showed [8d Kc] and won 120 with One pair : Kings
+Seat 3: JaaviFA (big blind) showed [Qs 2d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668542477664256001-5-1774797610 - Holdem no limit (15/30) - 2026/03/29 15:20:10 UTC
+Table: 'Expresso Nitro(1086979750)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (580)
+Seat 2: HD Boss8620 (120)
+Seat 3: JaaviFA (200)
+*** ANTE/BLINDS ***
+JaaviFA posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [2d 9h]
+*** PRE-FLOP *** 
+HD Boss8620 raises 90 to 120 and is all-in
+JaaviFA folds
+Samponi folds
+HD Boss8620 collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Seat 2: HD Boss8620 (button) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668542477664256001-6-1774797623 - Holdem no limit (15/30) - 2026/03/29 15:20:23 UTC
+Table: 'Expresso Nitro(1086979750)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (550)
+Seat 2: HD Boss8620 (165)
+Seat 3: JaaviFA (185)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+HD Boss8620 posts big blind 30
+Dealt to Samponi [2s 4c]
+*** PRE-FLOP *** 
+JaaviFA calls 30
+Samponi folds
+HD Boss8620 checks
+*** FLOP *** [Qh Ac Jc]
+HD Boss8620 checks
+JaaviFA bets 49
+HD Boss8620 folds
+JaaviFA collected 124 from pot
+*** SUMMARY ***
+Total pot 124 | No rake
+Board: [Qh Ac Jc]
+Seat 3: JaaviFA (button) won 124
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668542477664256001-7-1774797639 - Holdem no limit (20/40) - 2026/03/29 15:20:39 UTC
+Table: 'Expresso Nitro(1086979750)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (535)
+Seat 2: HD Boss8620 (135)
+Seat 3: JaaviFA (230)
+*** ANTE/BLINDS ***
+HD Boss8620 posts small blind 20
+JaaviFA posts big blind 40
+Dealt to Samponi [8d 4s]
+*** PRE-FLOP *** 
+Samponi folds
+HD Boss8620 calls 20
+JaaviFA checks
+*** FLOP *** [9h 3s 9s]
+HD Boss8620 bets 40
+JaaviFA calls 40
+*** TURN *** [9h 3s 9s][8s]
+HD Boss8620 bets 55 and is all-in
+JaaviFA calls 55
+*** RIVER *** [9h 3s 9s 8s][6c]
+*** SHOW DOWN ***
+JaaviFA shows [2d 9c] (Trips of 9)
+HD Boss8620 shows [Kh 9d] (Trips of 9)
+HD Boss8620 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [9h 3s 9s 8s 6c]
+Seat 2: HD Boss8620 (small blind) showed [Kh 9d] and won 270 with Trips of 9
+Seat 3: JaaviFA (big blind) showed [2d 9c] and lost with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668542477664256001-8-1774797660 - Holdem no limit (20/40) - 2026/03/29 15:21:00 UTC
+Table: 'Expresso Nitro(1086979750)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (535)
+Seat 2: HD Boss8620 (270)
+Seat 3: JaaviFA (95)
+*** ANTE/BLINDS ***
+JaaviFA posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [7c 8h]
+*** PRE-FLOP *** 
+HD Boss8620 calls 40
+JaaviFA folds
+Samponi checks
+*** FLOP *** [3c Qd As]
+Samponi checks
+HD Boss8620 checks
+*** TURN *** [3c Qd As][4c]
+Samponi checks
+HD Boss8620 checks
+*** RIVER *** [3c Qd As 4c][Jh]
+Samponi checks
+HD Boss8620 checks
+*** SHOW DOWN ***
+Samponi shows [7c 8h] (High card : Ace)
+HD Boss8620 shows [4s 9d] (One pair : 4)
+HD Boss8620 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [3c Qd As 4c Jh]
+Seat 1: Samponi (big blind) showed [7c 8h] and lost with High card : Ace
+Seat 2: HD Boss8620 (button) showed [4s 9d] and won 100 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4668542477664256001-9-1774797689 - Holdem no limit (30/60) - 2026/03/29 15:21:29 UTC
+Table: 'Expresso Nitro(1086979750)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (495)
+Seat 2: HD Boss8620 (330)
+Seat 3: JaaviFA (75)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+HD Boss8620 posts big blind 60
+Dealt to Samponi [5d 9d]
+*** PRE-FLOP *** 
+JaaviFA raises 15 to 75 and is all-in
+Samponi folds
+HD Boss8620 calls 15
+*** FLOP *** [4h Kh 4c]
+*** TURN *** [4h Kh 4c][6s]
+*** RIVER *** [4h Kh 4c 6s][5s]
+*** SHOW DOWN ***
+JaaviFA shows [2d Td] (One pair : 4)
+HD Boss8620 shows [Ts 5h] (Two pairs : 5 and 4)
+HD Boss8620 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4h Kh 4c 6s 5s]
+Seat 2: HD Boss8620 (big blind) showed [Ts 5h] and won 180 with Two pairs : 5 and 4
+Seat 3: JaaviFA (button) showed [2d Td] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4668542477664256001-10-1774797702 - Holdem no limit (30/60) - 2026/03/29 15:21:42 UTC
+Table: 'Expresso Nitro(1086979750)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (465)
+Seat 2: HD Boss8620 (435)
+*** ANTE/BLINDS ***
+HD Boss8620 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [5h 4h]
+*** PRE-FLOP *** 
+HD Boss8620 calls 30
+Samponi checks
+*** FLOP *** [7s Kd 6s]
+Samponi bets 405 and is all-in
+HD Boss8620 calls 375 and is all-in
+*** TURN *** [7s Kd 6s][9c]
+*** RIVER *** [7s Kd 6s 9c][3s]
+*** SHOW DOWN ***
+HD Boss8620 shows [Qs 7h] (One pair : 7)
+Samponi shows [5h 4h] (Straight 7 high)
+Samponi collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7s Kd 6s 9c 3s]
+Seat 1: Samponi (big blind) showed [5h 4h] and won 900 with Straight 7 high
+Seat 2: HD Boss8620 (small blind) (button) showed [Qs 7h] and lost with One pair : 7
+
+

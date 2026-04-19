@@ -1,0 +1,249 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668548228625465345-1-1774797725 - Holdem no limit (10/20) - 2026/03/29 15:22:05 UTC
+Table: 'Expresso Nitro(1086981089)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Elyna2601 (300)
+Seat 2: Math88390 (300)
+Seat 3: Samponi (300)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Elyna2601 posts big blind 20
+Dealt to Samponi [Ts 8s]
+*** PRE-FLOP *** 
+Math88390 calls 20
+Samponi calls 10
+Elyna2601 checks
+*** FLOP *** [Jd As 5c]
+Samponi checks
+Elyna2601 checks
+Math88390 checks
+*** TURN *** [Jd As 5c][6d]
+Samponi checks
+Elyna2601 checks
+Math88390 checks
+*** RIVER *** [Jd As 5c 6d][9s]
+Samponi checks
+Elyna2601 checks
+Math88390 checks
+*** SHOW DOWN ***
+Elyna2601 shows [Qh 8h] (High card : Ace)
+Samponi shows [Ts 8s] (High card : Ace)
+Math88390 shows [Kd 2s] (High card : Ace)
+Math88390 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Jd As 5c 6d 9s]
+Seat 1: Elyna2601 (big blind) showed [Qh 8h] and lost with High card : Ace
+Seat 2: Math88390 (button) showed [Kd 2s] and won 60 with High card : Ace
+Seat 3: Samponi (small blind) showed [Ts 8s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668548228625465345-2-1774797765 - Holdem no limit (10/20) - 2026/03/29 15:22:45 UTC
+Table: 'Expresso Nitro(1086981089)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Elyna2601 (280)
+Seat 2: Math88390 (340)
+Seat 3: Samponi (280)
+*** ANTE/BLINDS ***
+Elyna2601 posts small blind 10
+Math88390 posts big blind 20
+Dealt to Samponi [6d 2d]
+*** PRE-FLOP *** 
+Samponi folds
+Elyna2601 calls 10
+Math88390 checks
+*** FLOP *** [8c 4h Kh]
+Elyna2601 checks
+Math88390 checks
+*** TURN *** [8c 4h Kh][2s]
+Elyna2601 checks
+Math88390 checks
+*** RIVER *** [8c 4h Kh 2s][Ah]
+Elyna2601 bets 60
+Math88390 folds
+Elyna2601 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [8c 4h Kh 2s Ah]
+Seat 1: Elyna2601 (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668548228625465345-3-1774797804 - Holdem no limit (15/30) - 2026/03/29 15:23:24 UTC
+Table: 'Expresso Nitro(1086981089)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Elyna2601 (300)
+Seat 2: Math88390 (320)
+Seat 3: Samponi (280)
+*** ANTE/BLINDS ***
+Math88390 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [Qh 5c]
+*** PRE-FLOP *** 
+Elyna2601 folds
+Math88390 calls 15
+Samponi checks
+*** FLOP *** [8c Js Qc]
+Math88390 checks
+Samponi bets 30
+Math88390 calls 30
+*** TURN *** [8c Js Qc][Td]
+Math88390 checks
+Samponi checks
+*** RIVER *** [8c Js Qc Td][5h]
+Math88390 checks
+Samponi bets 30
+Math88390 folds
+Samponi collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [8c Js Qc Td 5h]
+Seat 3: Samponi (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668548228625465345-4-1774797844 - Holdem no limit (20/40) - 2026/03/29 15:24:04 UTC
+Table: 'Expresso Nitro(1086981089)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Elyna2601 (300)
+Seat 2: Math88390 (260)
+Seat 3: Samponi (340)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Elyna2601 posts big blind 40
+Dealt to Samponi [4d 7h]
+*** PRE-FLOP *** 
+Math88390 folds
+Samponi folds
+Elyna2601 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Elyna2601 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668548228625465345-5-1774797851 - Holdem no limit (20/40) - 2026/03/29 15:24:11 UTC
+Table: 'Expresso Nitro(1086981089)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Elyna2601 (320)
+Seat 2: Math88390 (260)
+Seat 3: Samponi (320)
+*** ANTE/BLINDS ***
+Elyna2601 posts small blind 20
+Math88390 posts big blind 40
+Dealt to Samponi [8s Qs]
+*** PRE-FLOP *** 
+Samponi folds
+Elyna2601 calls 20
+Math88390 checks
+*** FLOP *** [5d Kh Ks]
+Elyna2601 checks
+Math88390 checks
+*** TURN *** [5d Kh Ks][Kc]
+Elyna2601 checks
+Math88390 checks
+*** RIVER *** [5d Kh Ks Kc][2c]
+Elyna2601 checks
+Math88390 bets 80
+Elyna2601 folds
+Math88390 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [5d Kh Ks Kc 2c]
+Seat 2: Math88390 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668548228625465345-6-1774797898 - Holdem no limit (20/40) - 2026/03/29 15:24:58 UTC
+Table: 'Expresso Nitro(1086981089)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Elyna2601 (280)
+Seat 2: Math88390 (300)
+Seat 3: Samponi (320)
+*** ANTE/BLINDS ***
+Math88390 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [Ts Js]
+*** PRE-FLOP *** 
+Elyna2601 folds
+Math88390 raises 260 to 300 and is all-in
+Samponi calls 260
+*** FLOP *** [4s Ac 3c]
+*** TURN *** [4s Ac 3c][Ad]
+*** RIVER *** [4s Ac 3c Ad][Qh]
+*** SHOW DOWN ***
+Samponi shows [Ts Js] (One pair : Aces)
+Math88390 shows [Ah Kc] (Trips of Aces)
+Math88390 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4s Ac 3c Ad Qh]
+Seat 2: Math88390 (small blind) showed [Ah Kc] and won 600 with Trips of Aces
+Seat 3: Samponi (big blind) showed [Ts Js] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4668548228625465345-7-1774797923 - Holdem no limit (30/60) - 2026/03/29 15:25:23 UTC
+Table: 'Expresso Nitro(1086981089)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Elyna2601 (280)
+Seat 2: Math88390 (600)
+Seat 3: Samponi (20)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20 and is all-in
+Elyna2601 posts big blind 60
+Dealt to Samponi [5s 4s]
+*** PRE-FLOP *** 
+Math88390 calls 60
+Elyna2601 checks
+*** FLOP *** [Td Js 5h]
+Elyna2601 checks
+Math88390 checks
+*** TURN *** [Td Js 5h][3s]
+Elyna2601 checks
+Math88390 bets 60
+Elyna2601 folds
+*** RIVER *** [Td Js 5h 3s][7h]
+*** SHOW DOWN ***
+Math88390 shows [Qd 9d] (High card : Queen)
+Samponi shows [5s 4s] (One pair : 5)
+Samponi collected 60 from main pot
+Math88390 collected 140 from side pot 1
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Td Js 5h 3s 7h]
+Seat 2: Math88390 (button) showed [Qd 9d] and won 140 with High card : Queen
+Seat 3: Samponi (small blind) showed [5s 4s] and won 60 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4668548228625465345-8-1774797953 - Holdem no limit (30/60) - 2026/03/29 15:25:53 UTC
+Table: 'Expresso Nitro(1086981089)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Elyna2601 (220)
+Seat 2: Math88390 (620)
+Seat 3: Samponi (60)
+*** ANTE/BLINDS ***
+Elyna2601 posts small blind 30
+Math88390 posts big blind 60
+Dealt to Samponi [Th 7d]
+*** PRE-FLOP *** 
+Samponi folds
+Elyna2601 folds
+Math88390 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Math88390 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4668548228625465345-9-1774797968 - Holdem no limit (40/80) - 2026/03/29 15:26:08 UTC
+Table: 'Expresso Nitro(1086981089)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Elyna2601 (190)
+Seat 2: Math88390 (650)
+Seat 3: Samponi (60)
+*** ANTE/BLINDS ***
+Math88390 posts small blind 40
+Samponi posts big blind 60 and is all-in
+Dealt to Samponi [Qc 2s]
+*** PRE-FLOP *** 
+Elyna2601 calls 80
+Math88390 folds
+*** FLOP *** [6s 8h Jc]
+*** TURN *** [6s 8h Jc][7s]
+*** RIVER *** [6s 8h Jc 7s][3c]
+*** SHOW DOWN ***
+Samponi shows [Qc 2s] (High card : Queen)
+Elyna2601 shows [2h Ac] (High card : Ace)
+Elyna2601 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [6s 8h Jc 7s 3c]
+Seat 1: Elyna2601 (button) showed [2h Ac] and won 180 with High card : Ace
+Seat 3: Samponi (big blind) showed [Qc 2s] and lost with High card : Queen
+
+

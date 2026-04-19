@@ -1,0 +1,397 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4715939232776978433-1-1776607724 - Holdem no limit (10/20) - 2026/04/19 14:08:44 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zeushera (500)
+Seat 2: Samponi (500)
+Seat 3: Arkael (500)
+*** ANTE/BLINDS ***
+Arkael posts small blind 10
+zeushera posts big blind 20
+Dealt to Samponi [3d 6s]
+*** PRE-FLOP *** 
+Samponi folds
+Arkael folds
+zeushera collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: zeushera (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4715939232776978433-2-1776607731 - Holdem no limit (10/20) - 2026/04/19 14:08:51 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #3 is the button
+Seat 1: zeushera (510)
+Seat 2: Samponi (500)
+Seat 3: Arkael (490)
+*** ANTE/BLINDS ***
+zeushera posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [3c Ts]
+*** PRE-FLOP *** 
+Arkael folds
+zeushera folds
+Samponi collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Samponi (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4715939232776978433-3-1776607741 - Holdem no limit (10/20) - 2026/04/19 14:09:01 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zeushera (500)
+Seat 2: Samponi (510)
+Seat 3: Arkael (490)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Arkael posts big blind 20
+Dealt to Samponi [Js 2s]
+*** PRE-FLOP *** 
+zeushera calls 20
+Samponi calls 10
+Arkael checks
+*** FLOP *** [As 5c 9s]
+Samponi bets 39
+Arkael calls 39
+zeushera folds
+*** TURN *** [As 5c 9s][6d]
+Samponi checks
+Arkael checks
+*** RIVER *** [As 5c 9s 6d][8d]
+Samponi bets 451 and is all-in
+Arkael folds
+Samponi collected 589 from pot
+*** SUMMARY ***
+Total pot 589 | No rake
+Board: [As 5c 9s 6d 8d]
+Seat 2: Samponi (small blind) won 589
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4715939232776978433-4-1776607772 - Holdem no limit (10/20) - 2026/04/19 14:09:32 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zeushera (480)
+Seat 2: Samponi (589)
+Seat 3: Arkael (431)
+*** ANTE/BLINDS ***
+Arkael posts small blind 10
+zeushera posts big blind 20
+Dealt to Samponi [8h 7h]
+*** PRE-FLOP *** 
+Samponi calls 20
+Arkael calls 10
+zeushera raises 30 to 50
+Samponi calls 30
+Arkael calls 30
+*** FLOP *** [Jd Js 3c]
+Arkael checks
+zeushera bets 98
+Samponi folds
+Arkael folds
+zeushera collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [Jd Js 3c]
+Seat 1: zeushera (big blind) won 248
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4715939232776978433-5-1776607797 - Holdem no limit (10/20) - 2026/04/19 14:09:57 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #3 is the button
+Seat 1: zeushera (580)
+Seat 2: Samponi (539)
+Seat 3: Arkael (381)
+*** ANTE/BLINDS ***
+zeushera posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [Qd Jc]
+*** PRE-FLOP *** 
+Arkael calls 20
+zeushera folds
+Samponi raises 20 to 40
+Arkael calls 20
+*** FLOP *** [8d Qs 9h]
+Samponi bets 23
+Arkael raises 23 to 46
+Samponi raises 23 to 69
+Arkael raises 23 to 92
+Samponi calls 23
+*** TURN *** [8d Qs 9h][2h]
+Samponi checks
+Arkael bets 100
+Samponi calls 100
+*** RIVER *** [8d Qs 9h 2h][9s]
+Samponi checks
+Arkael bets 149 and is all-in
+Samponi calls 149
+*** SHOW DOWN ***
+Arkael shows [Td Qh] (Two pairs : Queens and 9)
+Samponi shows [Qd Jc] (Two pairs : Queens and 9)
+Samponi collected 772 from pot
+*** SUMMARY ***
+Total pot 772 | No rake
+Board: [8d Qs 9h 2h 9s]
+Seat 2: Samponi (big blind) showed [Qd Jc] and won 772 with Two pairs : Queens and 9
+Seat 3: Arkael (button) showed [Td Qh] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715939232776978433-6-1776607835 - Holdem no limit (15/30) - 2026/04/19 14:10:35 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zeushera (570)
+Seat 2: Samponi (930)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+zeushera posts big blind 30
+Dealt to Samponi [4d Qd]
+*** PRE-FLOP *** 
+Samponi raises 30 to 60
+zeushera raises 30 to 90
+Samponi calls 30
+*** FLOP *** [Ks 2s 4s]
+zeushera bets 117
+Samponi folds
+zeushera collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [Ks 2s 4s]
+Seat 1: zeushera (big blind) won 297
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715939232776978433-7-1776607852 - Holdem no limit (15/30) - 2026/04/19 14:10:52 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zeushera (660)
+Seat 2: Samponi (840)
+*** ANTE/BLINDS ***
+zeushera posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [7c 4c]
+*** PRE-FLOP *** 
+zeushera folds
+Samponi collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Samponi (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715939232776978433-8-1776607857 - Holdem no limit (15/30) - 2026/04/19 14:10:57 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zeushera (645)
+Seat 2: Samponi (855)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+zeushera posts big blind 30
+Dealt to Samponi [8s 4h]
+*** PRE-FLOP *** 
+Samponi folds
+zeushera collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: zeushera (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715939232776978433-9-1776607861 - Holdem no limit (15/30) - 2026/04/19 14:11:01 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zeushera (660)
+Seat 2: Samponi (840)
+*** ANTE/BLINDS ***
+zeushera posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [3h 2s]
+*** PRE-FLOP *** 
+zeushera folds
+Samponi collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Samponi (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715939232776978433-10-1776607867 - Holdem no limit (15/30) - 2026/04/19 14:11:07 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zeushera (645)
+Seat 2: Samponi (855)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+zeushera posts big blind 30
+Dealt to Samponi [Ks 9d]
+*** PRE-FLOP *** 
+Samponi raises 45 to 75
+zeushera folds
+Samponi collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: Samponi (small blind) (button) won 105
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715939232776978433-11-1776607875 - Holdem no limit (15/30) - 2026/04/19 14:11:15 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zeushera (615)
+Seat 2: Samponi (885)
+*** ANTE/BLINDS ***
+zeushera posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [7h 7d]
+*** PRE-FLOP *** 
+zeushera folds
+Samponi collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Samponi (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715939232776978433-12-1776607884 - Holdem no limit (15/30) - 2026/04/19 14:11:24 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zeushera (600)
+Seat 2: Samponi (900)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+zeushera posts big blind 30
+Dealt to Samponi [8d 3d]
+*** PRE-FLOP *** 
+Samponi folds
+zeushera collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: zeushera (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715939232776978433-13-1776607888 - Holdem no limit (15/30) - 2026/04/19 14:11:28 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zeushera (615)
+Seat 2: Samponi (885)
+*** ANTE/BLINDS ***
+zeushera posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [8h 4h]
+*** PRE-FLOP *** 
+zeushera folds
+Samponi collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Samponi (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715939232776978433-14-1776607893 - Holdem no limit (15/30) - 2026/04/19 14:11:33 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zeushera (600)
+Seat 2: Samponi (900)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+zeushera posts big blind 30
+Dealt to Samponi [5d 9s]
+*** PRE-FLOP *** 
+Samponi folds
+zeushera collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: zeushera (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715939232776978433-15-1776607898 - Holdem no limit (15/30) - 2026/04/19 14:11:38 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zeushera (615)
+Seat 2: Samponi (885)
+*** ANTE/BLINDS ***
+zeushera posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [6s Qd]
+*** PRE-FLOP *** 
+zeushera folds
+Samponi collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Samponi (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715939232776978433-16-1776607904 - Holdem no limit (20/40) - 2026/04/19 14:11:44 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zeushera (600)
+Seat 2: Samponi (900)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+zeushera posts big blind 40
+Dealt to Samponi [6s 4d]
+*** PRE-FLOP *** 
+Samponi folds
+zeushera collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: zeushera (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715939232776978433-17-1776607909 - Holdem no limit (20/40) - 2026/04/19 14:11:49 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zeushera (620)
+Seat 2: Samponi (880)
+*** ANTE/BLINDS ***
+zeushera posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [8h Ac]
+*** PRE-FLOP *** 
+zeushera calls 20
+Samponi raises 60 to 100
+zeushera folds
+Samponi collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: Samponi (big blind) won 140
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715939232776978433-18-1776607921 - Holdem no limit (20/40) - 2026/04/19 14:12:01 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zeushera (580)
+Seat 2: Samponi (920)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+zeushera posts big blind 40
+Dealt to Samponi [3c 6s]
+*** PRE-FLOP *** 
+Samponi folds
+zeushera collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: zeushera (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715939232776978433-19-1776607925 - Holdem no limit (20/40) - 2026/04/19 14:12:05 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zeushera (600)
+Seat 2: Samponi (900)
+*** ANTE/BLINDS ***
+zeushera posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [Kc 2d]
+*** PRE-FLOP *** 
+zeushera folds
+Samponi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Samponi (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715939232776978433-20-1776607930 - Holdem no limit (20/40) - 2026/04/19 14:12:10 UTC
+Table: 'Expresso(1098015167)#0' 3-max (real money) Seat #2 is the button
+Seat 1: zeushera (580)
+Seat 2: Samponi (920)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+zeushera posts big blind 40
+Dealt to Samponi [3c Kd]
+*** PRE-FLOP *** 
+Samponi calls 20
+zeushera checks
+*** FLOP *** [Kh 6c 5d]
+zeushera checks
+Samponi checks
+*** TURN *** [Kh 6c 5d][Js]
+zeushera bets 80
+Samponi calls 80
+*** RIVER *** [Kh 6c 5d Js][3h]
+zeushera bets 156
+Samponi raises 552 to 708
+zeushera calls 304 and is all-in
+*** SHOW DOWN ***
+zeushera shows [3d 5s] (Two pairs : 5 and 3)
+Samponi shows [3c Kd] (Two pairs : Kings and 3)
+Samponi collected 1408 from pot
+*** SUMMARY ***
+Total pot 1408 | No rake
+Board: [Kh 6c 5d Js 3h]
+Seat 1: zeushera (big blind) showed [3d 5s] and lost with Two pairs : 5 and 3
+Seat 2: Samponi (small blind) (button) showed [3c Kd] and won 1408 with Two pairs : Kings and 3
+
+

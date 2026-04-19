@@ -1,0 +1,261 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668534682298613761-1-1774797232 - Holdem no limit (10/20) - 2026/03/29 15:13:52 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (300)
+Seat 2: Analu (300)
+Seat 3: Miro-5795641 (300)
+*** ANTE/BLINDS ***
+Miro-5795641 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [Jd 5h]
+*** PRE-FLOP *** 
+Analu calls 20
+Miro-5795641 calls 10
+Samponi checks
+*** FLOP *** [Jc 4c 5s]
+Miro-5795641 checks
+Samponi bets 20
+Analu calls 20
+Miro-5795641 calls 20
+*** TURN *** [Jc 4c 5s][As]
+Miro-5795641 checks
+Samponi checks
+Analu bets 260 and is all-in
+Miro-5795641 folds
+Samponi calls 260 and is all-in
+*** RIVER *** [Jc 4c 5s As][Ts]
+*** SHOW DOWN ***
+Analu shows [3d Kc] (High card : Ace)
+Samponi shows [Jd 5h] (Two pairs : Jacks and 5)
+Samponi collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Jc 4c 5s As Ts]
+Seat 1: Samponi (big blind) showed [Jd 5h] and won 640 with Two pairs : Jacks and 5
+Seat 2: Analu (button) showed [3d Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668534682298613761-2-1774797276 - Holdem no limit (10/20) - 2026/03/29 15:14:36 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (640)
+Seat 3: Miro-5795641 (260)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Miro-5795641 posts big blind 20
+Dealt to Samponi [9c 9d]
+*** PRE-FLOP *** 
+Samponi raises 620 to 640 and is all-in
+Miro-5795641 folds
+Samponi collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 1: Samponi (small blind) (button) won 660
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668534682298613761-3-1774797284 - Holdem no limit (10/20) - 2026/03/29 15:14:44 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (660)
+Seat 3: Miro-5795641 (240)
+*** ANTE/BLINDS ***
+Miro-5795641 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [4s Jc]
+*** PRE-FLOP *** 
+Miro-5795641 raises 220 to 240 and is all-in
+Samponi folds
+Miro-5795641 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 3: Miro-5795641 (small blind) (button) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668534682298613761-4-1774797296 - Holdem no limit (15/30) - 2026/03/29 15:14:56 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (640)
+Seat 3: Miro-5795641 (260)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Miro-5795641 posts big blind 30
+Dealt to Samponi [6d 5c]
+*** PRE-FLOP *** 
+Samponi folds
+Miro-5795641 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Miro-5795641 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668534682298613761-5-1774797302 - Holdem no limit (15/30) - 2026/03/29 15:15:02 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (625)
+Seat 3: Miro-5795641 (275)
+*** ANTE/BLINDS ***
+Miro-5795641 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [4c Td]
+*** PRE-FLOP *** 
+Miro-5795641 raises 245 to 275 and is all-in
+Samponi folds
+Miro-5795641 collected 305 from pot
+*** SUMMARY ***
+Total pot 305 | No rake
+Seat 3: Miro-5795641 (small blind) (button) won 305
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668534682298613761-6-1774797310 - Holdem no limit (15/30) - 2026/03/29 15:15:10 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (595)
+Seat 3: Miro-5795641 (305)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Miro-5795641 posts big blind 30
+Dealt to Samponi [Kc Jh]
+*** PRE-FLOP *** 
+Samponi raises 565 to 595 and is all-in
+Miro-5795641 calls 275 and is all-in
+*** FLOP *** [5d 7h 3s]
+*** TURN *** [5d 7h 3s][4s]
+*** RIVER *** [5d 7h 3s 4s][6s]
+*** SHOW DOWN ***
+Samponi shows [Kc Jh] (Straight 7 high)
+Miro-5795641 shows [3c 6c] (Straight 7 high)
+Miro-5795641 collected 305 from main pot
+Samponi collected 595 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5d 7h 3s 4s 6s]
+Seat 1: Samponi (small blind) (button) showed [Kc Jh] and won 595 with Straight 7 high
+Seat 3: Miro-5795641 (big blind) showed [3c 6c] and won 305 with Straight 7 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668534682298613761-7-1774797326 - Holdem no limit (15/30) - 2026/03/29 15:15:26 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (595)
+Seat 3: Miro-5795641 (305)
+*** ANTE/BLINDS ***
+Miro-5795641 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [9d 5h]
+*** PRE-FLOP *** 
+Miro-5795641 raises 166 to 196
+Samponi folds
+Miro-5795641 collected 226 from pot
+*** SUMMARY ***
+Total pot 226 | No rake
+Seat 3: Miro-5795641 (small blind) (button) won 226
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668534682298613761-8-1774797337 - Holdem no limit (15/30) - 2026/03/29 15:15:37 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (565)
+Seat 3: Miro-5795641 (335)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Miro-5795641 posts big blind 30
+Dealt to Samponi [5h Jd]
+*** PRE-FLOP *** 
+Samponi folds
+Miro-5795641 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Miro-5795641 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668534682298613761-9-1774797343 - Holdem no limit (15/30) - 2026/03/29 15:15:43 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (550)
+Seat 3: Miro-5795641 (350)
+*** ANTE/BLINDS ***
+Miro-5795641 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [Ac 6h]
+*** PRE-FLOP *** 
+Miro-5795641 raises 60 to 90
+Samponi folds
+Miro-5795641 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Miro-5795641 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668534682298613761-10-1774797353 - Holdem no limit (20/40) - 2026/03/29 15:15:53 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (520)
+Seat 3: Miro-5795641 (380)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Miro-5795641 posts big blind 40
+Dealt to Samponi [8d Qh]
+*** PRE-FLOP *** 
+Samponi folds
+Miro-5795641 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Miro-5795641 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668534682298613761-11-1774797359 - Holdem no limit (20/40) - 2026/03/29 15:15:59 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (500)
+Seat 3: Miro-5795641 (400)
+*** ANTE/BLINDS ***
+Miro-5795641 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [5s 2c]
+*** PRE-FLOP *** 
+Miro-5795641 raises 80 to 120
+Samponi folds
+Miro-5795641 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: Miro-5795641 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668534682298613761-12-1774797364 - Holdem no limit (20/40) - 2026/03/29 15:16:04 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (460)
+Seat 3: Miro-5795641 (440)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Miro-5795641 posts big blind 40
+Dealt to Samponi [9d 8d]
+*** PRE-FLOP *** 
+Samponi raises 420 to 460 and is all-in
+Miro-5795641 calls 400 and is all-in
+*** FLOP *** [7h Jh 4s]
+*** TURN *** [7h Jh 4s][4h]
+*** RIVER *** [7h Jh 4s 4h][7s]
+*** SHOW DOWN ***
+Samponi shows [9d 8d] (Two pairs : 7 and 4)
+Miro-5795641 shows [Qc Ac] (Two pairs : 7 and 4)
+Miro-5795641 collected 880 from main pot
+Samponi collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7h Jh 4s 4h 7s]
+Seat 1: Samponi (small blind) (button) showed [9d 8d] and won 20 with Two pairs : 7 and 4
+Seat 3: Miro-5795641 (big blind) showed [Qc Ac] and won 880 with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668534682298613761-13-1774797377 - Holdem no limit (20/40) - 2026/03/29 15:16:17 UTC
+Table: 'Expresso Nitro(1086977935)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (20)
+Seat 3: Miro-5795641 (880)
+*** ANTE/BLINDS ***
+Miro-5795641 posts small blind 20
+Samponi posts big blind 20 and is all-in
+Dealt to Samponi [5d 3s]
+*** PRE-FLOP *** 
+*** FLOP *** [Qh 6d Jd]
+*** TURN *** [Qh 6d Jd][9h]
+*** RIVER *** [Qh 6d Jd 9h][Jh]
+*** SHOW DOWN ***
+Samponi shows [5d 3s] (One pair : Jacks)
+Miro-5795641 shows [Ks 4s] (One pair : Jacks)
+Miro-5795641 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Qh 6d Jd 9h Jh]
+Seat 1: Samponi (big blind) showed [5d 3s] and lost with One pair : Jacks
+Seat 3: Miro-5795641 (small blind) (button) showed [Ks 4s] and won 40 with One pair : Jacks
+
+

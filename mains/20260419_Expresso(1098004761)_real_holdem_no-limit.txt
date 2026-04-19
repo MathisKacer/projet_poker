@@ -1,0 +1,749 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4715894539347296257-1-1776605938 - Holdem no limit (10/20) - 2026/04/19 13:38:58 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #2 is the button
+Seat 1: antarktic (500)
+Seat 2: Pifach (500)
+Seat 3: Samponi (500)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+antarktic posts big blind 20
+Dealt to Samponi [6d 8s]
+*** PRE-FLOP *** 
+Pifach folds
+Samponi folds
+antarktic collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: antarktic (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4715894539347296257-2-1776605944 - Holdem no limit (10/20) - 2026/04/19 13:39:04 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (510)
+Seat 2: Pifach (500)
+Seat 3: Samponi (490)
+*** ANTE/BLINDS ***
+antarktic posts small blind 10
+Pifach posts big blind 20
+Dealt to Samponi [4d 7d]
+*** PRE-FLOP *** 
+Samponi folds
+antarktic raises 20 to 40
+Pifach calls 20
+*** FLOP *** [7c Ac 3c]
+antarktic checks
+Pifach checks
+*** TURN *** [7c Ac 3c][Jc]
+antarktic bets 20
+Pifach calls 20
+*** RIVER *** [7c Ac 3c Jc][8c]
+antarktic bets 60
+Pifach calls 60
+*** SHOW DOWN ***
+Pifach shows [9c Td] (Flush Ace high)
+antarktic shows [Kc Kh] (Flush Ace high)
+antarktic collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7c Ac 3c Jc 8c]
+Seat 1: antarktic (small blind) showed [Kc Kh] and won 240 with Flush Ace high
+Seat 2: Pifach (big blind) showed [9c Td] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4715894539347296257-3-1776605971 - Holdem no limit (10/20) - 2026/04/19 13:39:31 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (630)
+Seat 2: Pifach (380)
+Seat 3: Samponi (490)
+*** ANTE/BLINDS ***
+Pifach posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [Jh 8h]
+*** PRE-FLOP *** 
+antarktic raises 20 to 40
+Pifach raises 80 to 120
+Samponi folds
+antarktic calls 80
+*** FLOP *** [Qs 5s 5h]
+Pifach bets 260 and is all-in
+antarktic calls 260
+*** TURN *** [Qs 5s 5h][Ac]
+*** RIVER *** [Qs 5s 5h Ac][Ks]
+*** SHOW DOWN ***
+antarktic shows [Ad 5d] (Full of 5 and Aces)
+Pifach shows [Kc Kd] (Full of Kings and 5)
+Pifach collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Qs 5s 5h Ac Ks]
+Seat 1: antarktic (button) showed [Ad 5d] and lost with Full of 5 and Aces
+Seat 2: Pifach (small blind) showed [Kc Kd] and won 780 with Full of Kings and 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4715894539347296257-4-1776605989 - Holdem no limit (10/20) - 2026/04/19 13:39:49 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #2 is the button
+Seat 1: antarktic (250)
+Seat 2: Pifach (780)
+Seat 3: Samponi (470)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+antarktic posts big blind 20
+Dealt to Samponi [7h Qd]
+*** PRE-FLOP *** 
+Pifach raises 40 to 60
+Samponi folds
+antarktic folds
+Pifach collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Pifach (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4715894539347296257-5-1776606003 - Holdem no limit (10/20) - 2026/04/19 13:40:03 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (230)
+Seat 2: Pifach (810)
+Seat 3: Samponi (460)
+*** ANTE/BLINDS ***
+antarktic posts small blind 10
+Pifach posts big blind 20
+Dealt to Samponi [Kd 6h]
+*** PRE-FLOP *** 
+Samponi calls 20
+antarktic folds
+Pifach checks
+*** FLOP *** [4s 4d Qh]
+Pifach checks
+Samponi bets 20
+Pifach folds
+Samponi collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [4s 4d Qh]
+Seat 3: Samponi (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4715894539347296257-6-1776606021 - Holdem no limit (10/20) - 2026/04/19 13:40:21 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (220)
+Seat 2: Pifach (790)
+Seat 3: Samponi (490)
+*** ANTE/BLINDS ***
+Pifach posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [3d Kc]
+*** PRE-FLOP *** 
+antarktic folds
+Pifach calls 10
+Samponi checks
+*** FLOP *** [Ts 4s Qd]
+Pifach checks
+Samponi checks
+*** TURN *** [Ts 4s Qd][Kh]
+Pifach checks
+Samponi checks
+*** RIVER *** [Ts 4s Qd Kh][6d]
+Pifach checks
+Samponi bets 32
+Pifach folds
+Samponi collected 72 from pot
+*** SUMMARY ***
+Total pot 72 | No rake
+Board: [Ts 4s Qd Kh 6d]
+Seat 3: Samponi (big blind) won 72
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715894539347296257-7-1776606044 - Holdem no limit (15/30) - 2026/04/19 13:40:44 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #2 is the button
+Seat 1: antarktic (220)
+Seat 2: Pifach (770)
+Seat 3: Samponi (510)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+antarktic posts big blind 30
+Dealt to Samponi [Ac 6d]
+*** PRE-FLOP *** 
+Pifach folds
+Samponi raises 45 to 75
+antarktic folds
+Samponi collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: Samponi (small blind) won 105
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715894539347296257-8-1776606053 - Holdem no limit (15/30) - 2026/04/19 13:40:53 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (190)
+Seat 2: Pifach (770)
+Seat 3: Samponi (540)
+*** ANTE/BLINDS ***
+antarktic posts small blind 15
+Pifach posts big blind 30
+Dealt to Samponi [Ad Jh]
+*** PRE-FLOP *** 
+Samponi raises 30 to 60
+antarktic raises 130 to 190 and is all-in
+Pifach folds
+Samponi calls 130
+*** FLOP *** [8h Kd 2d]
+*** TURN *** [8h Kd 2d][Td]
+*** RIVER *** [8h Kd 2d Td][5h]
+*** SHOW DOWN ***
+Samponi shows [Ad Jh] (High card : Ace)
+antarktic shows [8d Jc] (One pair : 8)
+antarktic collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Board: [8h Kd 2d Td 5h]
+Seat 1: antarktic (small blind) showed [8d Jc] and won 410 with One pair : 8
+Seat 3: Samponi (button) showed [Ad Jh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715894539347296257-9-1776606070 - Holdem no limit (15/30) - 2026/04/19 13:41:10 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (410)
+Seat 2: Pifach (740)
+Seat 3: Samponi (350)
+*** ANTE/BLINDS ***
+Pifach posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [Ts Ad]
+*** PRE-FLOP *** 
+antarktic raises 30 to 60
+Pifach calls 45
+Samponi raises 290 to 350 and is all-in
+antarktic folds
+Pifach calls 290
+*** FLOP *** [2s 6c 7d]
+*** TURN *** [2s 6c 7d][3s]
+*** RIVER *** [2s 6c 7d 3s][Tc]
+*** SHOW DOWN ***
+Pifach shows [Kc Qh] (High card : King)
+Samponi shows [Ts Ad] (One pair : Tens)
+Samponi collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [2s 6c 7d 3s Tc]
+Seat 2: Pifach (small blind) showed [Kc Qh] and lost with High card : King
+Seat 3: Samponi (big blind) showed [Ts Ad] and won 760 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4715894539347296257-10-1776606099 - Holdem no limit (15/30) - 2026/04/19 13:41:39 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #2 is the button
+Seat 1: antarktic (350)
+Seat 2: Pifach (390)
+Seat 3: Samponi (760)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+antarktic posts big blind 30
+Dealt to Samponi [6s Kh]
+*** PRE-FLOP *** 
+Pifach calls 30
+Samponi calls 15
+antarktic checks
+*** FLOP *** [Ts 3c Jd]
+Samponi checks
+antarktic bets 45
+Pifach folds
+Samponi folds
+antarktic collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Ts 3c Jd]
+Seat 1: antarktic (big blind) won 135
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715894539347296257-11-1776606116 - Holdem no limit (20/40) - 2026/04/19 13:41:56 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (410)
+Seat 2: Pifach (360)
+Seat 3: Samponi (730)
+*** ANTE/BLINDS ***
+antarktic posts small blind 20
+Pifach posts big blind 40
+Dealt to Samponi [4c Ah]
+*** PRE-FLOP *** 
+Samponi raises 40 to 80
+antarktic folds
+Pifach calls 40
+*** FLOP *** [Ks 9d 9s]
+Pifach checks
+Samponi bets 60
+Pifach raises 220 to 280 and is all-in
+Samponi folds
+Pifach collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Ks 9d 9s]
+Seat 2: Pifach (big blind) won 520
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715894539347296257-12-1776606135 - Holdem no limit (20/40) - 2026/04/19 13:42:15 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (390)
+Seat 2: Pifach (520)
+Seat 3: Samponi (590)
+*** ANTE/BLINDS ***
+Pifach posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [Td Ah]
+*** PRE-FLOP *** 
+antarktic folds
+Pifach folds
+Samponi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Samponi (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715894539347296257-13-1776606143 - Holdem no limit (20/40) - 2026/04/19 13:42:23 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #2 is the button
+Seat 1: antarktic (390)
+Seat 2: Pifach (500)
+Seat 3: Samponi (610)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+antarktic posts big blind 40
+Dealt to Samponi [Ks 4d]
+*** PRE-FLOP *** 
+Pifach calls 40
+Samponi calls 20
+antarktic checks
+*** FLOP *** [4h 6s Qs]
+Samponi bets 40
+antarktic folds
+Pifach calls 40
+*** TURN *** [4h 6s Qs][7s]
+Samponi bets 130
+Pifach folds
+Samponi collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [4h 6s Qs 7s]
+Seat 3: Samponi (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715894539347296257-14-1776606163 - Holdem no limit (20/40) - 2026/04/19 13:42:43 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (350)
+Seat 2: Pifach (420)
+Seat 3: Samponi (730)
+*** ANTE/BLINDS ***
+antarktic posts small blind 20
+Pifach posts big blind 40
+Dealt to Samponi [5s 3h]
+*** PRE-FLOP *** 
+Samponi folds
+antarktic raises 40 to 80
+Pifach folds
+antarktic collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: antarktic (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715894539347296257-15-1776606171 - Holdem no limit (20/40) - 2026/04/19 13:42:51 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (390)
+Seat 2: Pifach (380)
+Seat 3: Samponi (730)
+*** ANTE/BLINDS ***
+Pifach posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [Ts 7d]
+*** PRE-FLOP *** 
+antarktic raises 40 to 80
+Pifach folds
+Samponi folds
+antarktic collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: antarktic (button) won 140
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715894539347296257-16-1776606181 - Holdem no limit (20/40) - 2026/04/19 13:43:01 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #2 is the button
+Seat 1: antarktic (450)
+Seat 2: Pifach (360)
+Seat 3: Samponi (690)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+antarktic posts big blind 40
+Dealt to Samponi [3c Tc]
+*** PRE-FLOP *** 
+Pifach calls 40
+Samponi calls 20
+antarktic checks
+*** FLOP *** [2s Qs 6s]
+Samponi checks
+antarktic checks
+Pifach checks
+*** TURN *** [2s Qs 6s][2c]
+Samponi checks
+antarktic checks
+Pifach checks
+*** RIVER *** [2s Qs 6s 2c][Kd]
+Samponi checks
+antarktic checks
+Pifach checks
+*** SHOW DOWN ***
+Pifach shows [5h 4h] (One pair : 2)
+antarktic shows [4d Th] (One pair : 2)
+Samponi shows [3c Tc] (One pair : 2)
+Samponi collected 60 from pot
+antarktic collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2s Qs 6s 2c Kd]
+Seat 1: antarktic (big blind) showed [4d Th] and won 60 with One pair : 2
+Seat 2: Pifach (button) showed [5h 4h] and lost with One pair : 2
+Seat 3: Samponi (small blind) showed [3c Tc] and won 60 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4715894539347296257-17-1776606201 - Holdem no limit (20/40) - 2026/04/19 13:43:21 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (470)
+Seat 2: Pifach (320)
+Seat 3: Samponi (710)
+*** ANTE/BLINDS ***
+antarktic posts small blind 20
+Pifach posts big blind 40
+Dealt to Samponi [7s 4s]
+*** PRE-FLOP *** 
+Samponi folds
+antarktic calls 20
+Pifach checks
+*** FLOP *** [5h 6s 8c]
+antarktic bets 52
+Pifach calls 52
+*** TURN *** [5h 6s 8c][Jd]
+antarktic checks
+Pifach checks
+*** RIVER *** [5h 6s 8c Jd][6d]
+antarktic checks
+Pifach checks
+*** SHOW DOWN ***
+antarktic shows [Qs 3d] (One pair : 6)
+Pifach shows [7d 5d] (Two pairs : 6 and 5)
+Pifach collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | No rake
+Board: [5h 6s 8c Jd 6d]
+Seat 1: antarktic (small blind) showed [Qs 3d] and lost with One pair : 6
+Seat 2: Pifach (big blind) showed [7d 5d] and won 184 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4715894539347296257-18-1776606225 - Holdem no limit (30/60) - 2026/04/19 13:43:45 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (378)
+Seat 2: Pifach (412)
+Seat 3: Samponi (710)
+*** ANTE/BLINDS ***
+Pifach posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [Qc 3h]
+*** PRE-FLOP *** 
+antarktic folds
+Pifach calls 30
+Samponi checks
+*** FLOP *** [Ad 7s As]
+Pifach checks
+Samponi bets 650 and is all-in
+Pifach folds
+Samponi collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Board: [Ad 7s As]
+Seat 3: Samponi (big blind) won 770
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4715894539347296257-19-1776606238 - Holdem no limit (30/60) - 2026/04/19 13:43:58 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #2 is the button
+Seat 1: antarktic (378)
+Seat 2: Pifach (352)
+Seat 3: Samponi (770)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+antarktic posts big blind 60
+Dealt to Samponi [6c 8s]
+*** PRE-FLOP *** 
+Pifach folds
+Samponi folds
+antarktic collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: antarktic (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4715894539347296257-20-1776606245 - Holdem no limit (30/60) - 2026/04/19 13:44:05 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (408)
+Seat 2: Pifach (352)
+Seat 3: Samponi (740)
+*** ANTE/BLINDS ***
+antarktic posts small blind 30
+Pifach posts big blind 60
+Dealt to Samponi [6s 9c]
+*** PRE-FLOP *** 
+Samponi folds
+antarktic raises 348 to 408 and is all-in
+Pifach folds
+antarktic collected 468 from pot
+*** SUMMARY ***
+Total pot 468 | No rake
+Seat 1: antarktic (small blind) won 468
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4715894539347296257-21-1776606255 - Holdem no limit (30/60) - 2026/04/19 13:44:15 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (468)
+Seat 2: Pifach (292)
+Seat 3: Samponi (740)
+*** ANTE/BLINDS ***
+Pifach posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [Th 2c]
+*** PRE-FLOP *** 
+antarktic folds
+Pifach calls 30
+Samponi checks
+*** FLOP *** [3s 2d Tc]
+Pifach checks
+Samponi checks
+*** TURN *** [3s 2d Tc][4s]
+Pifach checks
+Samponi bets 60
+Pifach folds
+Samponi collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [3s 2d Tc 4s]
+Seat 3: Samponi (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4715894539347296257-22-1776606271 - Holdem no limit (30/60) - 2026/04/19 13:44:31 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #2 is the button
+Seat 1: antarktic (468)
+Seat 2: Pifach (232)
+Seat 3: Samponi (800)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+antarktic posts big blind 60
+Dealt to Samponi [7s 2d]
+*** PRE-FLOP *** 
+Pifach folds
+Samponi folds
+antarktic collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: antarktic (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4715894539347296257-23-1776606276 - Holdem no limit (30/60) - 2026/04/19 13:44:36 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (498)
+Seat 2: Pifach (232)
+Seat 3: Samponi (770)
+*** ANTE/BLINDS ***
+antarktic posts small blind 30
+Pifach posts big blind 60
+Dealt to Samponi [Tc Ks]
+*** PRE-FLOP *** 
+Samponi raises 60 to 120
+antarktic folds
+Pifach folds
+Samponi collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: Samponi (button) won 210
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4715894539347296257-24-1776606287 - Holdem no limit (30/60) - 2026/04/19 13:44:47 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (468)
+Seat 2: Pifach (172)
+Seat 3: Samponi (860)
+*** ANTE/BLINDS ***
+Pifach posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [8h Jh]
+*** PRE-FLOP *** 
+antarktic folds
+Pifach raises 112 to 172 and is all-in
+Samponi calls 112
+*** FLOP *** [Js 3d 3c]
+*** TURN *** [Js 3d 3c][4c]
+*** RIVER *** [Js 3d 3c 4c][6h]
+*** SHOW DOWN ***
+Pifach shows [Qs 8d] (One pair : 3)
+Samponi shows [8h Jh] (Two pairs : Jacks and 3)
+Samponi collected 344 from pot
+*** SUMMARY ***
+Total pot 344 | No rake
+Board: [Js 3d 3c 4c 6h]
+Seat 2: Pifach (small blind) showed [Qs 8d] and lost with One pair : 3
+Seat 3: Samponi (big blind) showed [8h Jh] and won 344 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4715894539347296257-25-1776606303 - Holdem no limit (40/80) - 2026/04/19 13:45:03 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (468)
+Seat 3: Samponi (1032)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+antarktic posts big blind 80
+Dealt to Samponi [3s Ts]
+*** PRE-FLOP *** 
+Samponi folds
+antarktic collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: antarktic (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4715894539347296257-26-1776606309 - Holdem no limit (40/80) - 2026/04/19 13:45:09 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (508)
+Seat 3: Samponi (992)
+*** ANTE/BLINDS ***
+antarktic posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [8d Qh]
+*** PRE-FLOP *** 
+antarktic raises 80 to 160
+Samponi folds
+antarktic collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: antarktic (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4715894539347296257-27-1776606316 - Holdem no limit (40/80) - 2026/04/19 13:45:16 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (588)
+Seat 3: Samponi (912)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+antarktic posts big blind 80
+Dealt to Samponi [Jc 3d]
+*** PRE-FLOP *** 
+Samponi raises 80 to 160
+antarktic folds
+Samponi collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: Samponi (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4715894539347296257-28-1776606322 - Holdem no limit (40/80) - 2026/04/19 13:45:22 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (508)
+Seat 3: Samponi (992)
+*** ANTE/BLINDS ***
+antarktic posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [5h 5c]
+*** PRE-FLOP *** 
+antarktic raises 120 to 200
+Samponi calls 120
+*** FLOP *** [6d 2s Ts]
+Samponi bets 792 and is all-in
+antarktic calls 308 and is all-in
+*** TURN *** [6d 2s Ts][Qd]
+*** RIVER *** [6d 2s Ts Qd][Kd]
+*** SHOW DOWN ***
+antarktic shows [Qh Qs] (Trips of Queens)
+Samponi shows [5h 5c] (One pair : 5)
+Samponi collected 484 from side pot 1
+antarktic collected 1016 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [6d 2s Ts Qd Kd]
+Seat 1: antarktic (small blind) (button) showed [Qh Qs] and won 1016 with Trips of Queens
+Seat 3: Samponi (big blind) showed [5h 5c] and won 484 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4715894539347296257-29-1776606340 - Holdem no limit (40/80) - 2026/04/19 13:45:40 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (1016)
+Seat 3: Samponi (484)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+antarktic posts big blind 80
+Dealt to Samponi [4d Th]
+*** PRE-FLOP *** 
+Samponi folds
+antarktic collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: antarktic (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4715894539347296257-30-1776606345 - Holdem no limit (40/80) - 2026/04/19 13:45:45 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (1056)
+Seat 3: Samponi (444)
+*** ANTE/BLINDS ***
+antarktic posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [9c Ac]
+*** PRE-FLOP *** 
+antarktic folds
+Samponi collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Samponi (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4715894539347296257-31-1776606350 - Holdem no limit (40/80) - 2026/04/19 13:45:50 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #3 is the button
+Seat 1: antarktic (1016)
+Seat 3: Samponi (484)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+antarktic posts big blind 80
+Dealt to Samponi [Kd Qs]
+*** PRE-FLOP *** 
+Samponi raises 80 to 160
+antarktic raises 80 to 240
+Samponi raises 244 to 484 and is all-in
+antarktic calls 244
+*** FLOP *** [4s 3h Kh]
+*** TURN *** [4s 3h Kh][2d]
+*** RIVER *** [4s 3h Kh 2d][3d]
+*** SHOW DOWN ***
+antarktic shows [9d 9c] (Two pairs : 9 and 3)
+Samponi shows [Kd Qs] (Two pairs : Kings and 3)
+Samponi collected 968 from pot
+*** SUMMARY ***
+Total pot 968 | No rake
+Board: [4s 3h Kh 2d 3d]
+Seat 1: antarktic (big blind) showed [9d 9c] and lost with Two pairs : 9 and 3
+Seat 3: Samponi (small blind) (button) showed [Kd Qs] and won 968 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4715894539347296257-32-1776606367 - Holdem no limit (40/80) - 2026/04/19 13:46:07 UTC
+Table: 'Expresso(1098004761)#0' 3-max (real money) Seat #1 is the button
+Seat 1: antarktic (532)
+Seat 3: Samponi (968)
+*** ANTE/BLINDS ***
+antarktic posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [5c 5d]
+*** PRE-FLOP *** 
+antarktic raises 452 to 532 and is all-in
+Samponi calls 452
+*** FLOP *** [8s 4c 5h]
+*** TURN *** [8s 4c 5h][3c]
+*** RIVER *** [8s 4c 5h 3c][Qs]
+*** SHOW DOWN ***
+antarktic shows [Js Kh] (High card : King)
+Samponi shows [5c 5d] (Trips of 5)
+Samponi collected 1064 from pot
+*** SUMMARY ***
+Total pot 1064 | No rake
+Board: [8s 4c 5h 3c Qs]
+Seat 1: antarktic (small blind) (button) showed [Js Kh] and lost with High card : King
+Seat 3: Samponi (big blind) showed [5c 5d] and won 1064 with Trips of 5
+
+

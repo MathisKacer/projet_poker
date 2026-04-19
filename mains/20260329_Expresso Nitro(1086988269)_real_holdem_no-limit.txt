@@ -1,0 +1,71 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668579066490650625-1-1774798779 - Holdem no limit (10/20) - 2026/03/29 15:39:39 UTC
+Table: 'Expresso Nitro(1086988269)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (300)
+Seat 2: sami94v (300)
+Seat 3: Open Seat (300)
+*** ANTE/BLINDS ***
+Open Seat posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [Ts 9h]
+*** PRE-FLOP *** 
+sami94v calls 20
+Open Seat raises 280 to 300 and is all-in
+Samponi folds
+sami94v calls 280 and is all-in
+*** FLOP *** [4h 9c 2h]
+*** TURN *** [4h 9c 2h][8c]
+*** RIVER *** [4h 9c 2h 8c][Jh]
+*** SHOW DOWN ***
+sami94v shows [Qd Js] (One pair : Jacks)
+Open Seat shows [Jd Ac] (One pair : Jacks)
+Open Seat collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [4h 9c 2h 8c Jh]
+Seat 2: sami94v (button) showed [Qd Js] and lost with One pair : Jacks
+Seat 3: Open Seat (small blind) showed [Jd Ac] and won 620 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668579066490650625-2-1774798795 - Holdem no limit (10/20) - 2026/03/29 15:39:55 UTC
+Table: 'Expresso Nitro(1086988269)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (280)
+Seat 3: Open Seat (620)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Open Seat posts big blind 20
+Dealt to Samponi [Jh 4c]
+*** PRE-FLOP *** 
+Samponi folds
+Open Seat collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Open Seat (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668579066490650625-3-1774798800 - Holdem no limit (10/20) - 2026/03/29 15:40:00 UTC
+Table: 'Expresso Nitro(1086988269)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (270)
+Seat 3: Open Seat (630)
+*** ANTE/BLINDS ***
+Open Seat posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [7c 6c]
+*** PRE-FLOP *** 
+Open Seat raises 20 to 40
+Samponi raises 20 to 60
+Open Seat raises 570 to 630 and is all-in
+Samponi calls 210 and is all-in
+*** FLOP *** [Kc 8d Qc]
+*** TURN *** [Kc 8d Qc][7d]
+*** RIVER *** [Kc 8d Qc 7d][9s]
+*** SHOW DOWN ***
+Samponi shows [7c 6c] (One pair : 7)
+Open Seat shows [Jh Kh] (One pair : Kings)
+Open Seat collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kc 8d Qc 7d 9s]
+Seat 1: Samponi (big blind) showed [7c 6c] and lost with One pair : 7
+Seat 3: Open Seat (small blind) (button) showed [Jh Kh] and won 900 with One pair : Kings
+
+

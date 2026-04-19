@@ -1,0 +1,628 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4694024278113255425-1-1775751107 - Holdem no limit (10/20) - 2026/04/09 16:11:47 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #3 is the button
+Seat 1: mehmet.oz (500)
+Seat 2: Samponi (500)
+Seat 3: Lucezoo28 (500)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [Ks 5s]
+*** PRE-FLOP *** 
+Lucezoo28 folds
+mehmet.oz raises 20 to 40
+Samponi calls 20
+*** FLOP *** [4h 6d 3h]
+mehmet.oz checks
+Samponi bets 80
+mehmet.oz folds
+Samponi collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [4h 6d 3h]
+Seat 2: Samponi (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4694024278113255425-2-1775751128 - Holdem no limit (10/20) - 2026/04/09 16:12:08 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mehmet.oz (460)
+Seat 2: Samponi (540)
+Seat 3: Lucezoo28 (500)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Lucezoo28 posts big blind 20
+Dealt to Samponi [3h 6s]
+*** PRE-FLOP *** 
+mehmet.oz folds
+Samponi folds
+Lucezoo28 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Lucezoo28 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4694024278113255425-3-1775751133 - Holdem no limit (10/20) - 2026/04/09 16:12:13 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (460)
+Seat 2: Samponi (530)
+Seat 3: Lucezoo28 (510)
+*** ANTE/BLINDS ***
+Lucezoo28 posts small blind 10
+mehmet.oz posts big blind 20
+Dealt to Samponi [Qc 8d]
+*** PRE-FLOP *** 
+Samponi folds
+Lucezoo28 calls 10
+mehmet.oz checks
+*** FLOP *** [3d 6d Jd]
+Lucezoo28 checks
+mehmet.oz checks
+*** TURN *** [3d 6d Jd][7c]
+Lucezoo28 checks
+mehmet.oz checks
+*** RIVER *** [3d 6d Jd 7c][4c]
+Lucezoo28 checks
+mehmet.oz checks
+*** SHOW DOWN ***
+mehmet.oz shows [Qh 2d] (High card : Queen)
+Lucezoo28 shows [2s Qs] (High card : Queen)
+Lucezoo28 collected 20 from pot
+mehmet.oz collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [3d 6d Jd 7c 4c]
+Seat 1: mehmet.oz (big blind) showed [Qh 2d] and won 20 with High card : Queen
+Seat 3: Lucezoo28 (small blind) showed [2s Qs] and won 20 with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4694024278113255425-4-1775751150 - Holdem no limit (10/20) - 2026/04/09 16:12:30 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #3 is the button
+Seat 1: mehmet.oz (460)
+Seat 2: Samponi (530)
+Seat 3: Lucezoo28 (510)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [Td 3s]
+*** PRE-FLOP *** 
+Lucezoo28 calls 20
+mehmet.oz calls 10
+Samponi checks
+*** FLOP *** [Kc Kd 8s]
+mehmet.oz checks
+Samponi checks
+Lucezoo28 checks
+*** TURN *** [Kc Kd 8s][Jh]
+mehmet.oz checks
+Samponi bets 30
+Lucezoo28 folds
+mehmet.oz folds
+Samponi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Kc Kd 8s Jh]
+Seat 2: Samponi (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4694024278113255425-5-1775751177 - Holdem no limit (10/20) - 2026/04/09 16:12:57 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mehmet.oz (440)
+Seat 2: Samponi (570)
+Seat 3: Lucezoo28 (490)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Lucezoo28 posts big blind 20
+Dealt to Samponi [9h Kd]
+*** PRE-FLOP *** 
+mehmet.oz folds
+Samponi raises 20 to 40
+Lucezoo28 folds
+Samponi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Samponi (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4694024278113255425-6-1775751182 - Holdem no limit (10/20) - 2026/04/09 16:13:02 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (440)
+Seat 2: Samponi (590)
+Seat 3: Lucezoo28 (470)
+*** ANTE/BLINDS ***
+Lucezoo28 posts small blind 10
+mehmet.oz posts big blind 20
+Dealt to Samponi [Ad 3s]
+*** PRE-FLOP *** 
+Samponi raises 20 to 40
+Lucezoo28 folds
+mehmet.oz folds
+Samponi collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: Samponi (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4694024278113255425-7-1775751188 - Holdem no limit (10/20) - 2026/04/09 16:13:08 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #3 is the button
+Seat 1: mehmet.oz (420)
+Seat 2: Samponi (620)
+Seat 3: Lucezoo28 (460)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [7s 3c]
+*** PRE-FLOP *** 
+Lucezoo28 folds
+mehmet.oz raises 20 to 40
+Samponi folds
+mehmet.oz collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: mehmet.oz (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4694024278113255425-8-1775751196 - Holdem no limit (15/30) - 2026/04/09 16:13:16 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mehmet.oz (440)
+Seat 2: Samponi (600)
+Seat 3: Lucezoo28 (460)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Lucezoo28 posts big blind 30
+Dealt to Samponi [Ts 3d]
+*** PRE-FLOP *** 
+mehmet.oz folds
+Samponi raises 30 to 60
+Lucezoo28 raises 400 to 460 and is all-in
+Samponi folds
+Lucezoo28 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 3: Lucezoo28 (big blind) won 520
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4694024278113255425-9-1775751204 - Holdem no limit (15/30) - 2026/04/09 16:13:24 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (440)
+Seat 2: Samponi (540)
+Seat 3: Lucezoo28 (520)
+*** ANTE/BLINDS ***
+Lucezoo28 posts small blind 15
+mehmet.oz posts big blind 30
+Dealt to Samponi [3s Qs]
+*** PRE-FLOP *** 
+Samponi folds
+Lucezoo28 folds
+mehmet.oz collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: mehmet.oz (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4694024278113255425-10-1775751209 - Holdem no limit (15/30) - 2026/04/09 16:13:29 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #3 is the button
+Seat 1: mehmet.oz (455)
+Seat 2: Samponi (540)
+Seat 3: Lucezoo28 (505)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [6h 8h]
+*** PRE-FLOP *** 
+Lucezoo28 raises 475 to 505 and is all-in
+mehmet.oz folds
+Samponi folds
+Lucezoo28 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 3: Lucezoo28 (button) won 550
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4694024278113255425-11-1775751215 - Holdem no limit (15/30) - 2026/04/09 16:13:35 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mehmet.oz (440)
+Seat 2: Samponi (510)
+Seat 3: Lucezoo28 (550)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Lucezoo28 posts big blind 30
+Dealt to Samponi [9h 9s]
+*** PRE-FLOP *** 
+mehmet.oz folds
+Samponi raises 30 to 60
+Lucezoo28 folds
+Samponi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Samponi (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4694024278113255425-12-1775751221 - Holdem no limit (15/30) - 2026/04/09 16:13:41 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (440)
+Seat 2: Samponi (540)
+Seat 3: Lucezoo28 (520)
+*** ANTE/BLINDS ***
+Lucezoo28 posts small blind 15
+mehmet.oz posts big blind 30
+Dealt to Samponi [2s Th]
+*** PRE-FLOP *** 
+Samponi folds
+Lucezoo28 calls 15
+mehmet.oz checks
+*** FLOP *** [6d 5c Tc]
+Lucezoo28 checks
+mehmet.oz checks
+*** TURN *** [6d 5c Tc][8d]
+Lucezoo28 checks
+mehmet.oz checks
+*** RIVER *** [6d 5c Tc 8d][5d]
+Lucezoo28 bets 60
+mehmet.oz raises 350 to 410 and is all-in
+Lucezoo28 folds
+mehmet.oz collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [6d 5c Tc 8d 5d]
+Seat 1: mehmet.oz (big blind) won 530
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4694024278113255425-13-1775751241 - Holdem no limit (15/30) - 2026/04/09 16:14:01 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #3 is the button
+Seat 1: mehmet.oz (530)
+Seat 2: Samponi (540)
+Seat 3: Lucezoo28 (430)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [4c Qh]
+*** PRE-FLOP *** 
+Lucezoo28 calls 30
+mehmet.oz folds
+Samponi checks
+*** FLOP *** [Ts 3h Th]
+Samponi checks
+Lucezoo28 checks
+*** TURN *** [Ts 3h Th][Jd]
+Samponi checks
+Lucezoo28 checks
+*** RIVER *** [Ts 3h Th Jd][6c]
+Samponi checks
+Lucezoo28 checks
+*** SHOW DOWN ***
+Samponi shows [4c Qh] (One pair : Tens)
+Lucezoo28 shows [6h 9s] (Two pairs : Tens and 6)
+Lucezoo28 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [Ts 3h Th Jd 6c]
+Seat 2: Samponi (big blind) showed [4c Qh] and lost with One pair : Tens
+Seat 3: Lucezoo28 (button) showed [6h 9s] and won 75 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4694024278113255425-14-1775751253 - Holdem no limit (15/30) - 2026/04/09 16:14:13 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mehmet.oz (515)
+Seat 2: Samponi (510)
+Seat 3: Lucezoo28 (475)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Lucezoo28 posts big blind 30
+Dealt to Samponi [8c 5c]
+*** PRE-FLOP *** 
+mehmet.oz raises 30 to 60
+Samponi folds
+Lucezoo28 folds
+mehmet.oz collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 1: mehmet.oz (button) won 105
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4694024278113255425-15-1775751260 - Holdem no limit (15/30) - 2026/04/09 16:14:20 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (560)
+Seat 2: Samponi (495)
+Seat 3: Lucezoo28 (445)
+*** ANTE/BLINDS ***
+Lucezoo28 posts small blind 15
+mehmet.oz posts big blind 30
+Dealt to Samponi [7s Ts]
+*** PRE-FLOP *** 
+Samponi folds
+Lucezoo28 calls 15
+mehmet.oz raises 530 to 560 and is all-in
+Lucezoo28 folds
+mehmet.oz collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 1: mehmet.oz (big blind) won 590
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4694024278113255425-16-1775751269 - Holdem no limit (15/30) - 2026/04/09 16:14:29 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #3 is the button
+Seat 1: mehmet.oz (590)
+Seat 2: Samponi (495)
+Seat 3: Lucezoo28 (415)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [3c 3d]
+*** PRE-FLOP *** 
+Lucezoo28 calls 30
+mehmet.oz raises 30 to 60
+Samponi calls 30
+Lucezoo28 calls 30
+*** FLOP *** [5h Th 8d]
+mehmet.oz bets 117
+Samponi folds
+Lucezoo28 calls 117
+*** TURN *** [5h Th 8d][9s]
+mehmet.oz bets 413 and is all-in
+Lucezoo28 calls 238 and is all-in
+*** RIVER *** [5h Th 8d 9s][6c]
+*** SHOW DOWN ***
+Lucezoo28 shows [4h Qh] (High card : Queen)
+mehmet.oz shows [8s Ac] (One pair : 8)
+mehmet.oz collected 1065 from pot
+*** SUMMARY ***
+Total pot 1065 | No rake
+Board: [5h Th 8d 9s 6c]
+Seat 1: mehmet.oz (small blind) showed [8s Ac] and won 1065 with One pair : 8
+Seat 3: Lucezoo28 (button) showed [4h Qh] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4694024278113255425-17-1775751287 - Holdem no limit (20/40) - 2026/04/09 16:14:47 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (1065)
+Seat 2: Samponi (435)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+mehmet.oz posts big blind 40
+Dealt to Samponi [9d Qc]
+*** PRE-FLOP *** 
+Samponi raises 40 to 80
+mehmet.oz folds
+Samponi collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Samponi (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4694024278113255425-18-1775751292 - Holdem no limit (20/40) - 2026/04/09 16:14:52 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mehmet.oz (1025)
+Seat 2: Samponi (475)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [5c 2h]
+*** PRE-FLOP *** 
+mehmet.oz folds
+Samponi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Samponi (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4694024278113255425-19-1775751297 - Holdem no limit (20/40) - 2026/04/09 16:14:57 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (1005)
+Seat 2: Samponi (495)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+mehmet.oz posts big blind 40
+Dealt to Samponi [9c Jd]
+*** PRE-FLOP *** 
+Samponi raises 40 to 80
+mehmet.oz folds
+Samponi collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Samponi (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4694024278113255425-20-1775751302 - Holdem no limit (20/40) - 2026/04/09 16:15:02 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mehmet.oz (965)
+Seat 2: Samponi (535)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [6d 2c]
+*** PRE-FLOP *** 
+mehmet.oz raises 60 to 100
+Samponi folds
+mehmet.oz collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: mehmet.oz (small blind) (button) won 140
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4694024278113255425-21-1775751309 - Holdem no limit (20/40) - 2026/04/09 16:15:09 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (1005)
+Seat 2: Samponi (495)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+mehmet.oz posts big blind 40
+Dealt to Samponi [9d Kd]
+*** PRE-FLOP *** 
+Samponi raises 455 to 495 and is all-in
+mehmet.oz folds
+Samponi collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Seat 2: Samponi (small blind) (button) won 535
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4694024278113255425-22-1775751317 - Holdem no limit (20/40) - 2026/04/09 16:15:17 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mehmet.oz (965)
+Seat 2: Samponi (535)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [3c Qd]
+*** PRE-FLOP *** 
+mehmet.oz raises 40 to 80
+Samponi calls 40
+*** FLOP *** [8h 4d 4s]
+Samponi bets 104
+mehmet.oz folds
+Samponi collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | No rake
+Board: [8h 4d 4s]
+Seat 2: Samponi (big blind) won 264
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4694024278113255425-23-1775751330 - Holdem no limit (20/40) - 2026/04/09 16:15:30 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (885)
+Seat 2: Samponi (615)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+mehmet.oz posts big blind 40
+Dealt to Samponi [Ad 6h]
+*** PRE-FLOP *** 
+Samponi raises 40 to 80
+mehmet.oz calls 40
+*** FLOP *** [As Tc 6d]
+mehmet.oz checks
+Samponi checks
+*** TURN *** [As Tc 6d][Jc]
+mehmet.oz bets 80
+Samponi raises 80 to 160
+mehmet.oz folds
+Samponi collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [As Tc 6d Jc]
+Seat 2: Samponi (small blind) (button) won 400
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4694024278113255425-24-1775751347 - Holdem no limit (20/40) - 2026/04/09 16:15:47 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mehmet.oz (725)
+Seat 2: Samponi (775)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [6s 7s]
+*** PRE-FLOP *** 
+mehmet.oz raises 40 to 80
+Samponi calls 40
+*** FLOP *** [Tc Ac 2d]
+Samponi checks
+mehmet.oz bets 60
+Samponi folds
+mehmet.oz collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Tc Ac 2d]
+Seat 1: mehmet.oz (small blind) (button) won 220
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4694024278113255425-25-1775751360 - Holdem no limit (20/40) - 2026/04/09 16:16:00 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (805)
+Seat 2: Samponi (695)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+mehmet.oz posts big blind 40
+Dealt to Samponi [5h 4h]
+*** PRE-FLOP *** 
+Samponi raises 40 to 80
+mehmet.oz raises 725 to 805 and is all-in
+Samponi folds
+mehmet.oz collected 885 from pot
+*** SUMMARY ***
+Total pot 885 | No rake
+Seat 1: mehmet.oz (big blind) won 885
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4694024278113255425-26-1775751368 - Holdem no limit (20/40) - 2026/04/09 16:16:08 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mehmet.oz (885)
+Seat 2: Samponi (615)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [3h 6c]
+*** PRE-FLOP *** 
+mehmet.oz raises 40 to 80
+Samponi folds
+mehmet.oz collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: mehmet.oz (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #4694024278113255425-27-1775751375 - Holdem no limit (30/60) - 2026/04/09 16:16:15 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (925)
+Seat 2: Samponi (575)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+mehmet.oz posts big blind 60
+Dealt to Samponi [Kh 6s]
+*** PRE-FLOP *** 
+Samponi folds
+mehmet.oz collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: mehmet.oz (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #4694024278113255425-28-1775751379 - Holdem no limit (30/60) - 2026/04/09 16:16:19 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mehmet.oz (955)
+Seat 2: Samponi (545)
+*** ANTE/BLINDS ***
+mehmet.oz posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [Ac Js]
+*** PRE-FLOP *** 
+mehmet.oz raises 60 to 120
+Samponi raises 425 to 545 and is all-in
+mehmet.oz calls 425
+*** FLOP *** [As 6c Kd]
+*** TURN *** [As 6c Kd][7h]
+*** RIVER *** [As 6c Kd 7h][6s]
+*** SHOW DOWN ***
+mehmet.oz shows [Qh Qc] (Two pairs : Queens and 6)
+Samponi shows [Ac Js] (Two pairs : Aces and 6)
+Samponi collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | No rake
+Board: [As 6c Kd 7h 6s]
+Seat 1: mehmet.oz (small blind) (button) showed [Qh Qc] and lost with Two pairs : Queens and 6
+Seat 2: Samponi (big blind) showed [Ac Js] and won 1090 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #4694024278113255425-29-1775751394 - Holdem no limit (30/60) - 2026/04/09 16:16:34 UTC
+Table: 'Expresso(1092912694)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mehmet.oz (410)
+Seat 2: Samponi (1090)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+mehmet.oz posts big blind 60
+Dealt to Samponi [Jh Qh]
+*** PRE-FLOP *** 
+Samponi raises 60 to 120
+mehmet.oz raises 290 to 410 and is all-in
+Samponi calls 290
+*** FLOP *** [9s 3d 9d]
+*** TURN *** [9s 3d 9d][Qd]
+*** RIVER *** [9s 3d 9d Qd][7h]
+*** SHOW DOWN ***
+mehmet.oz shows [Ah 6h] (One pair : 9)
+Samponi shows [Jh Qh] (Two pairs : Queens and 9)
+Samponi collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [9s 3d 9d Qd 7h]
+Seat 1: mehmet.oz (big blind) showed [Ah 6h] and lost with One pair : 9
+Seat 2: Samponi (small blind) (button) showed [Jh Qh] and won 820 with Two pairs : Queens and 9
+
+

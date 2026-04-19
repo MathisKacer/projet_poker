@@ -1,0 +1,28 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668535476867563521-1-1774797259 - Holdem no limit (10/20) - 2026/03/29 15:14:19 UTC
+Table: 'Expresso Nitro(1086978120)#0' 3-max (real money) Seat #1 is the button
+Seat 1: R.Farinas (300)
+Seat 2: Samponi (300)
+Seat 3: Anarchy30 (300)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Anarchy30 posts big blind 20
+Dealt to Samponi [2s 2h]
+*** PRE-FLOP *** 
+R.Farinas raises 20 to 40
+Samponi raises 260 to 300 and is all-in
+Anarchy30 folds
+R.Farinas calls 260 and is all-in
+*** FLOP *** [6s 4d 9d]
+*** TURN *** [6s 4d 9d][Qh]
+*** RIVER *** [6s 4d 9d Qh][4c]
+*** SHOW DOWN ***
+Samponi shows [2s 2h] (Two pairs : 4 and 2)
+R.Farinas shows [Qc Ah] (Two pairs : Queens and 4)
+R.Farinas collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [6s 4d 9d Qh 4c]
+Seat 1: R.Farinas (button) showed [Qc Ah] and won 620 with Two pairs : Queens and 4
+Seat 2: Samponi (small blind) showed [2s 2h] and lost with Two pairs : 4 and 2
+
+

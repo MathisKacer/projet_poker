@@ -1,0 +1,76 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668538582128918529-1-1774797440 - Holdem no limit (10/20) - 2026/03/29 15:17:20 UTC
+Table: 'Expresso Nitro(1086978843)#0' 3-max (real money) Seat #3 is the button
+Seat 1: TMPulga71428 (300)
+Seat 2: Samponi (300)
+Seat 3: Scorp1o (300)
+*** ANTE/BLINDS ***
+TMPulga71428 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [8s 7c]
+*** PRE-FLOP *** 
+Scorp1o raises 20 to 40
+TMPulga71428 calls 30
+Samponi folds
+*** FLOP *** [8c Ad 9s]
+TMPulga71428 bets 20
+Scorp1o folds
+TMPulga71428 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8c Ad 9s]
+Seat 1: TMPulga71428 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668538582128918529-2-1774797462 - Holdem no limit (10/20) - 2026/03/29 15:17:42 UTC
+Table: 'Expresso Nitro(1086978843)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TMPulga71428 (360)
+Seat 2: Samponi (280)
+Seat 3: Scorp1o (260)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Scorp1o posts big blind 20
+Dealt to Samponi [Qh 2c]
+*** PRE-FLOP *** 
+TMPulga71428 calls 20
+Samponi folds
+Scorp1o checks
+*** FLOP *** [8d 4s 2s]
+Scorp1o checks
+TMPulga71428 bets 20
+Scorp1o folds
+TMPulga71428 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [8d 4s 2s]
+Seat 1: TMPulga71428 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668538582128918529-3-1774797479 - Holdem no limit (10/20) - 2026/03/29 15:17:59 UTC
+Table: 'Expresso Nitro(1086978843)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TMPulga71428 (390)
+Seat 2: Samponi (270)
+Seat 3: Scorp1o (240)
+*** ANTE/BLINDS ***
+Scorp1o posts small blind 10
+TMPulga71428 posts big blind 20
+Dealt to Samponi [As Jd]
+*** PRE-FLOP *** 
+Samponi raises 250 to 270 and is all-in
+Scorp1o calls 230 and is all-in
+TMPulga71428 calls 250
+*** FLOP *** [Js 2d Kc]
+*** TURN *** [Js 2d Kc][4c]
+*** RIVER *** [Js 2d Kc 4c][4s]
+*** SHOW DOWN ***
+Samponi shows [As Jd] (Two pairs : Jacks and 4)
+Scorp1o shows [Ad 5h] (One pair : 4)
+TMPulga71428 shows [Qs Ks] (Two pairs : Kings and 4)
+TMPulga71428 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Js 2d Kc 4c 4s]
+Seat 1: TMPulga71428 (big blind) showed [Qs Ks] and won 780 with Two pairs : Kings and 4
+Seat 2: Samponi (button) showed [As Jd] and lost with Two pairs : Jacks and 4
+Seat 3: Scorp1o (small blind) showed [Ad 5h] and lost with One pair : 4
+
+

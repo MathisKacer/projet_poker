@@ -1,0 +1,306 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668548606582587393-1-1774797735 - Holdem no limit (10/20) - 2026/03/29 15:22:15 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LMK020320 (300)
+Seat 2: Samponi (300)
+Seat 3: Corleone3000 (300)
+*** ANTE/BLINDS ***
+LMK020320 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [3d 3c]
+*** PRE-FLOP *** 
+Corleone3000 folds
+LMK020320 calls 10
+Samponi checks
+*** FLOP *** [8s Qd 5s]
+LMK020320 checks
+Samponi checks
+*** TURN *** [8s Qd 5s][Jh]
+LMK020320 checks
+Samponi checks
+*** RIVER *** [8s Qd 5s Jh][Ts]
+LMK020320 checks
+Samponi checks
+*** SHOW DOWN ***
+LMK020320 shows [4c 7c] (High card : Queen)
+Samponi shows [3d 3c] (One pair : 3)
+Samponi collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [8s Qd 5s Jh Ts]
+Seat 1: LMK020320 (small blind) showed [4c 7c] and lost with High card : Queen
+Seat 2: Samponi (big blind) showed [3d 3c] and won 40 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668548606582587393-2-1774797754 - Holdem no limit (10/20) - 2026/03/29 15:22:34 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LMK020320 (280)
+Seat 2: Samponi (320)
+Seat 3: Corleone3000 (300)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Corleone3000 posts big blind 20
+Dealt to Samponi [7h 8h]
+*** PRE-FLOP *** 
+LMK020320 calls 20
+Samponi calls 10
+Corleone3000 checks
+*** FLOP *** [Jc Jd 9d]
+Samponi bets 20
+Corleone3000 calls 20
+LMK020320 raises 120 to 140
+Samponi folds
+Corleone3000 calls 120
+*** TURN *** [Jc Jd 9d][8s]
+Corleone3000 checks
+LMK020320 bets 120 and is all-in
+Corleone3000 calls 120
+*** RIVER *** [Jc Jd 9d 8s][Td]
+*** SHOW DOWN ***
+LMK020320 shows [5c Jh] (Trips of Jacks)
+Corleone3000 shows [Qd Ts] (Straight Queen high)
+Corleone3000 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jc Jd 9d 8s Td]
+Seat 1: LMK020320 (button) showed [5c Jh] and lost with Trips of Jacks
+Seat 3: Corleone3000 (big blind) showed [Qd Ts] and won 600 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4668548606582587393-3-1774797777 - Holdem no limit (10/20) - 2026/03/29 15:22:57 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Samponi (280)
+Seat 3: Corleone3000 (620)
+*** ANTE/BLINDS ***
+Corleone3000 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [2c 6c]
+*** PRE-FLOP *** 
+Corleone3000 calls 10
+Samponi checks
+*** FLOP *** [5s 9h 5d]
+Samponi checks
+Corleone3000 bets 26
+Samponi folds
+Corleone3000 collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [5s 9h 5d]
+Seat 3: Corleone3000 (small blind) (button) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668548606582587393-4-1774797794 - Holdem no limit (15/30) - 2026/03/29 15:23:14 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Samponi (260)
+Seat 3: Corleone3000 (640)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Corleone3000 posts big blind 30
+Dealt to Samponi [6c 2h]
+*** PRE-FLOP *** 
+Samponi folds
+Corleone3000 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Corleone3000 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668548606582587393-5-1774797799 - Holdem no limit (15/30) - 2026/03/29 15:23:19 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Samponi (245)
+Seat 3: Corleone3000 (655)
+*** ANTE/BLINDS ***
+Corleone3000 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [Jh Qh]
+*** PRE-FLOP *** 
+Corleone3000 calls 15
+Samponi raises 215 to 245 and is all-in
+Corleone3000 folds
+Samponi collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Seat 2: Samponi (big blind) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668548606582587393-6-1774797808 - Holdem no limit (15/30) - 2026/03/29 15:23:28 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Samponi (275)
+Seat 3: Corleone3000 (625)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Corleone3000 posts big blind 30
+Dealt to Samponi [6c 4d]
+*** PRE-FLOP *** 
+Samponi folds
+Corleone3000 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Corleone3000 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668548606582587393-7-1774797819 - Holdem no limit (15/30) - 2026/03/29 15:23:39 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Samponi (260)
+Seat 3: Corleone3000 (640)
+*** ANTE/BLINDS ***
+Corleone3000 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [Ts 2s]
+*** PRE-FLOP *** 
+Corleone3000 calls 15
+Samponi checks
+*** FLOP *** [7c 4c 6s]
+Samponi checks
+Corleone3000 checks
+*** TURN *** [7c 4c 6s][Ks]
+Samponi bets 30
+Corleone3000 folds
+Samponi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [7c 4c 6s Ks]
+Seat 2: Samponi (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4668548606582587393-8-1774797850 - Holdem no limit (15/30) - 2026/03/29 15:24:10 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Samponi (290)
+Seat 3: Corleone3000 (610)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Corleone3000 posts big blind 30
+Dealt to Samponi [8d 6h]
+*** PRE-FLOP *** 
+Samponi folds
+Corleone3000 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Corleone3000 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668548606582587393-9-1774797854 - Holdem no limit (20/40) - 2026/03/29 15:24:14 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Samponi (275)
+Seat 3: Corleone3000 (625)
+*** ANTE/BLINDS ***
+Corleone3000 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [9d 8h]
+*** PRE-FLOP *** 
+Corleone3000 raises 585 to 625 and is all-in
+Samponi folds
+Corleone3000 collected 665 from pot
+*** SUMMARY ***
+Total pot 665 | No rake
+Seat 3: Corleone3000 (small blind) (button) won 665
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668548606582587393-10-1774797862 - Holdem no limit (20/40) - 2026/03/29 15:24:22 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Samponi (235)
+Seat 3: Corleone3000 (665)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Corleone3000 posts big blind 40
+Dealt to Samponi [7d Tc]
+*** PRE-FLOP *** 
+Samponi folds
+Corleone3000 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Corleone3000 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668548606582587393-11-1774797868 - Holdem no limit (20/40) - 2026/03/29 15:24:28 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Samponi (215)
+Seat 3: Corleone3000 (685)
+*** ANTE/BLINDS ***
+Corleone3000 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [Kc Kd]
+*** PRE-FLOP *** 
+Corleone3000 folds
+Samponi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Samponi (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668548606582587393-12-1774797872 - Holdem no limit (20/40) - 2026/03/29 15:24:32 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Samponi (235)
+Seat 3: Corleone3000 (665)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Corleone3000 posts big blind 40
+Dealt to Samponi [Jc 8h]
+*** PRE-FLOP *** 
+Samponi calls 20
+Corleone3000 raises 625 to 665 and is all-in
+Samponi folds
+Corleone3000 collected 705 from pot
+*** SUMMARY ***
+Total pot 705 | No rake
+Seat 3: Corleone3000 (big blind) won 705
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668548606582587393-13-1774797880 - Holdem no limit (20/40) - 2026/03/29 15:24:40 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Samponi (195)
+Seat 3: Corleone3000 (705)
+*** ANTE/BLINDS ***
+Corleone3000 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [8d 6c]
+*** PRE-FLOP *** 
+Corleone3000 raises 665 to 705 and is all-in
+Samponi folds
+Corleone3000 collected 745 from pot
+*** SUMMARY ***
+Total pot 745 | No rake
+Seat 3: Corleone3000 (small blind) (button) won 745
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668548606582587393-14-1774797886 - Holdem no limit (20/40) - 2026/03/29 15:24:46 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Samponi (155)
+Seat 3: Corleone3000 (745)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Corleone3000 posts big blind 40
+Dealt to Samponi [Qd 4c]
+*** PRE-FLOP *** 
+Samponi raises 115 to 155 and is all-in
+Corleone3000 folds
+Samponi collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Seat 2: Samponi (small blind) (button) won 195
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4668548606582587393-15-1774797892 - Holdem no limit (20/40) - 2026/03/29 15:24:52 UTC
+Table: 'Expresso Nitro(1086981177)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Samponi (195)
+Seat 3: Corleone3000 (705)
+*** ANTE/BLINDS ***
+Corleone3000 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [As 4s]
+*** PRE-FLOP *** 
+Corleone3000 raises 665 to 705 and is all-in
+Samponi calls 155 and is all-in
+*** FLOP *** [3h 9d 2s]
+*** TURN *** [3h 9d 2s][6d]
+*** RIVER *** [3h 9d 2s 6d][8c]
+*** SHOW DOWN ***
+Samponi shows [As 4s] (High card : Ace)
+Corleone3000 shows [Js 9c] (One pair : 9)
+Corleone3000 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3h 9d 2s 6d 8c]
+Seat 2: Samponi (big blind) showed [As 4s] and lost with High card : Ace
+Seat 3: Corleone3000 (small blind) (button) showed [Js 9c] and won 900 with One pair : 9
+
+

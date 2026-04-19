@@ -20,15 +20,9 @@ def trier_fichiers():
 
         if "Expresso" in nom_fichier and "_summary" in nom_fichier:
             chemin_destination = os.path.join(dossier_resumes, nom_fichier)
-            print(f"Déplacement du résumé : {nom_fichier}")
 
         elif "Expresso" in nom_fichier:
             chemin_destination = os.path.join(dossier_mains, nom_fichier)
-            print(f"Déplacement de la main : {nom_fichier}")
 
         # 3. On déplace le fichier
         shutil.move(chemin_initial, chemin_destination)
-
-# Exécution
-trier_fichiers()
-print("Terminé ! Tous les fichiers ont été classés.")

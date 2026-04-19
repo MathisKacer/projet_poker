@@ -1,0 +1,27 @@
+Winamax Poker - Tournament "Expresso Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4715983728638164993-1-1776609585 - Holdem no limit (10/20) - 2026/04/19 14:39:45 UTC
+Table: 'Expresso Freeroll(1098025527)#0' 3-max (real money) Seat #3 is the button
+Seat 1: sissibeste (500)
+Seat 2: Rabajo (500)
+Seat 3: Samponi (500)
+*** ANTE/BLINDS ***
+sissibeste posts small blind 10
+Rabajo posts big blind 20
+Dealt to Samponi [5c Kh]
+*** PRE-FLOP *** 
+Samponi raises 480 to 500 and is all-in
+sissibeste calls 490 and is all-in
+Rabajo folds
+*** FLOP *** [9s As Td]
+*** TURN *** [9s As Td][Th]
+*** RIVER *** [9s As Td Th][3d]
+*** SHOW DOWN ***
+Samponi shows [5c Kh] (One pair : Tens)
+sissibeste shows [3c Ks] (Two pairs : Tens and 3)
+sissibeste collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [9s As Td Th 3d]
+Seat 1: sissibeste (small blind) showed [3c Ks] and won 1020 with Two pairs : Tens and 3
+Seat 3: Samponi (button) showed [5c Kh] and lost with One pair : Tens
+
+

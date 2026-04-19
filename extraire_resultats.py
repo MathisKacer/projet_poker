@@ -27,12 +27,3 @@ def parse_resume(chemin_fichier):
     }
 
     return summary_data
-
-
-data = parse_resume
-("resultat_test.txt")
-if data:
-    all_summaries.append(data)
-
-df_summary = pd.DataFrame(all_summaries)
-print(df_summary)

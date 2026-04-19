@@ -1,0 +1,950 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4712006838030172161-1-1776436803 - Holdem no limit (10/20) - 2026/04/17 14:40:03 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (500)
+Seat 2: Samponi (500)
+Seat 3: vecudefou76 (500)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+vecudefou76 posts big blind 20
+Dealt to Samponi [Qs Ad]
+*** PRE-FLOP *** 
+benoitp1717 folds
+Samponi raises 40 to 60
+vecudefou76 folds
+Samponi collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: Samponi (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4712006838030172161-2-1776436811 - Holdem no limit (10/20) - 2026/04/17 14:40:11 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (500)
+Seat 2: Samponi (520)
+Seat 3: vecudefou76 (480)
+*** ANTE/BLINDS ***
+vecudefou76 posts small blind 10
+benoitp1717 posts big blind 20
+Dealt to Samponi [7d 4d]
+*** PRE-FLOP *** 
+Samponi folds
+vecudefou76 calls 10
+benoitp1717 raises 30 to 50
+vecudefou76 folds
+benoitp1717 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: benoitp1717 (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4712006838030172161-3-1776436828 - Holdem no limit (10/20) - 2026/04/17 14:40:28 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #3 is the button
+Seat 1: benoitp1717 (520)
+Seat 2: Samponi (520)
+Seat 3: vecudefou76 (460)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [Qd Ac]
+*** PRE-FLOP *** 
+vecudefou76 folds
+benoitp1717 calls 10
+Samponi raises 30 to 50
+benoitp1717 folds
+Samponi collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: Samponi (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4712006838030172161-4-1776436838 - Holdem no limit (10/20) - 2026/04/17 14:40:38 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (500)
+Seat 2: Samponi (540)
+Seat 3: vecudefou76 (460)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+vecudefou76 posts big blind 20
+Dealt to Samponi [9d 3s]
+*** PRE-FLOP *** 
+benoitp1717 raises 30 to 50
+Samponi folds
+vecudefou76 folds
+benoitp1717 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: benoitp1717 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4712006838030172161-5-1776436846 - Holdem no limit (10/20) - 2026/04/17 14:40:46 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (530)
+Seat 2: Samponi (530)
+Seat 3: vecudefou76 (440)
+*** ANTE/BLINDS ***
+vecudefou76 posts small blind 10
+benoitp1717 posts big blind 20
+Dealt to Samponi [Qs 4c]
+*** PRE-FLOP *** 
+Samponi folds
+vecudefou76 calls 10
+benoitp1717 checks
+*** FLOP *** [4s 7c 8c]
+vecudefou76 bets 20
+benoitp1717 raises 30 to 50
+vecudefou76 calls 30
+*** TURN *** [4s 7c 8c][4h]
+vecudefou76 checks
+benoitp1717 checks
+*** RIVER *** [4s 7c 8c 4h][Ks]
+vecudefou76 bets 49
+benoitp1717 folds
+vecudefou76 collected 189 from pot
+*** SUMMARY ***
+Total pot 189 | No rake
+Board: [4s 7c 8c 4h Ks]
+Seat 3: vecudefou76 (small blind) won 189
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4712006838030172161-6-1776436870 - Holdem no limit (10/20) - 2026/04/17 14:41:10 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #3 is the button
+Seat 1: benoitp1717 (460)
+Seat 2: Samponi (530)
+Seat 3: vecudefou76 (510)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [2h Kc]
+*** PRE-FLOP *** 
+vecudefou76 raises 490 to 510 and is all-in
+benoitp1717 folds
+Samponi folds
+vecudefou76 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 3: vecudefou76 (button) won 540
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4712006838030172161-7-1776436878 - Holdem no limit (10/20) - 2026/04/17 14:41:18 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (450)
+Seat 2: Samponi (510)
+Seat 3: vecudefou76 (540)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+vecudefou76 posts big blind 20
+Dealt to Samponi [Jd 8h]
+*** PRE-FLOP *** 
+benoitp1717 folds
+Samponi raises 20 to 40
+vecudefou76 calls 20
+*** FLOP *** [Kc 7s 8s]
+Samponi checks
+vecudefou76 checks
+*** TURN *** [Kc 7s 8s][3d]
+Samponi bets 40
+vecudefou76 calls 40
+*** RIVER *** [Kc 7s 8s 3d][9d]
+Samponi checks
+vecudefou76 checks
+*** SHOW DOWN ***
+vecudefou76 shows [4s 6d] (High card : King)
+Samponi shows [Jd 8h] (One pair : 8)
+Samponi collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Kc 7s 8s 3d 9d]
+Seat 2: Samponi (small blind) showed [Jd 8h] and won 160 with One pair : 8
+Seat 3: vecudefou76 (big blind) showed [4s 6d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4712006838030172161-8-1776436900 - Holdem no limit (15/30) - 2026/04/17 14:41:40 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (450)
+Seat 2: Samponi (590)
+Seat 3: vecudefou76 (460)
+*** ANTE/BLINDS ***
+vecudefou76 posts small blind 15
+benoitp1717 posts big blind 30
+Dealt to Samponi [9c Qh]
+*** PRE-FLOP *** 
+Samponi folds
+vecudefou76 calls 15
+benoitp1717 checks
+*** FLOP *** [Qc 9h 8d]
+vecudefou76 checks
+benoitp1717 bets 30
+vecudefou76 calls 30
+*** TURN *** [Qc 9h 8d][7d]
+vecudefou76 checks
+benoitp1717 bets 45
+vecudefou76 calls 45
+*** RIVER *** [Qc 9h 8d 7d][3d]
+vecudefou76 checks
+benoitp1717 bets 210
+vecudefou76 calls 210
+*** SHOW DOWN ***
+vecudefou76 shows [7c Jh] (One pair : 7)
+benoitp1717 shows [9d Jd] (Flush Jack high)
+benoitp1717 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Qc 9h 8d 7d 3d]
+Seat 1: benoitp1717 (big blind) showed [9d Jd] and won 630 with Flush Jack high
+Seat 3: vecudefou76 (small blind) showed [7c Jh] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4712006838030172161-9-1776436925 - Holdem no limit (15/30) - 2026/04/17 14:42:05 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #3 is the button
+Seat 1: benoitp1717 (765)
+Seat 2: Samponi (590)
+Seat 3: vecudefou76 (145)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [2s Ks]
+*** PRE-FLOP *** 
+vecudefou76 raises 115 to 145 and is all-in
+benoitp1717 folds
+Samponi folds
+vecudefou76 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Seat 3: vecudefou76 (button) won 190
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4712006838030172161-10-1776436935 - Holdem no limit (15/30) - 2026/04/17 14:42:15 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (750)
+Seat 2: Samponi (560)
+Seat 3: vecudefou76 (190)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+vecudefou76 posts big blind 30
+Dealt to Samponi [Kd Qc]
+*** PRE-FLOP *** 
+benoitp1717 raises 45 to 75
+Samponi calls 60
+vecudefou76 raises 60 to 135
+benoitp1717 calls 60
+Samponi calls 60
+*** FLOP *** [7s 5d Ts]
+Samponi checks
+vecudefou76 bets 55 and is all-in
+benoitp1717 raises 55 to 110
+Samponi folds
+*** TURN *** [7s 5d Ts][7d]
+*** RIVER *** [7s 5d Ts 7d][9d]
+*** SHOW DOWN ***
+vecudefou76 shows [Qs Kh] (One pair : 7)
+benoitp1717 shows [As 4s] (One pair : 7)
+benoitp1717 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [7s 5d Ts 7d 9d]
+Seat 1: benoitp1717 (button) showed [As 4s] and won 570 with One pair : 7
+Seat 3: vecudefou76 (big blind) showed [Qs Kh] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4712006838030172161-11-1776436970 - Holdem no limit (15/30) - 2026/04/17 14:42:50 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (1075)
+Seat 2: Samponi (425)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [3c 9s]
+*** PRE-FLOP *** 
+benoitp1717 calls 15
+Samponi checks
+*** FLOP *** [7d 7h Td]
+Samponi checks
+benoitp1717 checks
+*** TURN *** [7d 7h Td][Ac]
+Samponi checks
+benoitp1717 checks
+*** RIVER *** [7d 7h Td Ac][6h]
+Samponi checks
+benoitp1717 checks
+*** SHOW DOWN ***
+benoitp1717 shows [4s 5c] (One pair : 7)
+Samponi shows [3c 9s] (One pair : 7)
+Samponi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7d 7h Td Ac 6h]
+Seat 1: benoitp1717 (small blind) (button) showed [4s 5c] and lost with One pair : 7
+Seat 2: Samponi (big blind) showed [3c 9s] and won 60 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712006838030172161-12-1776436994 - Holdem no limit (20/40) - 2026/04/17 14:43:14 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (1045)
+Seat 2: Samponi (455)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+benoitp1717 posts big blind 40
+Dealt to Samponi [8h Jd]
+*** PRE-FLOP *** 
+Samponi raises 40 to 80
+benoitp1717 calls 40
+*** FLOP *** [Kd 3c 3h]
+benoitp1717 bets 80
+Samponi folds
+benoitp1717 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Kd 3c 3h]
+Seat 1: benoitp1717 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712006838030172161-13-1776437006 - Holdem no limit (20/40) - 2026/04/17 14:43:26 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (1125)
+Seat 2: Samponi (375)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [7c Qd]
+*** PRE-FLOP *** 
+benoitp1717 calls 20
+Samponi checks
+*** FLOP *** [9s Jc 9c]
+Samponi bets 40
+benoitp1717 folds
+Samponi collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9s Jc 9c]
+Seat 2: Samponi (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712006838030172161-14-1776437017 - Holdem no limit (20/40) - 2026/04/17 14:43:37 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (1085)
+Seat 2: Samponi (415)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+benoitp1717 posts big blind 40
+Dealt to Samponi [4c 3h]
+*** PRE-FLOP *** 
+Samponi folds
+benoitp1717 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: benoitp1717 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712006838030172161-15-1776437021 - Holdem no limit (20/40) - 2026/04/17 14:43:41 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (1105)
+Seat 2: Samponi (395)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [Kh Qc]
+*** PRE-FLOP *** 
+benoitp1717 calls 20
+Samponi raises 80 to 120
+benoitp1717 calls 80
+*** FLOP *** [4h Qd 5c]
+Samponi bets 84
+benoitp1717 raises 84 to 168
+Samponi raises 107 to 275 and is all-in
+benoitp1717 calls 107
+*** TURN *** [4h Qd 5c][3c]
+*** RIVER *** [4h Qd 5c 3c][7d]
+*** SHOW DOWN ***
+benoitp1717 shows [Qs 8c] (One pair : Queens)
+Samponi shows [Kh Qc] (One pair : Queens)
+Samponi collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [4h Qd 5c 3c 7d]
+Seat 1: benoitp1717 (small blind) (button) showed [Qs 8c] and lost with One pair : Queens
+Seat 2: Samponi (big blind) showed [Kh Qc] and won 790 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712006838030172161-16-1776437048 - Holdem no limit (20/40) - 2026/04/17 14:44:08 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (710)
+Seat 2: Samponi (790)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+benoitp1717 posts big blind 40
+Dealt to Samponi [2h Jd]
+*** PRE-FLOP *** 
+Samponi folds
+benoitp1717 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: benoitp1717 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4712006838030172161-17-1776437052 - Holdem no limit (20/40) - 2026/04/17 14:44:12 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (730)
+Seat 2: Samponi (770)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [7s Ks]
+*** PRE-FLOP *** 
+benoitp1717 raises 60 to 100
+Samponi calls 60
+*** FLOP *** [Jd 7d 2s]
+Samponi checks
+benoitp1717 bets 100
+Samponi calls 100
+*** TURN *** [Jd 7d 2s][5s]
+Samponi checks
+benoitp1717 checks
+*** RIVER *** [Jd 7d 2s 5s][2c]
+Samponi bets 200
+benoitp1717 folds
+Samponi collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jd 7d 2s 5s 2c]
+Seat 2: Samponi (big blind) won 600
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712006838030172161-18-1776437083 - Holdem no limit (30/60) - 2026/04/17 14:44:43 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (530)
+Seat 2: Samponi (970)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+benoitp1717 posts big blind 60
+Dealt to Samponi [Tc Kd]
+*** PRE-FLOP *** 
+Samponi raises 60 to 120
+benoitp1717 calls 60
+*** FLOP *** [9c 9h 5h]
+benoitp1717 checks
+Samponi checks
+*** TURN *** [9c 9h 5h][2h]
+benoitp1717 bets 60
+Samponi raises 90 to 150
+benoitp1717 calls 90
+*** RIVER *** [9c 9h 5h 2h][Ah]
+benoitp1717 bets 260 and is all-in
+Samponi folds
+benoitp1717 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [9c 9h 5h 2h Ah]
+Seat 1: benoitp1717 (big blind) won 800
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712006838030172161-19-1776437102 - Holdem no limit (30/60) - 2026/04/17 14:45:02 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (800)
+Seat 2: Samponi (700)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [Tc 5s]
+*** PRE-FLOP *** 
+benoitp1717 raises 90 to 150
+Samponi folds
+benoitp1717 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 1: benoitp1717 (small blind) (button) won 210
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712006838030172161-20-1776437108 - Holdem no limit (30/60) - 2026/04/17 14:45:08 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (860)
+Seat 2: Samponi (640)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+benoitp1717 posts big blind 60
+Dealt to Samponi [9h 6s]
+*** PRE-FLOP *** 
+Samponi folds
+benoitp1717 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: benoitp1717 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712006838030172161-21-1776437112 - Holdem no limit (30/60) - 2026/04/17 14:45:12 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (890)
+Seat 2: Samponi (610)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [2d 4s]
+*** PRE-FLOP *** 
+benoitp1717 calls 30
+Samponi checks
+*** FLOP *** [Kc 9d Qc]
+Samponi checks
+benoitp1717 bets 120
+Samponi folds
+benoitp1717 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Kc 9d Qc]
+Seat 1: benoitp1717 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712006838030172161-22-1776437125 - Holdem no limit (30/60) - 2026/04/17 14:45:25 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (950)
+Seat 2: Samponi (550)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+benoitp1717 posts big blind 60
+Dealt to Samponi [3c Qd]
+*** PRE-FLOP *** 
+Samponi folds
+benoitp1717 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: benoitp1717 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712006838030172161-23-1776437129 - Holdem no limit (30/60) - 2026/04/17 14:45:29 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (980)
+Seat 2: Samponi (520)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [9s 7d]
+*** PRE-FLOP *** 
+benoitp1717 calls 30
+Samponi checks
+*** FLOP *** [Jd 7h Kh]
+Samponi checks
+benoitp1717 bets 60
+Samponi calls 60
+*** TURN *** [Jd 7h Kh][Ac]
+Samponi checks
+benoitp1717 checks
+*** RIVER *** [Jd 7h Kh Ac][6c]
+Samponi bets 400 and is all-in
+benoitp1717 folds
+Samponi collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Jd 7h Kh Ac 6c]
+Seat 2: Samponi (big blind) won 640
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712006838030172161-24-1776437146 - Holdem no limit (30/60) - 2026/04/17 14:45:46 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (860)
+Seat 2: Samponi (640)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+benoitp1717 posts big blind 60
+Dealt to Samponi [9h 7c]
+*** PRE-FLOP *** 
+Samponi folds
+benoitp1717 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: benoitp1717 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712006838030172161-25-1776437150 - Holdem no limit (30/60) - 2026/04/17 14:45:50 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (890)
+Seat 2: Samponi (610)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [Kc Ah]
+*** PRE-FLOP *** 
+benoitp1717 raises 90 to 150
+Samponi raises 460 to 610 and is all-in
+benoitp1717 folds
+Samponi collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Seat 2: Samponi (big blind) won 760
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4712006838030172161-26-1776437159 - Holdem no limit (30/60) - 2026/04/17 14:45:59 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (740)
+Seat 2: Samponi (760)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+benoitp1717 posts big blind 60
+Dealt to Samponi [5c Qs]
+*** PRE-FLOP *** 
+Samponi folds
+benoitp1717 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: benoitp1717 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712006838030172161-27-1776437163 - Holdem no limit (40/80) - 2026/04/17 14:46:03 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (770)
+Seat 2: Samponi (730)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [5h 7h]
+*** PRE-FLOP *** 
+benoitp1717 calls 40
+Samponi checks
+*** FLOP *** [Qs Th 6s]
+Samponi bets 80
+benoitp1717 raises 80 to 160
+Samponi folds
+benoitp1717 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Qs Th 6s]
+Seat 1: benoitp1717 (small blind) (button) won 400
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712006838030172161-28-1776437174 - Holdem no limit (40/80) - 2026/04/17 14:46:14 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (930)
+Seat 2: Samponi (570)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+benoitp1717 posts big blind 80
+Dealt to Samponi [6c Tc]
+*** PRE-FLOP *** 
+Samponi calls 40
+benoitp1717 raises 120 to 200
+Samponi folds
+benoitp1717 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 1: benoitp1717 (big blind) won 280
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712006838030172161-29-1776437186 - Holdem no limit (40/80) - 2026/04/17 14:46:26 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (1010)
+Seat 2: Samponi (490)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [Qh 7s]
+*** PRE-FLOP *** 
+benoitp1717 calls 40
+Samponi checks
+*** FLOP *** [8d 3d 9d]
+Samponi checks
+benoitp1717 checks
+*** TURN *** [8d 3d 9d][6h]
+Samponi checks
+benoitp1717 checks
+*** RIVER *** [8d 3d 9d 6h][Qc]
+Samponi checks
+benoitp1717 bets 160
+Samponi raises 160 to 320
+benoitp1717 calls 160
+*** SHOW DOWN ***
+benoitp1717 shows [7h Qs] (One pair : Queens)
+Samponi shows [Qh 7s] (One pair : Queens)
+Samponi collected 400 from pot
+benoitp1717 collected 400 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [8d 3d 9d 6h Qc]
+Seat 1: benoitp1717 (small blind) (button) showed [7h Qs] and won 400 with One pair : Queens
+Seat 2: Samponi (big blind) showed [Qh 7s] and won 400 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712006838030172161-30-1776437209 - Holdem no limit (40/80) - 2026/04/17 14:46:49 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (1010)
+Seat 2: Samponi (490)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+benoitp1717 posts big blind 80
+Dealt to Samponi [Jd 7c]
+*** PRE-FLOP *** 
+Samponi folds
+benoitp1717 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: benoitp1717 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712006838030172161-31-1776437214 - Holdem no limit (40/80) - 2026/04/17 14:46:54 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (1050)
+Seat 2: Samponi (450)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [Ah 2h]
+*** PRE-FLOP *** 
+benoitp1717 calls 40
+Samponi raises 370 to 450 and is all-in
+benoitp1717 folds
+Samponi collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 2: Samponi (big blind) won 530
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712006838030172161-32-1776437227 - Holdem no limit (40/80) - 2026/04/17 14:47:07 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (970)
+Seat 2: Samponi (530)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+benoitp1717 posts big blind 80
+Dealt to Samponi [Kd 9s]
+*** PRE-FLOP *** 
+Samponi raises 80 to 160
+benoitp1717 calls 80
+*** FLOP *** [8h 9d 8c]
+benoitp1717 checks
+Samponi bets 160
+benoitp1717 folds
+Samponi collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [8h 9d 8c]
+Seat 2: Samponi (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712006838030172161-33-1776437240 - Holdem no limit (40/80) - 2026/04/17 14:47:20 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (810)
+Seat 2: Samponi (690)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 40
+Samponi posts big blind 80
+Dealt to Samponi [3h Kd]
+*** PRE-FLOP *** 
+benoitp1717 raises 160 to 240
+Samponi folds
+benoitp1717 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: benoitp1717 (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4712006838030172161-34-1776437247 - Holdem no limit (40/80) - 2026/04/17 14:47:27 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (890)
+Seat 2: Samponi (610)
+*** ANTE/BLINDS ***
+Samponi posts small blind 40
+benoitp1717 posts big blind 80
+Dealt to Samponi [7h Qs]
+*** PRE-FLOP *** 
+Samponi calls 40
+benoitp1717 raises 160 to 240
+Samponi folds
+benoitp1717 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: benoitp1717 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712006838030172161-35-1776437256 - Holdem no limit (50/100) - 2026/04/17 14:47:36 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (970)
+Seat 2: Samponi (530)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 50
+Samponi posts big blind 100
+Dealt to Samponi [9c 9s]
+*** PRE-FLOP *** 
+benoitp1717 calls 50
+Samponi raises 430 to 530 and is all-in
+benoitp1717 folds
+Samponi collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 2: Samponi (big blind) won 630
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712006838030172161-36-1776437266 - Holdem no limit (50/100) - 2026/04/17 14:47:46 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (870)
+Seat 2: Samponi (630)
+*** ANTE/BLINDS ***
+Samponi posts small blind 50
+benoitp1717 posts big blind 100
+Dealt to Samponi [Qc 5c]
+*** PRE-FLOP *** 
+Samponi folds
+benoitp1717 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: benoitp1717 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712006838030172161-37-1776437270 - Holdem no limit (50/100) - 2026/04/17 14:47:50 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (920)
+Seat 2: Samponi (580)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 50
+Samponi posts big blind 100
+Dealt to Samponi [8c 9d]
+*** PRE-FLOP *** 
+benoitp1717 calls 50
+Samponi checks
+*** FLOP *** [Ad 8h Jd]
+Samponi bets 100
+benoitp1717 folds
+Samponi collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Ad 8h Jd]
+Seat 2: Samponi (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712006838030172161-38-1776437284 - Holdem no limit (50/100) - 2026/04/17 14:48:04 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (820)
+Seat 2: Samponi (680)
+*** ANTE/BLINDS ***
+Samponi posts small blind 50
+benoitp1717 posts big blind 100
+Dealt to Samponi [3h 7s]
+*** PRE-FLOP *** 
+Samponi folds
+benoitp1717 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: benoitp1717 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712006838030172161-39-1776437289 - Holdem no limit (50/100) - 2026/04/17 14:48:09 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (870)
+Seat 2: Samponi (630)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 50
+Samponi posts big blind 100
+Dealt to Samponi [Qc Qs]
+*** PRE-FLOP *** 
+benoitp1717 calls 50
+Samponi raises 530 to 630 and is all-in
+benoitp1717 folds
+Samponi collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Seat 2: Samponi (big blind) won 730
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712006838030172161-40-1776437299 - Holdem no limit (50/100) - 2026/04/17 14:48:19 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (770)
+Seat 2: Samponi (730)
+*** ANTE/BLINDS ***
+Samponi posts small blind 50
+benoitp1717 posts big blind 100
+Dealt to Samponi [8s Th]
+*** PRE-FLOP *** 
+Samponi raises 100 to 200
+benoitp1717 calls 100
+*** FLOP *** [Kh 9s 2s]
+benoitp1717 checks
+Samponi bets 530 and is all-in
+benoitp1717 folds
+Samponi collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Board: [Kh 9s 2s]
+Seat 2: Samponi (small blind) (button) won 930
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712006838030172161-41-1776437312 - Holdem no limit (50/100) - 2026/04/17 14:48:32 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (570)
+Seat 2: Samponi (930)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 50
+Samponi posts big blind 100
+Dealt to Samponi [7h Jd]
+*** PRE-FLOP *** 
+benoitp1717 raises 470 to 570 and is all-in
+Samponi folds
+benoitp1717 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 1: benoitp1717 (small blind) (button) won 670
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712006838030172161-42-1776437318 - Holdem no limit (50/100) - 2026/04/17 14:48:38 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (670)
+Seat 2: Samponi (830)
+*** ANTE/BLINDS ***
+Samponi posts small blind 50
+benoitp1717 posts big blind 100
+Dealt to Samponi [7h 9s]
+*** PRE-FLOP *** 
+Samponi folds
+benoitp1717 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: benoitp1717 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4712006838030172161-43-1776437322 - Holdem no limit (50/100) - 2026/04/17 14:48:42 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #1 is the button
+Seat 1: benoitp1717 (720)
+Seat 2: Samponi (780)
+*** ANTE/BLINDS ***
+benoitp1717 posts small blind 50
+Samponi posts big blind 100
+Dealt to Samponi [9h 6d]
+*** PRE-FLOP *** 
+benoitp1717 calls 50
+Samponi checks
+*** FLOP *** [4s 2c Th]
+Samponi checks
+benoitp1717 checks
+*** TURN *** [4s 2c Th][6c]
+Samponi bets 130
+benoitp1717 calls 130
+*** RIVER *** [4s 2c Th 6c][9s]
+Samponi bets 230
+benoitp1717 folds
+Samponi collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [4s 2c Th 6c 9s]
+Seat 2: Samponi (big blind) won 690
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 7 - HandId: #4712006838030172161-44-1776437350 - Holdem no limit (60/120) - 2026/04/17 14:49:10 UTC
+Table: 'Expresso(1097099585)#0' 3-max (real money) Seat #2 is the button
+Seat 1: benoitp1717 (490)
+Seat 2: Samponi (1010)
+*** ANTE/BLINDS ***
+Samponi posts small blind 60
+benoitp1717 posts big blind 120
+Dealt to Samponi [Js As]
+*** PRE-FLOP *** 
+Samponi raises 120 to 240
+benoitp1717 raises 250 to 490 and is all-in
+Samponi calls 250
+*** FLOP *** [9s 9c 4h]
+*** TURN *** [9s 9c 4h][3s]
+*** RIVER *** [9s 9c 4h 3s][7s]
+*** SHOW DOWN ***
+benoitp1717 shows [Qd 5d] (One pair : 9)
+Samponi shows [Js As] (Flush Ace high)
+Samponi collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [9s 9c 4h 3s 7s]
+Seat 1: benoitp1717 (big blind) showed [Qd 5d] and lost with One pair : 9
+Seat 2: Samponi (small blind) (button) showed [Js As] and won 980 with Flush Ace high
+
+

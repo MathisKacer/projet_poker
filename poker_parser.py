@@ -133,15 +133,12 @@ def parse_file(filepath):
 def parse_folder(folder_path):
     dfs = []
     files = list(Path(folder_path).rglob("*.txt"))
-    print(f"{len(files)} fichier(s) trouve(s)")
     for f in files:
         df = parse_file(str(f))
-        print(f"  {f.name} -> {len(df)} mains")
         dfs.append(df)
     if not dfs:
         return pd.DataFrame()
     df = pd.concat(dfs, ignore_index=True)
     df["datetime"] = pd.to_datetime(df["datetime"])
     df = df.sort_values("datetime").reset_index(drop=True)
-    print(f"\nTotal : {len(df)} mains")
     return df

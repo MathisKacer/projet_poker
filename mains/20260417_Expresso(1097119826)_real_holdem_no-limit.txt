@@ -1,0 +1,386 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4712093772463210497-1-1776439739 - Holdem no limit (10/20) - 2026/04/17 15:28:59 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (500)
+Seat 2: Stas1111 (500)
+Seat 3: Carte-662994 (500)
+*** ANTE/BLINDS ***
+Stas1111 posts small blind 10
+Carte-662994 posts big blind 20
+Dealt to Samponi [7h Ah]
+*** PRE-FLOP *** 
+Samponi raises 20 to 40
+Stas1111 folds
+Carte-662994 folds
+Samponi collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: Samponi (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4712093772463210497-2-1776439749 - Holdem no limit (10/20) - 2026/04/17 15:29:09 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (530)
+Seat 2: Stas1111 (490)
+Seat 3: Carte-662994 (480)
+*** ANTE/BLINDS ***
+Carte-662994 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [9h 2c]
+*** PRE-FLOP *** 
+Stas1111 folds
+Carte-662994 calls 10
+Samponi checks
+*** FLOP *** [Qs 7s Ah]
+Carte-662994 checks
+Samponi checks
+*** TURN *** [Qs 7s Ah][7d]
+Carte-662994 checks
+Samponi checks
+*** RIVER *** [Qs 7s Ah 7d][As]
+Carte-662994 checks
+Samponi checks
+*** SHOW DOWN ***
+Samponi shows [9h 2c] (Two pairs : Aces and 7)
+Carte-662994 shows [Ks Td] (Two pairs : Aces and 7)
+Carte-662994 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Qs 7s Ah 7d As]
+Seat 1: Samponi (big blind) showed [9h 2c] and lost with Two pairs : Aces and 7
+Seat 3: Carte-662994 (small blind) showed [Ks Td] and won 40 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4712093772463210497-3-1776439770 - Holdem no limit (10/20) - 2026/04/17 15:29:30 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (510)
+Seat 2: Stas1111 (490)
+Seat 3: Carte-662994 (500)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Stas1111 posts big blind 20
+Dealt to Samponi [7c 3h]
+*** PRE-FLOP *** 
+Carte-662994 folds
+Samponi folds
+Stas1111 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Stas1111 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4712093772463210497-4-1776439778 - Holdem no limit (10/20) - 2026/04/17 15:29:38 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (500)
+Seat 2: Stas1111 (500)
+Seat 3: Carte-662994 (500)
+*** ANTE/BLINDS ***
+Stas1111 posts small blind 10
+Carte-662994 posts big blind 20
+Dealt to Samponi [9h 7s]
+*** PRE-FLOP *** 
+Samponi calls 20
+Stas1111 raises 60 to 80
+Carte-662994 folds
+Samponi folds
+Stas1111 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Stas1111 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4712093772463210497-5-1776439795 - Holdem no limit (10/20) - 2026/04/17 15:29:55 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (480)
+Seat 2: Stas1111 (540)
+Seat 3: Carte-662994 (480)
+*** ANTE/BLINDS ***
+Carte-662994 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [3c 9c]
+*** PRE-FLOP *** 
+Stas1111 folds
+Carte-662994 calls 10
+Samponi checks
+*** FLOP *** [Qc Js Kc]
+Carte-662994 checks
+Samponi checks
+*** TURN *** [Qc Js Kc][6s]
+Carte-662994 checks
+Samponi checks
+*** RIVER *** [Qc Js Kc 6s][Jc]
+Carte-662994 checks
+Samponi bets 20
+Carte-662994 folds
+Samponi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qc Js Kc 6s Jc]
+Seat 1: Samponi (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4712093772463210497-6-1776439833 - Holdem no limit (15/30) - 2026/04/17 15:30:33 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (500)
+Seat 2: Stas1111 (540)
+Seat 3: Carte-662994 (460)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Stas1111 posts big blind 30
+Dealt to Samponi [As Jh]
+*** PRE-FLOP *** 
+Carte-662994 folds
+Samponi calls 15
+Stas1111 checks
+*** FLOP *** [5s Qs 5d]
+Samponi bets 30
+Stas1111 folds
+Samponi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5s Qs 5d]
+Seat 1: Samponi (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4712093772463210497-7-1776439860 - Holdem no limit (15/30) - 2026/04/17 15:31:00 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (530)
+Seat 2: Stas1111 (510)
+Seat 3: Carte-662994 (460)
+*** ANTE/BLINDS ***
+Stas1111 posts small blind 15
+Carte-662994 posts big blind 30
+Dealt to Samponi [3c 9h]
+*** PRE-FLOP *** 
+Samponi folds
+Stas1111 calls 15
+Carte-662994 checks
+*** FLOP *** [Ac Qs 8s]
+Stas1111 checks
+Carte-662994 checks
+*** TURN *** [Ac Qs 8s][2d]
+Stas1111 checks
+Carte-662994 checks
+*** RIVER *** [Ac Qs 8s 2d][4c]
+Stas1111 checks
+Carte-662994 bets 60
+Stas1111 folds
+Carte-662994 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ac Qs 8s 2d 4c]
+Seat 3: Carte-662994 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4712093772463210497-8-1776439889 - Holdem no limit (15/30) - 2026/04/17 15:31:29 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (530)
+Seat 2: Stas1111 (480)
+Seat 3: Carte-662994 (490)
+*** ANTE/BLINDS ***
+Carte-662994 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [6h 5h]
+*** PRE-FLOP *** 
+Stas1111 calls 30
+Carte-662994 calls 15
+Samponi checks
+*** FLOP *** [5c Qc Td]
+Carte-662994 checks
+Samponi checks
+Stas1111 bets 90
+Carte-662994 raises 270 to 360
+Samponi folds
+Stas1111 raises 90 to 450 and is all-in
+Carte-662994 calls 90
+*** TURN *** [5c Qc Td][Kc]
+*** RIVER *** [5c Qc Td Kc][3s]
+*** SHOW DOWN ***
+Stas1111 shows [Qd 2d] (One pair : Queens)
+Carte-662994 shows [Ac Qh] (One pair : Queens)
+Carte-662994 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Board: [5c Qc Td Kc 3s]
+Seat 2: Stas1111 (button) showed [Qd 2d] and lost with One pair : Queens
+Seat 3: Carte-662994 (small blind) showed [Ac Qh] and won 990 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4712093772463210497-9-1776439920 - Holdem no limit (20/40) - 2026/04/17 15:32:00 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (500)
+Seat 3: Carte-662994 (1000)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Carte-662994 posts big blind 40
+Dealt to Samponi [9d 7s]
+*** PRE-FLOP *** 
+Samponi calls 20
+Carte-662994 checks
+*** FLOP *** [Jh 6d As]
+Carte-662994 checks
+Samponi checks
+*** TURN *** [Jh 6d As][9s]
+Carte-662994 checks
+Samponi bets 40
+Carte-662994 calls 40
+*** RIVER *** [Jh 6d As 9s][Ks]
+Carte-662994 bets 160
+Samponi folds
+Carte-662994 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Jh 6d As 9s Ks]
+Seat 3: Carte-662994 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4712093772463210497-10-1776439961 - Holdem no limit (20/40) - 2026/04/17 15:32:41 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (420)
+Seat 3: Carte-662994 (1080)
+*** ANTE/BLINDS ***
+Carte-662994 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [Qs Kh]
+*** PRE-FLOP *** 
+Carte-662994 calls 20
+Samponi raises 80 to 120
+Carte-662994 calls 80
+*** FLOP *** [Jd Ad 4h]
+Samponi bets 120
+Carte-662994 folds
+Samponi collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Jd Ad 4h]
+Seat 1: Samponi (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4712093772463210497-11-1776439981 - Holdem no limit (20/40) - 2026/04/17 15:33:01 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (540)
+Seat 3: Carte-662994 (960)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Carte-662994 posts big blind 40
+Dealt to Samponi [8s Qh]
+*** PRE-FLOP *** 
+Samponi raises 40 to 80
+Carte-662994 raises 160 to 240
+Samponi calls 160
+*** FLOP *** [Kc Jd 4d]
+Carte-662994 bets 720 and is all-in
+Samponi calls 300 and is all-in
+*** TURN *** [Kc Jd 4d][As]
+*** RIVER *** [Kc Jd 4d As][8c]
+*** SHOW DOWN ***
+Samponi shows [8s Qh] (One pair : 8)
+Carte-662994 shows [Qc 7h] (High card : Ace)
+Carte-662994 collected 420 from side pot 1
+Samponi collected 1080 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Kc Jd 4d As 8c]
+Seat 1: Samponi (small blind) (button) showed [8s Qh] and won 1080 with One pair : 8
+Seat 3: Carte-662994 (big blind) showed [Qc 7h] and won 420 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4712093772463210497-12-1776440006 - Holdem no limit (20/40) - 2026/04/17 15:33:26 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (1080)
+Seat 3: Carte-662994 (420)
+*** ANTE/BLINDS ***
+Carte-662994 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [4s 7c]
+*** PRE-FLOP *** 
+Carte-662994 raises 380 to 420 and is all-in
+Samponi folds
+Carte-662994 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 3: Carte-662994 (small blind) (button) won 460
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4712093772463210497-13-1776440014 - Holdem no limit (30/60) - 2026/04/17 15:33:34 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (1040)
+Seat 3: Carte-662994 (460)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+Carte-662994 posts big blind 60
+Dealt to Samponi [Kh 5c]
+*** PRE-FLOP *** 
+Samponi raises 60 to 120
+Carte-662994 raises 340 to 460 and is all-in
+Samponi folds
+Carte-662994 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 3: Carte-662994 (big blind) won 580
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4712093772463210497-14-1776440027 - Holdem no limit (30/60) - 2026/04/17 15:33:47 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (920)
+Seat 3: Carte-662994 (580)
+*** ANTE/BLINDS ***
+Carte-662994 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [Th 5c]
+*** PRE-FLOP *** 
+Carte-662994 calls 30
+Samponi checks
+*** FLOP *** [9h 9c 6s]
+Samponi checks
+Carte-662994 bets 520 and is all-in
+Samponi folds
+Carte-662994 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [9h 9c 6s]
+Seat 3: Carte-662994 (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4712093772463210497-15-1776440043 - Holdem no limit (30/60) - 2026/04/17 15:34:03 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (860)
+Seat 3: Carte-662994 (640)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+Carte-662994 posts big blind 60
+Dealt to Samponi [9d 4c]
+*** PRE-FLOP *** 
+Samponi folds
+Carte-662994 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Carte-662994 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4712093772463210497-16-1776440048 - Holdem no limit (30/60) - 2026/04/17 15:34:08 UTC
+Table: 'Expresso(1097119826)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (830)
+Seat 3: Carte-662994 (670)
+*** ANTE/BLINDS ***
+Carte-662994 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [7h Qh]
+*** PRE-FLOP *** 
+Carte-662994 calls 30
+Samponi raises 60 to 120
+Carte-662994 raises 550 to 670 and is all-in
+Samponi calls 550
+*** FLOP *** [Ad 7c Tc]
+*** TURN *** [Ad 7c Tc][Qs]
+*** RIVER *** [Ad 7c Tc Qs][As]
+*** SHOW DOWN ***
+Carte-662994 shows [Jh 2d] (One pair : Aces)
+Samponi shows [7h Qh] (Two pairs : Aces and Queens)
+Samponi collected 1340 from pot
+*** SUMMARY ***
+Total pot 1340 | No rake
+Board: [Ad 7c Tc Qs As]
+Seat 1: Samponi (big blind) showed [7h Qh] and won 1340 with Two pairs : Aces and Queens
+Seat 3: Carte-662994 (small blind) (button) showed [Jh 2d] and lost with One pair : Aces
+
+

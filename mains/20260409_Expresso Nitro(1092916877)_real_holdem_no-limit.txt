@@ -1,0 +1,304 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4694042243961454593-1-1775751640 - Holdem no limit (10/20) - 2026/04/09 16:20:40 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (300)
+Seat 2: Binch9 (300)
+Seat 3: Thor94855595 (300)
+*** ANTE/BLINDS ***
+Binch9 posts small blind 10
+Thor94855595 posts big blind 20
+Dealt to Samponi [2h 8c]
+*** PRE-FLOP *** 
+Samponi folds
+Binch9 raises 280 to 300 and is all-in
+Thor94855595 folds
+Binch9 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Binch9 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4694042243961454593-2-1775751648 - Holdem no limit (10/20) - 2026/04/09 16:20:48 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (300)
+Seat 2: Binch9 (320)
+Seat 3: Thor94855595 (280)
+*** ANTE/BLINDS ***
+Thor94855595 posts small blind 10
+Samponi posts big blind 20
+Dealt to Samponi [4s 4c]
+*** PRE-FLOP *** 
+Binch9 calls 20
+Thor94855595 folds
+Samponi raises 280 to 300 and is all-in
+Binch9 folds
+Samponi collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Samponi (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4694042243961454593-3-1775751660 - Holdem no limit (10/20) - 2026/04/09 16:21:00 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (330)
+Seat 2: Binch9 (300)
+Seat 3: Thor94855595 (270)
+*** ANTE/BLINDS ***
+Samponi posts small blind 10
+Binch9 posts big blind 20
+Dealt to Samponi [9c 2c]
+*** PRE-FLOP *** 
+Thor94855595 calls 20
+Samponi folds
+Binch9 raises 280 to 300 and is all-in
+Thor94855595 folds
+Binch9 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Binch9 (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4694042243961454593-4-1775751671 - Holdem no limit (10/20) - 2026/04/09 16:21:11 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (320)
+Seat 2: Binch9 (330)
+Seat 3: Thor94855595 (250)
+*** ANTE/BLINDS ***
+Binch9 posts small blind 10
+Thor94855595 posts big blind 20
+Dealt to Samponi [8c Th]
+*** PRE-FLOP *** 
+Samponi folds
+Binch9 calls 10
+Thor94855595 checks
+*** FLOP *** [Js 9d 5s]
+Binch9 checks
+Thor94855595 checks
+*** TURN *** [Js 9d 5s][9s]
+Binch9 checks
+Thor94855595 checks
+*** RIVER *** [Js 9d 5s 9s][4s]
+Binch9 bets 26
+Thor94855595 folds
+Binch9 collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Js 9d 5s 9s 4s]
+Seat 2: Binch9 (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4694042243961454593-5-1775751699 - Holdem no limit (15/30) - 2026/04/09 16:21:39 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (320)
+Seat 2: Binch9 (350)
+Seat 3: Thor94855595 (230)
+*** ANTE/BLINDS ***
+Thor94855595 posts small blind 15
+Samponi posts big blind 30
+Dealt to Samponi [7h 7d]
+*** PRE-FLOP *** 
+Binch9 raises 60 to 90
+Thor94855595 calls 75
+Samponi raises 60 to 150
+Binch9 calls 60
+Thor94855595 folds
+*** FLOP *** [4h 6h 9d]
+Samponi bets 170 and is all-in
+Binch9 folds
+Samponi collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [4h 6h 9d]
+Seat 1: Samponi (big blind) won 560
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4694042243961454593-6-1775751737 - Holdem no limit (15/30) - 2026/04/09 16:22:17 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Samponi (560)
+Seat 2: Binch9 (200)
+Seat 3: Thor94855595 (140)
+*** ANTE/BLINDS ***
+Samponi posts small blind 15
+Binch9 posts big blind 30
+Dealt to Samponi [5h 5c]
+*** PRE-FLOP *** 
+Thor94855595 calls 30
+Samponi raises 530 to 560 and is all-in
+Binch9 calls 170 and is all-in
+Thor94855595 folds
+*** FLOP *** [Kh 8s 3s]
+*** TURN *** [Kh 8s 3s][3h]
+*** RIVER *** [Kh 8s 3s 3h][3c]
+*** SHOW DOWN ***
+Samponi shows [5h 5c] (Full of 3 and 5)
+Binch9 shows [Ks Tc] (Full of 3 and Kings)
+Binch9 collected 430 from main pot
+Samponi collected 360 from side pot 1
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [Kh 8s 3s 3h 3c]
+Seat 1: Samponi (small blind) showed [5h 5c] and won 360 with Full of 3 and 5
+Seat 2: Binch9 (big blind) showed [Ks Tc] and won 430 with Full of 3 and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4694042243961454593-7-1775751753 - Holdem no limit (15/30) - 2026/04/09 16:22:33 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (360)
+Seat 2: Binch9 (430)
+Seat 3: Thor94855595 (110)
+*** ANTE/BLINDS ***
+Binch9 posts small blind 15
+Thor94855595 posts big blind 30
+Dealt to Samponi [Tc Ah]
+*** PRE-FLOP *** 
+Samponi raises 330 to 360 and is all-in
+Binch9 folds
+Thor94855595 calls 80 and is all-in
+*** FLOP *** [Qc 6s Kd]
+*** TURN *** [Qc 6s Kd][7c]
+*** RIVER *** [Qc 6s Kd 7c][2s]
+*** SHOW DOWN ***
+Samponi shows [Tc Ah] (High card : Ace)
+Thor94855595 shows [Qd As] (One pair : Queens)
+Thor94855595 collected 235 from main pot
+Samponi collected 250 from side pot 1
+*** SUMMARY ***
+Total pot 485 | No rake
+Board: [Qc 6s Kd 7c 2s]
+Seat 1: Samponi (button) showed [Tc Ah] and won 250 with High card : Ace
+Seat 3: Thor94855595 (big blind) showed [Qd As] and won 235 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694042243961454593-8-1775751771 - Holdem no limit (20/40) - 2026/04/09 16:22:51 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (250)
+Seat 2: Binch9 (415)
+Seat 3: Thor94855595 (235)
+*** ANTE/BLINDS ***
+Thor94855595 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [3d Qh]
+*** PRE-FLOP *** 
+Binch9 calls 40
+Thor94855595 calls 20
+Samponi checks
+*** FLOP *** [3c Ac Kc]
+Thor94855595 bets 78
+Samponi folds
+Binch9 raises 152 to 230
+Thor94855595 calls 117 and is all-in
+*** TURN *** [3c Ac Kc][Jc]
+*** RIVER *** [3c Ac Kc Jc][8s]
+*** SHOW DOWN ***
+Thor94855595 shows [Kh 4c] (Flush Ace high)
+Binch9 shows [5c 7c] (Flush Ace high)
+Binch9 collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | No rake
+Board: [3c Ac Kc Jc 8s]
+Seat 2: Binch9 (button) showed [5c 7c] and won 545 with Flush Ace high
+Seat 3: Thor94855595 (small blind) showed [Kh 4c] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694042243961454593-9-1775751795 - Holdem no limit (20/40) - 2026/04/09 16:23:15 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (210)
+Seat 2: Binch9 (690)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Binch9 posts big blind 40
+Dealt to Samponi [Kc As]
+*** PRE-FLOP *** 
+Samponi raises 170 to 210 and is all-in
+Binch9 folds
+Samponi collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 1: Samponi (small blind) (button) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694042243961454593-10-1775751806 - Holdem no limit (20/40) - 2026/04/09 16:23:26 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (250)
+Seat 2: Binch9 (650)
+*** ANTE/BLINDS ***
+Binch9 posts small blind 20
+Samponi posts big blind 40
+Dealt to Samponi [Ts Ah]
+*** PRE-FLOP *** 
+Binch9 calls 20
+Samponi raises 40 to 80
+Binch9 folds
+Samponi collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Samponi (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4694042243961454593-11-1775751815 - Holdem no limit (20/40) - 2026/04/09 16:23:35 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (290)
+Seat 2: Binch9 (610)
+*** ANTE/BLINDS ***
+Samponi posts small blind 20
+Binch9 posts big blind 40
+Dealt to Samponi [4c Kh]
+*** PRE-FLOP *** 
+Samponi folds
+Binch9 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Binch9 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4694042243961454593-12-1775751822 - Holdem no limit (30/60) - 2026/04/09 16:23:42 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Samponi (270)
+Seat 2: Binch9 (630)
+*** ANTE/BLINDS ***
+Binch9 posts small blind 30
+Samponi posts big blind 60
+Dealt to Samponi [Qd Ks]
+*** PRE-FLOP *** 
+Binch9 raises 570 to 630 and is all-in
+Samponi calls 210 and is all-in
+*** FLOP *** [Ac Kc 2c]
+*** TURN *** [Ac Kc 2c][8d]
+*** RIVER *** [Ac Kc 2c 8d][3s]
+*** SHOW DOWN ***
+Samponi shows [Qd Ks] (One pair : Kings)
+Binch9 shows [Td Ts] (One pair : Tens)
+Binch9 collected 360 from side pot 1
+Samponi collected 540 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac Kc 2c 8d 3s]
+Seat 1: Samponi (big blind) showed [Qd Ks] and won 540 with One pair : Kings
+Seat 2: Binch9 (small blind) (button) showed [Td Ts] and won 360 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4694042243961454593-13-1775751835 - Holdem no limit (30/60) - 2026/04/09 16:23:55 UTC
+Table: 'Expresso Nitro(1092916877)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Samponi (540)
+Seat 2: Binch9 (360)
+*** ANTE/BLINDS ***
+Samponi posts small blind 30
+Binch9 posts big blind 60
+Dealt to Samponi [Qd 9c]
+*** PRE-FLOP *** 
+Samponi raises 60 to 120
+Binch9 raises 240 to 360 and is all-in
+Samponi calls 240
+*** FLOP *** [2s 8s 7c]
+*** TURN *** [2s 8s 7c][9s]
+*** RIVER *** [2s 8s 7c 9s][Qc]
+*** SHOW DOWN ***
+Binch9 shows [Ad 5c] (High card : Ace)
+Samponi shows [Qd 9c] (Two pairs : Queens and 9)
+Samponi collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [2s 8s 7c 9s Qc]
+Seat 1: Samponi (small blind) (button) showed [Qd 9c] and won 720 with Two pairs : Queens and 9
+Seat 2: Binch9 (big blind) showed [Ad 5c] and lost with High card : Ace
+
+
