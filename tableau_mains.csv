@@ -1,0 +1,44 @@
+tournament,buy_in,level,hand_id,sb_amount,bb_amount,datetime,hero,hero_seat,stack_start,total_players,position,stack_bb,hand_cards,fold_preflop,allin_preflop,flop,turn,river,saw_flop,saw_turn,saw_river,went_to_showdown,won_at_showdown,total_pot,net_chips,net_bb,source_file
+Expresso,0.93,1,4707589644554862593-1-1776264090,10,20,2026-04-15 14:41:30,Samponi,2,500,3,BB,25.0,8s 6c,False,False,5c Qd 4c,3s,5s,True,True,True,True,False,138,-20,-1.0,fichier_test.txt
+Expresso,0.93,1,4707589644554862593-2-1776264122,10,20,2026-04-15 14:42:02,Samponi,2,480,3,SB,24.0,8s 9s,False,False,9c Qs 8c,3s,2s,True,True,True,True,True,392,206,10.3,fichier_test.txt
+Expresso,0.93,2,4707589644554862593-3-1776264198,15,30,2026-04-15 14:43:18,Samponi,2,686,3,BTN,22.87,Kh 8h,False,False,,,,False,False,False,False,False,105,45,1.5,fichier_test.txt
+Expresso,0.93,2,4707589644554862593-4-1776264220,15,30,2026-04-15 14:43:40,Samponi,2,731,3,BB,24.37,9c Kd,False,False,,,,False,False,False,False,False,45,15,0.5,fichier_test.txt
+Expresso,0.93,2,4707589644554862593-5-1776264230,15,30,2026-04-15 14:43:50,Samponi,2,746,3,SB,24.87,3d 3s,False,False,Ad 9c 5c,Qd,7d,True,True,True,True,True,120,45,1.5,fichier_test.txt
+Expresso,0.93,2,4707589644554862593-6-1776264255,15,30,2026-04-15 14:44:15,Samponi,2,806,3,BTN,26.87,Ah Ac,False,False,,,,False,False,False,False,False,105,45,1.5,fichier_test.txt
+Expresso,0.93,2,4707589644554862593-7-1776264266,15,30,2026-04-15 14:44:26,Samponi,2,851,3,BB,28.37,Kd 3s,True,False,,,,False,False,False,False,False,378,-30,-1.0,fichier_test.txt
+Expresso,0.93,3,4707589644554862593-8-1776264286,20,40,2026-04-15 14:44:46,Samponi,2,821,3,SB,20.52,Jh 6c,True,False,,,,False,False,False,False,False,60,-20,-0.5,fichier_test.txt
+Expresso,0.93,3,4707589644554862593-9-1776264293,20,40,2026-04-15 14:44:53,Samponi,2,801,3,BTN,20.02,6c Kh,False,False,,,,False,False,False,False,False,140,60,1.5,fichier_test.txt
+Expresso,0.93,3,4707589644554862593-10-1776264301,20,40,2026-04-15 14:45:01,Samponi,2,861,3,BB,21.52,Th Ks,False,False,6s Ac 8h,,,True,False,False,False,False,180,-40,-1.0,fichier_test.txt
+Expresso,0.93,3,4707589644554862593-11-1776264319,20,40,2026-04-15 14:45:19,Samponi,2,821,3,SB,20.52,7s 7d,False,False,3h 8d Jh,5s,,True,True,False,False,False,488,-150,-3.75,fichier_test.txt
+Expresso,0.93,3,4707589644554862593-12-1776264343,20,40,2026-04-15 14:45:43,Samponi,2,671,3,BTN,16.77,5d 4s,True,False,,,,False,False,False,False,False,60,0,0.0,fichier_test.txt
+Expresso,0.93,3,4707589644554862593-13-1776264349,20,40,2026-04-15 14:45:49,Samponi,2,671,3,BB,16.77,2h 5s,False,False,9h 7h Ah,9d,Qs,True,True,True,False,False,320,80,2.0,fichier_test.txt
+Expresso,0.93,4,4707589644554862593-14-1776264374,30,60,2026-04-15 14:46:14,Samponi,2,751,3,SB,12.52,Ah Jh,False,True,9h Ks 3h,7c,Kd,True,True,True,True,True,1500,-458,-7.63,fichier_test.txt
+Expresso,0.93,4,4707589644554862593-15-1776264386,30,60,2026-04-15 14:46:26,Samponi,2,323,3,BTN,5.38,Qd Td,False,True,3d Ah 6s,Qs,Th,True,True,True,True,True,567,244,4.07,fichier_test.txt
+Expresso,0.93,4,4707589644554862593-16-1776264408,30,60,2026-04-15 14:46:48,Samponi,2,567,2,BTN,9.45,As Kc,False,False,,,,False,False,False,False,False,180,30,0.5,fichier_test.txt
+Expresso,0.93,4,4707589644554862593-17-1776264413,30,60,2026-04-15 14:46:53,Samponi,2,627,2,BB,10.45,Jh 6c,False,False,Jc Ad Qs,,,True,False,False,False,False,180,60,1.0,fichier_test.txt
+Expresso,0.93,4,4707589644554862593-18-1776264430,30,60,2026-04-15 14:47:10,Samponi,2,687,2,BTN,11.45,8c 3c,True,False,,,,False,False,False,False,False,90,-30,-0.5,fichier_test.txt
+Expresso,0.93,4,4707589644554862593-19-1776264434,30,60,2026-04-15 14:47:14,Samponi,2,657,2,BB,10.95,Th Qh,False,False,6c 7d Tc,Ks,7c,True,True,True,True,True,1314,477,7.95,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-20-1776264454,40,80,2026-04-15 14:47:34,Samponi,2,1314,2,BTN,16.43,2c 5d,True,False,,,,False,False,False,False,False,120,-40,-0.5,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-21-1776264468,40,80,2026-04-15 14:47:48,Samponi,2,1274,2,BB,15.93,6h 8h,False,False,Td 6c Jh,,,True,False,False,False,False,386,-160,-2.0,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-22-1776264478,40,80,2026-04-15 14:47:58,Samponi,2,1114,2,BTN,13.93,6s Js,True,False,,,,False,False,False,False,False,466,-80,-1.0,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-23-1776264486,40,80,2026-04-15 14:48:06,Samponi,2,1034,2,BB,12.93,4s Qs,False,False,,,,False,False,False,False,False,120,40,0.5,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-24-1776264491,40,80,2026-04-15 14:48:11,Samponi,2,1074,2,BTN,13.43,Ac Td,False,False,9d Kh 2c,,,True,False,False,False,False,400,-160,-2.0,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-25-1776264504,40,80,2026-04-15 14:48:24,Samponi,2,914,2,BB,11.43,Qh 7h,False,False,,,,False,False,False,False,False,120,40,0.5,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-26-1776264509,40,80,2026-04-15 14:48:29,Samponi,2,954,2,BTN,11.93,9s 4d,True,False,,,,False,False,False,False,False,120,-40,-0.5,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-27-1776264513,40,80,2026-04-15 14:48:33,Samponi,2,914,2,BB,11.43,5c 2c,False,False,Jh 7c Jd,,,True,False,False,False,False,240,-80,-1.0,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-28-1776264524,40,80,2026-04-15 14:48:44,Samponi,2,834,2,BTN,10.43,6h 9d,True,False,,,,False,False,False,False,False,120,-40,-0.5,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-29-1776264528,40,80,2026-04-15 14:48:48,Samponi,2,794,2,BB,9.93,Qs 2c,False,False,,,,False,False,False,False,False,120,40,0.5,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-30-1776264533,40,80,2026-04-15 14:48:53,Samponi,2,834,2,BTN,10.43,3c 6h,True,False,,,,False,False,False,False,False,120,-40,-0.5,fichier_test.txt
+Expresso,0.93,5,4707589644554862593-31-1776264538,40,80,2026-04-15 14:48:58,Samponi,2,794,2,BB,9.93,Jc Kc,False,False,,,,False,False,False,False,False,120,40,0.5,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-32-1776264543,50,100,2026-04-15 14:49:03,Samponi,2,834,2,BTN,8.34,3s Qd,True,False,,,,False,False,False,False,False,150,-50,-0.5,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-33-1776264548,50,100,2026-04-15 14:49:08,Samponi,2,784,2,BB,7.84,7s Qh,True,False,,,,False,False,False,False,False,400,-100,-1.0,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-34-1776264555,50,100,2026-04-15 14:49:15,Samponi,2,684,2,BTN,6.84,Ad Qs,False,False,,,,False,False,False,False,False,300,50,0.5,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-35-1776264562,50,100,2026-04-15 14:49:22,Samponi,2,784,2,BB,7.84,Kd Td,False,False,,,,False,False,False,False,False,150,50,0.5,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-36-1776264567,50,100,2026-04-15 14:49:27,Samponi,2,834,2,BTN,8.34,9s 3d,True,False,,,,False,False,False,False,False,150,-50,-0.5,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-37-1776264572,50,100,2026-04-15 14:49:32,Samponi,2,784,2,BB,7.84,7s Kc,False,False,9c 4c 2h,Qc,Js,True,True,True,True,False,1432,-816,-8.16,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-38-1776264588,50,100,2026-04-15 14:49:48,Samponi,2,68,2,BTN,0.68,Js 3s,False,True,7s Ks Kh,8h,Qs,True,True,True,True,True,168,68,0.68,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-39-1776264598,50,100,2026-04-15 14:49:58,Samponi,2,136,2,BB,1.36,Kd 4h,False,False,,,,False,False,False,False,False,150,50,0.5,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-40-1776264606,50,100,2026-04-15 14:50:06,Samponi,2,186,2,BTN,1.86,Kh Qs,False,True,4d 5s 6s,7s,3d,True,True,True,True,True,372,-50,-0.5,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-41-1776264617,50,100,2026-04-15 14:50:17,Samponi,2,186,2,BB,1.86,Qh 5h,False,False,,,,False,False,False,False,False,150,50,0.5,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-42-1776264622,50,100,2026-04-15 14:50:22,Samponi,2,236,2,BTN,2.36,Qh 2c,True,False,,,,False,False,False,False,False,150,-50,-0.5,fichier_test.txt
+Expresso,0.93,6,4707589644554862593-43-1776264628,50,100,2026-04-15 14:50:28,Samponi,2,186,2,BB,1.86,Jh 8h,False,True,3c 2s 9s,3s,7c,True,True,True,True,False,486,-186,-1.86,fichier_test.txt
