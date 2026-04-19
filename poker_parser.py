@@ -26,21 +26,31 @@ def parse_hand(block):
 
     # Header
     m = re.search(
-        r'Tournament "(.+?)" buyIn: ([\d.]+).*?level: (\d+)'
+        r'Tournament "(.+?)" buyIn: ([\d.]+)€ \+ ([\d.]+)€.*?level: (\d+)'
         r'.*?HandId: #(\S+).*?\((\d+)/(\d+)\)'
         r'.*?(\d{4}/\d{2}/\d{2} \d{2}:\d{2}:\d{2})',
         block
     )
+
     if not m:
         return None
 
+    # Extraction des données
     data["tournament"] = m.group(1)
-    data["buy_in"] = float(m.group(2))
-    data["level"] = int(m.group(3))
-    data["hand_id"] = m.group(4)
-    data["sb_amount"] = int(m.group(5))
-    data["bb_amount"] = int(m.group(6))
-    data["datetime"] = datetime.strptime(m.group(7), "%Y/%m/%d %H:%M:%S")
+
+    data["buy_in_price"] = float(m.group(2))
+    data["buy_in_rake"] = float(m.group(3))
+    data["buy_in_total"] = data["buy_in_price"] + data["buy_in_rake"]
+
+    data["level"] = int(m.group(4))
+
+    data["hand_id"] = m.group(5)
+
+    data["sb"] = int(m.group(6))
+
+    data["bb"] = int(m.group(7))
+
+    data["datetime"] = datetime.strptime(m.group(8), "%Y/%m/%d %H:%M:%S")
 
     # Bouton
     m = re.search(r"Seat #(\d+) is the button", block)
@@ -55,13 +65,7 @@ def parse_hand(block):
     }
 
     # Détection automatique du héros
-    m = re.search(r"Dealt to (.+?) \[", block)
-    if not m:
-        return None
-    hero = m.group(1)
-
-    if hero not in seats_found:
-        return None
+    hero = re.search(r"Dealt to (.+?) \[", block).group(1)
 
     seat_list = [v["seat"] for v in seats_found.values()]
     data["hero"] = hero
@@ -69,11 +73,10 @@ def parse_hand(block):
     data["stack_start"] = seats_found[hero]["stack"]
     data["total_players"] = len(seat_list)
     data["position"] = get_position(data["hero_seat"], button_seat, seat_list)
-    data["stack_bb"] = round(data["stack_start"] / data["bb_amount"], 2)
+    data["stack_bb"] = round(data["stack_start"] / data["bb"], 2)
 
     # Cartes
-    m = re.search(rf"Dealt to {re.escape(hero)} \[(.+?)\]", block)
-    data["hand_cards"] = m.group(1) if m else None
+    data["hand_cards"] = re.search(rf"Dealt to {re.escape(hero)} \[(.+?)\]", block).group(1)
 
     # Section préflop
     pf = ""
@@ -112,7 +115,7 @@ def parse_hand(block):
     m = re.search(r"Total pot (\d+)", block)
     data["total_pot"] = int(m.group(1)) if m else None
     data["net_chips"] = collected - invested
-    data["net_bb"] = round(data["net_chips"] / data["bb_amount"], 2)
+    data["net_bb"] = round(data["net_chips"] / data["bb"], 2)
 
     return data
 

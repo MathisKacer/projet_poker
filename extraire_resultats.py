@@ -2,9 +2,9 @@ import re
 import pandas as pd
 import os
 
-def parse_resume(chemin_fichier):
+def parse_resume(fichier):
     try:
-        with open(chemin_fichier, "r", encoding="utf-8") as f:
+        with open(fichier, "r", encoding="utf-8") as f:
             content = f.read()
     except FileNotFoundError:
         return None
@@ -27,3 +27,16 @@ def parse_resume(chemin_fichier):
     }
 
     return summary_data
+
+
+def parse_folder_resume(dossier):
+    data = []
+    for nom_fichier in os.listdir(dossier):
+        chemin_fichier = os.path.join(dossier, nom_fichier)
+        resume_data = parse_resume(chemin_fichier)
+        if resume_data:
+            data.append(resume_data)
+    return pd.DataFrame(data)
+
+df = parse_folder_resume("resumes")
+print(df.head())
