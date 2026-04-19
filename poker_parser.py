@@ -35,12 +35,12 @@ def parse_hand(block):
         return None
 
     data["tournament"] = m.group(1)
-    data["buy_in"]     = float(m.group(2))
-    data["level"]      = int(m.group(3))
-    data["hand_id"]    = m.group(4)
-    data["sb_amount"]  = int(m.group(5))
-    data["bb_amount"]  = int(m.group(6))
-    data["datetime"]   = datetime.strptime(m.group(7), "%Y/%m/%d %H:%M:%S")
+    data["buy_in"] = float(m.group(2))
+    data["level"] = int(m.group(3))
+    data["hand_id"] = m.group(4)
+    data["sb_amount"] = int(m.group(5))
+    data["bb_amount"] = int(m.group(6))
+    data["datetime"] = datetime.strptime(m.group(7), "%Y/%m/%d %H:%M:%S")
 
     # Bouton
     m = re.search(r"Seat #(\d+) is the button", block)
@@ -64,12 +64,12 @@ def parse_hand(block):
         return None
 
     seat_list = [v["seat"] for v in seats_found.values()]
-    data["hero"]          = hero
-    data["hero_seat"]     = seats_found[hero]["seat"]
-    data["stack_start"]   = seats_found[hero]["stack"]
+    data["hero"] = hero
+    data["hero_seat"] = seats_found[hero]["seat"]
+    data["stack_start"] = seats_found[hero]["stack"]
     data["total_players"] = len(seat_list)
-    data["position"]      = get_position(data["hero_seat"], button_seat, seat_list)
-    data["stack_bb"]      = round(data["stack_start"] / data["bb_amount"], 2)
+    data["position"] = get_position(data["hero_seat"], button_seat, seat_list)
+    data["stack_bb"] = round(data["stack_start"] / data["bb_amount"], 2)
 
     # Cartes
     m = re.search(rf"Dealt to {re.escape(hero)} \[(.+?)\]", block)
@@ -82,7 +82,7 @@ def parse_hand(block):
         pf = m.group(1)
 
     hero_re = re.escape(hero)
-    data["fold_preflop"]  = bool(re.search(rf"^{hero_re} folds", pf, re.M))
+    data["fold_preflop"] = bool(re.search(rf"^{hero_re} folds", pf, re.M))
     data["allin_preflop"] = bool(re.search(rf"^{hero_re} .* and is all-in", pf, re.M))
 
     # Board
@@ -93,26 +93,26 @@ def parse_hand(block):
     m = re.search(r"\*\*\* RIVER \*\*\* \[.+?\]\[(.+?)\]", block)
     data["river"] = m.group(1) if m else None
 
-    data["saw_flop"]  = data["flop"]  is not None
-    data["saw_turn"]  = data["turn"]  is not None
+    data["saw_flop"] = data["flop"] is not None
+    data["saw_turn"] = data["turn"] is not None
     data["saw_river"] = data["river"] is not None
 
     # Showdown
     sd = re.search(r"\*\*\* SHOW DOWN \*\*\*(.*?)(?=\*\*\*|\Z)", block, re.S)
     data["went_to_showdown"] = sd is not None
-    data["won_at_showdown"]  = bool(
+    data["won_at_showdown"] = bool(
         sd and re.search(rf"^{hero_re} collected", sd.group(1), re.M)
     )
 
     # Résultat net
     collected = sum(int(x) for x in re.findall(rf"{hero_re} collected (\d+) from", block))
-    invested  = sum(int(x) for x in re.findall(
+    invested = sum(int(x) for x in re.findall(
         rf"^{hero_re} (?:posts \S+ blind|calls|bets|raises \d+ to) (\d+)", block, re.M
     ))
     m = re.search(r"Total pot (\d+)", block)
     data["total_pot"] = int(m.group(1)) if m else None
     data["net_chips"] = collected - invested
-    data["net_bb"]    = round(data["net_chips"] / data["bb_amount"], 2)
+    data["net_bb"] = round(data["net_chips"] / data["bb_amount"], 2)
 
     return data
 
