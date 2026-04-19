@@ -45,12 +45,18 @@ def parse_hand(block):
     data["level"] = int(m.group(4))
 
     data["hand_id"] = m.group(5)
+    parties_id_main = data["hand_id"].split('-')
+    data["id_table"] = parties_id_main[0]
+    data["numero_main"] = int(parties_id_main[1])
+    data["sequence"] = parties_id_main[2]
 
     data["sb"] = int(m.group(6))
 
     data["bb"] = int(m.group(7))
 
     data["datetime"] = datetime.strptime(m.group(8), "%Y/%m/%d %H:%M:%S")
+
+    data["id_tournoi"] = re.search(r"Table: '.*?\((?P<id>\d+)\)", block).group(1)
 
     # Bouton
     m = re.search(r"Seat #(\d+) is the button", block)

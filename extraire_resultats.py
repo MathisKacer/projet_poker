@@ -9,7 +9,9 @@ def parse_resume(fichier):
     except FileNotFoundError:
         return None
 
-    tournament_id = re.search(r"Expresso\((\d+)\)", content)
+    tournoi = re.search(r"Tournament summary : (.*?)\((\d+)\)", content)
+
+
     buy_in_raw = re.search(r"Buy-In : (\d+\.\d+)€ \+ (\d+\.\d+)€", content)
     duree = re.search(r"You played (\d+)min (\d+)s", content)
     rank = re.search(r"You finished in (\d+)(?:st|nd|rd|th) place", content)
@@ -17,7 +19,8 @@ def parse_resume(fichier):
     prizepool = re.search(r"Prizepool : (\d+)€", content)
 
     summary_data = {
-        "tournament_id": tournament_id.group(1) if tournament_id else None,
+        "nom_tournament": tournoi.group(1).strip() if tournoi else None,
+        "tournament_id": tournoi.group(2) if tournoi else None,
         "start_date": start_date.group(1) if start_date else None,
         "buy_in_price": float(buy_in_raw.group(1)) if buy_in_raw else 0.0,
         "buy_in_rake": float(buy_in_raw.group(2)) if buy_in_raw else 0.0,
@@ -37,6 +40,3 @@ def parse_folder_resume(dossier):
         if resume_data:
             data.append(resume_data)
     return pd.DataFrame(data)
-
-df = parse_folder_resume("resumes")
-print(df.head())
