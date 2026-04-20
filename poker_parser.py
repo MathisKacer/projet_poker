@@ -2,6 +2,7 @@ import re
 import pandas as pd
 from pathlib import Path
 from datetime import datetime
+from ecrire_main import notation_main
 
 
 def get_position(hero_seat, button_seat, seat_list):
@@ -82,7 +83,9 @@ def parse_hand(block):
     data["stack_bb"] = round(data["stack_start"] / data["bb"], 2)
 
     # Cartes
-    data["hand_cards"] = re.search(rf"Dealt to {re.escape(hero)} \[(.+?)\]", block).group(1)
+    cartes = re.search(rf"Dealt to {re.escape(hero)} \[(.+?)\]", block).group(1)
+    data["cartes"] = cartes
+    data["main"] = notation_main(cartes.split())
 
     # Section préflop
     pf = ""
@@ -120,8 +123,10 @@ def parse_hand(block):
     ))
     m = re.search(r"Total pot (\d+)", block)
     data["total_pot"] = int(m.group(1)) if m else None
-    data["net_chips"] = collected - invested
-    data["net_bb"] = round(data["net_chips"] / data["bb"], 2)
+    data["gain"] = collected
+    data["gain bb"] = round(collected / data["bb"], 2) if data["bb"] else None
+    data["benefice net"] = collected - invested
+    data["benefice bb"] = round(data["benefice net"] / data["bb"], 2)
 
     return data
 
