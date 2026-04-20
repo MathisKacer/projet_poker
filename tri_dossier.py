@@ -10,6 +10,10 @@ dossier_resumes = "resumes"
 
 
 def trier_fichiers():
+    """
+    Trie les fichiers de mains de poker en fonction de leur type (mains ou résumés)
+    et les déplace dans les dossiers appropriés.
+    """
 
     for nom_fichier in os.listdir(dossier_source):
 

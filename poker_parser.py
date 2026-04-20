@@ -5,7 +5,11 @@ from datetime import datetime
 from ecrire_main import notation_main
 
 
-def get_position(hero_seat, button_seat, seat_list):
+def get_position(hero_seat: int, button_seat: int, seat_list: list) -> str:
+    """
+    Détermine la position du héros (BTN, SB, BB) en fonction de son siège,
+    du siège du bouton et de la liste des sièges présents à la table.
+    """
     seats = sorted(seat_list)
     n = len(seats)
     btn_idx = seats.index(button_seat)
@@ -22,7 +26,7 @@ def get_position(hero_seat, button_seat, seat_list):
     return "UNKNOWN"
 
 
-def parse_hand(block):
+def parse_hand(block: str) -> dict:
     data = {}
 
     # Header
@@ -71,7 +75,7 @@ def parse_hand(block):
         for m in re.finditer(r"Seat (\d+): (.+?) \((\d+)\)", block)
     }
 
-    # Détection automatique du héros
+    # Détection du 'hero' (le joueur dont on suit les actions)
     hero = re.search(r"Dealt to (.+?) \[", block).group(1)
 
     seat_list = [v["seat"] for v in seats_found.values()]
@@ -87,7 +91,7 @@ def parse_hand(block):
     data["cartes"] = cartes
     data["main"] = notation_main(cartes.split())
 
-    # Section préflop
+    # Préflop
     pf = ""
     m = re.search(r"\*\*\* PRE-FLOP \*\*\*(.*?)(?=\*\*\*|\Z)", block, re.S)
     if m:
@@ -131,7 +135,10 @@ def parse_hand(block):
     return data
 
 
-def parse_file(filepath):
+def parse_file(filepath: str) -> pd.DataFrame:
+    """
+    Lit un fichier de mains de poker, extrait les données de chaque main
+    """
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
     blocks = [b.strip() for b in re.split(r"(?=Winamax Poker - Tournament)", content) if b.strip()]
@@ -144,7 +151,10 @@ def parse_file(filepath):
     return pd.DataFrame(hands)
 
 
-def parse_folder(folder_path):
+def parse_folder(folder_path: str) -> pd.DataFrame:
+    """
+    Lit tous les fichiers de mains de poker dans un dossier, extrait les données
+    """
     dfs = []
     files = list(Path(folder_path).rglob("*.txt"))
     for f in files:

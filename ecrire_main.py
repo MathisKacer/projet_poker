@@ -1,4 +1,4 @@
-def notation_main(liste_cartes):
+def notation_main(liste_cartes: list) -> str:
     """
     Transforme le format d'une main en disant seulement si les signes sont les mêmes
     """

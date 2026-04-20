@@ -2,7 +2,11 @@ import re
 import pandas as pd
 import os
 
-def parse_resume(fichier):
+def parse_resume(fichier: str) -> dict:
+    """
+    Lit un fichier de résumé de tournoi pour en extraire les informations clés
+    telles que le nom du tournoi, le buy-in, la durée, le rank, etc.
+    """
     try:
         with open(fichier, "r", encoding="utf-8") as f:
             content = f.read()
@@ -32,7 +36,11 @@ def parse_resume(fichier):
     return summary_data
 
 
-def parse_folder_resume(dossier):
+def parse_folder_resume(dossier: str) -> pd.DataFrame:
+    """
+    Parcourt tous les fichiers de résumé dans un dossier donné,
+    extrait les données de chaque résumé
+    """
     data = []
     for nom_fichier in os.listdir(dossier):
         chemin_fichier = os.path.join(dossier, nom_fichier)
