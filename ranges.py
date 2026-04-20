@@ -7,16 +7,17 @@ def range(df, metric):
     ranks = ['A', 'K', 'Q', 'J', 'T', '9', '8', '7', '6', '5', '4', '3', '2']
     matrix = pd.DataFrame(np.nan, index=ranks, columns=ranks)
 
+    nb_distribuees = df.groupby('main').size()
+
     # Agrégation des stats
-    stats = df[df["fold_preflop"] == False].groupby('main')['benefice bb'].agg(['mean', 'var', 'count']).reset_index()
+    mains_jouees = df[df["fold_preflop"] == False].groupby('main')['benefice bb'].agg(['mean', 'var', 'count']).reset_index()
 
-    total_mains_recues = len(df[df["fold_preflop"] == False])
-
-    for _, row in stats.iterrows():
+    for _, row in mains_jouees.iterrows():
         main = row['main']
 
         if metric == 'freq':
-            val = (row['count'] / total_mains_recues) * 100
+            nb_recue = nb_distribuees[main]
+            val = (row['count'] / nb_recue) * 100
         else:
             val = row[metric]
 
