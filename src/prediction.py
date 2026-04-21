@@ -20,33 +20,3 @@ def feature_engineering(df):
     df['main_gagnante'] = (df['benefice bb'] > 0).astype(int)
 
     return df
-
-
-def regression(df, variables_numeriques, variables_categorielles):
-    preprocessor = ColumnTransformer(
-        transformers=[
-            ('num', StandardScaler(), variables_numeriques),
-            ('cat', OneHotEncoder(handle_unknown='ignore'), variables_categorielles)
-        ])
-
-    reg_pipeline = Pipeline(steps=[
-        ('preprocessor', preprocessor),
-        ('regressor', RandomForestRegressor(n_estimators=100, random_state=42))
-    ])
-
-    # Pipeline de régression
-    reg_pipeline = Pipeline([
-        ('prepro', preprocessor),
-        ('regressor', RandomForestRegressor(n_estimators=100, random_state=42))
-    ])
-
-    X = df[variables_numeriques + variables_categorielles]
-    y_reg = df['benefice bb']
-
-    X_train, X_test, y_train, y_test = train_test_split(X, y_reg, test_size=0.2, random_state=42)
-
-    reg_pipeline.fit(X_train, y_train)
-    y_pred_reg = reg_pipeline.predict(X_test)
-
-    print(f"R² Score: {r2_score(y_test, y_pred_reg):.4f}")
-    print(f"Erreur Moyenne (MAE): {mean_absolute_error(y_test, y_pred_reg):.2f} BB")
