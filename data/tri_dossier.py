@@ -1,6 +1,6 @@
 import os
-import re
 import shutil
+
 
 def trier_fichiers(dossier_source, dossier_mains, dossier_resumes):
     """

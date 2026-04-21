@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 def analyse_stack_bb(df, bins=None, labels=None):
     """
     Analyse les fréquences de fold et all-in préflop selon le stack en BB.
-    
+
     Paramètres
     ----------
     df     : DataFrame produit par parse_folder
@@ -21,9 +21,9 @@ def analyse_stack_bb(df, bins=None, labels=None):
     df['stack_bb_range'] = pd.cut(df['stack_bb'], bins=bins, labels=labels)
 
     stats = df.groupby('stack_bb_range', observed=True).agg(
-        nb_mains = ('hand_id', 'count'),
-        fold_pf_pct = ('fold_preflop', 'mean'),
-        allin_pf_pct = ('allin_preflop', 'mean'),
+        nb_mains=('hand_id', 'count'),
+        fold_pf_pct=('fold_preflop', 'mean'),
+        allin_pf_pct=('allin_preflop', 'mean'),
     ).round(3)
 
     fig, axes = plt.subplots(1, 2, figsize=(12, 4))
