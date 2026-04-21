@@ -208,5 +208,7 @@ __marimo__/
 
 
 
-historiques/
-*.zip
+mains/
+resumes/
+historique/
+*.txt
