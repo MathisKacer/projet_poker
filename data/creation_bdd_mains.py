@@ -2,7 +2,7 @@ import re
 import pandas as pd
 from pathlib import Path
 from datetime import datetime
-from ecrire_main import notation_main
+from src.ecrire_main import notation_main
 
 
 def get_position(hero_seat: int, button_seat: int, seat_list: list) -> str:
