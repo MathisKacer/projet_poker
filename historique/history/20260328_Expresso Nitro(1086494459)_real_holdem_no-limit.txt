@@ -1,0 +1,129 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666458168690212865-1-1774711280 - Holdem no limit (10/20) - 2026/03/28 15:21:20 UTC
+Table: 'Expresso Nitro(1086494459)#0' 3-max (real money) Seat #3 is the button
+Seat 1: petitchelem (300)
+Seat 2: MathisKcr (300)
+Seat 3: _JtePikToo_ (300)
+*** ANTE/BLINDS ***
+petitchelem posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4h 8c]
+*** PRE-FLOP *** 
+_JtePikToo_ folds
+petitchelem calls 10
+MathisKcr checks
+*** FLOP *** [8s Qs Td]
+petitchelem checks
+MathisKcr bets 32
+petitchelem calls 32
+*** TURN *** [8s Qs Td][Ts]
+petitchelem checks
+MathisKcr checks
+*** RIVER *** [8s Qs Td Ts][3d]
+petitchelem checks
+MathisKcr checks
+*** SHOW DOWN ***
+petitchelem shows [Ks 9c] (One pair : Tens)
+MathisKcr shows [4h 8c] (Two pairs : Tens and 8)
+MathisKcr collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | No rake
+Board: [8s Qs Td Ts 3d]
+Seat 1: petitchelem (small blind) showed [Ks 9c] and lost with One pair : Tens
+Seat 2: MathisKcr (big blind) showed [4h 8c] and won 104 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666458168690212865-2-1774711313 - Holdem no limit (10/20) - 2026/03/28 15:21:53 UTC
+Table: 'Expresso Nitro(1086494459)#0' 3-max (real money) Seat #1 is the button
+Seat 1: petitchelem (248)
+Seat 2: MathisKcr (352)
+Seat 3: _JtePikToo_ (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+_JtePikToo_ posts big blind 20
+Dealt to MathisKcr [6d 4s]
+*** PRE-FLOP *** 
+petitchelem calls 20
+MathisKcr folds
+_JtePikToo_ checks
+*** FLOP *** [Th Ad Td]
+_JtePikToo_ checks
+petitchelem bets 50
+_JtePikToo_ calls 50
+*** TURN *** [Th Ad Td][2h]
+_JtePikToo_ checks
+petitchelem bets 150
+_JtePikToo_ calls 150
+*** RIVER *** [Th Ad Td 2h][6h]
+_JtePikToo_ bets 80 and is all-in
+petitchelem calls 28 and is all-in
+*** SHOW DOWN ***
+petitchelem shows [6s As] (Two pairs : Aces and Tens)
+_JtePikToo_ shows [Ts 2s] (Full of Tens and 2)
+_JtePikToo_ collected 558 from pot
+*** SUMMARY ***
+Total pot 558 | No rake
+Board: [Th Ad Td 2h 6h]
+Seat 1: petitchelem (button) showed [6s As] and lost with Two pairs : Aces and Tens
+Seat 3: _JtePikToo_ (big blind) showed [Ts 2s] and won 558 with Full of Tens and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666458168690212865-3-1774711350 - Holdem no limit (15/30) - 2026/03/28 15:22:30 UTC
+Table: 'Expresso Nitro(1086494459)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (342)
+Seat 3: _JtePikToo_ (558)
+*** ANTE/BLINDS ***
+_JtePikToo_ posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4h 3d]
+*** PRE-FLOP *** 
+_JtePikToo_ raises 30 to 60
+MathisKcr folds
+_JtePikToo_ collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: _JtePikToo_ (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666458168690212865-4-1774711359 - Holdem no limit (15/30) - 2026/03/28 15:22:39 UTC
+Table: 'Expresso Nitro(1086494459)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (312)
+Seat 3: _JtePikToo_ (588)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+_JtePikToo_ posts big blind 30
+Dealt to MathisKcr [Jd 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 282 to 312 and is all-in
+_JtePikToo_ folds
+MathisKcr collected 342 from pot
+*** SUMMARY ***
+Total pot 342 | No rake
+Seat 2: MathisKcr (small blind) (button) won 342
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666458168690212865-5-1774711375 - Holdem no limit (15/30) - 2026/03/28 15:22:55 UTC
+Table: 'Expresso Nitro(1086494459)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (342)
+Seat 3: _JtePikToo_ (558)
+*** ANTE/BLINDS ***
+_JtePikToo_ posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8d Ah]
+*** PRE-FLOP *** 
+_JtePikToo_ calls 15
+MathisKcr raises 312 to 342 and is all-in
+_JtePikToo_ calls 312
+*** FLOP *** [2s 3c 8s]
+*** TURN *** [2s 3c 8s][4c]
+*** RIVER *** [2s 3c 8s 4c][Ks]
+*** SHOW DOWN ***
+MathisKcr shows [8d Ah] (One pair : 8)
+_JtePikToo_ shows [Ts Td] (One pair : Tens)
+_JtePikToo_ collected 684 from pot
+*** SUMMARY ***
+Total pot 684 | No rake
+Board: [2s 3c 8s 4c Ks]
+Seat 2: MathisKcr (big blind) showed [8d Ah] and lost with One pair : 8
+Seat 3: _JtePikToo_ (small blind) (button) showed [Ts Td] and won 684 with One pair : Tens
+
+

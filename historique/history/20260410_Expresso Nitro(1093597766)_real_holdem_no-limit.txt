@@ -1,0 +1,249 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4696966639948660737-1-1775852449 - Holdem no limit (10/20) - 2026/04/10 20:20:49 UTC
+Table: 'Expresso Nitro(1093597766)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ViXt (300)
+Seat 2: Lamazo (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+ViXt posts small blind 10
+Lamazo posts big blind 20
+Dealt to MathisKcr [2s 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+ViXt folds
+Lamazo collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Lamazo (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4696966639948660737-2-1775852454 - Holdem no limit (10/20) - 2026/04/10 20:20:54 UTC
+Table: 'Expresso Nitro(1093597766)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ViXt (290)
+Seat 2: Lamazo (310)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Lamazo posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3h Qh]
+*** PRE-FLOP *** 
+ViXt folds
+Lamazo raises 40 to 60
+MathisKcr folds
+Lamazo collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: Lamazo (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4696966639948660737-3-1775852466 - Holdem no limit (10/20) - 2026/04/10 20:21:06 UTC
+Table: 'Expresso Nitro(1093597766)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ViXt (290)
+Seat 2: Lamazo (330)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+ViXt posts big blind 20
+Dealt to MathisKcr [3h Ts]
+*** PRE-FLOP *** 
+Lamazo calls 20
+MathisKcr folds
+ViXt checks
+*** FLOP *** [9c Qh Ad]
+ViXt checks
+Lamazo bets 33
+ViXt folds
+Lamazo collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [9c Qh Ad]
+Seat 2: Lamazo (button) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4696966639948660737-4-1775852486 - Holdem no limit (10/20) - 2026/04/10 20:21:26 UTC
+Table: 'Expresso Nitro(1093597766)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ViXt (270)
+Seat 2: Lamazo (360)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+ViXt posts small blind 10
+Lamazo posts big blind 20
+Dealt to MathisKcr [Qc Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+ViXt calls 30
+Lamazo calls 20
+*** FLOP *** [Jc 8d Tc]
+ViXt bets 78
+Lamazo calls 78
+MathisKcr raises 152 to 230 and is all-in
+ViXt folds
+Lamazo calls 152
+*** TURN *** [Jc 8d Tc][9h]
+*** RIVER *** [Jc 8d Tc 9h][7c]
+*** SHOW DOWN ***
+Lamazo shows [Qd 8h] (Straight Queen high)
+MathisKcr shows [Qc Ac] (Flush Ace high)
+MathisKcr collected 658 from pot
+*** SUMMARY ***
+Total pot 658 | No rake
+Board: [Jc 8d Tc 9h 7c]
+Seat 2: Lamazo (big blind) showed [Qd 8h] and lost with Straight Queen high
+Seat 3: MathisKcr (button) showed [Qc Ac] and won 658 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4696966639948660737-5-1775852523 - Holdem no limit (15/30) - 2026/04/10 20:22:03 UTC
+Table: 'Expresso Nitro(1093597766)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ViXt (152)
+Seat 2: Lamazo (90)
+Seat 3: MathisKcr (658)
+*** ANTE/BLINDS ***
+Lamazo posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5c Tc]
+*** PRE-FLOP *** 
+ViXt folds
+Lamazo folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4696966639948660737-6-1775852529 - Holdem no limit (15/30) - 2026/04/10 20:22:09 UTC
+Table: 'Expresso Nitro(1093597766)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ViXt (152)
+Seat 2: Lamazo (75)
+Seat 3: MathisKcr (673)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+ViXt posts big blind 30
+Dealt to MathisKcr [5s 4d]
+*** PRE-FLOP *** 
+Lamazo raises 45 to 75 and is all-in
+MathisKcr folds
+ViXt folds
+Lamazo collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Lamazo (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4696966639948660737-7-1775852536 - Holdem no limit (15/30) - 2026/04/10 20:22:16 UTC
+Table: 'Expresso Nitro(1093597766)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ViXt (122)
+Seat 2: Lamazo (120)
+Seat 3: MathisKcr (658)
+*** ANTE/BLINDS ***
+ViXt posts small blind 15
+Lamazo posts big blind 30
+Dealt to MathisKcr [Qd Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 628 to 658 and is all-in
+ViXt calls 107 and is all-in
+Lamazo calls 90 and is all-in
+*** FLOP *** [8s 7c Ad]
+*** TURN *** [8s 7c Ad][6h]
+*** RIVER *** [8s 7c Ad 6h][8d]
+*** SHOW DOWN ***
+ViXt shows [9d Kh] (One pair : 8)
+Lamazo shows [Ah 3h] (Two pairs : Aces and 8)
+MathisKcr shows [Qd Jc] (One pair : 8)
+MathisKcr collected 536 from side pot 2
+Lamazo collected 360 from main pot
+ViXt collected 4 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s 7c Ad 6h 8d]
+Seat 1: ViXt (small blind) showed [9d Kh] and won 4 with One pair : 8
+Seat 2: Lamazo (big blind) showed [Ah 3h] and won 360 with Two pairs : Aces and 8
+Seat 3: MathisKcr (button) showed [Qd Jc] and won 536 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4696966639948660737-8-1775852554 - Holdem no limit (15/30) - 2026/04/10 20:22:34 UTC
+Table: 'Expresso Nitro(1093597766)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ViXt (4)
+Seat 2: Lamazo (360)
+Seat 3: MathisKcr (536)
+*** ANTE/BLINDS ***
+Lamazo posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [As Td]
+*** PRE-FLOP *** 
+ViXt calls 4 and is all-in
+Lamazo raises 330 to 360 and is all-in
+MathisKcr calls 330
+*** FLOP *** [Ad Qd 3h]
+*** TURN *** [Ad Qd 3h][7h]
+*** RIVER *** [Ad Qd 3h 7h][5d]
+*** SHOW DOWN ***
+ViXt shows [3d Kc] (One pair : 3)
+Lamazo shows [Tc Ac] (One pair : Aces)
+MathisKcr shows [As Td] (One pair : Aces)
+MathisKcr collected 362 from pot
+Lamazo collected 362 from pot
+*** SUMMARY ***
+Total pot 724 | No rake
+Board: [Ad Qd 3h 7h 5d]
+Seat 1: ViXt (button) showed [3d Kc] and lost with One pair : 3
+Seat 2: Lamazo (small blind) showed [Tc Ac] and won 362 with One pair : Aces
+Seat 3: MathisKcr (big blind) showed [As Td] and won 362 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4696966639948660737-9-1775852566 - Holdem no limit (15/30) - 2026/04/10 20:22:46 UTC
+Table: 'Expresso Nitro(1093597766)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Lamazo (362)
+Seat 3: MathisKcr (538)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Lamazo posts big blind 30
+Dealt to MathisKcr [Qh Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 508 to 538 and is all-in
+Lamazo folds
+MathisKcr collected 568 from pot
+*** SUMMARY ***
+Total pot 568 | No rake
+Seat 3: MathisKcr (small blind) (button) won 568
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4696966639948660737-10-1775852573 - Holdem no limit (20/40) - 2026/04/10 20:22:53 UTC
+Table: 'Expresso Nitro(1093597766)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Lamazo (332)
+Seat 3: MathisKcr (568)
+*** ANTE/BLINDS ***
+Lamazo posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [8s 7d]
+*** PRE-FLOP *** 
+Lamazo folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4696966639948660737-11-1775852579 - Holdem no limit (20/40) - 2026/04/10 20:22:59 UTC
+Table: 'Expresso Nitro(1093597766)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Lamazo (312)
+Seat 3: MathisKcr (588)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Lamazo posts big blind 40
+Dealt to MathisKcr [2d Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 548 to 588 and is all-in
+Lamazo calls 272 and is all-in
+*** FLOP *** [3d 5d Ks]
+*** TURN *** [3d 5d Ks][Qs]
+*** RIVER *** [3d 5d Ks Qs][4h]
+*** SHOW DOWN ***
+Lamazo shows [Ah 9h] (High card : Ace)
+MathisKcr shows [2d Ac] (Straight 5 high)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 5d Ks Qs 4h]
+Seat 2: Lamazo (big blind) showed [Ah 9h] and lost with High card : Ace
+Seat 3: MathisKcr (small blind) (button) showed [2d Ac] and won 900 with Straight 5 high
+
+

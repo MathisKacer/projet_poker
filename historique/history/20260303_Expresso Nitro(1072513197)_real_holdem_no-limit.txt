@@ -1,0 +1,196 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606409105643405313-1-1772571090 - Holdem no limit (10/20) - 2026/03/03 20:51:30 UTC
+Table: 'Expresso Nitro(1072513197)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: MM-BG80 (300)
+Seat 3: M. Latour (300)
+*** ANTE/BLINDS ***
+M. Latour posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4s Td]
+*** PRE-FLOP *** 
+MM-BG80 raises 50 to 70
+M. Latour folds
+MathisKcr folds
+MM-BG80 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: MM-BG80 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606409105643405313-2-1772571098 - Holdem no limit (10/20) - 2026/03/03 20:51:38 UTC
+Table: 'Expresso Nitro(1072513197)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: MM-BG80 (330)
+Seat 3: M. Latour (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+MM-BG80 posts big blind 20
+Dealt to MathisKcr [Ts 9c]
+*** PRE-FLOP *** 
+M. Latour raises 270 to 290 and is all-in
+MathisKcr folds
+MM-BG80 folds
+M. Latour collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: M. Latour (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606409105643405313-3-1772571105 - Holdem no limit (10/20) - 2026/03/03 20:51:45 UTC
+Table: 'Expresso Nitro(1072513197)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: MM-BG80 (310)
+Seat 3: M. Latour (320)
+*** ANTE/BLINDS ***
+MM-BG80 posts small blind 10
+M. Latour posts big blind 20
+Dealt to MathisKcr [5h Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 250 to 270 and is all-in
+MM-BG80 calls 260
+M. Latour folds
+*** FLOP *** [2d 3d 4c]
+*** TURN *** [2d 3d 4c][Jc]
+*** RIVER *** [2d 3d 4c Jc][Ts]
+*** SHOW DOWN ***
+MM-BG80 shows [Js Td] (Two pairs : Jacks and Tens)
+MathisKcr shows [5h Ad] (Straight 5 high)
+MathisKcr collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [2d 3d 4c Jc Ts]
+Seat 1: MathisKcr (button) showed [5h Ad] and won 560 with Straight 5 high
+Seat 2: MM-BG80 (small blind) showed [Js Td] and lost with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606409105643405313-4-1772571125 - Holdem no limit (10/20) - 2026/03/03 20:52:05 UTC
+Table: 'Expresso Nitro(1072513197)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (560)
+Seat 2: MM-BG80 (40)
+Seat 3: M. Latour (300)
+*** ANTE/BLINDS ***
+M. Latour posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qh 7h]
+*** PRE-FLOP *** 
+MM-BG80 raises 20 to 40 and is all-in
+M. Latour raises 260 to 300 and is all-in
+MathisKcr folds
+*** FLOP *** [9d 2h Ad]
+*** TURN *** [9d 2h Ad][9s]
+*** RIVER *** [9d 2h Ad 9s][Js]
+*** SHOW DOWN ***
+MM-BG80 shows [Ah 3h] (Two pairs : Aces and 9)
+M. Latour shows [8s Ts] (One pair : 9)
+M. Latour collected 260 from side pot 1
+MM-BG80 collected 100 from main pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [9d 2h Ad 9s Js]
+Seat 2: MM-BG80 (button) showed [Ah 3h] and won 100 with Two pairs : Aces and 9
+Seat 3: M. Latour (small blind) showed [8s Ts] and won 260 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606409105643405313-5-1772571142 - Holdem no limit (10/20) - 2026/03/03 20:52:22 UTC
+Table: 'Expresso Nitro(1072513197)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (540)
+Seat 2: MM-BG80 (100)
+Seat 3: M. Latour (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+MM-BG80 posts big blind 20
+Dealt to MathisKcr [5d Kd]
+*** PRE-FLOP *** 
+M. Latour folds
+MathisKcr raises 20 to 40
+MM-BG80 raises 60 to 100 and is all-in
+MathisKcr calls 60
+*** FLOP *** [Qd Jh 9s]
+*** TURN *** [Qd Jh 9s][4c]
+*** RIVER *** [Qd Jh 9s 4c][6c]
+*** SHOW DOWN ***
+MathisKcr shows [5d Kd] (High card : King)
+MM-BG80 shows [Qc 3d] (One pair : Queens)
+MM-BG80 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Qd Jh 9s 4c 6c]
+Seat 1: MathisKcr (small blind) showed [5d Kd] and lost with High card : King
+Seat 2: MM-BG80 (big blind) showed [Qc 3d] and won 200 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606409105643405313-6-1772571165 - Holdem no limit (15/30) - 2026/03/03 20:52:45 UTC
+Table: 'Expresso Nitro(1072513197)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (440)
+Seat 2: MM-BG80 (200)
+Seat 3: M. Latour (260)
+*** ANTE/BLINDS ***
+MM-BG80 posts small blind 15
+M. Latour posts big blind 30
+Dealt to MathisKcr [3h 7h]
+*** PRE-FLOP *** 
+MathisKcr folds
+MM-BG80 raises 170 to 200 and is all-in
+M. Latour raises 60 to 260 and is all-in
+*** FLOP *** [8h Qd Kh]
+*** TURN *** [8h Qd Kh][6s]
+*** RIVER *** [8h Qd Kh 6s][7s]
+*** SHOW DOWN ***
+MM-BG80 shows [As 5d] (High card : Ace)
+M. Latour shows [5h Ah] (High card : Ace)
+M. Latour collected 260 from side pot 1
+MM-BG80 collected 200 from main pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [8h Qd Kh 6s 7s]
+Seat 2: MM-BG80 (small blind) showed [As 5d] and won 200 with High card : Ace
+Seat 3: M. Latour (big blind) showed [5h Ah] and won 260 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606409105643405313-7-1772571183 - Holdem no limit (15/30) - 2026/03/03 20:53:03 UTC
+Table: 'Expresso Nitro(1072513197)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (440)
+Seat 2: MM-BG80 (200)
+Seat 3: M. Latour (260)
+*** ANTE/BLINDS ***
+M. Latour posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Td 4c]
+*** PRE-FLOP *** 
+MM-BG80 folds
+M. Latour folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606409105643405313-8-1772571192 - Holdem no limit (15/30) - 2026/03/03 20:53:12 UTC
+Table: 'Expresso Nitro(1072513197)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (455)
+Seat 2: MM-BG80 (200)
+Seat 3: M. Latour (245)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+MM-BG80 posts big blind 30
+Dealt to MathisKcr [5d 5s]
+*** PRE-FLOP *** 
+M. Latour raises 215 to 245 and is all-in
+MathisKcr calls 230
+MM-BG80 calls 170 and is all-in
+*** FLOP *** [5c Tc Ac]
+*** TURN *** [5c Tc Ac][Th]
+*** RIVER *** [5c Tc Ac Th][4c]
+*** SHOW DOWN ***
+MM-BG80 shows [7d 8s] (One pair : Tens)
+M. Latour shows [Ah 8c] (Flush Ace high)
+MathisKcr shows [5d 5s] (Full of 5 and Tens)
+MathisKcr collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [5c Tc Ac Th 4c]
+Seat 1: MathisKcr (small blind) showed [5d 5s] and won 690 with Full of 5 and Tens
+Seat 2: MM-BG80 (big blind) showed [7d 8s] and lost with One pair : Tens
+Seat 3: M. Latour (button) showed [Ah 8c] and lost with Flush Ace high
+
+

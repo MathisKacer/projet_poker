@@ -1,0 +1,243 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4583088519852851201-1-1771613874 - Holdem no limit (10/20) - 2026/02/20 18:57:54 UTC
+Table: 'Expresso Nitro(1067083450)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: OsoActivo499 (300)
+Seat 3: JCMatador421 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+OsoActivo499 posts big blind 20
+Dealt to MathisKcr [5d 2d]
+*** PRE-FLOP *** 
+JCMatador421 raises 50 to 70
+MathisKcr folds
+OsoActivo499 folds
+JCMatador421 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: JCMatador421 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4583088519852851201-2-1771613886 - Holdem no limit (10/20) - 2026/02/20 18:58:06 UTC
+Table: 'Expresso Nitro(1067083450)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: OsoActivo499 (280)
+Seat 3: JCMatador421 (330)
+*** ANTE/BLINDS ***
+OsoActivo499 posts small blind 10
+JCMatador421 posts big blind 20
+Dealt to MathisKcr [2s 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+OsoActivo499 raises 20 to 40
+JCMatador421 raises 60 to 100
+OsoActivo499 calls 60
+*** FLOP *** [As 2d Td]
+OsoActivo499 checks
+JCMatador421 bets 130
+OsoActivo499 folds
+JCMatador421 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [As 2d Td]
+Seat 3: JCMatador421 (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4583088519852851201-3-1771613903 - Holdem no limit (10/20) - 2026/02/20 18:58:23 UTC
+Table: 'Expresso Nitro(1067083450)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (290)
+Seat 2: OsoActivo499 (180)
+Seat 3: JCMatador421 (430)
+*** ANTE/BLINDS ***
+JCMatador421 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s 9h]
+*** PRE-FLOP *** 
+OsoActivo499 raises 20 to 40
+JCMatador421 calls 30
+MathisKcr calls 20
+*** FLOP *** [5s Jc Ks]
+JCMatador421 bets 78
+MathisKcr folds
+OsoActivo499 raises 62 to 140 and is all-in
+JCMatador421 folds
+OsoActivo499 collected 338 from pot
+*** SUMMARY ***
+Total pot 338 | No rake
+Board: [5s Jc Ks]
+Seat 2: OsoActivo499 (button) won 338
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4583088519852851201-4-1771613926 - Holdem no limit (10/20) - 2026/02/20 18:58:46 UTC
+Table: 'Expresso Nitro(1067083450)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (250)
+Seat 2: OsoActivo499 (338)
+Seat 3: JCMatador421 (312)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+OsoActivo499 posts big blind 20
+Dealt to MathisKcr [5s 2d]
+*** PRE-FLOP *** 
+JCMatador421 raises 292 to 312 and is all-in
+MathisKcr folds
+OsoActivo499 folds
+JCMatador421 collected 342 from pot
+*** SUMMARY ***
+Total pot 342 | No rake
+Seat 3: JCMatador421 (button) won 342
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4583088519852851201-5-1771613932 - Holdem no limit (15/30) - 2026/02/20 18:58:52 UTC
+Table: 'Expresso Nitro(1067083450)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (240)
+Seat 2: OsoActivo499 (318)
+Seat 3: JCMatador421 (342)
+*** ANTE/BLINDS ***
+OsoActivo499 posts small blind 15
+JCMatador421 posts big blind 30
+Dealt to MathisKcr [Js 2s]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+OsoActivo499 raises 258 to 318 and is all-in
+JCMatador421 raises 24 to 342 and is all-in
+MathisKcr folds
+*** FLOP *** [Ac Tc 3h]
+*** TURN *** [Ac Tc 3h][Jh]
+*** RIVER *** [Ac Tc 3h Jh][4h]
+*** SHOW DOWN ***
+OsoActivo499 shows [Qc Qh] (One pair : Queens)
+JCMatador421 shows [Kc Th] (One pair : Tens)
+JCMatador421 collected 24 from side pot 1
+OsoActivo499 collected 696 from main pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Ac Tc 3h Jh 4h]
+Seat 2: OsoActivo499 (small blind) showed [Qc Qh] and won 696 with One pair : Queens
+Seat 3: JCMatador421 (big blind) showed [Kc Th] and won 24 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4583088519852851201-6-1771613949 - Holdem no limit (15/30) - 2026/02/20 18:59:09 UTC
+Table: 'Expresso Nitro(1067083450)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (180)
+Seat 2: OsoActivo499 (696)
+Seat 3: JCMatador421 (24)
+*** ANTE/BLINDS ***
+JCMatador421 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Js 7c]
+*** PRE-FLOP *** 
+OsoActivo499 raises 666 to 696 and is all-in
+JCMatador421 calls 9 and is all-in
+MathisKcr folds
+*** FLOP *** [5h Kd 6s]
+*** TURN *** [5h Kd 6s][Kh]
+*** RIVER *** [5h Kd 6s Kh][Tc]
+*** SHOW DOWN ***
+JCMatador421 shows [Qc 2s] (One pair : Kings)
+OsoActivo499 shows [Th As] (Two pairs : Kings and Tens)
+OsoActivo499 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [5h Kd 6s Kh Tc]
+Seat 2: OsoActivo499 (button) showed [Th As] and won 750 with Two pairs : Kings and Tens
+Seat 3: JCMatador421 (small blind) showed [Qc 2s] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4583088519852851201-7-1771613962 - Holdem no limit (15/30) - 2026/02/20 18:59:22 UTC
+Table: 'Expresso Nitro(1067083450)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (150)
+Seat 2: OsoActivo499 (750)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+OsoActivo499 posts big blind 30
+Dealt to MathisKcr [8s 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 120 to 150 and is all-in
+OsoActivo499 folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: MathisKcr (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4583088519852851201-8-1771613973 - Holdem no limit (15/30) - 2026/02/20 18:59:33 UTC
+Table: 'Expresso Nitro(1067083450)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (180)
+Seat 2: OsoActivo499 (720)
+*** ANTE/BLINDS ***
+OsoActivo499 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2h 9h]
+*** PRE-FLOP *** 
+OsoActivo499 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4583088519852851201-9-1771613978 - Holdem no limit (15/30) - 2026/02/20 18:59:38 UTC
+Table: 'Expresso Nitro(1067083450)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (195)
+Seat 2: OsoActivo499 (705)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+OsoActivo499 posts big blind 30
+Dealt to MathisKcr [6d 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+OsoActivo499 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4583088519852851201-10-1771613985 - Holdem no limit (15/30) - 2026/02/20 18:59:45 UTC
+Table: 'Expresso Nitro(1067083450)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (225)
+Seat 2: OsoActivo499 (675)
+*** ANTE/BLINDS ***
+OsoActivo499 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kc 3h]
+*** PRE-FLOP *** 
+OsoActivo499 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4583088519852851201-11-1771613990 - Holdem no limit (15/30) - 2026/02/20 18:59:50 UTC
+Table: 'Expresso Nitro(1067083450)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (240)
+Seat 2: OsoActivo499 (660)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+OsoActivo499 posts big blind 30
+Dealt to MathisKcr [9h 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+OsoActivo499 calls 30
+*** FLOP *** [7h 8d 8c]
+OsoActivo499 checks
+MathisKcr bets 42
+OsoActivo499 calls 42
+*** TURN *** [7h 8d 8c][Qd]
+OsoActivo499 checks
+MathisKcr bets 102
+OsoActivo499 calls 102
+*** RIVER *** [7h 8d 8c Qd][3d]
+OsoActivo499 bets 456 and is all-in
+MathisKcr calls 36 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [9h 9s] (Two pairs : 9 and 8)
+OsoActivo499 shows [4d 9d] (Flush Queen high)
+OsoActivo499 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7h 8d 8c Qd 3d]
+Seat 1: MathisKcr (small blind) (button) showed [9h 9s] and lost with Two pairs : 9 and 8
+Seat 2: OsoActivo499 (big blind) showed [4d 9d] and won 900 with Flush Queen high
+
+

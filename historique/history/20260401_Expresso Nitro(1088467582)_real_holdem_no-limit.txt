@@ -1,0 +1,104 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4674932667446198273-1-1775045636 - Holdem no limit (10/20) - 2026/04/01 12:13:56 UTC
+Table: 'Expresso Nitro(1088467582)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Douain (300)
+Seat 3: flo.grd (300)
+*** ANTE/BLINDS ***
+flo.grd posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c Ks]
+*** PRE-FLOP *** 
+Douain folds
+flo.grd calls 10
+MathisKcr checks
+*** FLOP *** [Ac 3c Kd]
+flo.grd checks
+MathisKcr bets 26
+flo.grd folds
+MathisKcr collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Ac 3c Kd]
+Seat 1: MathisKcr (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4674932667446198273-2-1775045650 - Holdem no limit (10/20) - 2026/04/01 12:14:10 UTC
+Table: 'Expresso Nitro(1088467582)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (320)
+Seat 2: Douain (300)
+Seat 3: flo.grd (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Douain posts big blind 20
+Dealt to MathisKcr [4c 7s]
+*** PRE-FLOP *** 
+flo.grd calls 20
+MathisKcr folds
+Douain raises 20 to 40
+flo.grd calls 20
+*** FLOP *** [7c 6d Td]
+Douain bets 31
+flo.grd calls 31
+*** TURN *** [7c 6d Td][9d]
+Douain bets 99
+flo.grd calls 99
+*** RIVER *** [7c 6d Td 9d][Qh]
+Douain bets 130 and is all-in
+flo.grd calls 110 and is all-in
+*** SHOW DOWN ***
+flo.grd shows [4s 4h] (One pair : 4)
+Douain shows [5c 5h] (One pair : 5)
+Douain collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [7c 6d Td 9d Qh]
+Seat 2: Douain (big blind) showed [5c 5h] and won 590 with One pair : 5
+Seat 3: flo.grd (button) showed [4s 4h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4674932667446198273-3-1775045668 - Holdem no limit (10/20) - 2026/04/01 12:14:28 UTC
+Table: 'Expresso Nitro(1088467582)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (310)
+Seat 2: Douain (590)
+*** ANTE/BLINDS ***
+Douain posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 4d]
+*** PRE-FLOP *** 
+Douain calls 10
+MathisKcr checks
+*** FLOP *** [7c 5d Kh]
+MathisKcr bets 26
+Douain folds
+MathisKcr collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [7c 5d Kh]
+Seat 1: MathisKcr (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4674932667446198273-4-1775045679 - Holdem no limit (10/20) - 2026/04/01 12:14:39 UTC
+Table: 'Expresso Nitro(1088467582)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (330)
+Seat 2: Douain (570)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Douain posts big blind 20
+Dealt to MathisKcr [Js 5s]
+*** PRE-FLOP *** 
+MathisKcr raises 310 to 330 and is all-in
+Douain calls 310
+*** FLOP *** [3s 3d Ac]
+*** TURN *** [3s 3d Ac][8d]
+*** RIVER *** [3s 3d Ac 8d][Tc]
+*** SHOW DOWN ***
+MathisKcr shows [Js 5s] (One pair : 3)
+Douain shows [Ad Qd] (Two pairs : Aces and 3)
+Douain collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [3s 3d Ac 8d Tc]
+Seat 1: MathisKcr (small blind) (button) showed [Js 5s] and lost with One pair : 3
+Seat 2: Douain (big blind) showed [Ad Qd] and won 660 with Two pairs : Aces and 3
+
+

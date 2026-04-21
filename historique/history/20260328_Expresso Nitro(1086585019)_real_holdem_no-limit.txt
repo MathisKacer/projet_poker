@@ -1,0 +1,83 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666847120928538625-1-1774723940 - Holdem no limit (10/20) - 2026/03/28 18:52:20 UTC
+Table: 'Expresso Nitro(1086585019)#0' 3-max (real money) Seat #2 is the button
+Seat 1: THJoker50733 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Tulugaq (300)
+*** ANTE/BLINDS ***
+Tulugaq posts small blind 10
+THJoker50733 posts big blind 20
+Dealt to MathisKcr [9c 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Tulugaq raises 280 to 300 and is all-in
+THJoker50733 folds
+Tulugaq collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Tulugaq (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666847120928538625-2-1774723949 - Holdem no limit (10/20) - 2026/03/28 18:52:29 UTC
+Table: 'Expresso Nitro(1086585019)#0' 3-max (real money) Seat #3 is the button
+Seat 1: THJoker50733 (280)
+Seat 2: MathisKcr (300)
+Seat 3: Tulugaq (320)
+*** ANTE/BLINDS ***
+THJoker50733 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd 4c]
+*** PRE-FLOP *** 
+Tulugaq folds
+THJoker50733 raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [5c Ac 2d]
+THJoker50733 checks
+MathisKcr checks
+*** TURN *** [5c Ac 2d][4s]
+THJoker50733 bets 28
+MathisKcr calls 28
+*** RIVER *** [5c Ac 2d 4s][5s]
+THJoker50733 bets 48
+MathisKcr calls 48
+*** SHOW DOWN ***
+MathisKcr shows [Kd 4c] (Two pairs : 5 and 4)
+THJoker50733 shows [Ad Jc] (Two pairs : Aces and 5)
+THJoker50733 collected 232 from pot
+*** SUMMARY ***
+Total pot 232 | No rake
+Board: [5c Ac 2d 4s 5s]
+Seat 1: THJoker50733 (small blind) showed [Ad Jc] and won 232 with Two pairs : Aces and 5
+Seat 2: MathisKcr (big blind) showed [Kd 4c] and lost with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666847120928538625-3-1774723973 - Holdem no limit (10/20) - 2026/03/28 18:52:53 UTC
+Table: 'Expresso Nitro(1086585019)#0' 3-max (real money) Seat #1 is the button
+Seat 1: THJoker50733 (396)
+Seat 2: MathisKcr (184)
+Seat 3: Tulugaq (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Tulugaq posts big blind 20
+Dealt to MathisKcr [6c 6s]
+*** PRE-FLOP *** 
+THJoker50733 raises 20 to 40
+MathisKcr raises 144 to 184 and is all-in
+Tulugaq raises 136 to 320 and is all-in
+THJoker50733 raises 76 to 396 and is all-in
+*** FLOP *** [9h 7h 7d]
+*** TURN *** [9h 7h 7d][8c]
+*** RIVER *** [9h 7h 7d 8c][5s]
+*** SHOW DOWN ***
+MathisKcr shows [6c 6s] (Straight 9 high)
+THJoker50733 shows [Ah 8h] (Two pairs : 8 and 7)
+Tulugaq shows [5h 5d] (Full of 5 and 7)
+Tulugaq collected 824 from main pot
+THJoker50733 collected 76 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9h 7h 7d 8c 5s]
+Seat 1: THJoker50733 (button) showed [Ah 8h] and won 76 with Two pairs : 8 and 7
+Seat 2: MathisKcr (small blind) showed [6c 6s] and lost with Straight 9 high
+Seat 3: Tulugaq (big blind) showed [5h 5d] and won 824 with Full of 5 and 7
+
+

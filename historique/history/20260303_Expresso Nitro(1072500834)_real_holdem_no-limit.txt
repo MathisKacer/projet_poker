@@ -1,0 +1,346 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606356006962724865-1-1772569537 - Holdem no limit (10/20) - 2026/03/03 20:25:37 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TOM 2A 1983 (300)
+Seat 2: fou393666216 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+TOM 2A 1983 posts big blind 20
+Dealt to MathisKcr [6d Ad]
+*** PRE-FLOP *** 
+fou393666216 calls 20
+MathisKcr raises 20 to 40
+TOM 2A 1983 calls 20
+fou393666216 calls 20
+*** FLOP *** [Tc 9c Qs]
+MathisKcr checks
+TOM 2A 1983 bets 42
+fou393666216 calls 42
+MathisKcr folds
+*** TURN *** [Tc 9c Qs][4c]
+TOM 2A 1983 checks
+fou393666216 bets 20
+TOM 2A 1983 calls 20
+*** RIVER *** [Tc 9c Qs 4c][2h]
+TOM 2A 1983 checks
+fou393666216 bets 85
+TOM 2A 1983 calls 85
+*** SHOW DOWN ***
+fou393666216 shows [8s 4d] (One pair : 4)
+TOM 2A 1983 shows [8c Ts] (One pair : Tens)
+TOM 2A 1983 collected 414 from pot
+*** SUMMARY ***
+Total pot 414 | No rake
+Board: [Tc 9c Qs 4c 2h]
+Seat 1: TOM 2A 1983 (big blind) showed [8c Ts] and won 414 with One pair : Tens
+Seat 2: fou393666216 (button) showed [8s 4d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606356006962724865-2-1772569574 - Holdem no limit (10/20) - 2026/03/03 20:26:14 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #3 is the button
+Seat 1: TOM 2A 1983 (527)
+Seat 2: fou393666216 (113)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+TOM 2A 1983 posts small blind 10
+fou393666216 posts big blind 20
+Dealt to MathisKcr [7s 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+TOM 2A 1983 raises 507 to 527 and is all-in
+fou393666216 calls 93 and is all-in
+*** FLOP *** [Ah 9h 6d]
+*** TURN *** [Ah 9h 6d][Js]
+*** RIVER *** [Ah 9h 6d Js][2d]
+*** SHOW DOWN ***
+TOM 2A 1983 shows [As Qh] (One pair : Aces)
+fou393666216 shows [2s 6s] (Two pairs : 6 and 2)
+fou393666216 collected 226 from main pot
+TOM 2A 1983 collected 414 from side pot 1
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Ah 9h 6d Js 2d]
+Seat 1: TOM 2A 1983 (small blind) showed [As Qh] and won 414 with One pair : Aces
+Seat 2: fou393666216 (big blind) showed [2s 6s] and won 226 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606356006962724865-3-1772569592 - Holdem no limit (10/20) - 2026/03/03 20:26:32 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TOM 2A 1983 (414)
+Seat 2: fou393666216 (226)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+fou393666216 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd Jh]
+*** PRE-FLOP *** 
+TOM 2A 1983 calls 20
+fou393666216 calls 10
+MathisKcr raises 240 to 260 and is all-in
+TOM 2A 1983 folds
+fou393666216 folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: MathisKcr (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606356006962724865-4-1772569607 - Holdem no limit (15/30) - 2026/03/03 20:26:47 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TOM 2A 1983 (394)
+Seat 2: fou393666216 (206)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+TOM 2A 1983 posts big blind 30
+Dealt to MathisKcr [2h 5c]
+*** PRE-FLOP *** 
+fou393666216 raises 30 to 60
+MathisKcr folds
+TOM 2A 1983 folds
+fou393666216 shows [Ts 5s] (High card : Ten)
+fou393666216 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: fou393666216 (button) showed [Ts 5s] and won 105 with High card : Ten
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606356006962724865-5-1772569618 - Holdem no limit (15/30) - 2026/03/03 20:26:58 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #3 is the button
+Seat 1: TOM 2A 1983 (364)
+Seat 2: fou393666216 (251)
+Seat 3: MathisKcr (285)
+*** ANTE/BLINDS ***
+TOM 2A 1983 posts small blind 15
+fou393666216 posts big blind 30
+Dealt to MathisKcr [Qd 5d]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+TOM 2A 1983 calls 15
+fou393666216 checks
+*** FLOP *** [Ac 6d Ad]
+TOM 2A 1983 bets 30
+fou393666216 calls 30
+MathisKcr raises 30 to 60
+TOM 2A 1983 folds
+fou393666216 folds
+MathisKcr collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Ac 6d Ad]
+Seat 3: MathisKcr (button) won 210
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4606356006962724865-6-1772569658 - Holdem no limit (20/40) - 2026/03/03 20:27:38 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TOM 2A 1983 (304)
+Seat 2: fou393666216 (191)
+Seat 3: MathisKcr (405)
+*** ANTE/BLINDS ***
+fou393666216 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Qd Th]
+*** PRE-FLOP *** 
+TOM 2A 1983 folds
+fou393666216 calls 20
+MathisKcr checks
+*** FLOP *** [9d 6d 7d]
+fou393666216 checks
+MathisKcr bets 100
+fou393666216 folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9d 6d 7d]
+Seat 3: MathisKcr (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4606356006962724865-7-1772569676 - Holdem no limit (20/40) - 2026/03/03 20:27:56 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TOM 2A 1983 (304)
+Seat 2: fou393666216 (151)
+Seat 3: MathisKcr (445)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+TOM 2A 1983 posts big blind 40
+Dealt to MathisKcr [Th Jc]
+*** PRE-FLOP *** 
+fou393666216 folds
+MathisKcr raises 405 to 445 and is all-in
+TOM 2A 1983 folds
+MathisKcr collected 485 from pot
+*** SUMMARY ***
+Total pot 485 | No rake
+Seat 3: MathisKcr (small blind) won 485
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4606356006962724865-8-1772569697 - Holdem no limit (20/40) - 2026/03/03 20:28:17 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #3 is the button
+Seat 1: TOM 2A 1983 (264)
+Seat 2: fou393666216 (151)
+Seat 3: MathisKcr (485)
+*** ANTE/BLINDS ***
+TOM 2A 1983 posts small blind 20
+fou393666216 posts big blind 40
+Dealt to MathisKcr [4c 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+TOM 2A 1983 calls 20
+fou393666216 raises 40 to 80
+TOM 2A 1983 calls 40
+*** FLOP *** [5h Ts 7h]
+TOM 2A 1983 checks
+fou393666216 bets 40
+TOM 2A 1983 calls 40
+*** TURN *** [5h Ts 7h][Kd]
+TOM 2A 1983 checks
+fou393666216 bets 31 and is all-in
+TOM 2A 1983 folds
+fou393666216 shows [4s As] (High card : Ace)
+fou393666216 collected 271 from pot
+*** SUMMARY ***
+Total pot 271 | No rake
+Board: [5h Ts 7h Kd]
+Seat 2: fou393666216 (big blind) showed [4s As] and won 271 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4606356006962724865-9-1772569739 - Holdem no limit (30/60) - 2026/03/03 20:28:59 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TOM 2A 1983 (144)
+Seat 2: fou393666216 (271)
+Seat 3: MathisKcr (485)
+*** ANTE/BLINDS ***
+fou393666216 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [As Th]
+*** PRE-FLOP *** 
+TOM 2A 1983 folds
+fou393666216 raises 120 to 180
+MathisKcr raises 305 to 485 and is all-in
+fou393666216 calls 91 and is all-in
+*** FLOP *** [2h Qc 7h]
+*** TURN *** [2h Qc 7h][6d]
+*** RIVER *** [2h Qc 7h 6d][6c]
+*** SHOW DOWN ***
+fou393666216 shows [Ah Kh] (One pair : 6)
+MathisKcr shows [As Th] (One pair : 6)
+MathisKcr collected 214 from side pot 1
+fou393666216 collected 542 from main pot
+*** SUMMARY ***
+Total pot 756 | No rake
+Board: [2h Qc 7h 6d 6c]
+Seat 2: fou393666216 (small blind) showed [Ah Kh] and won 542 with One pair : 6
+Seat 3: MathisKcr (big blind) showed [As Th] and won 214 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4606356006962724865-10-1772569759 - Holdem no limit (30/60) - 2026/03/03 20:29:19 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TOM 2A 1983 (144)
+Seat 2: fou393666216 (542)
+Seat 3: MathisKcr (214)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+TOM 2A 1983 posts big blind 60
+Dealt to MathisKcr [3d 8c]
+*** PRE-FLOP *** 
+fou393666216 folds
+MathisKcr folds
+TOM 2A 1983 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: TOM 2A 1983 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4606356006962724865-11-1772569767 - Holdem no limit (30/60) - 2026/03/03 20:29:27 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #3 is the button
+Seat 1: TOM 2A 1983 (174)
+Seat 2: fou393666216 (542)
+Seat 3: MathisKcr (184)
+*** ANTE/BLINDS ***
+TOM 2A 1983 posts small blind 30
+fou393666216 posts big blind 60
+Dealt to MathisKcr [Ah 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 124 to 184 and is all-in
+TOM 2A 1983 folds
+fou393666216 folds
+MathisKcr collected 274 from pot
+*** SUMMARY ***
+Total pot 274 | No rake
+Seat 3: MathisKcr (button) won 274
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4606356006962724865-12-1772569778 - Holdem no limit (40/80) - 2026/03/03 20:29:38 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TOM 2A 1983 (144)
+Seat 2: fou393666216 (482)
+Seat 3: MathisKcr (274)
+*** ANTE/BLINDS ***
+fou393666216 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [6h 4h]
+*** PRE-FLOP *** 
+TOM 2A 1983 folds
+fou393666216 raises 160 to 240
+MathisKcr folds
+fou393666216 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: fou393666216 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4606356006962724865-13-1772569793 - Holdem no limit (40/80) - 2026/03/03 20:29:53 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TOM 2A 1983 (144)
+Seat 2: fou393666216 (562)
+Seat 3: MathisKcr (194)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+TOM 2A 1983 posts big blind 80
+Dealt to MathisKcr [Jc 3h]
+*** PRE-FLOP *** 
+fou393666216 raises 80 to 160
+MathisKcr folds
+TOM 2A 1983 calls 64 and is all-in
+*** FLOP *** [8h 7c Qc]
+*** TURN *** [8h 7c Qc][7h]
+*** RIVER *** [8h 7c Qc 7h][6d]
+*** SHOW DOWN ***
+TOM 2A 1983 shows [Th Qs] (Two pairs : Queens and 7)
+fou393666216 shows [Kc Td] (One pair : 7)
+fou393666216 collected 16 from side pot 1
+TOM 2A 1983 collected 328 from main pot
+*** SUMMARY ***
+Total pot 344 | No rake
+Board: [8h 7c Qc 7h 6d]
+Seat 1: TOM 2A 1983 (big blind) showed [Th Qs] and won 328 with Two pairs : Queens and 7
+Seat 2: fou393666216 (button) showed [Kc Td] and won 16 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4606356006962724865-14-1772569809 - Holdem no limit (40/80) - 2026/03/03 20:30:09 UTC
+Table: 'Expresso Nitro(1072500834)#0' 3-max (real money) Seat #3 is the button
+Seat 1: TOM 2A 1983 (328)
+Seat 2: fou393666216 (418)
+Seat 3: MathisKcr (154)
+*** ANTE/BLINDS ***
+TOM 2A 1983 posts small blind 40
+fou393666216 posts big blind 80
+Dealt to MathisKcr [2s 2h]
+*** PRE-FLOP *** 
+MathisKcr raises 74 to 154 and is all-in
+TOM 2A 1983 folds
+fou393666216 calls 74
+*** FLOP *** [Jc 6c 6h]
+*** TURN *** [Jc 6c 6h][Jh]
+*** RIVER *** [Jc 6c 6h Jh][Kh]
+*** SHOW DOWN ***
+MathisKcr shows [2s 2h] (Two pairs : Jacks and 6)
+fou393666216 shows [7h Ah] (Flush Ace high)
+fou393666216 collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | No rake
+Board: [Jc 6c 6h Jh Kh]
+Seat 2: fou393666216 (big blind) showed [7h Ah] and won 348 with Flush Ace high
+Seat 3: MathisKcr (button) showed [2s 2h] and lost with Two pairs : Jacks and 6
+
+

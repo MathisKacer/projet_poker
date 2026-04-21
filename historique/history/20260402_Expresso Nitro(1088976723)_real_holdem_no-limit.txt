@@ -1,0 +1,76 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677119411390251009-1-1775123036 - Holdem no limit (10/20) - 2026/04/02 09:43:56 UTC
+Table: 'Expresso Nitro(1088976723)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Ian7 (300)
+Seat 3: Lennyg4me (300)
+*** ANTE/BLINDS ***
+Lennyg4me posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kc 5d]
+*** PRE-FLOP *** 
+Ian7 calls 20
+Lennyg4me folds
+MathisKcr checks
+*** FLOP *** [5h 9s Ts]
+MathisKcr bets 33
+Ian7 calls 33
+*** TURN *** [5h 9s Ts][6s]
+MathisKcr checks
+Ian7 bets 75
+MathisKcr folds
+Ian7 collected 191 from pot
+*** SUMMARY ***
+Total pot 191 | No rake
+Board: [5h 9s Ts 6s]
+Seat 2: Ian7 (button) won 191
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677119411390251009-2-1775123072 - Holdem no limit (10/20) - 2026/04/02 09:44:32 UTC
+Table: 'Expresso Nitro(1088976723)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (247)
+Seat 2: Ian7 (363)
+Seat 3: Lennyg4me (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Ian7 posts big blind 20
+Dealt to MathisKcr [Ks 8c]
+*** PRE-FLOP *** 
+Lennyg4me folds
+MathisKcr raises 227 to 247 and is all-in
+Ian7 folds
+MathisKcr collected 267 from pot
+*** SUMMARY ***
+Total pot 267 | No rake
+Seat 1: MathisKcr (small blind) won 267
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677119411390251009-3-1775123082 - Holdem no limit (10/20) - 2026/04/02 09:44:42 UTC
+Table: 'Expresso Nitro(1088976723)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (267)
+Seat 2: Ian7 (343)
+Seat 3: Lennyg4me (290)
+*** ANTE/BLINDS ***
+Ian7 posts small blind 10
+Lennyg4me posts big blind 20
+Dealt to MathisKcr [As Ts]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Ian7 calls 30
+Lennyg4me folds
+*** FLOP *** [Qc Ad Ks]
+Ian7 bets 65
+MathisKcr raises 162 to 227 and is all-in
+Ian7 calls 162
+*** TURN *** [Qc Ad Ks][9c]
+*** RIVER *** [Qc Ad Ks 9c][7c]
+*** SHOW DOWN ***
+MathisKcr shows [As Ts] (One pair : Aces)
+Ian7 shows [9h Kc] (Two pairs : Kings and 9)
+Ian7 collected 554 from pot
+*** SUMMARY ***
+Total pot 554 | No rake
+Board: [Qc Ad Ks 9c 7c]
+Seat 1: MathisKcr (button) showed [As Ts] and lost with One pair : Aces
+Seat 2: Ian7 (small blind) showed [9h Kc] and won 554 with Two pairs : Kings and 9
+
+

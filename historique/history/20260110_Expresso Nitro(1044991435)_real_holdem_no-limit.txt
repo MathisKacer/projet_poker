@@ -1,0 +1,385 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488204037925109761-1-1768060694 - Holdem no limit (10/20) - 2026/01/10 15:58:14 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: deurf68 (300)
+Seat 3: Dexter2A (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+deurf68 posts big blind 20
+Dealt to MathisKcr [Ts As]
+*** PRE-FLOP *** 
+Dexter2A folds
+MathisKcr raises 40 to 60
+deurf68 folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: MathisKcr (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488204037925109761-2-1768060704 - Holdem no limit (10/20) - 2026/01/10 15:58:24 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (320)
+Seat 2: deurf68 (280)
+Seat 3: Dexter2A (300)
+*** ANTE/BLINDS ***
+deurf68 posts small blind 10
+Dexter2A posts big blind 20
+Dealt to MathisKcr [Qh 7h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+deurf68 raises 240 to 280 and is all-in
+Dexter2A folds
+MathisKcr calls 240
+*** FLOP *** [Jh 7s 3c]
+*** TURN *** [Jh 7s 3c][2c]
+*** RIVER *** [Jh 7s 3c 2c][6c]
+*** SHOW DOWN ***
+deurf68 shows [Qc As] (High card : Ace)
+MathisKcr shows [Qh 7h] (One pair : 7)
+MathisKcr collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Jh 7s 3c 2c 6c]
+Seat 1: MathisKcr (button) showed [Qh 7h] and won 580 with One pair : 7
+Seat 2: deurf68 (small blind) showed [Qc As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488204037925109761-3-1768060720 - Holdem no limit (10/20) - 2026/01/10 15:58:40 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (620)
+Seat 3: Dexter2A (280)
+*** ANTE/BLINDS ***
+Dexter2A posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd 2h]
+*** PRE-FLOP *** 
+Dexter2A raises 260 to 280 and is all-in
+MathisKcr folds
+Dexter2A collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: Dexter2A (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488204037925109761-4-1768060726 - Holdem no limit (10/20) - 2026/01/10 15:58:46 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (600)
+Seat 3: Dexter2A (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Dexter2A posts big blind 20
+Dealt to MathisKcr [Kh Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Dexter2A calls 20
+*** FLOP *** [2s 8d Qs]
+Dexter2A checks
+MathisKcr bets 60
+Dexter2A folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [2s 8d Qs]
+Seat 1: MathisKcr (small blind) (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488204037925109761-5-1768060740 - Holdem no limit (10/20) - 2026/01/10 15:59:00 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (640)
+Seat 3: Dexter2A (260)
+*** ANTE/BLINDS ***
+Dexter2A posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qc Kh]
+*** PRE-FLOP *** 
+Dexter2A calls 10
+MathisKcr raises 40 to 60
+Dexter2A calls 40
+*** FLOP *** [Td 6h 5s]
+MathisKcr bets 60
+Dexter2A folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Td 6h 5s]
+Seat 1: MathisKcr (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488204037925109761-6-1768060754 - Holdem no limit (15/30) - 2026/01/10 15:59:14 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (700)
+Seat 3: Dexter2A (200)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Dexter2A posts big blind 30
+Dealt to MathisKcr [Qc 7c]
+*** PRE-FLOP *** 
+MathisKcr raises 45 to 75
+Dexter2A raises 125 to 200 and is all-in
+MathisKcr calls 125
+*** FLOP *** [Th 6h 5h]
+*** TURN *** [Th 6h 5h][2d]
+*** RIVER *** [Th 6h 5h 2d][6d]
+*** SHOW DOWN ***
+MathisKcr shows [Qc 7c] (One pair : 6)
+Dexter2A shows [Kc 8c] (One pair : 6)
+Dexter2A collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Th 6h 5h 2d 6d]
+Seat 1: MathisKcr (small blind) (button) showed [Qc 7c] and lost with One pair : 6
+Seat 3: Dexter2A (big blind) showed [Kc 8c] and won 400 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488204037925109761-7-1768060770 - Holdem no limit (15/30) - 2026/01/10 15:59:30 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (500)
+Seat 3: Dexter2A (400)
+*** ANTE/BLINDS ***
+Dexter2A posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kc 5c]
+*** PRE-FLOP *** 
+Dexter2A folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488204037925109761-8-1768060776 - Holdem no limit (15/30) - 2026/01/10 15:59:36 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (515)
+Seat 3: Dexter2A (385)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Dexter2A posts big blind 30
+Dealt to MathisKcr [5s 3c]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Dexter2A calls 30
+*** FLOP *** [Th 6h 5d]
+Dexter2A checks
+MathisKcr bets 455 and is all-in
+Dexter2A folds
+MathisKcr collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Board: [Th 6h 5d]
+Seat 1: MathisKcr (small blind) (button) won 575
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488204037925109761-9-1768060788 - Holdem no limit (15/30) - 2026/01/10 15:59:48 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (575)
+Seat 3: Dexter2A (325)
+*** ANTE/BLINDS ***
+Dexter2A posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7c Th]
+*** PRE-FLOP *** 
+Dexter2A raises 295 to 325 and is all-in
+MathisKcr folds
+Dexter2A collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 3: Dexter2A (small blind) (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488204037925109761-10-1768060797 - Holdem no limit (15/30) - 2026/01/10 15:59:57 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (545)
+Seat 3: Dexter2A (355)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Dexter2A posts big blind 30
+Dealt to MathisKcr [Ks 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Dexter2A calls 30
+*** FLOP *** [7s 7d 2h]
+Dexter2A checks
+MathisKcr bets 60
+Dexter2A folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [7s 7d 2h]
+Seat 1: MathisKcr (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488204037925109761-11-1768060811 - Holdem no limit (15/30) - 2026/01/10 16:00:11 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (605)
+Seat 3: Dexter2A (295)
+*** ANTE/BLINDS ***
+Dexter2A posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4s 4d]
+*** PRE-FLOP *** 
+Dexter2A calls 15
+MathisKcr raises 575 to 605 and is all-in
+Dexter2A folds
+MathisKcr collected 635 from pot
+*** SUMMARY ***
+Total pot 635 | No rake
+Seat 1: MathisKcr (big blind) won 635
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4488204037925109761-12-1768060822 - Holdem no limit (20/40) - 2026/01/10 16:00:22 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (635)
+Seat 3: Dexter2A (265)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Dexter2A posts big blind 40
+Dealt to MathisKcr [Js Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 595 to 635 and is all-in
+Dexter2A folds
+MathisKcr collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | No rake
+Seat 1: MathisKcr (small blind) (button) won 675
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4488204037925109761-13-1768060829 - Holdem no limit (20/40) - 2026/01/10 16:00:29 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (675)
+Seat 3: Dexter2A (225)
+*** ANTE/BLINDS ***
+Dexter2A posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kd 4s]
+*** PRE-FLOP *** 
+Dexter2A calls 20
+MathisKcr raises 635 to 675 and is all-in
+Dexter2A calls 185 and is all-in
+*** FLOP *** [2h Qc 6d]
+*** TURN *** [2h Qc 6d][5s]
+*** RIVER *** [2h Qc 6d 5s][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 4s] (High card : King)
+Dexter2A shows [Kc 3h] (High card : King)
+Dexter2A collected 225 from main pot
+MathisKcr collected 675 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2h Qc 6d 5s Ts]
+Seat 1: MathisKcr (big blind) showed [Kd 4s] and won 675 with High card : King
+Seat 3: Dexter2A (small blind) (button) showed [Kc 3h] and won 225 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4488204037925109761-14-1768060845 - Holdem no limit (20/40) - 2026/01/10 16:00:45 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (675)
+Seat 3: Dexter2A (225)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Dexter2A posts big blind 40
+Dealt to MathisKcr [Kd 4s]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Dexter2A folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4488204037925109761-15-1768060855 - Holdem no limit (20/40) - 2026/01/10 16:00:55 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (715)
+Seat 3: Dexter2A (185)
+*** ANTE/BLINDS ***
+Dexter2A posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kd 4c]
+*** PRE-FLOP *** 
+Dexter2A raises 145 to 185 and is all-in
+MathisKcr calls 145
+*** FLOP *** [Ah Td 5c]
+*** TURN *** [Ah Td 5c][9c]
+*** RIVER *** [Ah Td 5c 9c][5d]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 4c] (One pair : 5)
+Dexter2A shows [9h Qh] (Two pairs : 9 and 5)
+Dexter2A collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Board: [Ah Td 5c 9c 5d]
+Seat 1: MathisKcr (big blind) showed [Kd 4c] and lost with One pair : 5
+Seat 3: Dexter2A (small blind) (button) showed [9h Qh] and won 370 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4488204037925109761-16-1768060869 - Holdem no limit (20/40) - 2026/01/10 16:01:09 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (530)
+Seat 3: Dexter2A (370)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Dexter2A posts big blind 40
+Dealt to MathisKcr [5h Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 490 to 530 and is all-in
+Dexter2A calls 330 and is all-in
+*** FLOP *** [5s 4d 9c]
+*** TURN *** [5s 4d 9c][3h]
+*** RIVER *** [5s 4d 9c 3h][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [5h Ks] (One pair : 5)
+Dexter2A shows [Jc 9s] (One pair : 9)
+Dexter2A collected 740 from main pot
+MathisKcr collected 160 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s 4d 9c 3h Ts]
+Seat 1: MathisKcr (small blind) (button) showed [5h Ks] and won 160 with One pair : 5
+Seat 3: Dexter2A (big blind) showed [Jc 9s] and won 740 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4488204037925109761-17-1768060880 - Holdem no limit (30/60) - 2026/01/10 16:01:20 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (160)
+Seat 3: Dexter2A (740)
+*** ANTE/BLINDS ***
+Dexter2A posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [4h 8h]
+*** PRE-FLOP *** 
+Dexter2A folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4488204037925109761-18-1768060886 - Holdem no limit (30/60) - 2026/01/10 16:01:26 UTC
+Table: 'Expresso Nitro(1044991435)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (190)
+Seat 3: Dexter2A (710)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Dexter2A posts big blind 60
+Dealt to MathisKcr [8d 7c]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+Dexter2A raises 60 to 180
+MathisKcr calls 60
+*** FLOP *** [2c 2s 4h]
+Dexter2A bets 530 and is all-in
+MathisKcr calls 10 and is all-in
+*** TURN *** [2c 2s 4h][Tc]
+*** RIVER *** [2c 2s 4h Tc][4s]
+*** SHOW DOWN ***
+MathisKcr shows [8d 7c] (Two pairs : 4 and 2)
+Dexter2A shows [Kd Jd] (Two pairs : 4 and 2)
+Dexter2A collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2c 2s 4h Tc 4s]
+Seat 1: MathisKcr (small blind) (button) showed [8d 7c] and lost with Two pairs : 4 and 2
+Seat 3: Dexter2A (big blind) showed [Kd Jd] and won 900 with Two pairs : 4 and 2
+
+

@@ -1,0 +1,67 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558674401028997121-1-1770723905 - Holdem no limit (10/20) - 2026/02/10 11:45:05 UTC
+Table: 'Expresso Nitro(1061399095)#0' 3-max (real money) Seat #1 is the button
+Seat 1: KHL_350 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Chris01090 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Chris01090 posts big blind 20
+Dealt to MathisKcr [6c Ah]
+*** PRE-FLOP *** 
+KHL_350 calls 20
+MathisKcr raises 20 to 40
+Chris01090 calls 20
+KHL_350 raises 20 to 60
+MathisKcr raises 240 to 300 and is all-in
+Chris01090 folds
+KHL_350 folds
+MathisKcr collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 2: MathisKcr (small blind) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558674401028997121-2-1770723932 - Holdem no limit (10/20) - 2026/02/10 11:45:32 UTC
+Table: 'Expresso Nitro(1061399095)#0' 3-max (real money) Seat #2 is the button
+Seat 1: KHL_350 (240)
+Seat 2: MathisKcr (400)
+Seat 3: Chris01090 (260)
+*** ANTE/BLINDS ***
+Chris01090 posts small blind 10
+KHL_350 posts big blind 20
+Dealt to MathisKcr [5s Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Chris01090 calls 30
+KHL_350 calls 20
+*** FLOP *** [Td 5h 6c]
+Chris01090 checks
+KHL_350 checks
+MathisKcr bets 40
+Chris01090 calls 40
+KHL_350 calls 40
+*** TURN *** [Td 5h 6c][Ks]
+Chris01090 checks
+KHL_350 bets 20
+MathisKcr calls 20
+Chris01090 calls 20
+*** RIVER *** [Td 5h 6c Ks][Qc]
+Chris01090 checks
+KHL_350 bets 20
+MathisKcr raises 40 to 60
+Chris01090 raises 100 to 160 and is all-in
+KHL_350 calls 120 and is all-in
+MathisKcr calls 100
+*** SHOW DOWN ***
+KHL_350 shows [Kh 3d] (One pair : Kings)
+Chris01090 shows [Kc 9d] (One pair : Kings)
+MathisKcr shows [5s Qh] (Two pairs : Queens and 5)
+MathisKcr collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [Td 5h 6c Ks Qc]
+Seat 1: KHL_350 (big blind) showed [Kh 3d] and lost with One pair : Kings
+Seat 2: MathisKcr (button) showed [5s Qh] and won 760 with Two pairs : Queens and 5
+Seat 3: Chris01090 (small blind) showed [Kc 9d] and lost with One pair : Kings
+
+

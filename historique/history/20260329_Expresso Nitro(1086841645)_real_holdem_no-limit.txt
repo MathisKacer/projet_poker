@@ -1,0 +1,81 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667949321205841921-1-1774773921 - Holdem no limit (10/20) - 2026/03/29 08:45:21 UTC
+Table: 'Expresso Nitro(1086841645)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LaValiueGras (300)
+Seat 2: Viral 989587 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Viral 989587 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s 8s]
+*** PRE-FLOP *** 
+LaValiueGras raises 20 to 40
+Viral 989587 calls 30
+MathisKcr calls 20
+*** FLOP *** [7c 2h Kh]
+Viral 989587 bets 20
+MathisKcr folds
+LaValiueGras calls 20
+*** TURN *** [7c 2h Kh][9s]
+Viral 989587 bets 20
+LaValiueGras calls 20
+*** RIVER *** [7c 2h Kh 9s][5h]
+Viral 989587 bets 220 and is all-in
+LaValiueGras folds
+Viral 989587 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [7c 2h Kh 9s 5h]
+Seat 2: Viral 989587 (small blind) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667949321205841921-2-1774773944 - Holdem no limit (10/20) - 2026/03/29 08:45:44 UTC
+Table: 'Expresso Nitro(1086841645)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LaValiueGras (220)
+Seat 2: Viral 989587 (420)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+LaValiueGras posts big blind 20
+Dealt to MathisKcr [6s 5h]
+*** PRE-FLOP *** 
+Viral 989587 calls 20
+MathisKcr folds
+LaValiueGras raises 200 to 220 and is all-in
+Viral 989587 folds
+LaValiueGras collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 1: LaValiueGras (big blind) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667949321205841921-3-1774773964 - Holdem no limit (10/20) - 2026/03/29 08:46:04 UTC
+Table: 'Expresso Nitro(1086841645)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LaValiueGras (250)
+Seat 2: Viral 989587 (400)
+Seat 3: MathisKcr (250)
+*** ANTE/BLINDS ***
+LaValiueGras posts small blind 10
+Viral 989587 posts big blind 20
+Dealt to MathisKcr [Kd 6h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+LaValiueGras folds
+Viral 989587 raises 20 to 60
+MathisKcr calls 20
+*** FLOP *** [Qh Qs Qd]
+Viral 989587 checks
+MathisKcr bets 190 and is all-in
+Viral 989587 calls 190
+*** TURN *** [Qh Qs Qd][Ad]
+*** RIVER *** [Qh Qs Qd Ad][7h]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 6h] (Trips of Queens)
+Viral 989587 shows [4h 4d] (Full of Queens and 4)
+Viral 989587 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [Qh Qs Qd Ad 7h]
+Seat 2: Viral 989587 (big blind) showed [4h 4d] and won 510 with Full of Queens and 4
+Seat 3: MathisKcr (button) showed [Kd 6h] and lost with Trips of Queens
+
+

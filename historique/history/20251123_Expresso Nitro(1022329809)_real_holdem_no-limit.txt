@@ -1,0 +1,205 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4390873095380926465-1-1763931410 - Holdem no limit (10/20) - 2025/11/23 20:56:50 UTC
+Table: 'Expresso Nitro(1022329809)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shaow-Lean (300)
+Seat 2: MathisKcr (300)
+Seat 3: javi7H7 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+javi7H7 posts big blind 20
+Dealt to MathisKcr [4d Qh]
+*** PRE-FLOP *** 
+Shaow-Lean calls 20
+MathisKcr calls 10
+javi7H7 raises 60 to 80
+Shaow-Lean calls 60
+MathisKcr folds
+*** FLOP *** [Js 6c 3c]
+javi7H7 bets 220 and is all-in
+Shaow-Lean calls 220 and is all-in
+*** TURN *** [Js 6c 3c][Kh]
+*** RIVER *** [Js 6c 3c Kh][4s]
+*** SHOW DOWN ***
+javi7H7 shows [2s 2d] (One pair : 2)
+Shaow-Lean shows [5c 7c] (Straight 7 high)
+Shaow-Lean collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Js 6c 3c Kh 4s]
+Seat 1: Shaow-Lean (button) showed [5c 7c] and won 620 with Straight 7 high
+Seat 3: javi7H7 (big blind) showed [2s 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4390873095380926465-2-1763931429 - Holdem no limit (10/20) - 2025/11/23 20:57:09 UTC
+Table: 'Expresso Nitro(1022329809)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shaow-Lean (620)
+Seat 2: MathisKcr (280)
+*** ANTE/BLINDS ***
+Shaow-Lean posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5s 9c]
+*** PRE-FLOP *** 
+Shaow-Lean calls 10
+MathisKcr checks
+*** FLOP *** [2d Kd 5h]
+MathisKcr bets 20
+Shaow-Lean calls 20
+*** TURN *** [2d Kd 5h][As]
+MathisKcr bets 30
+Shaow-Lean calls 30
+*** RIVER *** [2d Kd 5h As][2h]
+MathisKcr checks
+Shaow-Lean checks
+*** SHOW DOWN ***
+Shaow-Lean shows [Qc Jd] (One pair : 2)
+MathisKcr shows [5s 9c] (Two pairs : 5 and 2)
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [2d Kd 5h As 2h]
+Seat 1: Shaow-Lean (small blind) (button) showed [Qc Jd] and lost with One pair : 2
+Seat 2: MathisKcr (big blind) showed [5s 9c] and won 140 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4390873095380926465-3-1763931453 - Holdem no limit (10/20) - 2025/11/23 20:57:33 UTC
+Table: 'Expresso Nitro(1022329809)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shaow-Lean (550)
+Seat 2: MathisKcr (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Shaow-Lean posts big blind 20
+Dealt to MathisKcr [4h Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Shaow-Lean calls 20
+*** FLOP *** [2c 9c 8c]
+Shaow-Lean checks
+MathisKcr checks
+*** TURN *** [2c 9c 8c][Qc]
+Shaow-Lean bets 20
+MathisKcr calls 20
+*** RIVER *** [2c 9c 8c Qc][Tc]
+Shaow-Lean bets 20
+MathisKcr calls 20
+*** SHOW DOWN ***
+Shaow-Lean shows [Ad 6s] (Flush Queen high)
+MathisKcr shows [4h Jd] (Flush Queen high)
+MathisKcr collected 80 from pot
+Shaow-Lean collected 80 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [2c 9c 8c Qc Tc]
+Seat 1: Shaow-Lean (big blind) showed [Ad 6s] and won 80 with Flush Queen high
+Seat 2: MathisKcr (small blind) (button) showed [4h Jd] and won 80 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4390873095380926465-4-1763931472 - Holdem no limit (15/30) - 2025/11/23 20:57:52 UTC
+Table: 'Expresso Nitro(1022329809)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shaow-Lean (550)
+Seat 2: MathisKcr (350)
+*** ANTE/BLINDS ***
+Shaow-Lean posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3s 2d]
+*** PRE-FLOP *** 
+Shaow-Lean calls 15
+MathisKcr checks
+*** FLOP *** [Qh 2s 8d]
+MathisKcr bets 60
+Shaow-Lean folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qh 2s 8d]
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4390873095380926465-5-1763931484 - Holdem no limit (15/30) - 2025/11/23 20:58:04 UTC
+Table: 'Expresso Nitro(1022329809)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shaow-Lean (520)
+Seat 2: MathisKcr (380)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Shaow-Lean posts big blind 30
+Dealt to MathisKcr [Jc 4s]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Shaow-Lean calls 30
+*** FLOP *** [Kh 6s 9d]
+Shaow-Lean checks
+MathisKcr bets 45
+Shaow-Lean calls 45
+*** TURN *** [Kh 6s 9d][Qh]
+Shaow-Lean checks
+MathisKcr checks
+*** RIVER *** [Kh 6s 9d Qh][As]
+Shaow-Lean bets 415 and is all-in
+MathisKcr folds
+Shaow-Lean collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [Kh 6s 9d Qh As]
+Seat 1: Shaow-Lean (big blind) won 625
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4390873095380926465-6-1763931515 - Holdem no limit (15/30) - 2025/11/23 20:58:35 UTC
+Table: 'Expresso Nitro(1022329809)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shaow-Lean (625)
+Seat 2: MathisKcr (275)
+*** ANTE/BLINDS ***
+Shaow-Lean posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kh Jc]
+*** PRE-FLOP *** 
+Shaow-Lean calls 15
+MathisKcr raises 60 to 90
+Shaow-Lean calls 60
+*** FLOP *** [Ah 7s 9d]
+MathisKcr bets 105
+Shaow-Lean raises 430 to 535 and is all-in
+MathisKcr calls 80 and is all-in
+*** TURN *** [Ah 7s 9d][2c]
+*** RIVER *** [Ah 7s 9d 2c][2s]
+*** SHOW DOWN ***
+Shaow-Lean shows [3h Qh] (One pair : 2)
+MathisKcr shows [Kh Jc] (One pair : 2)
+MathisKcr collected 550 from main pot
+Shaow-Lean collected 350 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ah 7s 9d 2c 2s]
+Seat 1: Shaow-Lean (small blind) (button) showed [3h Qh] and won 350 with One pair : 2
+Seat 2: MathisKcr (big blind) showed [Kh Jc] and won 550 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4390873095380926465-7-1763931534 - Holdem no limit (20/40) - 2025/11/23 20:58:54 UTC
+Table: 'Expresso Nitro(1022329809)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shaow-Lean (350)
+Seat 2: MathisKcr (550)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Shaow-Lean posts big blind 40
+Dealt to MathisKcr [Ts 5s]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Shaow-Lean checks
+*** FLOP *** [8d 6d 3h]
+Shaow-Lean checks
+MathisKcr bets 60
+Shaow-Lean calls 60
+*** TURN *** [8d 6d 3h][Td]
+Shaow-Lean checks
+MathisKcr bets 100
+Shaow-Lean raises 150 to 250 and is all-in
+MathisKcr calls 150
+*** RIVER *** [8d 6d 3h Td][9c]
+*** SHOW DOWN ***
+Shaow-Lean shows [9d 5h] (One pair : 9)
+MathisKcr shows [Ts 5s] (One pair : Tens)
+MathisKcr collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [8d 6d 3h Td 9c]
+Seat 1: Shaow-Lean (big blind) showed [9d 5h] and lost with One pair : 9
+Seat 2: MathisKcr (small blind) (button) showed [Ts 5s] and won 700 with One pair : Tens
+
+

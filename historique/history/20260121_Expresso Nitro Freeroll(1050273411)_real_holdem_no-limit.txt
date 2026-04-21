@@ -1,0 +1,70 @@
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4510889952103366657-1-1769002807 - Holdem no limit (10/20) - 2026/01/21 13:40:07 UTC
+Table: 'Expresso Nitro Freeroll(1050273411)#0' 3-max (real money) Seat #3 is the button
+Seat 1: YANNPOT45 (300)
+Seat 2: Kams1289 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+YANNPOT45 posts small blind 10
+Kams1289 posts big blind 20
+Dealt to MathisKcr [4c 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+YANNPOT45 calls 10
+Kams1289 raises 280 to 300 and is all-in
+YANNPOT45 calls 280 and is all-in
+*** FLOP *** [7h 9d Qs]
+*** TURN *** [7h 9d Qs][9h]
+*** RIVER *** [7h 9d Qs 9h][9s]
+*** SHOW DOWN ***
+YANNPOT45 shows [8c 7c] (Full of 9 and 7)
+Kams1289 shows [Kc Ks] (Full of 9 and Kings)
+Kams1289 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7h 9d Qs 9h 9s]
+Seat 1: YANNPOT45 (small blind) showed [8c 7c] and lost with Full of 9 and 7
+Seat 2: Kams1289 (big blind) showed [Kc Ks] and won 600 with Full of 9 and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4510889952103366657-2-1769002819 - Holdem no limit (10/20) - 2026/01/21 13:40:19 UTC
+Table: 'Expresso Nitro Freeroll(1050273411)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Kams1289 (600)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Kams1289 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s 3d]
+*** PRE-FLOP *** 
+Kams1289 raises 580 to 600 and is all-in
+MathisKcr folds
+Kams1289 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 2: Kams1289 (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4510889952103366657-3-1769002824 - Holdem no limit (10/20) - 2026/01/21 13:40:24 UTC
+Table: 'Expresso Nitro Freeroll(1050273411)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Kams1289 (620)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Kams1289 posts big blind 20
+Dealt to MathisKcr [Ts 9h]
+*** PRE-FLOP *** 
+MathisKcr raises 260 to 280 and is all-in
+Kams1289 raises 340 to 620 and is all-in
+*** FLOP *** [3d 8h 8s]
+*** TURN *** [3d 8h 8s][7s]
+*** RIVER *** [3d 8h 8s 7s][7h]
+*** SHOW DOWN ***
+MathisKcr shows [Ts 9h] (Two pairs : 8 and 7)
+Kams1289 shows [6d Qd] (Two pairs : 8 and 7)
+Kams1289 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 8h 8s 7s 7h]
+Seat 2: Kams1289 (big blind) showed [6d Qd] and won 900 with Two pairs : 8 and 7
+Seat 3: MathisKcr (small blind) (button) showed [Ts 9h] and lost with Two pairs : 8 and 7
+
+

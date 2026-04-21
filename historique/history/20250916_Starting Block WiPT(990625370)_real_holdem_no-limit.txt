@@ -1,0 +1,969 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4254703566737899521-1-1758027854 - Holdem no limit (10/20) - 2025/09/16 13:04:14 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #5 is the button
+Seat 1: RevolY (1500)
+Seat 2: MathisKcr (1500)
+Seat 3: Gruiii (1500)
+Seat 4: peke59 (1500)
+Seat 5: ptgoy44 (1500)
+Seat 6: Sir Cuts 2.0 (1500)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts small blind 10
+RevolY posts big blind 20
+Dealt to MathisKcr [Kc Js]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Gruiii calls 40
+peke59 folds
+ptgoy44 calls 40
+Sir Cuts 2.0 folds
+RevolY calls 20
+*** FLOP *** [Td 5d Jc]
+RevolY checks
+MathisKcr bets 60
+Gruiii calls 60
+ptgoy44 folds
+RevolY folds
+*** TURN *** [Td 5d Jc][4c]
+MathisKcr bets 80
+Gruiii raises 1320 to 1400 and is all-in
+MathisKcr calls 1320 and is all-in
+*** RIVER *** [Td 5d Jc 4c][5s]
+*** SHOW DOWN ***
+Gruiii shows [8h Jd] (Two pairs : Jacks and 5)
+MathisKcr shows [Kc Js] (Two pairs : Jacks and 5)
+MathisKcr collected 3090 from pot
+*** SUMMARY ***
+Total pot 3090 | No rake
+Board: [Td 5d Jc 4c 5s]
+Seat 2: MathisKcr showed [Kc Js] and won 3090 with Two pairs : Jacks and 5
+Seat 3: Gruiii showed [8h Jd] and lost with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4254703566737899521-2-1758027953 - Holdem no limit (15/30) - 2025/09/16 13:05:53 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 1: RevolY (1460)
+Seat 2: MathisKcr (3090)
+Seat 4: peke59 (1500)
+Seat 5: ptgoy44 (1460)
+Seat 6: Sir Cuts 2.0 (1490)
+*** ANTE/BLINDS ***
+RevolY posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9c Js]
+*** PRE-FLOP *** 
+peke59 folds
+ptgoy44 calls 30
+Sir Cuts 2.0 raises 60 to 90
+RevolY folds
+MathisKcr calls 60
+ptgoy44 folds
+*** FLOP *** [4d 2h Th]
+MathisKcr checks
+Sir Cuts 2.0 bets 79
+MathisKcr folds
+Sir Cuts 2.0 collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | No rake
+Board: [4d 2h Th]
+Seat 6: Sir Cuts 2.0 (button) won 304
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4254703566737899521-3-1758027991 - Holdem no limit (15/30) - 2025/09/16 13:06:31 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #1 is the button
+Seat 1: RevolY (1445)
+Seat 2: MathisKcr (3000)
+Seat 4: peke59 (1500)
+Seat 5: ptgoy44 (1430)
+Seat 6: Sir Cuts 2.0 (1625)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+peke59 posts big blind 30
+Dealt to MathisKcr [7s 8h]
+*** PRE-FLOP *** 
+ptgoy44 folds
+Sir Cuts 2.0 folds
+RevolY folds
+MathisKcr raises 30 to 60
+peke59 calls 30
+*** FLOP *** [Kd Ah 3s]
+MathisKcr bets 90
+peke59 calls 90
+*** TURN *** [Kd Ah 3s][6c]
+MathisKcr checks
+peke59 checks
+*** RIVER *** [Kd Ah 3s 6c][Th]
+MathisKcr checks
+peke59 checks
+*** SHOW DOWN ***
+MathisKcr shows [7s 8h] (High card : Ace)
+peke59 shows [Kc 9h] (One pair : Kings)
+peke59 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Kd Ah 3s 6c Th]
+Seat 2: MathisKcr (small blind) showed [7s 8h] and lost with High card : Ace
+Seat 4: peke59 (big blind) showed [Kc 9h] and won 300 with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4254703566737899521-4-1758028018 - Holdem no limit (15/30) - 2025/09/16 13:06:58 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #2 is the button
+Seat 1: RevolY (1445)
+Seat 2: MathisKcr (2850)
+Seat 4: peke59 (1650)
+Seat 5: ptgoy44 (1430)
+Seat 6: Sir Cuts 2.0 (1625)
+*** ANTE/BLINDS ***
+peke59 posts small blind 15
+ptgoy44 posts big blind 30
+Dealt to MathisKcr [9s 9h]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 raises 30 to 60
+RevolY folds
+MathisKcr raises 90 to 150
+peke59 folds
+ptgoy44 calls 120
+Sir Cuts 2.0 calls 90
+*** FLOP *** [Jh 8h Ac]
+ptgoy44 checks
+Sir Cuts 2.0 checks
+MathisKcr bets 461
+ptgoy44 folds
+Sir Cuts 2.0 folds
+MathisKcr collected 926 from pot
+*** SUMMARY ***
+Total pot 926 | No rake
+Board: [Jh 8h Ac]
+Seat 2: MathisKcr (button) won 926
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4254703566737899521-5-1758028077 - Holdem no limit (20/40) - 2025/09/16 13:07:57 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #4 is the button
+Seat 1: RevolY (1445)
+Seat 2: MathisKcr (3165)
+Seat 4: peke59 (1635)
+Seat 5: ptgoy44 (1280)
+Seat 6: Sir Cuts 2.0 (1475)
+*** ANTE/BLINDS ***
+ptgoy44 posts small blind 20
+Sir Cuts 2.0 posts big blind 40
+Dealt to MathisKcr [3s Kd]
+*** PRE-FLOP *** 
+RevolY raises 60 to 100
+MathisKcr calls 100
+peke59 calls 100
+ptgoy44 calls 80
+Sir Cuts 2.0 folds
+*** FLOP *** [8h 7h 5h]
+ptgoy44 bets 1180 and is all-in
+RevolY folds
+MathisKcr folds
+peke59 calls 1180
+*** TURN *** [8h 7h 5h][6s]
+*** RIVER *** [8h 7h 5h 6s][7c]
+*** SHOW DOWN ***
+peke59 shows [Kh Ts] (One pair : 7)
+ptgoy44 shows [6d 2h] (Two pairs : 7 and 6)
+ptgoy44 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Board: [8h 7h 5h 6s 7c]
+Seat 4: peke59 (button) showed [Kh Ts] and lost with One pair : 7
+Seat 5: ptgoy44 (small blind) showed [6d 2h] and won 2800 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4254703566737899521-6-1758028114 - Holdem no limit (20/40) - 2025/09/16 13:08:34 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #5 is the button
+Seat 1: RevolY (1345)
+Seat 2: MathisKcr (3065)
+Seat 4: peke59 (355)
+Seat 5: ptgoy44 (2800)
+Seat 6: Sir Cuts 2.0 (1435)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts small blind 20
+RevolY posts big blind 40
+Dealt to MathisKcr [7h 9c]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+peke59 raises 315 to 355 and is all-in
+ptgoy44 raises 2445 to 2800 and is all-in
+Sir Cuts 2.0 folds
+RevolY folds
+MathisKcr folds
+*** FLOP *** [2h 3s 5c]
+*** TURN *** [2h 3s 5c][7s]
+*** RIVER *** [2h 3s 5c 7s][Ks]
+*** SHOW DOWN ***
+peke59 shows [Ad Tc] (High card : Ace)
+ptgoy44 shows [Qh Th] (High card : King)
+ptgoy44 collected 2445 from side pot 1
+peke59 collected 810 from main pot
+*** SUMMARY ***
+Total pot 3255 | No rake
+Board: [2h 3s 5c 7s Ks]
+Seat 4: peke59 showed [Ad Tc] and won 810 with High card : Ace
+Seat 5: ptgoy44 (button) showed [Qh Th] and won 2445 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4254703566737899521-7-1758028135 - Holdem no limit (30/60) - 2025/09/16 13:08:55 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 1: RevolY (1305)
+Seat 2: MathisKcr (3025)
+Seat 4: peke59 (810)
+Seat 5: ptgoy44 (2445)
+Seat 6: Sir Cuts 2.0 (1415)
+*** ANTE/BLINDS ***
+RevolY posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [7d 9c]
+*** PRE-FLOP *** 
+peke59 folds
+ptgoy44 raises 2385 to 2445 and is all-in
+Sir Cuts 2.0 folds
+RevolY calls 1275 and is all-in
+MathisKcr folds
+*** FLOP *** [7s 9h Qh]
+*** TURN *** [7s 9h Qh][2h]
+*** RIVER *** [7s 9h Qh 2h][Ac]
+*** SHOW DOWN ***
+RevolY shows [7h 7c] (Trips of 7)
+ptgoy44 shows [Ah Ts] (One pair : Aces)
+ptgoy44 collected 1140 from side pot 1
+RevolY collected 2670 from main pot
+*** SUMMARY ***
+Total pot 3810 | No rake
+Board: [7s 9h Qh 2h Ac]
+Seat 1: RevolY (small blind) showed [7h 7c] and won 2670 with Trips of 7
+Seat 5: ptgoy44 showed [Ah Ts] and won 1140 with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4254703566737899521-8-1758028157 - Holdem no limit (30/60) - 2025/09/16 13:09:17 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #1 is the button
+Seat 1: RevolY (2670)
+Seat 2: MathisKcr (2965)
+Seat 4: peke59 (810)
+Seat 5: ptgoy44 (1140)
+Seat 6: Sir Cuts 2.0 (1415)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+peke59 posts big blind 60
+Dealt to MathisKcr [9h 9s]
+*** PRE-FLOP *** 
+ptgoy44 calls 60
+Sir Cuts 2.0 folds
+RevolY folds
+MathisKcr raises 240 to 300
+peke59 folds
+ptgoy44 calls 240
+*** FLOP *** [Kd 5d Js]
+MathisKcr bets 2665 and is all-in
+ptgoy44 folds
+MathisKcr collected 3325 from pot
+*** SUMMARY ***
+Total pot 3325 | No rake
+Board: [Kd 5d Js]
+Seat 2: MathisKcr (small blind) won 3325
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4254703566737899521-9-1758028185 - Holdem no limit (30/60) - 2025/09/16 13:09:45 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #2 is the button
+Seat 1: RevolY (2670)
+Seat 2: MathisKcr (3325)
+Seat 4: peke59 (750)
+Seat 5: ptgoy44 (840)
+Seat 6: Sir Cuts 2.0 (1415)
+*** ANTE/BLINDS ***
+peke59 posts small blind 30
+ptgoy44 posts big blind 60
+Dealt to MathisKcr [Qs As]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 folds
+RevolY raises 90 to 150
+MathisKcr raises 3175 to 3325 and is all-in
+peke59 folds
+ptgoy44 calls 780 and is all-in
+RevolY folds
+*** FLOP *** [8c Jd 2h]
+*** TURN *** [8c Jd 2h][6d]
+*** RIVER *** [8c Jd 2h 6d][Tc]
+*** SHOW DOWN ***
+ptgoy44 shows [9h Kc] (High card : King)
+MathisKcr shows [Qs As] (High card : Ace)
+MathisKcr collected 4345 from pot
+*** SUMMARY ***
+Total pot 4345 | No rake
+Board: [8c Jd 2h 6d Tc]
+Seat 2: MathisKcr (button) showed [Qs As] and won 4345 with High card : Ace
+Seat 5: ptgoy44 (big blind) showed [9h Kc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4254703566737899521-10-1758028223 - Holdem no limit (40/80) - 2025/09/16 13:10:23 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #4 is the button
+Seat 1: RevolY (2520)
+Seat 2: MathisKcr (4345)
+Seat 4: peke59 (720)
+Seat 6: Sir Cuts 2.0 (1415)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts big blind 80
+Dealt to MathisKcr [3s 9d]
+*** PRE-FLOP *** 
+RevolY raises 120 to 200
+MathisKcr folds
+peke59 raises 520 to 720 and is all-in
+Sir Cuts 2.0 raises 695 to 1415 and is all-in
+RevolY calls 1215
+*** FLOP *** [As 9h 3c]
+*** TURN *** [As 9h 3c][7s]
+*** RIVER *** [As 9h 3c 7s][2s]
+*** SHOW DOWN ***
+RevolY shows [Jd Ks] (High card : Ace)
+peke59 shows [Qc 3d] (One pair : 3)
+Sir Cuts 2.0 shows [8c Ac] (One pair : Aces)
+Sir Cuts 2.0 collected 3550 from pot
+*** SUMMARY ***
+Total pot 3550 | No rake
+Board: [As 9h 3c 7s 2s]
+Seat 1: RevolY showed [Jd Ks] and lost with High card : Ace
+Seat 4: peke59 (button) showed [Qc 3d] and lost with One pair : 3
+Seat 6: Sir Cuts 2.0 (big blind) showed [8c Ac] and won 3550 with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4254703566737899521-11-1758028250 - Holdem no limit (40/80) - 2025/09/16 13:10:50 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #5 is the button
+Seat 1: RevolY (1105)
+Seat 2: MathisKcr (4345)
+Seat 6: Sir Cuts 2.0 (3550)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts small blind 40
+RevolY posts big blind 80
+Dealt to MathisKcr [Js Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 160 to 240
+Sir Cuts 2.0 folds
+RevolY folds
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: MathisKcr won 360
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4254703566737899521-12-1758028264 - Holdem no limit (40/80) - 2025/09/16 13:11:04 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 1: RevolY (1025)
+Seat 2: MathisKcr (4465)
+Seat 6: Sir Cuts 2.0 (3510)
+*** ANTE/BLINDS ***
+RevolY posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Ts Ah]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 raises 80 to 160
+RevolY folds
+MathisKcr raises 160 to 320
+Sir Cuts 2.0 calls 160
+*** FLOP *** [2d 2s Kh]
+MathisKcr checks
+Sir Cuts 2.0 checks
+*** TURN *** [2d 2s Kh][5s]
+MathisKcr checks
+Sir Cuts 2.0 bets 170
+MathisKcr calls 170
+*** RIVER *** [2d 2s Kh 5s][9c]
+MathisKcr checks
+Sir Cuts 2.0 bets 816
+MathisKcr folds
+Sir Cuts 2.0 collected 1836 from pot
+*** SUMMARY ***
+Total pot 1836 | No rake
+Board: [2d 2s Kh 5s 9c]
+Seat 6: Sir Cuts 2.0 (button) won 1836
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4254703566737899521-13-1758028338 - Holdem no limit (60/120) - 2025/09/16 13:12:18 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #1 is the button
+Seat 1: RevolY (985)
+Seat 2: MathisKcr (3975)
+Seat 6: Sir Cuts 2.0 (4040)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 60
+Sir Cuts 2.0 posts big blind 120
+Dealt to MathisKcr [7c Ah]
+*** PRE-FLOP *** 
+RevolY folds
+MathisKcr raises 240 to 360
+Sir Cuts 2.0 folds
+MathisKcr collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 2: MathisKcr (small blind) won 480
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4254703566737899521-14-1758028348 - Holdem no limit (60/120) - 2025/09/16 13:12:28 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #2 is the button
+Seat 1: RevolY (985)
+Seat 2: MathisKcr (4095)
+Seat 6: Sir Cuts 2.0 (3920)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts small blind 60
+RevolY posts big blind 120
+Dealt to MathisKcr [Ac 7h]
+*** PRE-FLOP *** 
+MathisKcr raises 240 to 360
+Sir Cuts 2.0 calls 300
+RevolY folds
+*** FLOP *** [6c 2d Jc]
+Sir Cuts 2.0 checks
+MathisKcr bets 599
+Sir Cuts 2.0 calls 599
+*** TURN *** [6c 2d Jc][Jh]
+Sir Cuts 2.0 checks
+MathisKcr checks
+*** RIVER *** [6c 2d Jc Jh][3s]
+Sir Cuts 2.0 checks
+MathisKcr checks
+*** SHOW DOWN ***
+Sir Cuts 2.0 shows [Kc Qc] (One pair : Jacks)
+MathisKcr shows [Ac 7h] (One pair : Jacks)
+MathisKcr collected 2038 from pot
+*** SUMMARY ***
+Total pot 2038 | No rake
+Board: [6c 2d Jc Jh 3s]
+Seat 2: MathisKcr (button) showed [Ac 7h] and won 2038 with One pair : Jacks
+Seat 6: Sir Cuts 2.0 (small blind) showed [Kc Qc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4254703566737899521-15-1758028405 - Holdem no limit (10/60/120) - 2025/09/16 13:13:25 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 1: RevolY (865)
+Seat 2: MathisKcr (5174)
+Seat 6: Sir Cuts 2.0 (2961)
+*** ANTE/BLINDS ***
+RevolY posts ante 10
+MathisKcr posts ante 10
+Sir Cuts 2.0 posts ante 10
+RevolY posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [2s 7s]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 folds
+RevolY raises 735 to 855 and is all-in
+MathisKcr folds
+RevolY collected 1005 from pot
+*** SUMMARY ***
+Total pot 1005 | No rake
+Seat 1: RevolY (small blind) won 1005
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4254703566737899521-16-1758028436 - Holdem no limit (10/60/120) - 2025/09/16 13:13:56 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #1 is the button
+Seat 1: RevolY (1005)
+Seat 2: MathisKcr (5044)
+Seat 6: Sir Cuts 2.0 (2951)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 10
+Sir Cuts 2.0 posts ante 10
+RevolY posts ante 10
+MathisKcr posts small blind 60
+Sir Cuts 2.0 posts big blind 120
+Dealt to MathisKcr [Js Td]
+*** PRE-FLOP *** 
+RevolY raises 875 to 995 and is all-in
+MathisKcr calls 935
+Sir Cuts 2.0 folds
+*** FLOP *** [Jc Ad 6h]
+*** TURN *** [Jc Ad 6h][9d]
+*** RIVER *** [Jc Ad 6h 9d][As]
+*** SHOW DOWN ***
+MathisKcr shows [Js Td] (Two pairs : Aces and Jacks)
+RevolY shows [Qd Qs] (Two pairs : Aces and Queens)
+RevolY collected 2140 from pot
+*** SUMMARY ***
+Total pot 2140 | No rake
+Board: [Jc Ad 6h 9d As]
+Seat 1: RevolY (button) showed [Qd Qs] and won 2140 with Two pairs : Aces and Queens
+Seat 2: MathisKcr (small blind) showed [Js Td] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4254703566737899521-17-1758028458 - Holdem no limit (10/60/120) - 2025/09/16 13:14:18 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #2 is the button
+Seat 1: RevolY (2140)
+Seat 2: MathisKcr (4039)
+Seat 6: Sir Cuts 2.0 (2821)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts ante 10
+RevolY posts ante 10
+MathisKcr posts ante 10
+Sir Cuts 2.0 posts small blind 60
+RevolY posts big blind 120
+Dealt to MathisKcr [4h 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sir Cuts 2.0 calls 60
+RevolY checks
+*** FLOP *** [Kc 6d Tc]
+Sir Cuts 2.0 checks
+RevolY bets 176
+Sir Cuts 2.0 folds
+RevolY collected 446 from pot
+*** SUMMARY ***
+Total pot 446 | No rake
+Board: [Kc 6d Tc]
+Seat 1: RevolY (big blind) won 446
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #4254703566737899521-18-1758028487 - Holdem no limit (16/80/160) - 2025/09/16 13:14:47 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 1: RevolY (2280)
+Seat 2: MathisKcr (4029)
+Seat 6: Sir Cuts 2.0 (2691)
+*** ANTE/BLINDS ***
+RevolY posts ante 16
+MathisKcr posts ante 16
+Sir Cuts 2.0 posts ante 16
+RevolY posts small blind 80
+MathisKcr posts big blind 160
+Dealt to MathisKcr [Qc 9s]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 raises 160 to 320
+RevolY folds
+MathisKcr calls 160
+*** FLOP *** [Js 6h 3h]
+MathisKcr checks
+Sir Cuts 2.0 bets 269
+MathisKcr calls 269
+*** TURN *** [Js 6h 3h][8c]
+MathisKcr checks
+Sir Cuts 2.0 bets 653
+MathisKcr calls 653
+*** RIVER *** [Js 6h 3h 8c][9c]
+MathisKcr checks
+Sir Cuts 2.0 checks
+*** SHOW DOWN ***
+MathisKcr shows [Qc 9s] (One pair : 9)
+Sir Cuts 2.0 shows [Tc Jd] (One pair : Jacks)
+Sir Cuts 2.0 collected 2612 from pot
+*** SUMMARY ***
+Total pot 2612 | No rake
+Board: [Js 6h 3h 8c 9c]
+Seat 2: MathisKcr (big blind) showed [Qc 9s] and lost with One pair : 9
+Seat 6: Sir Cuts 2.0 (button) showed [Tc Jd] and won 2612 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #4254703566737899521-19-1758028537 - Holdem no limit (16/80/160) - 2025/09/16 13:15:37 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #1 is the button
+Seat 1: RevolY (2184)
+Seat 2: MathisKcr (2771)
+Seat 6: Sir Cuts 2.0 (4045)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 16
+Sir Cuts 2.0 posts ante 16
+RevolY posts ante 16
+MathisKcr posts small blind 80
+Sir Cuts 2.0 posts big blind 160
+Dealt to MathisKcr [5c 6s]
+*** PRE-FLOP *** 
+RevolY folds
+MathisKcr calls 80
+Sir Cuts 2.0 checks
+*** FLOP *** [Kc Kd 9h]
+MathisKcr checks
+Sir Cuts 2.0 checks
+*** TURN *** [Kc Kd 9h][2s]
+MathisKcr checks
+Sir Cuts 2.0 checks
+*** RIVER *** [Kc Kd 9h 2s][Jc]
+MathisKcr checks
+Sir Cuts 2.0 bets 368
+MathisKcr folds
+Sir Cuts 2.0 collected 736 from pot
+*** SUMMARY ***
+Total pot 736 | No rake
+Board: [Kc Kd 9h 2s Jc]
+Seat 6: Sir Cuts 2.0 (big blind) won 736
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 9 - HandId: #4254703566737899521-20-1758028587 - Holdem no limit (20/100/200) - 2025/09/16 13:16:27 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #2 is the button
+Seat 1: RevolY (2168)
+Seat 2: MathisKcr (2595)
+Seat 6: Sir Cuts 2.0 (4237)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts ante 20
+RevolY posts ante 20
+MathisKcr posts ante 20
+Sir Cuts 2.0 posts small blind 100
+RevolY posts big blind 200
+Dealt to MathisKcr [8c 7c]
+*** PRE-FLOP *** 
+MathisKcr calls 200
+Sir Cuts 2.0 folds
+RevolY checks
+*** FLOP *** [8h 4d 9h]
+RevolY checks
+MathisKcr bets 600
+RevolY folds
+MathisKcr collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | No rake
+Board: [8h 4d 9h]
+Seat 2: MathisKcr (button) won 1160
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 9 - HandId: #4254703566737899521-21-1758028616 - Holdem no limit (20/100/200) - 2025/09/16 13:16:56 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 1: RevolY (1948)
+Seat 2: MathisKcr (2935)
+Seat 6: Sir Cuts 2.0 (4117)
+*** ANTE/BLINDS ***
+RevolY posts ante 20
+MathisKcr posts ante 20
+Sir Cuts 2.0 posts ante 20
+RevolY posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [2h 7c]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 raises 200 to 400
+RevolY folds
+MathisKcr folds
+Sir Cuts 2.0 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Seat 6: Sir Cuts 2.0 (button) won 760
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 9 - HandId: #4254703566737899521-22-1758028640 - Holdem no limit (20/100/200) - 2025/09/16 13:17:20 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #1 is the button
+Seat 1: RevolY (1828)
+Seat 2: MathisKcr (2715)
+Seat 6: Sir Cuts 2.0 (4457)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 20
+Sir Cuts 2.0 posts ante 20
+RevolY posts ante 20
+MathisKcr posts small blind 100
+Sir Cuts 2.0 posts big blind 200
+Dealt to MathisKcr [Kh Th]
+*** PRE-FLOP *** 
+RevolY raises 1608 to 1808 and is all-in
+MathisKcr calls 1708
+Sir Cuts 2.0 folds
+*** FLOP *** [6d 8s Ks]
+*** TURN *** [6d 8s Ks][3h]
+*** RIVER *** [6d 8s Ks 3h][7c]
+*** SHOW DOWN ***
+RevolY shows [2h 2d] (One pair : 2)
+MathisKcr shows [Kh Th] (One pair : Kings)
+MathisKcr collected 3876 from pot
+*** SUMMARY ***
+Total pot 3876 | No rake
+Board: [6d 8s Ks 3h 7c]
+Seat 1: RevolY (button) showed [2h 2d] and lost with One pair : 2
+Seat 2: MathisKcr (small blind) showed [Kh Th] and won 3876 with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 9 - HandId: #4254703566737899521-23-1758028658 - Holdem no limit (20/100/200) - 2025/09/16 13:17:38 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 2: MathisKcr (4763)
+Seat 6: Sir Cuts 2.0 (4237)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts ante 20
+MathisKcr posts ante 20
+Sir Cuts 2.0 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [7s 9c]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 calls 100
+MathisKcr checks
+*** FLOP *** [8d 7h 6d]
+MathisKcr bets 600
+Sir Cuts 2.0 calls 600
+*** TURN *** [8d 7h 6d][Kd]
+MathisKcr bets 900
+Sir Cuts 2.0 calls 900
+*** RIVER *** [8d 7h 6d Kd][8h]
+MathisKcr checks
+Sir Cuts 2.0 checks
+*** SHOW DOWN ***
+Sir Cuts 2.0 shows [9h 6h] (Two pairs : 8 and 6)
+MathisKcr shows [7s 9c] (Two pairs : 8 and 7)
+MathisKcr collected 3440 from pot
+*** SUMMARY ***
+Total pot 3440 | No rake
+Board: [8d 7h 6d Kd 8h]
+Seat 2: MathisKcr (big blind) showed [7s 9c] and won 3440 with Two pairs : 8 and 7
+Seat 6: Sir Cuts 2.0 (small blind) (button) showed [9h 6h] and lost with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 10 - HandId: #4254703566737899521-24-1758028705 - Holdem no limit (25/125/250) - 2025/09/16 13:18:25 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (6483)
+Seat 6: Sir Cuts 2.0 (2517)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+Sir Cuts 2.0 posts ante 25
+MathisKcr posts small blind 125
+Sir Cuts 2.0 posts big blind 250
+Dealt to MathisKcr [Kd Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 500 to 750
+Sir Cuts 2.0 raises 1742 to 2492 and is all-in
+MathisKcr calls 1742
+*** FLOP *** [Td 2s 6c]
+*** TURN *** [Td 2s 6c][8c]
+*** RIVER *** [Td 2s 6c 8c][3d]
+*** SHOW DOWN ***
+MathisKcr shows [Kd Jc] (High card : King)
+Sir Cuts 2.0 shows [4c Ah] (High card : Ace)
+Sir Cuts 2.0 collected 5034 from pot
+*** SUMMARY ***
+Total pot 5034 | No rake
+Board: [Td 2s 6c 8c 3d]
+Seat 2: MathisKcr (small blind) (button) showed [Kd Jc] and lost with High card : King
+Seat 6: Sir Cuts 2.0 (big blind) showed [4c Ah] and won 5034 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 10 - HandId: #4254703566737899521-25-1758028721 - Holdem no limit (25/125/250) - 2025/09/16 13:18:41 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 2: MathisKcr (3966)
+Seat 6: Sir Cuts 2.0 (5034)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts ante 25
+MathisKcr posts ante 25
+Sir Cuts 2.0 posts small blind 125
+MathisKcr posts big blind 250
+Dealt to MathisKcr [Qh 3d]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 calls 125
+MathisKcr checks
+*** FLOP *** [Js 6c 6h]
+MathisKcr checks
+Sir Cuts 2.0 checks
+*** TURN *** [Js 6c 6h][Ac]
+MathisKcr bets 500
+Sir Cuts 2.0 folds
+MathisKcr collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [Js 6c 6h Ac]
+Seat 2: MathisKcr (big blind) won 1050
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 11 - HandId: #4254703566737899521-26-1758028756 - Holdem no limit (35/150/300) - 2025/09/16 13:19:16 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (4241)
+Seat 6: Sir Cuts 2.0 (4759)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 35
+Sir Cuts 2.0 posts ante 35
+MathisKcr posts small blind 150
+Sir Cuts 2.0 posts big blind 300
+Dealt to MathisKcr [5s 4s]
+*** PRE-FLOP *** 
+MathisKcr calls 150
+Sir Cuts 2.0 checks
+*** FLOP *** [Ks 5c Ah]
+Sir Cuts 2.0 checks
+MathisKcr bets 900
+Sir Cuts 2.0 folds
+MathisKcr collected 1570 from pot
+*** SUMMARY ***
+Total pot 1570 | No rake
+Board: [Ks 5c Ah]
+Seat 2: MathisKcr (small blind) (button) won 1570
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 11 - HandId: #4254703566737899521-27-1758028799 - Holdem no limit (35/150/300) - 2025/09/16 13:19:59 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 2: MathisKcr (4576)
+Seat 6: Sir Cuts 2.0 (4424)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts ante 35
+MathisKcr posts ante 35
+Sir Cuts 2.0 posts small blind 150
+MathisKcr posts big blind 300
+Dealt to MathisKcr [3s Qs]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 raises 300 to 600
+MathisKcr calls 300
+*** FLOP *** [6s 4c 6c]
+MathisKcr checks
+Sir Cuts 2.0 bets 318
+MathisKcr calls 318
+*** TURN *** [6s 4c 6c][Ah]
+MathisKcr checks
+Sir Cuts 2.0 bets 953
+MathisKcr folds
+Sir Cuts 2.0 collected 2859 from pot
+*** SUMMARY ***
+Total pot 2859 | No rake
+Board: [6s 4c 6c Ah]
+Seat 6: Sir Cuts 2.0 (small blind) (button) won 2859
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 11 - HandId: #4254703566737899521-28-1758028836 - Holdem no limit (35/150/300) - 2025/09/16 13:20:36 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (3623)
+Seat 6: Sir Cuts 2.0 (5377)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 35
+Sir Cuts 2.0 posts ante 35
+MathisKcr posts small blind 150
+Sir Cuts 2.0 posts big blind 300
+Dealt to MathisKcr [Qh Qc]
+*** PRE-FLOP *** 
+MathisKcr calls 150
+Sir Cuts 2.0 checks
+*** FLOP *** [3s Th Jh]
+Sir Cuts 2.0 checks
+MathisKcr bets 900
+Sir Cuts 2.0 folds
+MathisKcr collected 1570 from pot
+*** SUMMARY ***
+Total pot 1570 | No rake
+Board: [3s Th Jh]
+Seat 2: MathisKcr (small blind) (button) won 1570
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 12 - HandId: #4254703566737899521-29-1758028856 - Holdem no limit (40/200/400) - 2025/09/16 13:20:56 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 2: MathisKcr (3958)
+Seat 6: Sir Cuts 2.0 (5042)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts ante 40
+MathisKcr posts ante 40
+Sir Cuts 2.0 posts small blind 200
+MathisKcr posts big blind 400
+Dealt to MathisKcr [3c Ks]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 calls 200
+MathisKcr checks
+*** FLOP *** [9d 5s 8h]
+MathisKcr checks
+Sir Cuts 2.0 bets 400
+MathisKcr calls 400
+*** TURN *** [9d 5s 8h][Qd]
+MathisKcr checks
+Sir Cuts 2.0 checks
+*** RIVER *** [9d 5s 8h Qd][Qc]
+MathisKcr bets 1200
+Sir Cuts 2.0 folds
+MathisKcr collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [9d 5s 8h Qd Qc]
+Seat 2: MathisKcr (big blind) won 2880
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 12 - HandId: #4254703566737899521-30-1758028897 - Holdem no limit (40/200/400) - 2025/09/16 13:21:37 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (4798)
+Seat 6: Sir Cuts 2.0 (4202)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 40
+Sir Cuts 2.0 posts ante 40
+MathisKcr posts small blind 200
+Sir Cuts 2.0 posts big blind 400
+Dealt to MathisKcr [9d Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 400 to 800
+Sir Cuts 2.0 raises 3362 to 4162 and is all-in
+MathisKcr folds
+Sir Cuts 2.0 collected 5042 from pot
+*** SUMMARY ***
+Total pot 5042 | No rake
+Seat 6: Sir Cuts 2.0 (big blind) won 5042
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 12 - HandId: #4254703566737899521-31-1758028930 - Holdem no limit (40/200/400) - 2025/09/16 13:22:10 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 2: MathisKcr (3958)
+Seat 6: Sir Cuts 2.0 (5042)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts ante 40
+MathisKcr posts ante 40
+Sir Cuts 2.0 posts small blind 200
+MathisKcr posts big blind 400
+Dealt to MathisKcr [8d 4d]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 raises 400 to 800
+MathisKcr calls 400
+*** FLOP *** [Qc 8h 5s]
+MathisKcr bets 3118 and is all-in
+Sir Cuts 2.0 folds
+MathisKcr collected 4798 from pot
+*** SUMMARY ***
+Total pot 4798 | No rake
+Board: [Qc 8h 5s]
+Seat 2: MathisKcr (big blind) won 4798
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 13 - HandId: #4254703566737899521-32-1758028957 - Holdem no limit (50/250/500) - 2025/09/16 13:22:37 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (4798)
+Seat 6: Sir Cuts 2.0 (4202)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 50
+Sir Cuts 2.0 posts ante 50
+MathisKcr posts small blind 250
+Sir Cuts 2.0 posts big blind 500
+Dealt to MathisKcr [Jd 7d]
+*** PRE-FLOP *** 
+MathisKcr calls 250
+Sir Cuts 2.0 raises 3652 to 4152 and is all-in
+MathisKcr folds
+Sir Cuts 2.0 collected 4752 from pot
+*** SUMMARY ***
+Total pot 4752 | No rake
+Seat 6: Sir Cuts 2.0 (big blind) won 4752
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 13 - HandId: #4254703566737899521-33-1758028970 - Holdem no limit (50/250/500) - 2025/09/16 13:22:50 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #6 is the button
+Seat 2: MathisKcr (4248)
+Seat 6: Sir Cuts 2.0 (4752)
+*** ANTE/BLINDS ***
+Sir Cuts 2.0 posts ante 50
+MathisKcr posts ante 50
+Sir Cuts 2.0 posts small blind 250
+MathisKcr posts big blind 500
+Dealt to MathisKcr [Qc 2c]
+*** PRE-FLOP *** 
+Sir Cuts 2.0 calls 250
+MathisKcr checks
+*** FLOP *** [6c 8s 4h]
+MathisKcr bets 1250
+Sir Cuts 2.0 folds
+MathisKcr collected 2350 from pot
+*** SUMMARY ***
+Total pot 2350 | No rake
+Board: [6c 8s 4h]
+Seat 2: MathisKcr (big blind) won 2350
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 13 - HandId: #4254703566737899521-34-1758028989 - Holdem no limit (50/250/500) - 2025/09/16 13:23:09 UTC
+Table: 'Starting Block WiPT(990625370)#0' 6-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (4798)
+Seat 6: Sir Cuts 2.0 (4202)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 50
+Sir Cuts 2.0 posts ante 50
+MathisKcr posts small blind 250
+Sir Cuts 2.0 posts big blind 500
+Dealt to MathisKcr [Jc Ac]
+*** PRE-FLOP *** 
+MathisKcr calls 250
+Sir Cuts 2.0 raises 3652 to 4152 and is all-in
+MathisKcr calls 3652
+*** FLOP *** [4s 2d Th]
+*** TURN *** [4s 2d Th][2h]
+*** RIVER *** [4s 2d Th 2h][Qd]
+*** SHOW DOWN ***
+Sir Cuts 2.0 shows [As 6h] (One pair : 2)
+MathisKcr shows [Jc Ac] (One pair : 2)
+MathisKcr collected 8404 from pot
+*** SUMMARY ***
+Total pot 8404 | No rake
+Board: [4s 2d Th 2h Qd]
+Seat 2: MathisKcr (small blind) (button) showed [Jc Ac] and won 8404 with One pair : 2
+Seat 6: Sir Cuts 2.0 (big blind) showed [As 6h] and lost with One pair : 2
+
+

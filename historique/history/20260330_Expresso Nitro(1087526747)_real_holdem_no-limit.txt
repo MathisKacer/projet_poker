@@ -1,0 +1,383 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670891811890266113-1-1774889682 - Holdem no limit (10/20) - 2026/03/30 16:54:42 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: jmi 31 (300)
+Seat 3: gorkens (300)
+*** ANTE/BLINDS ***
+gorkens posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8s 9h]
+*** PRE-FLOP *** 
+jmi 31 folds
+gorkens calls 10
+MathisKcr checks
+*** FLOP *** [Qd Qc 3h]
+gorkens bets 20
+MathisKcr folds
+gorkens collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qd Qc 3h]
+Seat 3: gorkens (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670891811890266113-2-1774889697 - Holdem no limit (10/20) - 2026/03/30 16:54:57 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: jmi 31 (300)
+Seat 3: gorkens (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+jmi 31 posts big blind 20
+Dealt to MathisKcr [2h 6h]
+*** PRE-FLOP *** 
+gorkens folds
+MathisKcr folds
+jmi 31 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: jmi 31 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670891811890266113-3-1774889704 - Holdem no limit (10/20) - 2026/03/30 16:55:04 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: jmi 31 (310)
+Seat 3: gorkens (320)
+*** ANTE/BLINDS ***
+jmi 31 posts small blind 10
+gorkens posts big blind 20
+Dealt to MathisKcr [Kd 3d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+jmi 31 raises 100 to 140
+gorkens folds
+MathisKcr calls 100
+*** FLOP *** [Qc Qd 2s]
+jmi 31 bets 170 and is all-in
+MathisKcr calls 130 and is all-in
+*** TURN *** [Qc Qd 2s][Qs]
+*** RIVER *** [Qc Qd 2s Qs][3c]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 3d] (Full of Queens and 3)
+jmi 31 shows [5d Ac] (Trips of Queens)
+jmi 31 collected 40 from side pot 1
+MathisKcr collected 560 from main pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Qc Qd 2s Qs 3c]
+Seat 1: MathisKcr (button) showed [Kd 3d] and won 560 with Full of Queens and 3
+Seat 2: jmi 31 (small blind) showed [5d Ac] and won 40 with Trips of Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670891811890266113-4-1774889742 - Holdem no limit (15/30) - 2026/03/30 16:55:42 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (560)
+Seat 2: jmi 31 (40)
+Seat 3: gorkens (300)
+*** ANTE/BLINDS ***
+gorkens posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9c 8h]
+*** PRE-FLOP *** 
+jmi 31 raises 10 to 40 and is all-in
+gorkens raises 260 to 300 and is all-in
+MathisKcr folds
+*** FLOP *** [Jd 8c 9d]
+*** TURN *** [Jd 8c 9d][Td]
+*** RIVER *** [Jd 8c 9d Td][Ks]
+*** SHOW DOWN ***
+jmi 31 shows [4s 4h] (One pair : 4)
+gorkens shows [Tc Qh] (Straight King high)
+gorkens collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Board: [Jd 8c 9d Td Ks]
+Seat 2: jmi 31 (button) showed [4s 4h] and lost with One pair : 4
+Seat 3: gorkens (small blind) showed [Tc Qh] and won 370 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670891811890266113-5-1774889762 - Holdem no limit (15/30) - 2026/03/30 16:56:02 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (530)
+Seat 3: gorkens (370)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+gorkens posts big blind 30
+Dealt to MathisKcr [Qd 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 500 to 530 and is all-in
+gorkens folds
+MathisKcr collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 1: MathisKcr (small blind) (button) won 560
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670891811890266113-6-1774889770 - Holdem no limit (15/30) - 2026/03/30 16:56:10 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (560)
+Seat 3: gorkens (340)
+*** ANTE/BLINDS ***
+gorkens posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8s 5s]
+*** PRE-FLOP *** 
+gorkens calls 15
+MathisKcr checks
+*** FLOP *** [4c 9h 6h]
+MathisKcr bets 60
+gorkens raises 250 to 310 and is all-in
+MathisKcr folds
+gorkens collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Board: [4c 9h 6h]
+Seat 3: gorkens (small blind) (button) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670891811890266113-7-1774889787 - Holdem no limit (15/30) - 2026/03/30 16:56:27 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (470)
+Seat 3: gorkens (430)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+gorkens posts big blind 30
+Dealt to MathisKcr [5c Qd]
+*** PRE-FLOP *** 
+MathisKcr raises 440 to 470 and is all-in
+gorkens folds
+MathisKcr collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 1: MathisKcr (small blind) (button) won 500
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670891811890266113-8-1774889795 - Holdem no limit (15/30) - 2026/03/30 16:56:35 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (500)
+Seat 3: gorkens (400)
+*** ANTE/BLINDS ***
+gorkens posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8h Td]
+*** PRE-FLOP *** 
+gorkens folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670891811890266113-9-1774889804 - Holdem no limit (20/40) - 2026/03/30 16:56:44 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (515)
+Seat 3: gorkens (385)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+gorkens posts big blind 40
+Dealt to MathisKcr [8h Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 475 to 515 and is all-in
+gorkens folds
+MathisKcr collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 1: MathisKcr (small blind) (button) won 555
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670891811890266113-10-1774889816 - Holdem no limit (20/40) - 2026/03/30 16:56:56 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (555)
+Seat 3: gorkens (345)
+*** ANTE/BLINDS ***
+gorkens posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3s 5d]
+*** PRE-FLOP *** 
+gorkens raises 305 to 345 and is all-in
+MathisKcr folds
+gorkens collected 385 from pot
+*** SUMMARY ***
+Total pot 385 | No rake
+Seat 3: gorkens (small blind) (button) won 385
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670891811890266113-11-1774889822 - Holdem no limit (20/40) - 2026/03/30 16:57:02 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (515)
+Seat 3: gorkens (385)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+gorkens posts big blind 40
+Dealt to MathisKcr [8s 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+gorkens collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: gorkens (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670891811890266113-12-1774889828 - Holdem no limit (20/40) - 2026/03/30 16:57:08 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (495)
+Seat 3: gorkens (405)
+*** ANTE/BLINDS ***
+gorkens posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7d 7s]
+*** PRE-FLOP *** 
+gorkens calls 20
+MathisKcr raises 455 to 495 and is all-in
+gorkens folds
+MathisKcr collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Seat 1: MathisKcr (big blind) won 535
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670891811890266113-13-1774889839 - Holdem no limit (20/40) - 2026/03/30 16:57:19 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (535)
+Seat 3: gorkens (365)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+gorkens posts big blind 40
+Dealt to MathisKcr [Qd Js]
+*** PRE-FLOP *** 
+MathisKcr raises 495 to 535 and is all-in
+gorkens folds
+MathisKcr collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Seat 1: MathisKcr (small blind) (button) won 575
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670891811890266113-14-1774889847 - Holdem no limit (20/40) - 2026/03/30 16:57:27 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (575)
+Seat 3: gorkens (325)
+*** ANTE/BLINDS ***
+gorkens posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jc 4h]
+*** PRE-FLOP *** 
+gorkens raises 285 to 325 and is all-in
+MathisKcr folds
+gorkens collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Seat 3: gorkens (small blind) (button) won 365
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670891811890266113-15-1774889857 - Holdem no limit (20/40) - 2026/03/30 16:57:37 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (535)
+Seat 3: gorkens (365)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+gorkens posts big blind 40
+Dealt to MathisKcr [2h 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+gorkens collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: gorkens (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4670891811890266113-16-1774889864 - Holdem no limit (30/60) - 2026/03/30 16:57:44 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (515)
+Seat 3: gorkens (385)
+*** ANTE/BLINDS ***
+gorkens posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qs Ts]
+*** PRE-FLOP *** 
+gorkens calls 30
+MathisKcr raises 455 to 515 and is all-in
+gorkens calls 325 and is all-in
+*** FLOP *** [Ac 2h 5h]
+*** TURN *** [Ac 2h 5h][2c]
+*** RIVER *** [Ac 2h 5h 2c][9d]
+*** SHOW DOWN ***
+MathisKcr shows [Qs Ts] (One pair : 2)
+gorkens shows [9h 9s] (Full of 9 and 2)
+gorkens collected 770 from main pot
+MathisKcr collected 130 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac 2h 5h 2c 9d]
+Seat 1: MathisKcr (big blind) showed [Qs Ts] and won 130 with One pair : 2
+Seat 3: gorkens (small blind) (button) showed [9h 9s] and won 770 with Full of 9 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4670891811890266113-17-1774889880 - Holdem no limit (30/60) - 2026/03/30 16:58:00 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (130)
+Seat 3: gorkens (770)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+gorkens posts big blind 60
+Dealt to MathisKcr [4d 6h]
+*** PRE-FLOP *** 
+MathisKcr raises 70 to 130 and is all-in
+gorkens calls 70
+*** FLOP *** [4h As 9c]
+*** TURN *** [4h As 9c][Qd]
+*** RIVER *** [4h As 9c Qd][4s]
+*** SHOW DOWN ***
+gorkens shows [3c 6c] (One pair : 4)
+MathisKcr shows [4d 6h] (Trips of 4)
+MathisKcr collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [4h As 9c Qd 4s]
+Seat 1: MathisKcr (small blind) (button) showed [4d 6h] and won 260 with Trips of 4
+Seat 3: gorkens (big blind) showed [3c 6c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4670891811890266113-18-1774889894 - Holdem no limit (30/60) - 2026/03/30 16:58:14 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (260)
+Seat 3: gorkens (640)
+*** ANTE/BLINDS ***
+gorkens posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [7c 3c]
+*** PRE-FLOP *** 
+gorkens raises 580 to 640 and is all-in
+MathisKcr folds
+gorkens collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 3: gorkens (small blind) (button) won 700
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4670891811890266113-19-1774889901 - Holdem no limit (30/60) - 2026/03/30 16:58:21 UTC
+Table: 'Expresso Nitro(1087526747)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (200)
+Seat 3: gorkens (700)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+gorkens posts big blind 60
+Dealt to MathisKcr [9d 7c]
+*** PRE-FLOP *** 
+MathisKcr raises 140 to 200 and is all-in
+gorkens raises 500 to 700 and is all-in
+*** FLOP *** [Qc Ah 2c]
+*** TURN *** [Qc Ah 2c][Td]
+*** RIVER *** [Qc Ah 2c Td][Jd]
+*** SHOW DOWN ***
+MathisKcr shows [9d 7c] (High card : Ace)
+gorkens shows [4c Qs] (One pair : Queens)
+gorkens collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc Ah 2c Td Jd]
+Seat 1: MathisKcr (small blind) (button) showed [9d 7c] and lost with High card : Ace
+Seat 3: gorkens (big blind) showed [4c Qs] and won 900 with One pair : Queens
+
+

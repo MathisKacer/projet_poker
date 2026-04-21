@@ -1,0 +1,124 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4584288237362610177-1-1771666749 - Holdem no limit (10/20) - 2026/02/21 09:39:09 UTC
+Table: 'Expresso Nitro(1067362781)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Boundjouryes (300)
+Seat 3: Flam369 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Boundjouryes posts big blind 20
+Dealt to MathisKcr [2s 5s]
+*** PRE-FLOP *** 
+Flam369 calls 20
+MathisKcr folds
+Boundjouryes raises 280 to 300 and is all-in
+Flam369 calls 280 and is all-in
+*** FLOP *** [Qh Ah As]
+*** TURN *** [Qh Ah As][Kc]
+*** RIVER *** [Qh Ah As Kc][3d]
+*** SHOW DOWN ***
+Boundjouryes shows [Kd Tc] (Two pairs : Aces and Kings)
+Flam369 shows [Ac 7d] (Trips of Aces)
+Flam369 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Qh Ah As Kc 3d]
+Seat 2: Boundjouryes (big blind) showed [Kd Tc] and lost with Two pairs : Aces and Kings
+Seat 3: Flam369 (button) showed [Ac 7d] and won 610 with Trips of Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4584288237362610177-2-1771666769 - Holdem no limit (10/20) - 2026/02/21 09:39:29 UTC
+Table: 'Expresso Nitro(1067362781)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (290)
+Seat 3: Flam369 (610)
+*** ANTE/BLINDS ***
+Flam369 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c Jd]
+*** PRE-FLOP *** 
+Flam369 calls 10
+MathisKcr checks
+*** FLOP *** [3d 3h As]
+MathisKcr bets 20
+Flam369 calls 20
+*** TURN *** [3d 3h As][Jh]
+MathisKcr checks
+Flam369 bets 570 and is all-in
+MathisKcr calls 250 and is all-in
+*** RIVER *** [3d 3h As Jh][8h]
+*** SHOW DOWN ***
+MathisKcr shows [3c Jd] (Full of 3 and Jacks)
+Flam369 shows [Jc Kc] (Two pairs : Jacks and 3)
+Flam369 collected 320 from side pot 1
+MathisKcr collected 580 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 3h As Jh 8h]
+Seat 1: MathisKcr (big blind) showed [3c Jd] and won 580 with Full of 3 and Jacks
+Seat 3: Flam369 (small blind) (button) showed [Jc Kc] and won 320 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4584288237362610177-3-1771666795 - Holdem no limit (10/20) - 2026/02/21 09:39:55 UTC
+Table: 'Expresso Nitro(1067362781)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (580)
+Seat 3: Flam369 (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Flam369 posts big blind 20
+Dealt to MathisKcr [Ac 4s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Flam369 calls 20
+*** FLOP *** [5h 9d 3h]
+Flam369 checks
+MathisKcr bets 40
+Flam369 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5h 9d 3h]
+Seat 1: MathisKcr (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4584288237362610177-4-1771666814 - Holdem no limit (15/30) - 2026/02/21 09:40:14 UTC
+Table: 'Expresso Nitro(1067362781)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (620)
+Seat 3: Flam369 (280)
+*** ANTE/BLINDS ***
+Flam369 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad Jd]
+*** PRE-FLOP *** 
+Flam369 calls 15
+MathisKcr raises 30 to 60
+Flam369 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4584288237362610177-5-1771666824 - Holdem no limit (15/30) - 2026/02/21 09:40:24 UTC
+Table: 'Expresso Nitro(1067362781)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (650)
+Seat 3: Flam369 (250)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Flam369 posts big blind 30
+Dealt to MathisKcr [6c 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 620 to 650 and is all-in
+Flam369 calls 220 and is all-in
+*** FLOP *** [7c 9h Qc]
+*** TURN *** [7c 9h Qc][5d]
+*** RIVER *** [7c 9h Qc 5d][Th]
+*** SHOW DOWN ***
+Flam369 shows [Kh Ad] (High card : Ace)
+MathisKcr shows [6c 6d] (One pair : 6)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c 9h Qc 5d Th]
+Seat 1: MathisKcr (small blind) (button) showed [6c 6d] and won 900 with One pair : 6
+Seat 3: Flam369 (big blind) showed [Kh Ad] and lost with High card : Ace
+
+

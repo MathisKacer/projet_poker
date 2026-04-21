@@ -1,0 +1,360 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698435746397159425-1-1775914278 - Holdem no limit (10/20) - 2026/04/11 13:31:18 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Adocho1996 (300)
+Seat 3: arthurocdb (300)
+*** ANTE/BLINDS ***
+arthurocdb posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3h 8h]
+*** PRE-FLOP *** 
+Adocho1996 calls 20
+arthurocdb calls 10
+MathisKcr checks
+*** FLOP *** [6s Jc 7h]
+arthurocdb checks
+MathisKcr checks
+Adocho1996 bets 20
+arthurocdb calls 20
+MathisKcr folds
+*** TURN *** [6s Jc 7h][2c]
+arthurocdb checks
+Adocho1996 bets 65
+arthurocdb folds
+Adocho1996 collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [6s Jc 7h 2c]
+Seat 2: Adocho1996 (button) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698435746397159425-2-1775914304 - Holdem no limit (10/20) - 2026/04/11 13:31:44 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Adocho1996 (360)
+Seat 3: arthurocdb (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Adocho1996 posts big blind 20
+Dealt to MathisKcr [5c Qh]
+*** PRE-FLOP *** 
+arthurocdb calls 20
+MathisKcr raises 260 to 280 and is all-in
+Adocho1996 folds
+arthurocdb folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: MathisKcr (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698435746397159425-3-1775914316 - Holdem no limit (10/20) - 2026/04/11 13:31:56 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (320)
+Seat 2: Adocho1996 (340)
+Seat 3: arthurocdb (240)
+*** ANTE/BLINDS ***
+Adocho1996 posts small blind 10
+arthurocdb posts big blind 20
+Dealt to MathisKcr [4s Qh]
+*** PRE-FLOP *** 
+MathisKcr folds
+Adocho1996 calls 10
+arthurocdb checks
+*** FLOP *** [8s 6s 7s]
+Adocho1996 checks
+arthurocdb checks
+*** TURN *** [8s 6s 7s][5c]
+Adocho1996 checks
+arthurocdb bets 26
+Adocho1996 calls 26
+*** RIVER *** [8s 6s 7s 5c][5d]
+Adocho1996 checks
+arthurocdb checks
+*** SHOW DOWN ***
+Adocho1996 shows [Jc Qc] (One pair : 5)
+arthurocdb shows [7c Kc] (Two pairs : 7 and 5)
+arthurocdb collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Board: [8s 6s 7s 5c 5d]
+Seat 2: Adocho1996 (small blind) showed [Jc Qc] and lost with One pair : 5
+Seat 3: arthurocdb (big blind) showed [7c Kc] and won 92 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4698435746397159425-4-1775914337 - Holdem no limit (15/30) - 2026/04/11 13:32:17 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (320)
+Seat 2: Adocho1996 (294)
+Seat 3: arthurocdb (286)
+*** ANTE/BLINDS ***
+arthurocdb posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7h 9d]
+*** PRE-FLOP *** 
+Adocho1996 folds
+arthurocdb calls 15
+MathisKcr checks
+*** FLOP *** [6d As 2c]
+arthurocdb checks
+MathisKcr checks
+*** TURN *** [6d As 2c][7d]
+arthurocdb checks
+MathisKcr bets 30
+arthurocdb folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6d As 2c 7d]
+Seat 1: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4698435746397159425-5-1775914363 - Holdem no limit (15/30) - 2026/04/11 13:32:43 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (350)
+Seat 2: Adocho1996 (294)
+Seat 3: arthurocdb (256)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Adocho1996 posts big blind 30
+Dealt to MathisKcr [9c 5c]
+*** PRE-FLOP *** 
+arthurocdb calls 30
+MathisKcr folds
+Adocho1996 checks
+*** FLOP *** [6h 8d 2h]
+Adocho1996 checks
+arthurocdb checks
+*** TURN *** [6h 8d 2h][As]
+Adocho1996 checks
+arthurocdb checks
+*** RIVER *** [6h 8d 2h As][2s]
+Adocho1996 bets 75
+arthurocdb folds
+Adocho1996 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [6h 8d 2h As 2s]
+Seat 2: Adocho1996 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4698435746397159425-6-1775914403 - Holdem no limit (20/40) - 2026/04/11 13:33:23 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (335)
+Seat 2: Adocho1996 (339)
+Seat 3: arthurocdb (226)
+*** ANTE/BLINDS ***
+Adocho1996 posts small blind 20
+arthurocdb posts big blind 40
+Dealt to MathisKcr [9h Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Adocho1996 folds
+arthurocdb folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: MathisKcr (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4698435746397159425-7-1775914414 - Holdem no limit (20/40) - 2026/04/11 13:33:34 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (395)
+Seat 2: Adocho1996 (319)
+Seat 3: arthurocdb (186)
+*** ANTE/BLINDS ***
+arthurocdb posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3s 5h]
+*** PRE-FLOP *** 
+Adocho1996 calls 40
+arthurocdb calls 20
+MathisKcr checks
+*** FLOP *** [5c 5s Kc]
+arthurocdb checks
+MathisKcr bets 42
+Adocho1996 folds
+arthurocdb folds
+MathisKcr collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [5c 5s Kc]
+Seat 1: MathisKcr (big blind) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4698435746397159425-8-1775914434 - Holdem no limit (20/40) - 2026/04/11 13:33:54 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (475)
+Seat 2: Adocho1996 (279)
+Seat 3: arthurocdb (146)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Adocho1996 posts big blind 40
+Dealt to MathisKcr [3d 7d]
+*** PRE-FLOP *** 
+arthurocdb raises 40 to 80
+MathisKcr folds
+Adocho1996 folds
+arthurocdb collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 3: arthurocdb (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4698435746397159425-9-1775914441 - Holdem no limit (20/40) - 2026/04/11 13:34:01 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (455)
+Seat 2: Adocho1996 (239)
+Seat 3: arthurocdb (206)
+*** ANTE/BLINDS ***
+Adocho1996 posts small blind 20
+arthurocdb posts big blind 40
+Dealt to MathisKcr [3d 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Adocho1996 folds
+arthurocdb collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: arthurocdb (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4698435746397159425-10-1775914450 - Holdem no limit (20/40) - 2026/04/11 13:34:10 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (455)
+Seat 2: Adocho1996 (219)
+Seat 3: arthurocdb (226)
+*** ANTE/BLINDS ***
+arthurocdb posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6s 5s]
+*** PRE-FLOP *** 
+Adocho1996 folds
+arthurocdb calls 20
+MathisKcr raises 415 to 455 and is all-in
+arthurocdb folds
+MathisKcr collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Seat 1: MathisKcr (big blind) won 495
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4698435746397159425-11-1775914459 - Holdem no limit (30/60) - 2026/04/11 13:34:19 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (495)
+Seat 2: Adocho1996 (219)
+Seat 3: arthurocdb (186)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Adocho1996 posts big blind 60
+Dealt to MathisKcr [7c Jd]
+*** PRE-FLOP *** 
+arthurocdb calls 60
+MathisKcr folds
+Adocho1996 checks
+*** FLOP *** [Ac 7s Qs]
+Adocho1996 checks
+arthurocdb checks
+*** TURN *** [Ac 7s Qs][9c]
+Adocho1996 checks
+arthurocdb checks
+*** RIVER *** [Ac 7s Qs 9c][8s]
+Adocho1996 bets 159 and is all-in
+arthurocdb folds
+Adocho1996 collected 309 from pot
+*** SUMMARY ***
+Total pot 309 | No rake
+Board: [Ac 7s Qs 9c 8s]
+Seat 2: Adocho1996 (big blind) won 309
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4698435746397159425-12-1775914485 - Holdem no limit (30/60) - 2026/04/11 13:34:45 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (465)
+Seat 2: Adocho1996 (309)
+Seat 3: arthurocdb (126)
+*** ANTE/BLINDS ***
+Adocho1996 posts small blind 30
+arthurocdb posts big blind 60
+Dealt to MathisKcr [2h Qc]
+*** PRE-FLOP *** 
+MathisKcr folds
+Adocho1996 calls 30
+arthurocdb checks
+*** FLOP *** [3d 7c Ah]
+Adocho1996 checks
+arthurocdb bets 66 and is all-in
+Adocho1996 calls 66
+*** TURN *** [3d 7c Ah][Qs]
+*** RIVER *** [3d 7c Ah Qs][3c]
+*** SHOW DOWN ***
+arthurocdb shows [9h 8h] (One pair : 3)
+Adocho1996 shows [4c 4d] (Two pairs : 4 and 3)
+Adocho1996 collected 252 from pot
+*** SUMMARY ***
+Total pot 252 | No rake
+Board: [3d 7c Ah Qs 3c]
+Seat 2: Adocho1996 (small blind) showed [4c 4d] and won 252 with Two pairs : 4 and 3
+Seat 3: arthurocdb (big blind) showed [9h 8h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4698435746397159425-13-1775914504 - Holdem no limit (30/60) - 2026/04/11 13:35:04 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (465)
+Seat 2: Adocho1996 (435)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Adocho1996 posts big blind 60
+Dealt to MathisKcr [8c Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 405 to 465 and is all-in
+Adocho1996 folds
+MathisKcr collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Seat 1: MathisKcr (small blind) (button) won 525
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4698435746397159425-14-1775914511 - Holdem no limit (30/60) - 2026/04/11 13:35:11 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (525)
+Seat 2: Adocho1996 (375)
+*** ANTE/BLINDS ***
+Adocho1996 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Kc 8h]
+*** PRE-FLOP *** 
+Adocho1996 calls 30
+MathisKcr raises 465 to 525 and is all-in
+Adocho1996 folds
+MathisKcr collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Seat 1: MathisKcr (big blind) won 585
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4698435746397159425-15-1775914529 - Holdem no limit (40/80) - 2026/04/11 13:35:29 UTC
+Table: 'Expresso Nitro(1093939819)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (585)
+Seat 2: Adocho1996 (315)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Adocho1996 posts big blind 80
+Dealt to MathisKcr [2c Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 505 to 585 and is all-in
+Adocho1996 calls 235 and is all-in
+*** FLOP *** [7h Tc 8d]
+*** TURN *** [7h Tc 8d][Qd]
+*** RIVER *** [7h Tc 8d Qd][4h]
+*** SHOW DOWN ***
+Adocho1996 shows [Kc 9s] (High card : King)
+MathisKcr shows [2c Qs] (One pair : Queens)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7h Tc 8d Qd 4h]
+Seat 1: MathisKcr (small blind) (button) showed [2c Qs] and won 900 with One pair : Queens
+Seat 2: Adocho1996 (big blind) showed [Kc 9s] and lost with High card : King
+
+

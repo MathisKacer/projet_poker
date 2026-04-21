@@ -1,0 +1,88 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693245677851901953-1-1775723679 - Holdem no limit (10/20) - 2026/04/09 08:34:39 UTC
+Table: 'Expresso Nitro(1092731412)#0' 3-max (real money) Seat #1 is the button
+Seat 1: wmx-wf28w8fs (300)
+Seat 2: MathisKcr (300)
+Seat 3: Pica pica91 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Pica pica91 posts big blind 20
+Dealt to MathisKcr [4s 3h]
+*** PRE-FLOP *** 
+wmx-wf28w8fs folds
+MathisKcr folds
+Pica pica91 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Pica pica91 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693245677851901953-2-1775723685 - Holdem no limit (10/20) - 2026/04/09 08:34:45 UTC
+Table: 'Expresso Nitro(1092731412)#0' 3-max (real money) Seat #2 is the button
+Seat 1: wmx-wf28w8fs (300)
+Seat 2: MathisKcr (290)
+Seat 3: Pica pica91 (310)
+*** ANTE/BLINDS ***
+Pica pica91 posts small blind 10
+wmx-wf28w8fs posts big blind 20
+Dealt to MathisKcr [Kh 4h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Pica pica91 folds
+wmx-wf28w8fs raises 260 to 300 and is all-in
+MathisKcr folds
+wmx-wf28w8fs collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: wmx-wf28w8fs (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693245677851901953-3-1775723703 - Holdem no limit (10/20) - 2026/04/09 08:35:03 UTC
+Table: 'Expresso Nitro(1092731412)#0' 3-max (real money) Seat #3 is the button
+Seat 1: wmx-wf28w8fs (350)
+Seat 2: MathisKcr (250)
+Seat 3: Pica pica91 (300)
+*** ANTE/BLINDS ***
+wmx-wf28w8fs posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kh 2c]
+*** PRE-FLOP *** 
+Pica pica91 folds
+wmx-wf28w8fs folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693245677851901953-4-1775723708 - Holdem no limit (10/20) - 2026/04/09 08:35:08 UTC
+Table: 'Expresso Nitro(1092731412)#0' 3-max (real money) Seat #1 is the button
+Seat 1: wmx-wf28w8fs (340)
+Seat 2: MathisKcr (260)
+Seat 3: Pica pica91 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Pica pica91 posts big blind 20
+Dealt to MathisKcr [Qd Ks]
+*** PRE-FLOP *** 
+wmx-wf28w8fs raises 20 to 40
+MathisKcr raises 220 to 260 and is all-in
+Pica pica91 calls 240
+wmx-wf28w8fs raises 80 to 340 and is all-in
+Pica pica91 calls 40 and is all-in
+*** FLOP *** [3c 6c 4h]
+*** TURN *** [3c 6c 4h][Ts]
+*** RIVER *** [3c 6c 4h Ts][5s]
+*** SHOW DOWN ***
+MathisKcr shows [Qd Ks] (High card : King)
+wmx-wf28w8fs shows [Ad Jd] (High card : Ace)
+Pica pica91 shows [Td Ac] (One pair : Tens)
+Pica pica91 collected 860 from main pot
+wmx-wf28w8fs collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3c 6c 4h Ts 5s]
+Seat 1: wmx-wf28w8fs (button) showed [Ad Jd] and won 40 with High card : Ace
+Seat 2: MathisKcr (small blind) showed [Qd Ks] and lost with High card : King
+Seat 3: Pica pica91 (big blind) showed [Td Ac] and won 860 with One pair : Tens
+
+

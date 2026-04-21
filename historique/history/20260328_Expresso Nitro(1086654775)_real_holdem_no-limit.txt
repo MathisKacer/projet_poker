@@ -1,0 +1,254 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667146720667238401-1-1774733442 - Holdem no limit (10/20) - 2026/03/28 21:30:42 UTC
+Table: 'Expresso Nitro(1086654775)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bear30 (300)
+Seat 2: Acanna (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Bear30 posts big blind 20
+Dealt to MathisKcr [Jc 6d]
+*** PRE-FLOP *** 
+Acanna folds
+MathisKcr folds
+Bear30 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Bear30 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667146720667238401-2-1774733448 - Holdem no limit (10/20) - 2026/03/28 21:30:48 UTC
+Table: 'Expresso Nitro(1086654775)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bear30 (310)
+Seat 2: Acanna (300)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Bear30 posts small blind 10
+Acanna posts big blind 20
+Dealt to MathisKcr [Qh Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Bear30 folds
+Acanna calls 20
+*** FLOP *** [5s Kc 8s]
+Acanna checks
+MathisKcr bets 32
+Acanna calls 32
+*** TURN *** [5s Kc 8s][2d]
+Acanna checks
+MathisKcr bets 77
+Acanna folds
+MathisKcr collected 231 from pot
+*** SUMMARY ***
+Total pot 231 | No rake
+Board: [5s Kc 8s 2d]
+Seat 3: MathisKcr (button) won 231
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667146720667238401-3-1774733492 - Holdem no limit (10/20) - 2026/03/28 21:31:32 UTC
+Table: 'Expresso Nitro(1086654775)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bear30 (300)
+Seat 2: Acanna (228)
+Seat 3: MathisKcr (372)
+*** ANTE/BLINDS ***
+Acanna posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c 6c]
+*** PRE-FLOP *** 
+Bear30 calls 20
+Acanna raises 40 to 60
+MathisKcr folds
+Bear30 calls 40
+*** FLOP *** [8c Ts 5s]
+Acanna bets 49
+Bear30 folds
+Acanna collected 189 from pot
+*** SUMMARY ***
+Total pot 189 | No rake
+Board: [8c Ts 5s]
+Seat 2: Acanna (small blind) won 189
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667146720667238401-4-1774733526 - Holdem no limit (15/30) - 2026/03/28 21:32:06 UTC
+Table: 'Expresso Nitro(1086654775)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bear30 (240)
+Seat 2: Acanna (308)
+Seat 3: MathisKcr (352)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Bear30 posts big blind 30
+Dealt to MathisKcr [Qd Jc]
+*** PRE-FLOP *** 
+Acanna raises 30 to 60
+MathisKcr raises 292 to 352 and is all-in
+Bear30 folds
+Acanna calls 248 and is all-in
+*** FLOP *** [Tc 8s 7s]
+*** TURN *** [Tc 8s 7s][6s]
+*** RIVER *** [Tc 8s 7s 6s][9d]
+*** SHOW DOWN ***
+Acanna shows [Qc Ac] (Straight Ten high)
+MathisKcr shows [Qd Jc] (Straight Queen high)
+MathisKcr collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [Tc 8s 7s 6s 9d]
+Seat 2: Acanna (button) showed [Qc Ac] and lost with Straight Ten high
+Seat 3: MathisKcr (small blind) showed [Qd Jc] and won 690 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667146720667238401-5-1774733545 - Holdem no limit (15/30) - 2026/03/28 21:32:25 UTC
+Table: 'Expresso Nitro(1086654775)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bear30 (210)
+Seat 3: MathisKcr (690)
+*** ANTE/BLINDS ***
+Bear30 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5h Js]
+*** PRE-FLOP *** 
+Bear30 calls 15
+MathisKcr checks
+*** FLOP *** [3s Qd 8s]
+MathisKcr checks
+Bear30 checks
+*** TURN *** [3s Qd 8s][7c]
+MathisKcr checks
+Bear30 checks
+*** RIVER *** [3s Qd 8s 7c][6d]
+MathisKcr checks
+Bear30 bets 39
+MathisKcr folds
+Bear30 collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [3s Qd 8s 7c 6d]
+Seat 1: Bear30 (small blind) (button) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667146720667238401-6-1774733569 - Holdem no limit (20/40) - 2026/03/28 21:32:49 UTC
+Table: 'Expresso Nitro(1086654775)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bear30 (240)
+Seat 3: MathisKcr (660)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Bear30 posts big blind 40
+Dealt to MathisKcr [5d 7s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bear30 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Bear30 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667146720667238401-7-1774733573 - Holdem no limit (20/40) - 2026/03/28 21:32:53 UTC
+Table: 'Expresso Nitro(1086654775)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bear30 (260)
+Seat 3: MathisKcr (640)
+*** ANTE/BLINDS ***
+Bear30 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ad Jd]
+*** PRE-FLOP *** 
+Bear30 calls 20
+MathisKcr raises 600 to 640 and is all-in
+Bear30 folds
+MathisKcr collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 3: MathisKcr (big blind) won 680
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667146720667238401-8-1774733582 - Holdem no limit (20/40) - 2026/03/28 21:33:02 UTC
+Table: 'Expresso Nitro(1086654775)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bear30 (220)
+Seat 3: MathisKcr (680)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Bear30 posts big blind 40
+Dealt to MathisKcr [Kc Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 640 to 680 and is all-in
+Bear30 calls 180 and is all-in
+*** FLOP *** [8s 6s 9s]
+*** TURN *** [8s 6s 9s][2h]
+*** RIVER *** [8s 6s 9s 2h][7h]
+*** SHOW DOWN ***
+Bear30 shows [8c 7c] (Two pairs : 8 and 7)
+MathisKcr shows [Kc Qc] (High card : King)
+MathisKcr collected 460 from side pot 1
+Bear30 collected 440 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s 6s 9s 2h 7h]
+Seat 1: Bear30 (big blind) showed [8c 7c] and won 440 with Two pairs : 8 and 7
+Seat 3: MathisKcr (small blind) (button) showed [Kc Qc] and won 460 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667146720667238401-9-1774733595 - Holdem no limit (20/40) - 2026/03/28 21:33:15 UTC
+Table: 'Expresso Nitro(1086654775)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bear30 (440)
+Seat 3: MathisKcr (460)
+*** ANTE/BLINDS ***
+Bear30 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9s 7h]
+*** PRE-FLOP *** 
+Bear30 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667146720667238401-10-1774733599 - Holdem no limit (20/40) - 2026/03/28 21:33:19 UTC
+Table: 'Expresso Nitro(1086654775)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bear30 (420)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Bear30 posts big blind 40
+Dealt to MathisKcr [Ac 5s]
+*** PRE-FLOP *** 
+MathisKcr raises 440 to 480 and is all-in
+Bear30 calls 380 and is all-in
+*** FLOP *** [Jh Qc 3s]
+*** TURN *** [Jh Qc 3s][6s]
+*** RIVER *** [Jh Qc 3s 6s][Jc]
+*** SHOW DOWN ***
+Bear30 shows [Ah 7s] (One pair : Jacks)
+MathisKcr shows [Ac 5s] (One pair : Jacks)
+MathisKcr collected 60 from side pot 1
+Bear30 collected 840 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh Qc 3s 6s Jc]
+Seat 1: Bear30 (big blind) showed [Ah 7s] and won 840 with One pair : Jacks
+Seat 3: MathisKcr (small blind) (button) showed [Ac 5s] and won 60 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667146720667238401-11-1774733616 - Holdem no limit (20/40) - 2026/03/28 21:33:36 UTC
+Table: 'Expresso Nitro(1086654775)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bear30 (840)
+Seat 3: MathisKcr (60)
+*** ANTE/BLINDS ***
+Bear30 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ks 7s]
+*** PRE-FLOP *** 
+Bear30 calls 20
+MathisKcr raises 20 to 60 and is all-in
+Bear30 calls 20
+*** FLOP *** [3h 3d Js]
+*** TURN *** [3h 3d Js][6s]
+*** RIVER *** [3h 3d Js 6s][Ah]
+*** SHOW DOWN ***
+MathisKcr shows [Ks 7s] (One pair : 3)
+Bear30 shows [4s Ac] (Two pairs : Aces and 3)
+Bear30 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3h 3d Js 6s Ah]
+Seat 1: Bear30 (small blind) (button) showed [4s Ac] and won 120 with Two pairs : Aces and 3
+Seat 3: MathisKcr (big blind) showed [Ks 7s] and lost with One pair : 3
+
+

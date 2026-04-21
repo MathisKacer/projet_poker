@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4661879183796862977-1-1774530190 - Holdem no limit (10/20) - 2026/03/26 13:03:10 UTC
+Table: 'Expresso Nitro(1085428331)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jacinto19 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Ourson_44897 (300)
+*** ANTE/BLINDS ***
+Ourson_44897 posts small blind 10
+Jacinto19 posts big blind 20
+Dealt to MathisKcr [4c 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Ourson_44897 raises 280 to 300 and is all-in
+Jacinto19 folds
+Ourson_44897 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Ourson_44897 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4661879183796862977-2-1774530202 - Holdem no limit (10/20) - 2026/03/26 13:03:22 UTC
+Table: 'Expresso Nitro(1085428331)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jacinto19 (280)
+Seat 2: MathisKcr (300)
+Seat 3: Ourson_44897 (320)
+*** ANTE/BLINDS ***
+Jacinto19 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2h Ah]
+*** PRE-FLOP *** 
+Ourson_44897 calls 20
+Jacinto19 folds
+MathisKcr raises 280 to 300 and is all-in
+Ourson_44897 calls 280
+*** FLOP *** [Qh 5s 3h]
+*** TURN *** [Qh 5s 3h][6c]
+*** RIVER *** [Qh 5s 3h 6c][2c]
+*** SHOW DOWN ***
+MathisKcr shows [2h Ah] (One pair : 2)
+Ourson_44897 shows [7d 6s] (One pair : 6)
+Ourson_44897 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Qh 5s 3h 6c 2c]
+Seat 2: MathisKcr (big blind) showed [2h Ah] and lost with One pair : 2
+Seat 3: Ourson_44897 (button) showed [7d 6s] and won 610 with One pair : 6
+
+

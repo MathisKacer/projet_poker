@@ -1,0 +1,136 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666482336471187457-1-1774712078 - Holdem no limit (10/20) - 2026/03/28 15:34:38 UTC
+Table: 'Expresso Nitro(1086500086)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: ProExpresso (300)
+Seat 3: Medhi31Tlse (300)
+*** ANTE/BLINDS ***
+ProExpresso posts small blind 10
+Medhi31Tlse posts big blind 20
+Dealt to MathisKcr [2d 6s]
+*** PRE-FLOP *** 
+MathisKcr folds
+ProExpresso folds
+Medhi31Tlse collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Medhi31Tlse (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666482336471187457-2-1774712093 - Holdem no limit (10/20) - 2026/03/28 15:34:53 UTC
+Table: 'Expresso Nitro(1086500086)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: ProExpresso (290)
+Seat 3: Medhi31Tlse (310)
+*** ANTE/BLINDS ***
+Medhi31Tlse posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c 6d]
+*** PRE-FLOP *** 
+ProExpresso folds
+Medhi31Tlse folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666482336471187457-3-1774712105 - Holdem no limit (10/20) - 2026/03/28 15:35:05 UTC
+Table: 'Expresso Nitro(1086500086)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (310)
+Seat 2: ProExpresso (290)
+Seat 3: Medhi31Tlse (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+ProExpresso posts big blind 20
+Dealt to MathisKcr [8h 5d]
+*** PRE-FLOP *** 
+Medhi31Tlse calls 20
+MathisKcr folds
+ProExpresso checks
+*** FLOP *** [2d Jd Jh]
+ProExpresso checks
+Medhi31Tlse checks
+*** TURN *** [2d Jd Jh][5s]
+ProExpresso checks
+Medhi31Tlse checks
+*** RIVER *** [2d Jd Jh 5s][6c]
+ProExpresso checks
+Medhi31Tlse bets 50
+ProExpresso folds
+Medhi31Tlse collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [2d Jd Jh 5s 6c]
+Seat 3: Medhi31Tlse (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666482336471187457-4-1774712158 - Holdem no limit (15/30) - 2026/03/28 15:35:58 UTC
+Table: 'Expresso Nitro(1086500086)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: ProExpresso (270)
+Seat 3: Medhi31Tlse (330)
+*** ANTE/BLINDS ***
+ProExpresso posts small blind 15
+Medhi31Tlse posts big blind 30
+Dealt to MathisKcr [6s Js]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+ProExpresso folds
+Medhi31Tlse raises 135 to 195
+MathisKcr folds
+Medhi31Tlse collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 3: Medhi31Tlse (big blind) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666482336471187457-5-1774712174 - Holdem no limit (15/30) - 2026/03/28 15:36:14 UTC
+Table: 'Expresso Nitro(1086500086)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (240)
+Seat 2: ProExpresso (255)
+Seat 3: Medhi31Tlse (405)
+*** ANTE/BLINDS ***
+Medhi31Tlse posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8s Ts]
+*** PRE-FLOP *** 
+ProExpresso folds
+Medhi31Tlse calls 15
+MathisKcr checks
+*** FLOP *** [7c 7d 2d]
+Medhi31Tlse bets 375 and is all-in
+MathisKcr folds
+Medhi31Tlse collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Board: [7c 7d 2d]
+Seat 3: Medhi31Tlse (small blind) won 435
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666482336471187457-6-1774712196 - Holdem no limit (20/40) - 2026/03/28 15:36:36 UTC
+Table: 'Expresso Nitro(1086500086)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (210)
+Seat 2: ProExpresso (255)
+Seat 3: Medhi31Tlse (435)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+ProExpresso posts big blind 40
+Dealt to MathisKcr [5c As]
+*** PRE-FLOP *** 
+Medhi31Tlse raises 395 to 435 and is all-in
+MathisKcr calls 190 and is all-in
+ProExpresso folds
+*** FLOP *** [4h Tc 6d]
+*** TURN *** [4h Tc 6d][Qh]
+*** RIVER *** [4h Tc 6d Qh][Js]
+*** SHOW DOWN ***
+MathisKcr shows [5c As] (High card : Ace)
+Medhi31Tlse shows [Ts Jc] (Two pairs : Jacks and Tens)
+Medhi31Tlse collected 685 from pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Board: [4h Tc 6d Qh Js]
+Seat 1: MathisKcr (small blind) showed [5c As] and lost with High card : Ace
+Seat 3: Medhi31Tlse (button) showed [Ts Jc] and won 685 with Two pairs : Jacks and Tens
+
+

@@ -1,0 +1,174 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4577858323428147201-1-1771413710 - Holdem no limit (10/20) - 2026/02/18 11:21:50 UTC
+Table: 'Expresso Nitro(1065865700)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: lasticot1312 (300)
+Seat 3: Barber_Shop (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+lasticot1312 posts big blind 20
+Dealt to MathisKcr [9h 4s]
+*** PRE-FLOP *** 
+Barber_Shop folds
+MathisKcr raises 20 to 40
+lasticot1312 calls 20
+*** FLOP *** [Td 2h Qd]
+MathisKcr checks
+lasticot1312 checks
+*** TURN *** [Td 2h Qd][Qs]
+MathisKcr checks
+lasticot1312 checks
+*** RIVER *** [Td 2h Qd Qs][Js]
+MathisKcr checks
+lasticot1312 bets 260 and is all-in
+MathisKcr folds
+lasticot1312 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Td 2h Qd Qs Js]
+Seat 2: lasticot1312 (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4577858323428147201-2-1771413731 - Holdem no limit (10/20) - 2026/02/18 11:22:11 UTC
+Table: 'Expresso Nitro(1065865700)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (260)
+Seat 2: lasticot1312 (340)
+Seat 3: Barber_Shop (300)
+*** ANTE/BLINDS ***
+lasticot1312 posts small blind 10
+Barber_Shop posts big blind 20
+Dealt to MathisKcr [Ac 2s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+lasticot1312 folds
+Barber_Shop folds
+MathisKcr collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: MathisKcr (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4577858323428147201-3-1771413744 - Holdem no limit (10/20) - 2026/02/18 11:22:24 UTC
+Table: 'Expresso Nitro(1065865700)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (290)
+Seat 2: lasticot1312 (330)
+Seat 3: Barber_Shop (280)
+*** ANTE/BLINDS ***
+Barber_Shop posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4s Qc]
+*** PRE-FLOP *** 
+lasticot1312 raises 20 to 40
+Barber_Shop folds
+MathisKcr calls 20
+*** FLOP *** [4d 3d Tc]
+MathisKcr bets 40
+lasticot1312 calls 40
+*** TURN *** [4d 3d Tc][Kc]
+MathisKcr bets 50
+lasticot1312 calls 50
+*** RIVER *** [4d 3d Tc Kc][Kh]
+MathisKcr checks
+lasticot1312 bets 176
+MathisKcr folds
+lasticot1312 collected 446 from pot
+*** SUMMARY ***
+Total pot 446 | No rake
+Board: [4d 3d Tc Kc Kh]
+Seat 2: lasticot1312 (button) won 446
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4577858323428147201-4-1771413777 - Holdem no limit (15/30) - 2026/02/18 11:22:57 UTC
+Table: 'Expresso Nitro(1065865700)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (160)
+Seat 2: lasticot1312 (470)
+Seat 3: Barber_Shop (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+lasticot1312 posts big blind 30
+Dealt to MathisKcr [4h Ks]
+*** PRE-FLOP *** 
+Barber_Shop folds
+MathisKcr raises 30 to 60
+lasticot1312 calls 30
+*** FLOP *** [7d Th Kh]
+MathisKcr bets 42
+lasticot1312 raises 42 to 84
+MathisKcr raises 16 to 100 and is all-in
+lasticot1312 calls 16
+*** TURN *** [7d Th Kh][5h]
+*** RIVER *** [7d Th Kh 5h][7h]
+*** SHOW DOWN ***
+lasticot1312 shows [Kc 2h] (Flush King high)
+MathisKcr shows [4h Ks] (Flush King high)
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [7d Th Kh 5h 7h]
+Seat 1: MathisKcr (small blind) showed [4h Ks] and won 320 with Flush King high
+Seat 2: lasticot1312 (big blind) showed [Kc 2h] and lost with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4577858323428147201-5-1771413807 - Holdem no limit (15/30) - 2026/02/18 11:23:27 UTC
+Table: 'Expresso Nitro(1065865700)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (320)
+Seat 2: lasticot1312 (310)
+Seat 3: Barber_Shop (270)
+*** ANTE/BLINDS ***
+lasticot1312 posts small blind 15
+Barber_Shop posts big blind 30
+Dealt to MathisKcr [Ts 4s]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+lasticot1312 calls 15
+Barber_Shop checks
+*** FLOP *** [7c 3s Kd]
+lasticot1312 bets 30
+Barber_Shop folds
+MathisKcr calls 30
+*** TURN *** [7c 3s Kd][4c]
+lasticot1312 bets 30
+MathisKcr calls 30
+*** RIVER *** [7c 3s Kd 4c][Kc]
+lasticot1312 bets 30
+MathisKcr calls 30
+*** SHOW DOWN ***
+MathisKcr shows [Ts 4s] (Two pairs : Kings and 4)
+lasticot1312 shows [Qd 7d] (Two pairs : Kings and 7)
+lasticot1312 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [7c 3s Kd 4c Kc]
+Seat 1: MathisKcr (button) showed [Ts 4s] and lost with Two pairs : Kings and 4
+Seat 2: lasticot1312 (small blind) showed [Qd 7d] and won 270 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4577858323428147201-6-1771413847 - Holdem no limit (20/40) - 2026/02/18 11:24:07 UTC
+Table: 'Expresso Nitro(1065865700)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (200)
+Seat 2: lasticot1312 (460)
+Seat 3: Barber_Shop (240)
+*** ANTE/BLINDS ***
+Barber_Shop posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5c Kc]
+*** PRE-FLOP *** 
+lasticot1312 raises 40 to 80
+Barber_Shop raises 160 to 240 and is all-in
+MathisKcr calls 160 and is all-in
+lasticot1312 calls 160
+*** FLOP *** [3d 2d Th]
+*** TURN *** [3d 2d Th][9c]
+*** RIVER *** [3d 2d Th 9c][7c]
+*** SHOW DOWN ***
+MathisKcr shows [5c Kc] (High card : King)
+Barber_Shop shows [Td 9d] (Two pairs : Tens and 9)
+lasticot1312 shows [Ts Tc] (Trips of Tens)
+lasticot1312 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [3d 2d Th 9c 7c]
+Seat 1: MathisKcr (big blind) showed [5c Kc] and lost with High card : King
+Seat 2: lasticot1312 (button) showed [Ts Tc] and won 680 with Trips of Tens
+Seat 3: Barber_Shop (small blind) showed [Td 9d] and lost with Two pairs : Tens and 9
+
+

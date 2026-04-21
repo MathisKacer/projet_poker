@@ -1,0 +1,52 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607412697766559745-1-1772618488 - Holdem no limit (10/20) - 2026/03/04 10:01:28 UTC
+Table: 'Expresso Nitro(1072746864)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Chance18300 (300)
+Seat 2: lasri (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Chance18300 posts big blind 20
+Dealt to MathisKcr [5d Qc]
+*** PRE-FLOP *** 
+lasri folds
+MathisKcr raises 20 to 40
+Chance18300 raises 60 to 100
+MathisKcr folds
+Chance18300 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: Chance18300 (big blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607412697766559745-2-1772618514 - Holdem no limit (10/20) - 2026/03/04 10:01:54 UTC
+Table: 'Expresso Nitro(1072746864)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chance18300 (340)
+Seat 2: lasri (300)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+Chance18300 posts small blind 10
+lasri posts big blind 20
+Dealt to MathisKcr [Qh Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Chance18300 calls 50
+lasri calls 40
+*** FLOP *** [8c 2s 9s]
+Chance18300 checks
+lasri bets 90
+MathisKcr raises 110 to 200 and is all-in
+Chance18300 folds
+lasri calls 110
+*** TURN *** [8c 2s 9s][Kh]
+*** RIVER *** [8c 2s 9s Kh][4h]
+*** SHOW DOWN ***
+MathisKcr shows [Qh Ac] (High card : Ace)
+lasri shows [9h Ah] (One pair : 9)
+lasri collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [8c 2s 9s Kh 4h]
+Seat 2: lasri (big blind) showed [9h Ah] and won 580 with One pair : 9
+Seat 3: MathisKcr (button) showed [Qh Ac] and lost with High card : Ace
+
+

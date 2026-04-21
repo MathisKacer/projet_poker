@@ -1,0 +1,265 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4254776963434020865-1-1758030652 - Holdem no limit (10/20) - 2025/09/16 13:50:52 UTC
+Table: 'Starting Block WiPT(990642459)#0' 6-max (real money) Seat #6 is the button
+Seat 1: stphm62110 (1500)
+Seat 2: Psykoman08 (1500)
+Seat 3: babiinks09 (1500)
+Seat 4: MathisKcr (1500)
+Seat 5: sp6800 (1500)
+Seat 6: BraveAnge435 (1500)
+*** ANTE/BLINDS ***
+stphm62110 posts small blind 10
+Psykoman08 posts big blind 20
+Dealt to MathisKcr [Jc Jd]
+*** PRE-FLOP *** 
+babiinks09 raises 40 to 60
+MathisKcr raises 1440 to 1500 and is all-in
+sp6800 folds
+BraveAnge435 folds
+stphm62110 folds
+Psykoman08 calls 1480 and is all-in
+babiinks09 calls 1440 and is all-in
+*** FLOP *** [6d 5h 9h]
+*** TURN *** [6d 5h 9h][Td]
+*** RIVER *** [6d 5h 9h Td][5s]
+*** SHOW DOWN ***
+Psykoman08 shows [Kh Qs] (One pair : 5)
+babiinks09 shows [Kc 7c] (One pair : 5)
+MathisKcr shows [Jc Jd] (Two pairs : Jacks and 5)
+MathisKcr collected 4510 from pot
+*** SUMMARY ***
+Total pot 4510 | No rake
+Board: [6d 5h 9h Td 5s]
+Seat 2: Psykoman08 (big blind) showed [Kh Qs] and lost with One pair : 5
+Seat 3: babiinks09 showed [Kc 7c] and lost with One pair : 5
+Seat 4: MathisKcr showed [Jc Jd] and won 4510 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4254776963434020865-2-1758030680 - Holdem no limit (10/20) - 2025/09/16 13:51:20 UTC
+Table: 'Starting Block WiPT(990642459)#0' 6-max (real money) Seat #1 is the button
+Seat 1: stphm62110 (1490)
+Seat 4: MathisKcr (4510)
+Seat 5: sp6800 (1500)
+Seat 6: BraveAnge435 (1500)
+*** ANTE/BLINDS ***
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As Qs]
+*** PRE-FLOP *** 
+sp6800 folds
+BraveAnge435 calls 20
+stphm62110 calls 20
+MathisKcr raises 40 to 60
+BraveAnge435 calls 40
+stphm62110 calls 40
+*** FLOP *** [Jc Qd 4d]
+MathisKcr bets 100
+BraveAnge435 calls 100
+stphm62110 calls 100
+*** TURN *** [Jc Qd 4d][3c]
+MathisKcr bets 4350 and is all-in
+BraveAnge435 calls 1340 and is all-in
+stphm62110 calls 1330 and is all-in
+*** RIVER *** [Jc Qd 4d 3c][Th]
+*** SHOW DOWN ***
+BraveAnge435 shows [5d Qh] (One pair : Queens)
+stphm62110 shows [Ks 9c] (Straight King high)
+MathisKcr shows [As Qs] (One pair : Queens)
+MathisKcr collected 3030 from side pot 1
+stphm62110 collected 4470 from main pot
+*** SUMMARY ***
+Total pot 7500 | No rake
+Board: [Jc Qd 4d 3c Th]
+Seat 1: stphm62110 (button) showed [Ks 9c] and won 4470 with Straight King high
+Seat 4: MathisKcr (big blind) showed [As Qs] and won 3030 with One pair : Queens
+Seat 6: BraveAnge435 showed [5d Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4254776963434020865-3-1758030708 - Holdem no limit (10/20) - 2025/09/16 13:51:48 UTC
+Table: 'Starting Block WiPT(990642459)#0' 6-max (real money) Seat #2 is the button
+Seat 1: stphm62110 (4470)
+Seat 4: MathisKcr (3030)
+Seat 5: sp6800 (1500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+sp6800 posts big blind 20
+Dealt to MathisKcr [7d 5c]
+*** PRE-FLOP *** 
+stphm62110 calls 20
+MathisKcr calls 10
+sp6800 checks
+*** FLOP *** [Jd 6h 8d]
+MathisKcr bets 60
+sp6800 folds
+stphm62110 calls 60
+*** TURN *** [Jd 6h 8d][4s]
+MathisKcr bets 100
+stphm62110 calls 100
+*** RIVER *** [Jd 6h 8d 4s][4d]
+MathisKcr bets 2850 and is all-in
+stphm62110 folds
+MathisKcr collected 3230 from pot
+*** SUMMARY ***
+Total pot 3230 | No rake
+Board: [Jd 6h 8d 4s 4d]
+Seat 4: MathisKcr (small blind) won 3230
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4254776963434020865-4-1758030735 - Holdem no limit (10/20) - 2025/09/16 13:52:15 UTC
+Table: 'Starting Block WiPT(990642459)#0' 6-max (real money) Seat #4 is the button
+Seat 1: stphm62110 (4290)
+Seat 4: MathisKcr (3230)
+Seat 5: sp6800 (1480)
+*** ANTE/BLINDS ***
+sp6800 posts small blind 10
+stphm62110 posts big blind 20
+Dealt to MathisKcr [8h Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+sp6800 folds
+stphm62110 calls 40
+*** FLOP *** [9s 2d 4h]
+stphm62110 checks
+MathisKcr bets 60
+stphm62110 calls 60
+*** TURN *** [9s 2d 4h][As]
+stphm62110 checks
+MathisKcr bets 452
+stphm62110 folds
+MathisKcr collected 702 from pot
+*** SUMMARY ***
+Total pot 702 | No rake
+Board: [9s 2d 4h As]
+Seat 4: MathisKcr (button) won 702
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4254776963434020865-5-1758030764 - Holdem no limit (15/30) - 2025/09/16 13:52:44 UTC
+Table: 'Starting Block WiPT(990642459)#0' 6-max (real money) Seat #5 is the button
+Seat 1: stphm62110 (4170)
+Seat 4: MathisKcr (3360)
+Seat 5: sp6800 (1470)
+*** ANTE/BLINDS ***
+stphm62110 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6d Qs]
+*** PRE-FLOP *** 
+sp6800 calls 30
+stphm62110 folds
+MathisKcr checks
+*** FLOP *** [6s 5c Jh]
+MathisKcr bets 150
+sp6800 calls 150
+*** TURN *** [6s 5c Jh][Ac]
+MathisKcr bets 244
+sp6800 calls 244
+*** RIVER *** [6s 5c Jh Ac][2d]
+MathisKcr checks
+sp6800 checks
+*** SHOW DOWN ***
+MathisKcr shows [6d Qs] (One pair : 6)
+sp6800 shows [Jc Td] (One pair : Jacks)
+sp6800 collected 863 from pot
+*** SUMMARY ***
+Total pot 863 | No rake
+Board: [6s 5c Jh Ac 2d]
+Seat 4: MathisKcr (big blind) showed [6d Qs] and lost with One pair : 6
+Seat 5: sp6800 (button) showed [Jc Td] and won 863 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4254776963434020865-6-1758030792 - Holdem no limit (15/30) - 2025/09/16 13:53:12 UTC
+Table: 'Starting Block WiPT(990642459)#0' 6-max (real money) Seat #1 is the button
+Seat 1: stphm62110 (4155)
+Seat 4: MathisKcr (2936)
+Seat 5: sp6800 (1909)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+sp6800 posts big blind 30
+Dealt to MathisKcr [6s Kc]
+*** PRE-FLOP *** 
+stphm62110 folds
+MathisKcr calls 15
+sp6800 checks
+*** FLOP *** [5d 6h Qh]
+MathisKcr bets 120
+sp6800 calls 120
+*** TURN *** [5d 6h Qh][Kd]
+MathisKcr bets 210
+sp6800 calls 210
+*** RIVER *** [5d 6h Qh Kd][4h]
+MathisKcr bets 742
+sp6800 folds
+MathisKcr collected 1462 from pot
+*** SUMMARY ***
+Total pot 1462 | No rake
+Board: [5d 6h Qh Kd 4h]
+Seat 4: MathisKcr (small blind) won 1462
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4254776963434020865-7-1758030825 - Holdem no limit (15/30) - 2025/09/16 13:53:45 UTC
+Table: 'Starting Block WiPT(990642459)#0' 6-max (real money) Seat #4 is the button
+Seat 1: stphm62110 (4155)
+Seat 4: MathisKcr (3296)
+Seat 5: sp6800 (1549)
+*** ANTE/BLINDS ***
+sp6800 posts small blind 15
+stphm62110 posts big blind 30
+Dealt to MathisKcr [7c 5c]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+sp6800 calls 15
+stphm62110 checks
+*** FLOP *** [6d Jd Kc]
+sp6800 checks
+stphm62110 checks
+MathisKcr checks
+*** TURN *** [6d Jd Kc][8s]
+sp6800 bets 72
+stphm62110 folds
+MathisKcr calls 72
+*** RIVER *** [6d Jd Kc 8s][2d]
+sp6800 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [7c 5c] (High card : King)
+sp6800 shows [7h Kh] (One pair : Kings)
+sp6800 collected 234 from pot
+*** SUMMARY ***
+Total pot 234 | No rake
+Board: [6d Jd Kc 8s 2d]
+Seat 4: MathisKcr (button) showed [7c 5c] and lost with High card : King
+Seat 5: sp6800 (small blind) showed [7h Kh] and won 234 with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4254776963434020865-8-1758030850 - Holdem no limit (20/40) - 2025/09/16 13:54:10 UTC
+Table: 'Starting Block WiPT(990642459)#0' 6-max (real money) Seat #5 is the button
+Seat 1: stphm62110 (4125)
+Seat 4: MathisKcr (3194)
+Seat 5: sp6800 (1681)
+*** ANTE/BLINDS ***
+stphm62110 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [4s Td]
+*** PRE-FLOP *** 
+sp6800 folds
+stphm62110 calls 20
+MathisKcr checks
+*** FLOP *** [Qs Kc Jc]
+stphm62110 checks
+MathisKcr bets 120
+stphm62110 raises 166 to 286
+MathisKcr calls 166
+*** TURN *** [Qs Kc Jc][4c]
+stphm62110 bets 228
+MathisKcr calls 228
+*** RIVER *** [Qs Kc Jc 4c][9c]
+stphm62110 bets 3571 and is all-in
+MathisKcr calls 2640 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [4s Td] (Straight King high)
+stphm62110 shows [Ac Ts] (Flush Ace high)
+stphm62110 collected 7319 from pot
+*** SUMMARY ***
+Total pot 7319 | No rake
+Board: [Qs Kc Jc 4c 9c]
+Seat 1: stphm62110 (small blind) showed [Ac Ts] and won 7319 with Flush Ace high
+Seat 4: MathisKcr (big blind) showed [4s Td] and lost with Straight King high
+
+

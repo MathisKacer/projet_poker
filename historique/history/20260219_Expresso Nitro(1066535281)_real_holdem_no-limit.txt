@@ -1,0 +1,124 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580734151925170177-1-1771521348 - Holdem no limit (10/20) - 2026/02/19 17:15:48 UTC
+Table: 'Expresso Nitro(1066535281)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pef43 (300)
+Seat 2: MathisKcr (300)
+Seat 3: tchoc (300)
+*** ANTE/BLINDS ***
+tchoc posts small blind 10
+pef43 posts big blind 20
+Dealt to MathisKcr [Td 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+tchoc calls 10
+pef43 checks
+*** FLOP *** [2s 7s Th]
+tchoc bets 20
+pef43 calls 20
+*** TURN *** [2s 7s Th][3h]
+tchoc checks
+pef43 bets 52
+tchoc calls 52
+*** RIVER *** [2s 7s Th 3h][4d]
+tchoc checks
+pef43 bets 120
+tchoc folds
+pef43 collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | No rake
+Board: [2s 7s Th 3h 4d]
+Seat 1: pef43 (big blind) won 304
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580734151925170177-2-1771521373 - Holdem no limit (10/20) - 2026/02/19 17:16:13 UTC
+Table: 'Expresso Nitro(1066535281)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pef43 (392)
+Seat 2: MathisKcr (300)
+Seat 3: tchoc (208)
+*** ANTE/BLINDS ***
+pef43 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6d Js]
+*** PRE-FLOP *** 
+tchoc raises 188 to 208 and is all-in
+pef43 folds
+MathisKcr folds
+tchoc collected 238 from pot
+*** SUMMARY ***
+Total pot 238 | No rake
+Seat 3: tchoc (button) won 238
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580734151925170177-3-1771521380 - Holdem no limit (10/20) - 2026/02/19 17:16:20 UTC
+Table: 'Expresso Nitro(1066535281)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pef43 (382)
+Seat 2: MathisKcr (280)
+Seat 3: tchoc (238)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+tchoc posts big blind 20
+Dealt to MathisKcr [2c 4c]
+*** PRE-FLOP *** 
+pef43 calls 20
+MathisKcr folds
+tchoc raises 218 to 238 and is all-in
+pef43 folds
+tchoc collected 268 from pot
+*** SUMMARY ***
+Total pot 268 | No rake
+Seat 3: tchoc (big blind) won 268
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580734151925170177-4-1771521397 - Holdem no limit (10/20) - 2026/02/19 17:16:37 UTC
+Table: 'Expresso Nitro(1066535281)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pef43 (362)
+Seat 2: MathisKcr (270)
+Seat 3: tchoc (268)
+*** ANTE/BLINDS ***
+tchoc posts small blind 10
+pef43 posts big blind 20
+Dealt to MathisKcr [Ac 3d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+tchoc raises 228 to 268 and is all-in
+pef43 folds
+MathisKcr calls 228
+*** FLOP *** [7c 8h 5h]
+*** TURN *** [7c 8h 5h][As]
+*** RIVER *** [7c 8h 5h As][4s]
+*** SHOW DOWN ***
+MathisKcr shows [Ac 3d] (One pair : Aces)
+tchoc shows [5d Ad] (Two pairs : Aces and 5)
+tchoc collected 556 from pot
+*** SUMMARY ***
+Total pot 556 | No rake
+Board: [7c 8h 5h As 4s]
+Seat 2: MathisKcr (button) showed [Ac 3d] and lost with One pair : Aces
+Seat 3: tchoc (small blind) showed [5d Ad] and won 556 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4580734151925170177-5-1771521422 - Holdem no limit (15/30) - 2026/02/19 17:17:02 UTC
+Table: 'Expresso Nitro(1066535281)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pef43 (342)
+Seat 2: MathisKcr (2)
+Seat 3: tchoc (556)
+*** ANTE/BLINDS ***
+pef43 posts small blind 15
+MathisKcr posts big blind 2 and is all-in
+Dealt to MathisKcr [Th 5s]
+*** PRE-FLOP *** 
+tchoc raises 541 to 556 and is all-in
+pef43 folds
+*** FLOP *** [6h 9s 7c]
+*** TURN *** [6h 9s 7c][6d]
+*** RIVER *** [6h 9s 7c 6d][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [Th 5s] (One pair : 6)
+tchoc shows [Ah 2s] (One pair : 6)
+tchoc collected 573 from pot
+*** SUMMARY ***
+Total pot 573 | No rake
+Board: [6h 9s 7c 6d Qs]
+Seat 2: MathisKcr (big blind) showed [Th 5s] and lost with One pair : 6
+Seat 3: tchoc (button) showed [Ah 2s] and won 573 with One pair : 6
+
+

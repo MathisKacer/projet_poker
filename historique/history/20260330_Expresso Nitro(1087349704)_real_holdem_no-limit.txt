@@ -1,0 +1,111 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670131417995280385-1-1774863975 - Holdem no limit (10/20) - 2026/03/30 09:46:15 UTC
+Table: 'Expresso Nitro(1087349704)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: tomsha49 (300)
+Seat 3: SuperCheries (300)
+*** ANTE/BLINDS ***
+SuperCheries posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qd Ts]
+*** PRE-FLOP *** 
+tomsha49 calls 20
+SuperCheries raises 20 to 40
+MathisKcr calls 20
+tomsha49 calls 20
+*** FLOP *** [7h As 3d]
+SuperCheries checks
+MathisKcr checks
+tomsha49 bets 42
+SuperCheries calls 42
+MathisKcr folds
+*** TURN *** [7h As 3d][8s]
+SuperCheries bets 218 and is all-in
+tomsha49 folds
+SuperCheries collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | No rake
+Board: [7h As 3d 8s]
+Seat 3: SuperCheries (small blind) won 422
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670131417995280385-2-1774864021 - Holdem no limit (10/20) - 2026/03/30 09:47:01 UTC
+Table: 'Expresso Nitro(1087349704)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (260)
+Seat 2: tomsha49 (218)
+Seat 3: SuperCheries (422)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+tomsha49 posts big blind 20
+Dealt to MathisKcr [2d 9h]
+*** PRE-FLOP *** 
+SuperCheries calls 20
+MathisKcr folds
+tomsha49 checks
+*** FLOP *** [7h 8s 9d]
+tomsha49 checks
+SuperCheries checks
+*** TURN *** [7h 8s 9d][Tc]
+tomsha49 bets 33
+SuperCheries calls 33
+*** RIVER *** [7h 8s 9d Tc][4s]
+tomsha49 bets 41
+SuperCheries calls 41
+*** SHOW DOWN ***
+SuperCheries shows [Ts Qd] (One pair : Tens)
+tomsha49 shows [6h 4c] (Straight Ten high)
+tomsha49 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [7h 8s 9d Tc 4s]
+Seat 2: tomsha49 (big blind) showed [6h 4c] and won 198 with Straight Ten high
+Seat 3: SuperCheries (button) showed [Ts Qd] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670131417995280385-3-1774864083 - Holdem no limit (15/30) - 2026/03/30 09:48:03 UTC
+Table: 'Expresso Nitro(1087349704)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (250)
+Seat 2: tomsha49 (322)
+Seat 3: SuperCheries (328)
+*** ANTE/BLINDS ***
+tomsha49 posts small blind 15
+SuperCheries posts big blind 30
+Dealt to MathisKcr [Qs 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+tomsha49 folds
+SuperCheries raises 268 to 328 and is all-in
+MathisKcr folds
+SuperCheries collected 403 from pot
+*** SUMMARY ***
+Total pot 403 | No rake
+Seat 3: SuperCheries (big blind) won 403
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670131417995280385-4-1774864106 - Holdem no limit (20/40) - 2026/03/30 09:48:26 UTC
+Table: 'Expresso Nitro(1087349704)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (190)
+Seat 2: tomsha49 (307)
+Seat 3: SuperCheries (403)
+*** ANTE/BLINDS ***
+SuperCheries posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jd Qh]
+*** PRE-FLOP *** 
+tomsha49 folds
+SuperCheries calls 20
+MathisKcr raises 150 to 190 and is all-in
+SuperCheries calls 150
+*** FLOP *** [5s Td 7s]
+*** TURN *** [5s Td 7s][9d]
+*** RIVER *** [5s Td 7s 9d][Th]
+*** SHOW DOWN ***
+MathisKcr shows [Jd Qh] (One pair : Tens)
+SuperCheries shows [Js 8d] (Straight Jack high)
+SuperCheries collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [5s Td 7s 9d Th]
+Seat 1: MathisKcr (big blind) showed [Jd Qh] and lost with One pair : Tens
+Seat 3: SuperCheries (small blind) showed [Js 8d] and won 380 with Straight Jack high
+
+

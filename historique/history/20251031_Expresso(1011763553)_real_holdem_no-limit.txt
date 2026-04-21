@@ -1,0 +1,177 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345491371419762689-1-1761916798 - Holdem no limit (10/20) - 2025/10/31 13:19:58 UTC
+Table: 'Expresso(1011763553)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MRV 318 (500)
+Seat 2: MathisKcr (500)
+Seat 3: GS_Condor26 (500)
+*** ANTE/BLINDS ***
+MRV 318 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6c 5c]
+*** PRE-FLOP *** 
+GS_Condor26 calls 20
+MRV 318 calls 10
+MathisKcr checks
+*** FLOP *** [4s 2c Kc]
+MRV 318 checks
+MathisKcr bets 60
+GS_Condor26 folds
+MRV 318 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4s 2c Kc]
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345491371419762689-2-1761916820 - Holdem no limit (10/20) - 2025/10/31 13:20:20 UTC
+Table: 'Expresso(1011763553)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MRV 318 (480)
+Seat 2: MathisKcr (540)
+Seat 3: GS_Condor26 (480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+GS_Condor26 posts big blind 20
+Dealt to MathisKcr [4s 4h]
+*** PRE-FLOP *** 
+MRV 318 folds
+MathisKcr raises 520 to 540 and is all-in
+GS_Condor26 calls 460 and is all-in
+*** FLOP *** [7d Qd 2d]
+*** TURN *** [7d Qd 2d][3c]
+*** RIVER *** [7d Qd 2d 3c][Js]
+*** SHOW DOWN ***
+MathisKcr shows [4s 4h] (One pair : 4)
+GS_Condor26 shows [Qh As] (One pair : Queens)
+GS_Condor26 collected 960 from main pot
+MathisKcr collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [7d Qd 2d 3c Js]
+Seat 2: MathisKcr (small blind) showed [4s 4h] and won 60 with One pair : 4
+Seat 3: GS_Condor26 (big blind) showed [Qh As] and won 960 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345491371419762689-3-1761916835 - Holdem no limit (10/20) - 2025/10/31 13:20:35 UTC
+Table: 'Expresso(1011763553)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MRV 318 (480)
+Seat 2: MathisKcr (60)
+Seat 3: GS_Condor26 (960)
+*** ANTE/BLINDS ***
+GS_Condor26 posts small blind 10
+MRV 318 posts big blind 20
+Dealt to MathisKcr [4h Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60 and is all-in
+GS_Condor26 folds
+MRV 318 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345491371419762689-4-1761916847 - Holdem no limit (10/20) - 2025/10/31 13:20:47 UTC
+Table: 'Expresso(1011763553)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MRV 318 (460)
+Seat 2: MathisKcr (90)
+Seat 3: GS_Condor26 (950)
+*** ANTE/BLINDS ***
+MRV 318 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 7d]
+*** PRE-FLOP *** 
+GS_Condor26 folds
+MRV 318 calls 10
+MathisKcr raises 40 to 60
+MRV 318 raises 40 to 100
+MathisKcr calls 30 and is all-in
+*** FLOP *** [4c Qd Kh]
+*** TURN *** [4c Qd Kh][As]
+*** RIVER *** [4c Qd Kh As][Kd]
+*** SHOW DOWN ***
+MRV 318 shows [Qh 9h] (Two pairs : Kings and Queens)
+MathisKcr shows [Ad 7d] (Two pairs : Aces and Kings)
+MathisKcr collected 180 from main pot
+MRV 318 collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [4c Qd Kh As Kd]
+Seat 1: MRV 318 (small blind) showed [Qh 9h] and won 10 with Two pairs : Kings and Queens
+Seat 2: MathisKcr (big blind) showed [Ad 7d] and won 180 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345491371419762689-5-1761916867 - Holdem no limit (10/20) - 2025/10/31 13:21:07 UTC
+Table: 'Expresso(1011763553)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MRV 318 (370)
+Seat 2: MathisKcr (180)
+Seat 3: GS_Condor26 (950)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+GS_Condor26 posts big blind 20
+Dealt to MathisKcr [Qh Tc]
+*** PRE-FLOP *** 
+MRV 318 calls 20
+MathisKcr raises 40 to 60
+GS_Condor26 calls 40
+MRV 318 calls 40
+*** FLOP *** [Ad 9d 9c]
+MathisKcr bets 120 and is all-in
+GS_Condor26 folds
+MRV 318 folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Ad 9d 9c]
+Seat 2: MathisKcr (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4345491371419762689-6-1761916886 - Holdem no limit (15/30) - 2025/10/31 13:21:26 UTC
+Table: 'Expresso(1011763553)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MRV 318 (310)
+Seat 2: MathisKcr (300)
+Seat 3: GS_Condor26 (890)
+*** ANTE/BLINDS ***
+GS_Condor26 posts small blind 15
+MRV 318 posts big blind 30
+Dealt to MathisKcr [4c 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+GS_Condor26 calls 15
+MRV 318 raises 60 to 90
+GS_Condor26 folds
+MRV 318 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MRV 318 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4345491371419762689-7-1761916895 - Holdem no limit (15/30) - 2025/10/31 13:21:35 UTC
+Table: 'Expresso(1011763553)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MRV 318 (340)
+Seat 2: MathisKcr (300)
+Seat 3: GS_Condor26 (860)
+*** ANTE/BLINDS ***
+MRV 318 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Th Qc]
+*** PRE-FLOP *** 
+GS_Condor26 calls 30
+MRV 318 raises 90 to 120
+MathisKcr calls 90
+GS_Condor26 folds
+*** FLOP *** [7d Td Ks]
+MRV 318 bets 220 and is all-in
+MathisKcr calls 180 and is all-in
+*** TURN *** [7d Td Ks][9h]
+*** RIVER *** [7d Td Ks 9h][Ac]
+*** SHOW DOWN ***
+MathisKcr shows [Th Qc] (One pair : Tens)
+MRV 318 shows [8s Ad] (One pair : Aces)
+MRV 318 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [7d Td Ks 9h Ac]
+Seat 1: MRV 318 (small blind) showed [8s Ad] and won 670 with One pair : Aces
+Seat 2: MathisKcr (big blind) showed [Th Qc] and lost with One pair : Tens
+
+

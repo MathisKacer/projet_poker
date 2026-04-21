@@ -1,0 +1,1124 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4449874203587379201-1-1766508260 - Holdem no limit (10/20) - 2025/12/23 16:44:20 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #2 is the button
+Seat 1: BOUP19 (1500)
+Seat 2: ssa (1500)
+Seat 3: MathisKcr (1500)
+Seat 4: Lacenaire354 (1500)
+Seat 5: YANISLord422 (1500)
+Seat 6: all4as40 (1500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Lacenaire354 posts big blind 20
+Dealt to MathisKcr [5d 9d]
+*** PRE-FLOP *** 
+YANISLord422 calls 20
+all4as40 calls 20
+BOUP19 calls 20
+ssa folds
+MathisKcr folds
+Lacenaire354 checks
+*** FLOP *** [Js Ac Th]
+Lacenaire354 checks
+YANISLord422 checks
+all4as40 checks
+BOUP19 bets 90
+Lacenaire354 folds
+YANISLord422 folds
+all4as40 calls 90
+*** TURN *** [Js Ac Th][Ks]
+all4as40 bets 135
+BOUP19 calls 135
+*** RIVER *** [Js Ac Th Ks][Kd]
+all4as40 checks
+BOUP19 bets 1255 and is all-in
+all4as40 calls 1255 and is all-in
+*** SHOW DOWN ***
+BOUP19 shows [8d Td] (Two pairs : Kings and Tens)
+all4as40 shows [8s Qh] (Straight Ace high)
+all4as40 collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Board: [Js Ac Th Ks Kd]
+Seat 1: BOUP19 showed [8d Td] and lost with Two pairs : Kings and Tens
+Seat 6: all4as40 showed [8s Qh] and won 3050 with Straight Ace high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4449874203587379201-2-1766508316 - Holdem no limit (10/20) - 2025/12/23 16:45:16 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 2: ssa (1500)
+Seat 3: MathisKcr (1490)
+Seat 4: Lacenaire354 (1480)
+Seat 5: YANISLord422 (1480)
+Seat 6: all4as40 (3050)
+*** ANTE/BLINDS ***
+Lacenaire354 posts small blind 10
+YANISLord422 posts big blind 20
+Dealt to MathisKcr [2h 4h]
+*** PRE-FLOP *** 
+all4as40 raises 20 to 40
+ssa raises 1460 to 1500 and is all-in
+MathisKcr folds
+Lacenaire354 folds
+YANISLord422 folds
+all4as40 folds
+ssa collected 1570 from pot
+*** SUMMARY ***
+Total pot 1570 | No rake
+Seat 2: ssa won 1570
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4449874203587379201-3-1766508330 - Holdem no limit (10/20) - 2025/12/23 16:45:30 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #4 is the button
+Seat 2: ssa (1570)
+Seat 3: MathisKcr (1490)
+Seat 4: Lacenaire354 (1470)
+Seat 5: YANISLord422 (1460)
+Seat 6: all4as40 (3010)
+*** ANTE/BLINDS ***
+YANISLord422 posts small blind 10
+all4as40 posts big blind 20
+Dealt to MathisKcr [Jh 3c]
+*** PRE-FLOP *** 
+ssa folds
+MathisKcr raises 20 to 40
+Lacenaire354 calls 40
+YANISLord422 raises 20 to 60
+all4as40 calls 40
+MathisKcr calls 20
+Lacenaire354 calls 20
+*** FLOP *** [4d 9c 7d]
+YANISLord422 bets 1400 and is all-in
+all4as40 calls 1400
+MathisKcr folds
+Lacenaire354 folds
+*** TURN *** [4d 9c 7d][7c]
+*** RIVER *** [4d 9c 7d 7c][5h]
+*** SHOW DOWN ***
+YANISLord422 shows [Ad 8c] (One pair : 7)
+all4as40 shows [Qc Qh] (Two pairs : Queens and 7)
+all4as40 collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [4d 9c 7d 7c 5h]
+Seat 5: YANISLord422 (small blind) showed [Ad 8c] and lost with One pair : 7
+Seat 6: all4as40 (big blind) showed [Qc Qh] and won 3040 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4449874203587379201-4-1766508367 - Holdem no limit (15/30) - 2025/12/23 16:46:07 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #5 is the button
+Seat 2: ssa (1570)
+Seat 3: MathisKcr (1430)
+Seat 4: Lacenaire354 (1410)
+Seat 6: all4as40 (4590)
+*** ANTE/BLINDS ***
+all4as40 posts small blind 15
+ssa posts big blind 30
+Dealt to MathisKcr [6h 7h]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Lacenaire354 calls 30
+all4as40 raises 30 to 60
+ssa raises 180 to 240
+MathisKcr folds
+Lacenaire354 folds
+all4as40 calls 180
+*** FLOP *** [Qh 2h Qd]
+all4as40 checks
+ssa bets 189
+all4as40 folds
+ssa collected 729 from pot
+*** SUMMARY ***
+Total pot 729 | No rake
+Board: [Qh 2h Qd]
+Seat 2: ssa (big blind) won 729
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4449874203587379201-5-1766508408 - Holdem no limit (15/30) - 2025/12/23 16:46:48 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 2: ssa (1870)
+Seat 3: MathisKcr (1400)
+Seat 4: Lacenaire354 (1380)
+Seat 6: all4as40 (4350)
+*** ANTE/BLINDS ***
+ssa posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4d Jc]
+*** PRE-FLOP *** 
+Lacenaire354 calls 30
+all4as40 calls 30
+ssa calls 15
+MathisKcr checks
+*** FLOP *** [Ah 8h 8s]
+ssa checks
+MathisKcr checks
+Lacenaire354 bets 78
+all4as40 calls 78
+ssa folds
+MathisKcr folds
+*** TURN *** [Ah 8h 8s][As]
+Lacenaire354 bets 1272 and is all-in
+all4as40 folds
+Lacenaire354 collected 1548 from pot
+*** SUMMARY ***
+Total pot 1548 | No rake
+Board: [Ah 8h 8s As]
+Seat 4: Lacenaire354 won 1548
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4449874203587379201-6-1766508464 - Holdem no limit (20/40) - 2025/12/23 16:47:44 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #2 is the button
+Seat 2: ssa (1840)
+Seat 3: MathisKcr (1370)
+Seat 4: Lacenaire354 (1548)
+Seat 6: all4as40 (4242)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Lacenaire354 posts big blind 40
+Dealt to MathisKcr [Td 9c]
+*** PRE-FLOP *** 
+all4as40 raises 40 to 80
+ssa raises 1760 to 1840 and is all-in
+MathisKcr folds
+Lacenaire354 folds
+all4as40 folds
+ssa collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Seat 2: ssa (button) won 1980
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4449874203587379201-7-1766508485 - Holdem no limit (20/40) - 2025/12/23 16:48:05 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 2: ssa (1980)
+Seat 3: MathisKcr (1350)
+Seat 4: Lacenaire354 (1508)
+Seat 6: all4as40 (4162)
+*** ANTE/BLINDS ***
+Lacenaire354 posts small blind 20
+all4as40 posts big blind 40
+Dealt to MathisKcr [Jc 4d]
+*** PRE-FLOP *** 
+ssa folds
+MathisKcr folds
+Lacenaire354 calls 20
+all4as40 checks
+*** FLOP *** [Tc 3s 6c]
+Lacenaire354 checks
+all4as40 checks
+*** TURN *** [Tc 3s 6c][2h]
+Lacenaire354 checks
+all4as40 checks
+*** RIVER *** [Tc 3s 6c 2h][As]
+Lacenaire354 bets 52
+all4as40 folds
+Lacenaire354 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Tc 3s 6c 2h As]
+Seat 4: Lacenaire354 (small blind) won 132
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4449874203587379201-8-1766508513 - Holdem no limit (20/40) - 2025/12/23 16:48:33 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #4 is the button
+Seat 2: ssa (1980)
+Seat 3: MathisKcr (1350)
+Seat 4: Lacenaire354 (1548)
+Seat 6: all4as40 (4122)
+*** ANTE/BLINDS ***
+all4as40 posts small blind 20
+ssa posts big blind 40
+Dealt to MathisKcr [9s Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Lacenaire354 folds
+all4as40 calls 60
+ssa folds
+*** FLOP *** [Jc 9d Qd]
+all4as40 checks
+MathisKcr bets 80
+all4as40 raises 80 to 160
+MathisKcr raises 80 to 240
+all4as40 calls 80
+*** TURN *** [Jc 9d Qd][Kd]
+all4as40 checks
+MathisKcr bets 1030 and is all-in
+all4as40 folds
+MathisKcr collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [Jc 9d Qd Kd]
+Seat 3: MathisKcr won 1710
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4449874203587379201-9-1766508545 - Holdem no limit (30/60) - 2025/12/23 16:49:05 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 2: ssa (1940)
+Seat 3: MathisKcr (1710)
+Seat 4: Lacenaire354 (1548)
+Seat 6: all4as40 (3802)
+*** ANTE/BLINDS ***
+ssa posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [3s Jd]
+*** PRE-FLOP *** 
+Lacenaire354 folds
+all4as40 calls 60
+ssa raises 1880 to 1940 and is all-in
+MathisKcr folds
+all4as40 folds
+ssa collected 2060 from pot
+*** SUMMARY ***
+Total pot 2060 | No rake
+Seat 2: ssa (small blind) won 2060
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4449874203587379201-10-1766508557 - Holdem no limit (30/60) - 2025/12/23 16:49:17 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #2 is the button
+Seat 2: ssa (2060)
+Seat 3: MathisKcr (1650)
+Seat 4: Lacenaire354 (1548)
+Seat 6: all4as40 (3742)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Lacenaire354 posts big blind 60
+Dealt to MathisKcr [Kd 3c]
+*** PRE-FLOP *** 
+all4as40 folds
+ssa raises 2000 to 2060 and is all-in
+MathisKcr folds
+Lacenaire354 calls 1488 and is all-in
+*** FLOP *** [4s 8c 6h]
+*** TURN *** [4s 8c 6h][Jh]
+*** RIVER *** [4s 8c 6h Jh][3d]
+*** SHOW DOWN ***
+ssa shows [Ac Ts] (High card : Ace)
+Lacenaire354 shows [3h Ad] (One pair : 3)
+Lacenaire354 collected 3126 from main pot
+ssa collected 512 from side pot 1
+*** SUMMARY ***
+Total pot 3638 | No rake
+Board: [4s 8c 6h Jh 3d]
+Seat 2: ssa (button) showed [Ac Ts] and won 512 with High card : Ace
+Seat 4: Lacenaire354 (big blind) showed [3h Ad] and won 3126 with One pair : 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4449874203587379201-11-1766508572 - Holdem no limit (30/60) - 2025/12/23 16:49:32 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 2: ssa (512)
+Seat 3: MathisKcr (1620)
+Seat 4: Lacenaire354 (3126)
+Seat 6: all4as40 (3742)
+*** ANTE/BLINDS ***
+Lacenaire354 posts small blind 30
+all4as40 posts big blind 60
+Dealt to MathisKcr [Th 3c]
+*** PRE-FLOP *** 
+ssa raises 452 to 512 and is all-in
+MathisKcr folds
+Lacenaire354 folds
+all4as40 calls 452
+*** FLOP *** [9s 4d Tc]
+*** TURN *** [9s 4d Tc][3s]
+*** RIVER *** [9s 4d Tc 3s][Js]
+*** SHOW DOWN ***
+all4as40 shows [2h 7s] (High card : Jack)
+ssa shows [6c 7h] (High card : Jack)
+ssa collected 1054 from pot
+*** SUMMARY ***
+Total pot 1054 | No rake
+Board: [9s 4d Tc 3s Js]
+Seat 2: ssa showed [6c 7h] and won 1054 with High card : Jack
+Seat 6: all4as40 (big blind) showed [2h 7s] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4449874203587379201-12-1766508588 - Holdem no limit (30/60) - 2025/12/23 16:49:48 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #4 is the button
+Seat 2: ssa (1054)
+Seat 3: MathisKcr (1620)
+Seat 4: Lacenaire354 (3096)
+Seat 6: all4as40 (3230)
+*** ANTE/BLINDS ***
+all4as40 posts small blind 30
+ssa posts big blind 60
+Dealt to MathisKcr [4d Ts]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lacenaire354 calls 60
+all4as40 calls 30
+ssa raises 994 to 1054 and is all-in
+Lacenaire354 folds
+all4as40 calls 994
+*** FLOP *** [4c 6h 5c]
+*** TURN *** [4c 6h 5c][3s]
+*** RIVER *** [4c 6h 5c 3s][7d]
+*** SHOW DOWN ***
+ssa shows [Ad 2d] (Straight 7 high)
+all4as40 shows [8c 3c] (Straight 8 high)
+all4as40 collected 2168 from pot
+*** SUMMARY ***
+Total pot 2168 | No rake
+Board: [4c 6h 5c 3s 7d]
+Seat 2: ssa (big blind) showed [Ad 2d] and lost with Straight 7 high
+Seat 6: all4as40 (small blind) showed [8c 3c] and won 2168 with Straight 8 high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4449874203587379201-13-1766508645 - Holdem no limit (40/80) - 2025/12/23 16:50:45 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 3: MathisKcr (1620)
+Seat 4: Lacenaire354 (3036)
+Seat 6: all4as40 (4344)
+*** ANTE/BLINDS ***
+MathisKcr posts big blind 80
+Dealt to MathisKcr [4h 2d]
+*** PRE-FLOP *** 
+Lacenaire354 calls 80
+all4as40 calls 80
+MathisKcr checks
+*** FLOP *** [Kh 9c 6d]
+MathisKcr checks
+Lacenaire354 bets 80
+all4as40 calls 80
+MathisKcr calls 80
+*** TURN *** [Kh 9c 6d][9d]
+MathisKcr checks
+Lacenaire354 bets 80
+all4as40 calls 80
+MathisKcr folds
+*** RIVER *** [Kh 9c 6d 9d][Qd]
+Lacenaire354 bets 80
+all4as40 raises 80 to 160
+Lacenaire354 calls 80
+*** SHOW DOWN ***
+Lacenaire354 shows [Kd 2c] (Two pairs : Kings and 9)
+all4as40 shows [4d Td] (Flush Queen high)
+all4as40 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Kh 9c 6d 9d Qd]
+Seat 4: Lacenaire354 showed [Kd 2c] and lost with Two pairs : Kings and 9
+Seat 6: all4as40 (button) showed [4d Td] and won 960 with Flush Queen high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4449874203587379201-14-1766508678 - Holdem no limit (40/80) - 2025/12/23 16:51:18 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #2 is the button
+Seat 3: MathisKcr (1460)
+Seat 4: Lacenaire354 (2636)
+Seat 6: all4as40 (4904)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Lacenaire354 posts big blind 80
+Dealt to MathisKcr [4d Qh]
+*** PRE-FLOP *** 
+all4as40 calls 80
+MathisKcr calls 40
+Lacenaire354 checks
+*** FLOP *** [5h Jh Td]
+MathisKcr bets 160
+Lacenaire354 raises 560 to 720
+all4as40 folds
+MathisKcr folds
+Lacenaire354 collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Board: [5h Jh Td]
+Seat 4: Lacenaire354 (big blind) won 1120
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4449874203587379201-15-1766508712 - Holdem no limit (60/120) - 2025/12/23 16:51:52 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 3: MathisKcr (1220)
+Seat 4: Lacenaire354 (2956)
+Seat 6: all4as40 (4824)
+*** ANTE/BLINDS ***
+Lacenaire354 posts small blind 60
+all4as40 posts big blind 120
+Dealt to MathisKcr [7h 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lacenaire354 raises 120 to 240
+all4as40 calls 120
+*** FLOP *** [Qh Ks 7s]
+Lacenaire354 bets 120
+all4as40 calls 120
+*** TURN *** [Qh Ks 7s][Tc]
+Lacenaire354 bets 2596 and is all-in
+all4as40 folds
+Lacenaire354 collected 3316 from pot
+*** SUMMARY ***
+Total pot 3316 | No rake
+Board: [Qh Ks 7s Tc]
+Seat 4: Lacenaire354 (small blind) won 3316
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4449874203587379201-16-1766508743 - Holdem no limit (60/120) - 2025/12/23 16:52:23 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #4 is the button
+Seat 3: MathisKcr (1220)
+Seat 4: Lacenaire354 (3316)
+Seat 6: all4as40 (4464)
+*** ANTE/BLINDS ***
+all4as40 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [7c 4h]
+*** PRE-FLOP *** 
+Lacenaire354 calls 120
+all4as40 raises 120 to 240
+MathisKcr calls 120
+Lacenaire354 calls 120
+*** FLOP *** [3s 4c 6s]
+all4as40 checks
+MathisKcr bets 980 and is all-in
+Lacenaire354 folds
+all4as40 folds
+MathisKcr collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [3s 4c 6s]
+Seat 3: MathisKcr (big blind) won 1700
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4449874203587379201-17-1766508765 - Holdem no limit (60/120) - 2025/12/23 16:52:45 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 3: MathisKcr (1700)
+Seat 4: Lacenaire354 (3076)
+Seat 6: all4as40 (4224)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 60
+Lacenaire354 posts big blind 120
+Dealt to MathisKcr [3d Jc]
+*** PRE-FLOP *** 
+all4as40 raises 120 to 240
+MathisKcr calls 180
+Lacenaire354 calls 120
+*** FLOP *** [6c 2d Kc]
+MathisKcr checks
+Lacenaire354 checks
+all4as40 checks
+*** TURN *** [6c 2d Kc][2c]
+MathisKcr bets 240
+Lacenaire354 folds
+all4as40 calls 240
+*** RIVER *** [6c 2d Kc 2c][Ks]
+MathisKcr checks
+all4as40 bets 120
+MathisKcr folds
+all4as40 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [6c 2d Kc 2c Ks]
+Seat 6: all4as40 (button) won 1320
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4449874203587379201-18-1766508792 - Holdem no limit (60/120) - 2025/12/23 16:53:12 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 3: MathisKcr (1220)
+Seat 4: Lacenaire354 (2836)
+Seat 6: all4as40 (4944)
+*** ANTE/BLINDS ***
+Lacenaire354 posts small blind 60
+all4as40 posts big blind 120
+Dealt to MathisKcr [6h Ts]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lacenaire354 calls 60
+all4as40 checks
+*** FLOP *** [Tc 3h 4s]
+Lacenaire354 checks
+all4as40 checks
+*** TURN *** [Tc 3h 4s][2h]
+Lacenaire354 checks
+all4as40 bets 120
+Lacenaire354 folds
+all4as40 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Tc 3h 4s 2h]
+Seat 6: all4as40 (big blind) won 360
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4449874203587379201-19-1766508822 - Holdem no limit (10/60/120) - 2025/12/23 16:53:42 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #4 is the button
+Seat 3: MathisKcr (1220)
+Seat 4: Lacenaire354 (2716)
+Seat 6: all4as40 (5064)
+*** ANTE/BLINDS ***
+all4as40 posts ante 10
+MathisKcr posts ante 10
+Lacenaire354 posts ante 10
+all4as40 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [Ad Ks]
+*** PRE-FLOP *** 
+Lacenaire354 raises 120 to 240
+all4as40 calls 180
+MathisKcr raises 120 to 360
+Lacenaire354 calls 120
+all4as40 calls 120
+*** FLOP *** [Qs Js 6s]
+all4as40 checks
+MathisKcr bets 850 and is all-in
+Lacenaire354 folds
+all4as40 folds
+MathisKcr collected 1960 from pot
+*** SUMMARY ***
+Total pot 1960 | No rake
+Board: [Qs Js 6s]
+Seat 3: MathisKcr (big blind) won 1960
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4449874203587379201-20-1766508846 - Holdem no limit (10/60/120) - 2025/12/23 16:54:06 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 3: MathisKcr (1960)
+Seat 4: Lacenaire354 (2346)
+Seat 6: all4as40 (4694)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 10
+Lacenaire354 posts ante 10
+all4as40 posts ante 10
+MathisKcr posts small blind 60
+Lacenaire354 posts big blind 120
+Dealt to MathisKcr [As 8d]
+*** PRE-FLOP *** 
+all4as40 calls 120
+MathisKcr raises 240 to 360
+Lacenaire354 folds
+all4as40 calls 240
+*** FLOP *** [Kh 4s 9d]
+MathisKcr checks
+all4as40 bets 120
+MathisKcr calls 120
+*** TURN *** [Kh 4s 9d][Ad]
+MathisKcr checks
+all4as40 bets 120
+MathisKcr raises 240 to 360
+all4as40 folds
+MathisKcr collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Board: [Kh 4s 9d Ad]
+Seat 3: MathisKcr (small blind) won 1590
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #4449874203587379201-21-1766508894 - Holdem no limit (16/80/160) - 2025/12/23 16:54:54 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 3: MathisKcr (2700)
+Seat 4: Lacenaire354 (2216)
+Seat 6: all4as40 (4084)
+*** ANTE/BLINDS ***
+Lacenaire354 posts ante 16
+all4as40 posts ante 16
+MathisKcr posts ante 16
+Lacenaire354 posts small blind 80
+all4as40 posts big blind 160
+Dealt to MathisKcr [Th Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 160 to 320
+Lacenaire354 calls 240
+all4as40 calls 160
+*** FLOP *** [Tc Td Ac]
+Lacenaire354 checks
+all4as40 checks
+MathisKcr bets 320
+Lacenaire354 calls 320
+all4as40 folds
+*** TURN *** [Tc Td Ac][6c]
+Lacenaire354 bets 1071
+MathisKcr calls 1071
+*** RIVER *** [Tc Td Ac 6c][4c]
+Lacenaire354 checks
+MathisKcr bets 973 and is all-in
+Lacenaire354 folds
+MathisKcr collected 4763 from pot
+*** SUMMARY ***
+Total pot 4763 | No rake
+Board: [Tc Td Ac 6c 4c]
+Seat 3: MathisKcr (button) won 4763
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #4449874203587379201-22-1766508943 - Holdem no limit (16/80/160) - 2025/12/23 16:55:43 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #4 is the button
+Seat 3: MathisKcr (4763)
+Seat 4: Lacenaire354 (489)
+Seat 6: all4as40 (3748)
+*** ANTE/BLINDS ***
+all4as40 posts ante 16
+MathisKcr posts ante 16
+Lacenaire354 posts ante 16
+all4as40 posts small blind 80
+MathisKcr posts big blind 160
+Dealt to MathisKcr [5s Jh]
+*** PRE-FLOP *** 
+Lacenaire354 raises 313 to 473 and is all-in
+all4as40 calls 393
+MathisKcr calls 313
+*** FLOP *** [6h 7h 3c]
+all4as40 checks
+MathisKcr bets 480
+all4as40 raises 480 to 960
+MathisKcr calls 480
+*** TURN *** [6h 7h 3c][6c]
+all4as40 bets 160
+MathisKcr calls 160
+*** RIVER *** [6h 7h 3c 6c][3h]
+all4as40 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [5s Jh] (Two pairs : 6 and 3)
+Lacenaire354 shows [Ts Js] (Two pairs : 6 and 3)
+all4as40 shows [4c 5h] (Straight 7 high)
+all4as40 collected 3707 from pot
+*** SUMMARY ***
+Total pot 3707 | No rake
+Board: [6h 7h 3c 6c 3h]
+Seat 3: MathisKcr (big blind) showed [5s Jh] and lost with Two pairs : 6 and 3
+Seat 4: Lacenaire354 (button) showed [Ts Js] and lost with Two pairs : 6 and 3
+Seat 6: all4as40 (small blind) showed [4c 5h] and won 3707 with Straight 7 high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 9 - HandId: #4449874203587379201-23-1766508981 - Holdem no limit (20/100/200) - 2025/12/23 16:56:21 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 3: MathisKcr (3154)
+Seat 6: all4as40 (5846)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 20
+all4as40 posts ante 20
+MathisKcr posts small blind 100
+all4as40 posts big blind 200
+Dealt to MathisKcr [5s 8c]
+*** PRE-FLOP *** 
+MathisKcr folds
+all4as40 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 6: all4as40 (big blind) won 340
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 9 - HandId: #4449874203587379201-24-1766508986 - Holdem no limit (20/100/200) - 2025/12/23 16:56:26 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 3: MathisKcr (3034)
+Seat 6: all4as40 (5966)
+*** ANTE/BLINDS ***
+all4as40 posts ante 20
+MathisKcr posts ante 20
+all4as40 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [4d Qc]
+*** PRE-FLOP *** 
+all4as40 calls 100
+MathisKcr checks
+*** FLOP *** [Jd 7d 8c]
+MathisKcr bets 200
+all4as40 calls 200
+*** TURN *** [Jd 7d 8c][9c]
+MathisKcr checks
+all4as40 checks
+*** RIVER *** [Jd 7d 8c 9c][Th]
+MathisKcr bets 200
+all4as40 calls 200
+*** SHOW DOWN ***
+MathisKcr shows [4d Qc] (Straight Queen high)
+all4as40 shows [Qd 6h] (Straight Queen high)
+all4as40 collected 620 from pot
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 1240 | No rake
+Board: [Jd 7d 8c 9c Th]
+Seat 3: MathisKcr (big blind) showed [4d Qc] and won 620 with Straight Queen high
+Seat 6: all4as40 (small blind) (button) showed [Qd 6h] and won 620 with Straight Queen high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 9 - HandId: #4449874203587379201-25-1766509012 - Holdem no limit (20/100/200) - 2025/12/23 16:56:52 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 3: MathisKcr (3034)
+Seat 6: all4as40 (5966)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 20
+all4as40 posts ante 20
+MathisKcr posts small blind 100
+all4as40 posts big blind 200
+Dealt to MathisKcr [4s 3d]
+*** PRE-FLOP *** 
+MathisKcr calls 100
+all4as40 checks
+*** FLOP *** [6c Jc Ts]
+all4as40 checks
+MathisKcr bets 400
+all4as40 calls 400
+*** TURN *** [6c Jc Ts][Ad]
+all4as40 checks
+MathisKcr checks
+*** RIVER *** [6c Jc Ts Ad][2s]
+all4as40 bets 806
+MathisKcr folds
+all4as40 collected 2046 from pot
+*** SUMMARY ***
+Total pot 2046 | No rake
+Board: [6c Jc Ts Ad 2s]
+Seat 6: all4as40 (big blind) won 2046
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 9 - HandId: #4449874203587379201-26-1766509064 - Holdem no limit (20/100/200) - 2025/12/23 16:57:44 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 3: MathisKcr (2414)
+Seat 6: all4as40 (6586)
+*** ANTE/BLINDS ***
+all4as40 posts ante 20
+MathisKcr posts ante 20
+all4as40 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [9s 5h]
+*** PRE-FLOP *** 
+all4as40 raises 200 to 400
+MathisKcr folds
+all4as40 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 6: all4as40 (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 10 - HandId: #4449874203587379201-27-1766509070 - Holdem no limit (25/125/250) - 2025/12/23 16:57:50 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 3: MathisKcr (2194)
+Seat 6: all4as40 (6806)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+all4as40 posts ante 25
+MathisKcr posts small blind 125
+all4as40 posts big blind 250
+Dealt to MathisKcr [Kd 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 250 to 500
+all4as40 calls 250
+*** FLOP *** [7d 2c Th]
+all4as40 checks
+MathisKcr bets 500
+all4as40 calls 500
+*** TURN *** [7d 2c Th][8s]
+all4as40 checks
+MathisKcr bets 750
+all4as40 calls 750
+*** RIVER *** [7d 2c Th 8s][Js]
+all4as40 checks
+MathisKcr bets 419 and is all-in
+all4as40 calls 419
+*** SHOW DOWN ***
+all4as40 shows [5c Td] (One pair : Tens)
+MathisKcr shows [Kd 9s] (Straight Jack high)
+MathisKcr collected 4388 from pot
+*** SUMMARY ***
+Total pot 4388 | No rake
+Board: [7d 2c Th 8s Js]
+Seat 3: MathisKcr (small blind) (button) showed [Kd 9s] and won 4388 with Straight Jack high
+Seat 6: all4as40 (big blind) showed [5c Td] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 10 - HandId: #4449874203587379201-28-1766509105 - Holdem no limit (25/125/250) - 2025/12/23 16:58:25 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 3: MathisKcr (4388)
+Seat 6: all4as40 (4612)
+*** ANTE/BLINDS ***
+all4as40 posts ante 25
+MathisKcr posts ante 25
+all4as40 posts small blind 125
+MathisKcr posts big blind 250
+Dealt to MathisKcr [7d 6c]
+*** PRE-FLOP *** 
+all4as40 calls 125
+MathisKcr raises 250 to 500
+all4as40 calls 250
+*** FLOP *** [Td 9d Tc]
+MathisKcr bets 500
+all4as40 folds
+MathisKcr collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [Td 9d Tc]
+Seat 3: MathisKcr (big blind) won 1550
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 10 - HandId: #4449874203587379201-29-1766509124 - Holdem no limit (25/125/250) - 2025/12/23 16:58:44 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 3: MathisKcr (4913)
+Seat 6: all4as40 (4087)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+all4as40 posts ante 25
+MathisKcr posts small blind 125
+all4as40 posts big blind 250
+Dealt to MathisKcr [Kh Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 250 to 500
+all4as40 calls 250
+*** FLOP *** [5h 7c 6s]
+all4as40 checks
+MathisKcr bets 750
+all4as40 folds
+MathisKcr collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [5h 7c 6s]
+Seat 3: MathisKcr (small blind) (button) won 1800
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 10 - HandId: #4449874203587379201-30-1766509141 - Holdem no limit (25/125/250) - 2025/12/23 16:59:01 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 3: MathisKcr (5438)
+Seat 6: all4as40 (3562)
+*** ANTE/BLINDS ***
+all4as40 posts ante 25
+MathisKcr posts ante 25
+all4as40 posts small blind 125
+MathisKcr posts big blind 250
+Dealt to MathisKcr [7h 8d]
+*** PRE-FLOP *** 
+all4as40 calls 125
+MathisKcr checks
+*** FLOP *** [Qh 5h Ks]
+MathisKcr checks
+all4as40 checks
+*** TURN *** [Qh 5h Ks][Jc]
+MathisKcr checks
+all4as40 checks
+*** RIVER *** [Qh 5h Ks Jc][3h]
+MathisKcr bets 500
+all4as40 calls 500
+*** SHOW DOWN ***
+MathisKcr shows [7h 8d] (High card : King)
+all4as40 shows [3c Kc] (Two pairs : Kings and 3)
+all4as40 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [Qh 5h Ks Jc 3h]
+Seat 3: MathisKcr (big blind) showed [7h 8d] and lost with High card : King
+Seat 6: all4as40 (small blind) (button) showed [3c Kc] and won 1550 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 10 - HandId: #4449874203587379201-31-1766509157 - Holdem no limit (25/125/250) - 2025/12/23 16:59:17 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 3: MathisKcr (4663)
+Seat 6: all4as40 (4337)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+all4as40 posts ante 25
+MathisKcr posts small blind 125
+all4as40 posts big blind 250
+Dealt to MathisKcr [3s Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 250 to 500
+all4as40 raises 250 to 750
+MathisKcr calls 250
+*** FLOP *** [7h Kd Td]
+all4as40 bets 250
+MathisKcr raises 3638 to 3888 and is all-in
+all4as40 calls 3312 and is all-in
+*** TURN *** [7h Kd Td][6s]
+*** RIVER *** [7h Kd Td 6s][7d]
+*** SHOW DOWN ***
+MathisKcr shows [3s Ks] (Two pairs : Kings and 7)
+all4as40 shows [Kh Qc] (Two pairs : Kings and 7)
+all4as40 collected 8674 from main pot
+MathisKcr collected 326 from side pot 1
+*** SUMMARY ***
+Total pot 9000 | No rake
+Board: [7h Kd Td 6s 7d]
+Seat 3: MathisKcr (small blind) (button) showed [3s Ks] and won 326 with Two pairs : Kings and 7
+Seat 6: all4as40 (big blind) showed [Kh Qc] and won 8674 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 11 - HandId: #4449874203587379201-32-1766509173 - Holdem no limit (35/150/300) - 2025/12/23 16:59:33 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 3: MathisKcr (326)
+Seat 6: all4as40 (8674)
+*** ANTE/BLINDS ***
+all4as40 posts ante 35
+MathisKcr posts ante 35
+all4as40 posts small blind 150
+MathisKcr posts big blind 291 and is all-in
+Dealt to MathisKcr [3s Ac]
+*** PRE-FLOP *** 
+all4as40 calls 150
+*** FLOP *** [6d Td 5c]
+*** TURN *** [6d Td 5c][5d]
+*** RIVER *** [6d Td 5c 5d][6s]
+*** SHOW DOWN ***
+MathisKcr shows [3s Ac] (Two pairs : 6 and 5)
+all4as40 shows [8s Jc] (Two pairs : 6 and 5)
+all4as40 collected 9 from side pot 1
+MathisKcr collected 652 from main pot
+*** SUMMARY ***
+Total pot 661 | No rake
+Board: [6d Td 5c 5d 6s]
+Seat 3: MathisKcr (big blind) showed [3s Ac] and won 652 with Two pairs : 6 and 5
+Seat 6: all4as40 (small blind) (button) showed [8s Jc] and won 9 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 11 - HandId: #4449874203587379201-33-1766509184 - Holdem no limit (35/150/300) - 2025/12/23 16:59:44 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 3: MathisKcr (652)
+Seat 6: all4as40 (8348)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 35
+all4as40 posts ante 35
+MathisKcr posts small blind 150
+all4as40 posts big blind 300
+Dealt to MathisKcr [Js 4c]
+*** PRE-FLOP *** 
+MathisKcr raises 317 to 617 and is all-in
+all4as40 calls 317
+*** FLOP *** [6s 2s 4d]
+*** TURN *** [6s 2s 4d][5c]
+*** RIVER *** [6s 2s 4d 5c][2d]
+*** SHOW DOWN ***
+all4as40 shows [Qc Ts] (One pair : 2)
+MathisKcr shows [Js 4c] (Two pairs : 4 and 2)
+MathisKcr collected 1304 from pot
+*** SUMMARY ***
+Total pot 1304 | No rake
+Board: [6s 2s 4d 5c 2d]
+Seat 3: MathisKcr (small blind) (button) showed [Js 4c] and won 1304 with Two pairs : 4 and 2
+Seat 6: all4as40 (big blind) showed [Qc Ts] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 11 - HandId: #4449874203587379201-34-1766509197 - Holdem no limit (35/150/300) - 2025/12/23 16:59:57 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 3: MathisKcr (1304)
+Seat 6: all4as40 (7696)
+*** ANTE/BLINDS ***
+all4as40 posts ante 35
+MathisKcr posts ante 35
+all4as40 posts small blind 150
+MathisKcr posts big blind 300
+Dealt to MathisKcr [Jh Ks]
+*** PRE-FLOP *** 
+all4as40 raises 300 to 600
+MathisKcr raises 669 to 1269 and is all-in
+all4as40 raises 669 to 1938
+*** FLOP *** [6s Js 8d]
+*** TURN *** [6s Js 8d][5d]
+*** RIVER *** [6s Js 8d 5d][2s]
+*** SHOW DOWN ***
+MathisKcr shows [Jh Ks] (One pair : Jacks)
+all4as40 shows [Qs 8c] (One pair : 8)
+all4as40 collected 669 from side pot 1
+MathisKcr collected 2608 from main pot
+*** SUMMARY ***
+Total pot 3277 | No rake
+Board: [6s Js 8d 5d 2s]
+Seat 3: MathisKcr (big blind) showed [Jh Ks] and won 2608 with One pair : Jacks
+Seat 6: all4as40 (small blind) (button) showed [Qs 8c] and won 669 with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 11 - HandId: #4449874203587379201-35-1766509211 - Holdem no limit (35/150/300) - 2025/12/23 17:00:11 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 3: MathisKcr (2608)
+Seat 6: all4as40 (6392)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 35
+all4as40 posts ante 35
+MathisKcr posts small blind 150
+all4as40 posts big blind 300
+Dealt to MathisKcr [7c 9h]
+*** PRE-FLOP *** 
+MathisKcr calls 150
+all4as40 checks
+*** FLOP *** [4h 8d Ts]
+all4as40 checks
+MathisKcr bets 450
+all4as40 calls 450
+*** TURN *** [4h 8d Ts][2d]
+all4as40 checks
+MathisKcr bets 600
+all4as40 calls 600
+*** RIVER *** [4h 8d Ts 2d][2c]
+all4as40 checks
+MathisKcr checks
+*** SHOW DOWN ***
+all4as40 shows [6c 5c] (One pair : 2)
+MathisKcr shows [7c 9h] (One pair : 2)
+MathisKcr collected 2770 from pot
+*** SUMMARY ***
+Total pot 2770 | No rake
+Board: [4h 8d Ts 2d 2c]
+Seat 3: MathisKcr (small blind) (button) showed [7c 9h] and won 2770 with One pair : 2
+Seat 6: all4as40 (big blind) showed [6c 5c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 11 - HandId: #4449874203587379201-36-1766509234 - Holdem no limit (35/150/300) - 2025/12/23 17:00:34 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 3: MathisKcr (3993)
+Seat 6: all4as40 (5007)
+*** ANTE/BLINDS ***
+all4as40 posts ante 35
+MathisKcr posts ante 35
+all4as40 posts small blind 150
+MathisKcr posts big blind 300
+Dealt to MathisKcr [6h Qc]
+*** PRE-FLOP *** 
+all4as40 raises 300 to 600
+MathisKcr calls 300
+*** FLOP *** [8c Kc 9c]
+MathisKcr checks
+all4as40 checks
+*** TURN *** [8c Kc 9c][7h]
+MathisKcr bets 600
+all4as40 calls 600
+*** RIVER *** [8c Kc 9c 7h][2s]
+MathisKcr checks
+all4as40 checks
+*** SHOW DOWN ***
+MathisKcr shows [6h Qc] (High card : King)
+all4as40 shows [As Qh] (High card : Ace)
+all4as40 collected 2470 from pot
+*** SUMMARY ***
+Total pot 2470 | No rake
+Board: [8c Kc 9c 7h 2s]
+Seat 3: MathisKcr (big blind) showed [6h Qc] and lost with High card : King
+Seat 6: all4as40 (small blind) (button) showed [As Qh] and won 2470 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 12 - HandId: #4449874203587379201-37-1766509251 - Holdem no limit (40/200/400) - 2025/12/23 17:00:51 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #3 is the button
+Seat 3: MathisKcr (2758)
+Seat 6: all4as40 (6242)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 40
+all4as40 posts ante 40
+MathisKcr posts small blind 200
+all4as40 posts big blind 400
+Dealt to MathisKcr [3h 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+all4as40 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 6: all4as40 (big blind) won 680
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 12 - HandId: #4449874203587379201-38-1766509257 - Holdem no limit (40/200/400) - 2025/12/23 17:00:57 UTC
+Table: 'Starting Block WiPT(1036067075)#0' 6-max (real money) Seat #6 is the button
+Seat 3: MathisKcr (2518)
+Seat 6: all4as40 (6482)
+*** ANTE/BLINDS ***
+all4as40 posts ante 40
+MathisKcr posts ante 40
+all4as40 posts small blind 200
+MathisKcr posts big blind 400
+Dealt to MathisKcr [6h 8d]
+*** PRE-FLOP *** 
+all4as40 calls 200
+MathisKcr checks
+*** FLOP *** [3c 8s 3h]
+MathisKcr bets 2078 and is all-in
+all4as40 calls 2078
+*** TURN *** [3c 8s 3h][Th]
+*** RIVER *** [3c 8s 3h Th][3s]
+*** SHOW DOWN ***
+MathisKcr shows [6h 8d] (Full of 3 and 8)
+all4as40 shows [Ts 8h] (Full of 3 and Tens)
+all4as40 collected 5036 from pot
+*** SUMMARY ***
+Total pot 5036 | No rake
+Board: [3c 8s 3h Th 3s]
+Seat 3: MathisKcr (big blind) showed [6h 8d] and lost with Full of 3 and 8
+Seat 6: all4as40 (small blind) (button) showed [Ts 8h] and won 5036 with Full of 3 and Tens
+
+

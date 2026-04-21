@@ -1,0 +1,211 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606265443282321409-1-1772566907 - Holdem no limit (10/20) - 2026/03/03 19:41:47 UTC
+Table: 'Expresso Nitro(1072479748)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BackToEx (300)
+Seat 2: Berb (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Berb posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 5s]
+*** PRE-FLOP *** 
+BackToEx raises 280 to 300 and is all-in
+Berb calls 290 and is all-in
+MathisKcr folds
+*** FLOP *** [Ks Jd 7c]
+*** TURN *** [Ks Jd 7c][As]
+*** RIVER *** [Ks Jd 7c As][Qc]
+*** SHOW DOWN ***
+BackToEx shows [2s 2d] (One pair : 2)
+Berb shows [6h Ac] (One pair : Aces)
+Berb collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ks Jd 7c As Qc]
+Seat 1: BackToEx (button) showed [2s 2d] and lost with One pair : 2
+Seat 2: Berb (small blind) showed [6h Ac] and won 620 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606265443282321409-2-1772566922 - Holdem no limit (10/20) - 2026/03/03 19:42:02 UTC
+Table: 'Expresso Nitro(1072479748)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Berb (620)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Berb posts big blind 20
+Dealt to MathisKcr [5d 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Berb collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Berb (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606265443282321409-3-1772566927 - Holdem no limit (10/20) - 2026/03/03 19:42:07 UTC
+Table: 'Expresso Nitro(1072479748)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Berb (630)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Berb posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd 8d]
+*** PRE-FLOP *** 
+Berb raises 610 to 630 and is all-in
+MathisKcr calls 250 and is all-in
+*** FLOP *** [3s 6d Th]
+*** TURN *** [3s 6d Th][Kd]
+*** RIVER *** [3s 6d Th Kd][9d]
+*** SHOW DOWN ***
+Berb shows [Qd 8c] (High card : King)
+MathisKcr shows [Jd 8d] (Flush King high)
+MathisKcr collected 540 from main pot
+Berb collected 360 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3s 6d Th Kd 9d]
+Seat 2: Berb (small blind) (button) showed [Qd 8c] and won 360 with High card : King
+Seat 3: MathisKcr (big blind) showed [Jd 8d] and won 540 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606265443282321409-4-1772566939 - Holdem no limit (10/20) - 2026/03/03 19:42:19 UTC
+Table: 'Expresso Nitro(1072479748)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Berb (360)
+Seat 3: MathisKcr (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Berb posts big blind 20
+Dealt to MathisKcr [9h 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Berb collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Berb (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606265443282321409-5-1772566944 - Holdem no limit (10/20) - 2026/03/03 19:42:24 UTC
+Table: 'Expresso Nitro(1072479748)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Berb (370)
+Seat 3: MathisKcr (530)
+*** ANTE/BLINDS ***
+Berb posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7d 3h]
+*** PRE-FLOP *** 
+Berb raises 350 to 370 and is all-in
+MathisKcr folds
+Berb collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 2: Berb (small blind) (button) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606265443282321409-6-1772566948 - Holdem no limit (10/20) - 2026/03/03 19:42:28 UTC
+Table: 'Expresso Nitro(1072479748)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Berb (390)
+Seat 3: MathisKcr (510)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Berb posts big blind 20
+Dealt to MathisKcr [6d 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Berb collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Berb (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606265443282321409-7-1772566953 - Holdem no limit (10/20) - 2026/03/03 19:42:33 UTC
+Table: 'Expresso Nitro(1072479748)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Berb (400)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Berb posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c 6d]
+*** PRE-FLOP *** 
+Berb raises 380 to 400 and is all-in
+MathisKcr folds
+Berb collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: Berb (small blind) (button) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606265443282321409-8-1772566957 - Holdem no limit (10/20) - 2026/03/03 19:42:37 UTC
+Table: 'Expresso Nitro(1072479748)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Berb (420)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Berb posts big blind 20
+Dealt to MathisKcr [7c Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 460 to 480 and is all-in
+Berb folds
+MathisKcr collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 3: MathisKcr (small blind) (button) won 500
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606265443282321409-9-1772566973 - Holdem no limit (15/30) - 2026/03/03 19:42:53 UTC
+Table: 'Expresso Nitro(1072479748)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Berb (400)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Berb posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jc 4c]
+*** PRE-FLOP *** 
+Berb raises 370 to 400 and is all-in
+MathisKcr folds
+Berb collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 2: Berb (small blind) (button) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606265443282321409-10-1772566981 - Holdem no limit (15/30) - 2026/03/03 19:43:01 UTC
+Table: 'Expresso Nitro(1072479748)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Berb (430)
+Seat 3: MathisKcr (470)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Berb posts big blind 30
+Dealt to MathisKcr [8s Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 440 to 470 and is all-in
+Berb folds
+MathisKcr collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 3: MathisKcr (small blind) (button) won 500
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606265443282321409-11-1772566992 - Holdem no limit (15/30) - 2026/03/03 19:43:12 UTC
+Table: 'Expresso Nitro(1072479748)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Berb (400)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Berb posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5s 5c]
+*** PRE-FLOP *** 
+Berb raises 370 to 400 and is all-in
+MathisKcr raises 100 to 500 and is all-in
+*** FLOP *** [Td 7c 7s]
+*** TURN *** [Td 7c 7s][5h]
+*** RIVER *** [Td 7c 7s 5h][8s]
+*** SHOW DOWN ***
+Berb shows [Kh Js] (One pair : 7)
+MathisKcr shows [5s 5c] (Full of 5 and 7)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td 7c 7s 5h 8s]
+Seat 2: Berb (small blind) (button) showed [Kh Js] and lost with One pair : 7
+Seat 3: MathisKcr (big blind) showed [5s 5c] and won 900 with Full of 5 and 7
+
+

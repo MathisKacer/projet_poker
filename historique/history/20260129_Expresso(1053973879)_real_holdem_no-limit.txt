@@ -1,0 +1,229 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4526783341143261185-1-1769691707 - Holdem no limit (10/20) - 2026/01/29 13:01:47 UTC
+Table: 'Expresso(1053973879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bambino49000 (500)
+Seat 2: MathisKcr (500)
+Seat 3: charles_gdlr (500)
+*** ANTE/BLINDS ***
+charles_gdlr posts small blind 10
+Bambino49000 posts big blind 20
+Dealt to MathisKcr [Qc Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+charles_gdlr calls 50
+Bambino49000 folds
+*** FLOP *** [7d 4c Jh]
+charles_gdlr checks
+MathisKcr bets 70
+charles_gdlr calls 70
+*** TURN *** [7d 4c Jh][4h]
+charles_gdlr checks
+MathisKcr bets 100
+charles_gdlr folds
+MathisKcr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [7d 4c Jh 4h]
+Seat 2: MathisKcr (button) won 380
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4526783341143261185-2-1769691754 - Holdem no limit (10/20) - 2026/01/29 13:02:34 UTC
+Table: 'Expresso(1053973879)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bambino49000 (480)
+Seat 2: MathisKcr (650)
+Seat 3: charles_gdlr (370)
+*** ANTE/BLINDS ***
+Bambino49000 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ts 4h]
+*** PRE-FLOP *** 
+charles_gdlr calls 20
+Bambino49000 calls 10
+MathisKcr raises 40 to 60
+charles_gdlr calls 40
+Bambino49000 calls 40
+*** FLOP *** [5h 3d 3s]
+Bambino49000 checks
+MathisKcr bets 40
+charles_gdlr calls 40
+Bambino49000 calls 40
+*** TURN *** [5h 3d 3s][7h]
+Bambino49000 checks
+MathisKcr bets 40
+charles_gdlr raises 40 to 80
+Bambino49000 calls 80
+MathisKcr calls 40
+*** RIVER *** [5h 3d 3s 7h][Ad]
+Bambino49000 bets 20
+MathisKcr folds
+charles_gdlr raises 20 to 40
+Bambino49000 calls 20
+*** SHOW DOWN ***
+charles_gdlr shows [7d 5d] (Two pairs : 7 and 5)
+Bambino49000 shows [9h Ah] (Two pairs : Aces and 3)
+Bambino49000 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [5h 3d 3s 7h Ad]
+Seat 1: Bambino49000 (small blind) showed [9h Ah] and won 620 with Two pairs : Aces and 3
+Seat 3: charles_gdlr (button) showed [7d 5d] and lost with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4526783341143261185-3-1769691820 - Holdem no limit (15/30) - 2026/01/29 13:03:40 UTC
+Table: 'Expresso(1053973879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bambino49000 (880)
+Seat 2: MathisKcr (470)
+Seat 3: charles_gdlr (150)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+charles_gdlr posts big blind 30
+Dealt to MathisKcr [Kc 4h]
+*** PRE-FLOP *** 
+Bambino49000 calls 30
+MathisKcr raises 30 to 60
+charles_gdlr calls 30
+Bambino49000 calls 30
+*** FLOP *** [Kh Qs 4d]
+MathisKcr bets 60
+charles_gdlr calls 60
+Bambino49000 folds
+*** TURN *** [Kh Qs 4d][3h]
+MathisKcr bets 30
+charles_gdlr calls 30 and is all-in
+*** RIVER *** [Kh Qs 4d 3h][9d]
+*** SHOW DOWN ***
+charles_gdlr shows [7h 6d] (High card : King)
+MathisKcr shows [Kc 4h] (Two pairs : Kings and 4)
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kh Qs 4d 3h 9d]
+Seat 2: MathisKcr (small blind) showed [Kc 4h] and won 360 with Two pairs : Kings and 4
+Seat 3: charles_gdlr (big blind) showed [7h 6d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4526783341143261185-4-1769691868 - Holdem no limit (15/30) - 2026/01/29 13:04:28 UTC
+Table: 'Expresso(1053973879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bambino49000 (820)
+Seat 2: MathisKcr (680)
+*** ANTE/BLINDS ***
+Bambino49000 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2d 8c]
+*** PRE-FLOP *** 
+Bambino49000 calls 15
+MathisKcr checks
+*** FLOP *** [Ac Ts 6s]
+MathisKcr checks
+Bambino49000 checks
+*** TURN *** [Ac Ts 6s][4s]
+MathisKcr checks
+Bambino49000 checks
+*** RIVER *** [Ac Ts 6s 4s][2s]
+MathisKcr bets 60
+Bambino49000 raises 60 to 120
+MathisKcr folds
+Bambino49000 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Ac Ts 6s 4s 2s]
+Seat 1: Bambino49000 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4526783341143261185-5-1769691895 - Holdem no limit (20/40) - 2026/01/29 13:04:55 UTC
+Table: 'Expresso(1053973879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bambino49000 (910)
+Seat 2: MathisKcr (590)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Bambino49000 posts big blind 40
+Dealt to MathisKcr [Kd 3h]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Bambino49000 calls 40
+*** FLOP *** [Qc 7s 2s]
+Bambino49000 checks
+MathisKcr checks
+*** TURN *** [Qc 7s 2s][As]
+Bambino49000 bets 56
+MathisKcr folds
+Bambino49000 collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [Qc 7s 2s As]
+Seat 1: Bambino49000 (big blind) won 216
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4526783341143261185-6-1769691915 - Holdem no limit (20/40) - 2026/01/29 13:05:15 UTC
+Table: 'Expresso(1053973879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bambino49000 (990)
+Seat 2: MathisKcr (510)
+*** ANTE/BLINDS ***
+Bambino49000 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Th Ts]
+*** PRE-FLOP *** 
+Bambino49000 calls 20
+MathisKcr raises 40 to 80
+Bambino49000 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4526783341143261185-7-1769691927 - Holdem no limit (20/40) - 2026/01/29 13:05:27 UTC
+Table: 'Expresso(1053973879)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bambino49000 (950)
+Seat 2: MathisKcr (550)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Bambino49000 posts big blind 40
+Dealt to MathisKcr [5s 7h]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Bambino49000 checks
+*** FLOP *** [Jc Qs 6c]
+Bambino49000 checks
+MathisKcr bets 80
+Bambino49000 folds
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Jc Qs 6c]
+Seat 2: MathisKcr (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4526783341143261185-8-1769691949 - Holdem no limit (20/40) - 2026/01/29 13:05:49 UTC
+Table: 'Expresso(1053973879)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bambino49000 (910)
+Seat 2: MathisKcr (590)
+*** ANTE/BLINDS ***
+Bambino49000 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [As Ah]
+*** PRE-FLOP *** 
+Bambino49000 calls 20
+MathisKcr raises 40 to 80
+Bambino49000 calls 40
+*** FLOP *** [4s Td Tc]
+MathisKcr checks
+Bambino49000 bets 56
+MathisKcr raises 56 to 112
+Bambino49000 calls 56
+*** TURN *** [4s Td Tc][Kd]
+MathisKcr bets 192
+Bambino49000 calls 192
+*** RIVER *** [4s Td Tc Kd][3s]
+MathisKcr bets 206 and is all-in
+Bambino49000 calls 206
+*** SHOW DOWN ***
+MathisKcr shows [As Ah] (Two pairs : Aces and Tens)
+Bambino49000 shows [Th 5c] (Trips of Tens)
+Bambino49000 collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Board: [4s Td Tc Kd 3s]
+Seat 1: Bambino49000 (small blind) (button) showed [Th 5c] and won 1180 with Trips of Tens
+Seat 2: MathisKcr (big blind) showed [As Ah] and lost with Two pairs : Aces and Tens
+
+

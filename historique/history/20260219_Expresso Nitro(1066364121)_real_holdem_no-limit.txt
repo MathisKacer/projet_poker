@@ -1,0 +1,242 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4579999025322786817-1-1771495434 - Holdem no limit (10/20) - 2026/02/19 10:03:54 UTC
+Table: 'Expresso Nitro(1066364121)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PradRiton (300)
+Seat 2: MathisKcr (300)
+Seat 3: sheitan.78 (300)
+*** ANTE/BLINDS ***
+PradRiton posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8s 2s]
+*** PRE-FLOP *** 
+sheitan.78 raises 20 to 40
+PradRiton folds
+MathisKcr folds
+sheitan.78 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: sheitan.78 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4579999025322786817-2-1771495443 - Holdem no limit (10/20) - 2026/02/19 10:04:03 UTC
+Table: 'Expresso Nitro(1066364121)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PradRiton (290)
+Seat 2: MathisKcr (280)
+Seat 3: sheitan.78 (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+sheitan.78 posts big blind 20
+Dealt to MathisKcr [Ts Jd]
+*** PRE-FLOP *** 
+PradRiton folds
+MathisKcr raises 20 to 40
+sheitan.78 calls 20
+*** FLOP *** [Ks 5d 8h]
+MathisKcr checks
+sheitan.78 bets 80
+MathisKcr folds
+sheitan.78 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Ks 5d 8h]
+Seat 3: sheitan.78 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4579999025322786817-3-1771495465 - Holdem no limit (10/20) - 2026/02/19 10:04:25 UTC
+Table: 'Expresso Nitro(1066364121)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PradRiton (290)
+Seat 2: MathisKcr (240)
+Seat 3: sheitan.78 (370)
+*** ANTE/BLINDS ***
+sheitan.78 posts small blind 10
+PradRiton posts big blind 20
+Dealt to MathisKcr [9d 9h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+sheitan.78 raises 20 to 60
+PradRiton folds
+MathisKcr raises 180 to 240 and is all-in
+sheitan.78 calls 180
+*** FLOP *** [As Jh 9c]
+*** TURN *** [As Jh 9c][Qh]
+*** RIVER *** [As Jh 9c Qh][7c]
+*** SHOW DOWN ***
+sheitan.78 shows [Ad 3h] (One pair : Aces)
+MathisKcr shows [9d 9h] (Trips of 9)
+MathisKcr collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [As Jh 9c Qh 7c]
+Seat 2: MathisKcr (button) showed [9d 9h] and won 500 with Trips of 9
+Seat 3: sheitan.78 (small blind) showed [Ad 3h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4579999025322786817-4-1771495490 - Holdem no limit (10/20) - 2026/02/19 10:04:50 UTC
+Table: 'Expresso Nitro(1066364121)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PradRiton (270)
+Seat 2: MathisKcr (500)
+Seat 3: sheitan.78 (130)
+*** ANTE/BLINDS ***
+PradRiton posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7s 5d]
+*** PRE-FLOP *** 
+sheitan.78 raises 20 to 40
+PradRiton folds
+MathisKcr folds
+sheitan.78 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: sheitan.78 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4579999025322786817-5-1771495509 - Holdem no limit (15/30) - 2026/02/19 10:05:09 UTC
+Table: 'Expresso Nitro(1066364121)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PradRiton (260)
+Seat 2: MathisKcr (480)
+Seat 3: sheitan.78 (160)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+sheitan.78 posts big blind 30
+Dealt to MathisKcr [Ah 8h]
+*** PRE-FLOP *** 
+PradRiton raises 30 to 60
+MathisKcr raises 30 to 90
+sheitan.78 raises 70 to 160 and is all-in
+PradRiton folds
+MathisKcr calls 70
+*** FLOP *** [Tc 2h Td]
+*** TURN *** [Tc 2h Td][5s]
+*** RIVER *** [Tc 2h Td 5s][3d]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 8h] (One pair : Tens)
+sheitan.78 shows [Kc 5c] (Two pairs : Tens and 5)
+sheitan.78 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Tc 2h Td 5s 3d]
+Seat 2: MathisKcr (small blind) showed [Ah 8h] and lost with One pair : Tens
+Seat 3: sheitan.78 (big blind) showed [Kc 5c] and won 380 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4579999025322786817-6-1771495528 - Holdem no limit (15/30) - 2026/02/19 10:05:28 UTC
+Table: 'Expresso Nitro(1066364121)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PradRiton (200)
+Seat 2: MathisKcr (320)
+Seat 3: sheitan.78 (380)
+*** ANTE/BLINDS ***
+sheitan.78 posts small blind 15
+PradRiton posts big blind 30
+Dealt to MathisKcr [5s Td]
+*** PRE-FLOP *** 
+MathisKcr folds
+sheitan.78 calls 15
+PradRiton raises 170 to 200 and is all-in
+sheitan.78 folds
+PradRiton collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Seat 1: PradRiton (big blind) won 230
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4579999025322786817-7-1771495536 - Holdem no limit (15/30) - 2026/02/19 10:05:36 UTC
+Table: 'Expresso Nitro(1066364121)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PradRiton (230)
+Seat 2: MathisKcr (320)
+Seat 3: sheitan.78 (350)
+*** ANTE/BLINDS ***
+PradRiton posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7c 4s]
+*** PRE-FLOP *** 
+sheitan.78 calls 30
+PradRiton folds
+MathisKcr checks
+*** FLOP *** [7s 3d 3c]
+MathisKcr bets 38
+sheitan.78 calls 38
+*** TURN *** [7s 3d 3c][7d]
+MathisKcr bets 53
+sheitan.78 calls 53
+*** RIVER *** [7s 3d 3c 7d][Ac]
+MathisKcr bets 129
+sheitan.78 raises 100 to 229 and is all-in
+MathisKcr calls 70 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [7c 4s] (Full of 7 and 3)
+sheitan.78 shows [4h 7h] (Full of 7 and 3)
+sheitan.78 collected 358 from side pot 1
+MathisKcr collected 327 from main pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Board: [7s 3d 3c 7d Ac]
+Seat 2: MathisKcr (big blind) showed [7c 4s] and won 327 with Full of 7 and 3
+Seat 3: sheitan.78 (button) showed [4h 7h] and won 358 with Full of 7 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4579999025322786817-8-1771495574 - Holdem no limit (20/40) - 2026/02/19 10:06:14 UTC
+Table: 'Expresso Nitro(1066364121)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PradRiton (215)
+Seat 2: MathisKcr (327)
+Seat 3: sheitan.78 (358)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+sheitan.78 posts big blind 40
+Dealt to MathisKcr [2s 8h]
+*** PRE-FLOP *** 
+PradRiton folds
+MathisKcr raises 40 to 80
+sheitan.78 calls 40
+*** FLOP *** [9c 6s 4c]
+MathisKcr bets 80
+sheitan.78 calls 80
+*** TURN *** [9c 6s 4c][7s]
+MathisKcr bets 100
+sheitan.78 calls 100
+*** RIVER *** [9c 6s 4c 7s][Qh]
+MathisKcr checks
+sheitan.78 checks
+*** SHOW DOWN ***
+MathisKcr shows [2s 8h] (High card : Queen)
+sheitan.78 shows [9d 8c] (One pair : 9)
+sheitan.78 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [9c 6s 4c 7s Qh]
+Seat 2: MathisKcr (small blind) showed [2s 8h] and lost with High card : Queen
+Seat 3: sheitan.78 (big blind) showed [9d 8c] and won 520 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4579999025322786817-9-1771495597 - Holdem no limit (20/40) - 2026/02/19 10:06:37 UTC
+Table: 'Expresso Nitro(1066364121)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PradRiton (215)
+Seat 2: MathisKcr (67)
+Seat 3: sheitan.78 (618)
+*** ANTE/BLINDS ***
+sheitan.78 posts small blind 20
+PradRiton posts big blind 40
+Dealt to MathisKcr [Qc 4d]
+*** PRE-FLOP *** 
+MathisKcr raises 27 to 67 and is all-in
+sheitan.78 calls 47
+PradRiton calls 27
+*** FLOP *** [Ts 2h Ah]
+sheitan.78 checks
+PradRiton checks
+*** TURN *** [Ts 2h Ah][7h]
+sheitan.78 checks
+PradRiton bets 148 and is all-in
+sheitan.78 calls 148
+*** RIVER *** [Ts 2h Ah 7h][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [Qc 4d] (High card : Ace)
+sheitan.78 shows [Th 8c] (One pair : Tens)
+PradRiton shows [Kd Jd] (One pair : Kings)
+PradRiton collected 497 from pot
+*** SUMMARY ***
+Total pot 497 | No rake
+Board: [Ts 2h Ah 7h Kc]
+Seat 1: PradRiton (big blind) showed [Kd Jd] and won 497 with One pair : Kings
+Seat 2: MathisKcr (button) showed [Qc 4d] and lost with High card : Ace
+Seat 3: sheitan.78 (small blind) showed [Th 8c] and lost with One pair : Tens
+
+

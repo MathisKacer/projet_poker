@@ -1,0 +1,188 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4579982257770463233-1-1771494727 - Holdem no limit (10/20) - 2026/02/19 09:52:07 UTC
+Table: 'Expresso Nitro(1066360217)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: toph6275 (300)
+Seat 3: AAnunnAKi (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+toph6275 posts big blind 20
+Dealt to MathisKcr [Jh Ts]
+*** PRE-FLOP *** 
+AAnunnAKi raises 280 to 300 and is all-in
+MathisKcr folds
+toph6275 folds
+AAnunnAKi collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: AAnunnAKi (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4579982257770463233-2-1771494736 - Holdem no limit (10/20) - 2026/02/19 09:52:16 UTC
+Table: 'Expresso Nitro(1066360217)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: toph6275 (280)
+Seat 3: AAnunnAKi (330)
+*** ANTE/BLINDS ***
+toph6275 posts small blind 10
+AAnunnAKi posts big blind 20
+Dealt to MathisKcr [4d Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 50
+toph6275 calls 40
+AAnunnAKi folds
+*** FLOP *** [Jc Th 7h]
+toph6275 checks
+MathisKcr checks
+*** TURN *** [Jc Th 7h][Tc]
+toph6275 bets 20
+MathisKcr folds
+toph6275 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Jc Th 7h Tc]
+Seat 2: toph6275 (small blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4579982257770463233-3-1771494766 - Holdem no limit (10/20) - 2026/02/19 09:52:46 UTC
+Table: 'Expresso Nitro(1066360217)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (240)
+Seat 2: toph6275 (350)
+Seat 3: AAnunnAKi (310)
+*** ANTE/BLINDS ***
+AAnunnAKi posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ks 3s]
+*** PRE-FLOP *** 
+toph6275 calls 20
+AAnunnAKi raises 20 to 40
+MathisKcr calls 20
+toph6275 raises 310 to 350 and is all-in
+AAnunnAKi calls 270 and is all-in
+MathisKcr folds
+*** FLOP *** [6s Ad Jd]
+*** TURN *** [6s Ad Jd][9c]
+*** RIVER *** [6s Ad Jd 9c][5s]
+*** SHOW DOWN ***
+toph6275 shows [Kd Kh] (One pair : Kings)
+AAnunnAKi shows [As Ac] (Trips of Aces)
+AAnunnAKi collected 660 from main pot
+toph6275 collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [6s Ad Jd 9c 5s]
+Seat 2: toph6275 (button) showed [Kd Kh] and won 40 with One pair : Kings
+Seat 3: AAnunnAKi (small blind) showed [As Ac] and won 660 with Trips of Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4579982257770463233-4-1771494791 - Holdem no limit (15/30) - 2026/02/19 09:53:11 UTC
+Table: 'Expresso Nitro(1066360217)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (200)
+Seat 2: toph6275 (40)
+Seat 3: AAnunnAKi (660)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+toph6275 posts big blind 30
+Dealt to MathisKcr [3d 7c]
+*** PRE-FLOP *** 
+AAnunnAKi raises 630 to 660 and is all-in
+MathisKcr folds
+toph6275 calls 10 and is all-in
+*** FLOP *** [9h Kc Js]
+*** TURN *** [9h Kc Js][2s]
+*** RIVER *** [9h Kc Js 2s][9c]
+*** SHOW DOWN ***
+toph6275 shows [Th Qs] (Straight King high)
+AAnunnAKi shows [Jd Jh] (Full of Jacks and 9)
+AAnunnAKi collected 715 from pot
+*** SUMMARY ***
+Total pot 715 | No rake
+Board: [9h Kc Js 2s 9c]
+Seat 2: toph6275 (big blind) showed [Th Qs] and lost with Straight King high
+Seat 3: AAnunnAKi (button) showed [Jd Jh] and won 715 with Full of Jacks and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4579982257770463233-5-1771494816 - Holdem no limit (15/30) - 2026/02/19 09:53:36 UTC
+Table: 'Expresso Nitro(1066360217)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (185)
+Seat 3: AAnunnAKi (715)
+*** ANTE/BLINDS ***
+AAnunnAKi posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ts Qd]
+*** PRE-FLOP *** 
+AAnunnAKi raises 685 to 715 and is all-in
+MathisKcr calls 155 and is all-in
+*** FLOP *** [Tc 8s 9s]
+*** TURN *** [Tc 8s 9s][Jh]
+*** RIVER *** [Tc 8s 9s Jh][3c]
+*** SHOW DOWN ***
+MathisKcr shows [Ts Qd] (Straight Queen high)
+AAnunnAKi shows [6s Qh] (Straight Queen high)
+AAnunnAKi collected 715 from side pot 1
+MathisKcr collected 185 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 8s 9s Jh 3c]
+Seat 1: MathisKcr (big blind) showed [Ts Qd] and won 185 with Straight Queen high
+Seat 3: AAnunnAKi (small blind) (button) showed [6s Qh] and won 715 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4579982257770463233-6-1771494828 - Holdem no limit (15/30) - 2026/02/19 09:53:48 UTC
+Table: 'Expresso Nitro(1066360217)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (185)
+Seat 3: AAnunnAKi (715)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+AAnunnAKi posts big blind 30
+Dealt to MathisKcr [7d 8d]
+*** PRE-FLOP *** 
+MathisKcr raises 155 to 185 and is all-in
+AAnunnAKi folds
+MathisKcr collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | No rake
+Seat 1: MathisKcr (small blind) (button) won 215
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4579982257770463233-7-1771494838 - Holdem no limit (15/30) - 2026/02/19 09:53:58 UTC
+Table: 'Expresso Nitro(1066360217)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (215)
+Seat 3: AAnunnAKi (685)
+*** ANTE/BLINDS ***
+AAnunnAKi posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kh 3s]
+*** PRE-FLOP *** 
+AAnunnAKi raises 655 to 685 and is all-in
+MathisKcr folds
+AAnunnAKi collected 715 from pot
+*** SUMMARY ***
+Total pot 715 | No rake
+Seat 3: AAnunnAKi (small blind) (button) won 715
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4579982257770463233-8-1771494845 - Holdem no limit (20/40) - 2026/02/19 09:54:05 UTC
+Table: 'Expresso Nitro(1066360217)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (185)
+Seat 3: AAnunnAKi (715)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+AAnunnAKi posts big blind 40
+Dealt to MathisKcr [3d 2d]
+*** PRE-FLOP *** 
+MathisKcr raises 145 to 185 and is all-in
+AAnunnAKi raises 530 to 715 and is all-in
+*** FLOP *** [8s 2c Ts]
+*** TURN *** [8s 2c Ts][4d]
+*** RIVER *** [8s 2c Ts 4d][Ks]
+*** SHOW DOWN ***
+MathisKcr shows [3d 2d] (One pair : 2)
+AAnunnAKi shows [Kd 3h] (One pair : Kings)
+AAnunnAKi collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s 2c Ts 4d Ks]
+Seat 1: MathisKcr (small blind) (button) showed [3d 2d] and lost with One pair : 2
+Seat 3: AAnunnAKi (big blind) showed [Kd 3h] and won 900 with One pair : Kings
+
+

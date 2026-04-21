@@ -1,0 +1,81 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4705724031020564481-1-1776190775 - Holdem no limit (10/20) - 2026/04/14 18:19:35 UTC
+Table: 'Expresso Nitro(1095636755)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: remi-142 (300)
+Seat 3: Totyzz (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+remi-142 posts big blind 20
+Dealt to MathisKcr [Jd 9s]
+*** PRE-FLOP *** 
+Totyzz raises 280 to 300 and is all-in
+MathisKcr folds
+remi-142 folds
+Totyzz collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Totyzz (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4705724031020564481-2-1776190788 - Holdem no limit (10/20) - 2026/04/14 18:19:48 UTC
+Table: 'Expresso Nitro(1095636755)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: remi-142 (280)
+Seat 3: Totyzz (330)
+*** ANTE/BLINDS ***
+remi-142 posts small blind 10
+Totyzz posts big blind 20
+Dealt to MathisKcr [Jh 7h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+remi-142 calls 30
+Totyzz folds
+*** FLOP *** [2s Qd 7s]
+remi-142 bets 65
+MathisKcr calls 65
+*** TURN *** [2s Qd 7s][9c]
+remi-142 checks
+MathisKcr bets 185 and is all-in
+remi-142 calls 175 and is all-in
+*** RIVER *** [2s Qd 7s 9c][3h]
+*** SHOW DOWN ***
+MathisKcr shows [Jh 7h] (One pair : 7)
+remi-142 shows [Jd 7d] (One pair : 7)
+remi-142 collected 290 from main pot
+MathisKcr collected 300 from side pot 1
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [2s Qd 7s 9c 3h]
+Seat 1: MathisKcr (button) showed [Jh 7h] and won 300 with One pair : 7
+Seat 2: remi-142 (small blind) showed [Jd 7d] and won 290 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4705724031020564481-3-1776190813 - Holdem no limit (10/20) - 2026/04/14 18:20:13 UTC
+Table: 'Expresso Nitro(1095636755)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: remi-142 (290)
+Seat 3: Totyzz (310)
+*** ANTE/BLINDS ***
+Totyzz posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c Kd]
+*** PRE-FLOP *** 
+remi-142 calls 20
+Totyzz raises 20 to 40
+MathisKcr raises 260 to 300 and is all-in
+remi-142 folds
+Totyzz raises 10 to 310 and is all-in
+*** FLOP *** [7c 5s Ts]
+*** TURN *** [7c 5s Ts][7d]
+*** RIVER *** [7c 5s Ts 7d][6s]
+*** SHOW DOWN ***
+MathisKcr shows [3c Kd] (One pair : 7)
+Totyzz shows [Js Ks] (Flush King high)
+Totyzz collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [7c 5s Ts 7d 6s]
+Seat 1: MathisKcr (big blind) showed [3c Kd] and lost with One pair : 7
+Seat 3: Totyzz (small blind) showed [Js Ks] and won 630 with Flush King high
+
+

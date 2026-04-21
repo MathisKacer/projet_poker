@@ -1,0 +1,317 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4295191476112982017-1-1759754664 - Holdem no limit (10/20) - 2025/10/06 12:44:24 UTC
+Table: 'Starting Block WiPT(1000052196)#0' 6-max (real money) Seat #6 is the button
+Seat 1: PAS80 (1500)
+Seat 2: OkPierre (1500)
+Seat 3: dragon209jtw (1500)
+Seat 4: christju (1500)
+Seat 5: MathisKcr (1500)
+Seat 6: GreatRedSpot (1500)
+*** ANTE/BLINDS ***
+PAS80 posts small blind 10
+OkPierre posts big blind 20
+Dealt to MathisKcr [5d 7d]
+*** PRE-FLOP *** 
+dragon209jtw raises 50 to 70
+christju calls 70
+MathisKcr folds
+GreatRedSpot folds
+PAS80 calls 60
+OkPierre calls 50
+*** FLOP *** [3h 3d Ah]
+PAS80 checks
+OkPierre bets 1430 and is all-in
+dragon209jtw folds
+christju folds
+PAS80 folds
+OkPierre collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [3h 3d Ah]
+Seat 2: OkPierre (big blind) won 1710
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4295191476112982017-2-1759754700 - Holdem no limit (10/20) - 2025/10/06 12:45:00 UTC
+Table: 'Starting Block WiPT(1000052196)#0' 6-max (real money) Seat #1 is the button
+Seat 1: PAS80 (1430)
+Seat 2: OkPierre (1710)
+Seat 3: dragon209jtw (1430)
+Seat 4: christju (1430)
+Seat 5: MathisKcr (1500)
+Seat 6: GreatRedSpot (1500)
+*** ANTE/BLINDS ***
+OkPierre posts small blind 10
+dragon209jtw posts big blind 20
+Dealt to MathisKcr [2s 3h]
+*** PRE-FLOP *** 
+christju folds
+MathisKcr folds
+GreatRedSpot raises 50 to 70
+PAS80 raises 170 to 240
+OkPierre calls 230
+dragon209jtw folds
+GreatRedSpot raises 1260 to 1500 and is all-in
+PAS80 calls 1190 and is all-in
+OkPierre folds
+*** FLOP *** [8h 3c Tc]
+*** TURN *** [8h 3c Tc][Ks]
+*** RIVER *** [8h 3c Tc Ks][5c]
+*** SHOW DOWN ***
+PAS80 shows [Js Jc] (One pair : Jacks)
+GreatRedSpot shows [Ad Th] (One pair : Tens)
+GreatRedSpot collected 70 from side pot 1
+PAS80 collected 3120 from main pot
+*** SUMMARY ***
+Total pot 3190 | No rake
+Board: [8h 3c Tc Ks 5c]
+Seat 1: PAS80 (button) showed [Js Jc] and won 3120 with One pair : Jacks
+Seat 6: GreatRedSpot showed [Ad Th] and won 70 with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4295191476112982017-3-1759754732 - Holdem no limit (10/20) - 2025/10/06 12:45:32 UTC
+Table: 'Starting Block WiPT(1000052196)#0' 6-max (real money) Seat #2 is the button
+Seat 1: PAS80 (3120)
+Seat 2: OkPierre (1470)
+Seat 3: dragon209jtw (1410)
+Seat 4: christju (1430)
+Seat 5: MathisKcr (1500)
+Seat 6: GreatRedSpot (70)
+*** ANTE/BLINDS ***
+dragon209jtw posts small blind 10
+christju posts big blind 20
+Dealt to MathisKcr [4s Qc]
+*** PRE-FLOP *** 
+MathisKcr folds
+GreatRedSpot raises 50 to 70 and is all-in
+PAS80 calls 70
+OkPierre calls 70
+dragon209jtw calls 60
+christju calls 50
+*** FLOP *** [7h 9s 9h]
+dragon209jtw checks
+christju checks
+PAS80 checks
+OkPierre bets 350
+dragon209jtw folds
+christju folds
+PAS80 folds
+*** TURN *** [7h 9s 9h][2c]
+*** RIVER *** [7h 9s 9h 2c][Th]
+*** SHOW DOWN ***
+GreatRedSpot shows [8c As] (One pair : 9)
+OkPierre shows [8h Ts] (Two pairs : Tens and 9)
+OkPierre collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [7h 9s 9h 2c Th]
+Seat 2: OkPierre (button) showed [8h Ts] and won 700 with Two pairs : Tens and 9
+Seat 6: GreatRedSpot showed [8c As] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4295191476112982017-4-1759754775 - Holdem no limit (15/30) - 2025/10/06 12:46:15 UTC
+Table: 'Starting Block WiPT(1000052196)#0' 6-max (real money) Seat #3 is the button
+Seat 1: PAS80 (3050)
+Seat 2: OkPierre (1750)
+Seat 3: dragon209jtw (1340)
+Seat 4: christju (1360)
+Seat 5: MathisKcr (1500)
+*** ANTE/BLINDS ***
+christju posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4s Jc]
+*** PRE-FLOP *** 
+PAS80 raises 75 to 105
+OkPierre calls 105
+dragon209jtw calls 105
+christju calls 90
+MathisKcr calls 75
+*** FLOP *** [3h 8s 9s]
+christju checks
+MathisKcr checks
+PAS80 checks
+OkPierre bets 1645 and is all-in
+dragon209jtw folds
+christju folds
+MathisKcr folds
+PAS80 calls 1645
+*** TURN *** [3h 8s 9s][Td]
+*** RIVER *** [3h 8s 9s Td][7c]
+*** SHOW DOWN ***
+OkPierre shows [Kc 6d] (Straight Ten high)
+PAS80 shows [Jh Ah] (Straight Jack high)
+PAS80 collected 3815 from pot
+*** SUMMARY ***
+Total pot 3815 | No rake
+Board: [3h 8s 9s Td 7c]
+Seat 1: PAS80 showed [Jh Ah] and won 3815 with Straight Jack high
+Seat 2: OkPierre showed [Kc 6d] and lost with Straight Ten high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4295191476112982017-5-1759754818 - Holdem no limit (15/30) - 2025/10/06 12:46:58 UTC
+Table: 'Starting Block WiPT(1000052196)#0' 6-max (real money) Seat #4 is the button
+Seat 1: PAS80 (5115)
+Seat 3: dragon209jtw (1235)
+Seat 4: christju (1255)
+Seat 5: MathisKcr (1395)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+PAS80 posts big blind 30
+Dealt to MathisKcr [7s 2s]
+*** PRE-FLOP *** 
+dragon209jtw folds
+christju raises 30 to 60
+MathisKcr folds
+PAS80 calls 30
+*** FLOP *** [2h Jc Qs]
+PAS80 checks
+christju bets 30
+PAS80 folds
+christju collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [2h Jc Qs]
+Seat 4: christju (button) won 165
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4295191476112982017-6-1759754840 - Holdem no limit (15/30) - 2025/10/06 12:47:20 UTC
+Table: 'Starting Block WiPT(1000052196)#0' 6-max (real money) Seat #5 is the button
+Seat 1: PAS80 (5055)
+Seat 3: dragon209jtw (1235)
+Seat 4: christju (1330)
+Seat 5: MathisKcr (1380)
+*** ANTE/BLINDS ***
+PAS80 posts small blind 15
+dragon209jtw posts big blind 30
+Dealt to MathisKcr [7d 8s]
+*** PRE-FLOP *** 
+christju folds
+MathisKcr folds
+PAS80 folds
+dragon209jtw collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: dragon209jtw (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4295191476112982017-7-1759754850 - Holdem no limit (20/40) - 2025/10/06 12:47:30 UTC
+Table: 'Starting Block WiPT(1000052196)#0' 6-max (real money) Seat #1 is the button
+Seat 1: PAS80 (5040)
+Seat 3: dragon209jtw (1250)
+Seat 4: christju (1330)
+Seat 5: MathisKcr (1380)
+*** ANTE/BLINDS ***
+dragon209jtw posts small blind 20
+christju posts big blind 40
+Dealt to MathisKcr [Ks 2c]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+PAS80 raises 140 to 180
+dragon209jtw folds
+christju folds
+MathisKcr calls 140
+*** FLOP *** [Qs 4d 8c]
+MathisKcr checks
+PAS80 bets 273
+MathisKcr folds
+PAS80 collected 693 from pot
+*** SUMMARY ***
+Total pot 693 | No rake
+Board: [Qs 4d 8c]
+Seat 1: PAS80 (button) won 693
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4295191476112982017-8-1759754879 - Holdem no limit (20/40) - 2025/10/06 12:47:59 UTC
+Table: 'Starting Block WiPT(1000052196)#0' 6-max (real money) Seat #3 is the button
+Seat 1: PAS80 (5280)
+Seat 3: dragon209jtw (1230)
+Seat 4: christju (1290)
+Seat 5: MathisKcr (1200)
+*** ANTE/BLINDS ***
+christju posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5h 3h]
+*** PRE-FLOP *** 
+PAS80 calls 40
+dragon209jtw raises 140 to 180
+christju folds
+MathisKcr folds
+PAS80 calls 140
+*** FLOP *** [Jc Td Jh]
+PAS80 checks
+dragon209jtw bets 273
+PAS80 calls 273
+*** TURN *** [Jc Td Jh][4h]
+PAS80 checks
+dragon209jtw bets 628
+PAS80 calls 628
+*** RIVER *** [Jc Td Jh 4h][Qs]
+PAS80 bets 160
+dragon209jtw calls 149 and is all-in
+*** SHOW DOWN ***
+dragon209jtw shows [Tc Ad] (Two pairs : Jacks and Tens)
+PAS80 shows [Ks 9d] (Straight King high)
+PAS80 collected 2531 from pot
+*** SUMMARY ***
+Total pot 2531 | No rake
+Board: [Jc Td Jh 4h Qs]
+Seat 1: PAS80 showed [Ks 9d] and won 2531 with Straight King high
+Seat 3: dragon209jtw (button) showed [Tc Ad] and lost with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4295191476112982017-9-1759754913 - Holdem no limit (20/40) - 2025/10/06 12:48:33 UTC
+Table: 'Starting Block WiPT(1000052196)#0' 6-max (real money) Seat #4 is the button
+Seat 1: PAS80 (6570)
+Seat 4: christju (1270)
+Seat 5: MathisKcr (1160)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+PAS80 posts big blind 40
+Dealt to MathisKcr [9h 4d]
+*** PRE-FLOP *** 
+christju folds
+MathisKcr calls 20
+PAS80 raises 100 to 140
+MathisKcr calls 100
+*** FLOP *** [8h 7s Kh]
+MathisKcr checks
+PAS80 bets 224
+MathisKcr folds
+PAS80 shows [Qc Ac] (High card : Ace)
+PAS80 collected 504 from pot
+*** SUMMARY ***
+Total pot 504 | No rake
+Board: [8h 7s Kh]
+Seat 1: PAS80 (big blind) showed [Qc Ac] and won 504 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4295191476112982017-10-1759754937 - Holdem no limit (30/60) - 2025/10/06 12:48:57 UTC
+Table: 'Starting Block WiPT(1000052196)#0' 6-max (real money) Seat #5 is the button
+Seat 1: PAS80 (6710)
+Seat 4: christju (1270)
+Seat 5: MathisKcr (1020)
+*** ANTE/BLINDS ***
+PAS80 posts small blind 30
+christju posts big blind 60
+Dealt to MathisKcr [Ks As]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+PAS80 calls 90
+christju calls 60
+*** FLOP *** [4c Td Th]
+PAS80 bets 360
+christju folds
+MathisKcr calls 360
+*** TURN *** [4c Td Th][5h]
+PAS80 bets 1080
+MathisKcr calls 540 and is all-in
+*** RIVER *** [4c Td Th 5h][Jh]
+*** SHOW DOWN ***
+MathisKcr shows [Ks As] (One pair : Tens)
+PAS80 shows [4s 5c] (Two pairs : Tens and 5)
+PAS80 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [4c Td Th 5h Jh]
+Seat 1: PAS80 (small blind) showed [4s 5c] and won 2700 with Two pairs : Tens and 5
+Seat 5: MathisKcr (button) showed [Ks As] and lost with One pair : Tens
+
+

@@ -1,0 +1,120 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634274784740376577-1-1773570577 - Holdem no limit (10/20) - 2026/03/15 10:29:37 UTC
+Table: 'Expresso Nitro(1079001181)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: crvena_slav (300)
+Seat 3: John  95 (300)
+*** ANTE/BLINDS ***
+John  95 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kh 6s]
+*** PRE-FLOP *** 
+crvena_slav folds
+John  95 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634274784740376577-2-1773570583 - Holdem no limit (10/20) - 2026/03/15 10:29:43 UTC
+Table: 'Expresso Nitro(1079001181)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (310)
+Seat 2: crvena_slav (300)
+Seat 3: John  95 (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+crvena_slav posts big blind 20
+Dealt to MathisKcr [7c 6s]
+*** PRE-FLOP *** 
+John  95 calls 20
+MathisKcr calls 10
+crvena_slav checks
+*** FLOP *** [3d 3c 5s]
+MathisKcr bets 30
+crvena_slav folds
+John  95 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [3d 3c 5s]
+Seat 1: MathisKcr (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634274784740376577-3-1773570602 - Holdem no limit (10/20) - 2026/03/15 10:30:02 UTC
+Table: 'Expresso Nitro(1079001181)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (350)
+Seat 2: crvena_slav (280)
+Seat 3: John  95 (270)
+*** ANTE/BLINDS ***
+crvena_slav posts small blind 10
+John  95 posts big blind 20
+Dealt to MathisKcr [6c 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+crvena_slav folds
+John  95 calls 40
+*** FLOP *** [Kc As Jh]
+John  95 bets 210 and is all-in
+MathisKcr folds
+John  95 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Kc As Jh]
+Seat 3: John  95 (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634274784740376577-4-1773570626 - Holdem no limit (10/20) - 2026/03/15 10:30:26 UTC
+Table: 'Expresso Nitro(1079001181)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (290)
+Seat 2: crvena_slav (270)
+Seat 3: John  95 (340)
+*** ANTE/BLINDS ***
+John  95 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s As]
+*** PRE-FLOP *** 
+crvena_slav raises 250 to 270 and is all-in
+John  95 folds
+MathisKcr calls 250
+*** FLOP *** [7c 7h Kc]
+*** TURN *** [7c 7h Kc][Jc]
+*** RIVER *** [7c 7h Kc Jc][6c]
+*** SHOW DOWN ***
+MathisKcr shows [6s As] (Two pairs : 7 and 6)
+crvena_slav shows [8d 8h] (Two pairs : 8 and 7)
+crvena_slav collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [7c 7h Kc Jc 6c]
+Seat 1: MathisKcr (big blind) showed [6s As] and lost with Two pairs : 7 and 6
+Seat 2: crvena_slav (button) showed [8d 8h] and won 550 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4634274784740376577-5-1773570640 - Holdem no limit (15/30) - 2026/03/15 10:30:40 UTC
+Table: 'Expresso Nitro(1079001181)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (20)
+Seat 2: crvena_slav (550)
+Seat 3: John  95 (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+crvena_slav posts big blind 30
+Dealt to MathisKcr [Td Th]
+*** PRE-FLOP *** 
+John  95 calls 30
+MathisKcr calls 5 and is all-in
+crvena_slav raises 520 to 550 and is all-in
+John  95 folds
+*** FLOP *** [Ad Qc 9c]
+*** TURN *** [Ad Qc 9c][7c]
+*** RIVER *** [Ad Qc 9c 7c][3h]
+*** SHOW DOWN ***
+MathisKcr shows [Td Th] (One pair : Tens)
+crvena_slav shows [As 8c] (One pair : Aces)
+crvena_slav collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ad Qc 9c 7c 3h]
+Seat 1: MathisKcr (small blind) showed [Td Th] and lost with One pair : Tens
+Seat 2: crvena_slav (big blind) showed [As 8c] and won 600 with One pair : Aces
+
+

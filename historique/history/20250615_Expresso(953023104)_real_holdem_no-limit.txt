@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4093203064012406785-1-1750017525 - Holdem no limit (10/20) - 2025/06/15 19:58:45 UTC
+Table: 'Expresso(953023104)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TonyJaah671 (500)
+Seat 2: Djex93 (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Djex93 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d 8d]
+*** PRE-FLOP *** 
+TonyJaah671 calls 20
+Djex93 raises 480 to 500 and is all-in
+MathisKcr folds
+TonyJaah671 folds
+Djex93 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 2: Djex93 (small blind) won 540
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4093203064012406785-2-1750017533 - Holdem no limit (10/20) - 2025/06/15 19:58:53 UTC
+Table: 'Expresso(953023104)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TonyJaah671 (480)
+Seat 2: Djex93 (540)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+TonyJaah671 posts big blind 20
+Dealt to MathisKcr [Kc 8c]
+*** PRE-FLOP *** 
+Djex93 raises 520 to 540 and is all-in
+MathisKcr calls 470 and is all-in
+TonyJaah671 calls 460 and is all-in
+*** FLOP *** [7d 8h 9h]
+*** TURN *** [7d 8h 9h][5c]
+*** RIVER *** [7d 8h 9h 5c][7s]
+*** SHOW DOWN ***
+TonyJaah671 shows [Ac Tc] (One pair : 7)
+Djex93 shows [3h 5d] (Two pairs : 7 and 5)
+MathisKcr shows [Kc 8c] (Two pairs : 8 and 7)
+MathisKcr collected 1440 from main pot
+Djex93 collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [7d 8h 9h 5c 7s]
+Seat 1: TonyJaah671 (big blind) showed [Ac Tc] and lost with One pair : 7
+Seat 2: Djex93 (button) showed [3h 5d] and won 60 with Two pairs : 7 and 5
+Seat 3: MathisKcr (small blind) showed [Kc 8c] and won 1440 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4093203064012406785-3-1750017548 - Holdem no limit (10/20) - 2025/06/15 19:59:08 UTC
+Table: 'Expresso(953023104)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Djex93 (60)
+Seat 3: MathisKcr (1440)
+*** ANTE/BLINDS ***
+Djex93 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kh 7s]
+*** PRE-FLOP *** 
+Djex93 raises 40 to 60 and is all-in
+MathisKcr calls 40
+*** FLOP *** [2d Qd Ah]
+*** TURN *** [2d Qd Ah][3c]
+*** RIVER *** [2d Qd Ah 3c][5c]
+*** SHOW DOWN ***
+MathisKcr shows [Kh 7s] (High card : Ace)
+Djex93 shows [4c 8h] (Straight 5 high)
+Djex93 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2d Qd Ah 3c 5c]
+Seat 2: Djex93 (small blind) (button) showed [4c 8h] and won 120 with Straight 5 high
+Seat 3: MathisKcr (big blind) showed [Kh 7s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4093203064012406785-4-1750017560 - Holdem no limit (10/20) - 2025/06/15 19:59:20 UTC
+Table: 'Expresso(953023104)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Djex93 (120)
+Seat 3: MathisKcr (1380)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Djex93 posts big blind 20
+Dealt to MathisKcr [Th Ac]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+Djex93 raises 100 to 120 and is all-in
+MathisKcr calls 100
+*** FLOP *** [As Js Qs]
+*** TURN *** [As Js Qs][Ah]
+*** RIVER *** [As Js Qs Ah][2s]
+*** SHOW DOWN ***
+Djex93 shows [5c Jc] (Two pairs : Aces and Jacks)
+MathisKcr shows [Th Ac] (Trips of Aces)
+MathisKcr collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [As Js Qs Ah 2s]
+Seat 2: Djex93 (big blind) showed [5c Jc] and lost with Two pairs : Aces and Jacks
+Seat 3: MathisKcr (small blind) (button) showed [Th Ac] and won 240 with Trips of Aces
+
+

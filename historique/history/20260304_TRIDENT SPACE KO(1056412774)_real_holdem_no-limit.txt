@@ -1,0 +1,586 @@
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-2-1772631961 - Holdem no limit (3/10/20) - 2026/03/04 13:46:01 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #1 is the button
+Seat 1: King-Flav (227, 0.25€ bounty)
+Seat 2: wmx-irjjf45 (770, 0.25€ bounty)
+Seat 3: MathisKcr (500, 0.25€ bounty)
+*** ANTE/BLINDS ***
+wmx-irjjf45 posts ante 3
+MathisKcr posts ante 3
+King-Flav posts ante 3
+wmx-irjjf45 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th 7s]
+*** PRE-FLOP *** 
+King-Flav folds
+wmx-irjjf45 raises 20 to 40
+MathisKcr folds
+wmx-irjjf45 collected 69 from pot
+*** SUMMARY ***
+Total pot 69 | No rake
+Seat 2: wmx-irjjf45 (small blind) won 69
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-3-1772631989 - Holdem no limit (3/10/20) - 2026/03/04 13:46:29 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #2 is the button
+Seat 1: King-Flav (224, 0.25€ bounty)
+Seat 2: wmx-irjjf45 (796, 0.25€ bounty)
+Seat 3: MathisKcr (477, 0.25€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+King-Flav posts ante 3
+wmx-irjjf45 posts ante 3
+MathisKcr posts small blind 10
+King-Flav posts big blind 20
+Dealt to MathisKcr [2s 6s]
+*** PRE-FLOP *** 
+wmx-irjjf45 folds
+MathisKcr folds
+King-Flav collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | No rake
+Seat 1: King-Flav (big blind) won 39
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-4-1772631998 - Holdem no limit (3/10/20) - 2026/03/04 13:46:38 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #3 is the button
+Seat 1: King-Flav (240, 0.25€ bounty)
+Seat 2: wmx-irjjf45 (793, 0.25€ bounty)
+Seat 3: MathisKcr (464, 0.25€ bounty)
+*** ANTE/BLINDS ***
+King-Flav posts ante 3
+wmx-irjjf45 posts ante 3
+MathisKcr posts ante 3
+King-Flav posts small blind 10
+wmx-irjjf45 posts big blind 20
+Dealt to MathisKcr [2h 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+King-Flav raises 40 to 60
+wmx-irjjf45 calls 40
+*** FLOP *** [3s 7d 5d]
+King-Flav bets 177 and is all-in
+wmx-irjjf45 calls 177
+*** TURN *** [3s 7d 5d][5h]
+*** RIVER *** [3s 7d 5d 5h][7c]
+*** SHOW DOWN ***
+wmx-irjjf45 shows [Qd Td] (Two pairs : 7 and 5)
+King-Flav shows [As Ah] (Two pairs : Aces and 7)
+King-Flav collected 483 from pot
+*** SUMMARY ***
+Total pot 483 | No rake
+Board: [3s 7d 5d 5h 7c]
+Seat 1: King-Flav (small blind) showed [As Ah] and won 483 with Two pairs : Aces and 7
+Seat 2: wmx-irjjf45 (big blind) showed [Qd Td] and lost with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-5-1772632028 - Holdem no limit (3/10/20) - 2026/03/04 13:47:08 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #1 is the button
+Seat 1: King-Flav (483, 0.25€ bounty)
+Seat 2: wmx-irjjf45 (553, 0.25€ bounty)
+Seat 3: MathisKcr (461, 0.25€ bounty)
+*** ANTE/BLINDS ***
+wmx-irjjf45 posts ante 3
+MathisKcr posts ante 3
+King-Flav posts ante 3
+wmx-irjjf45 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6h 2s]
+*** PRE-FLOP *** 
+King-Flav calls 20
+wmx-irjjf45 raises 30 to 50
+MathisKcr folds
+King-Flav calls 30
+*** FLOP *** [Kc 7h Tc]
+wmx-irjjf45 bets 84
+King-Flav raises 346 to 430 and is all-in
+wmx-irjjf45 calls 346
+*** TURN *** [Kc 7h Tc][Jc]
+*** RIVER *** [Kc 7h Tc Jc][6c]
+*** SHOW DOWN ***
+wmx-irjjf45 shows [Th Jh] (Two pairs : Jacks and Tens)
+King-Flav shows [5c 3c] (Flush King high)
+King-Flav collected 989 from pot
+*** SUMMARY ***
+Total pot 989 | No rake
+Board: [Kc 7h Tc Jc 6c]
+Seat 1: King-Flav (button) showed [5c 3c] and won 989 with Flush King high
+Seat 2: wmx-irjjf45 (small blind) showed [Th Jh] and lost with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-6-1772632053 - Holdem no limit (3/10/20) - 2026/03/04 13:47:33 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #2 is the button
+Seat 1: King-Flav (989, 0.25€ bounty)
+Seat 2: wmx-irjjf45 (70, 0.25€ bounty)
+Seat 3: MathisKcr (438, 0.25€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+King-Flav posts ante 3
+wmx-irjjf45 posts ante 3
+MathisKcr posts small blind 10
+King-Flav posts big blind 20
+Dealt to MathisKcr [Ts 7s]
+*** PRE-FLOP *** 
+wmx-irjjf45 raises 47 to 67 and is all-in
+MathisKcr raises 368 to 435 and is all-in
+King-Flav folds
+*** FLOP *** [As 2d Ac]
+*** TURN *** [As 2d Ac][8d]
+*** RIVER *** [As 2d Ac 8d][Qs]
+*** SHOW DOWN ***
+wmx-irjjf45 shows [2c 8s] (Two pairs : Aces and 8)
+MathisKcr shows [Ts 7s] (One pair : Aces)
+MathisKcr collected 368 from side pot 1
+wmx-irjjf45 collected 163 from main pot
+*** SUMMARY ***
+Total pot 531 | No rake
+Board: [As 2d Ac 8d Qs]
+Seat 2: wmx-irjjf45 (button) showed [2c 8s] and won 163 with Two pairs : Aces and 8
+Seat 3: MathisKcr (small blind) showed [Ts 7s] and won 368 with One pair : Aces
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-7-1772632071 - Holdem no limit (3/10/20) - 2026/03/04 13:47:51 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #3 is the button
+Seat 1: King-Flav (966, 0.25€ bounty)
+Seat 2: wmx-irjjf45 (163, 0.25€ bounty)
+Seat 3: MathisKcr (368, 0.25€ bounty)
+*** ANTE/BLINDS ***
+King-Flav posts ante 3
+wmx-irjjf45 posts ante 3
+MathisKcr posts ante 3
+King-Flav posts small blind 10
+wmx-irjjf45 posts big blind 20
+Dealt to MathisKcr [2s Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+King-Flav folds
+wmx-irjjf45 raises 100 to 160 and is all-in
+MathisKcr calls 100
+*** FLOP *** [2d 3d 8s]
+*** TURN *** [2d 3d 8s][Ks]
+*** RIVER *** [2d 3d 8s Ks][4c]
+*** SHOW DOWN ***
+wmx-irjjf45 shows [6h Kc] (One pair : Kings)
+MathisKcr shows [2s Kd] (Two pairs : Kings and 2)
+MathisKcr collected 339 from pot
+*** SUMMARY ***
+Total pot 339 | No rake
+Board: [2d 3d 8s Ks 4c]
+Seat 2: wmx-irjjf45 (big blind) showed [6h Kc] and lost with One pair : Kings
+Seat 3: MathisKcr (button) showed [2s Kd] and won 339 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-8-1772632099 - Holdem no limit (3/10/20) - 2026/03/04 13:48:19 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #3 is the button
+Seat 1: King-Flav (953, 0.25€ bounty)
+Seat 3: MathisKcr (544, 0.30€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+King-Flav posts ante 3
+MathisKcr posts small blind 10
+King-Flav posts big blind 20
+Dealt to MathisKcr [Jh 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+King-Flav calls 20
+*** FLOP *** [7h 8s 5d]
+King-Flav checks
+MathisKcr bets 30
+King-Flav folds
+MathisKcr collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | No rake
+Board: [7h 8s 5d]
+Seat 3: MathisKcr (small blind) (button) won 116
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-9-1772632121 - Holdem no limit (3/10/20) - 2026/03/04 13:48:41 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #3 is the button
+Seat 1: King-Flav (910, 0.25€ bounty)
+Seat 2: Kerlavezia (500, 0.25€ bounty)
+Seat 3: MathisKcr (587, 0.30€ bounty)
+*** ANTE/BLINDS ***
+King-Flav posts ante 3
+Kerlavezia posts ante 3
+MathisKcr posts ante 3
+King-Flav posts small blind 10
+Kerlavezia posts big blind 20
+Dealt to MathisKcr [7h 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+King-Flav folds
+Kerlavezia raises 437 to 497 and is all-in
+MathisKcr folds
+Kerlavezia collected 576 from pot
+*** SUMMARY ***
+Total pot 576 | No rake
+Seat 2: Kerlavezia (big blind) won 576
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-10-1772632143 - Holdem no limit (3/10/20) - 2026/03/04 13:49:03 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #1 is the button
+Seat 1: King-Flav (897, 0.25€ bounty)
+Seat 2: Kerlavezia (576, 0.25€ bounty)
+Seat 3: MathisKcr (524, 0.30€ bounty)
+*** ANTE/BLINDS ***
+Kerlavezia posts ante 3
+MathisKcr posts ante 3
+King-Flav posts ante 3
+Kerlavezia posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd 2c]
+*** PRE-FLOP *** 
+King-Flav calls 20
+Kerlavezia folds
+MathisKcr checks
+*** FLOP *** [Kh 4d 7d]
+MathisKcr checks
+King-Flav checks
+*** TURN *** [Kh 4d 7d][2h]
+MathisKcr checks
+King-Flav checks
+*** RIVER *** [Kh 4d 7d 2h][6d]
+MathisKcr bets 21
+King-Flav calls 21
+*** SHOW DOWN ***
+MathisKcr shows [Jd 2c] (One pair : 2)
+King-Flav shows [8h 4h] (One pair : 4)
+King-Flav collected 101 from pot
+*** SUMMARY ***
+Total pot 101 | No rake
+Board: [Kh 4d 7d 2h 6d]
+Seat 1: King-Flav (button) showed [8h 4h] and won 101 with One pair : 4
+Seat 3: MathisKcr (big blind) showed [Jd 2c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-11-1772632167 - Holdem no limit (3/10/20) - 2026/03/04 13:49:27 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #2 is the button
+Seat 1: King-Flav (954, 0.25€ bounty)
+Seat 2: Kerlavezia (563, 0.25€ bounty)
+Seat 3: MathisKcr (480, 0.30€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+King-Flav posts ante 3
+Kerlavezia posts ante 3
+MathisKcr posts small blind 10
+King-Flav posts big blind 20
+Dealt to MathisKcr [Jc 7h]
+*** PRE-FLOP *** 
+Kerlavezia folds
+MathisKcr calls 10
+King-Flav checks
+*** FLOP *** [3h Tc 9h]
+MathisKcr checks
+King-Flav checks
+*** TURN *** [3h Tc 9h][Qh]
+MathisKcr checks
+King-Flav checks
+*** RIVER *** [3h Tc 9h Qh][Qd]
+MathisKcr bets 25
+King-Flav calls 25
+*** SHOW DOWN ***
+MathisKcr shows [Jc 7h] (One pair : Queens)
+King-Flav shows [9d 6h] (Two pairs : Queens and 9)
+King-Flav collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [3h Tc 9h Qh Qd]
+Seat 1: King-Flav (big blind) showed [9d 6h] and won 99 with Two pairs : Queens and 9
+Seat 3: MathisKcr (small blind) showed [Jc 7h] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-12-1772632206 - Holdem no limit (3/10/20) - 2026/03/04 13:50:06 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #3 is the button
+Seat 1: King-Flav (1005, 0.25€ bounty)
+Seat 2: Kerlavezia (560, 0.25€ bounty)
+Seat 3: MathisKcr (432, 0.30€ bounty)
+*** ANTE/BLINDS ***
+King-Flav posts ante 3
+Kerlavezia posts ante 3
+MathisKcr posts ante 3
+King-Flav posts small blind 10
+Kerlavezia posts big blind 20
+Dealt to MathisKcr [9d Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+King-Flav calls 30
+Kerlavezia calls 20
+*** FLOP *** [Qs Tc Th]
+King-Flav checks
+Kerlavezia checks
+MathisKcr bets 45
+King-Flav folds
+Kerlavezia folds
+MathisKcr collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | No rake
+Board: [Qs Tc Th]
+Seat 3: MathisKcr (button) won 174
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-13-1772632229 - Holdem no limit (3/10/20) - 2026/03/04 13:50:29 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #1 is the button
+Seat 1: King-Flav (962, 0.25€ bounty)
+Seat 2: Kerlavezia (517, 0.25€ bounty)
+Seat 3: MathisKcr (518, 0.30€ bounty)
+*** ANTE/BLINDS ***
+Kerlavezia posts ante 3
+MathisKcr posts ante 3
+King-Flav posts ante 3
+Kerlavezia posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7h 2h]
+*** PRE-FLOP *** 
+King-Flav calls 20
+Kerlavezia folds
+MathisKcr checks
+*** FLOP *** [2c Ah Qs]
+MathisKcr checks
+King-Flav checks
+*** TURN *** [2c Ah Qs][Jc]
+MathisKcr checks
+King-Flav checks
+*** RIVER *** [2c Ah Qs Jc][8h]
+MathisKcr checks
+King-Flav checks
+*** SHOW DOWN ***
+King-Flav shows [3d 6d] (High card : Ace)
+MathisKcr shows [7h 2h] (One pair : 2)
+MathisKcr collected 59 from pot
+*** SUMMARY ***
+Total pot 59 | No rake
+Board: [2c Ah Qs Jc 8h]
+Seat 1: King-Flav (button) showed [3d 6d] and lost with High card : Ace
+Seat 3: MathisKcr (big blind) showed [7h 2h] and won 59 with One pair : 2
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-14-1772632265 - Holdem no limit (3/10/20) - 2026/03/04 13:51:05 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #2 is the button
+Seat 1: King-Flav (939, 0.25€ bounty)
+Seat 2: Kerlavezia (504, 0.25€ bounty)
+Seat 3: MathisKcr (554, 0.30€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+King-Flav posts ante 3
+Kerlavezia posts ante 3
+MathisKcr posts small blind 10
+King-Flav posts big blind 20
+Dealt to MathisKcr [Kd 7c]
+*** PRE-FLOP *** 
+Kerlavezia folds
+MathisKcr calls 10
+King-Flav checks
+*** FLOP *** [3d As 2c]
+MathisKcr checks
+King-Flav checks
+*** TURN *** [3d As 2c][5s]
+MathisKcr checks
+King-Flav checks
+*** RIVER *** [3d As 2c 5s][7h]
+MathisKcr bets 20
+King-Flav calls 20
+*** SHOW DOWN ***
+MathisKcr shows [Kd 7c] (One pair : 7)
+King-Flav shows [2s Ac] (Two pairs : Aces and 2)
+King-Flav collected 89 from pot
+*** SUMMARY ***
+Total pot 89 | No rake
+Board: [3d As 2c 5s 7h]
+Seat 1: King-Flav (big blind) showed [2s Ac] and won 89 with Two pairs : Aces and 2
+Seat 3: MathisKcr (small blind) showed [Kd 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-15-1772632290 - Holdem no limit (3/10/20) - 2026/03/04 13:51:30 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #3 is the button
+Seat 1: King-Flav (985, 0.25€ bounty)
+Seat 2: Kerlavezia (501, 0.25€ bounty)
+Seat 3: MathisKcr (511, 0.30€ bounty)
+*** ANTE/BLINDS ***
+King-Flav posts ante 3
+Kerlavezia posts ante 3
+MathisKcr posts ante 3
+King-Flav posts small blind 10
+Kerlavezia posts big blind 20
+Dealt to MathisKcr [Jh Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+King-Flav calls 30
+Kerlavezia calls 20
+*** FLOP *** [2d Qh Qc]
+King-Flav checks
+Kerlavezia checks
+MathisKcr bets 65
+King-Flav folds
+Kerlavezia calls 65
+*** TURN *** [2d Qh Qc][3c]
+Kerlavezia checks
+MathisKcr bets 130
+Kerlavezia calls 130
+*** RIVER *** [2d Qh Qc 3c][3d]
+Kerlavezia checks
+MathisKcr bets 273 and is all-in
+Kerlavezia calls 263 and is all-in
+*** SHOW DOWN ***
+Kerlavezia shows [Qs 8d] (Full of Queens and 3)
+MathisKcr shows [Jh Jd] (Two pairs : Queens and Jacks)
+MathisKcr collected 10 from side pot 1
+Kerlavezia collected 1045 from main pot
+*** SUMMARY ***
+Total pot 1055 | No rake
+Board: [2d Qh Qc 3c 3d]
+Seat 2: Kerlavezia (big blind) showed [Qs 8d] and won 1045 with Full of Queens and 3
+Seat 3: MathisKcr (button) showed [Jh Jd] and won 10 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-16-1772632337 - Holdem no limit (3/10/20) - 2026/03/04 13:52:17 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #1 is the button
+Seat 1: King-Flav (942, 0.25€ bounty)
+Seat 2: Kerlavezia (1045, 0.25€ bounty)
+Seat 3: MathisKcr (10, 0.30€ bounty)
+*** ANTE/BLINDS ***
+Kerlavezia posts ante 3
+MathisKcr posts ante 3
+King-Flav posts ante 3
+Kerlavezia posts small blind 10
+MathisKcr posts big blind 7 and is all-in
+Dealt to MathisKcr [Ah 2s]
+*** PRE-FLOP *** 
+King-Flav calls 20
+Kerlavezia calls 10
+*** FLOP *** [4d Qh As]
+Kerlavezia checks
+King-Flav checks
+*** TURN *** [4d Qh As][Ac]
+Kerlavezia bets 40
+King-Flav folds
+*** RIVER *** [4d Qh As Ac][2h]
+*** SHOW DOWN ***
+Kerlavezia shows [3d 5d] (Straight 5 high)
+MathisKcr shows [Ah 2s] (Full of Aces and 2)
+MathisKcr collected 30 from main pot
+Kerlavezia collected 66 from side pot 1
+*** SUMMARY ***
+Total pot 96 | No rake
+Board: [4d Qh As Ac 2h]
+Seat 2: Kerlavezia (small blind) showed [3d 5d] and won 66 with Straight 5 high
+Seat 3: MathisKcr (big blind) showed [Ah 2s] and won 30 with Full of Aces and 2
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-17-1772632359 - Holdem no limit (3/10/20) - 2026/03/04 13:52:39 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #2 is the button
+Seat 1: King-Flav (919, 0.25€ bounty)
+Seat 2: Kerlavezia (1048, 0.25€ bounty)
+Seat 3: MathisKcr (30, 0.30€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+King-Flav posts ante 3
+Kerlavezia posts ante 3
+MathisKcr posts small blind 10
+King-Flav posts big blind 20
+Dealt to MathisKcr [2s Ad]
+*** PRE-FLOP *** 
+Kerlavezia folds
+MathisKcr raises 7 to 27 and is all-in
+King-Flav calls 7
+*** FLOP *** [8d Th Ts]
+*** TURN *** [8d Th Ts][5s]
+*** RIVER *** [8d Th Ts 5s][Qd]
+*** SHOW DOWN ***
+King-Flav shows [Kd 2h] (One pair : Tens)
+MathisKcr shows [2s Ad] (One pair : Tens)
+MathisKcr collected 63 from pot
+*** SUMMARY ***
+Total pot 63 | No rake
+Board: [8d Th Ts 5s Qd]
+Seat 1: King-Flav (big blind) showed [Kd 2h] and lost with One pair : Tens
+Seat 3: MathisKcr (small blind) showed [2s Ad] and won 63 with One pair : Tens
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-18-1772632374 - Holdem no limit (3/10/20) - 2026/03/04 13:52:54 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #3 is the button
+Seat 1: King-Flav (889, 0.25€ bounty)
+Seat 2: Kerlavezia (1045, 0.25€ bounty)
+Seat 3: MathisKcr (63, 0.30€ bounty)
+*** ANTE/BLINDS ***
+King-Flav posts ante 3
+Kerlavezia posts ante 3
+MathisKcr posts ante 3
+King-Flav posts small blind 10
+Kerlavezia posts big blind 20
+Dealt to MathisKcr [5d Js]
+*** PRE-FLOP *** 
+MathisKcr folds
+King-Flav calls 10
+Kerlavezia raises 40 to 60
+King-Flav calls 40
+*** FLOP *** [Qs Ks Th]
+King-Flav checks
+Kerlavezia bets 65
+King-Flav folds
+Kerlavezia collected 194 from pot
+*** SUMMARY ***
+Total pot 194 | No rake
+Board: [Qs Ks Th]
+Seat 2: Kerlavezia (big blind) won 194
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-19-1772632397 - Holdem no limit (3/10/20) - 2026/03/04 13:53:17 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #1 is the button
+Seat 1: King-Flav (826, 0.25€ bounty)
+Seat 2: Kerlavezia (1111, 0.25€ bounty)
+Seat 3: MathisKcr (60, 0.30€ bounty)
+*** ANTE/BLINDS ***
+Kerlavezia posts ante 3
+MathisKcr posts ante 3
+King-Flav posts ante 3
+Kerlavezia posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4s Th]
+*** PRE-FLOP *** 
+King-Flav folds
+Kerlavezia raises 40 to 60
+MathisKcr folds
+Kerlavezia collected 89 from pot
+*** SUMMARY ***
+Total pot 89 | No rake
+Seat 2: Kerlavezia (small blind) won 89
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4537258315406639180-20-1772632408 - Holdem no limit (3/10/20) - 2026/03/04 13:53:28 UTC
+Table: 'TRIDENT SPACE KO(1056412774)#0075' 3-max (real money) Seat #2 is the button
+Seat 1: King-Flav (823, 0.25€ bounty)
+Seat 2: Kerlavezia (1137, 0.25€ bounty)
+Seat 3: MathisKcr (37, 0.30€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+King-Flav posts ante 3
+Kerlavezia posts ante 3
+MathisKcr posts small blind 10
+King-Flav posts big blind 20
+Dealt to MathisKcr [2c Jc]
+*** PRE-FLOP *** 
+Kerlavezia raises 25 to 45
+MathisKcr calls 24 and is all-in
+King-Flav calls 25
+*** FLOP *** [5c 2s Qs]
+King-Flav checks
+Kerlavezia checks
+*** TURN *** [5c 2s Qs][4s]
+King-Flav checks
+Kerlavezia bets 40
+King-Flav calls 40
+*** RIVER *** [5c 2s Qs 4s][Ts]
+King-Flav checks
+Kerlavezia checks
+*** SHOW DOWN ***
+Kerlavezia shows [Kd 3c] (High card : King)
+MathisKcr shows [2c Jc] (One pair : 2)
+King-Flav shows [5h Js] (Flush Queen high)
+King-Flav collected 213 from pot
+*** SUMMARY ***
+Total pot 213 | No rake
+Board: [5c 2s Qs 4s Ts]
+Seat 1: King-Flav (big blind) showed [5h Js] and won 213 with Flush Queen high
+Seat 2: Kerlavezia (button) showed [Kd 3c] and lost with High card : King
+Seat 3: MathisKcr (small blind) showed [2c Jc] and lost with One pair : 2
+
+

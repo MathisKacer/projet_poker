@@ -1,0 +1,265 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664121083710930945-1-1774620075 - Holdem no limit (10/20) - 2026/03/27 14:01:15 UTC
+Table: 'Expresso Nitro(1085950314)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tenace Dieu9 (300)
+Seat 2: MathisKcr (300)
+Seat 3: diilet (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+diilet posts big blind 20
+Dealt to MathisKcr [7s Qh]
+*** PRE-FLOP *** 
+Tenace Dieu9 calls 20
+MathisKcr raises 280 to 300 and is all-in
+diilet folds
+Tenace Dieu9 folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: MathisKcr (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664121083710930945-2-1774620086 - Holdem no limit (10/20) - 2026/03/27 14:01:26 UTC
+Table: 'Expresso Nitro(1085950314)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tenace Dieu9 (280)
+Seat 2: MathisKcr (340)
+Seat 3: diilet (280)
+*** ANTE/BLINDS ***
+diilet posts small blind 10
+Tenace Dieu9 posts big blind 20
+Dealt to MathisKcr [Kh 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+diilet calls 30
+Tenace Dieu9 folds
+*** FLOP *** [Ah 7d 2d]
+diilet checks
+MathisKcr bets 35
+diilet calls 35
+*** TURN *** [Ah 7d 2d][Ac]
+diilet checks
+MathisKcr bets 85
+diilet raises 85 to 170
+MathisKcr folds
+diilet collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Board: [Ah 7d 2d Ac]
+Seat 3: diilet (small blind) won 425
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664121083710930945-3-1774620104 - Holdem no limit (10/20) - 2026/03/27 14:01:44 UTC
+Table: 'Expresso Nitro(1085950314)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Tenace Dieu9 (260)
+Seat 2: MathisKcr (180)
+Seat 3: diilet (460)
+*** ANTE/BLINDS ***
+Tenace Dieu9 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2s 3c]
+*** PRE-FLOP *** 
+diilet raises 20 to 40
+Tenace Dieu9 raises 220 to 260 and is all-in
+MathisKcr folds
+diilet folds
+Tenace Dieu9 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Tenace Dieu9 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664121083710930945-4-1774620113 - Holdem no limit (10/20) - 2026/03/27 14:01:53 UTC
+Table: 'Expresso Nitro(1085950314)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tenace Dieu9 (320)
+Seat 2: MathisKcr (160)
+Seat 3: diilet (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+diilet posts big blind 20
+Dealt to MathisKcr [8d 4d]
+*** PRE-FLOP *** 
+Tenace Dieu9 calls 20
+MathisKcr raises 140 to 160 and is all-in
+diilet folds
+Tenace Dieu9 folds
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 2: MathisKcr (small blind) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664121083710930945-5-1774620120 - Holdem no limit (10/20) - 2026/03/27 14:02:00 UTC
+Table: 'Expresso Nitro(1085950314)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tenace Dieu9 (300)
+Seat 2: MathisKcr (200)
+Seat 3: diilet (400)
+*** ANTE/BLINDS ***
+diilet posts small blind 10
+Tenace Dieu9 posts big blind 20
+Dealt to MathisKcr [2h 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+diilet raises 20 to 40
+Tenace Dieu9 calls 20
+*** FLOP *** [6d 7c Jd]
+diilet checks
+Tenace Dieu9 checks
+*** TURN *** [6d 7c Jd][Kd]
+diilet bets 20
+Tenace Dieu9 calls 20
+*** RIVER *** [6d 7c Jd Kd][Qs]
+diilet bets 20
+Tenace Dieu9 calls 20
+*** SHOW DOWN ***
+Tenace Dieu9 shows [5h 7h] (One pair : 7)
+diilet shows [Kc Tc] (One pair : Kings)
+diilet collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [6d 7c Jd Kd Qs]
+Seat 1: Tenace Dieu9 (big blind) showed [5h 7h] and lost with One pair : 7
+Seat 3: diilet (small blind) showed [Kc Tc] and won 160 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4664121083710930945-6-1774620135 - Holdem no limit (15/30) - 2026/03/27 14:02:15 UTC
+Table: 'Expresso Nitro(1085950314)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Tenace Dieu9 (220)
+Seat 2: MathisKcr (200)
+Seat 3: diilet (480)
+*** ANTE/BLINDS ***
+Tenace Dieu9 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kh Kd]
+*** PRE-FLOP *** 
+diilet raises 30 to 60
+Tenace Dieu9 raises 160 to 220 and is all-in
+MathisKcr calls 170 and is all-in
+diilet calls 160
+*** FLOP *** [3h 6h Jd]
+*** TURN *** [3h 6h Jd][5h]
+*** RIVER *** [3h 6h Jd 5h][9h]
+*** SHOW DOWN ***
+diilet shows [Qd 8d] (High card : Queen)
+Tenace Dieu9 shows [Ad 8c] (High card : Ace)
+MathisKcr shows [Kh Kd] (Flush King high)
+MathisKcr collected 600 from main pot
+Tenace Dieu9 collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [3h 6h Jd 5h 9h]
+Seat 1: Tenace Dieu9 (small blind) showed [Ad 8c] and won 40 with High card : Ace
+Seat 2: MathisKcr (big blind) showed [Kh Kd] and won 600 with Flush King high
+Seat 3: diilet (button) showed [Qd 8d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4664121083710930945-7-1774620149 - Holdem no limit (15/30) - 2026/03/27 14:02:29 UTC
+Table: 'Expresso Nitro(1085950314)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tenace Dieu9 (40)
+Seat 2: MathisKcr (600)
+Seat 3: diilet (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+diilet posts big blind 30
+Dealt to MathisKcr [2h 8h]
+*** PRE-FLOP *** 
+Tenace Dieu9 raises 10 to 40 and is all-in
+MathisKcr calls 25
+diilet raises 60 to 100
+MathisKcr folds
+*** FLOP *** [8s Jh Td]
+*** TURN *** [8s Jh Td][Qd]
+*** RIVER *** [8s Jh Td Qd][Ah]
+*** SHOW DOWN ***
+Tenace Dieu9 shows [5c 3s] (High card : Ace)
+diilet shows [4h Ad] (One pair : Aces)
+diilet collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [8s Jh Td Qd Ah]
+Seat 1: Tenace Dieu9 (button) showed [5c 3s] and lost with High card : Ace
+Seat 3: diilet (big blind) showed [4h Ad] and won 180 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4664121083710930945-8-1774620171 - Holdem no limit (15/30) - 2026/03/27 14:02:51 UTC
+Table: 'Expresso Nitro(1085950314)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (560)
+Seat 3: diilet (340)
+*** ANTE/BLINDS ***
+diilet posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad Ks]
+*** PRE-FLOP *** 
+diilet raises 30 to 60
+MathisKcr raises 500 to 560 and is all-in
+diilet calls 280 and is all-in
+*** FLOP *** [4s 3c Tc]
+*** TURN *** [4s 3c Tc][2s]
+*** RIVER *** [4s 3c Tc 2s][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [Ad Ks] (One pair : Tens)
+diilet shows [As Qs] (Flush Ace high)
+diilet collected 680 from main pot
+MathisKcr collected 220 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 3c Tc 2s Ts]
+Seat 2: MathisKcr (big blind) showed [Ad Ks] and won 220 with One pair : Tens
+Seat 3: diilet (small blind) (button) showed [As Qs] and won 680 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4664121083710930945-9-1774620185 - Holdem no limit (15/30) - 2026/03/27 14:03:05 UTC
+Table: 'Expresso Nitro(1085950314)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (220)
+Seat 3: diilet (680)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+diilet posts big blind 30
+Dealt to MathisKcr [Ts 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+diilet collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: diilet (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4664121083710930945-10-1774620190 - Holdem no limit (15/30) - 2026/03/27 14:03:10 UTC
+Table: 'Expresso Nitro(1085950314)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (205)
+Seat 3: diilet (695)
+*** ANTE/BLINDS ***
+diilet posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3h 9c]
+*** PRE-FLOP *** 
+diilet folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4664121083710930945-11-1774620194 - Holdem no limit (20/40) - 2026/03/27 14:03:14 UTC
+Table: 'Expresso Nitro(1085950314)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (220)
+Seat 3: diilet (680)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+diilet posts big blind 40
+Dealt to MathisKcr [Jd Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 180 to 220 and is all-in
+diilet calls 180
+*** FLOP *** [As 9h 3h]
+*** TURN *** [As 9h 3h][5h]
+*** RIVER *** [As 9h 3h 5h][2h]
+*** SHOW DOWN ***
+MathisKcr shows [Jd Ks] (High card : Ace)
+diilet shows [Qh 8h] (Flush Queen high)
+diilet collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [As 9h 3h 5h 2h]
+Seat 2: MathisKcr (small blind) (button) showed [Jd Ks] and lost with High card : Ace
+Seat 3: diilet (big blind) showed [Qh 8h] and won 440 with Flush Queen high
+
+

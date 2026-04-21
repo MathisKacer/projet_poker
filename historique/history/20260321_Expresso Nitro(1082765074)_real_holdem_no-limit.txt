@@ -1,0 +1,134 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4650440582081019905-1-1774095699 - Holdem no limit (10/20) - 2026/03/21 12:21:39 UTC
+Table: 'Expresso Nitro(1082765074)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Blacksparows (300)
+Seat 2: MathisKcr (300)
+Seat 3: Big_blind (300)
+*** ANTE/BLINDS ***
+Blacksparows posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4c Qc]
+*** PRE-FLOP *** 
+Big_blind folds
+Blacksparows calls 10
+MathisKcr checks
+*** FLOP *** [Jh 7d Qd]
+Blacksparows bets 20
+MathisKcr calls 20
+*** TURN *** [Jh 7d Qd][5d]
+Blacksparows bets 20
+MathisKcr calls 20
+*** RIVER *** [Jh 7d Qd 5d][6s]
+Blacksparows bets 20
+MathisKcr raises 70 to 90
+Blacksparows calls 70
+*** SHOW DOWN ***
+MathisKcr shows [4c Qc] (One pair : Queens)
+Blacksparows shows [6c Jc] (Two pairs : Jacks and 6)
+Blacksparows collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Jh 7d Qd 5d 6s]
+Seat 1: Blacksparows (small blind) showed [6c Jc] and won 300 with Two pairs : Jacks and 6
+Seat 2: MathisKcr (big blind) showed [4c Qc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4650440582081019905-2-1774095721 - Holdem no limit (10/20) - 2026/03/21 12:22:01 UTC
+Table: 'Expresso Nitro(1082765074)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Blacksparows (450)
+Seat 2: MathisKcr (150)
+Seat 3: Big_blind (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Big_blind posts big blind 20
+Dealt to MathisKcr [Ac 9d]
+*** PRE-FLOP *** 
+Blacksparows folds
+MathisKcr raises 50 to 70
+Big_blind folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4650440582081019905-3-1774095729 - Holdem no limit (10/20) - 2026/03/21 12:22:09 UTC
+Table: 'Expresso Nitro(1082765074)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Blacksparows (450)
+Seat 2: MathisKcr (170)
+Seat 3: Big_blind (280)
+*** ANTE/BLINDS ***
+Big_blind posts small blind 10
+Blacksparows posts big blind 20
+Dealt to MathisKcr [6h 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Big_blind folds
+Blacksparows collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Blacksparows (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4650440582081019905-4-1774095734 - Holdem no limit (10/20) - 2026/03/21 12:22:14 UTC
+Table: 'Expresso Nitro(1082765074)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Blacksparows (460)
+Seat 2: MathisKcr (170)
+Seat 3: Big_blind (270)
+*** ANTE/BLINDS ***
+Blacksparows posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As 4h]
+*** PRE-FLOP *** 
+Big_blind calls 20
+Blacksparows calls 10
+MathisKcr raises 40 to 60
+Big_blind calls 40
+Blacksparows calls 40
+*** FLOP *** [Qd 9h Kd]
+Blacksparows checks
+MathisKcr bets 110 and is all-in
+Big_blind folds
+Blacksparows folds
+MathisKcr collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Board: [Qd 9h Kd]
+Seat 2: MathisKcr (big blind) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4650440582081019905-5-1774095758 - Holdem no limit (15/30) - 2026/03/21 12:22:38 UTC
+Table: 'Expresso Nitro(1082765074)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Blacksparows (400)
+Seat 2: MathisKcr (290)
+Seat 3: Big_blind (210)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Big_blind posts big blind 30
+Dealt to MathisKcr [As Ah]
+*** PRE-FLOP *** 
+Blacksparows calls 30
+MathisKcr calls 15
+Big_blind checks
+*** FLOP *** [3d Qs Kh]
+MathisKcr checks
+Big_blind checks
+Blacksparows checks
+*** TURN *** [3d Qs Kh][4h]
+MathisKcr bets 30
+Big_blind folds
+Blacksparows calls 30
+*** RIVER *** [3d Qs Kh 4h][9s]
+MathisKcr bets 120
+Blacksparows raises 120 to 240
+MathisKcr calls 110 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [As Ah] (One pair : Aces)
+Blacksparows shows [Jd Tc] (Straight King high)
+Blacksparows collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [3d Qs Kh 4h 9s]
+Seat 1: Blacksparows (button) showed [Jd Tc] and won 620 with Straight King high
+Seat 2: MathisKcr (small blind) showed [As Ah] and lost with One pair : Aces
+
+

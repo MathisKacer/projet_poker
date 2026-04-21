@@ -1,0 +1,143 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4340647348389543937-1-1761684801 - Holdem no limit (10/20) - 2025/10/28 20:53:21 UTC
+Table: 'Expresso(1010635716)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AAryPot_turn (500)
+Seat 2: edenmlln (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+edenmlln posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qd Ks]
+*** PRE-FLOP *** 
+AAryPot_turn calls 20
+edenmlln raises 40 to 60
+MathisKcr calls 40
+AAryPot_turn calls 40
+*** FLOP *** [7s 4s Ad]
+edenmlln checks
+MathisKcr bets 60
+AAryPot_turn calls 60
+edenmlln calls 60
+*** TURN *** [7s 4s Ad][Jh]
+edenmlln checks
+MathisKcr checks
+AAryPot_turn checks
+*** RIVER *** [7s 4s Ad Jh][Jd]
+edenmlln checks
+MathisKcr checks
+AAryPot_turn checks
+*** SHOW DOWN ***
+AAryPot_turn shows [4h Qh] (Two pairs : Jacks and 4)
+MathisKcr shows [Qd Ks] (One pair : Jacks)
+edenmlln shows [9d 9h] (Two pairs : Jacks and 9)
+edenmlln collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [7s 4s Ad Jh Jd]
+Seat 1: AAryPot_turn (button) showed [4h Qh] and lost with Two pairs : Jacks and 4
+Seat 2: edenmlln (small blind) showed [9d 9h] and won 360 with Two pairs : Jacks and 9
+Seat 3: MathisKcr (big blind) showed [Qd Ks] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4340647348389543937-2-1761684840 - Holdem no limit (10/20) - 2025/10/28 20:54:00 UTC
+Table: 'Expresso(1010635716)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AAryPot_turn (380)
+Seat 2: edenmlln (740)
+Seat 3: MathisKcr (380)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+AAryPot_turn posts big blind 20
+Dealt to MathisKcr [8d 7c]
+*** PRE-FLOP *** 
+edenmlln folds
+MathisKcr folds
+AAryPot_turn collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: AAryPot_turn (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4340647348389543937-3-1761684847 - Holdem no limit (10/20) - 2025/10/28 20:54:07 UTC
+Table: 'Expresso(1010635716)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AAryPot_turn (390)
+Seat 2: edenmlln (740)
+Seat 3: MathisKcr (370)
+*** ANTE/BLINDS ***
+AAryPot_turn posts small blind 10
+edenmlln posts big blind 20
+Dealt to MathisKcr [6d 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+AAryPot_turn calls 10
+edenmlln checks
+*** FLOP *** [Js Tc 8c]
+AAryPot_turn bets 20
+edenmlln calls 20
+*** TURN *** [Js Tc 8c][Ac]
+AAryPot_turn checks
+edenmlln checks
+*** RIVER *** [Js Tc 8c Ac][Ad]
+AAryPot_turn checks
+edenmlln checks
+*** SHOW DOWN ***
+edenmlln shows [9d 4h] (One pair : Aces)
+AAryPot_turn shows [8s Kh] (Two pairs : Aces and 8)
+AAryPot_turn collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Js Tc 8c Ac Ad]
+Seat 1: AAryPot_turn (small blind) showed [8s Kh] and won 80 with Two pairs : Aces and 8
+Seat 2: edenmlln (big blind) showed [9d 4h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4340647348389543937-4-1761684864 - Holdem no limit (10/20) - 2025/10/28 20:54:24 UTC
+Table: 'Expresso(1010635716)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AAryPot_turn (430)
+Seat 2: edenmlln (700)
+Seat 3: MathisKcr (370)
+*** ANTE/BLINDS ***
+edenmlln posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c 4c]
+*** PRE-FLOP *** 
+AAryPot_turn folds
+edenmlln raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [8c 4h 5h]
+edenmlln checks
+MathisKcr bets 60
+edenmlln folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [8c 4h 5h]
+Seat 3: MathisKcr (big blind) won 140
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4340647348389543937-5-1761684881 - Holdem no limit (10/20) - 2025/10/28 20:54:41 UTC
+Table: 'Expresso(1010635716)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AAryPot_turn (430)
+Seat 2: edenmlln (660)
+Seat 3: MathisKcr (410)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+AAryPot_turn posts big blind 20
+Dealt to MathisKcr [2d Ad]
+*** PRE-FLOP *** 
+edenmlln folds
+MathisKcr raises 20 to 40
+AAryPot_turn raises 390 to 430 and is all-in
+MathisKcr calls 370 and is all-in
+*** FLOP *** [Qs 3c Js]
+*** TURN *** [Qs 3c Js][As]
+*** RIVER *** [Qs 3c Js As][6h]
+*** SHOW DOWN ***
+MathisKcr shows [2d Ad] (One pair : Aces)
+AAryPot_turn shows [Ah 8h] (One pair : Aces)
+AAryPot_turn collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [Qs 3c Js As 6h]
+Seat 1: AAryPot_turn (big blind) showed [Ah 8h] and won 840 with One pair : Aces
+Seat 3: MathisKcr (small blind) showed [2d Ad] and lost with One pair : Aces
+
+

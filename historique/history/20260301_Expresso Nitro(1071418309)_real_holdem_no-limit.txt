@@ -1,0 +1,261 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601706597490622465-1-1772396922 - Holdem no limit (10/20) - 2026/03/01 20:28:42 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Awai3986 (300)
+Seat 3: Aviel07 (300)
+*** ANTE/BLINDS ***
+Aviel07 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3s As]
+*** PRE-FLOP *** 
+Awai3986 raises 280 to 300 and is all-in
+Aviel07 folds
+MathisKcr calls 280 and is all-in
+*** FLOP *** [6c 8s Ks]
+*** TURN *** [6c 8s Ks][Jh]
+*** RIVER *** [6c 8s Ks Jh][5d]
+*** SHOW DOWN ***
+Awai3986 shows [9c Tc] (High card : King)
+MathisKcr shows [3s As] (High card : Ace)
+MathisKcr collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [6c 8s Ks Jh 5d]
+Seat 1: MathisKcr (big blind) showed [3s As] and won 610 with High card : Ace
+Seat 2: Awai3986 (button) showed [9c Tc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601706597490622465-2-1772396937 - Holdem no limit (10/20) - 2026/03/01 20:28:57 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (610)
+Seat 3: Aviel07 (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Aviel07 posts big blind 20
+Dealt to MathisKcr [9s Qd]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Aviel07 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601706597490622465-3-1772396946 - Holdem no limit (10/20) - 2026/03/01 20:29:06 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (630)
+Seat 3: Aviel07 (270)
+*** ANTE/BLINDS ***
+Aviel07 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8h 8c]
+*** PRE-FLOP *** 
+Aviel07 calls 10
+MathisKcr raises 610 to 630 and is all-in
+Aviel07 folds
+MathisKcr collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 1: MathisKcr (big blind) won 650
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601706597490622465-4-1772396954 - Holdem no limit (10/20) - 2026/03/01 20:29:14 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (650)
+Seat 3: Aviel07 (250)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Aviel07 posts big blind 20
+Dealt to MathisKcr [7c Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 630 to 650 and is all-in
+Aviel07 calls 230 and is all-in
+*** FLOP *** [Jh 7h Qh]
+*** TURN *** [Jh 7h Qh][Ts]
+*** RIVER *** [Jh 7h Qh Ts][8s]
+*** SHOW DOWN ***
+MathisKcr shows [7c Kd] (One pair : 7)
+Aviel07 shows [8h Ad] (One pair : 8)
+Aviel07 collected 500 from main pot
+MathisKcr collected 400 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh 7h Qh Ts 8s]
+Seat 1: MathisKcr (small blind) (button) showed [7c Kd] and won 400 with One pair : 7
+Seat 3: Aviel07 (big blind) showed [8h Ad] and won 500 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601706597490622465-5-1772396965 - Holdem no limit (10/20) - 2026/03/01 20:29:25 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (400)
+Seat 3: Aviel07 (500)
+*** ANTE/BLINDS ***
+Aviel07 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c Qd]
+*** PRE-FLOP *** 
+Aviel07 calls 10
+MathisKcr checks
+*** FLOP *** [8s 9s Kc]
+MathisKcr checks
+Aviel07 checks
+*** TURN *** [8s 9s Kc][4d]
+MathisKcr checks
+Aviel07 checks
+*** RIVER *** [8s 9s Kc 4d][Tc]
+MathisKcr checks
+Aviel07 checks
+*** SHOW DOWN ***
+MathisKcr shows [3c Qd] (High card : King)
+Aviel07 shows [2c 8h] (One pair : 8)
+Aviel07 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [8s 9s Kc 4d Tc]
+Seat 1: MathisKcr (big blind) showed [3c Qd] and lost with High card : King
+Seat 3: Aviel07 (small blind) (button) showed [2c 8h] and won 40 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601706597490622465-6-1772396998 - Holdem no limit (15/30) - 2026/03/01 20:29:58 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (380)
+Seat 3: Aviel07 (520)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Aviel07 posts big blind 30
+Dealt to MathisKcr [8c 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Aviel07 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601706597490622465-7-1772397005 - Holdem no limit (15/30) - 2026/03/01 20:30:05 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (410)
+Seat 3: Aviel07 (490)
+*** ANTE/BLINDS ***
+Aviel07 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad 3c]
+*** PRE-FLOP *** 
+Aviel07 raises 460 to 490 and is all-in
+MathisKcr folds
+Aviel07 shows [Th Ac] (High card : Ace)
+Aviel07 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 3: Aviel07 (small blind) (button) showed [Th Ac] and won 520 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601706597490622465-8-1772397013 - Holdem no limit (15/30) - 2026/03/01 20:30:13 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (380)
+Seat 3: Aviel07 (520)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Aviel07 posts big blind 30
+Dealt to MathisKcr [Tc 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Aviel07 shows [Ts Kc] (High card : King)
+Aviel07 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Aviel07 (big blind) showed [Ts Kc] and won 45 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601706597490622465-9-1772397019 - Holdem no limit (15/30) - 2026/03/01 20:30:19 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (365)
+Seat 3: Aviel07 (535)
+*** ANTE/BLINDS ***
+Aviel07 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8c Td]
+*** PRE-FLOP *** 
+Aviel07 calls 15
+MathisKcr checks
+*** FLOP *** [5c Ah 7s]
+MathisKcr checks
+Aviel07 checks
+*** TURN *** [5c Ah 7s][2c]
+MathisKcr checks
+Aviel07 bets 30
+MathisKcr folds
+Aviel07 shows [Ks Ad] (One pair : Aces)
+Aviel07 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5c Ah 7s 2c]
+Seat 3: Aviel07 (small blind) (button) showed [Ks Ad] and won 90 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601706597490622465-10-1772397035 - Holdem no limit (15/30) - 2026/03/01 20:30:35 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (335)
+Seat 3: Aviel07 (565)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Aviel07 posts big blind 30
+Dealt to MathisKcr [Qc 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Aviel07 shows [7d Ad] (High card : Ace)
+Aviel07 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Aviel07 (big blind) showed [7d Ad] and won 45 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4601706597490622465-11-1772397040 - Holdem no limit (20/40) - 2026/03/01 20:30:40 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (320)
+Seat 3: Aviel07 (580)
+*** ANTE/BLINDS ***
+Aviel07 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9s Kc]
+*** PRE-FLOP *** 
+Aviel07 calls 20
+MathisKcr raises 280 to 320 and is all-in
+Aviel07 folds
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: MathisKcr (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4601706597490622465-12-1772397048 - Holdem no limit (20/40) - 2026/03/01 20:30:48 UTC
+Table: 'Expresso Nitro(1071418309)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (360)
+Seat 3: Aviel07 (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Aviel07 posts big blind 40
+Dealt to MathisKcr [8d Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Aviel07 raises 40 to 120
+MathisKcr calls 40
+*** FLOP *** [Qh 5s 7s]
+Aviel07 bets 156
+MathisKcr raises 84 to 240 and is all-in
+Aviel07 calls 84
+*** TURN *** [Qh 5s 7s][Tc]
+*** RIVER *** [Qh 5s 7s Tc][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [8d Qs] (One pair : Queens)
+Aviel07 shows [Kd Qd] (Two pairs : Kings and Queens)
+Aviel07 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Qh 5s 7s Tc Kc]
+Seat 1: MathisKcr (small blind) (button) showed [8d Qs] and lost with One pair : Queens
+Seat 3: Aviel07 (big blind) showed [Kd Qd] and won 720 with Two pairs : Kings and Queens
+
+

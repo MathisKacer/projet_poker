@@ -1,0 +1,292 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668513997736116225-1-1774796485 - Holdem no limit (10/20) - 2026/03/29 15:01:25 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shine013 (300)
+Seat 2: MathisKcr (300)
+Seat 3: AJ_Crack554 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+AJ_Crack554 posts big blind 20
+Dealt to MathisKcr [Kc Jc]
+*** PRE-FLOP *** 
+Shine013 calls 20
+MathisKcr raises 280 to 300 and is all-in
+AJ_Crack554 folds
+Shine013 calls 280 and is all-in
+*** FLOP *** [7c 4c 8d]
+*** TURN *** [7c 4c 8d][2h]
+*** RIVER *** [7c 4c 8d 2h][3d]
+*** SHOW DOWN ***
+Shine013 shows [9s Qs] (High card : Queen)
+MathisKcr shows [Kc Jc] (High card : King)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [7c 4c 8d 2h 3d]
+Seat 1: Shine013 (button) showed [9s Qs] and lost with High card : Queen
+Seat 2: MathisKcr (small blind) showed [Kc Jc] and won 620 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668513997736116225-2-1774796501 - Holdem no limit (10/20) - 2026/03/29 15:01:41 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (620)
+Seat 3: AJ_Crack554 (280)
+*** ANTE/BLINDS ***
+AJ_Crack554 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8s 7d]
+*** PRE-FLOP *** 
+AJ_Crack554 calls 10
+MathisKcr checks
+*** FLOP *** [6d 7c 3c]
+MathisKcr bets 32
+AJ_Crack554 folds
+MathisKcr collected 72 from pot
+*** SUMMARY ***
+Total pot 72 | No rake
+Board: [6d 7c 3c]
+Seat 2: MathisKcr (big blind) won 72
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668513997736116225-3-1774796514 - Holdem no limit (10/20) - 2026/03/29 15:01:54 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (640)
+Seat 3: AJ_Crack554 (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+AJ_Crack554 posts big blind 20
+Dealt to MathisKcr [Ts 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+AJ_Crack554 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: AJ_Crack554 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668513997736116225-4-1774796523 - Holdem no limit (10/20) - 2026/03/29 15:02:03 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (630)
+Seat 3: AJ_Crack554 (270)
+*** ANTE/BLINDS ***
+AJ_Crack554 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s 8s]
+*** PRE-FLOP *** 
+AJ_Crack554 raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [8d 7d Kc]
+MathisKcr bets 40
+AJ_Crack554 raises 40 to 80
+MathisKcr raises 510 to 590 and is all-in
+AJ_Crack554 calls 150 and is all-in
+*** TURN *** [8d 7d Kc][9d]
+*** RIVER *** [8d 7d Kc 9d][Td]
+*** SHOW DOWN ***
+MathisKcr shows [6s 8s] (Straight Ten high)
+AJ_Crack554 shows [Ac Kd] (Flush King high)
+AJ_Crack554 collected 540 from main pot
+MathisKcr collected 360 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d 7d Kc 9d Td]
+Seat 2: MathisKcr (big blind) showed [6s 8s] and won 360 with Straight Ten high
+Seat 3: AJ_Crack554 (small blind) (button) showed [Ac Kd] and won 540 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668513997736116225-5-1774796553 - Holdem no limit (15/30) - 2026/03/29 15:02:33 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (360)
+Seat 3: AJ_Crack554 (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+AJ_Crack554 posts big blind 30
+Dealt to MathisKcr [4h 9s]
+*** PRE-FLOP *** 
+MathisKcr folds
+AJ_Crack554 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: AJ_Crack554 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668513997736116225-6-1774796560 - Holdem no limit (15/30) - 2026/03/29 15:02:40 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (345)
+Seat 3: AJ_Crack554 (555)
+*** ANTE/BLINDS ***
+AJ_Crack554 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9h 6h]
+*** PRE-FLOP *** 
+AJ_Crack554 raises 30 to 60
+MathisKcr folds
+AJ_Crack554 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: AJ_Crack554 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668513997736116225-7-1774796571 - Holdem no limit (15/30) - 2026/03/29 15:02:51 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (315)
+Seat 3: AJ_Crack554 (585)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+AJ_Crack554 posts big blind 30
+Dealt to MathisKcr [8c 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+AJ_Crack554 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: AJ_Crack554 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668513997736116225-8-1774796579 - Holdem no limit (15/30) - 2026/03/29 15:02:59 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (300)
+Seat 3: AJ_Crack554 (600)
+*** ANTE/BLINDS ***
+AJ_Crack554 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Js 7s]
+*** PRE-FLOP *** 
+AJ_Crack554 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668513997736116225-9-1774796584 - Holdem no limit (15/30) - 2026/03/29 15:03:04 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (315)
+Seat 3: AJ_Crack554 (585)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+AJ_Crack554 posts big blind 30
+Dealt to MathisKcr [Ac 5c]
+*** PRE-FLOP *** 
+MathisKcr raises 285 to 315 and is all-in
+AJ_Crack554 folds
+MathisKcr collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 2: MathisKcr (small blind) (button) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668513997736116225-10-1774796590 - Holdem no limit (15/30) - 2026/03/29 15:03:10 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (345)
+Seat 3: AJ_Crack554 (555)
+*** ANTE/BLINDS ***
+AJ_Crack554 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ac 6d]
+*** PRE-FLOP *** 
+AJ_Crack554 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668513997736116225-11-1774796597 - Holdem no limit (15/30) - 2026/03/29 15:03:17 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (360)
+Seat 3: AJ_Crack554 (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+AJ_Crack554 posts big blind 30
+Dealt to MathisKcr [5d 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+AJ_Crack554 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: AJ_Crack554 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668513997736116225-12-1774796605 - Holdem no limit (20/40) - 2026/03/29 15:03:25 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (345)
+Seat 3: AJ_Crack554 (555)
+*** ANTE/BLINDS ***
+AJ_Crack554 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ts 8s]
+*** PRE-FLOP *** 
+AJ_Crack554 calls 20
+MathisKcr checks
+*** FLOP *** [Jc 2h 6c]
+MathisKcr checks
+AJ_Crack554 bets 40
+MathisKcr calls 40
+*** TURN *** [Jc 2h 6c][8c]
+MathisKcr bets 80
+AJ_Crack554 calls 80
+*** RIVER *** [Jc 2h 6c 8c][Kc]
+MathisKcr checks
+AJ_Crack554 checks
+*** SHOW DOWN ***
+MathisKcr shows [Ts 8s] (One pair : 8)
+AJ_Crack554 shows [Qh 2c] (Flush King high)
+AJ_Crack554 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Jc 2h 6c 8c Kc]
+Seat 2: MathisKcr (big blind) showed [Ts 8s] and lost with One pair : 8
+Seat 3: AJ_Crack554 (small blind) (button) showed [Qh 2c] and won 320 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668513997736116225-13-1774796636 - Holdem no limit (20/40) - 2026/03/29 15:03:56 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (185)
+Seat 3: AJ_Crack554 (715)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+AJ_Crack554 posts big blind 40
+Dealt to MathisKcr [3h Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 145 to 185 and is all-in
+AJ_Crack554 calls 145
+*** FLOP *** [5s Qd 3c]
+*** TURN *** [5s Qd 3c][2h]
+*** RIVER *** [5s Qd 3c 2h][8h]
+*** SHOW DOWN ***
+AJ_Crack554 shows [Jh Tc] (High card : Queen)
+MathisKcr shows [3h Kc] (One pair : 3)
+MathisKcr collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Board: [5s Qd 3c 2h 8h]
+Seat 2: MathisKcr (small blind) (button) showed [3h Kc] and won 370 with One pair : 3
+Seat 3: AJ_Crack554 (big blind) showed [Jh Tc] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668513997736116225-14-1774796649 - Holdem no limit (20/40) - 2026/03/29 15:04:09 UTC
+Table: 'Expresso Nitro(1086973119)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (370)
+Seat 3: AJ_Crack554 (530)
+*** ANTE/BLINDS ***
+AJ_Crack554 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [2h 2c]
+*** PRE-FLOP *** 
+AJ_Crack554 raises 40 to 80
+MathisKcr raises 290 to 370 and is all-in
+AJ_Crack554 raises 160 to 530 and is all-in
+*** FLOP *** [Jd 8h 9s]
+*** TURN *** [Jd 8h 9s][5c]
+*** RIVER *** [Jd 8h 9s 5c][7h]
+*** SHOW DOWN ***
+MathisKcr shows [2h 2c] (One pair : 2)
+AJ_Crack554 shows [9d Kh] (One pair : 9)
+AJ_Crack554 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jd 8h 9s 5c 7h]
+Seat 2: MathisKcr (big blind) showed [2h 2c] and lost with One pair : 2
+Seat 3: AJ_Crack554 (small blind) (button) showed [9d Kh] and won 900 with One pair : 9
+
+

@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668470824724856833-1-1774794954 - Holdem no limit (10/20) - 2026/03/29 14:35:54 UTC
+Table: 'Expresso Nitro(1086963067)#0' 3-max (real money) Seat #2 is the button
+Seat 1: moche33 (300)
+Seat 2: Llanes777 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+moche33 posts big blind 20
+Dealt to MathisKcr [Jh 4h]
+*** PRE-FLOP *** 
+Llanes777 raises 50 to 70
+MathisKcr folds
+moche33 folds
+Llanes777 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 2: Llanes777 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668470824724856833-2-1774794973 - Holdem no limit (10/20) - 2026/03/29 14:36:13 UTC
+Table: 'Expresso Nitro(1086963067)#0' 3-max (real money) Seat #3 is the button
+Seat 1: moche33 (280)
+Seat 2: Llanes777 (330)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+moche33 posts small blind 10
+Llanes777 posts big blind 20
+Dealt to MathisKcr [Jd Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+moche33 raises 60 to 100
+Llanes777 calls 80
+MathisKcr raises 190 to 290 and is all-in
+moche33 calls 180 and is all-in
+Llanes777 calls 190
+*** FLOP *** [5d 4h 5h]
+*** TURN *** [5d 4h 5h][2s]
+*** RIVER *** [5d 4h 5h 2s][Qc]
+*** SHOW DOWN ***
+moche33 shows [8d 8s] (Two pairs : 8 and 5)
+MathisKcr shows [Jd Jh] (Two pairs : Jacks and 5)
+Llanes777 shows [2d 5s] (Full of 5 and 2)
+Llanes777 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [5d 4h 5h 2s Qc]
+Seat 1: moche33 (small blind) showed [8d 8s] and lost with Two pairs : 8 and 5
+Seat 2: Llanes777 (big blind) showed [2d 5s] and won 860 with Full of 5 and 2
+Seat 3: MathisKcr (button) showed [Jd Jh] and lost with Two pairs : Jacks and 5
+
+

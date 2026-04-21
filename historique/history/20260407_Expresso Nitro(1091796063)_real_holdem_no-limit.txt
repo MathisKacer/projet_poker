@@ -1,0 +1,178 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4689228384486555649-1-1775579760 - Holdem no limit (10/20) - 2026/04/07 16:36:00 UTC
+Table: 'Expresso Nitro(1091796063)#0' 3-max (real money) Seat #3 is the button
+Seat 1: cameleon9988 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Mothe40 (300)
+*** ANTE/BLINDS ***
+cameleon9988 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qd Jc]
+*** PRE-FLOP *** 
+Mothe40 raises 20 to 40
+cameleon9988 raises 260 to 300 and is all-in
+MathisKcr folds
+Mothe40 calls 260 and is all-in
+*** FLOP *** [9s 7s 9c]
+*** TURN *** [9s 7s 9c][4c]
+*** RIVER *** [9s 7s 9c 4c][7h]
+*** SHOW DOWN ***
+Mothe40 shows [Tc Kd] (Two pairs : 9 and 7)
+cameleon9988 shows [Ac 8h] (Two pairs : 9 and 7)
+cameleon9988 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9s 7s 9c 4c 7h]
+Seat 1: cameleon9988 (small blind) showed [Ac 8h] and won 620 with Two pairs : 9 and 7
+Seat 3: Mothe40 (button) showed [Tc Kd] and lost with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4689228384486555649-2-1775579780 - Holdem no limit (10/20) - 2026/04/07 16:36:20 UTC
+Table: 'Expresso Nitro(1091796063)#0' 3-max (real money) Seat #2 is the button
+Seat 1: cameleon9988 (620)
+Seat 2: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+cameleon9988 posts big blind 20
+Dealt to MathisKcr [Tc 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 260 to 280 and is all-in
+cameleon9988 calls 260
+*** FLOP *** [Kc Jh Th]
+*** TURN *** [Kc Jh Th][2d]
+*** RIVER *** [Kc Jh Th 2d][6h]
+*** SHOW DOWN ***
+cameleon9988 shows [3s Qd] (High card : King)
+MathisKcr shows [Tc 9c] (One pair : Tens)
+MathisKcr collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Kc Jh Th 2d 6h]
+Seat 1: cameleon9988 (big blind) showed [3s Qd] and lost with High card : King
+Seat 2: MathisKcr (small blind) (button) showed [Tc 9c] and won 560 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4689228384486555649-3-1775579804 - Holdem no limit (10/20) - 2026/04/07 16:36:44 UTC
+Table: 'Expresso Nitro(1091796063)#0' 3-max (real money) Seat #1 is the button
+Seat 1: cameleon9988 (340)
+Seat 2: MathisKcr (560)
+*** ANTE/BLINDS ***
+cameleon9988 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8c 8d]
+*** PRE-FLOP *** 
+cameleon9988 raises 320 to 340 and is all-in
+MathisKcr calls 320
+*** FLOP *** [5c Kh 9d]
+*** TURN *** [5c Kh 9d][As]
+*** RIVER *** [5c Kh 9d As][Qd]
+*** SHOW DOWN ***
+MathisKcr shows [8c 8d] (One pair : 8)
+cameleon9988 shows [4c Qs] (One pair : Queens)
+cameleon9988 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [5c Kh 9d As Qd]
+Seat 1: cameleon9988 (small blind) (button) showed [4c Qs] and won 680 with One pair : Queens
+Seat 2: MathisKcr (big blind) showed [8c 8d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4689228384486555649-4-1775579821 - Holdem no limit (15/30) - 2026/04/07 16:37:01 UTC
+Table: 'Expresso Nitro(1091796063)#0' 3-max (real money) Seat #2 is the button
+Seat 1: cameleon9988 (680)
+Seat 2: MathisKcr (220)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+cameleon9988 posts big blind 30
+Dealt to MathisKcr [4d Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 190 to 220 and is all-in
+cameleon9988 calls 190
+*** FLOP *** [7s 4h 9h]
+*** TURN *** [7s 4h 9h][4s]
+*** RIVER *** [7s 4h 9h 4s][9s]
+*** SHOW DOWN ***
+cameleon9988 shows [6h 2h] (Two pairs : 9 and 4)
+MathisKcr shows [4d Kd] (Full of 4 and 9)
+MathisKcr collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [7s 4h 9h 4s 9s]
+Seat 1: cameleon9988 (big blind) showed [6h 2h] and lost with Two pairs : 9 and 4
+Seat 2: MathisKcr (small blind) (button) showed [4d Kd] and won 440 with Full of 4 and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4689228384486555649-5-1775579837 - Holdem no limit (15/30) - 2026/04/07 16:37:17 UTC
+Table: 'Expresso Nitro(1091796063)#0' 3-max (real money) Seat #1 is the button
+Seat 1: cameleon9988 (460)
+Seat 2: MathisKcr (440)
+*** ANTE/BLINDS ***
+cameleon9988 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4s 2d]
+*** PRE-FLOP *** 
+cameleon9988 raises 430 to 460 and is all-in
+MathisKcr folds
+cameleon9988 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Seat 1: cameleon9988 (small blind) (button) won 490
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4689228384486555649-6-1775579846 - Holdem no limit (15/30) - 2026/04/07 16:37:26 UTC
+Table: 'Expresso Nitro(1091796063)#0' 3-max (real money) Seat #2 is the button
+Seat 1: cameleon9988 (490)
+Seat 2: MathisKcr (410)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+cameleon9988 posts big blind 30
+Dealt to MathisKcr [9s 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+cameleon9988 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: cameleon9988 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4689228384486555649-7-1775579851 - Holdem no limit (15/30) - 2026/04/07 16:37:31 UTC
+Table: 'Expresso Nitro(1091796063)#0' 3-max (real money) Seat #1 is the button
+Seat 1: cameleon9988 (505)
+Seat 2: MathisKcr (395)
+*** ANTE/BLINDS ***
+cameleon9988 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3c 5s]
+*** PRE-FLOP *** 
+cameleon9988 raises 475 to 505 and is all-in
+MathisKcr folds
+cameleon9988 collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Seat 1: cameleon9988 (small blind) (button) won 535
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4689228384486555649-8-1775579856 - Holdem no limit (15/30) - 2026/04/07 16:37:36 UTC
+Table: 'Expresso Nitro(1091796063)#0' 3-max (real money) Seat #2 is the button
+Seat 1: cameleon9988 (535)
+Seat 2: MathisKcr (365)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+cameleon9988 posts big blind 30
+Dealt to MathisKcr [9c Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 335 to 365 and is all-in
+cameleon9988 calls 335
+*** FLOP *** [2s 7h 5s]
+*** TURN *** [2s 7h 5s][5d]
+*** RIVER *** [2s 7h 5s 5d][Kh]
+*** SHOW DOWN ***
+MathisKcr shows [9c Jc] (One pair : 5)
+cameleon9988 shows [3s Kd] (Two pairs : Kings and 5)
+cameleon9988 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [2s 7h 5s 5d Kh]
+Seat 1: cameleon9988 (big blind) showed [3s Kd] and won 730 with Two pairs : Kings and 5
+Seat 2: MathisKcr (small blind) (button) showed [9c Jc] and lost with One pair : 5
+
+

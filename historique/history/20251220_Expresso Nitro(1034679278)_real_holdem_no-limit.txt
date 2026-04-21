@@ -1,0 +1,113 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4443913660858892289-1-1766249539 - Holdem no limit (10/20) - 2025/12/20 16:52:19 UTC
+Table: 'Expresso Nitro(1034679278)#0' 3-max (real money) Seat #3 is the button
+Seat 1: stephnono777 (300)
+Seat 2: SBStriker150 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+stephnono777 posts small blind 10
+SBStriker150 posts big blind 20
+Dealt to MathisKcr [9h 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+stephnono777 folds
+SBStriker150 folds
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: MathisKcr (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4443913660858892289-2-1766249548 - Holdem no limit (10/20) - 2025/12/20 16:52:28 UTC
+Table: 'Expresso Nitro(1034679278)#0' 3-max (real money) Seat #1 is the button
+Seat 1: stephnono777 (290)
+Seat 2: SBStriker150 (280)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+SBStriker150 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd Jc]
+*** PRE-FLOP *** 
+stephnono777 calls 20
+SBStriker150 raises 20 to 40
+MathisKcr calls 20
+stephnono777 calls 20
+*** FLOP *** [8h 3c 7c]
+SBStriker150 checks
+MathisKcr bets 40
+stephnono777 folds
+SBStriker150 calls 40
+*** TURN *** [8h 3c 7c][4c]
+SBStriker150 checks
+MathisKcr bets 60
+SBStriker150 calls 60
+*** RIVER *** [8h 3c 7c 4c][4h]
+SBStriker150 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Kd Jc] (One pair : 4)
+SBStriker150 shows [Qs Kh] (One pair : 4)
+SBStriker150 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [8h 3c 7c 4c 4h]
+Seat 2: SBStriker150 (small blind) showed [Qs Kh] and won 320 with One pair : 4
+Seat 3: MathisKcr (big blind) showed [Kd Jc] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4443913660858892289-3-1766249577 - Holdem no limit (10/20) - 2025/12/20 16:52:57 UTC
+Table: 'Expresso Nitro(1034679278)#0' 3-max (real money) Seat #2 is the button
+Seat 1: stephnono777 (250)
+Seat 2: SBStriker150 (460)
+Seat 3: MathisKcr (190)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+stephnono777 posts big blind 20
+Dealt to MathisKcr [Js Ah]
+*** PRE-FLOP *** 
+SBStriker150 calls 20
+MathisKcr raises 20 to 40
+stephnono777 calls 20
+SBStriker150 calls 20
+*** FLOP *** [Qh Kd 7d]
+MathisKcr bets 60
+stephnono777 folds
+SBStriker150 folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Qh Kd 7d]
+Seat 3: MathisKcr (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4443913660858892289-4-1766249594 - Holdem no limit (10/20) - 2025/12/20 16:53:14 UTC
+Table: 'Expresso Nitro(1034679278)#0' 3-max (real money) Seat #3 is the button
+Seat 1: stephnono777 (210)
+Seat 2: SBStriker150 (420)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+stephnono777 posts small blind 10
+SBStriker150 posts big blind 20
+Dealt to MathisKcr [Jc Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+stephnono777 calls 30
+SBStriker150 raises 20 to 60
+MathisKcr raises 210 to 270 and is all-in
+stephnono777 calls 170 and is all-in
+SBStriker150 calls 210
+*** FLOP *** [4h 9d 3d]
+*** TURN *** [4h 9d 3d][Ts]
+*** RIVER *** [4h 9d 3d Ts][6d]
+*** SHOW DOWN ***
+stephnono777 shows [Ah 4c] (One pair : 4)
+MathisKcr shows [Jc Kh] (High card : King)
+SBStriker150 shows [Td Th] (Trips of Tens)
+SBStriker150 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [4h 9d 3d Ts 6d]
+Seat 1: stephnono777 (small blind) showed [Ah 4c] and lost with One pair : 4
+Seat 2: SBStriker150 (big blind) showed [Td Th] and won 750 with Trips of Tens
+Seat 3: MathisKcr (button) showed [Jc Kh] and lost with High card : King
+
+

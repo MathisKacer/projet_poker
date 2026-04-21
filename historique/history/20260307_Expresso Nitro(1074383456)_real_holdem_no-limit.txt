@@ -1,0 +1,37 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614441806883454977-1-1772903063 - Holdem no limit (10/20) - 2026/03/07 17:04:23 UTC
+Table: 'Expresso Nitro(1074383456)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Cdr nino (300)
+Seat 3: MM-GOAT34373 (300)
+*** ANTE/BLINDS ***
+Cdr nino posts small blind 10
+MM-GOAT34373 posts big blind 20
+Dealt to MathisKcr [Js Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Cdr nino calls 50
+MM-GOAT34373 calls 40
+*** FLOP *** [7s 4c 8d]
+Cdr nino checks
+MM-GOAT34373 checks
+MathisKcr bets 63
+Cdr nino calls 63
+MM-GOAT34373 calls 63
+*** TURN *** [7s 4c 8d][5s]
+Cdr nino checks
+MM-GOAT34373 checks
+MathisKcr bets 177 and is all-in
+Cdr nino calls 177 and is all-in
+MM-GOAT34373 folds
+*** RIVER *** [7s 4c 8d 5s][Ah]
+*** SHOW DOWN ***
+MathisKcr shows [Js Ad] (One pair : Aces)
+Cdr nino shows [6s Qh] (Straight 8 high)
+Cdr nino collected 723 from pot
+*** SUMMARY ***
+Total pot 723 | No rake
+Board: [7s 4c 8d 5s Ah]
+Seat 1: MathisKcr (button) showed [Js Ad] and lost with One pair : Aces
+Seat 2: Cdr nino (small blind) showed [6s Qh] and won 723 with Straight 8 high
+
+

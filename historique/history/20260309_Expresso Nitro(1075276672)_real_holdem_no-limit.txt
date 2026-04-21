@@ -1,0 +1,160 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4618278140391718913-1-1773065800 - Holdem no limit (10/20) - 2026/03/09 14:16:40 UTC
+Table: 'Expresso Nitro(1075276672)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Campagnard44 (300)
+Seat 3: Hermine57255 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Campagnard44 posts big blind 20
+Dealt to MathisKcr [Qc 9d]
+*** PRE-FLOP *** 
+Hermine57255 folds
+MathisKcr calls 10
+Campagnard44 checks
+*** FLOP *** [5d 5h 3h]
+MathisKcr checks
+Campagnard44 bets 40
+MathisKcr folds
+Campagnard44 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5d 5h 3h]
+Seat 2: Campagnard44 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4618278140391718913-2-1773065830 - Holdem no limit (10/20) - 2026/03/09 14:17:10 UTC
+Table: 'Expresso Nitro(1075276672)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Campagnard44 (320)
+Seat 3: Hermine57255 (300)
+*** ANTE/BLINDS ***
+Campagnard44 posts small blind 10
+Hermine57255 posts big blind 20
+Dealt to MathisKcr [Qs 9h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Campagnard44 calls 30
+Hermine57255 calls 20
+*** FLOP *** [Jd 4c 3h]
+Campagnard44 checks
+Hermine57255 checks
+MathisKcr checks
+*** TURN *** [Jd 4c 3h][2d]
+Campagnard44 checks
+Hermine57255 bets 42
+MathisKcr folds
+Campagnard44 calls 42
+*** RIVER *** [Jd 4c 3h 2d][6s]
+Campagnard44 bets 133
+Hermine57255 folds
+Campagnard44 collected 337 from pot
+*** SUMMARY ***
+Total pot 337 | No rake
+Board: [Jd 4c 3h 2d 6s]
+Seat 2: Campagnard44 (small blind) won 337
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4618278140391718913-3-1773065874 - Holdem no limit (15/30) - 2026/03/09 14:17:54 UTC
+Table: 'Expresso Nitro(1075276672)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (240)
+Seat 2: Campagnard44 (442)
+Seat 3: Hermine57255 (218)
+*** ANTE/BLINDS ***
+Hermine57255 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5h Qh]
+*** PRE-FLOP *** 
+Campagnard44 folds
+Hermine57255 raises 30 to 60
+MathisKcr calls 30
+*** FLOP *** [5d Td 6d]
+Hermine57255 bets 30
+MathisKcr calls 30
+*** TURN *** [5d Td 6d][Ts]
+Hermine57255 bets 30
+MathisKcr calls 30
+*** RIVER *** [5d Td 6d Ts][As]
+Hermine57255 bets 30
+MathisKcr calls 30
+*** SHOW DOWN ***
+MathisKcr shows [5h Qh] (Two pairs : Tens and 5)
+Hermine57255 shows [Js 6h] (Two pairs : Tens and 6)
+Hermine57255 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [5d Td 6d Ts As]
+Seat 1: MathisKcr (big blind) showed [5h Qh] and lost with Two pairs : Tens and 5
+Seat 3: Hermine57255 (small blind) showed [Js 6h] and won 300 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4618278140391718913-4-1773065899 - Holdem no limit (15/30) - 2026/03/09 14:18:19 UTC
+Table: 'Expresso Nitro(1075276672)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (90)
+Seat 2: Campagnard44 (442)
+Seat 3: Hermine57255 (368)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Campagnard44 posts big blind 30
+Dealt to MathisKcr [7h 6d]
+*** PRE-FLOP *** 
+Hermine57255 folds
+MathisKcr folds
+Campagnard44 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Campagnard44 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4618278140391718913-5-1773065910 - Holdem no limit (15/30) - 2026/03/09 14:18:30 UTC
+Table: 'Expresso Nitro(1075276672)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (75)
+Seat 2: Campagnard44 (457)
+Seat 3: Hermine57255 (368)
+*** ANTE/BLINDS ***
+Campagnard44 posts small blind 15
+Hermine57255 posts big blind 30
+Dealt to MathisKcr [5s 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Campagnard44 calls 15
+Hermine57255 checks
+*** FLOP *** [8c Qs Td]
+Campagnard44 checks
+Hermine57255 bets 39
+Campagnard44 folds
+Hermine57255 collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [8c Qs Td]
+Seat 3: Hermine57255 (big blind) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4618278140391718913-6-1773065929 - Holdem no limit (20/40) - 2026/03/09 14:18:49 UTC
+Table: 'Expresso Nitro(1075276672)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (75)
+Seat 2: Campagnard44 (427)
+Seat 3: Hermine57255 (398)
+*** ANTE/BLINDS ***
+Hermine57255 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Js Kc]
+*** PRE-FLOP *** 
+Campagnard44 calls 40
+Hermine57255 calls 20
+MathisKcr raises 35 to 75 and is all-in
+Campagnard44 folds
+Hermine57255 calls 35
+*** FLOP *** [Ks 8h 9d]
+*** TURN *** [Ks 8h 9d][3s]
+*** RIVER *** [Ks 8h 9d 3s][9s]
+*** SHOW DOWN ***
+MathisKcr shows [Js Kc] (Two pairs : Kings and 9)
+Hermine57255 shows [9c Qd] (Trips of 9)
+Hermine57255 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [Ks 8h 9d 3s 9s]
+Seat 1: MathisKcr (big blind) showed [Js Kc] and lost with Two pairs : Kings and 9
+Seat 3: Hermine57255 (small blind) showed [9c Qd] and won 190 with Trips of 9
+
+

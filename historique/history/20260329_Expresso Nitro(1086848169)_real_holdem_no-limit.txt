@@ -1,0 +1,490 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667977341572481025-1-1774775231 - Holdem no limit (10/20) - 2026/03/29 09:07:11 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bronce 85319 (300)
+Seat 2: MathisKcr (300)
+Seat 3: MP Chasseur1 (300)
+*** ANTE/BLINDS ***
+MP Chasseur1 posts small blind 10
+Bronce 85319 posts big blind 20
+Dealt to MathisKcr [2h 7h]
+*** PRE-FLOP *** 
+MathisKcr folds
+MP Chasseur1 calls 10
+Bronce 85319 checks
+*** FLOP *** [5d 2c Jd]
+MP Chasseur1 checks
+Bronce 85319 bets 26
+MP Chasseur1 calls 26
+*** TURN *** [5d 2c Jd][5s]
+MP Chasseur1 checks
+Bronce 85319 bets 60
+MP Chasseur1 calls 60
+*** RIVER *** [5d 2c Jd 5s][4h]
+MP Chasseur1 bets 20
+Bronce 85319 raises 157 to 177
+MP Chasseur1 calls 157
+*** SHOW DOWN ***
+Bronce 85319 shows [Kd 9s] (One pair : 5)
+MP Chasseur1 shows [4d 7d] (Two pairs : 5 and 4)
+MP Chasseur1 collected 566 from pot
+*** SUMMARY ***
+Total pot 566 | No rake
+Board: [5d 2c Jd 5s 4h]
+Seat 1: Bronce 85319 (big blind) showed [Kd 9s] and lost with One pair : 5
+Seat 3: MP Chasseur1 (small blind) showed [4d 7d] and won 566 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667977341572481025-2-1774775265 - Holdem no limit (10/20) - 2026/03/29 09:07:45 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bronce 85319 (17)
+Seat 2: MathisKcr (300)
+Seat 3: MP Chasseur1 (583)
+*** ANTE/BLINDS ***
+Bronce 85319 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qd 3c]
+*** PRE-FLOP *** 
+MP Chasseur1 calls 20
+Bronce 85319 calls 7 and is all-in
+MathisKcr checks
+*** FLOP *** [Jd 7c 2d]
+MathisKcr checks
+MP Chasseur1 checks
+*** TURN *** [Jd 7c 2d][Jh]
+MathisKcr checks
+MP Chasseur1 checks
+*** RIVER *** [Jd 7c 2d Jh][8h]
+MathisKcr checks
+MP Chasseur1 checks
+*** SHOW DOWN ***
+MathisKcr shows [Qd 3c] (One pair : Jacks)
+Bronce 85319 shows [3h 8c] (Two pairs : Jacks and 8)
+MP Chasseur1 shows [7s Th] (Two pairs : Jacks and 7)
+MP Chasseur1 collected 6 from side pot 1
+Bronce 85319 collected 51 from main pot
+*** SUMMARY ***
+Total pot 57 | No rake
+Board: [Jd 7c 2d Jh 8h]
+Seat 1: Bronce 85319 (small blind) showed [3h 8c] and won 51 with Two pairs : Jacks and 8
+Seat 2: MathisKcr (big blind) showed [Qd 3c] and lost with One pair : Jacks
+Seat 3: MP Chasseur1 (button) showed [7s Th] and won 6 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667977341572481025-3-1774775280 - Holdem no limit (10/20) - 2026/03/29 09:08:00 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bronce 85319 (51)
+Seat 2: MathisKcr (280)
+Seat 3: MP Chasseur1 (569)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+MP Chasseur1 posts big blind 20
+Dealt to MathisKcr [7s Js]
+*** PRE-FLOP *** 
+Bronce 85319 raises 31 to 51 and is all-in
+MathisKcr folds
+MP Chasseur1 calls 31
+*** FLOP *** [6h Td 6d]
+*** TURN *** [6h Td 6d][8d]
+*** RIVER *** [6h Td 6d 8d][Jh]
+*** SHOW DOWN ***
+MP Chasseur1 shows [4c 4s] (Two pairs : 6 and 4)
+Bronce 85319 shows [Ts 3d] (Two pairs : Tens and 6)
+Bronce 85319 collected 112 from pot
+*** SUMMARY ***
+Total pot 112 | No rake
+Board: [6h Td 6d 8d Jh]
+Seat 1: Bronce 85319 (button) showed [Ts 3d] and won 112 with Two pairs : Tens and 6
+Seat 3: MP Chasseur1 (big blind) showed [4c 4s] and lost with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667977341572481025-4-1774775301 - Holdem no limit (15/30) - 2026/03/29 09:08:21 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bronce 85319 (112)
+Seat 2: MathisKcr (270)
+Seat 3: MP Chasseur1 (518)
+*** ANTE/BLINDS ***
+MP Chasseur1 posts small blind 15
+Bronce 85319 posts big blind 30
+Dealt to MathisKcr [5s 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+MP Chasseur1 folds
+Bronce 85319 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Bronce 85319 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667977341572481025-5-1774775305 - Holdem no limit (15/30) - 2026/03/29 09:08:25 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bronce 85319 (127)
+Seat 2: MathisKcr (270)
+Seat 3: MP Chasseur1 (503)
+*** ANTE/BLINDS ***
+Bronce 85319 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kc 3s]
+*** PRE-FLOP *** 
+MP Chasseur1 raises 75 to 105
+Bronce 85319 raises 22 to 127 and is all-in
+MathisKcr folds
+MP Chasseur1 calls 22
+*** FLOP *** [Kh 8h Qh]
+*** TURN *** [Kh 8h Qh][6h]
+*** RIVER *** [Kh 8h Qh 6h][8s]
+*** SHOW DOWN ***
+MP Chasseur1 shows [Qc As] (Two pairs : Queens and 8)
+Bronce 85319 shows [Th Jh] (Flush King high)
+Bronce 85319 collected 284 from pot
+*** SUMMARY ***
+Total pot 284 | No rake
+Board: [Kh 8h Qh 6h 8s]
+Seat 1: Bronce 85319 (small blind) showed [Th Jh] and won 284 with Flush King high
+Seat 3: MP Chasseur1 (button) showed [Qc As] and lost with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667977341572481025-6-1774775322 - Holdem no limit (15/30) - 2026/03/29 09:08:42 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bronce 85319 (284)
+Seat 2: MathisKcr (240)
+Seat 3: MP Chasseur1 (376)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+MP Chasseur1 posts big blind 30
+Dealt to MathisKcr [Tc 5h]
+*** PRE-FLOP *** 
+Bronce 85319 folds
+MathisKcr folds
+MP Chasseur1 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MP Chasseur1 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667977341572481025-7-1774775336 - Holdem no limit (15/30) - 2026/03/29 09:08:56 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bronce 85319 (284)
+Seat 2: MathisKcr (225)
+Seat 3: MP Chasseur1 (391)
+*** ANTE/BLINDS ***
+MP Chasseur1 posts small blind 15
+Bronce 85319 posts big blind 30
+Dealt to MathisKcr [Ts Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 195 to 225 and is all-in
+MP Chasseur1 folds
+Bronce 85319 folds
+MathisKcr collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 2: MathisKcr (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667977341572481025-8-1774775346 - Holdem no limit (15/30) - 2026/03/29 09:09:06 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bronce 85319 (254)
+Seat 2: MathisKcr (270)
+Seat 3: MP Chasseur1 (376)
+*** ANTE/BLINDS ***
+Bronce 85319 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9h 7d]
+*** PRE-FLOP *** 
+MP Chasseur1 calls 30
+Bronce 85319 folds
+MathisKcr checks
+*** FLOP *** [Td 2c 7s]
+MathisKcr bets 30
+MP Chasseur1 folds
+MathisKcr collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [Td 2c 7s]
+Seat 2: MathisKcr (big blind) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667977341572481025-9-1774775356 - Holdem no limit (20/40) - 2026/03/29 09:09:16 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bronce 85319 (239)
+Seat 2: MathisKcr (315)
+Seat 3: MP Chasseur1 (346)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+MP Chasseur1 posts big blind 40
+Dealt to MathisKcr [6h 8d]
+*** PRE-FLOP *** 
+Bronce 85319 folds
+MathisKcr folds
+MP Chasseur1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MP Chasseur1 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667977341572481025-10-1774775363 - Holdem no limit (20/40) - 2026/03/29 09:09:23 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bronce 85319 (239)
+Seat 2: MathisKcr (295)
+Seat 3: MP Chasseur1 (366)
+*** ANTE/BLINDS ***
+MP Chasseur1 posts small blind 20
+Bronce 85319 posts big blind 40
+Dealt to MathisKcr [Kc Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+MP Chasseur1 folds
+Bronce 85319 raises 159 to 239 and is all-in
+MathisKcr calls 159
+*** FLOP *** [7c 6s Ts]
+*** TURN *** [7c 6s Ts][As]
+*** RIVER *** [7c 6s Ts As][6d]
+*** SHOW DOWN ***
+MathisKcr shows [Kc Kd] (Two pairs : Kings and 6)
+Bronce 85319 shows [3s Ad] (Two pairs : Aces and 6)
+Bronce 85319 collected 498 from pot
+*** SUMMARY ***
+Total pot 498 | No rake
+Board: [7c 6s Ts As 6d]
+Seat 1: Bronce 85319 (big blind) showed [3s Ad] and won 498 with Two pairs : Aces and 6
+Seat 2: MathisKcr (button) showed [Kc Kd] and lost with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667977341572481025-11-1774775378 - Holdem no limit (20/40) - 2026/03/29 09:09:38 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bronce 85319 (498)
+Seat 2: MathisKcr (56)
+Seat 3: MP Chasseur1 (346)
+*** ANTE/BLINDS ***
+Bronce 85319 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ts Qs]
+*** PRE-FLOP *** 
+MP Chasseur1 folds
+Bronce 85319 raises 40 to 80
+MathisKcr calls 16 and is all-in
+*** FLOP *** [Ac Th 9c]
+*** TURN *** [Ac Th 9c][8h]
+*** RIVER *** [Ac Th 9c 8h][4h]
+*** SHOW DOWN ***
+Bronce 85319 shows [7s 9s] (One pair : 9)
+MathisKcr shows [Ts Qs] (One pair : Tens)
+MathisKcr collected 112 from main pot
+Bronce 85319 collected 24 from side pot 1
+*** SUMMARY ***
+Total pot 136 | No rake
+Board: [Ac Th 9c 8h 4h]
+Seat 1: Bronce 85319 (small blind) showed [7s 9s] and won 24 with One pair : 9
+Seat 2: MathisKcr (big blind) showed [Ts Qs] and won 112 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667977341572481025-12-1774775391 - Holdem no limit (20/40) - 2026/03/29 09:09:51 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bronce 85319 (442)
+Seat 2: MathisKcr (112)
+Seat 3: MP Chasseur1 (346)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+MP Chasseur1 posts big blind 40
+Dealt to MathisKcr [Qd 3c]
+*** PRE-FLOP *** 
+Bronce 85319 folds
+MathisKcr raises 72 to 112 and is all-in
+MP Chasseur1 folds
+MathisKcr collected 152 from pot
+*** SUMMARY ***
+Total pot 152 | No rake
+Seat 2: MathisKcr (small blind) won 152
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667977341572481025-13-1774775402 - Holdem no limit (20/40) - 2026/03/29 09:10:02 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bronce 85319 (442)
+Seat 2: MathisKcr (152)
+Seat 3: MP Chasseur1 (306)
+*** ANTE/BLINDS ***
+MP Chasseur1 posts small blind 20
+Bronce 85319 posts big blind 40
+Dealt to MathisKcr [9c Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 112 to 152 and is all-in
+MP Chasseur1 folds
+Bronce 85319 folds
+MathisKcr collected 212 from pot
+*** SUMMARY ***
+Total pot 212 | No rake
+Seat 2: MathisKcr (button) won 212
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4667977341572481025-14-1774775408 - Holdem no limit (30/60) - 2026/03/29 09:10:08 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bronce 85319 (402)
+Seat 2: MathisKcr (212)
+Seat 3: MP Chasseur1 (286)
+*** ANTE/BLINDS ***
+Bronce 85319 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Jd Qd]
+*** PRE-FLOP *** 
+MP Chasseur1 calls 60
+Bronce 85319 folds
+MathisKcr raises 152 to 212 and is all-in
+MP Chasseur1 calls 152
+*** FLOP *** [9h 5c Tc]
+*** TURN *** [9h 5c Tc][6s]
+*** RIVER *** [9h 5c Tc 6s][6d]
+*** SHOW DOWN ***
+MP Chasseur1 shows [7c Qs] (One pair : 6)
+MathisKcr shows [Jd Qd] (One pair : 6)
+MathisKcr collected 454 from pot
+*** SUMMARY ***
+Total pot 454 | No rake
+Board: [9h 5c Tc 6s 6d]
+Seat 2: MathisKcr (big blind) showed [Jd Qd] and won 454 with One pair : 6
+Seat 3: MP Chasseur1 (button) showed [7c Qs] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4667977341572481025-15-1774775431 - Holdem no limit (30/60) - 2026/03/29 09:10:31 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bronce 85319 (372)
+Seat 2: MathisKcr (454)
+Seat 3: MP Chasseur1 (74)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+MP Chasseur1 posts big blind 60
+Dealt to MathisKcr [7h 5s]
+*** PRE-FLOP *** 
+Bronce 85319 calls 60
+MathisKcr folds
+MP Chasseur1 raises 14 to 74 and is all-in
+Bronce 85319 calls 14
+*** FLOP *** [Ts As 5d]
+*** TURN *** [Ts As 5d][9c]
+*** RIVER *** [Ts As 5d 9c][3d]
+*** SHOW DOWN ***
+Bronce 85319 shows [Kh 8h] (High card : Ace)
+MP Chasseur1 shows [7s Th] (One pair : Tens)
+MP Chasseur1 collected 178 from pot
+*** SUMMARY ***
+Total pot 178 | No rake
+Board: [Ts As 5d 9c 3d]
+Seat 1: Bronce 85319 (button) showed [Kh 8h] and lost with High card : Ace
+Seat 3: MP Chasseur1 (big blind) showed [7s Th] and won 178 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4667977341572481025-16-1774775453 - Holdem no limit (30/60) - 2026/03/29 09:10:53 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bronce 85319 (298)
+Seat 2: MathisKcr (424)
+Seat 3: MP Chasseur1 (178)
+*** ANTE/BLINDS ***
+MP Chasseur1 posts small blind 30
+Bronce 85319 posts big blind 60
+Dealt to MathisKcr [5c 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+MP Chasseur1 calls 30
+Bronce 85319 checks
+*** FLOP *** [3d 3s 8s]
+MP Chasseur1 checks
+Bronce 85319 bets 120
+MP Chasseur1 calls 118 and is all-in
+*** TURN *** [3d 3s 8s][7s]
+*** RIVER *** [3d 3s 8s 7s][4c]
+*** SHOW DOWN ***
+Bronce 85319 shows [Kc 8d] (Two pairs : 8 and 3)
+MP Chasseur1 shows [Ac 3h] (Trips of 3)
+MP Chasseur1 collected 356 from main pot
+Bronce 85319 collected 2 from side pot 1
+*** SUMMARY ***
+Total pot 358 | No rake
+Board: [3d 3s 8s 7s 4c]
+Seat 1: Bronce 85319 (big blind) showed [Kc 8d] and won 2 with Two pairs : 8 and 3
+Seat 3: MP Chasseur1 (small blind) showed [Ac 3h] and won 356 with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4667977341572481025-17-1774775468 - Holdem no limit (40/80) - 2026/03/29 09:11:08 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bronce 85319 (120)
+Seat 2: MathisKcr (424)
+Seat 3: MP Chasseur1 (356)
+*** ANTE/BLINDS ***
+Bronce 85319 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [2d Ks]
+*** PRE-FLOP *** 
+MP Chasseur1 calls 80
+Bronce 85319 raises 40 to 120 and is all-in
+MathisKcr calls 40
+MP Chasseur1 calls 40
+*** FLOP *** [8d 5d 3s]
+MathisKcr checks
+MP Chasseur1 checks
+*** TURN *** [8d 5d 3s][7d]
+MathisKcr checks
+MP Chasseur1 checks
+*** RIVER *** [8d 5d 3s 7d][3c]
+MathisKcr checks
+MP Chasseur1 checks
+*** SHOW DOWN ***
+MathisKcr shows [2d Ks] (One pair : 3)
+MP Chasseur1 shows [9c Td] (One pair : 3)
+Bronce 85319 shows [Kc Qs] (One pair : 3)
+Bronce 85319 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [8d 5d 3s 7d 3c]
+Seat 1: Bronce 85319 (small blind) showed [Kc Qs] and won 360 with One pair : 3
+Seat 2: MathisKcr (big blind) showed [2d Ks] and lost with One pair : 3
+Seat 3: MP Chasseur1 (button) showed [9c Td] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4667977341572481025-18-1774775485 - Holdem no limit (40/80) - 2026/03/29 09:11:25 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bronce 85319 (360)
+Seat 2: MathisKcr (304)
+Seat 3: MP Chasseur1 (236)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+MP Chasseur1 posts big blind 80
+Dealt to MathisKcr [6s 9h]
+*** PRE-FLOP *** 
+Bronce 85319 folds
+MathisKcr folds
+MP Chasseur1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: MP Chasseur1 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4667977341572481025-19-1774775496 - Holdem no limit (40/80) - 2026/03/29 09:11:36 UTC
+Table: 'Expresso Nitro(1086848169)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bronce 85319 (360)
+Seat 2: MathisKcr (264)
+Seat 3: MP Chasseur1 (276)
+*** ANTE/BLINDS ***
+MP Chasseur1 posts small blind 40
+Bronce 85319 posts big blind 80
+Dealt to MathisKcr [Ks 5h]
+*** PRE-FLOP *** 
+MathisKcr raises 184 to 264 and is all-in
+MP Chasseur1 calls 224
+Bronce 85319 calls 184
+*** FLOP *** [Ad 3h 8s]
+MP Chasseur1 checks
+Bronce 85319 bets 96 and is all-in
+MP Chasseur1 calls 12 and is all-in
+*** TURN *** [Ad 3h 8s][4c]
+*** RIVER *** [Ad 3h 8s 4c][8c]
+*** SHOW DOWN ***
+MathisKcr shows [Ks 5h] (One pair : 8)
+MP Chasseur1 shows [Kc 6c] (One pair : 8)
+Bronce 85319 shows [Qc Kd] (One pair : 8)
+Bronce 85319 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ad 3h 8s 4c 8c]
+Seat 1: Bronce 85319 (big blind) showed [Qc Kd] and won 900 with One pair : 8
+Seat 2: MathisKcr (button) showed [Ks 5h] and lost with One pair : 8
+Seat 3: MP Chasseur1 (small blind) showed [Kc 6c] and lost with One pair : 8
+
+

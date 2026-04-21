@@ -1,0 +1,221 @@
+Winamax Poker - Tournament "Turbo Sat W Series HIGH FIVE" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4661711877640814593-1-1774620310 - Holdem no limit (3/10/20) - 2026/03/27 14:05:10 UTC
+Table: 'Turbo Sat W Series HIGH FIVE(1085389377)#000' 6-max (real money) Seat #6 is the button
+Seat 2: LeWaleyS (3000)
+Seat 3: Fdlmo (3000)
+Seat 4: TI-RHUM-14 (3000)
+Seat 6: MathisKcr (3000)
+*** ANTE/BLINDS ***
+LeWaleyS posts ante 3
+Fdlmo posts ante 3
+TI-RHUM-14 posts ante 3
+MathisKcr posts ante 3
+LeWaleyS posts small blind 10
+Fdlmo posts big blind 20
+Dealt to MathisKcr [Qh Js]
+*** PRE-FLOP *** 
+TI-RHUM-14 calls 20
+MathisKcr raises 20 to 40
+LeWaleyS folds
+Fdlmo raises 2957 to 2997 and is all-in
+TI-RHUM-14 calls 2977 and is all-in
+MathisKcr folds
+*** FLOP *** [5d Ts 2s]
+*** TURN *** [5d Ts 2s][5h]
+*** RIVER *** [5d Ts 2s 5h][8h]
+*** SHOW DOWN ***
+TI-RHUM-14 shows [7h Jh] (One pair : 5)
+Fdlmo shows [Ah Kc] (One pair : 5)
+Fdlmo collected 6056 from pot
+*** SUMMARY ***
+Total pot 6056 | No rake
+Board: [5d Ts 2s 5h 8h]
+Seat 3: Fdlmo (big blind) showed [Ah Kc] and won 6056 with One pair : 5
+Seat 4: TI-RHUM-14 showed [7h Jh] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Turbo Sat W Series HIGH FIVE" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4661711877640814593-2-1774620342 - Holdem no limit (3/10/20) - 2026/03/27 14:05:42 UTC
+Table: 'Turbo Sat W Series HIGH FIVE(1085389377)#000' 6-max (real money) Seat #2 is the button
+Seat 2: LeWaleyS (2987)
+Seat 3: Fdlmo (6056)
+Seat 6: MathisKcr (2957)
+*** ANTE/BLINDS ***
+Fdlmo posts ante 3
+MathisKcr posts ante 3
+LeWaleyS posts ante 3
+Fdlmo posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4s 3c]
+*** PRE-FLOP *** 
+LeWaleyS folds
+Fdlmo calls 10
+MathisKcr checks
+*** FLOP *** [7s Jh 9d]
+Fdlmo bets 20
+MathisKcr folds
+Fdlmo collected 69 from pot
+*** SUMMARY ***
+Total pot 69 | No rake
+Board: [7s Jh 9d]
+Seat 3: Fdlmo (small blind) won 69
+
+
+Winamax Poker - Tournament "Turbo Sat W Series HIGH FIVE" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4661711877640814593-3-1774620356 - Holdem no limit (3/10/20) - 2026/03/27 14:05:56 UTC
+Table: 'Turbo Sat W Series HIGH FIVE(1085389377)#000' 6-max (real money) Seat #3 is the button
+Seat 2: LeWaleyS (2984)
+Seat 3: Fdlmo (6082)
+Seat 6: MathisKcr (2934)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+LeWaleyS posts ante 3
+Fdlmo posts ante 3
+MathisKcr posts small blind 10
+LeWaleyS posts big blind 20
+Dealt to MathisKcr [8h 9d]
+*** PRE-FLOP *** 
+Fdlmo calls 20
+MathisKcr calls 10
+LeWaleyS checks
+*** FLOP *** [2c Jh 4h]
+MathisKcr bets 40
+LeWaleyS folds
+Fdlmo calls 40
+*** TURN *** [2c Jh 4h][3d]
+MathisKcr bets 52
+Fdlmo calls 52
+*** RIVER *** [2c Jh 4h 3d][2h]
+MathisKcr checks
+Fdlmo checks
+*** SHOW DOWN ***
+MathisKcr shows [8h 9d] (One pair : 2)
+Fdlmo shows [4d 5c] (Two pairs : 4 and 2)
+Fdlmo collected 253 from pot
+*** SUMMARY ***
+Total pot 253 | No rake
+Board: [2c Jh 4h 3d 2h]
+Seat 3: Fdlmo (button) showed [4d 5c] and won 253 with Two pairs : 4 and 2
+Seat 6: MathisKcr (small blind) showed [8h 9d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Turbo Sat W Series HIGH FIVE" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4661711877640814593-4-1774620389 - Holdem no limit (3/10/20) - 2026/03/27 14:06:29 UTC
+Table: 'Turbo Sat W Series HIGH FIVE(1085389377)#000' 6-max (real money) Seat #6 is the button
+Seat 2: LeWaleyS (2961)
+Seat 3: Fdlmo (6220)
+Seat 6: MathisKcr (2819)
+*** ANTE/BLINDS ***
+LeWaleyS posts ante 3
+Fdlmo posts ante 3
+MathisKcr posts ante 3
+LeWaleyS posts small blind 10
+Fdlmo posts big blind 20
+Dealt to MathisKcr [6d As]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+LeWaleyS folds
+Fdlmo calls 20
+*** FLOP *** [7s 4d Qd]
+Fdlmo bets 20
+MathisKcr calls 20
+*** TURN *** [7s 4d Qd][Js]
+Fdlmo bets 20
+MathisKcr calls 20
+*** RIVER *** [7s 4d Qd Js][Kc]
+Fdlmo bets 6137 and is all-in
+MathisKcr folds
+Fdlmo collected 6316 from pot
+*** SUMMARY ***
+Total pot 6316 | No rake
+Board: [7s 4d Qd Js Kc]
+Seat 3: Fdlmo (big blind) won 6316
+
+
+Winamax Poker - Tournament "Turbo Sat W Series HIGH FIVE" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4661711877640814593-5-1774620406 - Holdem no limit (3/10/20) - 2026/03/27 14:06:46 UTC
+Table: 'Turbo Sat W Series HIGH FIVE(1085389377)#000' 6-max (real money) Seat #2 is the button
+Seat 2: LeWaleyS (2948)
+Seat 3: Fdlmo (6316)
+Seat 6: MathisKcr (2736)
+*** ANTE/BLINDS ***
+Fdlmo posts ante 3
+MathisKcr posts ante 3
+LeWaleyS posts ante 3
+Fdlmo posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d 5c]
+*** PRE-FLOP *** 
+LeWaleyS raises 30 to 50
+Fdlmo calls 40
+MathisKcr folds
+*** FLOP *** [3s 5d 9c]
+Fdlmo checks
+LeWaleyS checks
+*** TURN *** [3s 5d 9c][9d]
+Fdlmo bets 84
+LeWaleyS folds
+Fdlmo collected 213 from pot
+*** SUMMARY ***
+Total pot 213 | No rake
+Board: [3s 5d 9c 9d]
+Seat 3: Fdlmo (small blind) won 213
+
+
+Winamax Poker - Tournament "Turbo Sat W Series HIGH FIVE" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4661711877640814593-6-1774620468 - Holdem no limit (3/10/20) - 2026/03/27 14:07:48 UTC
+Table: 'Turbo Sat W Series HIGH FIVE(1085389377)#000' 6-max (real money) Seat #3 is the button
+Seat 2: LeWaleyS (2895)
+Seat 3: Fdlmo (6392)
+Seat 6: MathisKcr (2713)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+LeWaleyS posts ante 3
+Fdlmo posts ante 3
+MathisKcr posts small blind 10
+LeWaleyS posts big blind 20
+Dealt to MathisKcr [2c 7h]
+*** PRE-FLOP *** 
+Fdlmo calls 20
+MathisKcr folds
+LeWaleyS checks
+*** FLOP *** [2d 3h 6d]
+LeWaleyS checks
+Fdlmo bets 20
+LeWaleyS calls 20
+*** TURN *** [2d 3h 6d][Jc]
+LeWaleyS checks
+Fdlmo bets 79
+LeWaleyS folds
+Fdlmo collected 178 from pot
+*** SUMMARY ***
+Total pot 178 | No rake
+Board: [2d 3h 6d Jc]
+Seat 3: Fdlmo (button) won 178
+
+
+Winamax Poker - Tournament "Turbo Sat W Series HIGH FIVE" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4661711877640814593-7-1774620518 - Holdem no limit (3/10/20) - 2026/03/27 14:08:38 UTC
+Table: 'Turbo Sat W Series HIGH FIVE(1085389377)#000' 6-max (real money) Seat #6 is the button
+Seat 2: LeWaleyS (2852)
+Seat 3: Fdlmo (6448)
+Seat 6: MathisKcr (2700)
+*** ANTE/BLINDS ***
+LeWaleyS posts ante 3
+Fdlmo posts ante 3
+MathisKcr posts ante 3
+LeWaleyS posts small blind 10
+Fdlmo posts big blind 20
+Dealt to MathisKcr [Ac 4s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+LeWaleyS folds
+Fdlmo raises 6405 to 6445 and is all-in
+MathisKcr calls 2657 and is all-in
+*** FLOP *** [6d Th Ts]
+*** TURN *** [6d Th Ts][4c]
+*** RIVER *** [6d Th Ts 4c][2d]
+*** SHOW DOWN ***
+MathisKcr shows [Ac 4s] (Two pairs : Tens and 4)
+Fdlmo shows [Qd Qc] (Two pairs : Queens and Tens)
+Fdlmo collected 9161 from pot
+*** SUMMARY ***
+Total pot 9161 | No rake
+Board: [6d Th Ts 4c 2d]
+Seat 3: Fdlmo (big blind) showed [Qd Qc] and won 9161 with Two pairs : Queens and Tens
+Seat 6: MathisKcr (button) showed [Ac 4s] and lost with Two pairs : Tens and 4
+
+

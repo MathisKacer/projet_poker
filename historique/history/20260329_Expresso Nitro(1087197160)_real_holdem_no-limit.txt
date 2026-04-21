@@ -1,0 +1,175 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669476246504079361-1-1774824405 - Holdem no limit (10/20) - 2026/03/29 22:46:45 UTC
+Table: 'Expresso Nitro(1087197160)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Enzo5556 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Value Sinner (300)
+*** ANTE/BLINDS ***
+Value Sinner posts small blind 10
+Enzo5556 posts big blind 20
+Dealt to MathisKcr [9c 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Value Sinner raises 30 to 50
+Enzo5556 calls 30
+*** FLOP *** [4c 6h 5d]
+Value Sinner checks
+Enzo5556 checks
+*** TURN *** [4c 6h 5d][2s]
+Value Sinner checks
+Enzo5556 bets 20
+Value Sinner calls 20
+*** RIVER *** [4c 6h 5d 2s][5c]
+Value Sinner checks
+Enzo5556 checks
+*** SHOW DOWN ***
+Enzo5556 shows [Qs 8d] (One pair : 5)
+Value Sinner shows [5h Qd] (Trips of 5)
+Value Sinner collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [4c 6h 5d 2s 5c]
+Seat 1: Enzo5556 (big blind) showed [Qs 8d] and lost with One pair : 5
+Seat 3: Value Sinner (small blind) showed [5h Qd] and won 140 with Trips of 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669476246504079361-2-1774824435 - Holdem no limit (10/20) - 2026/03/29 22:47:15 UTC
+Table: 'Expresso Nitro(1087197160)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Enzo5556 (230)
+Seat 2: MathisKcr (300)
+Seat 3: Value Sinner (370)
+*** ANTE/BLINDS ***
+Enzo5556 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d Ac]
+*** PRE-FLOP *** 
+Value Sinner folds
+Enzo5556 calls 10
+MathisKcr raises 280 to 300 and is all-in
+Enzo5556 folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: MathisKcr (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669476246504079361-3-1774824450 - Holdem no limit (10/20) - 2026/03/29 22:47:30 UTC
+Table: 'Expresso Nitro(1087197160)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Enzo5556 (210)
+Seat 2: MathisKcr (320)
+Seat 3: Value Sinner (370)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Value Sinner posts big blind 20
+Dealt to MathisKcr [Tc 4c]
+*** PRE-FLOP *** 
+Enzo5556 raises 50 to 70
+MathisKcr folds
+Value Sinner folds
+Enzo5556 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 1: Enzo5556 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4669476246504079361-4-1774824468 - Holdem no limit (15/30) - 2026/03/29 22:47:48 UTC
+Table: 'Expresso Nitro(1087197160)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Enzo5556 (240)
+Seat 2: MathisKcr (310)
+Seat 3: Value Sinner (350)
+*** ANTE/BLINDS ***
+Value Sinner posts small blind 15
+Enzo5556 posts big blind 30
+Dealt to MathisKcr [Ad Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 310 and is all-in
+Value Sinner folds
+Enzo5556 calls 210 and is all-in
+*** FLOP *** [3h 6d 3s]
+*** TURN *** [3h 6d 3s][Kh]
+*** RIVER *** [3h 6d 3s Kh][Jc]
+*** SHOW DOWN ***
+Enzo5556 shows [Ac Tc] (One pair : 3)
+MathisKcr shows [Ad Jh] (Two pairs : Jacks and 3)
+MathisKcr collected 565 from pot
+*** SUMMARY ***
+Total pot 565 | No rake
+Board: [3h 6d 3s Kh Jc]
+Seat 1: Enzo5556 (big blind) showed [Ac Tc] and lost with One pair : 3
+Seat 2: MathisKcr (button) showed [Ad Jh] and won 565 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4669476246504079361-5-1774824487 - Holdem no limit (15/30) - 2026/03/29 22:48:07 UTC
+Table: 'Expresso Nitro(1087197160)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (565)
+Seat 3: Value Sinner (335)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Value Sinner posts big blind 30
+Dealt to MathisKcr [9h Js]
+*** PRE-FLOP *** 
+MathisKcr raises 535 to 565 and is all-in
+Value Sinner folds
+MathisKcr collected 595 from pot
+*** SUMMARY ***
+Total pot 595 | No rake
+Seat 2: MathisKcr (small blind) (button) won 595
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4669476246504079361-6-1774824500 - Holdem no limit (15/30) - 2026/03/29 22:48:20 UTC
+Table: 'Expresso Nitro(1087197160)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (595)
+Seat 3: Value Sinner (305)
+*** ANTE/BLINDS ***
+Value Sinner posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8s 2d]
+*** PRE-FLOP *** 
+Value Sinner raises 275 to 305 and is all-in
+MathisKcr folds
+Value Sinner collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | No rake
+Seat 3: Value Sinner (small blind) (button) won 335
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4669476246504079361-7-1774824508 - Holdem no limit (15/30) - 2026/03/29 22:48:28 UTC
+Table: 'Expresso Nitro(1087197160)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (565)
+Seat 3: Value Sinner (335)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Value Sinner posts big blind 30
+Dealt to MathisKcr [6s 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Value Sinner collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Value Sinner (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4669476246504079361-8-1774824512 - Holdem no limit (15/30) - 2026/03/29 22:48:32 UTC
+Table: 'Expresso Nitro(1087197160)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (550)
+Seat 3: Value Sinner (350)
+*** ANTE/BLINDS ***
+Value Sinner posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6d 6h]
+*** PRE-FLOP *** 
+Value Sinner raises 320 to 350 and is all-in
+MathisKcr calls 320
+*** FLOP *** [2d Jh 2h]
+*** TURN *** [2d Jh 2h][Qh]
+*** RIVER *** [2d Jh 2h Qh][9d]
+*** SHOW DOWN ***
+Value Sinner shows [6c As] (One pair : 2)
+MathisKcr shows [6d 6h] (Two pairs : 6 and 2)
+MathisKcr collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [2d Jh 2h Qh 9d]
+Seat 2: MathisKcr (big blind) showed [6d 6h] and won 700 with Two pairs : 6 and 2
+Seat 3: Value Sinner (small blind) (button) showed [6c As] and lost with One pair : 2
+
+

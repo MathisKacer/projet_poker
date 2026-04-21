@@ -1,0 +1,78 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668167389580361729-1-1774783111 - Holdem no limit (10/20) - 2026/03/29 11:18:31 UTC
+Table: 'Expresso Nitro(1086892418)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: GsPetrolette (300)
+Seat 3: JediMind (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+GsPetrolette posts big blind 20
+Dealt to MathisKcr [8s 4s]
+*** PRE-FLOP *** 
+JediMind raises 20 to 40
+MathisKcr folds
+GsPetrolette folds
+JediMind collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: JediMind (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668167389580361729-2-1774783120 - Holdem no limit (10/20) - 2026/03/29 11:18:40 UTC
+Table: 'Expresso Nitro(1086892418)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: GsPetrolette (280)
+Seat 3: JediMind (330)
+*** ANTE/BLINDS ***
+GsPetrolette posts small blind 10
+JediMind posts big blind 20
+Dealt to MathisKcr [4d 9s]
+*** PRE-FLOP *** 
+MathisKcr folds
+GsPetrolette raises 20 to 40
+JediMind calls 20
+*** FLOP *** [Kc 7s 4c]
+GsPetrolette bets 28
+JediMind calls 28
+*** TURN *** [Kc 7s 4c][9d]
+GsPetrolette checks
+JediMind bets 88
+GsPetrolette raises 124 to 212 and is all-in
+JediMind calls 124
+*** RIVER *** [Kc 7s 4c 9d][Qd]
+*** SHOW DOWN ***
+GsPetrolette shows [As Ac] (One pair : Aces)
+JediMind shows [7c Qc] (Two pairs : Queens and 7)
+JediMind collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Kc 7s 4c 9d Qd]
+Seat 2: GsPetrolette (small blind) showed [As Ac] and lost with One pair : Aces
+Seat 3: JediMind (big blind) showed [7c Qc] and won 560 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668167389580361729-3-1774783161 - Holdem no limit (10/20) - 2026/03/29 11:19:21 UTC
+Table: 'Expresso Nitro(1086892418)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (290)
+Seat 3: JediMind (610)
+*** ANTE/BLINDS ***
+JediMind posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8d 9s]
+*** PRE-FLOP *** 
+JediMind raises 20 to 40
+MathisKcr raises 250 to 290 and is all-in
+JediMind calls 250
+*** FLOP *** [Qh 6c 2h]
+*** TURN *** [Qh 6c 2h][2s]
+*** RIVER *** [Qh 6c 2h 2s][5h]
+*** SHOW DOWN ***
+MathisKcr shows [8d 9s] (One pair : 2)
+JediMind shows [Qd Kh] (Two pairs : Queens and 2)
+JediMind collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Qh 6c 2h 2s 5h]
+Seat 1: MathisKcr (big blind) showed [8d 9s] and lost with One pair : 2
+Seat 3: JediMind (small blind) (button) showed [Qd Kh] and won 580 with Two pairs : Queens and 2
+
+

@@ -1,0 +1,121 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606327316581187585-1-1772568678 - Holdem no limit (10/20) - 2026/03/03 20:11:18 UTC
+Table: 'Expresso Nitro(1072494154)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tjchef (300)
+Seat 2: MathisKcr (300)
+Seat 3: Lebigshow35 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Lebigshow35 posts big blind 20
+Dealt to MathisKcr [9c Js]
+*** PRE-FLOP *** 
+tjchef calls 20
+MathisKcr raises 20 to 40
+Lebigshow35 calls 20
+tjchef calls 20
+*** FLOP *** [Tc Ts Ac]
+MathisKcr bets 42
+Lebigshow35 folds
+tjchef folds
+MathisKcr collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [Tc Ts Ac]
+Seat 2: MathisKcr (small blind) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606327316581187585-2-1772568706 - Holdem no limit (10/20) - 2026/03/03 20:11:46 UTC
+Table: 'Expresso Nitro(1072494154)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tjchef (260)
+Seat 2: MathisKcr (380)
+Seat 3: Lebigshow35 (260)
+*** ANTE/BLINDS ***
+Lebigshow35 posts small blind 10
+tjchef posts big blind 20
+Dealt to MathisKcr [6s 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lebigshow35 calls 10
+tjchef raises 240 to 260 and is all-in
+Lebigshow35 folds
+tjchef collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 1: tjchef (big blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606327316581187585-3-1772568716 - Holdem no limit (10/20) - 2026/03/03 20:11:56 UTC
+Table: 'Expresso Nitro(1072494154)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tjchef (280)
+Seat 2: MathisKcr (380)
+Seat 3: Lebigshow35 (240)
+*** ANTE/BLINDS ***
+tjchef posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5h Jh]
+*** PRE-FLOP *** 
+Lebigshow35 folds
+tjchef raises 40 to 60
+MathisKcr folds
+tjchef collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: tjchef (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606327316581187585-4-1772568725 - Holdem no limit (10/20) - 2026/03/03 20:12:05 UTC
+Table: 'Expresso Nitro(1072494154)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tjchef (300)
+Seat 2: MathisKcr (360)
+Seat 3: Lebigshow35 (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Lebigshow35 posts big blind 20
+Dealt to MathisKcr [Qc 4d]
+*** PRE-FLOP *** 
+tjchef raises 40 to 60
+MathisKcr calls 50
+Lebigshow35 raises 40 to 100
+tjchef calls 40
+MathisKcr calls 40
+*** FLOP *** [3d 8c Qd]
+MathisKcr bets 260 and is all-in
+Lebigshow35 calls 140 and is all-in
+tjchef folds
+*** TURN *** [3d 8c Qd][4s]
+*** RIVER *** [3d 8c Qd 4s][3c]
+*** SHOW DOWN ***
+Lebigshow35 shows [Ac Ts] (One pair : 3)
+MathisKcr shows [Qc 4d] (Two pairs : Queens and 4)
+MathisKcr collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [3d 8c Qd 4s 3c]
+Seat 2: MathisKcr (small blind) showed [Qc 4d] and won 700 with Two pairs : Queens and 4
+Seat 3: Lebigshow35 (big blind) showed [Ac Ts] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606327316581187585-5-1772568748 - Holdem no limit (15/30) - 2026/03/03 20:12:28 UTC
+Table: 'Expresso Nitro(1072494154)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tjchef (200)
+Seat 2: MathisKcr (700)
+*** ANTE/BLINDS ***
+tjchef posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jh 9s]
+*** PRE-FLOP *** 
+tjchef raises 170 to 200 and is all-in
+MathisKcr calls 170
+*** FLOP *** [8h 4h 5h]
+*** TURN *** [8h 4h 5h][7c]
+*** RIVER *** [8h 4h 5h 7c][9c]
+*** SHOW DOWN ***
+tjchef shows [4s Qh] (One pair : 4)
+MathisKcr shows [Jh 9s] (One pair : 9)
+MathisKcr collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [8h 4h 5h 7c 9c]
+Seat 1: tjchef (small blind) (button) showed [4s Qh] and lost with One pair : 4
+Seat 2: MathisKcr (big blind) showed [Jh 9s] and won 400 with One pair : 9
+
+

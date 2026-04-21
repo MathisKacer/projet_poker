@@ -1,0 +1,98 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612329292859179009-1-1772815912 - Holdem no limit (10/20) - 2026/03/06 16:51:52 UTC
+Table: 'Expresso Nitro(1073891598)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jonsanta (300)
+Seat 2: MathisKcr (300)
+Seat 3: jougueiret (300)
+*** ANTE/BLINDS ***
+Jonsanta posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c 9s]
+*** PRE-FLOP *** 
+jougueiret folds
+Jonsanta calls 10
+MathisKcr checks
+*** FLOP *** [6s Js 9h]
+Jonsanta bets 40
+MathisKcr calls 40
+*** TURN *** [6s Js 9h][Qd]
+Jonsanta bets 120
+MathisKcr folds
+Jonsanta collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [6s Js 9h Qd]
+Seat 1: Jonsanta (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612329292859179009-2-1772815939 - Holdem no limit (10/20) - 2026/03/06 16:52:19 UTC
+Table: 'Expresso Nitro(1073891598)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jonsanta (360)
+Seat 2: MathisKcr (240)
+Seat 3: jougueiret (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+jougueiret posts big blind 20
+Dealt to MathisKcr [3s 5h]
+*** PRE-FLOP *** 
+Jonsanta calls 20
+MathisKcr folds
+jougueiret checks
+*** FLOP *** [Ks 4s 2h]
+jougueiret checks
+Jonsanta checks
+*** TURN *** [Ks 4s 2h][4h]
+jougueiret bets 20
+Jonsanta folds
+jougueiret collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Ks 4s 2h 4h]
+Seat 3: jougueiret (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612329292859179009-3-1772815954 - Holdem no limit (10/20) - 2026/03/06 16:52:34 UTC
+Table: 'Expresso Nitro(1073891598)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jonsanta (340)
+Seat 2: MathisKcr (230)
+Seat 3: jougueiret (330)
+*** ANTE/BLINDS ***
+jougueiret posts small blind 10
+Jonsanta posts big blind 20
+Dealt to MathisKcr [Jc 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+jougueiret folds
+Jonsanta collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Jonsanta (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612329292859179009-4-1772815959 - Holdem no limit (10/20) - 2026/03/06 16:52:39 UTC
+Table: 'Expresso Nitro(1073891598)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jonsanta (350)
+Seat 2: MathisKcr (230)
+Seat 3: jougueiret (320)
+*** ANTE/BLINDS ***
+Jonsanta posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kh 9s]
+*** PRE-FLOP *** 
+jougueiret folds
+Jonsanta calls 10
+MathisKcr raises 210 to 230 and is all-in
+Jonsanta calls 210
+*** FLOP *** [2d Qd 2c]
+*** TURN *** [2d Qd 2c][Jc]
+*** RIVER *** [2d Qd 2c Jc][5s]
+*** SHOW DOWN ***
+MathisKcr shows [Kh 9s] (One pair : 2)
+Jonsanta shows [5c Kc] (Two pairs : 5 and 2)
+Jonsanta collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [2d Qd 2c Jc 5s]
+Seat 1: Jonsanta (small blind) showed [5c Kc] and won 460 with Two pairs : 5 and 2
+Seat 2: MathisKcr (big blind) showed [Kh 9s] and lost with One pair : 2
+
+

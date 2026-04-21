@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669978598763921409-1-1774857247 - Holdem no limit (10/20) - 2026/03/30 07:54:07 UTC
+Table: 'Expresso Nitro(1087314123)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: PayMyOnyx14 (300)
+Seat 3: Spin4W1N (300)
+*** ANTE/BLINDS ***
+PayMyOnyx14 posts small blind 10
+Spin4W1N posts big blind 20
+Dealt to MathisKcr [Jc Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+PayMyOnyx14 folds
+Spin4W1N calls 20
+*** FLOP *** [6d 5s 8s]
+Spin4W1N checks
+MathisKcr checks
+*** TURN *** [6d 5s 8s][2d]
+Spin4W1N bets 90
+MathisKcr folds
+Spin4W1N collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [6d 5s 8s 2d]
+Seat 3: Spin4W1N (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669978598763921409-2-1774857292 - Holdem no limit (10/20) - 2026/03/30 07:54:52 UTC
+Table: 'Expresso Nitro(1087314123)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (260)
+Seat 2: PayMyOnyx14 (290)
+Seat 3: Spin4W1N (350)
+*** ANTE/BLINDS ***
+Spin4W1N posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ts Js]
+*** PRE-FLOP *** 
+PayMyOnyx14 folds
+Spin4W1N raises 330 to 350 and is all-in
+MathisKcr calls 240 and is all-in
+*** FLOP *** [Kh Qc 2h]
+*** TURN *** [Kh Qc 2h][7d]
+*** RIVER *** [Kh Qc 2h 7d][3d]
+*** SHOW DOWN ***
+MathisKcr shows [Ts Js] (High card : King)
+Spin4W1N shows [Ah 2d] (One pair : 2)
+Spin4W1N collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Kh Qc 2h 7d 3d]
+Seat 1: MathisKcr (big blind) showed [Ts Js] and lost with High card : King
+Seat 3: Spin4W1N (small blind) showed [Ah 2d] and won 610 with One pair : 2
+
+

@@ -1,0 +1,184 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698398504735735809-1-1775913001 - Holdem no limit (10/20) - 2026/04/11 13:10:01 UTC
+Table: 'Expresso Nitro(1093931148)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Galette_Saw6 (300)
+Seat 3: Yayounette49 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Galette_Saw6 posts big blind 20
+Dealt to MathisKcr [8h Tc]
+*** PRE-FLOP *** 
+Yayounette49 calls 20
+MathisKcr folds
+Galette_Saw6 raises 40 to 60
+Yayounette49 folds
+Galette_Saw6 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Galette_Saw6 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698398504735735809-2-1775913015 - Holdem no limit (10/20) - 2026/04/11 13:10:15 UTC
+Table: 'Expresso Nitro(1093931148)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: Galette_Saw6 (330)
+Seat 3: Yayounette49 (280)
+*** ANTE/BLINDS ***
+Galette_Saw6 posts small blind 10
+Yayounette49 posts big blind 20
+Dealt to MathisKcr [7d 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Galette_Saw6 raises 40 to 60
+Yayounette49 calls 40
+*** FLOP *** [Js 9h Qh]
+Galette_Saw6 bets 42
+Yayounette49 raises 44 to 86
+Galette_Saw6 raises 184 to 270 and is all-in
+Yayounette49 calls 134 and is all-in
+*** TURN *** [Js 9h Qh][9c]
+*** RIVER *** [Js 9h Qh 9c][5c]
+*** SHOW DOWN ***
+Galette_Saw6 shows [Ac Qs] (Two pairs : Queens and 9)
+Yayounette49 shows [Jh 9d] (Full of 9 and Jacks)
+Yayounette49 collected 560 from main pot
+Galette_Saw6 collected 50 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Js 9h Qh 9c 5c]
+Seat 2: Galette_Saw6 (small blind) showed [Ac Qs] and won 50 with Two pairs : Queens and 9
+Seat 3: Yayounette49 (big blind) showed [Jh 9d] and won 560 with Full of 9 and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698398504735735809-3-1775913038 - Holdem no limit (10/20) - 2026/04/11 13:10:38 UTC
+Table: 'Expresso Nitro(1093931148)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (290)
+Seat 2: Galette_Saw6 (50)
+Seat 3: Yayounette49 (560)
+*** ANTE/BLINDS ***
+Yayounette49 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d 4h]
+*** PRE-FLOP *** 
+Galette_Saw6 raises 30 to 50 and is all-in
+Yayounette49 raises 75 to 125
+MathisKcr folds
+*** FLOP *** [8c 8d 5h]
+*** TURN *** [8c 8d 5h][7s]
+*** RIVER *** [8c 8d 5h 7s][Ts]
+*** SHOW DOWN ***
+Galette_Saw6 shows [Qs Qh] (Two pairs : Queens and 8)
+Yayounette49 shows [Ks Td] (Two pairs : Tens and 8)
+Yayounette49 collected 75 from side pot 1
+Galette_Saw6 collected 120 from main pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [8c 8d 5h 7s Ts]
+Seat 2: Galette_Saw6 (button) showed [Qs Qh] and won 120 with Two pairs : Queens and 8
+Seat 3: Yayounette49 (small blind) showed [Ks Td] and won 75 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4698398504735735809-4-1775913060 - Holdem no limit (15/30) - 2026/04/11 13:11:00 UTC
+Table: 'Expresso Nitro(1093931148)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (270)
+Seat 2: Galette_Saw6 (120)
+Seat 3: Yayounette49 (510)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Galette_Saw6 posts big blind 30
+Dealt to MathisKcr [2c 2s]
+*** PRE-FLOP *** 
+Yayounette49 folds
+MathisKcr raises 240 to 270 and is all-in
+Galette_Saw6 calls 90 and is all-in
+*** FLOP *** [Jc 9d 4d]
+*** TURN *** [Jc 9d 4d][Ts]
+*** RIVER *** [Jc 9d 4d Ts][Qc]
+*** SHOW DOWN ***
+MathisKcr shows [2c 2s] (One pair : 2)
+Galette_Saw6 shows [Th 6s] (One pair : Tens)
+Galette_Saw6 collected 240 from main pot
+MathisKcr collected 150 from side pot 1
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [Jc 9d 4d Ts Qc]
+Seat 1: MathisKcr (small blind) showed [2c 2s] and won 150 with One pair : 2
+Seat 2: Galette_Saw6 (big blind) showed [Th 6s] and won 240 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4698398504735735809-5-1775913079 - Holdem no limit (15/30) - 2026/04/11 13:11:19 UTC
+Table: 'Expresso Nitro(1093931148)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (150)
+Seat 2: Galette_Saw6 (240)
+Seat 3: Yayounette49 (510)
+*** ANTE/BLINDS ***
+Galette_Saw6 posts small blind 15
+Yayounette49 posts big blind 30
+Dealt to MathisKcr [Jh 5c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Galette_Saw6 calls 15
+Yayounette49 checks
+*** FLOP *** [Qs 7s Js]
+Galette_Saw6 checks
+Yayounette49 checks
+*** TURN *** [Qs 7s Js][4d]
+Galette_Saw6 checks
+Yayounette49 checks
+*** RIVER *** [Qs 7s Js 4d][7d]
+Galette_Saw6 checks
+Yayounette49 bets 60
+Galette_Saw6 folds
+Yayounette49 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qs 7s Js 4d 7d]
+Seat 3: Yayounette49 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4698398504735735809-6-1775913122 - Holdem no limit (20/40) - 2026/04/11 13:12:02 UTC
+Table: 'Expresso Nitro(1093931148)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (150)
+Seat 2: Galette_Saw6 (210)
+Seat 3: Yayounette49 (540)
+*** ANTE/BLINDS ***
+Yayounette49 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5s Ad]
+*** PRE-FLOP *** 
+Galette_Saw6 folds
+Yayounette49 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4698398504735735809-7-1775913127 - Holdem no limit (20/40) - 2026/04/11 13:12:07 UTC
+Table: 'Expresso Nitro(1093931148)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (170)
+Seat 2: Galette_Saw6 (210)
+Seat 3: Yayounette49 (520)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Galette_Saw6 posts big blind 40
+Dealt to MathisKcr [3d Kc]
+*** PRE-FLOP *** 
+Yayounette49 raises 100 to 140
+MathisKcr raises 30 to 170 and is all-in
+Galette_Saw6 folds
+Yayounette49 calls 30
+*** FLOP *** [2s 9s 8d]
+*** TURN *** [2s 9s 8d][7h]
+*** RIVER *** [2s 9s 8d 7h][9c]
+*** SHOW DOWN ***
+MathisKcr shows [3d Kc] (One pair : 9)
+Yayounette49 shows [9h Ad] (Trips of 9)
+Yayounette49 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [2s 9s 8d 7h 9c]
+Seat 1: MathisKcr (small blind) showed [3d Kc] and lost with One pair : 9
+Seat 3: Yayounette49 (button) showed [9h Ad] and won 380 with Trips of 9
+
+

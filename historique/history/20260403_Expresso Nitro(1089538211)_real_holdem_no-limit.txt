@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679530983987347457-1-1775210883 - Holdem no limit (10/20) - 2026/04/03 10:08:03 UTC
+Table: 'Expresso Nitro(1089538211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: ankou 22600 (300)
+Seat 3: FAELITO (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+ankou 22600 posts big blind 20
+Dealt to MathisKcr [Th 6d]
+*** PRE-FLOP *** 
+FAELITO folds
+MathisKcr folds
+ankou 22600 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: ankou 22600 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679530983987347457-2-1775210890 - Holdem no limit (10/20) - 2026/04/03 10:08:10 UTC
+Table: 'Expresso Nitro(1089538211)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: ankou 22600 (310)
+Seat 3: FAELITO (300)
+*** ANTE/BLINDS ***
+ankou 22600 posts small blind 10
+FAELITO posts big blind 20
+Dealt to MathisKcr [Ks Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+ankou 22600 calls 30
+FAELITO calls 20
+*** FLOP *** [2d Tc Jh]
+ankou 22600 checks
+FAELITO bets 260 and is all-in
+MathisKcr calls 250 and is all-in
+ankou 22600 folds
+*** TURN *** [2d Tc Jh][8d]
+*** RIVER *** [2d Tc Jh 8d][8s]
+*** SHOW DOWN ***
+MathisKcr shows [Ks Jc] (Two pairs : Jacks and 8)
+FAELITO shows [Jd 7s] (Two pairs : Jacks and 8)
+FAELITO collected 10 from side pot 1
+MathisKcr collected 620 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [2d Tc Jh 8d 8s]
+Seat 1: MathisKcr (button) showed [Ks Jc] and won 620 with Two pairs : Jacks and 8
+Seat 3: FAELITO (big blind) showed [Jd 7s] and won 10 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679530983987347457-3-1775210917 - Holdem no limit (10/20) - 2026/04/03 10:08:37 UTC
+Table: 'Expresso Nitro(1089538211)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (620)
+Seat 2: ankou 22600 (270)
+Seat 3: FAELITO (10)
+*** ANTE/BLINDS ***
+FAELITO posts small blind 10 and is all-in
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c Kh]
+*** PRE-FLOP *** 
+ankou 22600 calls 20
+MathisKcr raises 600 to 620 and is all-in
+ankou 22600 folds
+*** FLOP *** [6s 3c Qh]
+*** TURN *** [6s 3c Qh][2d]
+*** RIVER *** [6s 3c Qh 2d][4s]
+*** SHOW DOWN ***
+MathisKcr shows [9c Kh] (High card : King)
+FAELITO shows [Qd 4d] (Two pairs : Queens and 4)
+FAELITO collected 30 from main pot
+MathisKcr collected 620 from side pot 1
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [6s 3c Qh 2d 4s]
+Seat 1: MathisKcr (big blind) showed [9c Kh] and won 620 with High card : King
+Seat 3: FAELITO (small blind) showed [Qd 4d] and won 30 with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679530983987347457-4-1775210940 - Holdem no limit (10/20) - 2026/04/03 10:09:00 UTC
+Table: 'Expresso Nitro(1089538211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (620)
+Seat 2: ankou 22600 (250)
+Seat 3: FAELITO (30)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+ankou 22600 posts big blind 20
+Dealt to MathisKcr [Ts Qc]
+*** PRE-FLOP *** 
+FAELITO raises 10 to 30 and is all-in
+MathisKcr raises 590 to 620 and is all-in
+ankou 22600 calls 230 and is all-in
+*** FLOP *** [7d 9d 8s]
+*** TURN *** [7d 9d 8s][Qd]
+*** RIVER *** [7d 9d 8s Qd][2s]
+*** SHOW DOWN ***
+ankou 22600 shows [Jc Js] (One pair : Jacks)
+FAELITO shows [3h 2h] (One pair : 2)
+MathisKcr shows [Ts Qc] (One pair : Queens)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 9d 8s Qd 2s]
+Seat 1: MathisKcr (small blind) showed [Ts Qc] and won 900 with One pair : Queens
+Seat 2: ankou 22600 (big blind) showed [Jc Js] and lost with One pair : Jacks
+Seat 3: FAELITO (button) showed [3h 2h] and lost with One pair : 2
+
+

@@ -1,0 +1,145 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698374302595022849-1-1775912148 - Holdem no limit (10/20) - 2026/04/11 12:55:48 UTC
+Table: 'Expresso Nitro(1093925513)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Feriyodin (300)
+Seat 3: JS-Boss10881 (300)
+*** ANTE/BLINDS ***
+JS-Boss10881 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 3h]
+*** PRE-FLOP *** 
+Feriyodin calls 20
+JS-Boss10881 calls 10
+MathisKcr checks
+*** FLOP *** [Jd Ks Qh]
+JS-Boss10881 bets 280 and is all-in
+MathisKcr folds
+Feriyodin folds
+JS-Boss10881 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Jd Ks Qh]
+Seat 3: JS-Boss10881 (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698374302595022849-2-1775912174 - Holdem no limit (10/20) - 2026/04/11 12:56:14 UTC
+Table: 'Expresso Nitro(1093925513)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Feriyodin (280)
+Seat 3: JS-Boss10881 (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Feriyodin posts big blind 20
+Dealt to MathisKcr [7d 2c]
+*** PRE-FLOP *** 
+JS-Boss10881 raises 20 to 40
+MathisKcr folds
+Feriyodin folds
+JS-Boss10881 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: JS-Boss10881 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698374302595022849-3-1775912186 - Holdem no limit (10/20) - 2026/04/11 12:56:26 UTC
+Table: 'Expresso Nitro(1093925513)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: Feriyodin (260)
+Seat 3: JS-Boss10881 (370)
+*** ANTE/BLINDS ***
+Feriyodin posts small blind 10
+JS-Boss10881 posts big blind 20
+Dealt to MathisKcr [6c 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Feriyodin calls 10
+JS-Boss10881 checks
+*** FLOP *** [7s Js 6s]
+Feriyodin checks
+JS-Boss10881 checks
+*** TURN *** [7s Js 6s][3h]
+Feriyodin bets 26
+JS-Boss10881 calls 26
+*** RIVER *** [7s Js 6s 3h][9c]
+Feriyodin checks
+JS-Boss10881 checks
+*** SHOW DOWN ***
+JS-Boss10881 shows [4h 8c] (High card : Jack)
+Feriyodin shows [Qc Kh] (High card : King)
+Feriyodin collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Board: [7s Js 6s 3h 9c]
+Seat 2: Feriyodin (small blind) showed [Qc Kh] and won 92 with High card : King
+Seat 3: JS-Boss10881 (big blind) showed [4h 8c] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4698374302595022849-4-1775912219 - Holdem no limit (15/30) - 2026/04/11 12:56:59 UTC
+Table: 'Expresso Nitro(1093925513)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (270)
+Seat 2: Feriyodin (306)
+Seat 3: JS-Boss10881 (324)
+*** ANTE/BLINDS ***
+JS-Boss10881 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3c 7d]
+*** PRE-FLOP *** 
+Feriyodin folds
+JS-Boss10881 calls 15
+MathisKcr checks
+*** FLOP *** [5s Ah 6h]
+JS-Boss10881 bets 30
+MathisKcr folds
+JS-Boss10881 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5s Ah 6h]
+Seat 3: JS-Boss10881 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4698374302595022849-5-1775912236 - Holdem no limit (15/30) - 2026/04/11 12:57:16 UTC
+Table: 'Expresso Nitro(1093925513)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (240)
+Seat 2: Feriyodin (306)
+Seat 3: JS-Boss10881 (354)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Feriyodin posts big blind 30
+Dealt to MathisKcr [Jc 9s]
+*** PRE-FLOP *** 
+JS-Boss10881 raises 324 to 354 and is all-in
+MathisKcr folds
+Feriyodin folds
+JS-Boss10881 collected 399 from pot
+*** SUMMARY ***
+Total pot 399 | No rake
+Seat 3: JS-Boss10881 (button) won 399
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4698374302595022849-6-1775912249 - Holdem no limit (15/30) - 2026/04/11 12:57:29 UTC
+Table: 'Expresso Nitro(1093925513)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (225)
+Seat 2: Feriyodin (276)
+Seat 3: JS-Boss10881 (399)
+*** ANTE/BLINDS ***
+Feriyodin posts small blind 15
+JS-Boss10881 posts big blind 30
+Dealt to MathisKcr [8d 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 195 to 225 and is all-in
+Feriyodin folds
+JS-Boss10881 raises 174 to 399 and is all-in
+*** FLOP *** [7h Ac Kc]
+*** TURN *** [7h Ac Kc][6c]
+*** RIVER *** [7h Ac Kc 6c][3h]
+*** SHOW DOWN ***
+MathisKcr shows [8d 9d] (High card : Ace)
+JS-Boss10881 shows [As 2s] (One pair : Aces)
+JS-Boss10881 collected 639 from pot
+*** SUMMARY ***
+Total pot 639 | No rake
+Board: [7h Ac Kc 6c 3h]
+Seat 1: MathisKcr (button) showed [8d 9d] and lost with High card : Ace
+Seat 3: JS-Boss10881 (big blind) showed [As 2s] and won 639 with One pair : Aces
+
+

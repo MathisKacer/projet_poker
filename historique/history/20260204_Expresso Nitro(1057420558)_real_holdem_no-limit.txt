@@ -1,0 +1,254 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4541586714728071169-1-1770212823 - Holdem no limit (10/20) - 2026/02/04 13:47:03 UTC
+Table: 'Expresso Nitro(1057420558)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Mygale 90572 (300)
+Seat 3: Guyguito (300)
+*** ANTE/BLINDS ***
+Mygale 90572 posts small blind 10
+Guyguito posts big blind 20
+Dealt to MathisKcr [6c 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Mygale 90572 raises 280 to 300 and is all-in
+Guyguito folds
+Mygale 90572 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Mygale 90572 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4541586714728071169-2-1770212837 - Holdem no limit (10/20) - 2026/02/04 13:47:17 UTC
+Table: 'Expresso Nitro(1057420558)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Mygale 90572 (320)
+Seat 3: Guyguito (280)
+*** ANTE/BLINDS ***
+Guyguito posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5s 8h]
+*** PRE-FLOP *** 
+Mygale 90572 raises 300 to 320 and is all-in
+Guyguito calls 270 and is all-in
+MathisKcr folds
+*** FLOP *** [Ah Qc 9h]
+*** TURN *** [Ah Qc 9h][7c]
+*** RIVER *** [Ah Qc 9h 7c][8c]
+*** SHOW DOWN ***
+Mygale 90572 shows [Js Kh] (High card : Ace)
+Guyguito shows [Qh Kd] (One pair : Queens)
+Guyguito collected 580 from main pot
+Mygale 90572 collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ah Qc 9h 7c 8c]
+Seat 2: Mygale 90572 (button) showed [Js Kh] and won 40 with High card : Ace
+Seat 3: Guyguito (small blind) showed [Qh Kd] and won 580 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4541586714728071169-3-1770212862 - Holdem no limit (10/20) - 2026/02/04 13:47:42 UTC
+Table: 'Expresso Nitro(1057420558)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Mygale 90572 (40)
+Seat 3: Guyguito (580)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Mygale 90572 posts big blind 20
+Dealt to MathisKcr [2h Ah]
+*** PRE-FLOP *** 
+Guyguito calls 20
+MathisKcr raises 260 to 280 and is all-in
+Mygale 90572 calls 20 and is all-in
+Guyguito calls 260
+*** FLOP *** [4d 3h Td]
+*** TURN *** [4d 3h Td][2s]
+*** RIVER *** [4d 3h Td 2s][9d]
+*** SHOW DOWN ***
+Guyguito shows [Jc Kd] (High card : King)
+MathisKcr shows [2h Ah] (One pair : 2)
+Mygale 90572 shows [3c Tc] (Two pairs : Tens and 3)
+Mygale 90572 collected 120 from main pot
+MathisKcr collected 480 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4d 3h Td 2s 9d]
+Seat 1: MathisKcr (small blind) showed [2h Ah] and won 480 with One pair : 2
+Seat 2: Mygale 90572 (big blind) showed [3c Tc] and won 120 with Two pairs : Tens and 3
+Seat 3: Guyguito (button) showed [Jc Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4541586714728071169-4-1770212880 - Holdem no limit (10/20) - 2026/02/04 13:48:00 UTC
+Table: 'Expresso Nitro(1057420558)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (480)
+Seat 2: Mygale 90572 (120)
+Seat 3: Guyguito (300)
+*** ANTE/BLINDS ***
+Mygale 90572 posts small blind 10
+Guyguito posts big blind 20
+Dealt to MathisKcr [6s Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 460 to 480 and is all-in
+Mygale 90572 calls 110 and is all-in
+Guyguito folds
+*** FLOP *** [Js Kd 6c]
+*** TURN *** [Js Kd 6c][8s]
+*** RIVER *** [Js Kd 6c 8s][9h]
+*** SHOW DOWN ***
+Mygale 90572 shows [Ad Qc] (High card : Ace)
+MathisKcr shows [6s Ac] (One pair : 6)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Js Kd 6c 8s 9h]
+Seat 1: MathisKcr (button) showed [6s Ac] and won 620 with One pair : 6
+Seat 2: Mygale 90572 (small blind) showed [Ad Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4541586714728071169-5-1770212902 - Holdem no limit (15/30) - 2026/02/04 13:48:22 UTC
+Table: 'Expresso Nitro(1057420558)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (620)
+Seat 3: Guyguito (280)
+*** ANTE/BLINDS ***
+Guyguito posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ks Qd]
+*** PRE-FLOP *** 
+Guyguito calls 15
+MathisKcr raises 60 to 90
+Guyguito calls 60
+*** FLOP *** [4c 5h Js]
+MathisKcr bets 530 and is all-in
+Guyguito folds
+MathisKcr collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [4c 5h Js]
+Seat 1: MathisKcr (big blind) won 710
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4541586714728071169-6-1770212936 - Holdem no limit (15/30) - 2026/02/04 13:48:56 UTC
+Table: 'Expresso Nitro(1057420558)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (710)
+Seat 3: Guyguito (190)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Guyguito posts big blind 30
+Dealt to MathisKcr [9c Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 680 to 710 and is all-in
+Guyguito calls 160 and is all-in
+*** FLOP *** [8c 4c Th]
+*** TURN *** [8c 4c Th][5h]
+*** RIVER *** [8c 4c Th 5h][8d]
+*** SHOW DOWN ***
+MathisKcr shows [9c Qh] (One pair : 8)
+Guyguito shows [Ad 9h] (One pair : 8)
+Guyguito collected 380 from main pot
+MathisKcr collected 520 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8c 4c Th 5h 8d]
+Seat 1: MathisKcr (small blind) (button) showed [9c Qh] and won 520 with One pair : 8
+Seat 3: Guyguito (big blind) showed [Ad 9h] and won 380 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4541586714728071169-7-1770212952 - Holdem no limit (20/40) - 2026/02/04 13:49:12 UTC
+Table: 'Expresso Nitro(1057420558)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (520)
+Seat 3: Guyguito (380)
+*** ANTE/BLINDS ***
+Guyguito posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ts 6c]
+*** PRE-FLOP *** 
+Guyguito folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4541586714728071169-8-1770212959 - Holdem no limit (20/40) - 2026/02/04 13:49:19 UTC
+Table: 'Expresso Nitro(1057420558)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (540)
+Seat 3: Guyguito (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Guyguito posts big blind 40
+Dealt to MathisKcr [8c Js]
+*** PRE-FLOP *** 
+MathisKcr raises 500 to 540 and is all-in
+Guyguito folds
+MathisKcr collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 1: MathisKcr (small blind) (button) won 580
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4541586714728071169-9-1770212973 - Holdem no limit (20/40) - 2026/02/04 13:49:33 UTC
+Table: 'Expresso Nitro(1057420558)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (580)
+Seat 3: Guyguito (320)
+*** ANTE/BLINDS ***
+Guyguito posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [8d Js]
+*** PRE-FLOP *** 
+Guyguito raises 280 to 320 and is all-in
+MathisKcr calls 280
+*** FLOP *** [3c 5s 5h]
+*** TURN *** [3c 5s 5h][2d]
+*** RIVER *** [3c 5s 5h 2d][3h]
+*** SHOW DOWN ***
+MathisKcr shows [8d Js] (Two pairs : 5 and 3)
+Guyguito shows [Ac 6s] (Two pairs : 5 and 3)
+Guyguito collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [3c 5s 5h 2d 3h]
+Seat 1: MathisKcr (big blind) showed [8d Js] and lost with Two pairs : 5 and 3
+Seat 3: Guyguito (small blind) (button) showed [Ac 6s] and won 640 with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4541586714728071169-10-1770212988 - Holdem no limit (20/40) - 2026/02/04 13:49:48 UTC
+Table: 'Expresso Nitro(1057420558)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (260)
+Seat 3: Guyguito (640)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Guyguito posts big blind 40
+Dealt to MathisKcr [4c 5h]
+*** PRE-FLOP *** 
+MathisKcr raises 220 to 260 and is all-in
+Guyguito folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: MathisKcr (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4541586714728071169-11-1770213004 - Holdem no limit (30/60) - 2026/02/04 13:50:04 UTC
+Table: 'Expresso Nitro(1057420558)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 3: Guyguito (600)
+*** ANTE/BLINDS ***
+Guyguito posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [3c Ah]
+*** PRE-FLOP *** 
+Guyguito calls 30
+MathisKcr raises 240 to 300 and is all-in
+Guyguito calls 240
+*** FLOP *** [Jc Kc 6h]
+*** TURN *** [Jc Kc 6h][Qd]
+*** RIVER *** [Jc Kc 6h Qd][5c]
+*** SHOW DOWN ***
+MathisKcr shows [3c Ah] (High card : Ace)
+Guyguito shows [6d 7d] (One pair : 6)
+Guyguito collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jc Kc 6h Qd 5c]
+Seat 1: MathisKcr (big blind) showed [3c Ah] and lost with High card : Ace
+Seat 3: Guyguito (small blind) (button) showed [6d 7d] and won 600 with One pair : 6
+
+

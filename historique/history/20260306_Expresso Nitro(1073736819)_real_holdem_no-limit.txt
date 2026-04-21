@@ -1,0 +1,109 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611664522116071425-1-1772790776 - Holdem no limit (10/20) - 2026/03/06 09:52:56 UTC
+Table: 'Expresso Nitro(1073736819)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: elboymaestro (300)
+Seat 3: Zizan44 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+elboymaestro posts big blind 20
+Dealt to MathisKcr [Js 6c]
+*** PRE-FLOP *** 
+Zizan44 raises 280 to 300 and is all-in
+MathisKcr folds
+elboymaestro folds
+Zizan44 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Zizan44 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611664522116071425-2-1772790784 - Holdem no limit (10/20) - 2026/03/06 09:53:04 UTC
+Table: 'Expresso Nitro(1073736819)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: elboymaestro (280)
+Seat 3: Zizan44 (330)
+*** ANTE/BLINDS ***
+elboymaestro posts small blind 10
+Zizan44 posts big blind 20
+Dealt to MathisKcr [3c 9c]
+*** PRE-FLOP *** 
+MathisKcr folds
+elboymaestro calls 10
+Zizan44 raises 310 to 330 and is all-in
+elboymaestro calls 260 and is all-in
+*** FLOP *** [Ks Qc 6d]
+*** TURN *** [Ks Qc 6d][Ad]
+*** RIVER *** [Ks Qc 6d Ad][Qd]
+*** SHOW DOWN ***
+elboymaestro shows [Qh 6h] (Full of Queens and 6)
+Zizan44 shows [As 4d] (Two pairs : Aces and Queens)
+Zizan44 collected 50 from side pot 1
+elboymaestro collected 560 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Ks Qc 6d Ad Qd]
+Seat 2: elboymaestro (small blind) showed [Qh 6h] and won 560 with Full of Queens and 6
+Seat 3: Zizan44 (big blind) showed [As 4d] and won 50 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611664522116071425-3-1772790804 - Holdem no limit (10/20) - 2026/03/06 09:53:24 UTC
+Table: 'Expresso Nitro(1073736819)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (290)
+Seat 2: elboymaestro (560)
+Seat 3: Zizan44 (50)
+*** ANTE/BLINDS ***
+Zizan44 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ts 6c]
+*** PRE-FLOP *** 
+elboymaestro calls 20
+Zizan44 raises 30 to 50 and is all-in
+MathisKcr calls 30
+elboymaestro calls 30
+*** FLOP *** [Qs 8c 8h]
+MathisKcr checks
+elboymaestro checks
+*** TURN *** [Qs 8c 8h][Qd]
+MathisKcr checks
+elboymaestro checks
+*** RIVER *** [Qs 8c 8h Qd][5d]
+MathisKcr bets 98
+elboymaestro folds
+*** SHOW DOWN ***
+Zizan44 shows [4h 5h] (Two pairs : Queens and 8)
+MathisKcr shows [Ts 6c] (Two pairs : Queens and 8)
+MathisKcr collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [Qs 8c 8h Qd 5d]
+Seat 1: MathisKcr (big blind) showed [Ts 6c] and won 248 with Two pairs : Queens and 8
+Seat 3: Zizan44 (small blind) showed [4h 5h] and lost with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611664522116071425-4-1772790829 - Holdem no limit (10/20) - 2026/03/06 09:53:49 UTC
+Table: 'Expresso Nitro(1073736819)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (390)
+Seat 2: elboymaestro (510)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+elboymaestro posts big blind 20
+Dealt to MathisKcr [5c 5h]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+elboymaestro raises 120 to 180
+MathisKcr raises 210 to 390 and is all-in
+elboymaestro raises 120 to 510 and is all-in
+*** FLOP *** [4c Js 6c]
+*** TURN *** [4c Js 6c][Ks]
+*** RIVER *** [4c Js 6c Ks][8s]
+*** SHOW DOWN ***
+MathisKcr shows [5c 5h] (One pair : 5)
+elboymaestro shows [Kd As] (One pair : Kings)
+elboymaestro collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c Js 6c Ks 8s]
+Seat 1: MathisKcr (small blind) (button) showed [5c 5h] and lost with One pair : 5
+Seat 2: elboymaestro (big blind) showed [Kd As] and won 900 with One pair : Kings
+
+

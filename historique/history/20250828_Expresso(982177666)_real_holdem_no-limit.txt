@@ -1,0 +1,91 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4218420954331611137-1-1756390263 - Holdem no limit (10/20) - 2025/08/28 14:11:03 UTC
+Table: 'Expresso(982177666)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (500)
+Seat 2: cenade54 (500)
+Seat 3: Manupoy (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+cenade54 posts big blind 20
+Dealt to MathisKcr [Kh Kd]
+*** PRE-FLOP *** 
+Manupoy folds
+MathisKcr raises 40 to 60
+cenade54 calls 40
+*** FLOP *** [6d 4c 5d]
+MathisKcr checks
+cenade54 checks
+*** TURN *** [6d 4c 5d][9d]
+MathisKcr bets 60
+cenade54 calls 60
+*** RIVER *** [6d 4c 5d 9d][Jd]
+MathisKcr bets 100
+cenade54 folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [6d 4c 5d 9d Jd]
+Seat 1: MathisKcr (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4218420954331611137-2-1756390296 - Holdem no limit (10/20) - 2025/08/28 14:11:36 UTC
+Table: 'Expresso(982177666)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (620)
+Seat 2: cenade54 (380)
+Seat 3: Manupoy (500)
+*** ANTE/BLINDS ***
+cenade54 posts small blind 10
+Manupoy posts big blind 20
+Dealt to MathisKcr [2c 9d]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+cenade54 calls 10
+Manupoy checks
+*** FLOP *** [5s 7c Tc]
+cenade54 checks
+Manupoy bets 21
+MathisKcr calls 21
+cenade54 calls 21
+*** TURN *** [5s 7c Tc][Qd]
+cenade54 checks
+Manupoy bets 123
+MathisKcr folds
+cenade54 calls 123
+*** RIVER *** [5s 7c Tc Qd][4h]
+cenade54 checks
+Manupoy bets 240
+cenade54 folds
+Manupoy collected 609 from pot
+*** SUMMARY ***
+Total pot 609 | No rake
+Board: [5s 7c Tc Qd 4h]
+Seat 3: Manupoy (big blind) won 609
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4218420954331611137-3-1756390334 - Holdem no limit (10/20) - 2025/08/28 14:12:14 UTC
+Table: 'Expresso(982177666)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (579)
+Seat 2: cenade54 (216)
+Seat 3: Manupoy (705)
+*** ANTE/BLINDS ***
+Manupoy posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8s 8c]
+*** PRE-FLOP *** 
+cenade54 folds
+Manupoy raises 40 to 60
+MathisKcr raises 519 to 579 and is all-in
+Manupoy calls 519
+*** FLOP *** [5s 2c Qh]
+*** TURN *** [5s 2c Qh][4c]
+*** RIVER *** [5s 2c Qh 4c][Qc]
+*** SHOW DOWN ***
+MathisKcr shows [8s 8c] (Two pairs : Queens and 8)
+Manupoy shows [Ac Kc] (Flush Ace high)
+Manupoy collected 1158 from pot
+*** SUMMARY ***
+Total pot 1158 | No rake
+Board: [5s 2c Qh 4c Qc]
+Seat 1: MathisKcr (big blind) showed [8s 8c] and lost with Two pairs : Queens and 8
+Seat 3: Manupoy (small blind) showed [Ac Kc] and won 1158 with Flush Ace high
+
+

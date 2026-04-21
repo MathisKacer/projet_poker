@@ -1,0 +1,518 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4557596055000055809-1-1770678160 - Holdem no limit (10/20) - 2026/02/09 23:02:40 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Chaoyinn (500)
+Seat 3: AAllinaleman (500)
+*** ANTE/BLINDS ***
+AAllinaleman posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd 4c]
+*** PRE-FLOP *** 
+Chaoyinn calls 20
+AAllinaleman raises 40 to 60
+MathisKcr calls 40
+Chaoyinn calls 40
+*** FLOP *** [Qh Ts 3s]
+AAllinaleman checks
+MathisKcr checks
+Chaoyinn bets 180
+AAllinaleman calls 180
+MathisKcr folds
+*** TURN *** [Qh Ts 3s][Qs]
+AAllinaleman checks
+Chaoyinn checks
+*** RIVER *** [Qh Ts 3s Qs][2c]
+AAllinaleman checks
+Chaoyinn checks
+*** SHOW DOWN ***
+AAllinaleman shows [Kh Jc] (One pair : Queens)
+Chaoyinn shows [Ac 9c] (One pair : Queens)
+Chaoyinn collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Qh Ts 3s Qs 2c]
+Seat 2: Chaoyinn (button) showed [Ac 9c] and won 540 with One pair : Queens
+Seat 3: AAllinaleman (small blind) showed [Kh Jc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4557596055000055809-2-1770678198 - Holdem no limit (10/20) - 2026/02/09 23:03:18 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (440)
+Seat 2: Chaoyinn (800)
+Seat 3: AAllinaleman (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Chaoyinn posts big blind 20
+Dealt to MathisKcr [8s 4c]
+*** PRE-FLOP *** 
+AAllinaleman calls 20
+MathisKcr folds
+Chaoyinn checks
+*** FLOP *** [7s 2h Kc]
+Chaoyinn checks
+AAllinaleman checks
+*** TURN *** [7s 2h Kc][7c]
+Chaoyinn bets 50
+AAllinaleman calls 50
+*** RIVER *** [7s 2h Kc 7c][2d]
+Chaoyinn checks
+AAllinaleman bets 190 and is all-in
+Chaoyinn calls 190
+*** SHOW DOWN ***
+AAllinaleman shows [9c 3c] (Two pairs : 7 and 2)
+Chaoyinn shows [6s 6h] (Two pairs : 7 and 6)
+Chaoyinn collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [7s 2h Kc 7c 2d]
+Seat 2: Chaoyinn (big blind) showed [6s 6h] and won 530 with Two pairs : 7 and 6
+Seat 3: AAllinaleman (button) showed [9c 3c] and lost with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4557596055000055809-3-1770678223 - Holdem no limit (10/20) - 2026/02/09 23:03:43 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (430)
+Seat 2: Chaoyinn (1070)
+*** ANTE/BLINDS ***
+Chaoyinn posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3s 5c]
+*** PRE-FLOP *** 
+Chaoyinn calls 10
+MathisKcr checks
+*** FLOP *** [3h Jh 4c]
+MathisKcr bets 40
+Chaoyinn calls 40
+*** TURN *** [3h Jh 4c][Qh]
+MathisKcr bets 60
+Chaoyinn calls 60
+*** RIVER *** [3h Jh 4c Qh][Kc]
+MathisKcr checks
+Chaoyinn bets 156
+MathisKcr folds
+Chaoyinn collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [3h Jh 4c Qh Kc]
+Seat 2: Chaoyinn (small blind) (button) won 396
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4557596055000055809-4-1770678247 - Holdem no limit (15/30) - 2026/02/09 23:04:07 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (310)
+Seat 2: Chaoyinn (1190)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Chaoyinn posts big blind 30
+Dealt to MathisKcr [8c 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Chaoyinn collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Chaoyinn (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4557596055000055809-5-1770678255 - Holdem no limit (15/30) - 2026/02/09 23:04:15 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (295)
+Seat 2: Chaoyinn (1205)
+*** ANTE/BLINDS ***
+Chaoyinn posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6h As]
+*** PRE-FLOP *** 
+Chaoyinn raises 60 to 90
+MathisKcr raises 60 to 150
+Chaoyinn raises 300 to 450
+MathisKcr calls 145 and is all-in
+*** FLOP *** [6c 4d 2h]
+*** TURN *** [6c 4d 2h][Jc]
+*** RIVER *** [6c 4d 2h Jc][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [6h As] (One pair : 6)
+Chaoyinn shows [Ad 7c] (High card : Ace)
+Chaoyinn collected 155 from side pot 1
+MathisKcr collected 590 from main pot
+*** SUMMARY ***
+Total pot 745 | No rake
+Board: [6c 4d 2h Jc Kc]
+Seat 1: MathisKcr (big blind) showed [6h As] and won 590 with One pair : 6
+Seat 2: Chaoyinn (small blind) (button) showed [Ad 7c] and won 155 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4557596055000055809-6-1770678272 - Holdem no limit (15/30) - 2026/02/09 23:04:32 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (590)
+Seat 2: Chaoyinn (910)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Chaoyinn posts big blind 30
+Dealt to MathisKcr [As 2c]
+*** PRE-FLOP *** 
+MathisKcr raises 560 to 590 and is all-in
+Chaoyinn folds
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 1: MathisKcr (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4557596055000055809-7-1770678281 - Holdem no limit (15/30) - 2026/02/09 23:04:41 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (620)
+Seat 2: Chaoyinn (880)
+*** ANTE/BLINDS ***
+Chaoyinn posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qs 2d]
+*** PRE-FLOP *** 
+Chaoyinn raises 60 to 90
+MathisKcr calls 60
+*** FLOP *** [6h 2h Qc]
+MathisKcr checks
+Chaoyinn bets 180
+MathisKcr raises 180 to 360
+Chaoyinn raises 430 to 790 and is all-in
+MathisKcr calls 170 and is all-in
+*** TURN *** [6h 2h Qc][Td]
+*** RIVER *** [6h 2h Qc Td][Kh]
+*** SHOW DOWN ***
+MathisKcr shows [Qs 2d] (Two pairs : Queens and 2)
+Chaoyinn shows [8d 8h] (One pair : 8)
+Chaoyinn collected 260 from side pot 1
+MathisKcr collected 1240 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [6h 2h Qc Td Kh]
+Seat 1: MathisKcr (big blind) showed [Qs 2d] and won 1240 with Two pairs : Queens and 2
+Seat 2: Chaoyinn (small blind) (button) showed [8d 8h] and won 260 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4557596055000055809-8-1770678301 - Holdem no limit (15/30) - 2026/02/09 23:05:01 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1240)
+Seat 2: Chaoyinn (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Chaoyinn posts big blind 30
+Dealt to MathisKcr [9c 5c]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 90
+Chaoyinn folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4557596055000055809-9-1770678310 - Holdem no limit (15/30) - 2026/02/09 23:05:10 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (1270)
+Seat 2: Chaoyinn (230)
+*** ANTE/BLINDS ***
+Chaoyinn posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad 7c]
+*** PRE-FLOP *** 
+Chaoyinn raises 200 to 230 and is all-in
+MathisKcr calls 200
+*** FLOP *** [Th 9c 5c]
+*** TURN *** [Th 9c 5c][6s]
+*** RIVER *** [Th 9c 5c 6s][Ks]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 7c] (High card : Ace)
+Chaoyinn shows [5s Ah] (One pair : 5)
+Chaoyinn collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [Th 9c 5c 6s Ks]
+Seat 1: MathisKcr (big blind) showed [Ad 7c] and lost with High card : Ace
+Seat 2: Chaoyinn (small blind) (button) showed [5s Ah] and won 460 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4557596055000055809-10-1770678321 - Holdem no limit (15/30) - 2026/02/09 23:05:21 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1040)
+Seat 2: Chaoyinn (460)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Chaoyinn posts big blind 30
+Dealt to MathisKcr [Kd 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 90
+Chaoyinn calls 60
+*** FLOP *** [8s 4s Th]
+Chaoyinn bets 180
+MathisKcr folds
+Chaoyinn collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [8s 4s Th]
+Seat 2: Chaoyinn (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4557596055000055809-11-1770678332 - Holdem no limit (15/30) - 2026/02/09 23:05:32 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (950)
+Seat 2: Chaoyinn (550)
+*** ANTE/BLINDS ***
+Chaoyinn posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Th 8s]
+*** PRE-FLOP *** 
+Chaoyinn calls 15
+MathisKcr checks
+*** FLOP *** [9d Jh 7s]
+MathisKcr bets 60
+Chaoyinn folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9d Jh 7s]
+Seat 1: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4557596055000055809-12-1770678344 - Holdem no limit (20/40) - 2026/02/09 23:05:44 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (980)
+Seat 2: Chaoyinn (520)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Chaoyinn posts big blind 40
+Dealt to MathisKcr [Kc 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 120
+Chaoyinn calls 80
+*** FLOP *** [Jh 8s 4d]
+Chaoyinn bets 240
+MathisKcr folds
+Chaoyinn collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Jh 8s 4d]
+Seat 2: Chaoyinn (big blind) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4557596055000055809-13-1770678357 - Holdem no limit (20/40) - 2026/02/09 23:05:57 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (860)
+Seat 2: Chaoyinn (640)
+*** ANTE/BLINDS ***
+Chaoyinn posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5s Ks]
+*** PRE-FLOP *** 
+Chaoyinn calls 20
+MathisKcr raises 80 to 120
+Chaoyinn calls 80
+*** FLOP *** [Qs As 3c]
+MathisKcr bets 160
+Chaoyinn folds
+MathisKcr collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Qs As 3c]
+Seat 1: MathisKcr (big blind) won 400
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4557596055000055809-14-1770678374 - Holdem no limit (20/40) - 2026/02/09 23:06:14 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (980)
+Seat 2: Chaoyinn (520)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Chaoyinn posts big blind 40
+Dealt to MathisKcr [6s 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 120
+Chaoyinn raises 400 to 520 and is all-in
+MathisKcr folds
+Chaoyinn collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 2: Chaoyinn (big blind) won 640
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4557596055000055809-15-1770678388 - Holdem no limit (20/40) - 2026/02/09 23:06:28 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (860)
+Seat 2: Chaoyinn (640)
+*** ANTE/BLINDS ***
+Chaoyinn posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9h 4c]
+*** PRE-FLOP *** 
+Chaoyinn raises 80 to 120
+MathisKcr calls 80
+*** FLOP *** [Tc Jd 6c]
+MathisKcr checks
+Chaoyinn bets 240
+MathisKcr folds
+Chaoyinn collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Tc Jd 6c]
+Seat 2: Chaoyinn (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4557596055000055809-16-1770678401 - Holdem no limit (20/40) - 2026/02/09 23:06:41 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (740)
+Seat 2: Chaoyinn (760)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Chaoyinn posts big blind 40
+Dealt to MathisKcr [8d 7h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Chaoyinn collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Chaoyinn (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4557596055000055809-17-1770678406 - Holdem no limit (20/40) - 2026/02/09 23:06:46 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (720)
+Seat 2: Chaoyinn (780)
+*** ANTE/BLINDS ***
+Chaoyinn posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7d 7c]
+*** PRE-FLOP *** 
+Chaoyinn raises 80 to 120
+MathisKcr raises 600 to 720 and is all-in
+Chaoyinn calls 600
+*** FLOP *** [7h Kc Th]
+*** TURN *** [7h Kc Th][Qs]
+*** RIVER *** [7h Kc Th Qs][6c]
+*** SHOW DOWN ***
+Chaoyinn shows [Ts As] (One pair : Tens)
+MathisKcr shows [7d 7c] (Trips of 7)
+MathisKcr collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [7h Kc Th Qs 6c]
+Seat 1: MathisKcr (big blind) showed [7d 7c] and won 1440 with Trips of 7
+Seat 2: Chaoyinn (small blind) (button) showed [Ts As] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4557596055000055809-18-1770678419 - Holdem no limit (20/40) - 2026/02/09 23:06:59 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1440)
+Seat 2: Chaoyinn (60)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Chaoyinn posts big blind 40
+Dealt to MathisKcr [2s 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Chaoyinn calls 20 and is all-in
+*** FLOP *** [9h Qs Jd]
+*** TURN *** [9h Qs Jd][4s]
+*** RIVER *** [9h Qs Jd 4s][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [2s 7s] (High card : King)
+Chaoyinn shows [Qc 7c] (One pair : Queens)
+Chaoyinn collected 120 from main pot
+MathisKcr collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [9h Qs Jd 4s Kc]
+Seat 1: MathisKcr (small blind) (button) showed [2s 7s] and won 20 with High card : King
+Seat 2: Chaoyinn (big blind) showed [Qc 7c] and won 120 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #4557596055000055809-19-1770678432 - Holdem no limit (30/60) - 2026/02/09 23:07:12 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (1380)
+Seat 2: Chaoyinn (120)
+*** ANTE/BLINDS ***
+Chaoyinn posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [7d 8d]
+*** PRE-FLOP *** 
+Chaoyinn raises 60 to 120 and is all-in
+MathisKcr calls 60
+*** FLOP *** [2c 9s 8s]
+*** TURN *** [2c 9s 8s][6c]
+*** RIVER *** [2c 9s 8s 6c][Kh]
+*** SHOW DOWN ***
+MathisKcr shows [7d 8d] (One pair : 8)
+Chaoyinn shows [6d Kd] (Two pairs : Kings and 6)
+Chaoyinn collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [2c 9s 8s 6c Kh]
+Seat 1: MathisKcr (big blind) showed [7d 8d] and lost with One pair : 8
+Seat 2: Chaoyinn (small blind) (button) showed [6d Kd] and won 240 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #4557596055000055809-20-1770678444 - Holdem no limit (30/60) - 2026/02/09 23:07:24 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1260)
+Seat 2: Chaoyinn (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Chaoyinn posts big blind 60
+Dealt to MathisKcr [Qd 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 180 to 240
+Chaoyinn folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: MathisKcr (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #4557596055000055809-21-1770678456 - Holdem no limit (30/60) - 2026/02/09 23:07:36 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (1320)
+Seat 2: Chaoyinn (180)
+*** ANTE/BLINDS ***
+Chaoyinn posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [8d 5c]
+*** PRE-FLOP *** 
+Chaoyinn raises 120 to 180 and is all-in
+MathisKcr calls 120
+*** FLOP *** [Qs 3h Jd]
+*** TURN *** [Qs 3h Jd][Ts]
+*** RIVER *** [Qs 3h Jd Ts][Ac]
+*** SHOW DOWN ***
+MathisKcr shows [8d 5c] (High card : Ace)
+Chaoyinn shows [Qd 2c] (One pair : Queens)
+Chaoyinn collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qs 3h Jd Ts Ac]
+Seat 1: MathisKcr (big blind) showed [8d 5c] and lost with High card : Ace
+Seat 2: Chaoyinn (small blind) (button) showed [Qd 2c] and won 360 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #4557596055000055809-22-1770678468 - Holdem no limit (30/60) - 2026/02/09 23:07:48 UTC
+Table: 'Expresso(1061148023)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1140)
+Seat 2: Chaoyinn (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Chaoyinn posts big blind 60
+Dealt to MathisKcr [5d Qd]
+*** PRE-FLOP *** 
+MathisKcr raises 1080 to 1140 and is all-in
+Chaoyinn calls 300 and is all-in
+*** FLOP *** [3h 9c Ac]
+*** TURN *** [3h 9c Ac][7h]
+*** RIVER *** [3h 9c Ac 7h][Qs]
+*** SHOW DOWN ***
+Chaoyinn shows [8s 8d] (One pair : 8)
+MathisKcr shows [5d Qd] (One pair : Queens)
+MathisKcr collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [3h 9c Ac 7h Qs]
+Seat 1: MathisKcr (small blind) (button) showed [5d Qd] and won 1500 with One pair : Queens
+Seat 2: Chaoyinn (big blind) showed [8s 8d] and lost with One pair : 8
+
+

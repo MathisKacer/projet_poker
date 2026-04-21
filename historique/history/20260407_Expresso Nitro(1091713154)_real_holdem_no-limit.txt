@@ -1,0 +1,247 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688872293043011585-1-1775569325 - Holdem no limit (10/20) - 2026/04/07 13:42:05 UTC
+Table: 'Expresso Nitro(1091713154)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Petanqueur81 (300)
+Seat 2: MathisKcr (300)
+Seat 3: ChucKiisBack (300)
+*** ANTE/BLINDS ***
+Petanqueur81 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 8c]
+*** PRE-FLOP *** 
+ChucKiisBack folds
+Petanqueur81 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688872293043011585-2-1775569330 - Holdem no limit (10/20) - 2026/04/07 13:42:10 UTC
+Table: 'Expresso Nitro(1091713154)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Petanqueur81 (290)
+Seat 2: MathisKcr (310)
+Seat 3: ChucKiisBack (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+ChucKiisBack posts big blind 20
+Dealt to MathisKcr [6h 7d]
+*** PRE-FLOP *** 
+Petanqueur81 calls 20
+MathisKcr folds
+ChucKiisBack checks
+*** FLOP *** [6d 2h 8h]
+ChucKiisBack checks
+Petanqueur81 checks
+*** TURN *** [6d 2h 8h][Tc]
+ChucKiisBack checks
+Petanqueur81 checks
+*** RIVER *** [6d 2h 8h Tc][Qc]
+ChucKiisBack checks
+Petanqueur81 checks
+*** SHOW DOWN ***
+ChucKiisBack shows [4h 3c] (High card : Queen)
+Petanqueur81 shows [3d Kc] (High card : King)
+Petanqueur81 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [6d 2h 8h Tc Qc]
+Seat 1: Petanqueur81 (button) showed [3d Kc] and won 50 with High card : King
+Seat 3: ChucKiisBack (big blind) showed [4h 3c] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688872293043011585-3-1775569376 - Holdem no limit (10/20) - 2026/04/07 13:42:56 UTC
+Table: 'Expresso Nitro(1091713154)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Petanqueur81 (320)
+Seat 2: MathisKcr (300)
+Seat 3: ChucKiisBack (280)
+*** ANTE/BLINDS ***
+ChucKiisBack posts small blind 10
+Petanqueur81 posts big blind 20
+Dealt to MathisKcr [9h 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+ChucKiisBack folds
+Petanqueur81 folds
+MathisKcr collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: MathisKcr (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688872293043011585-4-1775569382 - Holdem no limit (15/30) - 2026/04/07 13:43:02 UTC
+Table: 'Expresso Nitro(1091713154)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Petanqueur81 (300)
+Seat 2: MathisKcr (330)
+Seat 3: ChucKiisBack (270)
+*** ANTE/BLINDS ***
+Petanqueur81 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3d Ks]
+*** PRE-FLOP *** 
+ChucKiisBack calls 30
+Petanqueur81 folds
+MathisKcr checks
+*** FLOP *** [2s 4c 2c]
+MathisKcr checks
+ChucKiisBack checks
+*** TURN *** [2s 4c 2c][2h]
+MathisKcr checks
+ChucKiisBack checks
+*** RIVER *** [2s 4c 2c 2h][4d]
+MathisKcr checks
+ChucKiisBack checks
+*** SHOW DOWN ***
+MathisKcr shows [3d Ks] (Full of 2 and 4)
+ChucKiisBack shows [Ad Js] (Full of 2 and 4)
+ChucKiisBack collected 38 from pot
+MathisKcr collected 37 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [2s 4c 2c 2h 4d]
+Seat 2: MathisKcr (big blind) showed [3d Ks] and won 37 with Full of 2 and 4
+Seat 3: ChucKiisBack (button) showed [Ad Js] and won 38 with Full of 2 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688872293043011585-5-1775569425 - Holdem no limit (15/30) - 2026/04/07 13:43:45 UTC
+Table: 'Expresso Nitro(1091713154)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Petanqueur81 (285)
+Seat 2: MathisKcr (337)
+Seat 3: ChucKiisBack (278)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+ChucKiisBack posts big blind 30
+Dealt to MathisKcr [6c Ad]
+*** PRE-FLOP *** 
+Petanqueur81 folds
+MathisKcr raises 307 to 337 and is all-in
+ChucKiisBack folds
+MathisKcr collected 367 from pot
+*** SUMMARY ***
+Total pot 367 | No rake
+Seat 2: MathisKcr (small blind) won 367
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688872293043011585-6-1775569448 - Holdem no limit (20/40) - 2026/04/07 13:44:08 UTC
+Table: 'Expresso Nitro(1091713154)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Petanqueur81 (285)
+Seat 2: MathisKcr (367)
+Seat 3: ChucKiisBack (248)
+*** ANTE/BLINDS ***
+ChucKiisBack posts small blind 20
+Petanqueur81 posts big blind 40
+Dealt to MathisKcr [3c 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+ChucKiisBack folds
+Petanqueur81 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Petanqueur81 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688872293043011585-7-1775569462 - Holdem no limit (20/40) - 2026/04/07 13:44:22 UTC
+Table: 'Expresso Nitro(1091713154)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Petanqueur81 (305)
+Seat 2: MathisKcr (367)
+Seat 3: ChucKiisBack (228)
+*** ANTE/BLINDS ***
+Petanqueur81 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9d 5h]
+*** PRE-FLOP *** 
+ChucKiisBack folds
+Petanqueur81 calls 20
+MathisKcr checks
+*** FLOP *** [Jc 8s 7h]
+Petanqueur81 bets 52
+MathisKcr calls 52
+*** TURN *** [Jc 8s 7h][6s]
+Petanqueur81 checks
+MathisKcr bets 120
+Petanqueur81 folds
+MathisKcr collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | No rake
+Board: [Jc 8s 7h 6s]
+Seat 2: MathisKcr (big blind) won 304
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688872293043011585-8-1775569484 - Holdem no limit (20/40) - 2026/04/07 13:44:44 UTC
+Table: 'Expresso Nitro(1091713154)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Petanqueur81 (213)
+Seat 2: MathisKcr (459)
+Seat 3: ChucKiisBack (228)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+ChucKiisBack posts big blind 40
+Dealt to MathisKcr [Ts 7s]
+*** PRE-FLOP *** 
+Petanqueur81 raises 173 to 213 and is all-in
+MathisKcr folds
+ChucKiisBack folds
+Petanqueur81 collected 273 from pot
+*** SUMMARY ***
+Total pot 273 | No rake
+Seat 1: Petanqueur81 (button) won 273
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688872293043011585-9-1775569493 - Holdem no limit (20/40) - 2026/04/07 13:44:53 UTC
+Table: 'Expresso Nitro(1091713154)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Petanqueur81 (273)
+Seat 2: MathisKcr (439)
+Seat 3: ChucKiisBack (188)
+*** ANTE/BLINDS ***
+ChucKiisBack posts small blind 20
+Petanqueur81 posts big blind 40
+Dealt to MathisKcr [7d Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+ChucKiisBack calls 60
+Petanqueur81 calls 40
+*** FLOP *** [Th 5c 9s]
+ChucKiisBack checks
+Petanqueur81 checks
+MathisKcr checks
+*** TURN *** [Th 5c 9s][Qd]
+ChucKiisBack bets 84
+Petanqueur81 raises 109 to 193 and is all-in
+MathisKcr folds
+ChucKiisBack calls 24 and is all-in
+*** RIVER *** [Th 5c 9s Qd][2h]
+*** SHOW DOWN ***
+ChucKiisBack shows [Ac Jc] (High card : Ace)
+Petanqueur81 shows [Qh 7s] (One pair : Queens)
+Petanqueur81 collected 541 from pot
+*** SUMMARY ***
+Total pot 541 | No rake
+Board: [Th 5c 9s Qd 2h]
+Seat 1: Petanqueur81 (big blind) showed [Qh 7s] and won 541 with One pair : Queens
+Seat 3: ChucKiisBack (small blind) showed [Ac Jc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4688872293043011585-10-1775569529 - Holdem no limit (30/60) - 2026/04/07 13:45:29 UTC
+Table: 'Expresso Nitro(1091713154)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Petanqueur81 (541)
+Seat 2: MathisKcr (359)
+*** ANTE/BLINDS ***
+Petanqueur81 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [9c Qs]
+*** PRE-FLOP *** 
+Petanqueur81 calls 30
+MathisKcr raises 299 to 359 and is all-in
+Petanqueur81 calls 299
+*** FLOP *** [Kh 3h 3d]
+*** TURN *** [Kh 3h 3d][8d]
+*** RIVER *** [Kh 3h 3d 8d][Ac]
+*** SHOW DOWN ***
+MathisKcr shows [9c Qs] (One pair : 3)
+Petanqueur81 shows [Js Ks] (Two pairs : Kings and 3)
+Petanqueur81 collected 718 from pot
+*** SUMMARY ***
+Total pot 718 | No rake
+Board: [Kh 3h 3d 8d Ac]
+Seat 1: Petanqueur81 (small blind) (button) showed [Js Ks] and won 718 with Two pairs : Kings and 3
+Seat 2: MathisKcr (big blind) showed [9c Qs] and lost with One pair : 3
+
+

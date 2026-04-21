@@ -1,0 +1,251 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668483499173347329-1-1774795412 - Holdem no limit (10/20) - 2026/03/29 14:43:32 UTC
+Table: 'Expresso Nitro(1086966018)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Luzien-Pok (300)
+Seat 2: MathisKcr (300)
+Seat 3: kevonolo86 (300)
+*** ANTE/BLINDS ***
+Luzien-Pok posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5h 6c]
+*** PRE-FLOP *** 
+kevonolo86 calls 20
+Luzien-Pok calls 10
+MathisKcr checks
+*** FLOP *** [Js 4c 7c]
+Luzien-Pok checks
+MathisKcr checks
+kevonolo86 checks
+*** TURN *** [Js 4c 7c][Ah]
+Luzien-Pok checks
+MathisKcr checks
+kevonolo86 bets 20
+Luzien-Pok calls 20
+MathisKcr folds
+*** RIVER *** [Js 4c 7c Ah][Qh]
+Luzien-Pok checks
+kevonolo86 bets 20
+Luzien-Pok folds
+kevonolo86 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Js 4c 7c Ah Qh]
+Seat 3: kevonolo86 (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668483499173347329-2-1774795484 - Holdem no limit (15/30) - 2026/03/29 14:44:44 UTC
+Table: 'Expresso Nitro(1086966018)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Luzien-Pok (260)
+Seat 2: MathisKcr (280)
+Seat 3: kevonolo86 (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+kevonolo86 posts big blind 30
+Dealt to MathisKcr [Jc Qd]
+*** PRE-FLOP *** 
+Luzien-Pok folds
+MathisKcr raises 250 to 280 and is all-in
+kevonolo86 folds
+MathisKcr collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: MathisKcr (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668483499173347329-3-1774795513 - Holdem no limit (15/30) - 2026/03/29 14:45:13 UTC
+Table: 'Expresso Nitro(1086966018)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Luzien-Pok (260)
+Seat 2: MathisKcr (310)
+Seat 3: kevonolo86 (330)
+*** ANTE/BLINDS ***
+kevonolo86 posts small blind 15
+Luzien-Pok posts big blind 30
+Dealt to MathisKcr [3h Jh]
+*** PRE-FLOP *** 
+MathisKcr folds
+kevonolo86 calls 15
+Luzien-Pok checks
+*** FLOP *** [4s 7h 8c]
+kevonolo86 checks
+Luzien-Pok bets 60
+kevonolo86 folds
+Luzien-Pok collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4s 7h 8c]
+Seat 1: Luzien-Pok (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668483499173347329-4-1774795546 - Holdem no limit (20/40) - 2026/03/29 14:45:46 UTC
+Table: 'Expresso Nitro(1086966018)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Luzien-Pok (290)
+Seat 2: MathisKcr (310)
+Seat 3: kevonolo86 (300)
+*** ANTE/BLINDS ***
+Luzien-Pok posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7s 3c]
+*** PRE-FLOP *** 
+kevonolo86 folds
+Luzien-Pok calls 20
+MathisKcr checks
+*** FLOP *** [4s Ts Th]
+Luzien-Pok bets 52
+MathisKcr folds
+Luzien-Pok collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [4s Ts Th]
+Seat 1: Luzien-Pok (small blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668483499173347329-5-1774795578 - Holdem no limit (20/40) - 2026/03/29 14:46:18 UTC
+Table: 'Expresso Nitro(1086966018)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Luzien-Pok (330)
+Seat 2: MathisKcr (270)
+Seat 3: kevonolo86 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+kevonolo86 posts big blind 40
+Dealt to MathisKcr [7s Ts]
+*** PRE-FLOP *** 
+Luzien-Pok raises 100 to 140
+MathisKcr folds
+kevonolo86 calls 100
+*** FLOP *** [5c 3c Ah]
+kevonolo86 checks
+Luzien-Pok bets 105
+kevonolo86 calls 105
+*** TURN *** [5c 3c Ah][8h]
+kevonolo86 checks
+Luzien-Pok checks
+*** RIVER *** [5c 3c Ah 8h][As]
+kevonolo86 bets 40
+Luzien-Pok raises 45 to 85 and is all-in
+kevonolo86 calls 15 and is all-in
+*** SHOW DOWN ***
+kevonolo86 shows [Jc Js] (Two pairs : Aces and Jacks)
+Luzien-Pok shows [Ad 6d] (Trips of Aces)
+Luzien-Pok collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [5c 3c Ah 8h As]
+Seat 1: Luzien-Pok (button) showed [Ad 6d] and won 650 with Trips of Aces
+Seat 3: kevonolo86 (big blind) showed [Jc Js] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4668483499173347329-6-1774795642 - Holdem no limit (30/60) - 2026/03/29 14:47:22 UTC
+Table: 'Expresso Nitro(1086966018)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Luzien-Pok (650)
+Seat 2: MathisKcr (250)
+*** ANTE/BLINDS ***
+Luzien-Pok posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qh 4c]
+*** PRE-FLOP *** 
+Luzien-Pok folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4668483499173347329-7-1774795654 - Holdem no limit (40/80) - 2026/03/29 14:47:34 UTC
+Table: 'Expresso Nitro(1086966018)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Luzien-Pok (620)
+Seat 2: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Luzien-Pok posts big blind 80
+Dealt to MathisKcr [6h 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Luzien-Pok collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Luzien-Pok (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4668483499173347329-8-1774795658 - Holdem no limit (40/80) - 2026/03/29 14:47:38 UTC
+Table: 'Expresso Nitro(1086966018)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Luzien-Pok (660)
+Seat 2: MathisKcr (240)
+*** ANTE/BLINDS ***
+Luzien-Pok posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [2c 4h]
+*** PRE-FLOP *** 
+Luzien-Pok raises 160 to 240
+MathisKcr folds
+Luzien-Pok collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Luzien-Pok (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4668483499173347329-9-1774795673 - Holdem no limit (40/80) - 2026/03/29 14:47:53 UTC
+Table: 'Expresso Nitro(1086966018)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Luzien-Pok (740)
+Seat 2: MathisKcr (160)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Luzien-Pok posts big blind 80
+Dealt to MathisKcr [Qs 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 160 and is all-in
+Luzien-Pok calls 80
+*** FLOP *** [Qd 5c Td]
+*** TURN *** [Qd 5c Td][4s]
+*** RIVER *** [Qd 5c Td 4s][9h]
+*** SHOW DOWN ***
+Luzien-Pok shows [Jc 4c] (One pair : 4)
+MathisKcr shows [Qs 5d] (Two pairs : Queens and 5)
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Qd 5c Td 4s 9h]
+Seat 1: Luzien-Pok (big blind) showed [Jc 4c] and lost with One pair : 4
+Seat 2: MathisKcr (small blind) (button) showed [Qs 5d] and won 320 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4668483499173347329-10-1774795690 - Holdem no limit (40/80) - 2026/03/29 14:48:10 UTC
+Table: 'Expresso Nitro(1086966018)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Luzien-Pok (580)
+Seat 2: MathisKcr (320)
+*** ANTE/BLINDS ***
+Luzien-Pok posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [3s 5c]
+*** PRE-FLOP *** 
+Luzien-Pok raises 160 to 240
+MathisKcr folds
+Luzien-Pok collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Luzien-Pok (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4668483499173347329-11-1774795705 - Holdem no limit (40/80) - 2026/03/29 14:48:25 UTC
+Table: 'Expresso Nitro(1086966018)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Luzien-Pok (660)
+Seat 2: MathisKcr (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Luzien-Pok posts big blind 80
+Dealt to MathisKcr [8d 6h]
+*** PRE-FLOP *** 
+MathisKcr raises 160 to 240 and is all-in
+Luzien-Pok calls 160
+*** FLOP *** [Kc 4c 7c]
+*** TURN *** [Kc 4c 7c][3d]
+*** RIVER *** [Kc 4c 7c 3d][Kh]
+*** SHOW DOWN ***
+MathisKcr shows [8d 6h] (One pair : Kings)
+Luzien-Pok shows [7h Th] (Two pairs : Kings and 7)
+Luzien-Pok collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Kc 4c 7c 3d Kh]
+Seat 1: Luzien-Pok (big blind) showed [7h Th] and won 480 with Two pairs : Kings and 7
+Seat 2: MathisKcr (small blind) (button) showed [8d 6h] and lost with One pair : Kings
+
+

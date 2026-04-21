@@ -1,0 +1,150 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675938858024566785-1-1775073764 - Holdem no limit (10/20) - 2026/04/01 20:02:44 UTC
+Table: 'Expresso Nitro(1088701854)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MD-Padrino15 (300)
+Seat 2: axelair75012 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MD-Padrino15 posts small blind 10
+axelair75012 posts big blind 20
+Dealt to MathisKcr [Qs 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+MD-Padrino15 raises 20 to 40
+axelair75012 calls 20
+*** FLOP *** [Qc 4c 4s]
+MD-Padrino15 checks
+axelair75012 checks
+*** TURN *** [Qc 4c 4s][9d]
+MD-Padrino15 checks
+axelair75012 checks
+*** RIVER *** [Qc 4c 4s 9d][2d]
+MD-Padrino15 checks
+axelair75012 checks
+*** SHOW DOWN ***
+MD-Padrino15 shows [7s 3c] (One pair : 4)
+axelair75012 shows [7d Tc] (One pair : 4)
+axelair75012 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Qc 4c 4s 9d 2d]
+Seat 1: MD-Padrino15 (small blind) showed [7s 3c] and lost with One pair : 4
+Seat 2: axelair75012 (big blind) showed [7d Tc] and won 80 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675938858024566785-2-1775073797 - Holdem no limit (10/20) - 2026/04/01 20:03:17 UTC
+Table: 'Expresso Nitro(1088701854)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MD-Padrino15 (260)
+Seat 2: axelair75012 (340)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+axelair75012 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8c 6c]
+*** PRE-FLOP *** 
+MD-Padrino15 calls 20
+axelair75012 raises 60 to 80
+MathisKcr folds
+MD-Padrino15 calls 60
+*** FLOP *** [4h Tc 4s]
+axelair75012 checks
+MD-Padrino15 bets 20
+axelair75012 calls 20
+*** TURN *** [4h Tc 4s][2s]
+axelair75012 checks
+MD-Padrino15 bets 20
+axelair75012 raises 20 to 40
+MD-Padrino15 raises 20 to 60
+axelair75012 calls 20
+*** RIVER *** [4h Tc 4s 2s][Ah]
+axelair75012 bets 20
+MD-Padrino15 raises 80 to 100 and is all-in
+axelair75012 folds
+MD-Padrino15 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [4h Tc 4s 2s Ah]
+Seat 1: MD-Padrino15 (button) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675938858024566785-3-1775073852 - Holdem no limit (15/30) - 2026/04/01 20:04:12 UTC
+Table: 'Expresso Nitro(1088701854)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MD-Padrino15 (460)
+Seat 2: axelair75012 (160)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+MD-Padrino15 posts big blind 30
+Dealt to MathisKcr [4d 2h]
+*** PRE-FLOP *** 
+axelair75012 calls 30
+MathisKcr folds
+MD-Padrino15 checks
+*** FLOP *** [8h 7d 2c]
+MD-Padrino15 bets 30
+axelair75012 raises 30 to 60
+MD-Padrino15 calls 30
+*** TURN *** [8h 7d 2c][9h]
+MD-Padrino15 bets 68
+axelair75012 raises 2 to 70 and is all-in
+MD-Padrino15 calls 2
+*** RIVER *** [8h 7d 2c 9h][Qc]
+*** SHOW DOWN ***
+axelair75012 shows [7c 8c] (Two pairs : 8 and 7)
+MD-Padrino15 shows [9s 7s] (Two pairs : 9 and 7)
+MD-Padrino15 collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | No rake
+Board: [8h 7d 2c 9h Qc]
+Seat 1: MD-Padrino15 (big blind) showed [9s 7s] and won 335 with Two pairs : 9 and 7
+Seat 2: axelair75012 (button) showed [7c 8c] and lost with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4675938858024566785-4-1775073895 - Holdem no limit (20/40) - 2026/04/01 20:04:55 UTC
+Table: 'Expresso Nitro(1088701854)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MD-Padrino15 (635)
+Seat 3: MathisKcr (265)
+*** ANTE/BLINDS ***
+MD-Padrino15 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5d 3d]
+*** PRE-FLOP *** 
+MD-Padrino15 calls 20
+MathisKcr checks
+*** FLOP *** [Th 2d Ad]
+MathisKcr bets 80
+MD-Padrino15 calls 80
+*** TURN *** [Th 2d Ad][9c]
+MathisKcr bets 145 and is all-in
+MD-Padrino15 folds
+MathisKcr collected 385 from pot
+*** SUMMARY ***
+Total pot 385 | No rake
+Board: [Th 2d Ad 9c]
+Seat 3: MathisKcr (big blind) won 385
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4675938858024566785-5-1775073925 - Holdem no limit (20/40) - 2026/04/01 20:05:25 UTC
+Table: 'Expresso Nitro(1088701854)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MD-Padrino15 (515)
+Seat 3: MathisKcr (385)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+MD-Padrino15 posts big blind 40
+Dealt to MathisKcr [8h Js]
+*** PRE-FLOP *** 
+MathisKcr raises 345 to 385 and is all-in
+MD-Padrino15 calls 345
+*** FLOP *** [6h 3d 4s]
+*** TURN *** [6h 3d 4s][2s]
+*** RIVER *** [6h 3d 4s 2s][Qd]
+*** SHOW DOWN ***
+MathisKcr shows [8h Js] (High card : Queen)
+MD-Padrino15 shows [3s 2d] (Two pairs : 3 and 2)
+MD-Padrino15 collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Board: [6h 3d 4s 2s Qd]
+Seat 1: MD-Padrino15 (big blind) showed [3s 2d] and won 770 with Two pairs : 3 and 2
+Seat 3: MathisKcr (small blind) (button) showed [8h Js] and lost with High card : Queen
+
+

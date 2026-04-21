@@ -1,0 +1,122 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668176786968805377-1-1774783467 - Holdem no limit (10/20) - 2026/03/29 11:24:27 UTC
+Table: 'Expresso Nitro(1086894606)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Nki-Nlil (300)
+Seat 3: tigresse1968 (300)
+*** ANTE/BLINDS ***
+tigresse1968 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ah Qh]
+*** PRE-FLOP *** 
+Nki-Nlil raises 50 to 70
+tigresse1968 folds
+MathisKcr raises 230 to 300 and is all-in
+Nki-Nlil folds
+MathisKcr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 1: MathisKcr (big blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668176786968805377-2-1774783490 - Holdem no limit (10/20) - 2026/03/29 11:24:50 UTC
+Table: 'Expresso Nitro(1086894606)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (380)
+Seat 2: Nki-Nlil (230)
+Seat 3: tigresse1968 (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Nki-Nlil posts big blind 20
+Dealt to MathisKcr [Js Jh]
+*** PRE-FLOP *** 
+tigresse1968 calls 20
+MathisKcr raises 360 to 380 and is all-in
+Nki-Nlil calls 210 and is all-in
+tigresse1968 folds
+*** FLOP *** [Ks 7c Kh]
+*** TURN *** [Ks 7c Kh][Tc]
+*** RIVER *** [Ks 7c Kh Tc][2c]
+*** SHOW DOWN ***
+Nki-Nlil shows [3d 9s] (One pair : Kings)
+MathisKcr shows [Js Jh] (Two pairs : Kings and Jacks)
+MathisKcr collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Ks 7c Kh Tc 2c]
+Seat 1: MathisKcr (small blind) showed [Js Jh] and won 630 with Two pairs : Kings and Jacks
+Seat 2: Nki-Nlil (big blind) showed [3d 9s] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668176786968805377-3-1774783514 - Holdem no limit (10/20) - 2026/03/29 11:25:14 UTC
+Table: 'Expresso Nitro(1086894606)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (630)
+Seat 3: tigresse1968 (270)
+*** ANTE/BLINDS ***
+tigresse1968 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2c 8c]
+*** PRE-FLOP *** 
+tigresse1968 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668176786968805377-4-1774783519 - Holdem no limit (10/20) - 2026/03/29 11:25:19 UTC
+Table: 'Expresso Nitro(1086894606)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (640)
+Seat 3: tigresse1968 (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+tigresse1968 posts big blind 20
+Dealt to MathisKcr [4h Qd]
+*** PRE-FLOP *** 
+MathisKcr raises 620 to 640 and is all-in
+tigresse1968 folds
+MathisKcr collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 1: MathisKcr (small blind) (button) won 660
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668176786968805377-5-1774783527 - Holdem no limit (15/30) - 2026/03/29 11:25:27 UTC
+Table: 'Expresso Nitro(1086894606)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (660)
+Seat 3: tigresse1968 (240)
+*** ANTE/BLINDS ***
+tigresse1968 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6h Jc]
+*** PRE-FLOP *** 
+tigresse1968 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668176786968805377-6-1774783531 - Holdem no limit (15/30) - 2026/03/29 11:25:31 UTC
+Table: 'Expresso Nitro(1086894606)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (675)
+Seat 3: tigresse1968 (225)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+tigresse1968 posts big blind 30
+Dealt to MathisKcr [Qh Td]
+*** PRE-FLOP *** 
+MathisKcr raises 645 to 675 and is all-in
+tigresse1968 calls 195 and is all-in
+*** FLOP *** [As 5s 3h]
+*** TURN *** [As 5s 3h][Jd]
+*** RIVER *** [As 5s 3h Jd][Kc]
+*** SHOW DOWN ***
+tigresse1968 shows [8s Ad] (One pair : Aces)
+MathisKcr shows [Qh Td] (Straight Ace high)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As 5s 3h Jd Kc]
+Seat 1: MathisKcr (small blind) (button) showed [Qh Td] and won 900 with Straight Ace high
+Seat 3: tigresse1968 (big blind) showed [8s Ad] and lost with One pair : Aces
+
+

@@ -1,0 +1,655 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4453934760158298113-1-1766686718 - Holdem no limit (10/20) - 2025/12/25 18:18:38 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #5 is the button
+Seat 1: pikatchu2002 (1500)
+Seat 2: MendesHaribo (1500)
+Seat 3: Gert-hell (1500)
+Seat 4: Kazilu (1500)
+Seat 5: MathisKcr (1500)
+Seat 6: KissDead (1500)
+*** ANTE/BLINDS ***
+KissDead posts small blind 10
+pikatchu2002 posts big blind 20
+Dealt to MathisKcr [7c Ac]
+*** PRE-FLOP *** 
+MendesHaribo calls 20
+Gert-hell calls 20
+Kazilu calls 20
+MathisKcr raises 20 to 40
+KissDead calls 30
+pikatchu2002 folds
+MendesHaribo calls 20
+Gert-hell folds
+Kazilu calls 20
+*** FLOP *** [9d Ad Ts]
+KissDead bets 20
+MendesHaribo calls 20
+Kazilu folds
+MathisKcr raises 50 to 70
+KissDead calls 50
+MendesHaribo calls 50
+*** TURN *** [9d Ad Ts][Ah]
+KissDead checks
+MendesHaribo checks
+MathisKcr bets 103
+KissDead calls 103
+MendesHaribo folds
+*** RIVER *** [9d Ad Ts Ah][Th]
+KissDead checks
+MathisKcr checks
+*** SHOW DOWN ***
+KissDead shows [Kh 9h] (Two pairs : Aces and Tens)
+MathisKcr shows [7c Ac] (Full of Aces and Tens)
+MathisKcr collected 616 from pot
+*** SUMMARY ***
+Total pot 616 | No rake
+Board: [9d Ad Ts Ah Th]
+Seat 5: MathisKcr (button) showed [7c Ac] and won 616 with Full of Aces and Tens
+Seat 6: KissDead (small blind) showed [Kh 9h] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4453934760158298113-2-1766686817 - Holdem no limit (15/30) - 2025/12/25 18:20:17 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #6 is the button
+Seat 1: pikatchu2002 (1480)
+Seat 2: MendesHaribo (1390)
+Seat 3: Gert-hell (1480)
+Seat 4: Kazilu (1460)
+Seat 5: MathisKcr (1903)
+Seat 6: KissDead (1287)
+*** ANTE/BLINDS ***
+pikatchu2002 posts small blind 15
+MendesHaribo posts big blind 30
+Dealt to MathisKcr [6h Qh]
+*** PRE-FLOP *** 
+Gert-hell raises 30 to 60
+Kazilu calls 60
+MathisKcr calls 60
+KissDead folds
+pikatchu2002 raises 1420 to 1480 and is all-in
+MendesHaribo folds
+Gert-hell folds
+Kazilu folds
+MathisKcr folds
+pikatchu2002 collected 1690 from pot
+*** SUMMARY ***
+Total pot 1690 | No rake
+Seat 1: pikatchu2002 (small blind) won 1690
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4453934760158298113-3-1766686860 - Holdem no limit (15/30) - 2025/12/25 18:21:00 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #1 is the button
+Seat 1: pikatchu2002 (1690)
+Seat 2: MendesHaribo (1360)
+Seat 3: Gert-hell (1420)
+Seat 4: Kazilu (1400)
+Seat 5: MathisKcr (1843)
+Seat 6: KissDead (1287)
+*** ANTE/BLINDS ***
+MendesHaribo posts small blind 15
+Gert-hell posts big blind 30
+Dealt to MathisKcr [Qc 6s]
+*** PRE-FLOP *** 
+Kazilu calls 30
+MathisKcr raises 30 to 60
+KissDead calls 60
+pikatchu2002 folds
+MendesHaribo folds
+Gert-hell folds
+Kazilu calls 30
+*** FLOP *** [5h Jd Js]
+Kazilu checks
+MathisKcr bets 60
+KissDead folds
+Kazilu folds
+MathisKcr collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Board: [5h Jd Js]
+Seat 5: MathisKcr won 285
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4453934760158298113-4-1766687009 - Holdem no limit (30/60) - 2025/12/25 18:23:29 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #2 is the button
+Seat 1: pikatchu2002 (1690)
+Seat 2: MendesHaribo (1345)
+Seat 3: Gert-hell (1390)
+Seat 4: Kazilu (1340)
+Seat 5: MathisKcr (2008)
+Seat 6: KissDead (1227)
+*** ANTE/BLINDS ***
+Gert-hell posts small blind 30
+Kazilu posts big blind 60
+Dealt to MathisKcr [7d Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+KissDead folds
+pikatchu2002 folds
+MendesHaribo folds
+Gert-hell folds
+Kazilu calls 60
+*** FLOP *** [Kd 3s 9c]
+Kazilu checks
+MathisKcr bets 120
+Kazilu folds
+MathisKcr collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [Kd 3s 9c]
+Seat 5: MathisKcr won 390
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4453934760158298113-5-1766687066 - Holdem no limit (30/60) - 2025/12/25 18:24:26 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #3 is the button
+Seat 1: pikatchu2002 (1690)
+Seat 2: MendesHaribo (1345)
+Seat 3: Gert-hell (1360)
+Seat 4: Kazilu (1220)
+Seat 5: MathisKcr (2158)
+Seat 6: KissDead (1227)
+*** ANTE/BLINDS ***
+Kazilu posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [3s Qs]
+*** PRE-FLOP *** 
+KissDead calls 60
+pikatchu2002 folds
+MendesHaribo calls 60
+Gert-hell folds
+Kazilu calls 30
+MathisKcr raises 60 to 120
+KissDead calls 60
+MendesHaribo calls 60
+Kazilu calls 60
+*** FLOP *** [Ks Qd 2s]
+Kazilu checks
+MathisKcr bets 120
+KissDead calls 120
+MendesHaribo folds
+Kazilu folds
+*** TURN *** [Ks Qd 2s][Jc]
+MathisKcr bets 180
+KissDead raises 807 to 987 and is all-in
+MathisKcr calls 807
+*** RIVER *** [Ks Qd 2s Jc][Qc]
+*** SHOW DOWN ***
+KissDead shows [Kc Ts] (Two pairs : Kings and Queens)
+MathisKcr shows [3s Qs] (Trips of Queens)
+MathisKcr collected 2694 from pot
+*** SUMMARY ***
+Total pot 2694 | No rake
+Board: [Ks Qd 2s Jc Qc]
+Seat 5: MathisKcr (big blind) showed [3s Qs] and won 2694 with Trips of Queens
+Seat 6: KissDead showed [Kc Ts] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4453934760158298113-6-1766687170 - Holdem no limit (60/120) - 2025/12/25 18:26:10 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #4 is the button
+Seat 1: pikatchu2002 (1690)
+Seat 2: MendesHaribo (1225)
+Seat 3: Gert-hell (1360)
+Seat 4: Kazilu (1100)
+Seat 5: MathisKcr (3625)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 60
+pikatchu2002 posts big blind 120
+Dealt to MathisKcr [5h 2d]
+*** PRE-FLOP *** 
+MendesHaribo calls 120
+Gert-hell raises 1240 to 1360 and is all-in
+Kazilu calls 1100 and is all-in
+MathisKcr folds
+pikatchu2002 calls 1240
+MendesHaribo folds
+*** FLOP *** [8c Jd Jc]
+*** TURN *** [8c Jd Jc][7c]
+*** RIVER *** [8c Jd Jc 7c][7s]
+*** SHOW DOWN ***
+pikatchu2002 shows [Ad 6d] (Two pairs : Jacks and 7)
+Kazilu shows [3d Qd] (Two pairs : Jacks and 7)
+Gert-hell shows [Kh Kc] (Two pairs : Kings and Jacks)
+Gert-hell collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | No rake
+Board: [8c Jd Jc 7c 7s]
+Seat 1: pikatchu2002 (big blind) showed [Ad 6d] and lost with Two pairs : Jacks and 7
+Seat 3: Gert-hell showed [Kh Kc] and won 4000 with Two pairs : Kings and Jacks
+Seat 4: Kazilu (button) showed [3d Qd] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4453934760158298113-7-1766687246 - Holdem no limit (60/120) - 2025/12/25 18:27:26 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #5 is the button
+Seat 1: pikatchu2002 (330)
+Seat 2: MendesHaribo (1105)
+Seat 3: Gert-hell (4000)
+Seat 5: MathisKcr (3565)
+*** ANTE/BLINDS ***
+pikatchu2002 posts small blind 60
+MendesHaribo posts big blind 120
+Dealt to MathisKcr [Qh Jh]
+*** PRE-FLOP *** 
+Gert-hell raises 180 to 300
+MathisKcr raises 180 to 480
+pikatchu2002 calls 270 and is all-in
+MendesHaribo folds
+Gert-hell calls 180
+*** FLOP *** [5c 6d 5s]
+Gert-hell checks
+MathisKcr bets 360
+Gert-hell folds
+*** TURN *** [5c 6d 5s][4c]
+*** RIVER *** [5c 6d 5s 4c][Ac]
+*** SHOW DOWN ***
+pikatchu2002 shows [7s Ts] (One pair : 5)
+MathisKcr shows [Qh Jh] (One pair : 5)
+MathisKcr collected 1770 from pot
+*** SUMMARY ***
+Total pot 1770 | No rake
+Board: [5c 6d 5s 4c Ac]
+Seat 1: pikatchu2002 (small blind) showed [7s Ts] and lost with One pair : 5
+Seat 5: MathisKcr (button) showed [Qh Jh] and won 1770 with One pair : 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4453934760158298113-8-1766687278 - Holdem no limit (10/60/120) - 2025/12/25 18:27:58 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #1 is the button
+Seat 2: MendesHaribo (985)
+Seat 3: Gert-hell (3520)
+Seat 5: MathisKcr (4495)
+*** ANTE/BLINDS ***
+MendesHaribo posts ante 10
+Gert-hell posts ante 10
+MathisKcr posts ante 10
+MendesHaribo posts small blind 60
+Gert-hell posts big blind 120
+Dealt to MathisKcr [8h 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+MendesHaribo calls 60
+Gert-hell checks
+*** FLOP *** [9s 8d Td]
+MendesHaribo checks
+Gert-hell checks
+*** TURN *** [9s 8d Td][Ts]
+MendesHaribo checks
+Gert-hell checks
+*** RIVER *** [9s 8d Td Ts][7h]
+MendesHaribo bets 120
+Gert-hell folds
+MendesHaribo collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [9s 8d Td Ts 7h]
+Seat 2: MendesHaribo (small blind) won 390
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4453934760158298113-9-1766687319 - Holdem no limit (10/60/120) - 2025/12/25 18:28:39 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #2 is the button
+Seat 2: MendesHaribo (1125)
+Seat 3: Gert-hell (3390)
+Seat 5: MathisKcr (4485)
+*** ANTE/BLINDS ***
+Gert-hell posts ante 10
+MathisKcr posts ante 10
+MendesHaribo posts ante 10
+Gert-hell posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [Jh 2c]
+*** PRE-FLOP *** 
+MendesHaribo calls 120
+Gert-hell calls 60
+MathisKcr checks
+*** FLOP *** [Ks Js Qd]
+Gert-hell checks
+MathisKcr bets 240
+MendesHaribo calls 240
+Gert-hell folds
+*** TURN *** [Ks Js Qd][8c]
+MathisKcr bets 360
+MendesHaribo calls 360
+*** RIVER *** [Ks Js Qd 8c][5c]
+MathisKcr checks
+MendesHaribo bets 120
+MathisKcr raises 3635 to 3755 and is all-in
+MendesHaribo calls 275 and is all-in
+*** SHOW DOWN ***
+MendesHaribo shows [Kd 9c] (One pair : Kings)
+MathisKcr shows [Jh 2c] (One pair : Jacks)
+MathisKcr collected 3360 from side pot 1
+MendesHaribo collected 2380 from main pot
+*** SUMMARY ***
+Total pot 5740 | No rake
+Board: [Ks Js Qd 8c 5c]
+Seat 2: MendesHaribo (button) showed [Kd 9c] and won 2380 with One pair : Kings
+Seat 5: MathisKcr (big blind) showed [Jh 2c] and won 3360 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #4453934760158298113-10-1766687361 - Holdem no limit (16/80/160) - 2025/12/25 18:29:21 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #3 is the button
+Seat 2: MendesHaribo (2380)
+Seat 3: Gert-hell (3260)
+Seat 5: MathisKcr (3360)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 16
+MendesHaribo posts ante 16
+Gert-hell posts ante 16
+MathisKcr posts small blind 80
+MendesHaribo posts big blind 160
+Dealt to MathisKcr [9c 9h]
+*** PRE-FLOP *** 
+Gert-hell folds
+MathisKcr raises 320 to 480
+MendesHaribo calls 320
+*** FLOP *** [Qh 5d 6d]
+MathisKcr bets 2864 and is all-in
+MendesHaribo folds
+MathisKcr collected 3872 from pot
+*** SUMMARY ***
+Total pot 3872 | No rake
+Board: [Qh 5d 6d]
+Seat 5: MathisKcr (small blind) won 3872
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #4453934760158298113-11-1766687381 - Holdem no limit (16/80/160) - 2025/12/25 18:29:41 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #5 is the button
+Seat 2: MendesHaribo (1884)
+Seat 3: Gert-hell (3244)
+Seat 5: MathisKcr (3872)
+*** ANTE/BLINDS ***
+MendesHaribo posts ante 16
+Gert-hell posts ante 16
+MathisKcr posts ante 16
+MendesHaribo posts small blind 80
+Gert-hell posts big blind 160
+Dealt to MathisKcr [As Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 320 to 480
+MendesHaribo folds
+Gert-hell folds
+MathisKcr collected 768 from pot
+*** SUMMARY ***
+Total pot 768 | No rake
+Seat 5: MathisKcr (button) won 768
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #4453934760158298113-12-1766687403 - Holdem no limit (16/80/160) - 2025/12/25 18:30:03 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #2 is the button
+Seat 2: MendesHaribo (1788)
+Seat 3: Gert-hell (3068)
+Seat 5: MathisKcr (4144)
+*** ANTE/BLINDS ***
+Gert-hell posts ante 16
+MathisKcr posts ante 16
+MendesHaribo posts ante 16
+Gert-hell posts small blind 80
+MathisKcr posts big blind 160
+Dealt to MathisKcr [Qs Ad]
+*** PRE-FLOP *** 
+MendesHaribo calls 160
+Gert-hell calls 80
+MathisKcr raises 160 to 320
+MendesHaribo calls 160
+Gert-hell calls 160
+*** FLOP *** [Kh 3c 9d]
+Gert-hell checks
+MathisKcr bets 480
+MendesHaribo calls 480
+Gert-hell folds
+*** TURN *** [Kh 3c 9d][Jc]
+MathisKcr bets 480
+MendesHaribo calls 480
+*** RIVER *** [Kh 3c 9d Jc][As]
+MathisKcr bets 640
+MendesHaribo calls 492 and is all-in
+*** SHOW DOWN ***
+MendesHaribo shows [Jh 9s] (Two pairs : Jacks and 9)
+MathisKcr shows [Qs Ad] (One pair : Aces)
+MathisKcr collected 148 from side pot 1
+MendesHaribo collected 3912 from main pot
+*** SUMMARY ***
+Total pot 4060 | No rake
+Board: [Kh 3c 9d Jc As]
+Seat 2: MendesHaribo (button) showed [Jh 9s] and won 3912 with Two pairs : Jacks and 9
+Seat 5: MathisKcr (big blind) showed [Qs Ad] and won 148 with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 9 - HandId: #4453934760158298113-13-1766687442 - Holdem no limit (20/100/200) - 2025/12/25 18:30:42 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #3 is the button
+Seat 2: MendesHaribo (3912)
+Seat 3: Gert-hell (2732)
+Seat 5: MathisKcr (2356)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 20
+MendesHaribo posts ante 20
+Gert-hell posts ante 20
+MathisKcr posts small blind 100
+MendesHaribo posts big blind 200
+Dealt to MathisKcr [5d Td]
+*** PRE-FLOP *** 
+Gert-hell raises 300 to 500
+MathisKcr folds
+MendesHaribo calls 300
+*** FLOP *** [3c 3h 5c]
+MendesHaribo checks
+Gert-hell bets 406
+MendesHaribo folds
+Gert-hell collected 1566 from pot
+*** SUMMARY ***
+Total pot 1566 | No rake
+Board: [3c 3h 5c]
+Seat 3: Gert-hell (button) won 1566
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 9 - HandId: #4453934760158298113-14-1766687463 - Holdem no limit (20/100/200) - 2025/12/25 18:31:03 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #5 is the button
+Seat 2: MendesHaribo (3392)
+Seat 3: Gert-hell (3372)
+Seat 5: MathisKcr (2236)
+*** ANTE/BLINDS ***
+MendesHaribo posts ante 20
+Gert-hell posts ante 20
+MathisKcr posts ante 20
+MendesHaribo posts small blind 100
+Gert-hell posts big blind 200
+Dealt to MathisKcr [Jc 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 200 to 400
+MendesHaribo calls 300
+Gert-hell calls 200
+*** FLOP *** [8s 5h 9c]
+MendesHaribo checks
+Gert-hell checks
+MathisKcr bets 600
+MendesHaribo folds
+Gert-hell folds
+MathisKcr collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [8s 5h 9c]
+Seat 5: MathisKcr (button) won 1860
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 9 - HandId: #4453934760158298113-15-1766687505 - Holdem no limit (20/100/200) - 2025/12/25 18:31:45 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #2 is the button
+Seat 2: MendesHaribo (2972)
+Seat 3: Gert-hell (2952)
+Seat 5: MathisKcr (3076)
+*** ANTE/BLINDS ***
+Gert-hell posts ante 20
+MathisKcr posts ante 20
+MendesHaribo posts ante 20
+Gert-hell posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [Jd 5d]
+*** PRE-FLOP *** 
+MendesHaribo calls 200
+Gert-hell folds
+MathisKcr checks
+*** FLOP *** [2s Qs 2h]
+MathisKcr bets 200
+MendesHaribo calls 200
+*** TURN *** [2s Qs 2h][Qd]
+MathisKcr bets 200
+MendesHaribo calls 200
+*** RIVER *** [2s Qs 2h Qd][6c]
+MathisKcr checks
+MendesHaribo bets 200
+MathisKcr calls 200
+*** SHOW DOWN ***
+MathisKcr shows [Jd 5d] (Two pairs : Queens and 2)
+MendesHaribo shows [Qc 7c] (Full of Queens and 2)
+MendesHaribo collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Board: [2s Qs 2h Qd 6c]
+Seat 2: MendesHaribo (button) showed [Qc 7c] and won 1760 with Full of Queens and 2
+Seat 5: MathisKcr (big blind) showed [Jd 5d] and lost with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 10 - HandId: #4453934760158298113-16-1766687545 - Holdem no limit (25/125/250) - 2025/12/25 18:32:25 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #3 is the button
+Seat 2: MendesHaribo (3912)
+Seat 3: Gert-hell (2832)
+Seat 5: MathisKcr (2256)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+MendesHaribo posts ante 25
+Gert-hell posts ante 25
+MathisKcr posts small blind 125
+MendesHaribo posts big blind 250
+Dealt to MathisKcr [Qh Ts]
+*** PRE-FLOP *** 
+Gert-hell folds
+MathisKcr raises 250 to 500
+MendesHaribo calls 250
+*** FLOP *** [8c 4d 2s]
+MathisKcr bets 500
+MendesHaribo folds
+MathisKcr collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Board: [8c 4d 2s]
+Seat 5: MathisKcr (small blind) won 1575
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 10 - HandId: #4453934760158298113-17-1766687575 - Holdem no limit (25/125/250) - 2025/12/25 18:32:55 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #5 is the button
+Seat 2: MendesHaribo (3387)
+Seat 3: Gert-hell (2807)
+Seat 5: MathisKcr (2806)
+*** ANTE/BLINDS ***
+MendesHaribo posts ante 25
+Gert-hell posts ante 25
+MathisKcr posts ante 25
+MendesHaribo posts small blind 125
+Gert-hell posts big blind 250
+Dealt to MathisKcr [4s 4d]
+*** PRE-FLOP *** 
+MathisKcr raises 2531 to 2781 and is all-in
+MendesHaribo folds
+Gert-hell folds
+MathisKcr collected 3231 from pot
+*** SUMMARY ***
+Total pot 3231 | No rake
+Seat 5: MathisKcr (button) won 3231
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 10 - HandId: #4453934760158298113-18-1766687592 - Holdem no limit (25/125/250) - 2025/12/25 18:33:12 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #2 is the button
+Seat 2: MendesHaribo (3237)
+Seat 3: Gert-hell (2532)
+Seat 5: MathisKcr (3231)
+*** ANTE/BLINDS ***
+Gert-hell posts ante 25
+MathisKcr posts ante 25
+MendesHaribo posts ante 25
+Gert-hell posts small blind 125
+MathisKcr posts big blind 250
+Dealt to MathisKcr [Th 7h]
+*** PRE-FLOP *** 
+MendesHaribo calls 250
+Gert-hell folds
+MathisKcr checks
+*** FLOP *** [5d 8c 3d]
+MathisKcr bets 250
+MendesHaribo calls 250
+*** TURN *** [5d 8c 3d][8d]
+MathisKcr checks
+MendesHaribo checks
+*** RIVER *** [5d 8c 3d 8d][9h]
+MathisKcr checks
+MendesHaribo checks
+*** SHOW DOWN ***
+MathisKcr shows [Th 7h] (One pair : 8)
+MendesHaribo shows [Jd Qs] (One pair : 8)
+MendesHaribo collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [5d 8c 3d 8d 9h]
+Seat 2: MendesHaribo (button) showed [Jd Qs] and won 1200 with One pair : 8
+Seat 5: MathisKcr (big blind) showed [Th 7h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 11 - HandId: #4453934760158298113-19-1766687627 - Holdem no limit (35/150/300) - 2025/12/25 18:33:47 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #3 is the button
+Seat 2: MendesHaribo (3912)
+Seat 3: Gert-hell (2382)
+Seat 5: MathisKcr (2706)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 35
+MendesHaribo posts ante 35
+Gert-hell posts ante 35
+MathisKcr posts small blind 150
+MendesHaribo posts big blind 300
+Dealt to MathisKcr [Ac Kc]
+*** PRE-FLOP *** 
+Gert-hell folds
+MathisKcr raises 300 to 600
+MendesHaribo folds
+MathisKcr collected 1005 from pot
+*** SUMMARY ***
+Total pot 1005 | No rake
+Seat 5: MathisKcr (small blind) won 1005
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 11 - HandId: #4453934760158298113-20-1766687645 - Holdem no limit (35/150/300) - 2025/12/25 18:34:05 UTC
+Table: 'Starting Block WiPT(1037012497)#0' 6-max (real money) Seat #5 is the button
+Seat 2: MendesHaribo (3577)
+Seat 3: Gert-hell (2347)
+Seat 5: MathisKcr (3076)
+*** ANTE/BLINDS ***
+MendesHaribo posts ante 35
+Gert-hell posts ante 35
+MathisKcr posts ante 35
+MendesHaribo posts small blind 150
+Gert-hell posts big blind 300
+Dealt to MathisKcr [Kh Ts]
+*** PRE-FLOP *** 
+MathisKcr raises 300 to 600
+MendesHaribo calls 450
+Gert-hell calls 300
+*** FLOP *** [Js 7s 2s]
+MendesHaribo checks
+Gert-hell checks
+MathisKcr bets 600
+MendesHaribo calls 600
+Gert-hell calls 600
+*** TURN *** [Js 7s 2s][Ks]
+MendesHaribo checks
+Gert-hell bets 1112 and is all-in
+MathisKcr calls 1112
+MendesHaribo calls 1112
+*** RIVER *** [Js 7s 2s Ks][6c]
+MendesHaribo checks
+MathisKcr bets 729 and is all-in
+MendesHaribo calls 729
+*** SHOW DOWN ***
+Gert-hell shows [9s Ac] (Flush King high)
+MathisKcr shows [Kh Ts] (Flush King high)
+MendesHaribo shows [4s Qs] (Flush King high)
+MendesHaribo collected 8499 from pot
+*** SUMMARY ***
+Total pot 8499 | No rake
+Board: [Js 7s 2s Ks 6c]
+Seat 2: MendesHaribo (small blind) showed [4s Qs] and won 8499 with Flush King high
+Seat 3: Gert-hell (big blind) showed [9s Ac] and lost with Flush King high
+Seat 5: MathisKcr (button) showed [Kh Ts] and lost with Flush King high
+
+

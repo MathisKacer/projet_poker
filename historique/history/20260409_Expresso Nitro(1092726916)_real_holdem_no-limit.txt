@@ -1,0 +1,97 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693226367678939137-1-1775724039 - Holdem no limit (10/20) - 2026/04/09 08:40:39 UTC
+Table: 'Expresso Nitro(1092726916)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tchoc (300)
+Seat 2: MathisKcr (300)
+Seat 3: Lemuriens_ (300)
+*** ANTE/BLINDS ***
+Lemuriens_ posts small blind 10
+tchoc posts big blind 20
+Dealt to MathisKcr [3c 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lemuriens_ calls 10
+tchoc raises 280 to 300 and is all-in
+Lemuriens_ folds
+tchoc collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: tchoc (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693226367678939137-2-1775724050 - Holdem no limit (10/20) - 2026/04/09 08:40:50 UTC
+Table: 'Expresso Nitro(1092726916)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tchoc (320)
+Seat 2: MathisKcr (300)
+Seat 3: Lemuriens_ (280)
+*** ANTE/BLINDS ***
+tchoc posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6d 3h]
+*** PRE-FLOP *** 
+Lemuriens_ calls 20
+tchoc folds
+MathisKcr checks
+*** FLOP *** [2s Qd Jh]
+MathisKcr checks
+Lemuriens_ bets 20
+MathisKcr folds
+Lemuriens_ collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [2s Qd Jh]
+Seat 3: Lemuriens_ (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693226367678939137-3-1775724064 - Holdem no limit (10/20) - 2026/04/09 08:41:04 UTC
+Table: 'Expresso Nitro(1092726916)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tchoc (310)
+Seat 2: MathisKcr (280)
+Seat 3: Lemuriens_ (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Lemuriens_ posts big blind 20
+Dealt to MathisKcr [7h 5c]
+*** PRE-FLOP *** 
+tchoc raises 20 to 40
+MathisKcr folds
+Lemuriens_ raises 270 to 310 and is all-in
+tchoc calls 270 and is all-in
+*** FLOP *** [5h 2s 9c]
+*** TURN *** [5h 2s 9c][4h]
+*** RIVER *** [5h 2s 9c 4h][4s]
+*** SHOW DOWN ***
+Lemuriens_ shows [Kc Kh] (Two pairs : Kings and 4)
+tchoc shows [Ad Ah] (Two pairs : Aces and 4)
+tchoc collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [5h 2s 9c 4h 4s]
+Seat 1: tchoc (button) showed [Ad Ah] and won 630 with Two pairs : Aces and 4
+Seat 3: Lemuriens_ (big blind) showed [Kc Kh] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693226367678939137-4-1775724083 - Holdem no limit (10/20) - 2026/04/09 08:41:23 UTC
+Table: 'Expresso Nitro(1092726916)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tchoc (630)
+Seat 2: MathisKcr (270)
+*** ANTE/BLINDS ***
+tchoc posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c Ks]
+*** PRE-FLOP *** 
+tchoc raises 610 to 630 and is all-in
+MathisKcr calls 250 and is all-in
+*** FLOP *** [4s 3d 7h]
+*** TURN *** [4s 3d 7h][9d]
+*** RIVER *** [4s 3d 7h 9d][3s]
+*** SHOW DOWN ***
+MathisKcr shows [5c Ks] (One pair : 3)
+tchoc shows [Ad 2c] (One pair : 3)
+tchoc collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 3d 7h 9d 3s]
+Seat 1: tchoc (small blind) (button) showed [Ad 2c] and won 900 with One pair : 3
+Seat 2: MathisKcr (big blind) showed [5c Ks] and lost with One pair : 3
+
+

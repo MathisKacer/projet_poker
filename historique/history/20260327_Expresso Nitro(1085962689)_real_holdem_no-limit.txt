@@ -1,0 +1,168 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664174233931218945-1-1774621885 - Holdem no limit (10/20) - 2026/03/27 14:31:25 UTC
+Table: 'Expresso Nitro(1085962689)#0' 3-max (real money) Seat #1 is the button
+Seat 1: boubou7680 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Omega14 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Omega14 posts big blind 20
+Dealt to MathisKcr [Qh 6c]
+*** PRE-FLOP *** 
+boubou7680 calls 20
+MathisKcr raises 280 to 300 and is all-in
+Omega14 folds
+boubou7680 folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: MathisKcr (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664174233931218945-2-1774621901 - Holdem no limit (10/20) - 2026/03/27 14:31:41 UTC
+Table: 'Expresso Nitro(1085962689)#0' 3-max (real money) Seat #2 is the button
+Seat 1: boubou7680 (280)
+Seat 2: MathisKcr (340)
+Seat 3: Omega14 (280)
+*** ANTE/BLINDS ***
+Omega14 posts small blind 10
+boubou7680 posts big blind 20
+Dealt to MathisKcr [Kh 2c]
+*** PRE-FLOP *** 
+MathisKcr raises 320 to 340 and is all-in
+Omega14 calls 270 and is all-in
+boubou7680 calls 260 and is all-in
+*** FLOP *** [Qs Tc 2d]
+*** TURN *** [Qs Tc 2d][4h]
+*** RIVER *** [Qs Tc 2d 4h][8h]
+*** SHOW DOWN ***
+boubou7680 shows [Ah 5s] (High card : Ace)
+MathisKcr shows [Kh 2c] (One pair : 2)
+Omega14 shows [Qh Td] (Two pairs : Queens and Tens)
+Omega14 collected 840 from main pot
+MathisKcr collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qs Tc 2d 4h 8h]
+Seat 1: boubou7680 (big blind) showed [Ah 5s] and lost with High card : Ace
+Seat 2: MathisKcr (button) showed [Kh 2c] and won 60 with One pair : 2
+Seat 3: Omega14 (small blind) showed [Qh Td] and won 840 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664174233931218945-3-1774621920 - Holdem no limit (10/20) - 2026/03/27 14:32:00 UTC
+Table: 'Expresso Nitro(1085962689)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (60)
+Seat 3: Omega14 (840)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Omega14 posts big blind 20
+Dealt to MathisKcr [8s Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60 and is all-in
+Omega14 calls 40
+*** FLOP *** [Ad 3s Ac]
+*** TURN *** [Ad 3s Ac][2h]
+*** RIVER *** [Ad 3s Ac 2h][Jd]
+*** SHOW DOWN ***
+Omega14 shows [2s 9d] (Two pairs : Aces and 2)
+MathisKcr shows [8s Jh] (Two pairs : Aces and Jacks)
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ad 3s Ac 2h Jd]
+Seat 2: MathisKcr (small blind) (button) showed [8s Jh] and won 120 with Two pairs : Aces and Jacks
+Seat 3: Omega14 (big blind) showed [2s 9d] and lost with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664174233931218945-4-1774621940 - Holdem no limit (10/20) - 2026/03/27 14:32:20 UTC
+Table: 'Expresso Nitro(1085962689)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (120)
+Seat 3: Omega14 (780)
+*** ANTE/BLINDS ***
+Omega14 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad Qc]
+*** PRE-FLOP *** 
+Omega14 calls 10
+MathisKcr raises 100 to 120 and is all-in
+Omega14 calls 100
+*** FLOP *** [Ac 3s 6s]
+*** TURN *** [Ac 3s 6s][2h]
+*** RIVER *** [Ac 3s 6s 2h][Qd]
+*** SHOW DOWN ***
+Omega14 shows [8c 9h] (High card : Ace)
+MathisKcr shows [Ad Qc] (Two pairs : Aces and Queens)
+MathisKcr collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Ac 3s 6s 2h Qd]
+Seat 2: MathisKcr (big blind) showed [Ad Qc] and won 240 with Two pairs : Aces and Queens
+Seat 3: Omega14 (small blind) (button) showed [8c 9h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4664174233931218945-5-1774621958 - Holdem no limit (15/30) - 2026/03/27 14:32:38 UTC
+Table: 'Expresso Nitro(1085962689)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (240)
+Seat 3: Omega14 (660)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Omega14 posts big blind 30
+Dealt to MathisKcr [Td 9h]
+*** PRE-FLOP *** 
+MathisKcr raises 210 to 240 and is all-in
+Omega14 calls 210
+*** FLOP *** [5s Th 5c]
+*** TURN *** [5s Th 5c][6s]
+*** RIVER *** [5s Th 5c 6s][2h]
+*** SHOW DOWN ***
+Omega14 shows [Kd Jh] (One pair : 5)
+MathisKcr shows [Td 9h] (Two pairs : Tens and 5)
+MathisKcr collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [5s Th 5c 6s 2h]
+Seat 2: MathisKcr (small blind) (button) showed [Td 9h] and won 480 with Two pairs : Tens and 5
+Seat 3: Omega14 (big blind) showed [Kd Jh] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4664174233931218945-6-1774621971 - Holdem no limit (15/30) - 2026/03/27 14:32:51 UTC
+Table: 'Expresso Nitro(1085962689)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (480)
+Seat 3: Omega14 (420)
+*** ANTE/BLINDS ***
+Omega14 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3s Qs]
+*** PRE-FLOP *** 
+Omega14 raises 390 to 420 and is all-in
+MathisKcr folds
+Omega14 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 3: Omega14 (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4664174233931218945-7-1774621977 - Holdem no limit (15/30) - 2026/03/27 14:32:57 UTC
+Table: 'Expresso Nitro(1085962689)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (450)
+Seat 3: Omega14 (450)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Omega14 posts big blind 30
+Dealt to MathisKcr [Qd Js]
+*** PRE-FLOP *** 
+MathisKcr raises 420 to 450 and is all-in
+Omega14 calls 420 and is all-in
+*** FLOP *** [Ac 2c Qc]
+*** TURN *** [Ac 2c Qc][8c]
+*** RIVER *** [Ac 2c Qc 8c][3d]
+*** SHOW DOWN ***
+MathisKcr shows [Qd Js] (One pair : Queens)
+Omega14 shows [2s Tc] (Flush Ace high)
+Omega14 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac 2c Qc 8c 3d]
+Seat 2: MathisKcr (small blind) (button) showed [Qd Js] and lost with One pair : Queens
+Seat 3: Omega14 (big blind) showed [2s Tc] and won 900 with Flush Ace high
+
+

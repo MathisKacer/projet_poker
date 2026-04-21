@@ -1,0 +1,276 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4389359321272549377-1-1763852777 - Holdem no limit (10/20) - 2025/11/22 23:06:17 UTC
+Table: 'Expresso(1021977356)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (500)
+Seat 2: oscarzizou (500)
+Seat 3: MEROU69000 (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+oscarzizou posts big blind 20
+Dealt to MathisKcr [8h Jh]
+*** PRE-FLOP *** 
+MEROU69000 raises 480 to 500 and is all-in
+MathisKcr folds
+oscarzizou folds
+MEROU69000 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 3: MEROU69000 (button) won 530
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4389359321272549377-2-1763852788 - Holdem no limit (10/20) - 2025/11/22 23:06:28 UTC
+Table: 'Expresso(1021977356)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (490)
+Seat 2: oscarzizou (480)
+Seat 3: MEROU69000 (530)
+*** ANTE/BLINDS ***
+oscarzizou posts small blind 10
+MEROU69000 posts big blind 20
+Dealt to MathisKcr [Ad 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+oscarzizou calls 30
+MEROU69000 calls 20
+*** FLOP *** [Js 2d Jh]
+oscarzizou checks
+MEROU69000 checks
+MathisKcr checks
+*** TURN *** [Js 2d Jh][Td]
+oscarzizou bets 96
+MEROU69000 calls 96
+MathisKcr folds
+*** RIVER *** [Js 2d Jh Td][8d]
+oscarzizou bets 250
+MEROU69000 calls 250
+*** SHOW DOWN ***
+MEROU69000 shows [6c Tc] (Two pairs : Jacks and Tens)
+oscarzizou shows [5c Jc] (Trips of Jacks)
+oscarzizou collected 812 from pot
+*** SUMMARY ***
+Total pot 812 | No rake
+Board: [Js 2d Jh Td 8d]
+Seat 2: oscarzizou (small blind) showed [5c Jc] and won 812 with Trips of Jacks
+Seat 3: MEROU69000 (big blind) showed [6c Tc] and lost with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4389359321272549377-3-1763852826 - Holdem no limit (10/20) - 2025/11/22 23:07:06 UTC
+Table: 'Expresso(1021977356)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (450)
+Seat 2: oscarzizou (906)
+Seat 3: MEROU69000 (144)
+*** ANTE/BLINDS ***
+MEROU69000 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4h Ks]
+*** PRE-FLOP *** 
+oscarzizou raises 50 to 70
+MEROU69000 folds
+MathisKcr calls 50
+*** FLOP *** [6c 3c Ah]
+MathisKcr checks
+oscarzizou bets 120
+MathisKcr folds
+oscarzizou collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [6c 3c Ah]
+Seat 2: oscarzizou (button) won 270
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4389359321272549377-4-1763852856 - Holdem no limit (10/20) - 2025/11/22 23:07:36 UTC
+Table: 'Expresso(1021977356)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (380)
+Seat 2: oscarzizou (986)
+Seat 3: MEROU69000 (134)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+oscarzizou posts big blind 20
+Dealt to MathisKcr [8c 4s]
+*** PRE-FLOP *** 
+MEROU69000 folds
+MathisKcr folds
+oscarzizou collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: oscarzizou (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4389359321272549377-5-1763852864 - Holdem no limit (10/20) - 2025/11/22 23:07:44 UTC
+Table: 'Expresso(1021977356)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (370)
+Seat 2: oscarzizou (996)
+Seat 3: MEROU69000 (134)
+*** ANTE/BLINDS ***
+oscarzizou posts small blind 10
+MEROU69000 posts big blind 20
+Dealt to MathisKcr [Js Qd]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+oscarzizou calls 50
+MEROU69000 folds
+*** FLOP *** [3c 8h Kc]
+oscarzizou checks
+MathisKcr bets 60
+oscarzizou folds
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [3c 8h Kc]
+Seat 1: MathisKcr (button) won 200
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4389359321272549377-6-1763852899 - Holdem no limit (15/30) - 2025/11/22 23:08:19 UTC
+Table: 'Expresso(1021977356)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (450)
+Seat 2: oscarzizou (936)
+Seat 3: MEROU69000 (114)
+*** ANTE/BLINDS ***
+MEROU69000 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7h Jd]
+*** PRE-FLOP *** 
+oscarzizou folds
+MEROU69000 raises 84 to 114 and is all-in
+MathisKcr calls 84
+*** FLOP *** [As 3c 3h]
+*** TURN *** [As 3c 3h][Ad]
+*** RIVER *** [As 3c 3h Ad][5d]
+*** SHOW DOWN ***
+MathisKcr shows [7h Jd] (Two pairs : Aces and 3)
+MEROU69000 shows [6s 6c] (Two pairs : Aces and 6)
+MEROU69000 collected 228 from pot
+*** SUMMARY ***
+Total pot 228 | No rake
+Board: [As 3c 3h Ad 5d]
+Seat 1: MathisKcr (big blind) showed [7h Jd] and lost with Two pairs : Aces and 3
+Seat 3: MEROU69000 (small blind) showed [6s 6c] and won 228 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4389359321272549377-7-1763852914 - Holdem no limit (15/30) - 2025/11/22 23:08:34 UTC
+Table: 'Expresso(1021977356)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (336)
+Seat 2: oscarzizou (936)
+Seat 3: MEROU69000 (228)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+oscarzizou posts big blind 30
+Dealt to MathisKcr [Jd 7c]
+*** PRE-FLOP *** 
+MEROU69000 calls 30
+MathisKcr calls 15
+oscarzizou checks
+*** FLOP *** [Ad 9h Qs]
+MathisKcr bets 60
+oscarzizou calls 60
+MEROU69000 folds
+*** TURN *** [Ad 9h Qs][Ts]
+MathisKcr bets 75
+oscarzizou calls 75
+*** RIVER *** [Ad 9h Qs Ts][2c]
+MathisKcr checks
+oscarzizou checks
+*** SHOW DOWN ***
+MathisKcr shows [Jd 7c] (High card : Ace)
+oscarzizou shows [Kd Qd] (One pair : Queens)
+oscarzizou collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ad 9h Qs Ts 2c]
+Seat 1: MathisKcr (small blind) showed [Jd 7c] and lost with High card : Ace
+Seat 2: oscarzizou (big blind) showed [Kd Qd] and won 360 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4389359321272549377-8-1763852948 - Holdem no limit (15/30) - 2025/11/22 23:09:08 UTC
+Table: 'Expresso(1021977356)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (171)
+Seat 2: oscarzizou (1131)
+Seat 3: MEROU69000 (198)
+*** ANTE/BLINDS ***
+oscarzizou posts small blind 15
+MEROU69000 posts big blind 30
+Dealt to MathisKcr [Kc 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 141 to 171 and is all-in
+oscarzizou folds
+MEROU69000 calls 141
+*** FLOP *** [Kh Ks Qh]
+*** TURN *** [Kh Ks Qh][Qd]
+*** RIVER *** [Kh Ks Qh Qd][2d]
+*** SHOW DOWN ***
+MEROU69000 shows [Ah 3d] (Two pairs : Kings and Queens)
+MathisKcr shows [Kc 5d] (Full of Kings and Queens)
+MathisKcr collected 357 from pot
+*** SUMMARY ***
+Total pot 357 | No rake
+Board: [Kh Ks Qh Qd 2d]
+Seat 1: MathisKcr (button) showed [Kc 5d] and won 357 with Full of Kings and Queens
+Seat 3: MEROU69000 (big blind) showed [Ah 3d] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4389359321272549377-9-1763852966 - Holdem no limit (20/40) - 2025/11/22 23:09:26 UTC
+Table: 'Expresso(1021977356)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (357)
+Seat 2: oscarzizou (1116)
+Seat 3: MEROU69000 (27)
+*** ANTE/BLINDS ***
+MEROU69000 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kd Tc]
+*** PRE-FLOP *** 
+oscarzizou calls 40
+MEROU69000 calls 7 and is all-in
+MathisKcr raises 40 to 80
+oscarzizou calls 40
+*** FLOP *** [2s Ah 4d]
+MathisKcr checks
+oscarzizou checks
+*** TURN *** [2s Ah 4d][6d]
+MathisKcr bets 80
+oscarzizou calls 80
+*** RIVER *** [2s Ah 4d 6d][2d]
+MathisKcr checks
+oscarzizou checks
+*** SHOW DOWN ***
+oscarzizou shows [Qc 3c] (One pair : 2)
+MEROU69000 shows [Th 8d] (One pair : 2)
+MathisKcr shows [Kd Tc] (One pair : 2)
+MathisKcr collected 347 from pot
+*** SUMMARY ***
+Total pot 347 | No rake
+Board: [2s Ah 4d 6d 2d]
+Seat 1: MathisKcr (big blind) showed [Kd Tc] and won 347 with One pair : 2
+Seat 2: oscarzizou (button) showed [Qc 3c] and lost with One pair : 2
+Seat 3: MEROU69000 (small blind) showed [Th 8d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4389359321272549377-10-1763853026 - Holdem no limit (20/40) - 2025/11/22 23:10:26 UTC
+Table: 'Expresso(1021977356)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (544)
+Seat 2: oscarzizou (956)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+oscarzizou posts big blind 40
+Dealt to MathisKcr [6h Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 120
+oscarzizou calls 80
+*** FLOP *** [9h 6d Ts]
+oscarzizou checks
+MathisKcr checks
+*** TURN *** [9h 6d Ts][7s]
+oscarzizou checks
+MathisKcr bets 120
+oscarzizou calls 120
+*** RIVER *** [9h 6d Ts 7s][8c]
+oscarzizou bets 384
+MathisKcr calls 304 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [6h Kh] (Straight Ten high)
+oscarzizou shows [Jc 5c] (Straight Jack high)
+oscarzizou collected 1168 from pot
+*** SUMMARY ***
+Total pot 1168 | No rake
+Board: [9h 6d Ts 7s 8c]
+Seat 1: MathisKcr (small blind) (button) showed [6h Kh] and lost with Straight Ten high
+Seat 2: oscarzizou (big blind) showed [Jc 5c] and won 1168 with Straight Jack high
+
+

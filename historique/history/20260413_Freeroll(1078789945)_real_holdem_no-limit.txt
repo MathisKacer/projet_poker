@@ -1,0 +1,165 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4633367533028639043-8-1776082054 - Holdem no limit (25/100/200) - 2026/04/13 12:07:34 UTC
+Table: 'Freeroll(1078789945)#0322' 6-max (real money) Seat #4 is the button
+Seat 2: Anonymous79 (15976)
+Seat 3: LARGO34140 (17776)
+Seat 4: Diamond-777 (6450)
+Seat 5: Lajoh38 (53400)
+Seat 6: MathisKcr (20000)
+*** ANTE/BLINDS ***
+Lajoh38 posts ante 25
+MathisKcr posts ante 25
+Anonymous79 posts ante 25
+LARGO34140 posts ante 25
+Diamond-777 posts ante 25
+Lajoh38 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [7d 7s]
+*** PRE-FLOP *** 
+Anonymous79 folds
+LARGO34140 calls 200
+Diamond-777 folds
+Lajoh38 calls 100
+MathisKcr raises 200 to 400
+LARGO34140 calls 200
+Lajoh38 calls 200
+*** FLOP *** [4s 6c 9d]
+Lajoh38 bets 861
+MathisKcr calls 861
+LARGO34140 raises 2239 to 3100
+Lajoh38 calls 2239
+MathisKcr raises 16475 to 19575 and is all-in
+LARGO34140 calls 14251 and is all-in
+Lajoh38 calls 16475
+*** TURN *** [4s 6c 9d][6s]
+*** RIVER *** [4s 6c 9d 6s][3c]
+*** SHOW DOWN ***
+Lajoh38 shows [7c 8d] (One pair : 6)
+LARGO34140 shows [Qd 9h] (Two pairs : 9 and 6)
+MathisKcr shows [7d 7s] (Two pairs : 7 and 6)
+MathisKcr collected 4448 from side pot 1
+LARGO34140 collected 53378 from main pot
+*** SUMMARY ***
+Total pot 57826 | No rake
+Board: [4s 6c 9d 6s 3c]
+Seat 3: LARGO34140 showed [Qd 9h] and won 53378 with Two pairs : 9 and 6
+Seat 5: Lajoh38 (small blind) showed [7c 8d] and lost with One pair : 6
+Seat 6: MathisKcr (big blind) showed [7d 7s] and won 4448 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4633367533028639043-9-1776082093 - Holdem no limit (25/100/200) - 2026/04/13 12:08:13 UTC
+Table: 'Freeroll(1078789945)#0322' 6-max (real money) Seat #5 is the button
+Seat 1: Dichosa69 (20000)
+Seat 2: Anonymous79 (15951)
+Seat 3: LARGO34140 (53378)
+Seat 4: Diamond-777 (6425)
+Seat 5: Lajoh38 (33400)
+Seat 6: MathisKcr (4448)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+Dichosa69 posts ante 25
+Anonymous79 posts ante 25
+LARGO34140 posts ante 25
+Diamond-777 posts ante 25
+Lajoh38 posts ante 25
+MathisKcr posts small blind 100
+Dichosa69 posts big blind 200
+Dealt to MathisKcr [5s 6d]
+*** PRE-FLOP *** 
+Anonymous79 folds
+LARGO34140 folds
+Diamond-777 folds
+Lajoh38 calls 200
+MathisKcr folds
+Dichosa69 raises 650 to 850
+Lajoh38 calls 650
+*** FLOP *** [5h Qs 2s]
+Dichosa69 bets 1268
+Lajoh38 folds
+Dichosa69 collected 3218 from pot
+*** SUMMARY ***
+Total pot 3218 | No rake
+Board: [5h Qs 2s]
+Seat 1: Dichosa69 (big blind) won 3218
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4633367533028639043-10-1776082125 - Holdem no limit (25/100/200) - 2026/04/13 12:08:45 UTC
+Table: 'Freeroll(1078789945)#0322' 6-max (real money) Seat #6 is the button
+Seat 1: Dichosa69 (21075)
+Seat 2: Anonymous79 (15926)
+Seat 3: LARGO34140 (53353)
+Seat 4: Diamond-777 (6400)
+Seat 5: Lajoh38 (32525)
+Seat 6: MathisKcr (4323)
+*** ANTE/BLINDS ***
+Dichosa69 posts ante 25
+Anonymous79 posts ante 25
+LARGO34140 posts ante 25
+Diamond-777 posts ante 25
+Lajoh38 posts ante 25
+MathisKcr posts ante 25
+Dichosa69 posts small blind 100
+Anonymous79 posts big blind 200
+Dealt to MathisKcr [7d 8s]
+*** PRE-FLOP *** 
+LARGO34140 calls 200
+Diamond-777 raises 6175 to 6375 and is all-in
+Lajoh38 calls 6375
+MathisKcr folds
+Dichosa69 folds
+Anonymous79 folds
+LARGO34140 folds
+*** FLOP *** [4c Qd Kc]
+*** TURN *** [4c Qd Kc][Ah]
+*** RIVER *** [4c Qd Kc Ah][2s]
+*** SHOW DOWN ***
+Lajoh38 shows [6c Kd] (One pair : Kings)
+Diamond-777 shows [6d Ac] (One pair : Aces)
+Diamond-777 collected 13400 from pot
+*** SUMMARY ***
+Total pot 13400 | No rake
+Board: [4c Qd Kc Ah 2s]
+Seat 4: Diamond-777 showed [6d Ac] and won 13400 with One pair : Aces
+Seat 5: Lajoh38 showed [6c Kd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4633367533028639043-11-1776082149 - Holdem no limit (25/100/200) - 2026/04/13 12:09:09 UTC
+Table: 'Freeroll(1078789945)#0322' 6-max (real money) Seat #1 is the button
+Seat 1: Dichosa69 (20950)
+Seat 2: Anonymous79 (15701)
+Seat 3: LARGO34140 (53128)
+Seat 4: Diamond-777 (13400)
+Seat 5: Lajoh38 (26125)
+Seat 6: MathisKcr (4298)
+*** ANTE/BLINDS ***
+Anonymous79 posts ante 25
+LARGO34140 posts ante 25
+Dichosa69 posts ante 25
+Diamond-777 posts ante 25
+Lajoh38 posts ante 25
+MathisKcr posts ante 25
+Anonymous79 posts small blind 100
+LARGO34140 posts big blind 200
+Dealt to MathisKcr [Qh Qd]
+*** PRE-FLOP *** 
+Diamond-777 folds
+Lajoh38 raises 25900 to 26100 and is all-in
+MathisKcr calls 4273 and is all-in
+Dichosa69 calls 20925 and is all-in
+Anonymous79 folds
+LARGO34140 folds
+*** FLOP *** [7d Jd 2s]
+*** TURN *** [7d Jd 2s][Jh]
+*** RIVER *** [7d Jd 2s Jh][Ts]
+*** SHOW DOWN ***
+Dichosa69 shows [8h Th] (Two pairs : Jacks and Tens)
+MathisKcr shows [Qh Qd] (Two pairs : Queens and Jacks)
+Lajoh38 shows [2h Jc] (Full of Jacks and 2)
+Lajoh38 collected 51748 from pot
+*** SUMMARY ***
+Total pot 51748 | No rake
+Board: [7d Jd 2s Jh Ts]
+Seat 1: Dichosa69 (button) showed [8h Th] and lost with Two pairs : Jacks and Tens
+Seat 5: Lajoh38 showed [2h Jc] and won 51748 with Full of Jacks and 2
+Seat 6: MathisKcr showed [Qh Qd] and lost with Two pairs : Queens and Jacks
+
+

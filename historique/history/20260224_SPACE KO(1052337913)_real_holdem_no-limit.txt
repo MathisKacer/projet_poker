@@ -1,0 +1,1645 @@
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4519756920675893375-10-1771967833 - Holdem no limit (25/100/200) - 2026/02/24 21:17:13 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #6 is the button
+Seat 1: Philos761 (16337, 0.50€ bounty)
+Seat 2: MathisKcr (20000, 0.50€ bounty)
+Seat 3: Pokercruel85 (16233, 0.50€ bounty)
+Seat 4: Yapafotooo (23195, 0.50€ bounty)
+Seat 5: KimBosly (18325, 0.50€ bounty)
+Seat 6: Diamon85 (24175, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Philos761 posts ante 25
+MathisKcr posts ante 25
+Pokercruel85 posts ante 25
+Yapafotooo posts ante 25
+KimBosly posts ante 25
+Diamon85 posts ante 25
+Philos761 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [9h 9c]
+*** PRE-FLOP *** 
+Pokercruel85 calls 200
+Yapafotooo folds
+KimBosly raises 500 to 700
+Diamon85 calls 700
+Philos761 calls 600
+MathisKcr raises 19275 to 19975 and is all-in
+Pokercruel85 folds
+KimBosly folds
+Diamon85 folds
+Philos761 folds
+MathisKcr collected 22425 from pot
+*** SUMMARY ***
+Total pot 22425 | No rake
+Seat 2: MathisKcr (big blind) won 22425
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4519756920675893375-11-1771967895 - Holdem no limit (25/100/200) - 2026/02/24 21:18:15 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #1 is the button
+Seat 1: Philos761 (15612, 0.50€ bounty)
+Seat 2: MathisKcr (22425, 0.50€ bounty)
+Seat 3: Pokercruel85 (16008, 0.50€ bounty)
+Seat 4: Yapafotooo (23170, 0.50€ bounty)
+Seat 5: KimBosly (17600, 0.50€ bounty)
+Seat 6: Diamon85 (23450, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+Pokercruel85 posts ante 25
+Philos761 posts ante 25
+Yapafotooo posts ante 25
+KimBosly posts ante 25
+Diamon85 posts ante 25
+MathisKcr posts small blind 100
+Pokercruel85 posts big blind 200
+Dealt to MathisKcr [5c Jh]
+*** PRE-FLOP *** 
+Yapafotooo folds
+KimBosly folds
+Diamon85 folds
+Philos761 folds
+MathisKcr raises 200 to 400
+Pokercruel85 calls 200
+*** FLOP *** [8c 9h 4c]
+MathisKcr checks
+Pokercruel85 checks
+*** TURN *** [8c 9h 4c][Tc]
+MathisKcr checks
+Pokercruel85 bets 950
+MathisKcr calls 950
+*** RIVER *** [8c 9h 4c Tc][Qs]
+MathisKcr bets 1425
+Pokercruel85 calls 1425
+*** SHOW DOWN ***
+Pokercruel85 shows [Th 8d] (Two pairs : Tens and 8)
+MathisKcr shows [5c Jh] (Straight Queen high)
+MathisKcr collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | No rake
+Board: [8c 9h 4c Tc Qs]
+Seat 2: MathisKcr (small blind) showed [5c Jh] and won 5700 with Straight Queen high
+Seat 3: Pokercruel85 (big blind) showed [Th 8d] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4519756920675893375-12-1771967954 - Holdem no limit (25/100/200) - 2026/02/24 21:19:14 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #2 is the button
+Seat 1: Philos761 (15587, 0.50€ bounty)
+Seat 2: MathisKcr (25325, 0.50€ bounty)
+Seat 3: Pokercruel85 (13208, 0.50€ bounty)
+Seat 4: Yapafotooo (23145, 0.50€ bounty)
+Seat 6: Diamon85 (23425, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Pokercruel85 posts ante 25
+Yapafotooo posts ante 25
+Philos761 posts ante 25
+MathisKcr posts ante 25
+Diamon85 posts ante 25
+Pokercruel85 posts small blind 100
+Yapafotooo posts big blind 200
+Dealt to MathisKcr [2h 2d]
+*** PRE-FLOP *** 
+Diamon85 folds
+Philos761 folds
+MathisKcr calls 200
+Pokercruel85 folds
+Yapafotooo checks
+*** FLOP *** [4d Jh 9d]
+Yapafotooo checks
+MathisKcr checks
+*** TURN *** [4d Jh 9d][Ts]
+Yapafotooo checks
+MathisKcr checks
+*** RIVER *** [4d Jh 9d Ts][5c]
+Yapafotooo checks
+MathisKcr checks
+*** SHOW DOWN ***
+Yapafotooo shows [8h 3c] (High card : Jack)
+MathisKcr shows [2h 2d] (One pair : 2)
+MathisKcr collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [4d Jh 9d Ts 5c]
+Seat 2: MathisKcr (button) showed [2h 2d] and won 625 with One pair : 2
+Seat 4: Yapafotooo (big blind) showed [8h 3c] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4519756920675893375-13-1771968027 - Holdem no limit (30/125/250) - 2026/02/24 21:20:27 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #3 is the button
+Seat 1: Philos761 (15562, 0.50€ bounty)
+Seat 2: MathisKcr (25725, 0.50€ bounty)
+Seat 3: Pokercruel85 (13083, 0.50€ bounty)
+Seat 4: Yapafotooo (22920, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (20000, 0.50€ bounty)
+Seat 6: Diamon85 (23400, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Yapafotooo posts ante 30
+R0BERTOLOPEZ posts ante 30
+Philos761 posts ante 30
+MathisKcr posts ante 30
+Pokercruel85 posts ante 30
+Diamon85 posts ante 30
+Yapafotooo posts small blind 125
+R0BERTOLOPEZ posts big blind 250
+Dealt to MathisKcr [Kd 8d]
+*** PRE-FLOP *** 
+Diamon85 folds
+Philos761 folds
+MathisKcr raises 250 to 500
+Pokercruel85 raises 12553 to 13053 and is all-in
+Yapafotooo folds
+R0BERTOLOPEZ folds
+MathisKcr folds
+Pokercruel85 collected 14108 from pot
+*** SUMMARY ***
+Total pot 14108 | No rake
+Seat 3: Pokercruel85 (button) won 14108
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4519756920675893375-14-1771968087 - Holdem no limit (30/125/250) - 2026/02/24 21:21:27 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #4 is the button
+Seat 1: Philos761 (15532, 0.50€ bounty)
+Seat 2: MathisKcr (25195, 0.50€ bounty)
+Seat 3: Pokercruel85 (14108, 0.50€ bounty)
+Seat 4: Yapafotooo (22765, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (19720, 0.50€ bounty)
+Seat 6: Diamon85 (23370, 0.50€ bounty)
+*** ANTE/BLINDS ***
+R0BERTOLOPEZ posts ante 30
+Diamon85 posts ante 30
+Philos761 posts ante 30
+MathisKcr posts ante 30
+Pokercruel85 posts ante 30
+Yapafotooo posts ante 30
+R0BERTOLOPEZ posts small blind 125
+Diamon85 posts big blind 250
+Dealt to MathisKcr [Td 7h]
+*** PRE-FLOP *** 
+Philos761 calls 250
+MathisKcr folds
+Pokercruel85 folds
+Yapafotooo folds
+R0BERTOLOPEZ folds
+Diamon85 checks
+*** FLOP *** [Th Kc Tc]
+Diamon85 bets 250
+Philos761 calls 250
+*** TURN *** [Th Kc Tc][6s]
+Diamon85 checks
+Philos761 bets 653
+Diamon85 calls 653
+*** RIVER *** [Th Kc Tc 6s][8s]
+Diamon85 checks
+Philos761 bets 1306
+Diamon85 folds
+Philos761 collected 3917 from pot
+*** SUMMARY ***
+Total pot 3917 | No rake
+Board: [Th Kc Tc 6s 8s]
+Seat 1: Philos761 won 3917
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4519756920675893375-15-1771968160 - Holdem no limit (30/125/250) - 2026/02/24 21:22:40 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #5 is the button
+Seat 1: Philos761 (16960, 0.50€ bounty)
+Seat 2: MathisKcr (25165, 0.50€ bounty)
+Seat 3: Pokercruel85 (14078, 0.50€ bounty)
+Seat 4: Yapafotooo (22735, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (19565, 0.50€ bounty)
+Seat 6: Diamon85 (22187, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Diamon85 posts ante 30
+Philos761 posts ante 30
+MathisKcr posts ante 30
+Pokercruel85 posts ante 30
+Yapafotooo posts ante 30
+R0BERTOLOPEZ posts ante 30
+Diamon85 posts small blind 125
+Philos761 posts big blind 250
+Dealt to MathisKcr [2c 2d]
+*** PRE-FLOP *** 
+MathisKcr raises 250 to 500
+Pokercruel85 calls 500
+Yapafotooo folds
+R0BERTOLOPEZ folds
+Diamon85 calls 375
+Philos761 calls 250
+*** FLOP *** [Kd 7s Ts]
+Diamon85 checks
+Philos761 checks
+MathisKcr checks
+Pokercruel85 checks
+*** TURN *** [Kd 7s Ts][Kc]
+Diamon85 bets 250
+Philos761 calls 250
+MathisKcr folds
+Pokercruel85 calls 250
+*** RIVER *** [Kd 7s Ts Kc][2s]
+Diamon85 checks
+Philos761 checks
+Pokercruel85 checks
+*** SHOW DOWN ***
+Diamon85 shows [9d 8d] (One pair : Kings)
+Philos761 shows [7h 3c] (Two pairs : Kings and 7)
+Pokercruel85 shows [5s 7c] (Two pairs : Kings and 7)
+Pokercruel85 collected 1465 from pot
+Philos761 collected 1465 from pot
+*** SUMMARY ***
+Total pot 2930 | No rake
+Board: [Kd 7s Ts Kc 2s]
+Seat 1: Philos761 (big blind) showed [7h 3c] and won 1465 with Two pairs : Kings and 7
+Seat 3: Pokercruel85 showed [5s 7c] and won 1465 with Two pairs : Kings and 7
+Seat 6: Diamon85 (small blind) showed [9d 8d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4519756920675893375-16-1771968294 - Holdem no limit (35/150/300) - 2026/02/24 21:24:54 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #6 is the button
+Seat 1: Philos761 (17645, 0.50€ bounty)
+Seat 2: MathisKcr (24635, 0.50€ bounty)
+Seat 3: Pokercruel85 (14763, 0.50€ bounty)
+Seat 4: Yapafotooo (22705, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (19535, 0.50€ bounty)
+Seat 6: Diamon85 (21407, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Philos761 posts ante 35
+MathisKcr posts ante 35
+Pokercruel85 posts ante 35
+Yapafotooo posts ante 35
+R0BERTOLOPEZ posts ante 35
+Diamon85 posts ante 35
+Philos761 posts small blind 150
+MathisKcr posts big blind 300
+Dealt to MathisKcr [9d Ks]
+*** PRE-FLOP *** 
+Pokercruel85 folds
+Yapafotooo folds
+R0BERTOLOPEZ raises 450 to 750
+Diamon85 calls 750
+Philos761 folds
+MathisKcr calls 450
+*** FLOP *** [Th 2s 7c]
+MathisKcr checks
+R0BERTOLOPEZ checks
+Diamon85 checks
+*** TURN *** [Th 2s 7c][As]
+MathisKcr checks
+R0BERTOLOPEZ checks
+Diamon85 bets 1697
+MathisKcr folds
+R0BERTOLOPEZ folds
+Diamon85 collected 4307 from pot
+*** SUMMARY ***
+Total pot 4307 | No rake
+Board: [Th 2s 7c As]
+Seat 6: Diamon85 (button) won 4307
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4519756920675893375-17-1771968376 - Holdem no limit (35/150/300) - 2026/02/24 21:26:16 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #1 is the button
+Seat 1: Philos761 (17460, 0.50€ bounty)
+Seat 2: MathisKcr (23850, 0.50€ bounty)
+Seat 3: Pokercruel85 (14728, 0.50€ bounty)
+Seat 4: Yapafotooo (22670, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (18750, 0.50€ bounty)
+Seat 6: Diamon85 (23232, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 35
+Pokercruel85 posts ante 35
+Philos761 posts ante 35
+Yapafotooo posts ante 35
+R0BERTOLOPEZ posts ante 35
+Diamon85 posts ante 35
+MathisKcr posts small blind 150
+Pokercruel85 posts big blind 300
+Dealt to MathisKcr [8d Ad]
+*** PRE-FLOP *** 
+Yapafotooo folds
+R0BERTOLOPEZ folds
+Diamon85 folds
+Philos761 folds
+MathisKcr raises 300 to 600
+Pokercruel85 calls 300
+*** FLOP *** [Qd Jd Qh]
+MathisKcr bets 494
+Pokercruel85 raises 518 to 1012
+MathisKcr calls 518
+*** TURN *** [Qd Jd Qh][6h]
+MathisKcr checks
+Pokercruel85 bets 1202
+MathisKcr calls 1202
+*** RIVER *** [Qd Jd Qh 6h][8c]
+MathisKcr checks
+Pokercruel85 bets 5838
+MathisKcr raises 15163 to 21001 and is all-in
+Pokercruel85 calls 6041 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [8d Ad] (Two pairs : Queens and 8)
+Pokercruel85 shows [Qc 7s] (Trips of Queens)
+Pokercruel85 collected 29596 from main pot
+MathisKcr collected 9122 from side pot 1
+*** SUMMARY ***
+Total pot 38718 | No rake
+Board: [Qd Jd Qh 6h 8c]
+Seat 2: MathisKcr (small blind) showed [8d Ad] and won 9122 with Two pairs : Queens and 8
+Seat 3: Pokercruel85 (big blind) showed [Qc 7s] and won 29596 with Trips of Queens
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4519756920675893375-18-1771968455 - Holdem no limit (35/150/300) - 2026/02/24 21:27:35 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #2 is the button
+Seat 1: Philos761 (17425, 0.50€ bounty)
+Seat 2: MathisKcr (9122, 0.50€ bounty)
+Seat 3: Pokercruel85 (29596, 0.50€ bounty)
+Seat 4: Yapafotooo (22635, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (18715, 0.50€ bounty)
+Seat 6: Diamon85 (23197, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Pokercruel85 posts ante 35
+Yapafotooo posts ante 35
+Philos761 posts ante 35
+MathisKcr posts ante 35
+R0BERTOLOPEZ posts ante 35
+Diamon85 posts ante 35
+Pokercruel85 posts small blind 150
+Yapafotooo posts big blind 300
+Dealt to MathisKcr [8d 5h]
+*** PRE-FLOP *** 
+R0BERTOLOPEZ folds
+Diamon85 calls 300
+Philos761 calls 300
+MathisKcr folds
+Pokercruel85 raises 600 to 900
+Yapafotooo folds
+Diamon85 calls 600
+Philos761 calls 600
+*** FLOP *** [3h Ad Kh]
+Pokercruel85 bets 2087
+Diamon85 calls 2087
+Philos761 folds
+*** TURN *** [3h Ad Kh][7d]
+Pokercruel85 checks
+Diamon85 checks
+*** RIVER *** [3h Ad Kh 7d][Ks]
+Pokercruel85 checks
+Diamon85 bets 3692
+Pokercruel85 calls 3692
+*** SHOW DOWN ***
+Pokercruel85 shows [Ac 8c] (Two pairs : Aces and Kings)
+Diamon85 shows [2c Kc] (Trips of Kings)
+Diamon85 collected 14768 from pot
+*** SUMMARY ***
+Total pot 14768 | No rake
+Board: [3h Ad Kh 7d Ks]
+Seat 3: Pokercruel85 (small blind) showed [Ac 8c] and lost with Two pairs : Aces and Kings
+Seat 6: Diamon85 showed [2c Kc] and won 14768 with Trips of Kings
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4519756920675893375-19-1771968530 - Holdem no limit (40/175/350) - 2026/02/24 21:28:50 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #3 is the button
+Seat 1: Philos761 (16490, 0.50€ bounty)
+Seat 2: MathisKcr (9087, 0.50€ bounty)
+Seat 3: Pokercruel85 (22882, 0.50€ bounty)
+Seat 4: Yapafotooo (22300, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (18680, 0.50€ bounty)
+Seat 6: Diamon85 (31251, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Yapafotooo posts ante 40
+R0BERTOLOPEZ posts ante 40
+Philos761 posts ante 40
+MathisKcr posts ante 40
+Pokercruel85 posts ante 40
+Diamon85 posts ante 40
+Yapafotooo posts small blind 175
+R0BERTOLOPEZ posts big blind 350
+Dealt to MathisKcr [Jc 4s]
+*** PRE-FLOP *** 
+Diamon85 folds
+Philos761 folds
+MathisKcr folds
+Pokercruel85 calls 350
+Yapafotooo folds
+R0BERTOLOPEZ raises 1290 to 1640
+Pokercruel85 calls 1290
+*** FLOP *** [Qd 2h 9d]
+R0BERTOLOPEZ bets 924
+Pokercruel85 folds
+R0BERTOLOPEZ collected 4619 from pot
+*** SUMMARY ***
+Total pot 4619 | No rake
+Board: [Qd 2h 9d]
+Seat 5: R0BERTOLOPEZ (big blind) won 4619
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4519756920675893375-20-1771968600 - Holdem no limit (40/175/350) - 2026/02/24 21:30:00 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #4 is the button
+Seat 1: Philos761 (16450, 0.50€ bounty)
+Seat 2: MathisKcr (9047, 0.50€ bounty)
+Seat 3: Pokercruel85 (21202, 0.50€ bounty)
+Seat 4: Yapafotooo (22085, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (20695, 0.50€ bounty)
+Seat 6: Diamon85 (31211, 0.50€ bounty)
+*** ANTE/BLINDS ***
+R0BERTOLOPEZ posts ante 40
+Diamon85 posts ante 40
+Philos761 posts ante 40
+MathisKcr posts ante 40
+Pokercruel85 posts ante 40
+Yapafotooo posts ante 40
+R0BERTOLOPEZ posts small blind 175
+Diamon85 posts big blind 350
+Dealt to MathisKcr [5d Kh]
+*** PRE-FLOP *** 
+Philos761 folds
+MathisKcr raises 350 to 700
+Pokercruel85 folds
+Yapafotooo folds
+R0BERTOLOPEZ calls 525
+Diamon85 calls 350
+*** FLOP *** [Jd Th 4d]
+R0BERTOLOPEZ checks
+Diamon85 checks
+MathisKcr checks
+*** TURN *** [Jd Th 4d][8d]
+R0BERTOLOPEZ checks
+Diamon85 checks
+MathisKcr checks
+*** RIVER *** [Jd Th 4d 8d][2h]
+R0BERTOLOPEZ bets 585
+Diamon85 folds
+MathisKcr folds
+R0BERTOLOPEZ collected 2925 from pot
+*** SUMMARY ***
+Total pot 2925 | No rake
+Board: [Jd Th 4d 8d 2h]
+Seat 5: R0BERTOLOPEZ (small blind) won 2925
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4519756920675893375-21-1771968701 - Holdem no limit (40/175/350) - 2026/02/24 21:31:41 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #5 is the button
+Seat 1: Philos761 (16410, 0.50€ bounty)
+Seat 2: MathisKcr (8307, 0.50€ bounty)
+Seat 3: Pokercruel85 (21162, 0.50€ bounty)
+Seat 4: Yapafotooo (22045, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (22295, 0.50€ bounty)
+Seat 6: Diamon85 (30471, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Diamon85 posts ante 40
+Philos761 posts ante 40
+MathisKcr posts ante 40
+Pokercruel85 posts ante 40
+Yapafotooo posts ante 40
+R0BERTOLOPEZ posts ante 40
+Diamon85 posts small blind 175
+Philos761 posts big blind 350
+Dealt to MathisKcr [Jh 3d]
+*** PRE-FLOP *** 
+MathisKcr calls 350
+Pokercruel85 raises 700 to 1050
+Yapafotooo calls 1050
+R0BERTOLOPEZ folds
+Diamon85 calls 875
+Philos761 calls 700
+MathisKcr folds
+*** FLOP *** [5h 7c Qd]
+Diamon85 bets 525
+Philos761 folds
+Pokercruel85 raises 1703 to 2228
+Yapafotooo calls 2228
+Diamon85 calls 1703
+*** TURN *** [5h 7c Qd][6h]
+Diamon85 checks
+Pokercruel85 bets 11474
+Yapafotooo folds
+Diamon85 folds
+Pokercruel85 collected 22948 from pot
+*** SUMMARY ***
+Total pot 22948 | No rake
+Board: [5h 7c Qd 6h]
+Seat 3: Pokercruel85 won 22948
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4519756920675893375-22-1771968827 - Holdem no limit (50/200/400) - 2026/02/24 21:33:47 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #6 is the button
+Seat 1: Philos761 (15320, 0.50€ bounty)
+Seat 2: MathisKcr (7917, 0.50€ bounty)
+Seat 3: Pokercruel85 (29318, 0.50€ bounty)
+Seat 4: Yapafotooo (18727, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (22255, 0.50€ bounty)
+Seat 6: Diamon85 (27153, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Philos761 posts ante 50
+MathisKcr posts ante 50
+Pokercruel85 posts ante 50
+Yapafotooo posts ante 50
+R0BERTOLOPEZ posts ante 50
+Diamon85 posts ante 50
+Philos761 posts small blind 200
+MathisKcr posts big blind 400
+Dealt to MathisKcr [8h Qc]
+*** PRE-FLOP *** 
+Pokercruel85 calls 400
+Yapafotooo folds
+R0BERTOLOPEZ raises 800 to 1200
+Diamon85 folds
+Philos761 folds
+MathisKcr calls 800
+Pokercruel85 calls 800
+*** FLOP *** [3d Kc Js]
+MathisKcr checks
+Pokercruel85 checks
+R0BERTOLOPEZ bets 1025
+MathisKcr folds
+Pokercruel85 calls 1025
+*** TURN *** [3d Kc Js][9h]
+Pokercruel85 checks
+R0BERTOLOPEZ checks
+*** RIVER *** [3d Kc Js 9h][9c]
+Pokercruel85 checks
+R0BERTOLOPEZ bets 400
+Pokercruel85 folds
+R0BERTOLOPEZ collected 6550 from pot
+*** SUMMARY ***
+Total pot 6550 | No rake
+Board: [3d Kc Js 9h 9c]
+Seat 5: R0BERTOLOPEZ won 6550
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4519756920675893375-23-1771968993 - Holdem no limit (60/250/500) - 2026/02/24 21:36:33 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #1 is the button
+Seat 1: Philos761 (15070, 0.50€ bounty)
+Seat 2: MathisKcr (6667, 0.50€ bounty)
+Seat 3: Pokercruel85 (27043, 0.50€ bounty)
+Seat 4: Yapafotooo (18677, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (26130, 0.50€ bounty)
+Seat 6: Diamon85 (27103, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 60
+Pokercruel85 posts ante 60
+Philos761 posts ante 60
+Yapafotooo posts ante 60
+R0BERTOLOPEZ posts ante 60
+Diamon85 posts ante 60
+MathisKcr posts small blind 250
+Pokercruel85 posts big blind 500
+Dealt to MathisKcr [5s Ks]
+*** PRE-FLOP *** 
+Yapafotooo raises 500 to 1000
+R0BERTOLOPEZ folds
+Diamon85 folds
+Philos761 folds
+MathisKcr calls 750
+Pokercruel85 folds
+*** FLOP *** [5h Kh 5c]
+MathisKcr bets 1001
+Yapafotooo raises 16616 to 17617 and is all-in
+MathisKcr calls 4606 and is all-in
+*** TURN *** [5h Kh 5c][9s]
+*** RIVER *** [5h Kh 5c 9s][8c]
+*** SHOW DOWN ***
+MathisKcr shows [5s Ks] (Full of 5 and Kings)
+Yapafotooo shows [6h 6s] (Two pairs : 6 and 5)
+Yapafotooo collected 12010 from side pot 1
+MathisKcr collected 14074 from main pot
+*** SUMMARY ***
+Total pot 26084 | No rake
+Board: [5h Kh 5c 9s 8c]
+Seat 2: MathisKcr (small blind) showed [5s Ks] and won 14074 with Full of 5 and Kings
+Seat 4: Yapafotooo showed [6h 6s] and won 12010 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4519756920675893375-24-1771969065 - Holdem no limit (60/250/500) - 2026/02/24 21:37:45 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #2 is the button
+Seat 1: Philos761 (15010, 0.50€ bounty)
+Seat 2: MathisKcr (14074, 0.50€ bounty)
+Seat 3: Pokercruel85 (26483, 0.50€ bounty)
+Seat 4: Yapafotooo (12010, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (26070, 0.50€ bounty)
+Seat 6: Diamon85 (27043, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Pokercruel85 posts ante 60
+Yapafotooo posts ante 60
+Philos761 posts ante 60
+MathisKcr posts ante 60
+R0BERTOLOPEZ posts ante 60
+Diamon85 posts ante 60
+Pokercruel85 posts small blind 250
+Yapafotooo posts big blind 500
+Dealt to MathisKcr [Qh 2d]
+*** PRE-FLOP *** 
+R0BERTOLOPEZ folds
+Diamon85 calls 500
+Philos761 folds
+MathisKcr calls 500
+Pokercruel85 calls 250
+Yapafotooo checks
+*** FLOP *** [Ac 7s Jc]
+Pokercruel85 checks
+Yapafotooo checks
+Diamon85 bets 500
+MathisKcr folds
+Pokercruel85 calls 500
+Yapafotooo folds
+*** TURN *** [Ac 7s Jc][3c]
+Pokercruel85 checks
+Diamon85 checks
+*** RIVER *** [Ac 7s Jc 3c][5d]
+Pokercruel85 checks
+Diamon85 checks
+*** SHOW DOWN ***
+Diamon85 shows [9h Th] (High card : Ace)
+Pokercruel85 shows [Jh 7h] (Two pairs : Jacks and 7)
+Pokercruel85 collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Board: [Ac 7s Jc 3c 5d]
+Seat 3: Pokercruel85 (small blind) showed [Jh 7h] and won 3360 with Two pairs : Jacks and 7
+Seat 6: Diamon85 showed [9h Th] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4519756920675893375-25-1771969179 - Holdem no limit (60/250/500) - 2026/02/24 21:39:39 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #3 is the button
+Seat 1: Philos761 (14950, 0.50€ bounty)
+Seat 2: MathisKcr (13514, 0.50€ bounty)
+Seat 3: Pokercruel85 (28783, 0.50€ bounty)
+Seat 4: Yapafotooo (11450, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (26010, 0.50€ bounty)
+Seat 6: Diamon85 (25983, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Yapafotooo posts ante 60
+R0BERTOLOPEZ posts ante 60
+Philos761 posts ante 60
+MathisKcr posts ante 60
+Pokercruel85 posts ante 60
+Diamon85 posts ante 60
+Yapafotooo posts small blind 250
+R0BERTOLOPEZ posts big blind 500
+Dealt to MathisKcr [Js 8h]
+*** PRE-FLOP *** 
+Diamon85 raises 500 to 1000
+Philos761 folds
+MathisKcr calls 1000
+Pokercruel85 calls 1000
+Yapafotooo raises 10390 to 11390 and is all-in
+R0BERTOLOPEZ folds
+Diamon85 calls 10390
+MathisKcr folds
+Pokercruel85 folds
+*** FLOP *** [3d 7s 4c]
+*** TURN *** [3d 7s 4c][6s]
+*** RIVER *** [3d 7s 4c 6s][8s]
+*** SHOW DOWN ***
+Diamon85 shows [Jd Kh] (High card : King)
+Yapafotooo shows [9h Th] (Straight Ten high)
+Yapafotooo collected 25640 from pot
+*** SUMMARY ***
+Total pot 25640 | No rake
+Board: [3d 7s 4c 6s 8s]
+Seat 4: Yapafotooo (small blind) showed [9h Th] and won 25640 with Straight Ten high
+Seat 6: Diamon85 showed [Jd Kh] and lost with High card : King
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4519756920675893375-26-1771969241 - Holdem no limit (70/300/600) - 2026/02/24 21:40:41 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #4 is the button
+Seat 1: Philos761 (14890, 0.50€ bounty)
+Seat 2: MathisKcr (12454, 0.50€ bounty)
+Seat 3: Pokercruel85 (27723, 0.50€ bounty)
+Seat 4: Yapafotooo (25640, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (25450, 0.50€ bounty)
+Seat 6: Diamon85 (14533, 0.50€ bounty)
+*** ANTE/BLINDS ***
+R0BERTOLOPEZ posts ante 70
+Diamon85 posts ante 70
+Philos761 posts ante 70
+MathisKcr posts ante 70
+Pokercruel85 posts ante 70
+Yapafotooo posts ante 70
+R0BERTOLOPEZ posts small blind 300
+Diamon85 posts big blind 600
+Dealt to MathisKcr [Qc 5s]
+*** PRE-FLOP *** 
+Philos761 folds
+MathisKcr raises 600 to 1200
+Pokercruel85 calls 1200
+Yapafotooo folds
+R0BERTOLOPEZ folds
+Diamon85 raises 13263 to 14463 and is all-in
+MathisKcr folds
+Pokercruel85 calls 13263
+*** FLOP *** [Jh 6h 6s]
+*** TURN *** [Jh 6h 6s][Kd]
+*** RIVER *** [Jh 6h 6s Kd][8s]
+*** SHOW DOWN ***
+Pokercruel85 shows [Ah Tc] (One pair : 6)
+Diamon85 shows [Js Ts] (Two pairs : Jacks and 6)
+Diamon85 collected 30846 from pot
+*** SUMMARY ***
+Total pot 30846 | No rake
+Board: [Jh 6h 6s Kd 8s]
+Seat 3: Pokercruel85 showed [Ah Tc] and lost with One pair : 6
+Seat 6: Diamon85 (big blind) showed [Js Ts] and won 30846 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4519756920675893375-27-1771969292 - Holdem no limit (70/300/600) - 2026/02/24 21:41:32 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #5 is the button
+Seat 1: Philos761 (14820, 0.50€ bounty)
+Seat 2: MathisKcr (11184, 0.50€ bounty)
+Seat 3: Pokercruel85 (13190, 0.50€ bounty)
+Seat 4: Yapafotooo (25570, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (25080, 0.50€ bounty)
+Seat 6: Diamon85 (30846, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Diamon85 posts ante 70
+Philos761 posts ante 70
+MathisKcr posts ante 70
+Pokercruel85 posts ante 70
+Yapafotooo posts ante 70
+R0BERTOLOPEZ posts ante 70
+Diamon85 posts small blind 300
+Philos761 posts big blind 600
+Dealt to MathisKcr [6h Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 600 to 1200
+Pokercruel85 folds
+Yapafotooo folds
+R0BERTOLOPEZ folds
+Diamon85 calls 900
+Philos761 folds
+*** FLOP *** [8h Jc 6s]
+Diamon85 bets 600
+MathisKcr raises 600 to 1200
+Diamon85 calls 600
+*** TURN *** [8h Jc 6s][Jd]
+Diamon85 checks
+MathisKcr bets 1455
+Diamon85 folds
+MathisKcr collected 7275 from pot
+*** SUMMARY ***
+Total pot 7275 | No rake
+Board: [8h Jc 6s Jd]
+Seat 2: MathisKcr won 7275
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4519756920675893375-28-1771969373 - Holdem no limit (70/300/600) - 2026/02/24 21:42:53 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #6 is the button
+Seat 1: Philos761 (14150, 0.50€ bounty)
+Seat 2: MathisKcr (14534, 0.50€ bounty)
+Seat 3: Pokercruel85 (13120, 0.50€ bounty)
+Seat 4: Yapafotooo (25500, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (25010, 0.50€ bounty)
+Seat 6: Diamon85 (28376, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Philos761 posts ante 70
+MathisKcr posts ante 70
+Pokercruel85 posts ante 70
+Yapafotooo posts ante 70
+R0BERTOLOPEZ posts ante 70
+Diamon85 posts ante 70
+Philos761 posts small blind 300
+MathisKcr posts big blind 600
+Dealt to MathisKcr [Ah 3c]
+*** PRE-FLOP *** 
+Pokercruel85 raises 600 to 1200
+Yapafotooo calls 1200
+R0BERTOLOPEZ folds
+Diamon85 folds
+Philos761 folds
+MathisKcr raises 600 to 1800
+Pokercruel85 raises 5520 to 7320
+Yapafotooo folds
+MathisKcr folds
+Pokercruel85 collected 11040 from pot
+*** SUMMARY ***
+Total pot 11040 | No rake
+Seat 3: Pokercruel85 won 11040
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4519756920675893375-29-1771969423 - Holdem no limit (70/300/600) - 2026/02/24 21:43:43 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #1 is the button
+Seat 1: Philos761 (13780, 0.50€ bounty)
+Seat 2: MathisKcr (12664, 0.50€ bounty)
+Seat 3: Pokercruel85 (16770, 0.50€ bounty)
+Seat 4: Yapafotooo (24230, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (24940, 0.50€ bounty)
+Seat 6: Diamon85 (28306, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 70
+Pokercruel85 posts ante 70
+Philos761 posts ante 70
+Yapafotooo posts ante 70
+R0BERTOLOPEZ posts ante 70
+Diamon85 posts ante 70
+MathisKcr posts small blind 300
+Pokercruel85 posts big blind 600
+Dealt to MathisKcr [6d 8c]
+*** PRE-FLOP *** 
+Yapafotooo raises 600 to 1200
+R0BERTOLOPEZ folds
+Diamon85 folds
+Philos761 folds
+MathisKcr folds
+Pokercruel85 folds
+Yapafotooo collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Seat 4: Yapafotooo won 2520
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #4519756920675893375-30-1771969463 - Holdem no limit (80/350/700) - 2026/02/24 21:44:23 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #2 is the button
+Seat 1: Philos761 (13710, 0.50€ bounty)
+Seat 2: MathisKcr (12294, 0.50€ bounty)
+Seat 3: Pokercruel85 (16100, 0.50€ bounty)
+Seat 4: Yapafotooo (25480, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (24870, 0.50€ bounty)
+Seat 6: Diamon85 (28236, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Pokercruel85 posts ante 80
+Yapafotooo posts ante 80
+Philos761 posts ante 80
+MathisKcr posts ante 80
+R0BERTOLOPEZ posts ante 80
+Diamon85 posts ante 80
+Pokercruel85 posts small blind 350
+Yapafotooo posts big blind 700
+Dealt to MathisKcr [9h Tc]
+*** PRE-FLOP *** 
+R0BERTOLOPEZ folds
+Diamon85 folds
+Philos761 folds
+MathisKcr folds
+Pokercruel85 calls 350
+Yapafotooo checks
+*** FLOP *** [Jd 8c Jh]
+Pokercruel85 checks
+Yapafotooo checks
+*** TURN *** [Jd 8c Jh][5d]
+Pokercruel85 checks
+Yapafotooo bets 700
+Pokercruel85 folds
+Yapafotooo collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Board: [Jd 8c Jh 5d]
+Seat 4: Yapafotooo (big blind) won 2580
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #4519756920675893375-31-1771969542 - Holdem no limit (80/350/700) - 2026/02/24 21:45:42 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #3 is the button
+Seat 1: Philos761 (13630, 0.50€ bounty)
+Seat 2: MathisKcr (12214, 0.50€ bounty)
+Seat 3: Pokercruel85 (15320, 0.50€ bounty)
+Seat 4: Yapafotooo (26580, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (24790, 0.50€ bounty)
+Seat 6: Diamon85 (28156, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Yapafotooo posts ante 80
+R0BERTOLOPEZ posts ante 80
+Philos761 posts ante 80
+MathisKcr posts ante 80
+Pokercruel85 posts ante 80
+Diamon85 posts ante 80
+Yapafotooo posts small blind 350
+R0BERTOLOPEZ posts big blind 700
+Dealt to MathisKcr [4c Qs]
+*** PRE-FLOP *** 
+Diamon85 folds
+Philos761 folds
+MathisKcr folds
+Pokercruel85 calls 700
+Yapafotooo raises 2100 to 2800
+R0BERTOLOPEZ folds
+Pokercruel85 calls 2100
+*** FLOP *** [Th 9s Qh]
+Yapafotooo bets 2712
+Pokercruel85 folds
+Yapafotooo collected 9492 from pot
+*** SUMMARY ***
+Total pot 9492 | No rake
+Board: [Th 9s Qh]
+Seat 4: Yapafotooo (small blind) won 9492
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #4519756920675893375-32-1771969607 - Holdem no limit (80/350/700) - 2026/02/24 21:46:47 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #4 is the button
+Seat 2: MathisKcr (12134, 0.50€ bounty)
+Seat 3: Pokercruel85 (12440, 0.50€ bounty)
+Seat 4: Yapafotooo (30480, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (24010, 0.50€ bounty)
+Seat 6: Diamon85 (28076, 0.50€ bounty)
+*** ANTE/BLINDS ***
+R0BERTOLOPEZ posts ante 80
+Diamon85 posts ante 80
+MathisKcr posts ante 80
+Pokercruel85 posts ante 80
+Yapafotooo posts ante 80
+R0BERTOLOPEZ posts small blind 350
+Diamon85 posts big blind 700
+Dealt to MathisKcr [3s 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Pokercruel85 folds
+Yapafotooo raises 700 to 1400
+R0BERTOLOPEZ folds
+Diamon85 calls 700
+*** FLOP *** [Ts Qc 5h]
+Diamon85 checks
+Yapafotooo bets 1172
+Diamon85 folds
+Yapafotooo collected 4722 from pot
+*** SUMMARY ***
+Total pot 4722 | No rake
+Board: [Ts Qc 5h]
+Seat 4: Yapafotooo (button) won 4722
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #4519756920675893375-33-1771969658 - Holdem no limit (80/350/700) - 2026/02/24 21:47:38 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #5 is the button
+Seat 1: detendu_1189 (20000, 0.50€ bounty)
+Seat 2: MathisKcr (12054, 0.50€ bounty)
+Seat 3: Pokercruel85 (12360, 0.50€ bounty)
+Seat 4: Yapafotooo (32550, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (23580, 0.50€ bounty)
+Seat 6: Diamon85 (26596, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Diamon85 posts ante 80
+detendu_1189 posts ante 80
+MathisKcr posts ante 80
+Pokercruel85 posts ante 80
+Yapafotooo posts ante 80
+R0BERTOLOPEZ posts ante 80
+Diamon85 posts small blind 350
+detendu_1189 posts big blind 700
+Dealt to MathisKcr [2d Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 700 to 1400
+Pokercruel85 folds
+Yapafotooo raises 2450 to 3850
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 folds
+MathisKcr calls 2450
+*** FLOP *** [2c 6c Qh]
+MathisKcr bets 8124 and is all-in
+Yapafotooo folds
+MathisKcr collected 17354 from pot
+*** SUMMARY ***
+Total pot 17354 | No rake
+Board: [2c 6c Qh]
+Seat 2: MathisKcr won 17354
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #4519756920675893375-34-1771969704 - Holdem no limit (100/400/800) - 2026/02/24 21:48:24 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #6 is the button
+Seat 1: detendu_1189 (19220, 0.50€ bounty)
+Seat 2: MathisKcr (17354, 0.50€ bounty)
+Seat 3: Pokercruel85 (12280, 0.50€ bounty)
+Seat 4: Yapafotooo (28620, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (23500, 0.50€ bounty)
+Seat 6: Diamon85 (26166, 0.50€ bounty)
+*** ANTE/BLINDS ***
+detendu_1189 posts ante 100
+MathisKcr posts ante 100
+Pokercruel85 posts ante 100
+Yapafotooo posts ante 100
+R0BERTOLOPEZ posts ante 100
+Diamon85 posts ante 100
+detendu_1189 posts small blind 400
+MathisKcr posts big blind 800
+Dealt to MathisKcr [Tc 9s]
+*** PRE-FLOP *** 
+Pokercruel85 folds
+Yapafotooo folds
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 folds
+MathisKcr collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 2: MathisKcr (big blind) won 1800
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #4519756920675893375-35-1771969723 - Holdem no limit (100/400/800) - 2026/02/24 21:48:43 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #1 is the button
+Seat 1: detendu_1189 (18720, 0.50€ bounty)
+Seat 2: MathisKcr (18254, 0.50€ bounty)
+Seat 3: Pokercruel85 (12180, 0.50€ bounty)
+Seat 4: Yapafotooo (28520, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (23400, 0.50€ bounty)
+Seat 6: Diamon85 (26066, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 100
+Pokercruel85 posts ante 100
+detendu_1189 posts ante 100
+Yapafotooo posts ante 100
+R0BERTOLOPEZ posts ante 100
+Diamon85 posts ante 100
+MathisKcr posts small blind 400
+Pokercruel85 posts big blind 800
+Dealt to MathisKcr [7c Js]
+*** PRE-FLOP *** 
+Yapafotooo folds
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 folds
+MathisKcr raises 800 to 1600
+Pokercruel85 folds
+MathisKcr collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Seat 2: MathisKcr (small blind) won 3000
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #4519756920675893375-36-1771969768 - Holdem no limit (100/400/800) - 2026/02/24 21:49:28 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #2 is the button
+Seat 1: detendu_1189 (18620, 0.50€ bounty)
+Seat 2: MathisKcr (19554, 0.50€ bounty)
+Seat 3: Pokercruel85 (11280, 0.50€ bounty)
+Seat 4: Yapafotooo (28420, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (23300, 0.50€ bounty)
+Seat 6: Diamon85 (25966, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Pokercruel85 posts ante 100
+Yapafotooo posts ante 100
+detendu_1189 posts ante 100
+MathisKcr posts ante 100
+R0BERTOLOPEZ posts ante 100
+Diamon85 posts ante 100
+Pokercruel85 posts small blind 400
+Yapafotooo posts big blind 800
+Dealt to MathisKcr [8h 2c]
+*** PRE-FLOP *** 
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 folds
+MathisKcr raises 800 to 1600
+Pokercruel85 folds
+Yapafotooo folds
+MathisKcr collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Seat 2: MathisKcr (button) won 3400
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #4519756920675893375-37-1771969809 - Holdem no limit (100/400/800) - 2026/02/24 21:50:09 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #3 is the button
+Seat 1: detendu_1189 (18520, 0.50€ bounty)
+Seat 2: MathisKcr (21254, 0.50€ bounty)
+Seat 3: Pokercruel85 (10780, 0.50€ bounty)
+Seat 4: Yapafotooo (27520, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (23200, 0.50€ bounty)
+Seat 6: Diamon85 (25866, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Yapafotooo posts ante 100
+R0BERTOLOPEZ posts ante 100
+detendu_1189 posts ante 100
+MathisKcr posts ante 100
+Pokercruel85 posts ante 100
+Diamon85 posts ante 100
+Yapafotooo posts small blind 400
+R0BERTOLOPEZ posts big blind 800
+Dealt to MathisKcr [4s Kh]
+*** PRE-FLOP *** 
+Diamon85 calls 800
+detendu_1189 folds
+MathisKcr raises 800 to 1600
+Pokercruel85 folds
+Yapafotooo folds
+R0BERTOLOPEZ folds
+Diamon85 calls 800
+*** FLOP *** [7c 7h 2c]
+Diamon85 bets 800
+MathisKcr calls 800
+*** TURN *** [7c 7h 2c][Kc]
+Diamon85 bets 800
+MathisKcr raises 1200 to 2000
+Diamon85 calls 1200
+*** RIVER *** [7c 7h 2c Kc][2s]
+Diamon85 checks
+MathisKcr bets 3710
+Diamon85 folds
+MathisKcr collected 14310 from pot
+*** SUMMARY ***
+Total pot 14310 | No rake
+Board: [7c 7h 2c Kc 2s]
+Seat 2: MathisKcr won 14310
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #4519756920675893375-38-1771969871 - Holdem no limit (100/400/800) - 2026/02/24 21:51:11 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #4 is the button
+Seat 1: detendu_1189 (18420, 0.50€ bounty)
+Seat 2: MathisKcr (27354, 0.50€ bounty)
+Seat 3: Pokercruel85 (10680, 0.50€ bounty)
+Seat 4: Yapafotooo (27020, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (22300, 0.50€ bounty)
+Seat 6: Diamon85 (21366, 0.50€ bounty)
+*** ANTE/BLINDS ***
+R0BERTOLOPEZ posts ante 100
+Diamon85 posts ante 100
+detendu_1189 posts ante 100
+MathisKcr posts ante 100
+Pokercruel85 posts ante 100
+Yapafotooo posts ante 100
+R0BERTOLOPEZ posts small blind 400
+Diamon85 posts big blind 800
+Dealt to MathisKcr [3c 6c]
+*** PRE-FLOP *** 
+detendu_1189 folds
+MathisKcr folds
+Pokercruel85 calls 800
+Yapafotooo raises 1600 to 2400
+R0BERTOLOPEZ folds
+Diamon85 calls 1600
+Pokercruel85 folds
+*** FLOP *** [Qh 2c Jc]
+Diamon85 checks
+Yapafotooo bets 2640
+Diamon85 raises 16226 to 18866 and is all-in
+Yapafotooo calls 16226
+*** TURN *** [Qh 2c Jc][3d]
+*** RIVER *** [Qh 2c Jc 3d][7d]
+*** SHOW DOWN ***
+Yapafotooo shows [Th 9h] (High card : Queen)
+Diamon85 shows [Qd Ah] (One pair : Queens)
+Diamon85 collected 44332 from pot
+*** SUMMARY ***
+Total pot 44332 | No rake
+Board: [Qh 2c Jc 3d 7d]
+Seat 4: Yapafotooo (button) showed [Th 9h] and lost with High card : Queen
+Seat 6: Diamon85 (big blind) showed [Qd Ah] and won 44332 with One pair : Queens
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #4519756920675893375-39-1771969983 - Holdem no limit (120/500/1000) - 2026/02/24 21:53:03 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #5 is the button
+Seat 1: detendu_1189 (18320, 0.50€ bounty)
+Seat 2: MathisKcr (27254, 0.50€ bounty)
+Seat 3: Pokercruel85 (9780, 0.50€ bounty)
+Seat 4: Yapafotooo (5654, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (21800, 0.50€ bounty)
+Seat 6: Diamon85 (44332, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Diamon85 posts ante 120
+detendu_1189 posts ante 120
+MathisKcr posts ante 120
+Pokercruel85 posts ante 120
+Yapafotooo posts ante 120
+R0BERTOLOPEZ posts ante 120
+Diamon85 posts small blind 500
+detendu_1189 posts big blind 1000
+Dealt to MathisKcr [3d 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Pokercruel85 folds
+Yapafotooo raises 4534 to 5534 and is all-in
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 calls 4534
+*** FLOP *** [Ad 9c 3c]
+*** TURN *** [Ad 9c 3c][2d]
+*** RIVER *** [Ad 9c 3c 2d][5s]
+*** SHOW DOWN ***
+Yapafotooo shows [Kh Th] (High card : Ace)
+detendu_1189 shows [4c 4s] (Straight 5 high)
+detendu_1189 collected 12288 from pot
+*** SUMMARY ***
+Total pot 12288 | No rake
+Board: [Ad 9c 3c 2d 5s]
+Seat 1: detendu_1189 (big blind) showed [4c 4s] and won 12288 with Straight 5 high
+Seat 4: Yapafotooo showed [Kh Th] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #4519756920675893375-40-1771970035 - Holdem no limit (120/500/1000) - 2026/02/24 21:53:55 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #6 is the button
+Seat 1: detendu_1189 (24954, 0.60€ bounty)
+Seat 2: MathisKcr (27134, 0.50€ bounty)
+Seat 3: Pokercruel85 (9660, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (21680, 0.50€ bounty)
+Seat 6: Diamon85 (43712, 0.50€ bounty)
+*** ANTE/BLINDS ***
+detendu_1189 posts ante 120
+MathisKcr posts ante 120
+Pokercruel85 posts ante 120
+R0BERTOLOPEZ posts ante 120
+Diamon85 posts ante 120
+detendu_1189 posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [4c 8h]
+*** PRE-FLOP *** 
+Pokercruel85 calls 1000
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 folds
+MathisKcr checks
+*** FLOP *** [Qc 6h Td]
+MathisKcr checks
+Pokercruel85 checks
+*** TURN *** [Qc 6h Td][9c]
+MathisKcr checks
+Pokercruel85 checks
+*** RIVER *** [Qc 6h Td 9c][6d]
+MathisKcr checks
+Pokercruel85 checks
+*** SHOW DOWN ***
+MathisKcr shows [4c 8h] (One pair : 6)
+Pokercruel85 shows [5c 2c] (One pair : 6)
+Pokercruel85 collected 1550 from pot
+MathisKcr collected 1550 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Board: [Qc 6h Td 9c 6d]
+Seat 2: MathisKcr (big blind) showed [4c 8h] and won 1550 with One pair : 6
+Seat 3: Pokercruel85 showed [5c 2c] and won 1550 with One pair : 6
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #4519756920675893375-41-1771970099 - Holdem no limit (120/500/1000) - 2026/02/24 21:54:59 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #1 is the button
+Seat 1: detendu_1189 (24334, 0.60€ bounty)
+Seat 2: MathisKcr (27564, 0.50€ bounty)
+Seat 3: Pokercruel85 (10090, 0.50€ bounty)
+Seat 4: Lenmy0130 (41222, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (21560, 0.50€ bounty)
+Seat 6: Diamon85 (43592, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Pokercruel85 posts ante 120
+detendu_1189 posts ante 120
+Lenmy0130 posts ante 120
+R0BERTOLOPEZ posts ante 120
+Diamon85 posts ante 120
+MathisKcr posts small blind 500
+Pokercruel85 posts big blind 1000
+Dealt to MathisKcr [2c 5c]
+*** PRE-FLOP *** 
+Lenmy0130 raises 1000 to 2000
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 folds
+MathisKcr folds
+Pokercruel85 folds
+Lenmy0130 collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Seat 4: Lenmy0130 won 4220
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #4519756920675893375-42-1771970461 - Holdem no limit (120/500/1000) - 2026/02/24 22:01:01 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #2 is the button
+Seat 1: detendu_1189 (24214, 0.60€ bounty)
+Seat 2: MathisKcr (26944, 0.50€ bounty)
+Seat 3: Pokercruel85 (8970, 0.50€ bounty)
+Seat 4: Lenmy0130 (43322, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (21440, 0.50€ bounty)
+Seat 6: Diamon85 (43472, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Pokercruel85 posts ante 120
+Lenmy0130 posts ante 120
+detendu_1189 posts ante 120
+MathisKcr posts ante 120
+R0BERTOLOPEZ posts ante 120
+Diamon85 posts ante 120
+Pokercruel85 posts small blind 500
+Lenmy0130 posts big blind 1000
+Dealt to MathisKcr [9s 2c]
+*** PRE-FLOP *** 
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 folds
+MathisKcr folds
+Pokercruel85 folds
+Lenmy0130 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 4: Lenmy0130 (big blind) won 2220
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #4519756920675893375-43-1771970511 - Holdem no limit (120/500/1000) - 2026/02/24 22:01:51 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #3 is the button
+Seat 1: detendu_1189 (24094, 0.60€ bounty)
+Seat 2: MathisKcr (26824, 0.50€ bounty)
+Seat 3: Pokercruel85 (8350, 0.50€ bounty)
+Seat 4: Lenmy0130 (44422, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (21320, 0.50€ bounty)
+Seat 6: Diamon85 (43352, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Lenmy0130 posts ante 120
+R0BERTOLOPEZ posts ante 120
+detendu_1189 posts ante 120
+MathisKcr posts ante 120
+Pokercruel85 posts ante 120
+Diamon85 posts ante 120
+Lenmy0130 posts small blind 500
+R0BERTOLOPEZ posts big blind 1000
+Dealt to MathisKcr [9c 4d]
+*** PRE-FLOP *** 
+Diamon85 folds
+detendu_1189 folds
+MathisKcr folds
+Pokercruel85 folds
+Lenmy0130 calls 500
+R0BERTOLOPEZ raises 20200 to 21200 and is all-in
+Lenmy0130 folds
+R0BERTOLOPEZ collected 22920 from pot
+*** SUMMARY ***
+Total pot 22920 | No rake
+Seat 5: R0BERTOLOPEZ (big blind) won 22920
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #4519756920675893375-44-1771970554 - Holdem no limit (140/600/1200) - 2026/02/24 22:02:34 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #4 is the button
+Seat 1: detendu_1189 (23974, 0.60€ bounty)
+Seat 2: MathisKcr (26704, 0.50€ bounty)
+Seat 3: Pokercruel85 (8230, 0.50€ bounty)
+Seat 4: Lenmy0130 (43302, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (22920, 0.50€ bounty)
+Seat 6: Diamon85 (43232, 0.50€ bounty)
+*** ANTE/BLINDS ***
+R0BERTOLOPEZ posts ante 140
+Diamon85 posts ante 140
+detendu_1189 posts ante 140
+MathisKcr posts ante 140
+Pokercruel85 posts ante 140
+Lenmy0130 posts ante 140
+R0BERTOLOPEZ posts small blind 600
+Diamon85 posts big blind 1200
+Dealt to MathisKcr [6c Js]
+*** PRE-FLOP *** 
+detendu_1189 raises 3840 to 5040
+MathisKcr folds
+Pokercruel85 folds
+Lenmy0130 folds
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 collected 7680 from pot
+*** SUMMARY ***
+Total pot 7680 | No rake
+Seat 1: detendu_1189 won 7680
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #4519756920675893375-45-1771970601 - Holdem no limit (140/600/1200) - 2026/02/24 22:03:21 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #5 is the button
+Seat 1: detendu_1189 (26474, 0.60€ bounty)
+Seat 2: MathisKcr (26564, 0.50€ bounty)
+Seat 3: Pokercruel85 (8090, 0.50€ bounty)
+Seat 4: Lenmy0130 (43162, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (22180, 0.50€ bounty)
+Seat 6: Diamon85 (41892, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Diamon85 posts ante 140
+detendu_1189 posts ante 140
+MathisKcr posts ante 140
+Pokercruel85 posts ante 140
+Lenmy0130 posts ante 140
+R0BERTOLOPEZ posts ante 140
+Diamon85 posts small blind 600
+detendu_1189 posts big blind 1200
+Dealt to MathisKcr [8h Ts]
+*** PRE-FLOP *** 
+MathisKcr folds
+Pokercruel85 raises 1200 to 2400
+Lenmy0130 calls 2400
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 folds
+*** FLOP *** [4d 6h Ah]
+Pokercruel85 checks
+Lenmy0130 bets 2604
+Pokercruel85 calls 2604
+*** TURN *** [4d 6h Ah][9s]
+Pokercruel85 bets 2946 and is all-in
+Lenmy0130 calls 2946
+*** RIVER *** [4d 6h Ah 9s][7s]
+*** SHOW DOWN ***
+Lenmy0130 shows [3h 7h] (One pair : 7)
+Pokercruel85 shows [3d 5d] (Straight 7 high)
+Pokercruel85 collected 18540 from pot
+*** SUMMARY ***
+Total pot 18540 | No rake
+Board: [4d 6h Ah 9s 7s]
+Seat 3: Pokercruel85 showed [3d 5d] and won 18540 with Straight 7 high
+Seat 4: Lenmy0130 showed [3h 7h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #4519756920675893375-46-1771970703 - Holdem no limit (140/600/1200) - 2026/02/24 22:05:03 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #6 is the button
+Seat 1: detendu_1189 (25134, 0.60€ bounty)
+Seat 2: MathisKcr (26424, 0.50€ bounty)
+Seat 3: Pokercruel85 (18540, 0.50€ bounty)
+Seat 4: Lenmy0130 (35072, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (22040, 0.50€ bounty)
+Seat 6: Diamon85 (41152, 0.50€ bounty)
+*** ANTE/BLINDS ***
+detendu_1189 posts ante 140
+MathisKcr posts ante 140
+Pokercruel85 posts ante 140
+Lenmy0130 posts ante 140
+R0BERTOLOPEZ posts ante 140
+Diamon85 posts ante 140
+detendu_1189 posts small blind 600
+MathisKcr posts big blind 1200
+Dealt to MathisKcr [Ac 8s]
+*** PRE-FLOP *** 
+Pokercruel85 folds
+Lenmy0130 folds
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 folds
+MathisKcr collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 2: MathisKcr (big blind) won 2640
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #4519756920675893375-47-1771970718 - Holdem no limit (140/600/1200) - 2026/02/24 22:05:18 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #1 is the button
+Seat 1: detendu_1189 (24394, 0.60€ bounty)
+Seat 2: MathisKcr (27724, 0.50€ bounty)
+Seat 3: Pokercruel85 (18400, 0.50€ bounty)
+Seat 4: Lenmy0130 (34932, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (21900, 0.50€ bounty)
+Seat 6: Diamon85 (41012, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 140
+Pokercruel85 posts ante 140
+detendu_1189 posts ante 140
+Lenmy0130 posts ante 140
+R0BERTOLOPEZ posts ante 140
+Diamon85 posts ante 140
+MathisKcr posts small blind 600
+Pokercruel85 posts big blind 1200
+Dealt to MathisKcr [Tc 9d]
+*** PRE-FLOP *** 
+Lenmy0130 folds
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 folds
+MathisKcr raises 1200 to 2400
+Pokercruel85 folds
+MathisKcr collected 4440 from pot
+*** SUMMARY ***
+Total pot 4440 | No rake
+Seat 2: MathisKcr (small blind) won 4440
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #4519756920675893375-48-1771970749 - Holdem no limit (140/600/1200) - 2026/02/24 22:05:49 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #2 is the button
+Seat 1: detendu_1189 (24254, 0.60€ bounty)
+Seat 2: MathisKcr (29624, 0.50€ bounty)
+Seat 3: Pokercruel85 (17060, 0.50€ bounty)
+Seat 4: Lenmy0130 (34792, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (21760, 0.50€ bounty)
+Seat 6: Diamon85 (40872, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Pokercruel85 posts ante 140
+Lenmy0130 posts ante 140
+detendu_1189 posts ante 140
+MathisKcr posts ante 140
+R0BERTOLOPEZ posts ante 140
+Diamon85 posts ante 140
+Pokercruel85 posts small blind 600
+Lenmy0130 posts big blind 1200
+Dealt to MathisKcr [Kh 2h]
+*** PRE-FLOP *** 
+R0BERTOLOPEZ folds
+Diamon85 folds
+detendu_1189 folds
+MathisKcr raises 1200 to 2400
+Pokercruel85 calls 1800
+Lenmy0130 raises 32252 to 34652 and is all-in
+MathisKcr folds
+Pokercruel85 folds
+Lenmy0130 collected 40292 from pot
+*** SUMMARY ***
+Total pot 40292 | No rake
+Seat 4: Lenmy0130 (big blind) won 40292
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #4519756920675893375-49-1771970819 - Holdem no limit (160/700/1400) - 2026/02/24 22:06:59 UTC
+Table: 'SPACE KO(1052337913)#126' 6-max (real money) Seat #3 is the button
+Seat 1: detendu_1189 (24114, 0.60€ bounty)
+Seat 2: MathisKcr (27084, 0.50€ bounty)
+Seat 3: Pokercruel85 (14520, 0.50€ bounty)
+Seat 4: Lenmy0130 (40292, 0.50€ bounty)
+Seat 5: R0BERTOLOPEZ (21620, 0.50€ bounty)
+Seat 6: Diamon85 (40732, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Lenmy0130 posts ante 160
+R0BERTOLOPEZ posts ante 160
+detendu_1189 posts ante 160
+MathisKcr posts ante 160
+Pokercruel85 posts ante 160
+Diamon85 posts ante 160
+Lenmy0130 posts small blind 700
+R0BERTOLOPEZ posts big blind 1400
+Dealt to MathisKcr [3h Jh]
+*** PRE-FLOP *** 
+Diamon85 folds
+detendu_1189 calls 1400
+MathisKcr folds
+Pokercruel85 calls 1400
+Lenmy0130 folds
+R0BERTOLOPEZ checks
+*** FLOP *** [Ah As Ac]
+R0BERTOLOPEZ checks
+detendu_1189 checks
+Pokercruel85 checks
+*** TURN *** [Ah As Ac][Tc]
+R0BERTOLOPEZ checks
+detendu_1189 checks
+Pokercruel85 checks
+*** RIVER *** [Ah As Ac Tc][9c]
+R0BERTOLOPEZ checks
+detendu_1189 checks
+Pokercruel85 checks
+*** SHOW DOWN ***
+Pokercruel85 shows [8s 6d] (Trips of Aces)
+R0BERTOLOPEZ shows [4c 5h] (Trips of Aces)
+detendu_1189 shows [Kc 7s] (Trips of Aces)
+detendu_1189 collected 5860 from pot
+*** SUMMARY ***
+Total pot 5860 | No rake
+Board: [Ah As Ac Tc 9c]
+Seat 1: detendu_1189 showed [Kc 7s] and won 5860 with Trips of Aces
+Seat 3: Pokercruel85 (button) showed [8s 6d] and lost with Trips of Aces
+Seat 5: R0BERTOLOPEZ (big blind) showed [4c 5h] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #4519756920675893361-88-1771970914 - Holdem no limit (160/700/1400) - 2026/02/24 22:08:34 UTC
+Table: 'SPACE KO(1052337913)#112' 6-max (real money) Seat #1 is the button
+Seat 1: vicfez (30170, 0.50€ bounty)
+Seat 2: FoldAndPray (57329, 0.50€ bounty)
+Seat 3: MathisKcr (26924, 0.50€ bounty)
+Seat 4: le_roms7 (83956, 1.45€ bounty)
+Seat 5: damnic (66990, 3.75€ bounty)
+Seat 6: Authentik_13 (129160, 1.74€ bounty)
+*** ANTE/BLINDS ***
+FoldAndPray posts ante 160
+MathisKcr posts ante 160
+vicfez posts ante 160
+le_roms7 posts ante 160
+damnic posts ante 160
+Authentik_13 posts ante 160
+FoldAndPray posts small blind 700
+MathisKcr posts big blind 1400
+Dealt to MathisKcr [Ah Kd]
+*** PRE-FLOP *** 
+le_roms7 folds
+damnic folds
+Authentik_13 folds
+vicfez calls 1400
+FoldAndPray folds
+MathisKcr raises 1400 to 2800
+vicfez calls 1400
+*** FLOP *** [Tc 3h Kc]
+MathisKcr bets 2541
+vicfez folds
+MathisKcr collected 9801 from pot
+*** SUMMARY ***
+Total pot 9801 | No rake
+Board: [Tc 3h Kc]
+Seat 3: MathisKcr (big blind) won 9801
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #4519756920675893361-89-1771970965 - Holdem no limit (160/700/1400) - 2026/02/24 22:09:25 UTC
+Table: 'SPACE KO(1052337913)#112' 6-max (real money) Seat #2 is the button
+Seat 1: vicfez (27210, 0.50€ bounty)
+Seat 2: FoldAndPray (56469, 0.50€ bounty)
+Seat 3: MathisKcr (31224, 0.50€ bounty)
+Seat 4: le_roms7 (83796, 1.45€ bounty)
+Seat 5: damnic (66830, 3.75€ bounty)
+Seat 6: Authentik_13 (129000, 1.74€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 160
+le_roms7 posts ante 160
+vicfez posts ante 160
+FoldAndPray posts ante 160
+damnic posts ante 160
+Authentik_13 posts ante 160
+MathisKcr posts small blind 700
+le_roms7 posts big blind 1400
+Dealt to MathisKcr [3h Ac]
+*** PRE-FLOP *** 
+damnic calls 1400
+Authentik_13 raises 1400 to 2800
+vicfez folds
+FoldAndPray folds
+MathisKcr raises 28264 to 31064 and is all-in
+le_roms7 folds
+damnic calls 29664
+Authentik_13 calls 28264
+*** FLOP *** [4h 8c Ts]
+damnic checks
+Authentik_13 checks
+*** TURN *** [4h 8c Ts][2d]
+damnic checks
+Authentik_13 checks
+*** RIVER *** [4h 8c Ts 2d][Tc]
+damnic checks
+Authentik_13 checks
+*** SHOW DOWN ***
+MathisKcr shows [3h Ac] (One pair : Tens)
+damnic shows [Jc Ks] (One pair : Tens)
+Authentik_13 shows [Qh As] (One pair : Tens)
+Authentik_13 collected 95552 from pot
+*** SUMMARY ***
+Total pot 95552 | No rake
+Board: [4h 8c Ts 2d Tc]
+Seat 3: MathisKcr (small blind) showed [3h Ac] and lost with One pair : Tens
+Seat 5: damnic showed [Jc Ks] and lost with One pair : Tens
+Seat 6: Authentik_13 showed [Qh As] and won 95552 with One pair : Tens
+
+

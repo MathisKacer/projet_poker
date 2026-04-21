@@ -1,0 +1,65 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669989125728763905-1-1774857781 - Holdem no limit (10/20) - 2026/03/30 08:03:01 UTC
+Table: 'Expresso Nitro(1087316574)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Brulux59300 (300)
+Seat 2: Tristano43 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Tristano43 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5s 5c]
+*** PRE-FLOP *** 
+Brulux59300 calls 20
+Tristano43 calls 10
+MathisKcr checks
+*** FLOP *** [2h 9h 8s]
+Tristano43 checks
+MathisKcr checks
+Brulux59300 checks
+*** TURN *** [2h 9h 8s][8h]
+Tristano43 bets 20
+MathisKcr calls 20
+Brulux59300 calls 20
+*** RIVER *** [2h 9h 8s 8h][7h]
+Tristano43 checks
+MathisKcr checks
+Brulux59300 checks
+*** SHOW DOWN ***
+Brulux59300 shows [Ad 3s] (One pair : 8)
+MathisKcr shows [5s 5c] (Two pairs : 8 and 5)
+Tristano43 shows [Th Qc] (Flush Ten high)
+Tristano43 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2h 9h 8s 8h 7h]
+Seat 1: Brulux59300 (button) showed [Ad 3s] and lost with One pair : 8
+Seat 2: Tristano43 (small blind) showed [Th Qc] and won 120 with Flush Ten high
+Seat 3: MathisKcr (big blind) showed [5s 5c] and lost with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669989125728763905-2-1774857812 - Holdem no limit (10/20) - 2026/03/30 08:03:32 UTC
+Table: 'Expresso Nitro(1087316574)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Brulux59300 (260)
+Seat 2: Tristano43 (380)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Brulux59300 posts big blind 20
+Dealt to MathisKcr [Kc Td]
+*** PRE-FLOP *** 
+Tristano43 folds
+MathisKcr raises 240 to 260 and is all-in
+Brulux59300 calls 240 and is all-in
+*** FLOP *** [Qc Js 9c]
+*** TURN *** [Qc Js 9c][Kd]
+*** RIVER *** [Qc Js 9c Kd][7c]
+*** SHOW DOWN ***
+MathisKcr shows [Kc Td] (Straight King high)
+Brulux59300 shows [Ac 5c] (Flush Ace high)
+Brulux59300 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Qc Js 9c Kd 7c]
+Seat 1: Brulux59300 (big blind) showed [Ac 5c] and won 520 with Flush Ace high
+Seat 3: MathisKcr (small blind) showed [Kc Td] and lost with Straight King high
+
+

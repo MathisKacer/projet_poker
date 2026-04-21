@@ -1,0 +1,105 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668468694421078017-1-1774794889 - Holdem no limit (10/20) - 2026/03/29 14:34:49 UTC
+Table: 'Expresso Nitro(1086962571)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: SousMosmo (300)
+Seat 3: Mackeo0708 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+SousMosmo posts big blind 20
+Dealt to MathisKcr [6s 4c]
+*** PRE-FLOP *** 
+Mackeo0708 folds
+MathisKcr folds
+SousMosmo collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: SousMosmo (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668468694421078017-2-1774794895 - Holdem no limit (10/20) - 2026/03/29 14:34:55 UTC
+Table: 'Expresso Nitro(1086962571)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: SousMosmo (310)
+Seat 3: Mackeo0708 (300)
+*** ANTE/BLINDS ***
+SousMosmo posts small blind 10
+Mackeo0708 posts big blind 20
+Dealt to MathisKcr [2h 9h]
+*** PRE-FLOP *** 
+MathisKcr folds
+SousMosmo raises 30 to 50
+Mackeo0708 calls 30
+*** FLOP *** [3s Td Qc]
+SousMosmo bets 20
+Mackeo0708 calls 20
+*** TURN *** [3s Td Qc][6d]
+SousMosmo bets 20
+Mackeo0708 calls 20
+*** RIVER *** [3s Td Qc 6d][9c]
+SousMosmo checks
+Mackeo0708 checks
+*** SHOW DOWN ***
+SousMosmo shows [3h Ac] (One pair : 3)
+Mackeo0708 shows [5d 5h] (One pair : 5)
+Mackeo0708 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [3s Td Qc 6d 9c]
+Seat 2: SousMosmo (small blind) showed [3h Ac] and lost with One pair : 3
+Seat 3: Mackeo0708 (big blind) showed [5d 5h] and won 180 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668468694421078017-3-1774794907 - Holdem no limit (10/20) - 2026/03/29 14:35:07 UTC
+Table: 'Expresso Nitro(1086962571)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (290)
+Seat 2: SousMosmo (220)
+Seat 3: Mackeo0708 (390)
+*** ANTE/BLINDS ***
+Mackeo0708 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d Tc]
+*** PRE-FLOP *** 
+SousMosmo raises 20 to 40
+Mackeo0708 calls 30
+MathisKcr folds
+*** FLOP *** [Kd 6h 8h]
+Mackeo0708 checks
+SousMosmo bets 35
+Mackeo0708 folds
+SousMosmo collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Kd 6h 8h]
+Seat 2: SousMosmo (button) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668468694421078017-4-1774794921 - Holdem no limit (10/20) - 2026/03/29 14:35:21 UTC
+Table: 'Expresso Nitro(1086962571)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (270)
+Seat 2: SousMosmo (280)
+Seat 3: Mackeo0708 (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+SousMosmo posts big blind 20
+Dealt to MathisKcr [Qc Ad]
+*** PRE-FLOP *** 
+Mackeo0708 raises 20 to 40
+MathisKcr raises 230 to 270 and is all-in
+SousMosmo raises 10 to 280 and is all-in
+Mackeo0708 calls 240
+*** FLOP *** [7h 8s 5h]
+*** TURN *** [7h 8s 5h][4s]
+*** RIVER *** [7h 8s 5h 4s][Kh]
+*** SHOW DOWN ***
+MathisKcr shows [Qc Ad] (High card : Ace)
+SousMosmo shows [9d 9h] (One pair : 9)
+Mackeo0708 shows [Kc Td] (One pair : Kings)
+Mackeo0708 collected 830 from pot
+*** SUMMARY ***
+Total pot 830 | No rake
+Board: [7h 8s 5h 4s Kh]
+Seat 1: MathisKcr (small blind) showed [Qc Ad] and lost with High card : Ace
+Seat 2: SousMosmo (big blind) showed [9d 9h] and lost with One pair : 9
+Seat 3: Mackeo0708 (button) showed [Kc Td] and won 830 with One pair : Kings
+
+

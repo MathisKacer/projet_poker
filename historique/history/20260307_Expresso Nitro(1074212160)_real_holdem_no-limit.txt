@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613706096165519361-1-1772871908 - Holdem no limit (10/20) - 2026/03/07 08:25:08 UTC
+Table: 'Expresso Nitro(1074212160)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: housnii972 (300)
+Seat 3: totophe1311 (300)
+*** ANTE/BLINDS ***
+housnii972 posts small blind 10
+totophe1311 posts big blind 20
+Dealt to MathisKcr [Qc 4h]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+housnii972 folds
+totophe1311 checks
+*** FLOP *** [Qs 6c 9h]
+totophe1311 checks
+MathisKcr bets 33
+totophe1311 folds
+MathisKcr collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [Qs 6c 9h]
+Seat 1: MathisKcr (button) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613706096165519361-2-1772871931 - Holdem no limit (10/20) - 2026/03/07 08:25:31 UTC
+Table: 'Expresso Nitro(1074212160)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (330)
+Seat 2: housnii972 (290)
+Seat 3: totophe1311 (280)
+*** ANTE/BLINDS ***
+totophe1311 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Js Qd]
+*** PRE-FLOP *** 
+housnii972 raises 270 to 290 and is all-in
+totophe1311 folds
+MathisKcr calls 270
+*** FLOP *** [4c Kc 2h]
+*** TURN *** [4c Kc 2h][5h]
+*** RIVER *** [4c Kc 2h 5h][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [Js Qd] (One pair : Queens)
+housnii972 shows [Ad Qh] (One pair : Queens)
+housnii972 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [4c Kc 2h 5h Qs]
+Seat 1: MathisKcr (big blind) showed [Js Qd] and lost with One pair : Queens
+Seat 2: housnii972 (button) showed [Ad Qh] and won 590 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613706096165519361-3-1772871944 - Holdem no limit (10/20) - 2026/03/07 08:25:44 UTC
+Table: 'Expresso Nitro(1074212160)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (40)
+Seat 2: housnii972 (590)
+Seat 3: totophe1311 (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+housnii972 posts big blind 20
+Dealt to MathisKcr [8c As]
+*** PRE-FLOP *** 
+totophe1311 calls 20
+MathisKcr raises 20 to 40 and is all-in
+housnii972 folds
+totophe1311 calls 20
+*** FLOP *** [4c 2h 9s]
+*** TURN *** [4c 2h 9s][7d]
+*** RIVER *** [4c 2h 9s 7d][3s]
+*** SHOW DOWN ***
+MathisKcr shows [8c As] (High card : Ace)
+totophe1311 shows [Kc 4h] (One pair : 4)
+totophe1311 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [4c 2h 9s 7d 3s]
+Seat 1: MathisKcr (small blind) showed [8c As] and lost with High card : Ace
+Seat 3: totophe1311 (button) showed [Kc 4h] and won 100 with One pair : 4
+
+

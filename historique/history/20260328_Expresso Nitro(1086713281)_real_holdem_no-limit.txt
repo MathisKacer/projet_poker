@@ -1,0 +1,72 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667398002023858177-1-1774740532 - Holdem no limit (10/20) - 2026/03/28 23:28:52 UTC
+Table: 'Expresso Nitro(1086713281)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: LEMAGICIEN44 (300)
+Seat 3: MG Wolf16205 (300)
+*** ANTE/BLINDS ***
+LEMAGICIEN44 posts small blind 10
+MG Wolf16205 posts big blind 20
+Dealt to MathisKcr [3h 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+LEMAGICIEN44 calls 10
+MG Wolf16205 raises 280 to 300 and is all-in
+LEMAGICIEN44 folds
+MG Wolf16205 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: MG Wolf16205 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667398002023858177-2-1774740559 - Holdem no limit (10/20) - 2026/03/28 23:29:19 UTC
+Table: 'Expresso Nitro(1086713281)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: LEMAGICIEN44 (280)
+Seat 3: MG Wolf16205 (320)
+*** ANTE/BLINDS ***
+MG Wolf16205 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5d 2d]
+*** PRE-FLOP *** 
+LEMAGICIEN44 calls 20
+MG Wolf16205 folds
+MathisKcr checks
+*** FLOP *** [7c Ad Th]
+MathisKcr checks
+LEMAGICIEN44 bets 50
+MathisKcr folds
+LEMAGICIEN44 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [7c Ad Th]
+Seat 2: LEMAGICIEN44 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667398002023858177-3-1774740575 - Holdem no limit (10/20) - 2026/03/28 23:29:35 UTC
+Table: 'Expresso Nitro(1086713281)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: LEMAGICIEN44 (310)
+Seat 3: MG Wolf16205 (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+LEMAGICIEN44 posts big blind 20
+Dealt to MathisKcr [Kh 9c]
+*** PRE-FLOP *** 
+MG Wolf16205 raises 30 to 50
+MathisKcr raises 230 to 280 and is all-in
+LEMAGICIEN44 folds
+MG Wolf16205 calls 230
+*** FLOP *** [Ah 7h 2s]
+*** TURN *** [Ah 7h 2s][5c]
+*** RIVER *** [Ah 7h 2s 5c][Th]
+*** SHOW DOWN ***
+MathisKcr shows [Kh 9c] (High card : Ace)
+MG Wolf16205 shows [Ad As] (Trips of Aces)
+MG Wolf16205 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Ah 7h 2s 5c Th]
+Seat 1: MathisKcr (small blind) showed [Kh 9c] and lost with High card : Ace
+Seat 3: MG Wolf16205 (button) showed [Ad As] and won 580 with Trips of Aces
+
+

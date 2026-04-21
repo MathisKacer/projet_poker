@@ -1,0 +1,234 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609716114497208321-1-1772713664 - Holdem no limit (10/20) - 2026/03/05 12:27:44 UTC
+Table: 'Expresso(1073283170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: NicolasVDP (500)
+Seat 2: MathisKcr (500)
+Seat 3: TOMEHC (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+TOMEHC posts big blind 20
+Dealt to MathisKcr [9h 8c]
+*** PRE-FLOP *** 
+NicolasVDP calls 20
+MathisKcr calls 10
+TOMEHC checks
+*** FLOP *** [Ts 2h 2d]
+MathisKcr checks
+TOMEHC bets 20
+NicolasVDP folds
+MathisKcr folds
+TOMEHC collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ts 2h 2d]
+Seat 3: TOMEHC (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609716114497208321-2-1772713680 - Holdem no limit (10/20) - 2026/03/05 12:28:00 UTC
+Table: 'Expresso(1073283170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: NicolasVDP (480)
+Seat 2: MathisKcr (480)
+Seat 3: TOMEHC (540)
+*** ANTE/BLINDS ***
+TOMEHC posts small blind 10
+NicolasVDP posts big blind 20
+Dealt to MathisKcr [Kc 3s]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+TOMEHC calls 10
+NicolasVDP raises 20 to 40
+MathisKcr calls 20
+TOMEHC calls 20
+*** FLOP *** [8c 6s Qc]
+TOMEHC checks
+NicolasVDP bets 42
+MathisKcr folds
+TOMEHC folds
+NicolasVDP collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [8c 6s Qc]
+Seat 1: NicolasVDP (big blind) won 162
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609716114497208321-3-1772713696 - Holdem no limit (10/20) - 2026/03/05 12:28:16 UTC
+Table: 'Expresso(1073283170)#0' 3-max (real money) Seat #3 is the button
+Seat 1: NicolasVDP (560)
+Seat 2: MathisKcr (440)
+Seat 3: TOMEHC (500)
+*** ANTE/BLINDS ***
+NicolasVDP posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c 2h]
+*** PRE-FLOP *** 
+TOMEHC raises 20 to 40
+NicolasVDP calls 30
+MathisKcr folds
+*** FLOP *** [Qd Kh 7c]
+NicolasVDP checks
+TOMEHC bets 35
+NicolasVDP folds
+TOMEHC collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Qd Kh 7c]
+Seat 3: TOMEHC (button) won 135
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609716114497208321-4-1772713708 - Holdem no limit (10/20) - 2026/03/05 12:28:28 UTC
+Table: 'Expresso(1073283170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: NicolasVDP (520)
+Seat 2: MathisKcr (420)
+Seat 3: TOMEHC (560)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+TOMEHC posts big blind 20
+Dealt to MathisKcr [Td 2s]
+*** PRE-FLOP *** 
+NicolasVDP calls 20
+MathisKcr folds
+TOMEHC checks
+*** FLOP *** [5d 5s Js]
+TOMEHC checks
+NicolasVDP checks
+*** TURN *** [5d 5s Js][Kh]
+TOMEHC checks
+NicolasVDP bets 20
+TOMEHC folds
+NicolasVDP collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [5d 5s Js Kh]
+Seat 1: NicolasVDP (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609716114497208321-5-1772713720 - Holdem no limit (10/20) - 2026/03/05 12:28:40 UTC
+Table: 'Expresso(1073283170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: NicolasVDP (550)
+Seat 2: MathisKcr (410)
+Seat 3: TOMEHC (540)
+*** ANTE/BLINDS ***
+TOMEHC posts small blind 10
+NicolasVDP posts big blind 20
+Dealt to MathisKcr [Kd Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+TOMEHC folds
+NicolasVDP calls 20
+*** FLOP *** [Qs Kh Jc]
+NicolasVDP checks
+MathisKcr checks
+*** TURN *** [Qs Kh Jc][Ac]
+NicolasVDP checks
+MathisKcr bets 20
+NicolasVDP calls 20
+*** RIVER *** [Qs Kh Jc Ac][9s]
+NicolasVDP checks
+MathisKcr bets 40
+NicolasVDP calls 40
+*** SHOW DOWN ***
+NicolasVDP shows [Js Qh] (Two pairs : Queens and Jacks)
+MathisKcr shows [Kd Kc] (Trips of Kings)
+MathisKcr collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Qs Kh Jc Ac 9s]
+Seat 1: NicolasVDP (big blind) showed [Js Qh] and lost with Two pairs : Queens and Jacks
+Seat 2: MathisKcr (button) showed [Kd Kc] and won 210 with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609716114497208321-6-1772713747 - Holdem no limit (10/20) - 2026/03/05 12:29:07 UTC
+Table: 'Expresso(1073283170)#0' 3-max (real money) Seat #3 is the button
+Seat 1: NicolasVDP (450)
+Seat 2: MathisKcr (520)
+Seat 3: TOMEHC (530)
+*** ANTE/BLINDS ***
+NicolasVDP posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6h 8d]
+*** PRE-FLOP *** 
+TOMEHC calls 20
+NicolasVDP calls 10
+MathisKcr checks
+*** FLOP *** [7c 3c 8h]
+NicolasVDP checks
+MathisKcr bets 20
+TOMEHC calls 20
+NicolasVDP folds
+*** TURN *** [7c 3c 8h][Ks]
+MathisKcr bets 20
+TOMEHC calls 20
+*** RIVER *** [7c 3c 8h Ks][Kh]
+MathisKcr bets 20
+TOMEHC calls 20
+*** SHOW DOWN ***
+TOMEHC shows [Js 7s] (Two pairs : Kings and 7)
+MathisKcr shows [6h 8d] (Two pairs : Kings and 8)
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [7c 3c 8h Ks Kh]
+Seat 2: MathisKcr (big blind) showed [6h 8d] and won 180 with Two pairs : Kings and 8
+Seat 3: TOMEHC (button) showed [Js 7s] and lost with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609716114497208321-7-1772713768 - Holdem no limit (15/30) - 2026/03/05 12:29:28 UTC
+Table: 'Expresso(1073283170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: NicolasVDP (430)
+Seat 2: MathisKcr (620)
+Seat 3: TOMEHC (450)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+TOMEHC posts big blind 30
+Dealt to MathisKcr [Jd Js]
+*** PRE-FLOP *** 
+NicolasVDP raises 30 to 60
+MathisKcr raises 30 to 90
+TOMEHC raises 360 to 450 and is all-in
+NicolasVDP calls 370 and is all-in
+MathisKcr calls 360
+*** FLOP *** [Qc Kh 5h]
+*** TURN *** [Qc Kh 5h][9h]
+*** RIVER *** [Qc Kh 5h 9h][4c]
+*** SHOW DOWN ***
+NicolasVDP shows [Ts Kc] (One pair : Kings)
+MathisKcr shows [Jd Js] (One pair : Jacks)
+TOMEHC shows [Kd Ks] (Trips of Kings)
+TOMEHC collected 1330 from pot
+*** SUMMARY ***
+Total pot 1330 | No rake
+Board: [Qc Kh 5h 9h 4c]
+Seat 1: NicolasVDP (button) showed [Ts Kc] and lost with One pair : Kings
+Seat 2: MathisKcr (small blind) showed [Jd Js] and lost with One pair : Jacks
+Seat 3: TOMEHC (big blind) showed [Kd Ks] and won 1330 with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609716114497208321-8-1772713788 - Holdem no limit (15/30) - 2026/03/05 12:29:48 UTC
+Table: 'Expresso(1073283170)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (170)
+Seat 3: TOMEHC (1330)
+*** ANTE/BLINDS ***
+TOMEHC posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Js 7c]
+*** PRE-FLOP *** 
+TOMEHC calls 15
+MathisKcr checks
+*** FLOP *** [6h 6c 7s]
+MathisKcr bets 30
+TOMEHC calls 30
+*** TURN *** [6h 6c 7s][Ts]
+MathisKcr bets 45
+TOMEHC raises 1225 to 1270 and is all-in
+MathisKcr calls 65 and is all-in
+*** RIVER *** [6h 6c 7s Ts][Ad]
+*** SHOW DOWN ***
+MathisKcr shows [Js 7c] (Two pairs : 7 and 6)
+TOMEHC shows [Td 8c] (Two pairs : Tens and 6)
+TOMEHC collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [6h 6c 7s Ts Ad]
+Seat 2: MathisKcr (big blind) showed [Js 7c] and lost with Two pairs : 7 and 6
+Seat 3: TOMEHC (small blind) (button) showed [Td 8c] and won 1500 with Two pairs : Tens and 6
+
+

@@ -1,0 +1,112 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666763506505220097-1-1774721154 - Holdem no limit (10/20) - 2026/03/28 18:05:54 UTC
+Table: 'Expresso Nitro(1086565551)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JAX_OTP (300)
+Seat 2: MathisKcr (300)
+Seat 3: turbulenz666 (300)
+*** ANTE/BLINDS ***
+JAX_OTP posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5h 8c]
+*** PRE-FLOP *** 
+turbulenz666 calls 20
+JAX_OTP folds
+MathisKcr checks
+*** FLOP *** [2d Ad 7d]
+MathisKcr checks
+turbulenz666 checks
+*** TURN *** [2d Ad 7d][9d]
+MathisKcr checks
+turbulenz666 bets 50
+MathisKcr folds
+turbulenz666 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [2d Ad 7d 9d]
+Seat 3: turbulenz666 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666763506505220097-2-1774721174 - Holdem no limit (10/20) - 2026/03/28 18:06:14 UTC
+Table: 'Expresso Nitro(1086565551)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JAX_OTP (290)
+Seat 2: MathisKcr (280)
+Seat 3: turbulenz666 (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+turbulenz666 posts big blind 20
+Dealt to MathisKcr [3s 5c]
+*** PRE-FLOP *** 
+JAX_OTP raises 270 to 290 and is all-in
+MathisKcr folds
+turbulenz666 calls 270
+*** FLOP *** [5s Kh 4d]
+*** TURN *** [5s Kh 4d][7d]
+*** RIVER *** [5s Kh 4d 7d][9s]
+*** SHOW DOWN ***
+JAX_OTP shows [2s 2h] (One pair : 2)
+turbulenz666 shows [9c Qs] (One pair : 9)
+turbulenz666 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [5s Kh 4d 7d 9s]
+Seat 1: JAX_OTP (button) showed [2s 2h] and lost with One pair : 2
+Seat 3: turbulenz666 (big blind) showed [9c Qs] and won 590 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666763506505220097-3-1774721188 - Holdem no limit (10/20) - 2026/03/28 18:06:28 UTC
+Table: 'Expresso Nitro(1086565551)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (270)
+Seat 3: turbulenz666 (630)
+*** ANTE/BLINDS ***
+turbulenz666 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c 6c]
+*** PRE-FLOP *** 
+turbulenz666 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666763506505220097-4-1774721192 - Holdem no limit (10/20) - 2026/03/28 18:06:32 UTC
+Table: 'Expresso Nitro(1086565551)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (280)
+Seat 3: turbulenz666 (620)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+turbulenz666 posts big blind 20
+Dealt to MathisKcr [5d 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+turbulenz666 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: turbulenz666 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666763506505220097-5-1774721197 - Holdem no limit (10/20) - 2026/03/28 18:06:37 UTC
+Table: 'Expresso Nitro(1086565551)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (270)
+Seat 3: turbulenz666 (630)
+*** ANTE/BLINDS ***
+turbulenz666 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d Ah]
+*** PRE-FLOP *** 
+turbulenz666 calls 10
+MathisKcr raises 250 to 270 and is all-in
+turbulenz666 calls 250
+*** FLOP *** [Ts Js 6s]
+*** TURN *** [Ts Js 6s][Ks]
+*** RIVER *** [Ts Js 6s Ks][Jd]
+*** SHOW DOWN ***
+MathisKcr shows [2d Ah] (One pair : Jacks)
+turbulenz666 shows [Qs 7c] (Flush King high)
+turbulenz666 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Ts Js 6s Ks Jd]
+Seat 2: MathisKcr (big blind) showed [2d Ah] and lost with One pair : Jacks
+Seat 3: turbulenz666 (small blind) (button) showed [Qs 7c] and won 540 with Flush King high
+
+

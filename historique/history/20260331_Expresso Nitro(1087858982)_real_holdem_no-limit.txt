@@ -1,0 +1,319 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672318750349852673-1-1774945589 - Holdem no limit (10/20) - 2026/03/31 08:26:29 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: vilain du 60 (300)
+Seat 3: Coco590210 (300)
+*** ANTE/BLINDS ***
+vilain du 60 posts small blind 10
+Coco590210 posts big blind 20
+Dealt to MathisKcr [2c 9s]
+*** PRE-FLOP *** 
+MathisKcr folds
+vilain du 60 folds
+Coco590210 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Coco590210 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672318750349852673-2-1774945595 - Holdem no limit (10/20) - 2026/03/31 08:26:35 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: vilain du 60 (290)
+Seat 3: Coco590210 (310)
+*** ANTE/BLINDS ***
+Coco590210 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ac 5d]
+*** PRE-FLOP *** 
+vilain du 60 calls 20
+Coco590210 raises 40 to 60
+MathisKcr calls 40
+vilain du 60 calls 40
+*** FLOP *** [7d 8c Qd]
+Coco590210 bets 63
+MathisKcr folds
+vilain du 60 folds
+Coco590210 collected 243 from pot
+*** SUMMARY ***
+Total pot 243 | No rake
+Board: [7d 8c Qd]
+Seat 3: Coco590210 (small blind) won 243
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672318750349852673-3-1774945634 - Holdem no limit (10/20) - 2026/03/31 08:27:14 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (240)
+Seat 2: vilain du 60 (230)
+Seat 3: Coco590210 (430)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+vilain du 60 posts big blind 20
+Dealt to MathisKcr [Td 5d]
+*** PRE-FLOP *** 
+Coco590210 calls 20
+MathisKcr folds
+vilain du 60 checks
+*** FLOP *** [9s 6s Ad]
+vilain du 60 checks
+Coco590210 bets 50
+vilain du 60 folds
+Coco590210 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [9s 6s Ad]
+Seat 3: Coco590210 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672318750349852673-4-1774945657 - Holdem no limit (15/30) - 2026/03/31 08:27:37 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (230)
+Seat 2: vilain du 60 (210)
+Seat 3: Coco590210 (460)
+*** ANTE/BLINDS ***
+vilain du 60 posts small blind 15
+Coco590210 posts big blind 30
+Dealt to MathisKcr [9h 7s]
+*** PRE-FLOP *** 
+MathisKcr folds
+vilain du 60 raises 180 to 210 and is all-in
+Coco590210 calls 180
+*** FLOP *** [Js 2h 9c]
+*** TURN *** [Js 2h 9c][9d]
+*** RIVER *** [Js 2h 9c 9d][4s]
+*** SHOW DOWN ***
+Coco590210 shows [Ts Kh] (One pair : 9)
+vilain du 60 shows [Kc Ac] (One pair : 9)
+vilain du 60 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Js 2h 9c 9d 4s]
+Seat 2: vilain du 60 (small blind) showed [Kc Ac] and won 420 with One pair : 9
+Seat 3: Coco590210 (big blind) showed [Ts Kh] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672318750349852673-5-1774945671 - Holdem no limit (15/30) - 2026/03/31 08:27:51 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (230)
+Seat 2: vilain du 60 (420)
+Seat 3: Coco590210 (250)
+*** ANTE/BLINDS ***
+Coco590210 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3c 9c]
+*** PRE-FLOP *** 
+vilain du 60 calls 30
+Coco590210 raises 220 to 250 and is all-in
+MathisKcr folds
+vilain du 60 folds
+Coco590210 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 3: Coco590210 (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672318750349852673-6-1774945680 - Holdem no limit (15/30) - 2026/03/31 08:28:00 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (200)
+Seat 2: vilain du 60 (390)
+Seat 3: Coco590210 (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+vilain du 60 posts big blind 30
+Dealt to MathisKcr [9h 4h]
+*** PRE-FLOP *** 
+Coco590210 raises 30 to 60
+MathisKcr folds
+vilain du 60 calls 30
+*** FLOP *** [5h 2c 3c]
+vilain du 60 checks
+Coco590210 bets 47
+vilain du 60 calls 47
+*** TURN *** [5h 2c 3c][Jd]
+vilain du 60 checks
+Coco590210 bets 80
+vilain du 60 folds
+Coco590210 collected 309 from pot
+*** SUMMARY ***
+Total pot 309 | No rake
+Board: [5h 2c 3c Jd]
+Seat 3: Coco590210 (button) won 309
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672318750349852673-7-1774945701 - Holdem no limit (15/30) - 2026/03/31 08:28:21 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (185)
+Seat 2: vilain du 60 (283)
+Seat 3: Coco590210 (432)
+*** ANTE/BLINDS ***
+vilain du 60 posts small blind 15
+Coco590210 posts big blind 30
+Dealt to MathisKcr [2h 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+vilain du 60 calls 15
+Coco590210 raises 30 to 60
+vilain du 60 calls 30
+*** FLOP *** [7h 5s Kd]
+vilain du 60 checks
+Coco590210 bets 42
+vilain du 60 calls 42
+*** TURN *** [7h 5s Kd][Ah]
+vilain du 60 checks
+Coco590210 bets 71
+vilain du 60 folds
+Coco590210 collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Board: [7h 5s Kd Ah]
+Seat 3: Coco590210 (big blind) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672318750349852673-8-1774945721 - Holdem no limit (20/40) - 2026/03/31 08:28:41 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (185)
+Seat 2: vilain du 60 (181)
+Seat 3: Coco590210 (534)
+*** ANTE/BLINDS ***
+Coco590210 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3s Tc]
+*** PRE-FLOP *** 
+vilain du 60 folds
+Coco590210 raises 40 to 80
+MathisKcr folds
+Coco590210 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Coco590210 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672318750349852673-9-1774945733 - Holdem no limit (20/40) - 2026/03/31 08:28:53 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (145)
+Seat 2: vilain du 60 (181)
+Seat 3: Coco590210 (574)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+vilain du 60 posts big blind 40
+Dealt to MathisKcr [7h Ah]
+*** PRE-FLOP *** 
+Coco590210 calls 40
+MathisKcr raises 105 to 145 and is all-in
+vilain du 60 folds
+Coco590210 folds
+MathisKcr collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 1: MathisKcr (small blind) won 225
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672318750349852673-10-1774945750 - Holdem no limit (20/40) - 2026/03/31 08:29:10 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (225)
+Seat 2: vilain du 60 (141)
+Seat 3: Coco590210 (534)
+*** ANTE/BLINDS ***
+vilain du 60 posts small blind 20
+Coco590210 posts big blind 40
+Dealt to MathisKcr [3d Js]
+*** PRE-FLOP *** 
+MathisKcr folds
+vilain du 60 calls 20
+Coco590210 raises 40 to 80
+vilain du 60 calls 40
+*** FLOP *** [Ah 6h 8h]
+vilain du 60 checks
+Coco590210 bets 56
+vilain du 60 raises 5 to 61 and is all-in
+Coco590210 calls 5
+*** TURN *** [Ah 6h 8h][Td]
+*** RIVER *** [Ah 6h 8h Td][Kh]
+*** SHOW DOWN ***
+Coco590210 shows [2s 7s] (High card : Ace)
+vilain du 60 shows [7h 2h] (Flush Ace high)
+vilain du 60 collected 282 from pot
+*** SUMMARY ***
+Total pot 282 | No rake
+Board: [Ah 6h 8h Td Kh]
+Seat 2: vilain du 60 (small blind) showed [7h 2h] and won 282 with Flush Ace high
+Seat 3: Coco590210 (big blind) showed [2s 7s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672318750349852673-11-1774945773 - Holdem no limit (30/60) - 2026/03/31 08:29:33 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (225)
+Seat 2: vilain du 60 (282)
+Seat 3: Coco590210 (393)
+*** ANTE/BLINDS ***
+Coco590210 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ts 2s]
+*** PRE-FLOP *** 
+vilain du 60 folds
+Coco590210 raises 333 to 393 and is all-in
+MathisKcr folds
+Coco590210 collected 453 from pot
+*** SUMMARY ***
+Total pot 453 | No rake
+Seat 3: Coco590210 (small blind) won 453
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672318750349852673-12-1774945789 - Holdem no limit (30/60) - 2026/03/31 08:29:49 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (165)
+Seat 2: vilain du 60 (282)
+Seat 3: Coco590210 (453)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+vilain du 60 posts big blind 60
+Dealt to MathisKcr [4d Td]
+*** PRE-FLOP *** 
+Coco590210 calls 60
+MathisKcr folds
+vilain du 60 checks
+*** FLOP *** [3c 8c 2h]
+vilain du 60 checks
+Coco590210 bets 98
+vilain du 60 raises 124 to 222 and is all-in
+Coco590210 calls 124
+*** TURN *** [3c 8c 2h][9c]
+*** RIVER *** [3c 8c 2h 9c][8d]
+*** SHOW DOWN ***
+Coco590210 shows [3h Kc] (Two pairs : 8 and 3)
+vilain du 60 shows [Tc 2c] (Flush Ten high)
+vilain du 60 collected 594 from pot
+*** SUMMARY ***
+Total pot 594 | No rake
+Board: [3c 8c 2h 9c 8d]
+Seat 2: vilain du 60 (big blind) showed [Tc 2c] and won 594 with Flush Ten high
+Seat 3: Coco590210 (button) showed [3h Kc] and lost with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672318750349852673-13-1774945810 - Holdem no limit (30/60) - 2026/03/31 08:30:10 UTC
+Table: 'Expresso Nitro(1087858982)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (135)
+Seat 2: vilain du 60 (594)
+Seat 3: Coco590210 (171)
+*** ANTE/BLINDS ***
+vilain du 60 posts small blind 30
+Coco590210 posts big blind 60
+Dealt to MathisKcr [2h 2c]
+*** PRE-FLOP *** 
+MathisKcr raises 75 to 135 and is all-in
+vilain du 60 folds
+Coco590210 raises 36 to 171 and is all-in
+*** FLOP *** [7h 9d Tc]
+*** TURN *** [7h 9d Tc][Qh]
+*** RIVER *** [7h 9d Tc Qh][8c]
+*** SHOW DOWN ***
+MathisKcr shows [2h 2c] (One pair : 2)
+Coco590210 shows [9c 5s] (One pair : 9)
+Coco590210 collected 336 from pot
+*** SUMMARY ***
+Total pot 336 | No rake
+Board: [7h 9d Tc Qh 8c]
+Seat 1: MathisKcr (button) showed [2h 2c] and lost with One pair : 2
+Seat 3: Coco590210 (big blind) showed [9c 5s] and won 336 with One pair : 9
+
+

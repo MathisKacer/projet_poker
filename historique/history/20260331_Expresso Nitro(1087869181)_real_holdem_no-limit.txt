@@ -1,0 +1,411 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672362554721304577-1-1774947731 - Holdem no limit (10/20) - 2026/03/31 09:02:11 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delpatroner (300)
+Seat 2: MathisKcr (300)
+Seat 3: ham84000 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+ham84000 posts big blind 20
+Dealt to MathisKcr [2s Ah]
+*** PRE-FLOP *** 
+Delpatroner folds
+MathisKcr raises 280 to 300 and is all-in
+ham84000 calls 280 and is all-in
+*** FLOP *** [As 8s Ks]
+*** TURN *** [As 8s Ks][3h]
+*** RIVER *** [As 8s Ks 3h][Js]
+*** SHOW DOWN ***
+ham84000 shows [Ad 5d] (One pair : Aces)
+MathisKcr shows [2s Ah] (Flush Ace high)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [As 8s Ks 3h Js]
+Seat 2: MathisKcr (small blind) showed [2s Ah] and won 600 with Flush Ace high
+Seat 3: ham84000 (big blind) showed [Ad 5d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672362554721304577-2-1774947746 - Holdem no limit (10/20) - 2026/03/31 09:02:26 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delpatroner (300)
+Seat 2: MathisKcr (600)
+*** ANTE/BLINDS ***
+Delpatroner posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jc 9d]
+*** PRE-FLOP *** 
+Delpatroner calls 10
+MathisKcr raises 580 to 600 and is all-in
+Delpatroner folds
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 2: MathisKcr (big blind) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672362554721304577-3-1774947759 - Holdem no limit (10/20) - 2026/03/31 09:02:39 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Delpatroner (280)
+Seat 2: MathisKcr (620)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Delpatroner posts big blind 20
+Dealt to MathisKcr [6s Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 600 to 620 and is all-in
+Delpatroner folds
+MathisKcr collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 2: MathisKcr (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672362554721304577-4-1774947770 - Holdem no limit (10/20) - 2026/03/31 09:02:50 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delpatroner (260)
+Seat 2: MathisKcr (640)
+*** ANTE/BLINDS ***
+Delpatroner posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3s Tc]
+*** PRE-FLOP *** 
+Delpatroner calls 10
+MathisKcr checks
+*** FLOP *** [Js 9d 9h]
+MathisKcr checks
+Delpatroner bets 40
+MathisKcr folds
+Delpatroner collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Js 9d 9h]
+Seat 1: Delpatroner (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672362554721304577-5-1774947783 - Holdem no limit (10/20) - 2026/03/31 09:03:03 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Delpatroner (280)
+Seat 2: MathisKcr (620)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Delpatroner posts big blind 20
+Dealt to MathisKcr [Qh 2c]
+*** PRE-FLOP *** 
+MathisKcr raises 600 to 620 and is all-in
+Delpatroner folds
+MathisKcr collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 2: MathisKcr (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672362554721304577-6-1774947792 - Holdem no limit (15/30) - 2026/03/31 09:03:12 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delpatroner (260)
+Seat 2: MathisKcr (640)
+*** ANTE/BLINDS ***
+Delpatroner posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5d 2d]
+*** PRE-FLOP *** 
+Delpatroner calls 15
+MathisKcr checks
+*** FLOP *** [8d 8s 4c]
+MathisKcr checks
+Delpatroner bets 39
+MathisKcr folds
+Delpatroner collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [8d 8s 4c]
+Seat 1: Delpatroner (small blind) (button) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672362554721304577-7-1774947806 - Holdem no limit (15/30) - 2026/03/31 09:03:26 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Delpatroner (290)
+Seat 2: MathisKcr (610)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Delpatroner posts big blind 30
+Dealt to MathisKcr [8s Th]
+*** PRE-FLOP *** 
+MathisKcr raises 580 to 610 and is all-in
+Delpatroner calls 260 and is all-in
+*** FLOP *** [9c Ac 5h]
+*** TURN *** [9c Ac 5h][Jc]
+*** RIVER *** [9c Ac 5h Jc][8h]
+*** SHOW DOWN ***
+Delpatroner shows [Js Tc] (One pair : Jacks)
+MathisKcr shows [8s Th] (One pair : 8)
+MathisKcr collected 320 from side pot 1
+Delpatroner collected 580 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9c Ac 5h Jc 8h]
+Seat 1: Delpatroner (big blind) showed [Js Tc] and won 580 with One pair : Jacks
+Seat 2: MathisKcr (small blind) (button) showed [8s Th] and won 320 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672362554721304577-8-1774947822 - Holdem no limit (15/30) - 2026/03/31 09:03:42 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delpatroner (580)
+Seat 2: MathisKcr (320)
+*** ANTE/BLINDS ***
+Delpatroner posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6h 9h]
+*** PRE-FLOP *** 
+Delpatroner calls 15
+MathisKcr checks
+*** FLOP *** [Kh 9c 8c]
+MathisKcr checks
+Delpatroner checks
+*** TURN *** [Kh 9c 8c][4h]
+MathisKcr bets 60
+Delpatroner calls 60
+*** RIVER *** [Kh 9c 8c 4h][7h]
+MathisKcr bets 90
+Delpatroner calls 90
+*** SHOW DOWN ***
+Delpatroner shows [Qh 7d] (One pair : 7)
+MathisKcr shows [6h 9h] (Flush King high)
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Kh 9c 8c 4h 7h]
+Seat 1: Delpatroner (small blind) (button) showed [Qh 7d] and lost with One pair : 7
+Seat 2: MathisKcr (big blind) showed [6h 9h] and won 360 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672362554721304577-9-1774947864 - Holdem no limit (20/40) - 2026/03/31 09:04:24 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Delpatroner (400)
+Seat 2: MathisKcr (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Delpatroner posts big blind 40
+Dealt to MathisKcr [Qh Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 460 to 500 and is all-in
+Delpatroner folds
+MathisKcr collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 2: MathisKcr (small blind) (button) won 540
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672362554721304577-10-1774947870 - Holdem no limit (20/40) - 2026/03/31 09:04:30 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delpatroner (360)
+Seat 2: MathisKcr (540)
+*** ANTE/BLINDS ***
+Delpatroner posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Qd 9c]
+*** PRE-FLOP *** 
+Delpatroner calls 20
+MathisKcr raises 500 to 540 and is all-in
+Delpatroner calls 320 and is all-in
+*** FLOP *** [4h Td 7c]
+*** TURN *** [4h Td 7c][5h]
+*** RIVER *** [4h Td 7c 5h][Jc]
+*** SHOW DOWN ***
+Delpatroner shows [Qh Qs] (One pair : Queens)
+MathisKcr shows [Qd 9c] (High card : Queen)
+MathisKcr collected 180 from side pot 1
+Delpatroner collected 720 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4h Td 7c 5h Jc]
+Seat 1: Delpatroner (small blind) (button) showed [Qh Qs] and won 720 with One pair : Queens
+Seat 2: MathisKcr (big blind) showed [Qd 9c] and won 180 with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672362554721304577-11-1774947883 - Holdem no limit (20/40) - 2026/03/31 09:04:43 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Delpatroner (720)
+Seat 2: MathisKcr (180)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Delpatroner posts big blind 40
+Dealt to MathisKcr [6s 9s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Delpatroner collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Delpatroner (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672362554721304577-12-1774947895 - Holdem no limit (20/40) - 2026/03/31 09:04:55 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delpatroner (740)
+Seat 2: MathisKcr (160)
+*** ANTE/BLINDS ***
+Delpatroner posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9h 5d]
+*** PRE-FLOP *** 
+Delpatroner calls 20
+MathisKcr checks
+*** FLOP *** [2d 7s Ac]
+MathisKcr checks
+Delpatroner checks
+*** TURN *** [2d 7s Ac][4c]
+MathisKcr checks
+Delpatroner checks
+*** RIVER *** [2d 7s Ac 4c][Kd]
+MathisKcr bets 120 and is all-in
+Delpatroner folds
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [2d 7s Ac 4c Kd]
+Seat 2: MathisKcr (big blind) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672362554721304577-13-1774947923 - Holdem no limit (30/60) - 2026/03/31 09:05:23 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Delpatroner (700)
+Seat 2: MathisKcr (200)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Delpatroner posts big blind 60
+Dealt to MathisKcr [Kc 3d]
+*** PRE-FLOP *** 
+MathisKcr raises 140 to 200 and is all-in
+Delpatroner calls 140
+*** FLOP *** [6s 4h 6c]
+*** TURN *** [6s 4h 6c][Qs]
+*** RIVER *** [6s 4h 6c Qs][5s]
+*** SHOW DOWN ***
+Delpatroner shows [Kh 2h] (One pair : 6)
+MathisKcr shows [Kc 3d] (One pair : 6)
+MathisKcr collected 200 from pot
+Delpatroner collected 200 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [6s 4h 6c Qs 5s]
+Seat 1: Delpatroner (big blind) showed [Kh 2h] and won 200 with One pair : 6
+Seat 2: MathisKcr (small blind) (button) showed [Kc 3d] and won 200 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672362554721304577-14-1774947935 - Holdem no limit (30/60) - 2026/03/31 09:05:35 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delpatroner (700)
+Seat 2: MathisKcr (200)
+*** ANTE/BLINDS ***
+Delpatroner posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [4c Ad]
+*** PRE-FLOP *** 
+Delpatroner calls 30
+MathisKcr raises 140 to 200 and is all-in
+Delpatroner calls 140
+*** FLOP *** [2d Ac Td]
+*** TURN *** [2d Ac Td][9c]
+*** RIVER *** [2d Ac Td 9c][7h]
+*** SHOW DOWN ***
+Delpatroner shows [Qs Ks] (High card : Ace)
+MathisKcr shows [4c Ad] (One pair : Aces)
+MathisKcr collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [2d Ac Td 9c 7h]
+Seat 1: Delpatroner (small blind) (button) showed [Qs Ks] and lost with High card : Ace
+Seat 2: MathisKcr (big blind) showed [4c Ad] and won 400 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672362554721304577-15-1774947951 - Holdem no limit (30/60) - 2026/03/31 09:05:51 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Delpatroner (500)
+Seat 2: MathisKcr (400)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Delpatroner posts big blind 60
+Dealt to MathisKcr [9s 9h]
+*** PRE-FLOP *** 
+MathisKcr raises 340 to 400 and is all-in
+Delpatroner folds
+MathisKcr collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 2: MathisKcr (small blind) (button) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672362554721304577-17-1774947984 - Holdem no limit (40/80) - 2026/03/31 09:06:24 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Delpatroner (182)
+Seat 2: MathisKcr (718)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Delpatroner posts big blind 80
+Dealt to MathisKcr [9c 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Delpatroner collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Delpatroner (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672362554721304577-18-1774947993 - Holdem no limit (40/80) - 2026/03/31 09:06:33 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delpatroner (222)
+Seat 2: MathisKcr (678)
+*** ANTE/BLINDS ***
+Delpatroner posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [7h Jh]
+*** PRE-FLOP *** 
+Delpatroner calls 40
+MathisKcr raises 598 to 678 and is all-in
+Delpatroner folds
+MathisKcr collected 758 from pot
+*** SUMMARY ***
+Total pot 758 | No rake
+Seat 2: MathisKcr (big blind) won 758
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672362554721304577-19-1774948004 - Holdem no limit (40/80) - 2026/03/31 09:06:44 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Delpatroner (142)
+Seat 2: MathisKcr (758)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Delpatroner posts big blind 80
+Dealt to MathisKcr [Qd Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 678 to 758 and is all-in
+Delpatroner folds
+MathisKcr collected 838 from pot
+*** SUMMARY ***
+Total pot 838 | No rake
+Seat 2: MathisKcr (small blind) (button) won 838
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672362554721304577-20-1774948012 - Holdem no limit (40/80) - 2026/03/31 09:06:52 UTC
+Table: 'Expresso Nitro(1087869181)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Delpatroner (62)
+Seat 2: MathisKcr (838)
+*** ANTE/BLINDS ***
+Delpatroner posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Th 4c]
+*** PRE-FLOP *** 
+Delpatroner calls 22 and is all-in
+*** FLOP *** [4s 5s 8d]
+*** TURN *** [4s 5s 8d][4h]
+*** RIVER *** [4s 5s 8d 4h][9c]
+*** SHOW DOWN ***
+Delpatroner shows [Kh Ah] (One pair : 4)
+MathisKcr shows [Th 4c] (Trips of 4)
+MathisKcr collected 142 from pot
+*** SUMMARY ***
+Total pot 142 | No rake
+Board: [4s 5s 8d 4h 9c]
+Seat 1: Delpatroner (small blind) (button) showed [Kh Ah] and lost with One pair : 4
+Seat 2: MathisKcr (big blind) showed [Th 4c] and won 142 with Trips of 4
+
+

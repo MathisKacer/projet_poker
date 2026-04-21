@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634876144586326017-1-1773589595 - Holdem no limit (10/20) - 2026/03/15 15:46:35 UTC
+Table: 'Expresso Nitro(1079141196)#0' 3-max (real money) Seat #2 is the button
+Seat 1: WhiteFox33 (300)
+Seat 2: Piewm578 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+WhiteFox33 posts big blind 20
+Dealt to MathisKcr [Jh 6h]
+*** PRE-FLOP *** 
+Piewm578 folds
+MathisKcr raises 20 to 40
+WhiteFox33 raises 260 to 300 and is all-in
+MathisKcr folds
+WhiteFox33 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: WhiteFox33 (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634876144586326017-2-1773589605 - Holdem no limit (10/20) - 2026/03/15 15:46:45 UTC
+Table: 'Expresso Nitro(1079141196)#0' 3-max (real money) Seat #3 is the button
+Seat 1: WhiteFox33 (340)
+Seat 2: Piewm578 (300)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+WhiteFox33 posts small blind 10
+Piewm578 posts big blind 20
+Dealt to MathisKcr [2h 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+WhiteFox33 calls 10
+Piewm578 checks
+*** FLOP *** [Kh Js Ts]
+WhiteFox33 checks
+Piewm578 checks
+*** TURN *** [Kh Js Ts][8s]
+WhiteFox33 checks
+Piewm578 bets 20
+WhiteFox33 folds
+Piewm578 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kh Js Ts 8s]
+Seat 2: Piewm578 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634876144586326017-3-1773589623 - Holdem no limit (10/20) - 2026/03/15 15:47:03 UTC
+Table: 'Expresso Nitro(1079141196)#0' 3-max (real money) Seat #1 is the button
+Seat 1: WhiteFox33 (320)
+Seat 2: Piewm578 (320)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+Piewm578 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kh As]
+*** PRE-FLOP *** 
+WhiteFox33 folds
+Piewm578 calls 10
+MathisKcr raises 40 to 60
+Piewm578 calls 40
+*** FLOP *** [8s 2h Tc]
+Piewm578 checks
+MathisKcr bets 42
+Piewm578 raises 218 to 260 and is all-in
+MathisKcr calls 158 and is all-in
+*** TURN *** [8s 2h Tc][6c]
+*** RIVER *** [8s 2h Tc 6c][Ah]
+*** SHOW DOWN ***
+MathisKcr shows [Kh As] (One pair : Aces)
+Piewm578 shows [7s 9c] (Straight Ten high)
+Piewm578 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [8s 2h Tc 6c Ah]
+Seat 2: Piewm578 (small blind) showed [7s 9c] and won 580 with Straight Ten high
+Seat 3: MathisKcr (big blind) showed [Kh As] and lost with One pair : Aces
+
+

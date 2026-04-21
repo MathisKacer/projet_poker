@@ -1,0 +1,111 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607414213890015233-1-1772618562 - Holdem no limit (10/20) - 2026/03/04 10:02:42 UTC
+Table: 'Expresso Nitro(1072747217)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pablo17139 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Zpeckeno (300)
+*** ANTE/BLINDS ***
+pablo17139 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9s 5d]
+*** PRE-FLOP *** 
+Zpeckeno raises 20 to 40
+pablo17139 calls 30
+MathisKcr calls 20
+*** FLOP *** [2c Js Jh]
+pablo17139 checks
+MathisKcr checks
+Zpeckeno bets 42
+pablo17139 folds
+MathisKcr folds
+Zpeckeno collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [2c Js Jh]
+Seat 3: Zpeckeno (button) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607414213890015233-2-1772618591 - Holdem no limit (10/20) - 2026/03/04 10:03:11 UTC
+Table: 'Expresso Nitro(1072747217)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pablo17139 (260)
+Seat 2: MathisKcr (260)
+Seat 3: Zpeckeno (380)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Zpeckeno posts big blind 20
+Dealt to MathisKcr [5d 4d]
+*** PRE-FLOP *** 
+pablo17139 calls 20
+MathisKcr calls 10
+Zpeckeno checks
+*** FLOP *** [Qh 8h Ad]
+MathisKcr checks
+Zpeckeno bets 20
+pablo17139 calls 20
+MathisKcr folds
+*** TURN *** [Qh 8h Ad][2s]
+Zpeckeno checks
+pablo17139 checks
+*** RIVER *** [Qh 8h Ad 2s][4h]
+Zpeckeno bets 65
+pablo17139 folds
+Zpeckeno collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [Qh 8h Ad 2s 4h]
+Seat 3: Zpeckeno (big blind) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4607414213890015233-3-1772618624 - Holdem no limit (15/30) - 2026/03/04 10:03:44 UTC
+Table: 'Expresso Nitro(1072747217)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pablo17139 (220)
+Seat 2: MathisKcr (240)
+Seat 3: Zpeckeno (440)
+*** ANTE/BLINDS ***
+Zpeckeno posts small blind 15
+pablo17139 posts big blind 30
+Dealt to MathisKcr [Js 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 210 to 240 and is all-in
+Zpeckeno folds
+pablo17139 calls 190 and is all-in
+*** FLOP *** [8c Kd 8h]
+*** TURN *** [8c Kd 8h][6c]
+*** RIVER *** [8c Kd 8h 6c][8d]
+*** SHOW DOWN ***
+pablo17139 shows [5s 5c] (Full of 8 and 5)
+MathisKcr shows [Js 9c] (Trips of 8)
+MathisKcr collected 20 from side pot 1
+pablo17139 collected 455 from main pot
+*** SUMMARY ***
+Total pot 475 | No rake
+Board: [8c Kd 8h 6c 8d]
+Seat 1: pablo17139 (big blind) showed [5s 5c] and won 455 with Full of 8 and 5
+Seat 2: MathisKcr (button) showed [Js 9c] and won 20 with Trips of 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4607414213890015233-4-1772618647 - Holdem no limit (15/30) - 2026/03/04 10:04:07 UTC
+Table: 'Expresso Nitro(1072747217)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pablo17139 (455)
+Seat 2: MathisKcr (20)
+Seat 3: Zpeckeno (425)
+*** ANTE/BLINDS ***
+pablo17139 posts small blind 15
+MathisKcr posts big blind 20 and is all-in
+Dealt to MathisKcr [6h 8c]
+*** PRE-FLOP *** 
+Zpeckeno folds
+pablo17139 calls 15
+*** FLOP *** [Ah 9s 5d]
+*** TURN *** [Ah 9s 5d][Jd]
+*** RIVER *** [Ah 9s 5d Jd][2d]
+*** SHOW DOWN ***
+MathisKcr shows [6h 8c] (High card : Ace)
+pablo17139 shows [7d 9d] (Flush Jack high)
+pablo17139 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Ah 9s 5d Jd 2d]
+Seat 1: pablo17139 (small blind) showed [7d 9d] and won 50 with Flush Jack high
+Seat 2: MathisKcr (big blind) showed [6h 8c] and lost with High card : Ace
+
+

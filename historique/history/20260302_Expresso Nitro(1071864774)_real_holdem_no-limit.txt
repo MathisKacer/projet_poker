@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603624150064431105-1-1772474463 - Holdem no limit (10/20) - 2026/03/02 18:01:03 UTC
+Table: 'Expresso Nitro(1071864774)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DiabledeWina (300)
+Seat 2: RS Crack1291 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+DiabledeWina posts big blind 20
+Dealt to MathisKcr [Th 5d]
+*** PRE-FLOP *** 
+RS Crack1291 folds
+MathisKcr calls 10
+DiabledeWina checks
+*** FLOP *** [3d Kh 7h]
+MathisKcr checks
+DiabledeWina checks
+*** TURN *** [3d Kh 7h][Jc]
+MathisKcr checks
+DiabledeWina bets 26
+MathisKcr folds
+DiabledeWina collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [3d Kh 7h Jc]
+Seat 1: DiabledeWina (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603624150064431105-2-1772474497 - Holdem no limit (10/20) - 2026/03/02 18:01:37 UTC
+Table: 'Expresso Nitro(1071864774)#0' 3-max (real money) Seat #3 is the button
+Seat 1: DiabledeWina (320)
+Seat 2: RS Crack1291 (300)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+DiabledeWina posts small blind 10
+RS Crack1291 posts big blind 20
+Dealt to MathisKcr [7c 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+DiabledeWina calls 10
+RS Crack1291 checks
+*** FLOP *** [3h Js As]
+DiabledeWina checks
+RS Crack1291 checks
+*** TURN *** [3h Js As][Qc]
+DiabledeWina checks
+RS Crack1291 bets 20
+DiabledeWina folds
+RS Crack1291 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3h Js As Qc]
+Seat 2: RS Crack1291 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4603624150064431105-3-1772474528 - Holdem no limit (15/30) - 2026/03/02 18:02:08 UTC
+Table: 'Expresso Nitro(1071864774)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DiabledeWina (300)
+Seat 2: RS Crack1291 (320)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+RS Crack1291 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9s 5h]
+*** PRE-FLOP *** 
+DiabledeWina raises 30 to 60
+RS Crack1291 folds
+MathisKcr calls 30
+*** FLOP *** [3h 3s Ac]
+MathisKcr checks
+DiabledeWina bets 47
+MathisKcr folds
+DiabledeWina collected 182 from pot
+*** SUMMARY ***
+Total pot 182 | No rake
+Board: [3h 3s Ac]
+Seat 1: DiabledeWina (button) won 182
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4603624150064431105-4-1772474548 - Holdem no limit (15/30) - 2026/03/02 18:02:28 UTC
+Table: 'Expresso Nitro(1071864774)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DiabledeWina (375)
+Seat 2: RS Crack1291 (305)
+Seat 3: MathisKcr (220)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+DiabledeWina posts big blind 30
+Dealt to MathisKcr [Tc Jd]
+*** PRE-FLOP *** 
+RS Crack1291 raises 30 to 60
+MathisKcr raises 160 to 220 and is all-in
+DiabledeWina folds
+RS Crack1291 calls 160
+*** FLOP *** [5c 7h Qd]
+*** TURN *** [5c 7h Qd][8d]
+*** RIVER *** [5c 7h Qd 8d][8s]
+*** SHOW DOWN ***
+MathisKcr shows [Tc Jd] (One pair : 8)
+RS Crack1291 shows [9d As] (One pair : 8)
+RS Crack1291 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [5c 7h Qd 8d 8s]
+Seat 2: RS Crack1291 (button) showed [9d As] and won 470 with One pair : 8
+Seat 3: MathisKcr (small blind) showed [Tc Jd] and lost with One pair : 8
+
+

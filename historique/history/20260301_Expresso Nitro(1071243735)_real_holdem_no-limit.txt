@@ -1,0 +1,288 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4600956807869890561-1-1772371389 - Holdem no limit (10/20) - 2026/03/01 13:23:09 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Perkins_k9 (300)
+Seat 2: PABLOKing680 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+PABLOKing680 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4s 9c]
+*** PRE-FLOP *** 
+Perkins_k9 folds
+PABLOKing680 raises 20 to 40
+MathisKcr folds
+PABLOKing680 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: PABLOKing680 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4600956807869890561-2-1772371406 - Holdem no limit (10/20) - 2026/03/01 13:23:26 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Perkins_k9 (300)
+Seat 2: PABLOKing680 (320)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Perkins_k9 posts big blind 20
+Dealt to MathisKcr [4c 5d]
+*** PRE-FLOP *** 
+PABLOKing680 raises 20 to 40
+MathisKcr calls 30
+Perkins_k9 calls 20
+*** FLOP *** [5c 9c 3c]
+MathisKcr bets 42
+Perkins_k9 folds
+PABLOKing680 raises 44 to 86
+MathisKcr raises 154 to 240 and is all-in
+PABLOKing680 calls 154
+*** TURN *** [5c 9c 3c][Th]
+*** RIVER *** [5c 9c 3c Th][Qc]
+*** SHOW DOWN ***
+PABLOKing680 shows [As 3d] (One pair : 3)
+MathisKcr shows [4c 5d] (Flush Queen high)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [5c 9c 3c Th Qc]
+Seat 2: PABLOKing680 (button) showed [As 3d] and lost with One pair : 3
+Seat 3: MathisKcr (small blind) showed [4c 5d] and won 600 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4600956807869890561-3-1772371449 - Holdem no limit (15/30) - 2026/03/01 13:24:09 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Perkins_k9 (260)
+Seat 2: PABLOKing680 (40)
+Seat 3: MathisKcr (600)
+*** ANTE/BLINDS ***
+Perkins_k9 posts small blind 15
+PABLOKing680 posts big blind 30
+Dealt to MathisKcr [2h Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Perkins_k9 folds
+PABLOKing680 calls 10 and is all-in
+*** FLOP *** [5s Qc Jc]
+*** TURN *** [5s Qc Jc][3d]
+*** RIVER *** [5s Qc Jc 3d][7s]
+*** SHOW DOWN ***
+PABLOKing680 shows [5d Kc] (One pair : 5)
+MathisKcr shows [2h Kh] (High card : King)
+MathisKcr collected 20 from side pot 1
+PABLOKing680 collected 95 from main pot
+*** SUMMARY ***
+Total pot 115 | No rake
+Board: [5s Qc Jc 3d 7s]
+Seat 2: PABLOKing680 (big blind) showed [5d Kc] and won 95 with One pair : 5
+Seat 3: MathisKcr (button) showed [2h Kh] and won 20 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4600956807869890561-4-1772371469 - Holdem no limit (15/30) - 2026/03/01 13:24:29 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Perkins_k9 (245)
+Seat 2: PABLOKing680 (95)
+Seat 3: MathisKcr (560)
+*** ANTE/BLINDS ***
+PABLOKing680 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9s 8s]
+*** PRE-FLOP *** 
+Perkins_k9 folds
+PABLOKing680 raises 65 to 95 and is all-in
+MathisKcr calls 65
+*** FLOP *** [5c Kc Kd]
+*** TURN *** [5c Kc Kd][Qs]
+*** RIVER *** [5c Kc Kd Qs][Qd]
+*** SHOW DOWN ***
+MathisKcr shows [9s 8s] (Two pairs : Kings and Queens)
+PABLOKing680 shows [Ad Qc] (Full of Queens and Kings)
+PABLOKing680 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [5c Kc Kd Qs Qd]
+Seat 2: PABLOKing680 (small blind) showed [Ad Qc] and won 190 with Full of Queens and Kings
+Seat 3: MathisKcr (big blind) showed [9s 8s] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4600956807869890561-5-1772371491 - Holdem no limit (15/30) - 2026/03/01 13:24:51 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Perkins_k9 (245)
+Seat 2: PABLOKing680 (190)
+Seat 3: MathisKcr (465)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Perkins_k9 posts big blind 30
+Dealt to MathisKcr [5h 8h]
+*** PRE-FLOP *** 
+PABLOKing680 raises 75 to 105
+MathisKcr folds
+Perkins_k9 folds
+PABLOKing680 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: PABLOKing680 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4600956807869890561-6-1772371500 - Holdem no limit (15/30) - 2026/03/01 13:25:00 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Perkins_k9 (215)
+Seat 2: PABLOKing680 (235)
+Seat 3: MathisKcr (450)
+*** ANTE/BLINDS ***
+Perkins_k9 posts small blind 15
+PABLOKing680 posts big blind 30
+Dealt to MathisKcr [6d As]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Perkins_k9 raises 155 to 215 and is all-in
+PABLOKing680 calls 185
+MathisKcr raises 235 to 450 and is all-in
+PABLOKing680 calls 20 and is all-in
+*** FLOP *** [7s 8c 3d]
+*** TURN *** [7s 8c 3d][3c]
+*** RIVER *** [7s 8c 3d 3c][6c]
+*** SHOW DOWN ***
+Perkins_k9 shows [Td Ad] (One pair : 3)
+PABLOKing680 shows [8d Js] (Two pairs : 8 and 3)
+MathisKcr shows [6d As] (Two pairs : 6 and 3)
+MathisKcr collected 215 from side pot 1
+PABLOKing680 collected 685 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7s 8c 3d 3c 6c]
+Seat 1: Perkins_k9 (small blind) showed [Td Ad] and lost with One pair : 3
+Seat 2: PABLOKing680 (big blind) showed [8d Js] and won 685 with Two pairs : 8 and 3
+Seat 3: MathisKcr (button) showed [6d As] and won 215 with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4600956807869890561-7-1772371536 - Holdem no limit (20/40) - 2026/03/01 13:25:36 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PABLOKing680 (685)
+Seat 3: MathisKcr (215)
+*** ANTE/BLINDS ***
+PABLOKing680 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9h Kd]
+*** PRE-FLOP *** 
+PABLOKing680 calls 20
+MathisKcr raises 175 to 215 and is all-in
+PABLOKing680 calls 175
+*** FLOP *** [7h 3s 9d]
+*** TURN *** [7h 3s 9d][8h]
+*** RIVER *** [7h 3s 9d 8h][As]
+*** SHOW DOWN ***
+PABLOKing680 shows [Qd 4h] (High card : Ace)
+MathisKcr shows [9h Kd] (One pair : 9)
+MathisKcr collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Board: [7h 3s 9d 8h As]
+Seat 2: PABLOKing680 (small blind) (button) showed [Qd 4h] and lost with High card : Ace
+Seat 3: MathisKcr (big blind) showed [9h Kd] and won 430 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4600956807869890561-8-1772371552 - Holdem no limit (20/40) - 2026/03/01 13:25:52 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PABLOKing680 (470)
+Seat 3: MathisKcr (430)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+PABLOKing680 posts big blind 40
+Dealt to MathisKcr [Qh 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+PABLOKing680 raises 40 to 120
+MathisKcr calls 40
+*** FLOP *** [8d Kh Jd]
+PABLOKing680 bets 40
+MathisKcr folds
+PABLOKing680 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [8d Kh Jd]
+Seat 2: PABLOKing680 (big blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4600956807869890561-9-1772371567 - Holdem no limit (30/60) - 2026/03/01 13:26:07 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PABLOKing680 (590)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+PABLOKing680 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qd Jc]
+*** PRE-FLOP *** 
+PABLOKing680 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4600956807869890561-10-1772371573 - Holdem no limit (30/60) - 2026/03/01 13:26:13 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PABLOKing680 (560)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+PABLOKing680 posts big blind 60
+Dealt to MathisKcr [Ts Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 340 and is all-in
+PABLOKing680 calls 280
+*** FLOP *** [Qc Js Kh]
+*** TURN *** [Qc Js Kh][4s]
+*** RIVER *** [Qc Js Kh 4s][9s]
+*** SHOW DOWN ***
+PABLOKing680 shows [9d Qd] (Two pairs : Queens and 9)
+MathisKcr shows [Ts Jh] (Straight King high)
+MathisKcr collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Qc Js Kh 4s 9s]
+Seat 2: PABLOKing680 (big blind) showed [9d Qd] and lost with Two pairs : Queens and 9
+Seat 3: MathisKcr (small blind) (button) showed [Ts Jh] and won 680 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4600956807869890561-11-1772371588 - Holdem no limit (30/60) - 2026/03/01 13:26:28 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PABLOKing680 (220)
+Seat 3: MathisKcr (680)
+*** ANTE/BLINDS ***
+PABLOKing680 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [3h 8d]
+*** PRE-FLOP *** 
+PABLOKing680 raises 120 to 180
+MathisKcr folds
+PABLOKing680 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: PABLOKing680 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4600956807869890561-12-1772371594 - Holdem no limit (30/60) - 2026/03/01 13:26:34 UTC
+Table: 'Expresso Nitro(1071243735)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PABLOKing680 (280)
+Seat 3: MathisKcr (620)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+PABLOKing680 posts big blind 60
+Dealt to MathisKcr [2s 2c]
+*** PRE-FLOP *** 
+MathisKcr raises 560 to 620 and is all-in
+PABLOKing680 calls 220 and is all-in
+*** FLOP *** [2d 9s 9d]
+*** TURN *** [2d 9s 9d][6s]
+*** RIVER *** [2d 9s 9d 6s][Kc]
+*** SHOW DOWN ***
+PABLOKing680 shows [Ac Tc] (One pair : 9)
+MathisKcr shows [2s 2c] (Full of 2 and 9)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d 9s 9d 6s Kc]
+Seat 2: PABLOKing680 (big blind) showed [Ac Tc] and lost with One pair : 9
+Seat 3: MathisKcr (small blind) (button) showed [2s 2c] and won 900 with Full of 2 and 9
+
+

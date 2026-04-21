@@ -1,0 +1,310 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4454111888904552449-1-1766692596 - Holdem no limit (10/20) - 2025/12/25 19:56:36 UTC
+Table: 'Starting Block WiPT(1037053738)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Pharaondu63 (1500)
+Seat 2: MathisKcr (1500)
+Seat 3: Nathlaboy95 (1500)
+Seat 4: Cotscots (1500)
+Seat 5: renlesjeton (1500)
+Seat 6: XLQ 44 (1500)
+*** ANTE/BLINDS ***
+XLQ 44 posts small blind 10
+Pharaondu63 posts big blind 20
+Dealt to MathisKcr [4c Ad]
+*** PRE-FLOP *** 
+MathisKcr folds
+Nathlaboy95 calls 20
+Cotscots folds
+renlesjeton raises 1480 to 1500 and is all-in
+XLQ 44 folds
+Pharaondu63 folds
+Nathlaboy95 folds
+renlesjeton collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Seat 5: renlesjeton (button) won 1550
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4454111888904552449-2-1766692666 - Holdem no limit (10/20) - 2025/12/25 19:57:46 UTC
+Table: 'Starting Block WiPT(1037053738)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Pharaondu63 (1480)
+Seat 2: MathisKcr (1500)
+Seat 3: Nathlaboy95 (1480)
+Seat 4: Cotscots (1500)
+Seat 5: renlesjeton (1550)
+Seat 6: XLQ 44 (1490)
+*** ANTE/BLINDS ***
+Pharaondu63 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kc Ah]
+*** PRE-FLOP *** 
+Nathlaboy95 folds
+Cotscots calls 20
+renlesjeton calls 20
+XLQ 44 calls 20
+Pharaondu63 raises 1460 to 1480 and is all-in
+MathisKcr folds
+Cotscots calls 1460
+renlesjeton folds
+XLQ 44 folds
+*** FLOP *** [8c Qh 5c]
+*** TURN *** [8c Qh 5c][7s]
+*** RIVER *** [8c Qh 5c 7s][6c]
+*** SHOW DOWN ***
+Cotscots shows [9d Th] (Straight Ten high)
+Pharaondu63 shows [7c Tc] (Flush Ten high)
+Pharaondu63 collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [8c Qh 5c 7s 6c]
+Seat 1: Pharaondu63 (small blind) showed [7c Tc] and won 3020 with Flush Ten high
+Seat 4: Cotscots showed [9d Th] and lost with Straight Ten high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4454111888904552449-3-1766692718 - Holdem no limit (15/30) - 2025/12/25 19:58:38 UTC
+Table: 'Starting Block WiPT(1037053738)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Pharaondu63 (3020)
+Seat 2: MathisKcr (1480)
+Seat 3: Nathlaboy95 (1480)
+Seat 4: Cotscots (20)
+Seat 5: renlesjeton (1530)
+Seat 6: XLQ 44 (1470)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Nathlaboy95 posts big blind 30
+Dealt to MathisKcr [2s Ks]
+*** PRE-FLOP *** 
+Cotscots calls 20 and is all-in
+renlesjeton raises 1500 to 1530 and is all-in
+XLQ 44 calls 1470 and is all-in
+Pharaondu63 folds
+MathisKcr folds
+Nathlaboy95 calls 1450 and is all-in
+*** FLOP *** [Js 7c 8c]
+*** TURN *** [Js 7c 8c][3c]
+*** RIVER *** [Js 7c 8c 3c][7d]
+*** SHOW DOWN ***
+Cotscots shows [Kc 7h] (Trips of 7)
+XLQ 44 shows [5s 5d] (Two pairs : 7 and 5)
+Nathlaboy95 shows [Jh Jc] (Full of Jacks and 7)
+renlesjeton shows [Tc Th] (Two pairs : Tens and 7)
+renlesjeton collected 50 from side pot 1
+Nathlaboy95 collected 4465 from main pot
+*** SUMMARY ***
+Total pot 4515 | No rake
+Board: [Js 7c 8c 3c 7d]
+Seat 3: Nathlaboy95 (big blind) showed [Jh Jc] and won 4465 with Full of Jacks and 7
+Seat 4: Cotscots showed [Kc 7h] and lost with Trips of 7
+Seat 5: renlesjeton showed [Tc Th] and won 50 with Two pairs : Tens and 7
+Seat 6: XLQ 44 showed [5s 5d] and lost with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4454111888904552449-4-1766692749 - Holdem no limit (15/30) - 2025/12/25 19:59:09 UTC
+Table: 'Starting Block WiPT(1037053738)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Pharaondu63 (3020)
+Seat 2: MathisKcr (1465)
+Seat 3: Nathlaboy95 (4465)
+Seat 5: renlesjeton (50)
+*** ANTE/BLINDS ***
+Nathlaboy95 posts small blind 15
+renlesjeton posts big blind 30
+Dealt to MathisKcr [2s 9s]
+*** PRE-FLOP *** 
+Pharaondu63 calls 30
+MathisKcr folds
+Nathlaboy95 calls 15
+renlesjeton raises 20 to 50 and is all-in
+Pharaondu63 calls 20
+Nathlaboy95 calls 20
+*** FLOP *** [Tc Kh 9d]
+Nathlaboy95 checks
+Pharaondu63 checks
+*** TURN *** [Tc Kh 9d][4c]
+Nathlaboy95 checks
+Pharaondu63 checks
+*** RIVER *** [Tc Kh 9d 4c][Qd]
+Nathlaboy95 checks
+Pharaondu63 checks
+*** SHOW DOWN ***
+Pharaondu63 shows [Kc 3h] (One pair : Kings)
+Nathlaboy95 shows [Js 5c] (Straight King high)
+renlesjeton shows [Jc Kd] (Straight King high)
+renlesjeton collected 75 from pot
+Nathlaboy95 collected 75 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Tc Kh 9d 4c Qd]
+Seat 1: Pharaondu63 showed [Kc 3h] and lost with One pair : Kings
+Seat 3: Nathlaboy95 (small blind) showed [Js 5c] and won 75 with Straight King high
+Seat 5: renlesjeton (big blind) showed [Jc Kd] and won 75 with Straight King high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4454111888904552449-5-1766692810 - Holdem no limit (20/40) - 2025/12/25 20:00:10 UTC
+Table: 'Starting Block WiPT(1037053738)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Pharaondu63 (2970)
+Seat 2: MathisKcr (1465)
+Seat 3: Nathlaboy95 (4490)
+Seat 5: renlesjeton (75)
+*** ANTE/BLINDS ***
+renlesjeton posts small blind 20
+Pharaondu63 posts big blind 40
+Dealt to MathisKcr [Jd Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 120
+Nathlaboy95 calls 120
+renlesjeton calls 55 and is all-in
+Pharaondu63 calls 80
+*** FLOP *** [Tc 4s 3d]
+Pharaondu63 checks
+MathisKcr bets 120
+Nathlaboy95 folds
+Pharaondu63 calls 120
+*** TURN *** [Tc 4s 3d][Th]
+Pharaondu63 checks
+MathisKcr checks
+*** RIVER *** [Tc 4s 3d Th][6d]
+Pharaondu63 checks
+MathisKcr bets 120
+Pharaondu63 calls 120
+*** SHOW DOWN ***
+MathisKcr shows [Jd Ad] (One pair : Tens)
+renlesjeton shows [Ks 4h] (Two pairs : Tens and 4)
+Pharaondu63 shows [6c 3h] (Two pairs : Tens and 6)
+Pharaondu63 collected 915 from pot
+*** SUMMARY ***
+Total pot 915 | No rake
+Board: [Tc 4s 3d Th 6d]
+Seat 1: Pharaondu63 (big blind) showed [6c 3h] and won 915 with Two pairs : Tens and 6
+Seat 2: MathisKcr showed [Jd Ad] and lost with One pair : Tens
+Seat 5: renlesjeton (small blind) showed [Ks 4h] and lost with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4454111888904552449-6-1766692859 - Holdem no limit (20/40) - 2025/12/25 20:00:59 UTC
+Table: 'Starting Block WiPT(1037053738)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Pharaondu63 (3525)
+Seat 2: MathisKcr (1105)
+Seat 3: Nathlaboy95 (4370)
+*** ANTE/BLINDS ***
+Pharaondu63 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3d 2h]
+*** PRE-FLOP *** 
+Nathlaboy95 folds
+Pharaondu63 calls 20
+MathisKcr checks
+*** FLOP *** [9d 8s As]
+Pharaondu63 checks
+MathisKcr checks
+*** TURN *** [9d 8s As][Qc]
+Pharaondu63 checks
+MathisKcr checks
+*** RIVER *** [9d 8s As Qc][3s]
+Pharaondu63 bets 80
+MathisKcr calls 80
+*** SHOW DOWN ***
+MathisKcr shows [3d 2h] (One pair : 3)
+Pharaondu63 shows [8d 9h] (Two pairs : 9 and 8)
+Pharaondu63 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9d 8s As Qc 3s]
+Seat 1: Pharaondu63 (small blind) showed [8d 9h] and won 240 with Two pairs : 9 and 8
+Seat 2: MathisKcr (big blind) showed [3d 2h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4454111888904552449-7-1766692884 - Holdem no limit (30/60) - 2025/12/25 20:01:24 UTC
+Table: 'Starting Block WiPT(1037053738)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Pharaondu63 (3645)
+Seat 2: MathisKcr (985)
+Seat 3: Nathlaboy95 (4370)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Nathlaboy95 posts big blind 60
+Dealt to MathisKcr [Ts 3d]
+*** PRE-FLOP *** 
+Pharaondu63 raises 90 to 150
+MathisKcr folds
+Nathlaboy95 calls 90
+*** FLOP *** [8s Th 3c]
+Nathlaboy95 bets 60
+Pharaondu63 calls 60
+*** TURN *** [8s Th 3c][9s]
+Nathlaboy95 checks
+Pharaondu63 checks
+*** RIVER *** [8s Th 3c 9s][8c]
+Nathlaboy95 checks
+Pharaondu63 bets 450
+Nathlaboy95 folds
+Pharaondu63 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s Th 3c 9s 8c]
+Seat 1: Pharaondu63 (button) won 900
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4454111888904552449-8-1766692916 - Holdem no limit (30/60) - 2025/12/25 20:01:56 UTC
+Table: 'Starting Block WiPT(1037053738)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Pharaondu63 (3885)
+Seat 2: MathisKcr (955)
+Seat 3: Nathlaboy95 (4160)
+*** ANTE/BLINDS ***
+Nathlaboy95 posts small blind 30
+Pharaondu63 posts big blind 60
+Dealt to MathisKcr [Jd 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+Nathlaboy95 calls 90
+Pharaondu63 calls 60
+*** FLOP *** [4s 3c 5h]
+Nathlaboy95 checks
+Pharaondu63 checks
+MathisKcr checks
+*** TURN *** [4s 3c 5h][Tc]
+Nathlaboy95 checks
+Pharaondu63 checks
+MathisKcr checks
+*** RIVER *** [4s 3c 5h Tc][5c]
+Nathlaboy95 checks
+Pharaondu63 checks
+MathisKcr checks
+*** SHOW DOWN ***
+Pharaondu63 shows [6c 9s] (One pair : 5)
+MathisKcr shows [Jd 7s] (One pair : 5)
+Nathlaboy95 shows [Td 6d] (Two pairs : Tens and 5)
+Nathlaboy95 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [4s 3c 5h Tc 5c]
+Seat 1: Pharaondu63 (big blind) showed [6c 9s] and lost with One pair : 5
+Seat 2: MathisKcr (button) showed [Jd 7s] and lost with One pair : 5
+Seat 3: Nathlaboy95 (small blind) showed [Td 6d] and won 360 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4454111888904552449-9-1766692968 - Holdem no limit (40/80) - 2025/12/25 20:02:48 UTC
+Table: 'Starting Block WiPT(1037053738)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Pharaondu63 (3765)
+Seat 2: MathisKcr (835)
+Seat 3: Nathlaboy95 (4400)
+*** ANTE/BLINDS ***
+Pharaondu63 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Td Ts]
+*** PRE-FLOP *** 
+Nathlaboy95 raises 4320 to 4400 and is all-in
+Pharaondu63 calls 3725 and is all-in
+MathisKcr calls 755 and is all-in
+*** FLOP *** [Jc 4s 9c]
+*** TURN *** [Jc 4s 9c][8c]
+*** RIVER *** [Jc 4s 9c 8c][4c]
+*** SHOW DOWN ***
+Pharaondu63 shows [7s 7h] (Two pairs : 7 and 4)
+MathisKcr shows [Td Ts] (Two pairs : Tens and 4)
+Nathlaboy95 shows [Jh Ah] (Two pairs : Jacks and 4)
+Nathlaboy95 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Board: [Jc 4s 9c 8c 4c]
+Seat 1: Pharaondu63 (small blind) showed [7s 7h] and lost with Two pairs : 7 and 4
+Seat 2: MathisKcr (big blind) showed [Td Ts] and lost with Two pairs : Tens and 4
+Seat 3: Nathlaboy95 (button) showed [Jh Ah] and won 9000 with Two pairs : Jacks and 4
+
+

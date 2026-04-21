@@ -1,0 +1,50 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668472422452690945-1-1774795011 - Holdem no limit (10/20) - 2026/03/29 14:36:51 UTC
+Table: 'Expresso Nitro(1086963439)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AnePlaisant5 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Llanes777 (300)
+*** ANTE/BLINDS ***
+Llanes777 posts small blind 10
+AnePlaisant5 posts big blind 20
+Dealt to MathisKcr [Td 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Llanes777 raises 260 to 300 and is all-in
+AnePlaisant5 folds
+MathisKcr folds
+Llanes777 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: Llanes777 (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668472422452690945-2-1774795033 - Holdem no limit (10/20) - 2026/03/29 14:37:13 UTC
+Table: 'Expresso Nitro(1086963439)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AnePlaisant5 (280)
+Seat 2: MathisKcr (260)
+Seat 3: Llanes777 (360)
+*** ANTE/BLINDS ***
+AnePlaisant5 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kh Jh]
+*** PRE-FLOP *** 
+Llanes777 raises 340 to 360 and is all-in
+AnePlaisant5 calls 270 and is all-in
+MathisKcr calls 240 and is all-in
+*** FLOP *** [5h Td 7d]
+*** TURN *** [5h Td 7d][4s]
+*** RIVER *** [5h Td 7d 4s][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [Kh Jh] (One pair : Tens)
+AnePlaisant5 shows [Qs 7s] (Two pairs : Tens and 7)
+Llanes777 shows [6s Kc] (One pair : Tens)
+Llanes777 collected 80 from side pot 1
+AnePlaisant5 collected 820 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5h Td 7d 4s Ts]
+Seat 1: AnePlaisant5 (small blind) showed [Qs 7s] and won 820 with Two pairs : Tens and 7
+Seat 2: MathisKcr (big blind) showed [Kh Jh] and lost with One pair : Tens
+Seat 3: Llanes777 (button) showed [6s Kc] and won 80 with One pair : Tens
+
+

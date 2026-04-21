@@ -1,0 +1,94 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670902167056416769-1-1774889930 - Holdem no limit (10/20) - 2026/03/30 16:58:50 UTC
+Table: 'Expresso Nitro(1087529158)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Xyanosx (300)
+Seat 2: 2-BU-FF-LE-9 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Xyanosx posts big blind 20
+Dealt to MathisKcr [9d 8h]
+*** PRE-FLOP *** 
+2-BU-FF-LE-9 raises 280 to 300 and is all-in
+MathisKcr folds
+Xyanosx calls 280 and is all-in
+*** FLOP *** [Ah 5d 6h]
+*** TURN *** [Ah 5d 6h][4c]
+*** RIVER *** [Ah 5d 6h 4c][3h]
+*** SHOW DOWN ***
+2-BU-FF-LE-9 shows [As Jd] (One pair : Aces)
+Xyanosx shows [8s 7h] (Straight 8 high)
+Xyanosx collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Ah 5d 6h 4c 3h]
+Seat 1: Xyanosx (big blind) showed [8s 7h] and won 610 with Straight 8 high
+Seat 2: 2-BU-FF-LE-9 (button) showed [As Jd] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670902167056416769-2-1774889951 - Holdem no limit (10/20) - 2026/03/30 16:59:11 UTC
+Table: 'Expresso Nitro(1087529158)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Xyanosx (610)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Xyanosx posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c Jc]
+*** PRE-FLOP *** 
+Xyanosx folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670902167056416769-3-1774889955 - Holdem no limit (10/20) - 2026/03/30 16:59:15 UTC
+Table: 'Expresso Nitro(1087529158)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Xyanosx (600)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Xyanosx posts big blind 20
+Dealt to MathisKcr [8s 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+Xyanosx calls 280
+*** FLOP *** [2d 7d 4c]
+*** TURN *** [2d 7d 4c][4d]
+*** RIVER *** [2d 7d 4c 4d][4s]
+*** SHOW DOWN ***
+Xyanosx shows [6h Ah] (Trips of 4)
+MathisKcr shows [8s 8c] (Full of 4 and 8)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [2d 7d 4c 4d 4s]
+Seat 1: Xyanosx (big blind) showed [6h Ah] and lost with Trips of 4
+Seat 3: MathisKcr (small blind) (button) showed [8s 8c] and won 600 with Full of 4 and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670902167056416769-4-1774889970 - Holdem no limit (10/20) - 2026/03/30 16:59:30 UTC
+Table: 'Expresso Nitro(1087529158)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Xyanosx (300)
+Seat 3: MathisKcr (600)
+*** ANTE/BLINDS ***
+Xyanosx posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ac 5h]
+*** PRE-FLOP *** 
+Xyanosx raises 40 to 60
+MathisKcr raises 540 to 600 and is all-in
+Xyanosx calls 240 and is all-in
+*** FLOP *** [7c 3h 2s]
+*** TURN *** [7c 3h 2s][3d]
+*** RIVER *** [7c 3h 2s 3d][6h]
+*** SHOW DOWN ***
+Xyanosx shows [Jh 8h] (One pair : 3)
+MathisKcr shows [Ac 5h] (One pair : 3)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c 3h 2s 3d 6h]
+Seat 1: Xyanosx (small blind) (button) showed [Jh 8h] and lost with One pair : 3
+Seat 3: MathisKcr (big blind) showed [Ac 5h] and won 900 with One pair : 3
+
+

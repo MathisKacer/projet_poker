@@ -1,0 +1,132 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668515260456501249-1-1774796534 - Holdem no limit (10/20) - 2026/03/29 15:02:14 UTC
+Table: 'Expresso Nitro(1086973413)#0' 3-max (real money) Seat #2 is the button
+Seat 1: inedit 30831 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Run_ma_poule (300)
+*** ANTE/BLINDS ***
+Run_ma_poule posts small blind 10
+inedit 30831 posts big blind 20
+Dealt to MathisKcr [Kc Qd]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Run_ma_poule calls 30
+inedit 30831 folds
+*** FLOP *** [Ah Qh 5d]
+Run_ma_poule checks
+MathisKcr bets 35
+Run_ma_poule calls 35
+*** TURN *** [Ah Qh 5d][6c]
+Run_ma_poule checks
+MathisKcr checks
+*** RIVER *** [Ah Qh 5d 6c][9c]
+Run_ma_poule checks
+MathisKcr checks
+*** SHOW DOWN ***
+Run_ma_poule shows [Qs 4c] (One pair : Queens)
+MathisKcr shows [Kc Qd] (One pair : Queens)
+MathisKcr collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [Ah Qh 5d 6c 9c]
+Seat 2: MathisKcr (button) showed [Kc Qd] and won 170 with One pair : Queens
+Seat 3: Run_ma_poule (small blind) showed [Qs 4c] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668515260456501249-2-1774796562 - Holdem no limit (10/20) - 2026/03/29 15:02:42 UTC
+Table: 'Expresso Nitro(1086973413)#0' 3-max (real money) Seat #3 is the button
+Seat 1: inedit 30831 (280)
+Seat 2: MathisKcr (395)
+Seat 3: Run_ma_poule (225)
+*** ANTE/BLINDS ***
+inedit 30831 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jh 9d]
+*** PRE-FLOP *** 
+Run_ma_poule folds
+inedit 30831 calls 10
+MathisKcr checks
+*** FLOP *** [2s Kc Ac]
+inedit 30831 checks
+MathisKcr checks
+*** TURN *** [2s Kc Ac][9s]
+inedit 30831 checks
+MathisKcr bets 26
+inedit 30831 folds
+MathisKcr collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [2s Kc Ac 9s]
+Seat 2: MathisKcr (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668515260456501249-3-1774796577 - Holdem no limit (10/20) - 2026/03/29 15:02:57 UTC
+Table: 'Expresso Nitro(1086973413)#0' 3-max (real money) Seat #1 is the button
+Seat 1: inedit 30831 (260)
+Seat 2: MathisKcr (415)
+Seat 3: Run_ma_poule (225)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Run_ma_poule posts big blind 20
+Dealt to MathisKcr [8d 5s]
+*** PRE-FLOP *** 
+inedit 30831 calls 20
+MathisKcr folds
+Run_ma_poule raises 205 to 225 and is all-in
+inedit 30831 calls 205
+*** FLOP *** [Th 7h 4c]
+*** TURN *** [Th 7h 4c][Kc]
+*** RIVER *** [Th 7h 4c Kc][Qc]
+*** SHOW DOWN ***
+Run_ma_poule shows [5d As] (High card : Ace)
+inedit 30831 shows [Jc Tc] (Flush King high)
+inedit 30831 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [Th 7h 4c Kc Qc]
+Seat 1: inedit 30831 (button) showed [Jc Tc] and won 460 with Flush King high
+Seat 3: Run_ma_poule (big blind) showed [5d As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668515260456501249-4-1774796597 - Holdem no limit (15/30) - 2026/03/29 15:03:17 UTC
+Table: 'Expresso Nitro(1086973413)#0' 3-max (real money) Seat #1 is the button
+Seat 1: inedit 30831 (495)
+Seat 2: MathisKcr (405)
+*** ANTE/BLINDS ***
+inedit 30831 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jh Th]
+*** PRE-FLOP *** 
+inedit 30831 calls 15
+MathisKcr raises 375 to 405 and is all-in
+inedit 30831 folds
+MathisKcr collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Seat 2: MathisKcr (big blind) won 435
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668515260456501249-5-1774796606 - Holdem no limit (15/30) - 2026/03/29 15:03:26 UTC
+Table: 'Expresso Nitro(1086973413)#0' 3-max (real money) Seat #2 is the button
+Seat 1: inedit 30831 (465)
+Seat 2: MathisKcr (435)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+inedit 30831 posts big blind 30
+Dealt to MathisKcr [Js 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 405 to 435 and is all-in
+inedit 30831 calls 405
+*** FLOP *** [Ts 8d 3d]
+*** TURN *** [Ts 8d 3d][8c]
+*** RIVER *** [Ts 8d 3d 8c][5c]
+*** SHOW DOWN ***
+MathisKcr shows [Js 9s] (One pair : 8)
+inedit 30831 shows [9h Ac] (One pair : 8)
+inedit 30831 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Board: [Ts 8d 3d 8c 5c]
+Seat 1: inedit 30831 (big blind) showed [9h Ac] and won 870 with One pair : 8
+Seat 2: MathisKcr (small blind) (button) showed [Js 9s] and lost with One pair : 8
+
+

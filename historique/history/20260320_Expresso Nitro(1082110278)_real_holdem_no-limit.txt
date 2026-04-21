@@ -1,0 +1,57 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4647628254675468289-1-1773999247 - Holdem no limit (10/20) - 2026/03/20 09:34:07 UTC
+Table: 'Expresso Nitro(1082110278)#0' 3-max (real money) Seat #2 is the button
+Seat 1: 4irva Ye-Bi (300)
+Seat 2: FuckLes1mPot (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+4irva Ye-Bi posts big blind 20
+Dealt to MathisKcr [4h 2h]
+*** PRE-FLOP *** 
+FuckLes1mPot raises 280 to 300 and is all-in
+MathisKcr folds
+4irva Ye-Bi folds
+FuckLes1mPot collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: FuckLes1mPot (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4647628254675468289-2-1773999256 - Holdem no limit (10/20) - 2026/03/20 09:34:16 UTC
+Table: 'Expresso Nitro(1082110278)#0' 3-max (real money) Seat #3 is the button
+Seat 1: 4irva Ye-Bi (280)
+Seat 2: FuckLes1mPot (330)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+4irva Ye-Bi posts small blind 10
+FuckLes1mPot posts big blind 20
+Dealt to MathisKcr [9h 8s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+4irva Ye-Bi calls 30
+FuckLes1mPot calls 20
+*** FLOP *** [3h 6d 3d]
+4irva Ye-Bi checks
+FuckLes1mPot checks
+MathisKcr bets 42
+4irva Ye-Bi folds
+FuckLes1mPot calls 42
+*** TURN *** [3h 6d 3d][6c]
+FuckLes1mPot checks
+MathisKcr bets 102
+FuckLes1mPot calls 102
+*** RIVER *** [3h 6d 3d 6c][Ad]
+FuckLes1mPot checks
+MathisKcr bets 106 and is all-in
+FuckLes1mPot calls 106
+*** SHOW DOWN ***
+MathisKcr shows [9h 8s] (Two pairs : 6 and 3)
+FuckLes1mPot shows [Qd Kd] (Flush Ace high)
+FuckLes1mPot collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [3h 6d 3d 6c Ad]
+Seat 2: FuckLes1mPot (big blind) showed [Qd Kd] and won 620 with Flush Ace high
+Seat 3: MathisKcr (button) showed [9h 8s] and lost with Two pairs : 6 and 3
+
+

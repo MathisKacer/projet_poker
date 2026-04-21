@@ -1,0 +1,416 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345497865410314241-1-1761917087 - Holdem no limit (10/20) - 2025/10/31 13:24:47 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: KingOfBeans (500)
+Seat 3: Yayaaxx (500)
+*** ANTE/BLINDS ***
+Yayaaxx posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5h 9s]
+*** PRE-FLOP *** 
+KingOfBeans raises 20 to 40
+Yayaaxx calls 30
+MathisKcr calls 20
+*** FLOP *** [6d Qs 3d]
+Yayaaxx checks
+MathisKcr bets 78
+KingOfBeans folds
+Yayaaxx folds
+MathisKcr collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [6d Qs 3d]
+Seat 1: MathisKcr (big blind) won 198
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345497865410314241-2-1761917112 - Holdem no limit (10/20) - 2025/10/31 13:25:12 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (580)
+Seat 2: KingOfBeans (460)
+Seat 3: Yayaaxx (460)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+KingOfBeans posts big blind 20
+Dealt to MathisKcr [7d Qd]
+*** PRE-FLOP *** 
+Yayaaxx raises 20 to 40
+MathisKcr calls 30
+KingOfBeans folds
+*** FLOP *** [9c 4d 8c]
+MathisKcr bets 60
+Yayaaxx folds
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [9c 4d 8c]
+Seat 1: MathisKcr (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345497865410314241-3-1761917130 - Holdem no limit (10/20) - 2025/10/31 13:25:30 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (640)
+Seat 2: KingOfBeans (440)
+Seat 3: Yayaaxx (420)
+*** ANTE/BLINDS ***
+KingOfBeans posts small blind 10
+Yayaaxx posts big blind 20
+Dealt to MathisKcr [6h 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+KingOfBeans folds
+Yayaaxx calls 20
+*** FLOP *** [6d Th Ah]
+Yayaaxx checks
+MathisKcr bets 90
+Yayaaxx calls 90
+*** TURN *** [6d Th Ah][2d]
+Yayaaxx checks
+MathisKcr bets 270
+Yayaaxx folds
+MathisKcr collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [6d Th Ah 2d]
+Seat 1: MathisKcr (button) won 540
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345497865410314241-4-1761917156 - Holdem no limit (10/20) - 2025/10/31 13:25:56 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (780)
+Seat 2: KingOfBeans (430)
+Seat 3: Yayaaxx (290)
+*** ANTE/BLINDS ***
+Yayaaxx posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c 5d]
+*** PRE-FLOP *** 
+KingOfBeans folds
+Yayaaxx raises 40 to 60
+MathisKcr raises 720 to 780 and is all-in
+Yayaaxx calls 230 and is all-in
+*** FLOP *** [Ks Qd Ts]
+*** TURN *** [Ks Qd Ts][4s]
+*** RIVER *** [Ks Qd Ts 4s][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [5c 5d] (Two pairs : Kings and 5)
+Yayaaxx shows [9d 9h] (Two pairs : Kings and 9)
+Yayaaxx collected 580 from main pot
+MathisKcr collected 490 from side pot 1
+*** SUMMARY ***
+Total pot 1070 | No rake
+Board: [Ks Qd Ts 4s Kc]
+Seat 1: MathisKcr (big blind) showed [5c 5d] and won 490 with Two pairs : Kings and 5
+Seat 3: Yayaaxx (small blind) showed [9d 9h] and won 580 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345497865410314241-5-1761917172 - Holdem no limit (10/20) - 2025/10/31 13:26:12 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (490)
+Seat 2: KingOfBeans (430)
+Seat 3: Yayaaxx (580)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+KingOfBeans posts big blind 20
+Dealt to MathisKcr [7s 4c]
+*** PRE-FLOP *** 
+Yayaaxx raises 50 to 70
+MathisKcr folds
+KingOfBeans folds
+Yayaaxx collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: Yayaaxx (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4345497865410314241-6-1761917179 - Holdem no limit (15/30) - 2025/10/31 13:26:19 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (480)
+Seat 2: KingOfBeans (410)
+Seat 3: Yayaaxx (610)
+*** ANTE/BLINDS ***
+KingOfBeans posts small blind 15
+Yayaaxx posts big blind 30
+Dealt to MathisKcr [Ac 2d]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 90
+KingOfBeans folds
+Yayaaxx calls 60
+*** FLOP *** [Ad Tc 4d]
+Yayaaxx checks
+MathisKcr bets 127
+Yayaaxx folds
+MathisKcr collected 322 from pot
+*** SUMMARY ***
+Total pot 322 | No rake
+Board: [Ad Tc 4d]
+Seat 1: MathisKcr (button) won 322
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4345497865410314241-7-1761917197 - Holdem no limit (15/30) - 2025/10/31 13:26:37 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (585)
+Seat 2: KingOfBeans (395)
+Seat 3: Yayaaxx (520)
+*** ANTE/BLINDS ***
+Yayaaxx posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8d Ac]
+*** PRE-FLOP *** 
+KingOfBeans raises 30 to 60
+Yayaaxx calls 45
+MathisKcr raises 30 to 90
+KingOfBeans calls 30
+Yayaaxx calls 30
+*** FLOP *** [5h Kc 8c]
+Yayaaxx checks
+MathisKcr bets 176
+KingOfBeans folds
+Yayaaxx folds
+MathisKcr collected 446 from pot
+*** SUMMARY ***
+Total pot 446 | No rake
+Board: [5h Kc 8c]
+Seat 1: MathisKcr (big blind) won 446
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4345497865410314241-8-1761917218 - Holdem no limit (15/30) - 2025/10/31 13:26:58 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (765)
+Seat 2: KingOfBeans (305)
+Seat 3: Yayaaxx (430)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+KingOfBeans posts big blind 30
+Dealt to MathisKcr [Kd 2d]
+*** PRE-FLOP *** 
+Yayaaxx calls 30
+MathisKcr calls 15
+KingOfBeans raises 275 to 305 and is all-in
+Yayaaxx folds
+MathisKcr folds
+KingOfBeans collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Seat 2: KingOfBeans (big blind) won 365
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4345497865410314241-9-1761917231 - Holdem no limit (15/30) - 2025/10/31 13:27:11 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (735)
+Seat 2: KingOfBeans (365)
+Seat 3: Yayaaxx (400)
+*** ANTE/BLINDS ***
+KingOfBeans posts small blind 15
+Yayaaxx posts big blind 30
+Dealt to MathisKcr [4c 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+KingOfBeans calls 15
+Yayaaxx checks
+*** FLOP *** [8s Jc Kc]
+KingOfBeans checks
+Yayaaxx checks
+*** TURN *** [8s Jc Kc][7h]
+KingOfBeans checks
+Yayaaxx checks
+*** RIVER *** [8s Jc Kc 7h][8c]
+KingOfBeans bets 60
+Yayaaxx folds
+KingOfBeans collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8s Jc Kc 7h 8c]
+Seat 2: KingOfBeans (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4345497865410314241-10-1761917254 - Holdem no limit (15/30) - 2025/10/31 13:27:34 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (735)
+Seat 2: KingOfBeans (395)
+Seat 3: Yayaaxx (370)
+*** ANTE/BLINDS ***
+Yayaaxx posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qh Jd]
+*** PRE-FLOP *** 
+KingOfBeans raises 365 to 395 and is all-in
+Yayaaxx folds
+MathisKcr calls 365
+*** FLOP *** [6s 2d 9c]
+*** TURN *** [6s 2d 9c][2c]
+*** RIVER *** [6s 2d 9c 2c][5c]
+*** SHOW DOWN ***
+MathisKcr shows [Qh Jd] (One pair : 2)
+KingOfBeans shows [Ad 6c] (Two pairs : 6 and 2)
+KingOfBeans collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | No rake
+Board: [6s 2d 9c 2c 5c]
+Seat 1: MathisKcr (big blind) showed [Qh Jd] and lost with One pair : 2
+Seat 2: KingOfBeans (button) showed [Ad 6c] and won 805 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4345497865410314241-11-1761917269 - Holdem no limit (20/40) - 2025/10/31 13:27:49 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (340)
+Seat 2: KingOfBeans (805)
+Seat 3: Yayaaxx (355)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+KingOfBeans posts big blind 40
+Dealt to MathisKcr [9h 9s]
+*** PRE-FLOP *** 
+Yayaaxx raises 100 to 140
+MathisKcr raises 200 to 340 and is all-in
+KingOfBeans folds
+Yayaaxx calls 200
+*** FLOP *** [Js 4h 6d]
+*** TURN *** [Js 4h 6d][Tc]
+*** RIVER *** [Js 4h 6d Tc][6h]
+*** SHOW DOWN ***
+Yayaaxx shows [As 7s] (One pair : 6)
+MathisKcr shows [9h 9s] (Two pairs : 9 and 6)
+MathisKcr collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Js 4h 6d Tc 6h]
+Seat 1: MathisKcr (small blind) showed [9h 9s] and won 720 with Two pairs : 9 and 6
+Seat 3: Yayaaxx (button) showed [As 7s] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4345497865410314241-12-1761917285 - Holdem no limit (20/40) - 2025/10/31 13:28:05 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (720)
+Seat 2: KingOfBeans (765)
+Seat 3: Yayaaxx (15)
+*** ANTE/BLINDS ***
+KingOfBeans posts small blind 20
+Yayaaxx posts big blind 15 and is all-in
+Dealt to MathisKcr [Kd Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 100 to 120
+KingOfBeans folds
+*** FLOP *** [5c 4s Ts]
+*** TURN *** [5c 4s Ts][Td]
+*** RIVER *** [5c 4s Ts Td][Jd]
+*** SHOW DOWN ***
+MathisKcr shows [Kd Qs] (One pair : Tens)
+Yayaaxx shows [Th 3s] (Trips of Tens)
+Yayaaxx collected 45 from main pot
+MathisKcr collected 110 from side pot 1
+*** SUMMARY ***
+Total pot 155 | No rake
+Board: [5c 4s Ts Td Jd]
+Seat 1: MathisKcr (button) showed [Kd Qs] and won 110 with One pair : Tens
+Seat 3: Yayaaxx (big blind) showed [Th 3s] and won 45 with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4345497865410314241-13-1761917299 - Holdem no limit (20/40) - 2025/10/31 13:28:19 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (710)
+Seat 2: KingOfBeans (745)
+Seat 3: Yayaaxx (45)
+*** ANTE/BLINDS ***
+Yayaaxx posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ac 5c]
+*** PRE-FLOP *** 
+KingOfBeans folds
+Yayaaxx raises 5 to 45 and is all-in
+MathisKcr calls 5
+*** FLOP *** [4h 9c Ad]
+*** TURN *** [4h 9c Ad][Ts]
+*** RIVER *** [4h 9c Ad Ts][6s]
+*** SHOW DOWN ***
+Yayaaxx shows [9s Kh] (One pair : 9)
+MathisKcr shows [Ac 5c] (One pair : Aces)
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [4h 9c Ad Ts 6s]
+Seat 1: MathisKcr (big blind) showed [Ac 5c] and won 90 with One pair : Aces
+Seat 3: Yayaaxx (small blind) showed [9s Kh] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4345497865410314241-14-1761917314 - Holdem no limit (20/40) - 2025/10/31 13:28:34 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (755)
+Seat 2: KingOfBeans (745)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+KingOfBeans posts big blind 40
+Dealt to MathisKcr [2s 9d]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+KingOfBeans checks
+*** FLOP *** [3c 3h 6s]
+KingOfBeans checks
+MathisKcr bets 80
+KingOfBeans calls 80
+*** TURN *** [3c 3h 6s][6h]
+KingOfBeans checks
+MathisKcr bets 156
+KingOfBeans calls 156
+*** RIVER *** [3c 3h 6s 6h][9c]
+KingOfBeans checks
+MathisKcr bets 479 and is all-in
+KingOfBeans calls 469 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [2s 9d] (Two pairs : 9 and 6)
+KingOfBeans shows [3s 2d] (Full of 3 and 6)
+KingOfBeans collected 1490 from main pot
+MathisKcr collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [3c 3h 6s 6h 9c]
+Seat 1: MathisKcr (small blind) (button) showed [2s 9d] and won 10 with Two pairs : 9 and 6
+Seat 2: KingOfBeans (big blind) showed [3s 2d] and won 1490 with Full of 3 and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4345497865410314241-15-1761917353 - Holdem no limit (20/40) - 2025/10/31 13:29:13 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (10)
+Seat 2: KingOfBeans (1490)
+*** ANTE/BLINDS ***
+KingOfBeans posts small blind 20
+MathisKcr posts big blind 10 and is all-in
+Dealt to MathisKcr [Js Kd]
+*** PRE-FLOP *** 
+*** FLOP *** [Kc Tc 7s]
+*** TURN *** [Kc Tc 7s][3d]
+*** RIVER *** [Kc Tc 7s 3d][Ah]
+*** SHOW DOWN ***
+MathisKcr shows [Js Kd] (One pair : Kings)
+KingOfBeans shows [5d 3c] (One pair : 3)
+KingOfBeans collected 10 from side pot 1
+MathisKcr collected 20 from main pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [Kc Tc 7s 3d Ah]
+Seat 1: MathisKcr (big blind) showed [Js Kd] and won 20 with One pair : Kings
+Seat 2: KingOfBeans (small blind) (button) showed [5d 3c] and won 10 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4345497865410314241-16-1761917362 - Holdem no limit (30/60) - 2025/10/31 13:29:22 UTC
+Table: 'Expresso(1011765065)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (20)
+Seat 2: KingOfBeans (1480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20 and is all-in
+KingOfBeans posts big blind 60
+Dealt to MathisKcr [7c Ac]
+*** PRE-FLOP *** 
+*** FLOP *** [Th Qs 8s]
+*** TURN *** [Th Qs 8s][5d]
+*** RIVER *** [Th Qs 8s 5d][2s]
+*** SHOW DOWN ***
+MathisKcr shows [7c Ac] (High card : Ace)
+KingOfBeans shows [Qh Kc] (One pair : Queens)
+KingOfBeans collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Th Qs 8s 5d 2s]
+Seat 1: MathisKcr (small blind) (button) showed [7c Ac] and lost with High card : Ace
+Seat 2: KingOfBeans (big blind) showed [Qh Kc] and won 80 with One pair : Queens
+
+

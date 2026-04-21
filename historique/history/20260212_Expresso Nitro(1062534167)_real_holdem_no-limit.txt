@@ -1,0 +1,36 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4563549498147602433-1-1770886067 - Holdem no limit (10/20) - 2026/02/12 08:47:47 UTC
+Table: 'Expresso Nitro(1062534167)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Riche_tof (300)
+Seat 2: MathisKcr (300)
+Seat 3: franc_Ange42 (300)
+*** ANTE/BLINDS ***
+Riche_tof posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd Qc]
+*** PRE-FLOP *** 
+franc_Ange42 folds
+Riche_tof calls 10
+MathisKcr raises 30 to 50
+Riche_tof calls 30
+*** FLOP *** [Ks Qh 7s]
+Riche_tof checks
+MathisKcr bets 35
+Riche_tof calls 35
+*** TURN *** [Ks Qh 7s][6c]
+Riche_tof checks
+MathisKcr bets 43
+Riche_tof calls 43
+*** RIVER *** [Ks Qh 7s 6c][Kc]
+Riche_tof bets 172 and is all-in
+MathisKcr calls 172 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [Jd Qc] (Two pairs : Kings and Queens)
+Riche_tof shows [Kh 4h] (Trips of Kings)
+Riche_tof collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ks Qh 7s 6c Kc]
+Seat 1: Riche_tof (small blind) showed [Kh 4h] and won 600 with Trips of Kings
+Seat 2: MathisKcr (big blind) showed [Jd Qc] and lost with Two pairs : Kings and Queens
+
+

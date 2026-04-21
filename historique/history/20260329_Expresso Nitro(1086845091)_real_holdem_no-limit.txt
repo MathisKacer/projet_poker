@@ -1,0 +1,100 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667964121663143937-1-1774774626 - Holdem no limit (10/20) - 2026/03/29 08:57:06 UTC
+Table: 'Expresso Nitro(1086845091)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fred5935 (300)
+Seat 2: Indianul75 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+fred5935 posts big blind 20
+Dealt to MathisKcr [As 7c]
+*** PRE-FLOP *** 
+Indianul75 raises 280 to 300 and is all-in
+MathisKcr folds
+fred5935 folds
+Indianul75 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Indianul75 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667964121663143937-2-1774774635 - Holdem no limit (10/20) - 2026/03/29 08:57:15 UTC
+Table: 'Expresso Nitro(1086845091)#0' 3-max (real money) Seat #3 is the button
+Seat 1: fred5935 (280)
+Seat 2: Indianul75 (330)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+fred5935 posts small blind 10
+Indianul75 posts big blind 20
+Dealt to MathisKcr [7d 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+fred5935 folds
+Indianul75 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Indianul75 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667964121663143937-3-1774774641 - Holdem no limit (10/20) - 2026/03/29 08:57:21 UTC
+Table: 'Expresso Nitro(1086845091)#0' 3-max (real money) Seat #1 is the button
+Seat 1: fred5935 (270)
+Seat 2: Indianul75 (340)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Indianul75 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qc 9h]
+*** PRE-FLOP *** 
+fred5935 folds
+Indianul75 calls 10
+MathisKcr checks
+*** FLOP *** [7c 6d 9d]
+Indianul75 bets 20
+MathisKcr raises 40 to 60
+Indianul75 calls 40
+*** TURN *** [7c 6d 9d][6c]
+Indianul75 checks
+MathisKcr bets 56
+Indianul75 calls 56
+*** RIVER *** [7c 6d 9d 6c][8h]
+Indianul75 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Qc 9h] (Two pairs : 9 and 6)
+Indianul75 shows [Ts 5s] (Straight Ten high)
+Indianul75 collected 272 from pot
+*** SUMMARY ***
+Total pot 272 | No rake
+Board: [7c 6d 9d 6c 8h]
+Seat 2: Indianul75 (small blind) showed [Ts 5s] and won 272 with Straight Ten high
+Seat 3: MathisKcr (big blind) showed [Qc 9h] and lost with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667964121663143937-4-1774774669 - Holdem no limit (10/20) - 2026/03/29 08:57:49 UTC
+Table: 'Expresso Nitro(1086845091)#0' 3-max (real money) Seat #2 is the button
+Seat 1: fred5935 (270)
+Seat 2: Indianul75 (476)
+Seat 3: MathisKcr (154)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+fred5935 posts big blind 20
+Dealt to MathisKcr [6d Ad]
+*** PRE-FLOP *** 
+Indianul75 calls 20
+MathisKcr raises 134 to 154 and is all-in
+fred5935 folds
+Indianul75 calls 134
+*** FLOP *** [Jh 2s 5c]
+*** TURN *** [Jh 2s 5c][Js]
+*** RIVER *** [Jh 2s 5c Js][3d]
+*** SHOW DOWN ***
+MathisKcr shows [6d Ad] (One pair : Jacks)
+Indianul75 shows [Ah 3s] (Two pairs : Jacks and 3)
+Indianul75 collected 328 from pot
+*** SUMMARY ***
+Total pot 328 | No rake
+Board: [Jh 2s 5c Js 3d]
+Seat 2: Indianul75 (button) showed [Ah 3s] and won 328 with Two pairs : Jacks and 3
+Seat 3: MathisKcr (small blind) showed [6d Ad] and lost with One pair : Jacks
+
+

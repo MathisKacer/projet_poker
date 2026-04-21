@@ -1,0 +1,49 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4254801625136234497-1-1758031577 - Holdem no limit (10/20) - 2025/09/16 14:06:17 UTC
+Table: 'Starting Block WiPT(990648201)#0' 6-max (real money) Seat #5 is the button
+Seat 1: temhugo23 (1500)
+Seat 2: Draxel22 (1500)
+Seat 3: leito82 (1500)
+Seat 4: MathisKcr (1500)
+Seat 5: ryad_hmd (1500)
+Seat 6: LOUPING56470 (1500)
+*** ANTE/BLINDS ***
+LOUPING56470 posts small blind 10
+temhugo23 posts big blind 20
+Dealt to MathisKcr [As Tc]
+*** PRE-FLOP *** 
+Draxel22 raises 20 to 40
+leito82 calls 40
+MathisKcr raises 20 to 60
+ryad_hmd calls 60
+LOUPING56470 calls 50
+temhugo23 calls 40
+Draxel22 calls 20
+leito82 calls 20
+*** FLOP *** [Ad Td Qs]
+LOUPING56470 checks
+temhugo23 bets 126
+Draxel22 folds
+leito82 raises 126 to 252
+MathisKcr raises 126 to 378
+ryad_hmd folds
+LOUPING56470 folds
+temhugo23 calls 252
+leito82 calls 126
+*** TURN *** [Ad Td Qs][4d]
+temhugo23 bets 1062 and is all-in
+leito82 calls 1062 and is all-in
+MathisKcr calls 1062 and is all-in
+*** RIVER *** [Ad Td Qs 4d][2c]
+*** SHOW DOWN ***
+temhugo23 shows [7c Ac] (One pair : Aces)
+MathisKcr shows [As Tc] (Two pairs : Aces and Tens)
+leito82 shows [8d Qd] (Flush Ace high)
+leito82 collected 4680 from pot
+*** SUMMARY ***
+Total pot 4680 | No rake
+Board: [Ad Td Qs 4d 2c]
+Seat 1: temhugo23 (big blind) showed [7c Ac] and lost with One pair : Aces
+Seat 3: leito82 showed [8d Qd] and won 4680 with Flush Ace high
+Seat 4: MathisKcr showed [As Tc] and lost with Two pairs : Aces and Tens
+
+

@@ -1,0 +1,136 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607384763299266561-1-1772617099 - Holdem no limit (10/20) - 2026/03/04 09:38:19 UTC
+Table: 'Expresso Nitro(1072740360)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: chaource (300)
+Seat 3: pablo17139 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+chaource posts big blind 20
+Dealt to MathisKcr [7d 3h]
+*** PRE-FLOP *** 
+pablo17139 calls 20
+MathisKcr folds
+chaource raises 280 to 300 and is all-in
+pablo17139 calls 280 and is all-in
+*** FLOP *** [9s 2h Th]
+*** TURN *** [9s 2h Th][9d]
+*** RIVER *** [9s 2h Th 9d][Qh]
+*** SHOW DOWN ***
+chaource shows [Ad 6h] (One pair : 9)
+pablo17139 shows [7h Qd] (Two pairs : Queens and 9)
+pablo17139 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [9s 2h Th 9d Qh]
+Seat 2: chaource (big blind) showed [Ad 6h] and lost with One pair : 9
+Seat 3: pablo17139 (button) showed [7h Qd] and won 610 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607384763299266561-2-1772617116 - Holdem no limit (10/20) - 2026/03/04 09:38:36 UTC
+Table: 'Expresso Nitro(1072740360)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (290)
+Seat 3: pablo17139 (610)
+*** ANTE/BLINDS ***
+pablo17139 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6c 3s]
+*** PRE-FLOP *** 
+pablo17139 calls 10
+MathisKcr checks
+*** FLOP *** [Kc Kd Tc]
+MathisKcr checks
+pablo17139 checks
+*** TURN *** [Kc Kd Tc][3d]
+MathisKcr checks
+pablo17139 checks
+*** RIVER *** [Kc Kd Tc 3d][Ac]
+MathisKcr checks
+pablo17139 checks
+*** SHOW DOWN ***
+pablo17139 shows [Qs 9s] (One pair : Kings)
+MathisKcr shows [6c 3s] (Two pairs : Kings and 3)
+MathisKcr collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Kc Kd Tc 3d Ac]
+Seat 1: MathisKcr (big blind) showed [6c 3s] and won 40 with Two pairs : Kings and 3
+Seat 3: pablo17139 (small blind) (button) showed [Qs 9s] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607384763299266561-3-1772617133 - Holdem no limit (10/20) - 2026/03/04 09:38:53 UTC
+Table: 'Expresso Nitro(1072740360)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (310)
+Seat 3: pablo17139 (590)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+pablo17139 posts big blind 20
+Dealt to MathisKcr [3h 8c]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+pablo17139 checks
+*** FLOP *** [Ah Qd Js]
+pablo17139 bets 20
+MathisKcr folds
+pablo17139 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ah Qd Js]
+Seat 3: pablo17139 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607384763299266561-4-1772617142 - Holdem no limit (10/20) - 2026/03/04 09:39:02 UTC
+Table: 'Expresso Nitro(1072740360)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (290)
+Seat 3: pablo17139 (610)
+*** ANTE/BLINDS ***
+pablo17139 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Td 5h]
+*** PRE-FLOP *** 
+pablo17139 calls 10
+MathisKcr checks
+*** FLOP *** [4c 4h 8s]
+MathisKcr checks
+pablo17139 checks
+*** TURN *** [4c 4h 8s][Th]
+MathisKcr bets 20
+pablo17139 calls 20
+*** RIVER *** [4c 4h 8s Th][3c]
+MathisKcr bets 52
+pablo17139 calls 52
+*** SHOW DOWN ***
+MathisKcr shows [Td 5h] (Two pairs : Tens and 4)
+pablo17139 shows [Tc Ks] (Two pairs : Tens and 4)
+pablo17139 collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | No rake
+Board: [4c 4h 8s Th 3c]
+Seat 1: MathisKcr (big blind) showed [Td 5h] and lost with Two pairs : Tens and 4
+Seat 3: pablo17139 (small blind) (button) showed [Tc Ks] and won 184 with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4607384763299266561-5-1772617158 - Holdem no limit (15/30) - 2026/03/04 09:39:18 UTC
+Table: 'Expresso Nitro(1072740360)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (198)
+Seat 3: pablo17139 (702)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+pablo17139 posts big blind 30
+Dealt to MathisKcr [6s Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 168 to 198 and is all-in
+pablo17139 calls 168
+*** FLOP *** [9h Th Ts]
+*** TURN *** [9h Th Ts][9d]
+*** RIVER *** [9h Th Ts 9d][8h]
+*** SHOW DOWN ***
+MathisKcr shows [6s Qs] (Two pairs : Tens and 9)
+pablo17139 shows [9s 6h] (Full of 9 and Tens)
+pablo17139 collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [9h Th Ts 9d 8h]
+Seat 1: MathisKcr (small blind) (button) showed [6s Qs] and lost with Two pairs : Tens and 9
+Seat 3: pablo17139 (big blind) showed [9s 6h] and won 396 with Full of 9 and Tens
+
+

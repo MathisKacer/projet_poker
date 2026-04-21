@@ -1,0 +1,135 @@
+Winamax Poker - CashGame - HandId: #21464375-656-1758038121 - Holdem no limit (0.02€/0.05€) - 2025/09/16 15:55:21 UTC
+Table: 'Alcácer do Sal' 5-max (real money) Seat #3 is the button
+Seat 1: OP-G4937 (1.25€)
+Seat 2: FAcETi0U5 (7.63€)
+Seat 3: MathisKcr (5€)
+Seat 4: _LE BANDIT_ (5€)
+Seat 5: LaBanana (5€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.02€
+_LE BANDIT_ posts big blind 0.05€
+Dealt to MathisKcr [Qd Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 0.05€ to 0.10€
+_LE BANDIT_ folds
+MathisKcr collected 0.15€ from pot
+*** SUMMARY ***
+Total pot 0.15€ | No rake
+Seat 3: MathisKcr (small blind) (button) won 0.15€
+
+
+Winamax Poker - CashGame - HandId: #21464375-657-1758038136 - Holdem no limit (0.02€/0.05€) - 2025/09/16 15:55:36 UTC
+Table: 'Alcácer do Sal' 5-max (real money) Seat #3 is the button
+Seat 1: OP-G4937 (1.25€)
+Seat 2: FAcETi0U5 (7.63€)
+Seat 3: MathisKcr (5.05€)
+Seat 4: _LE BANDIT_ (4.95€)
+Seat 5: LaBanana (5€)
+*** ANTE/BLINDS ***
+_LE BANDIT_ posts small blind 0.02€
+LaBanana posts big blind 0.05€
+Dealt to MathisKcr [Jd Ah]
+*** PRE-FLOP *** 
+OP-G4937 calls 0.05€
+MathisKcr raises 0.05€ to 0.10€
+_LE BANDIT_ folds
+LaBanana calls 0.05€
+OP-G4937 calls 0.05€
+*** FLOP *** [5s Td Qc]
+LaBanana checks
+OP-G4937 checks
+MathisKcr bets 0.15€
+LaBanana calls 0.15€
+OP-G4937 folds
+*** TURN *** [5s Td Qc][As]
+LaBanana checks
+MathisKcr checks
+*** RIVER *** [5s Td Qc As][6s]
+LaBanana checks
+MathisKcr checks
+*** SHOW DOWN ***
+LaBanana shows [9c 8c] (High card : Ace)
+MathisKcr shows [Jd Ah] (One pair : Aces)
+MathisKcr collected 0.58€ from pot
+*** SUMMARY ***
+Total pot 0.58€ | Rake 0.04€
+Board: [5s Td Qc As 6s]
+Seat 3: MathisKcr (button) showed [Jd Ah] and won 0.58€ with One pair : Aces
+Seat 5: LaBanana (big blind) showed [9c 8c] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #21464375-658-1758038188 - Holdem no limit (0.02€/0.05€) - 2025/09/16 15:56:28 UTC
+Table: 'Alcácer do Sal' 5-max (real money) Seat #4 is the button
+Seat 1: OP-G4937 (1.15€)
+Seat 2: FAcETi0U5 (7.63€)
+Seat 3: MathisKcr (5.38€)
+Seat 4: _LE BANDIT_ (4.93€)
+Seat 5: LaBanana (5€)
+*** ANTE/BLINDS ***
+LaBanana posts small blind 0.02€
+OP-G4937 posts big blind 0.05€
+Dealt to MathisKcr [4d Ad]
+*** PRE-FLOP *** 
+MathisKcr calls 0.05€
+_LE BANDIT_ folds
+LaBanana calls 0.03€
+OP-G4937 checks
+*** FLOP *** [Ts Jh 8s]
+LaBanana checks
+OP-G4937 bets 0.05€
+MathisKcr calls 0.05€
+LaBanana folds
+*** TURN *** [Ts Jh 8s][7d]
+OP-G4937 checks
+MathisKcr checks
+*** RIVER *** [Ts Jh 8s 7d][5h]
+OP-G4937 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [4d Ad] (High card : Ace)
+OP-G4937 shows [Jd 6d] (One pair : Jacks)
+OP-G4937 collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.01€
+Board: [Ts Jh 8s 7d 5h]
+Seat 1: OP-G4937 (big blind) showed [Jd 6d] and won 0.24€ with One pair : Jacks
+Seat 3: MathisKcr showed [4d Ad] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #21464375-659-1758038236 - Holdem no limit (0.02€/0.05€) - 2025/09/16 15:57:16 UTC
+Table: 'Alcácer do Sal' 5-max (real money) Seat #5 is the button
+Seat 1: OP-G4937 (1.29€)
+Seat 2: FAcETi0U5 (7.63€)
+Seat 3: MathisKcr (5.28€)
+Seat 4: _LE BANDIT_ (4.93€)
+Seat 5: LaBanana (5€)
+*** ANTE/BLINDS ***
+OP-G4937 posts small blind 0.02€
+FAcETi0U5 posts big blind 0.05€
+Dealt to MathisKcr [6s 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+_LE BANDIT_ folds
+LaBanana folds
+OP-G4937 calls 0.03€
+FAcETi0U5 checks
+*** FLOP *** [Qh 9s 2d]
+OP-G4937 checks
+FAcETi0U5 checks
+*** TURN *** [Qh 9s 2d][4c]
+OP-G4937 checks
+FAcETi0U5 checks
+*** RIVER *** [Qh 9s 2d 4c][5d]
+OP-G4937 checks
+FAcETi0U5 checks
+*** SHOW DOWN ***
+FAcETi0U5 shows [3d 8s] (High card : Queen)
+OP-G4937 shows [6d Js] (High card : Queen)
+OP-G4937 collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | Rake 0.01€
+Board: [Qh 9s 2d 4c 5d]
+Seat 1: OP-G4937 (small blind) showed [6d Js] and won 0.09€ with High card : Queen
+Seat 2: FAcETi0U5 (big blind) showed [3d 8s] and lost with High card : Queen
+
+

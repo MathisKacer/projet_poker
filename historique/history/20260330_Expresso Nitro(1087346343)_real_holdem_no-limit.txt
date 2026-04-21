@@ -1,0 +1,253 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670116982610198529-1-1774863411 - Holdem no limit (10/20) - 2026/03/30 09:36:51 UTC
+Table: 'Expresso Nitro(1087346343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: zipette55 (300)
+Seat 3: elcazadorAK (300)
+*** ANTE/BLINDS ***
+elcazadorAK posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As 6c]
+*** PRE-FLOP *** 
+zipette55 raises 280 to 300 and is all-in
+elcazadorAK folds
+MathisKcr folds
+zipette55 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: zipette55 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670116982610198529-2-1774863424 - Holdem no limit (10/20) - 2026/03/30 09:37:04 UTC
+Table: 'Expresso Nitro(1087346343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: zipette55 (330)
+Seat 3: elcazadorAK (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+zipette55 posts big blind 20
+Dealt to MathisKcr [Jh As]
+*** PRE-FLOP *** 
+elcazadorAK calls 20
+MathisKcr raises 260 to 280 and is all-in
+zipette55 folds
+elcazadorAK folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: MathisKcr (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670116982610198529-3-1774863433 - Holdem no limit (10/20) - 2026/03/30 09:37:13 UTC
+Table: 'Expresso Nitro(1087346343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (320)
+Seat 2: zipette55 (310)
+Seat 3: elcazadorAK (270)
+*** ANTE/BLINDS ***
+zipette55 posts small blind 10
+elcazadorAK posts big blind 20
+Dealt to MathisKcr [Jd Ts]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+zipette55 calls 30
+elcazadorAK calls 20
+*** FLOP *** [9h Jh 3s]
+zipette55 bets 42
+elcazadorAK calls 42
+MathisKcr calls 42
+*** TURN *** [9h Jh 3s][Ac]
+zipette55 bets 228 and is all-in
+elcazadorAK folds
+MathisKcr folds
+zipette55 collected 474 from pot
+*** SUMMARY ***
+Total pot 474 | No rake
+Board: [9h Jh 3s Ac]
+Seat 2: zipette55 (small blind) won 474
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670116982610198529-4-1774863465 - Holdem no limit (10/20) - 2026/03/30 09:37:45 UTC
+Table: 'Expresso Nitro(1087346343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (238)
+Seat 2: zipette55 (474)
+Seat 3: elcazadorAK (188)
+*** ANTE/BLINDS ***
+elcazadorAK posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kh Qh]
+*** PRE-FLOP *** 
+zipette55 raises 20 to 40
+elcazadorAK folds
+MathisKcr raises 198 to 238 and is all-in
+zipette55 calls 198
+*** FLOP *** [2c 7s 8h]
+*** TURN *** [2c 7s 8h][4s]
+*** RIVER *** [2c 7s 8h 4s][3s]
+*** SHOW DOWN ***
+zipette55 shows [Js Qd] (High card : Queen)
+MathisKcr shows [Kh Qh] (High card : King)
+MathisKcr collected 486 from pot
+*** SUMMARY ***
+Total pot 486 | No rake
+Board: [2c 7s 8h 4s 3s]
+Seat 1: MathisKcr (big blind) showed [Kh Qh] and won 486 with High card : King
+Seat 2: zipette55 (button) showed [Js Qd] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670116982610198529-5-1774863484 - Holdem no limit (15/30) - 2026/03/30 09:38:04 UTC
+Table: 'Expresso Nitro(1087346343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (486)
+Seat 2: zipette55 (236)
+Seat 3: elcazadorAK (178)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+zipette55 posts big blind 30
+Dealt to MathisKcr [Jc 3c]
+*** PRE-FLOP *** 
+elcazadorAK folds
+MathisKcr folds
+zipette55 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: zipette55 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670116982610198529-6-1774863491 - Holdem no limit (15/30) - 2026/03/30 09:38:11 UTC
+Table: 'Expresso Nitro(1087346343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (471)
+Seat 2: zipette55 (251)
+Seat 3: elcazadorAK (178)
+*** ANTE/BLINDS ***
+zipette55 posts small blind 15
+elcazadorAK posts big blind 30
+Dealt to MathisKcr [4h 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+zipette55 raises 60 to 90
+elcazadorAK raises 88 to 178 and is all-in
+zipette55 calls 88
+*** FLOP *** [9h Td 5c]
+*** TURN *** [9h Td 5c][5d]
+*** RIVER *** [9h Td 5c 5d][Kh]
+*** SHOW DOWN ***
+zipette55 shows [4c Ac] (One pair : 5)
+elcazadorAK shows [9d Kd] (Two pairs : Kings and 9)
+elcazadorAK collected 356 from pot
+*** SUMMARY ***
+Total pot 356 | No rake
+Board: [9h Td 5c 5d Kh]
+Seat 2: zipette55 (small blind) showed [4c Ac] and lost with One pair : 5
+Seat 3: elcazadorAK (big blind) showed [9d Kd] and won 356 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670116982610198529-7-1774863505 - Holdem no limit (15/30) - 2026/03/30 09:38:25 UTC
+Table: 'Expresso Nitro(1087346343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (471)
+Seat 2: zipette55 (73)
+Seat 3: elcazadorAK (356)
+*** ANTE/BLINDS ***
+elcazadorAK posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2d 6c]
+*** PRE-FLOP *** 
+zipette55 raises 43 to 73 and is all-in
+elcazadorAK calls 58
+MathisKcr folds
+*** FLOP *** [Ac 7s 4d]
+*** TURN *** [Ac 7s 4d][6s]
+*** RIVER *** [Ac 7s 4d 6s][9h]
+*** SHOW DOWN ***
+elcazadorAK shows [4h Kh] (One pair : 4)
+zipette55 shows [9c Jd] (One pair : 9)
+zipette55 collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | No rake
+Board: [Ac 7s 4d 6s 9h]
+Seat 2: zipette55 (button) showed [9c Jd] and won 176 with One pair : 9
+Seat 3: elcazadorAK (small blind) showed [4h Kh] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670116982610198529-8-1774863519 - Holdem no limit (15/30) - 2026/03/30 09:38:39 UTC
+Table: 'Expresso Nitro(1087346343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (441)
+Seat 2: zipette55 (176)
+Seat 3: elcazadorAK (283)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+zipette55 posts big blind 30
+Dealt to MathisKcr [Jh Qd]
+*** PRE-FLOP *** 
+elcazadorAK raises 253 to 283 and is all-in
+MathisKcr calls 268
+zipette55 folds
+*** FLOP *** [5c Td 6s]
+*** TURN *** [5c Td 6s][7s]
+*** RIVER *** [5c Td 6s 7s][Qs]
+*** SHOW DOWN ***
+elcazadorAK shows [2c Ac] (High card : Ace)
+MathisKcr shows [Jh Qd] (One pair : Queens)
+MathisKcr collected 596 from pot
+*** SUMMARY ***
+Total pot 596 | No rake
+Board: [5c Td 6s 7s Qs]
+Seat 1: MathisKcr (small blind) showed [Jh Qd] and won 596 with One pair : Queens
+Seat 3: elcazadorAK (button) showed [2c Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670116982610198529-9-1774863535 - Holdem no limit (20/40) - 2026/03/30 09:38:55 UTC
+Table: 'Expresso Nitro(1087346343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (754)
+Seat 2: zipette55 (146)
+*** ANTE/BLINDS ***
+zipette55 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6c Th]
+*** PRE-FLOP *** 
+zipette55 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670116982610198529-10-1774863539 - Holdem no limit (20/40) - 2026/03/30 09:38:59 UTC
+Table: 'Expresso Nitro(1087346343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (774)
+Seat 2: zipette55 (126)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+zipette55 posts big blind 40
+Dealt to MathisKcr [Jd Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 734 to 774 and is all-in
+zipette55 folds
+MathisKcr collected 814 from pot
+*** SUMMARY ***
+Total pot 814 | No rake
+Seat 1: MathisKcr (small blind) (button) won 814
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670116982610198529-11-1774863546 - Holdem no limit (20/40) - 2026/03/30 09:39:06 UTC
+Table: 'Expresso Nitro(1087346343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (814)
+Seat 2: zipette55 (86)
+*** ANTE/BLINDS ***
+zipette55 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7s Th]
+*** PRE-FLOP *** 
+zipette55 raises 46 to 86 and is all-in
+MathisKcr calls 46
+*** FLOP *** [2s 9d Kh]
+*** TURN *** [2s 9d Kh][7c]
+*** RIVER *** [2s 9d Kh 7c][8h]
+*** SHOW DOWN ***
+zipette55 shows [Qs 5h] (High card : King)
+MathisKcr shows [7s Th] (One pair : 7)
+MathisKcr collected 172 from pot
+*** SUMMARY ***
+Total pot 172 | No rake
+Board: [2s 9d Kh 7c 8h]
+Seat 1: MathisKcr (big blind) showed [7s Th] and won 172 with One pair : 7
+Seat 2: zipette55 (small blind) (button) showed [Qs 5h] and lost with High card : King
+
+

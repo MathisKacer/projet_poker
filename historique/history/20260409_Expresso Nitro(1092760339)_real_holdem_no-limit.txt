@@ -1,0 +1,71 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693369918370873345-1-1775728597 - Holdem no limit (10/20) - 2026/04/09 09:56:37 UTC
+Table: 'Expresso Nitro(1092760339)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MouketinNez (300)
+Seat 2: LeSphynx57 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+LeSphynx57 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5d Kh]
+*** PRE-FLOP *** 
+MouketinNez calls 20
+LeSphynx57 calls 10
+MathisKcr raises 280 to 300 and is all-in
+MouketinNez calls 280 and is all-in
+LeSphynx57 folds
+*** FLOP *** [5c Jh 8d]
+*** TURN *** [5c Jh 8d][4d]
+*** RIVER *** [5c Jh 8d 4d][Ks]
+*** SHOW DOWN ***
+MouketinNez shows [7d Kd] (One pair : Kings)
+MathisKcr shows [5d Kh] (Two pairs : Kings and 5)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [5c Jh 8d 4d Ks]
+Seat 1: MouketinNez (button) showed [7d Kd] and lost with One pair : Kings
+Seat 3: MathisKcr (big blind) showed [5d Kh] and won 620 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693369918370873345-2-1775728632 - Holdem no limit (10/20) - 2026/04/09 09:57:12 UTC
+Table: 'Expresso Nitro(1092760339)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LeSphynx57 (280)
+Seat 3: MathisKcr (620)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+LeSphynx57 posts big blind 20
+Dealt to MathisKcr [5c Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 600 to 620 and is all-in
+LeSphynx57 folds
+MathisKcr collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 3: MathisKcr (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693369918370873345-3-1775728639 - Holdem no limit (10/20) - 2026/04/09 09:57:19 UTC
+Table: 'Expresso Nitro(1092760339)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LeSphynx57 (260)
+Seat 3: MathisKcr (640)
+*** ANTE/BLINDS ***
+LeSphynx57 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c 9d]
+*** PRE-FLOP *** 
+LeSphynx57 raises 240 to 260 and is all-in
+MathisKcr calls 240
+*** FLOP *** [2h Jc 3s]
+*** TURN *** [2h Jc 3s][Ac]
+*** RIVER *** [2h Jc 3s Ac][6h]
+*** SHOW DOWN ***
+LeSphynx57 shows [7d Ks] (High card : Ace)
+MathisKcr shows [9c 9d] (One pair : 9)
+MathisKcr collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [2h Jc 3s Ac 6h]
+Seat 2: LeSphynx57 (small blind) (button) showed [7d Ks] and lost with High card : Ace
+Seat 3: MathisKcr (big blind) showed [9c 9d] and won 520 with One pair : 9
+
+

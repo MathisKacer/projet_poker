@@ -1,0 +1,29 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675946314087792641-1-1775073952 - Holdem no limit (10/20) - 2026/04/01 20:05:52 UTC
+Table: 'Expresso Nitro(1088703590)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Mother_of_M. (300)
+Seat 3: Dios-2728371 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Mother_of_M. posts big blind 20
+Dealt to MathisKcr [Kd 9c]
+*** PRE-FLOP *** 
+Dios-2728371 raises 280 to 300 and is all-in
+MathisKcr calls 290 and is all-in
+Mother_of_M. calls 280 and is all-in
+*** FLOP *** [Qc 6d 8d]
+*** TURN *** [Qc 6d 8d][4d]
+*** RIVER *** [Qc 6d 8d 4d][7s]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 9c] (High card : King)
+Dios-2728371 shows [6c Kh] (One pair : 6)
+Mother_of_M. shows [9d 9h] (One pair : 9)
+Mother_of_M. collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc 6d 8d 4d 7s]
+Seat 1: MathisKcr (small blind) showed [Kd 9c] and lost with High card : King
+Seat 2: Mother_of_M. (big blind) showed [9d 9h] and won 900 with One pair : 9
+Seat 3: Dios-2728371 (button) showed [6c Kh] and lost with One pair : 6
+
+

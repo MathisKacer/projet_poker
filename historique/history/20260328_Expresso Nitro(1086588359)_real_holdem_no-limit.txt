@@ -1,0 +1,206 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666861466119307265-1-1774724396 - Holdem no limit (10/20) - 2026/03/28 18:59:56 UTC
+Table: 'Expresso Nitro(1086588359)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lezinkss (300)
+Seat 2: MathisKcr (300)
+Seat 3: Renne.132632 (300)
+*** ANTE/BLINDS ***
+Renne.132632 posts small blind 10
+lezinkss posts big blind 20
+Dealt to MathisKcr [5s Th]
+*** PRE-FLOP *** 
+MathisKcr folds
+Renne.132632 raises 280 to 300 and is all-in
+lezinkss folds
+Renne.132632 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Renne.132632 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666861466119307265-2-1774724401 - Holdem no limit (10/20) - 2026/03/28 19:00:01 UTC
+Table: 'Expresso Nitro(1086588359)#0' 3-max (real money) Seat #3 is the button
+Seat 1: lezinkss (280)
+Seat 2: MathisKcr (300)
+Seat 3: Renne.132632 (320)
+*** ANTE/BLINDS ***
+lezinkss posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ts 8h]
+*** PRE-FLOP *** 
+Renne.132632 raises 300 to 320 and is all-in
+lezinkss calls 270 and is all-in
+MathisKcr folds
+*** FLOP *** [9h 2d 6h]
+*** TURN *** [9h 2d 6h][As]
+*** RIVER *** [9h 2d 6h As][4h]
+*** SHOW DOWN ***
+lezinkss shows [Ad 6s] (Two pairs : Aces and 6)
+Renne.132632 shows [9d 4s] (Two pairs : 9 and 4)
+Renne.132632 collected 40 from side pot 1
+lezinkss collected 580 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9h 2d 6h As 4h]
+Seat 1: lezinkss (small blind) showed [Ad 6s] and won 580 with Two pairs : Aces and 6
+Seat 3: Renne.132632 (button) showed [9d 4s] and won 40 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666861466119307265-3-1774724413 - Holdem no limit (10/20) - 2026/03/28 19:00:13 UTC
+Table: 'Expresso Nitro(1086588359)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lezinkss (580)
+Seat 2: MathisKcr (280)
+Seat 3: Renne.132632 (40)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Renne.132632 posts big blind 20
+Dealt to MathisKcr [9s 9d]
+*** PRE-FLOP *** 
+lezinkss folds
+MathisKcr raises 260 to 280 and is all-in
+Renne.132632 calls 20 and is all-in
+*** FLOP *** [7h Ts Ah]
+*** TURN *** [7h Ts Ah][9c]
+*** RIVER *** [7h Ts Ah 9c][6c]
+*** SHOW DOWN ***
+Renne.132632 shows [Jc 4h] (High card : Ace)
+MathisKcr shows [9s 9d] (Trips of 9)
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [7h Ts Ah 9c 6c]
+Seat 2: MathisKcr (small blind) showed [9s 9d] and won 320 with Trips of 9
+Seat 3: Renne.132632 (big blind) showed [Jc 4h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666861466119307265-4-1774724427 - Holdem no limit (10/20) - 2026/03/28 19:00:27 UTC
+Table: 'Expresso Nitro(1086588359)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lezinkss (580)
+Seat 2: MathisKcr (320)
+*** ANTE/BLINDS ***
+lezinkss posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9h 8s]
+*** PRE-FLOP *** 
+lezinkss raises 40 to 60
+MathisKcr folds
+lezinkss collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: lezinkss (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666861466119307265-5-1774724434 - Holdem no limit (10/20) - 2026/03/28 19:00:34 UTC
+Table: 'Expresso Nitro(1086588359)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lezinkss (600)
+Seat 2: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+lezinkss posts big blind 20
+Dealt to MathisKcr [6d 8h]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+lezinkss checks
+*** FLOP *** [Ad Qs Th]
+lezinkss checks
+MathisKcr checks
+*** TURN *** [Ad Qs Th][4h]
+lezinkss checks
+MathisKcr checks
+*** RIVER *** [Ad Qs Th 4h][Jc]
+lezinkss checks
+MathisKcr checks
+*** SHOW DOWN ***
+lezinkss shows [7s 5d] (High card : Ace)
+MathisKcr shows [6d 8h] (High card : Ace)
+MathisKcr collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ad Qs Th 4h Jc]
+Seat 1: lezinkss (big blind) showed [7s 5d] and lost with High card : Ace
+Seat 2: MathisKcr (small blind) (button) showed [6d 8h] and won 40 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666861466119307265-6-1774724448 - Holdem no limit (10/20) - 2026/03/28 19:00:48 UTC
+Table: 'Expresso Nitro(1086588359)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lezinkss (580)
+Seat 2: MathisKcr (320)
+*** ANTE/BLINDS ***
+lezinkss posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c 4h]
+*** PRE-FLOP *** 
+lezinkss raises 40 to 60
+MathisKcr folds
+lezinkss collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: lezinkss (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666861466119307265-7-1774724454 - Holdem no limit (15/30) - 2026/03/28 19:00:54 UTC
+Table: 'Expresso Nitro(1086588359)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lezinkss (600)
+Seat 2: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+lezinkss posts big blind 30
+Dealt to MathisKcr [2h 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+lezinkss collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: lezinkss (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666861466119307265-8-1774724459 - Holdem no limit (15/30) - 2026/03/28 19:00:59 UTC
+Table: 'Expresso Nitro(1086588359)#0' 3-max (real money) Seat #1 is the button
+Seat 1: lezinkss (615)
+Seat 2: MathisKcr (285)
+*** ANTE/BLINDS ***
+lezinkss posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4c Ks]
+*** PRE-FLOP *** 
+lezinkss raises 60 to 90
+MathisKcr raises 195 to 285 and is all-in
+lezinkss calls 195
+*** FLOP *** [9d 3d 5c]
+*** TURN *** [9d 3d 5c][4h]
+*** RIVER *** [9d 3d 5c 4h][6h]
+*** SHOW DOWN ***
+lezinkss shows [As Kh] (High card : Ace)
+MathisKcr shows [4c Ks] (One pair : 4)
+MathisKcr collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [9d 3d 5c 4h 6h]
+Seat 1: lezinkss (small blind) (button) showed [As Kh] and lost with High card : Ace
+Seat 2: MathisKcr (big blind) showed [4c Ks] and won 570 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666861466119307265-9-1774724473 - Holdem no limit (15/30) - 2026/03/28 19:01:13 UTC
+Table: 'Expresso Nitro(1086588359)#0' 3-max (real money) Seat #2 is the button
+Seat 1: lezinkss (330)
+Seat 2: MathisKcr (570)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+lezinkss posts big blind 30
+Dealt to MathisKcr [Ks 7h]
+*** PRE-FLOP *** 
+MathisKcr raises 540 to 570 and is all-in
+lezinkss calls 300 and is all-in
+*** FLOP *** [Jd 5d 3h]
+*** TURN *** [Jd 5d 3h][6s]
+*** RIVER *** [Jd 5d 3h 6s][9c]
+*** SHOW DOWN ***
+lezinkss shows [4h Kd] (High card : King)
+MathisKcr shows [Ks 7h] (High card : King)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jd 5d 3h 6s 9c]
+Seat 1: lezinkss (big blind) showed [4h Kd] and lost with High card : King
+Seat 2: MathisKcr (small blind) (button) showed [Ks 7h] and won 900 with High card : King
+
+

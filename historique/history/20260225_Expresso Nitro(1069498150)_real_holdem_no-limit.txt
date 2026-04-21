@@ -1,0 +1,47 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4593459577382502401-1-1772051081 - Holdem no limit (10/20) - 2026/02/25 20:24:41 UTC
+Table: 'Expresso Nitro(1069498150)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Blublu14 (300)
+Seat 2: MathisKcr (300)
+Seat 3: USASPORT (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+USASPORT posts big blind 20
+Dealt to MathisKcr [4d 2s]
+*** PRE-FLOP *** 
+Blublu14 calls 20
+MathisKcr folds
+USASPORT raises 211 to 231
+Blublu14 folds
+USASPORT collected 261 from pot
+*** SUMMARY ***
+Total pot 261 | No rake
+Seat 3: USASPORT (big blind) won 261
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4593459577382502401-2-1772051113 - Holdem no limit (10/20) - 2026/02/25 20:25:13 UTC
+Table: 'Expresso Nitro(1069498150)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Blublu14 (280)
+Seat 2: MathisKcr (290)
+Seat 3: USASPORT (330)
+*** ANTE/BLINDS ***
+USASPORT posts small blind 10
+Blublu14 posts big blind 20
+Dealt to MathisKcr [6h 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 270 to 290 and is all-in
+USASPORT raises 40 to 330 and is all-in
+Blublu14 folds
+*** FLOP *** [Kh Jh Tc]
+*** TURN *** [Kh Jh Tc][5s]
+*** RIVER *** [Kh Jh Tc 5s][Ah]
+*** SHOW DOWN ***
+MathisKcr shows [6h 6d] (One pair : 6)
+USASPORT shows [4d As] (One pair : Aces)
+USASPORT collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Kh Jh Tc 5s Ah]
+Seat 2: MathisKcr (button) showed [6h 6d] and lost with One pair : 6
+Seat 3: USASPORT (small blind) showed [4d As] and won 640 with One pair : Aces
+
+

@@ -1,0 +1,54 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668199850943184897-1-1774784393 - Holdem no limit (10/20) - 2026/03/29 11:39:53 UTC
+Table: 'Expresso Nitro(1086899976)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LeCerisier (300)
+Seat 2: MathisKcr (300)
+Seat 3: JC-Sniper257 (300)
+*** ANTE/BLINDS ***
+JC-Sniper257 posts small blind 10
+LeCerisier posts big blind 20
+Dealt to MathisKcr [5d Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+JC-Sniper257 folds
+LeCerisier calls 20
+*** FLOP *** [6s 4s 5s]
+LeCerisier bets 260 and is all-in
+MathisKcr calls 260 and is all-in
+*** TURN *** [6s 4s 5s][Th]
+*** RIVER *** [6s 4s 5s Th][6h]
+*** SHOW DOWN ***
+LeCerisier shows [Js 4h] (Two pairs : 6 and 4)
+MathisKcr shows [5d Ac] (Two pairs : 6 and 5)
+MathisKcr collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [6s 4s 5s Th 6h]
+Seat 1: LeCerisier (big blind) showed [Js 4h] and lost with Two pairs : 6 and 4
+Seat 2: MathisKcr (button) showed [5d Ac] and won 610 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668199850943184897-2-1774784414 - Holdem no limit (10/20) - 2026/03/29 11:40:14 UTC
+Table: 'Expresso Nitro(1086899976)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (610)
+Seat 3: JC-Sniper257 (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+JC-Sniper257 posts big blind 20
+Dealt to MathisKcr [Qc Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 590 to 610 and is all-in
+JC-Sniper257 calls 270 and is all-in
+*** FLOP *** [Kd 4d Qd]
+*** TURN *** [Kd 4d Qd][2h]
+*** RIVER *** [Kd 4d Qd 2h][2c]
+*** SHOW DOWN ***
+JC-Sniper257 shows [As 5c] (One pair : 2)
+MathisKcr shows [Qc Ks] (Two pairs : Kings and Queens)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kd 4d Qd 2h 2c]
+Seat 2: MathisKcr (small blind) (button) showed [Qc Ks] and won 900 with Two pairs : Kings and Queens
+Seat 3: JC-Sniper257 (big blind) showed [As 5c] and lost with One pair : 2
+
+

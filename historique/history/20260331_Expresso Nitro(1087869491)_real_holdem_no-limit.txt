@@ -1,0 +1,515 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672363886161166337-1-1774947790 - Holdem no limit (10/20) - 2026/03/31 09:03:10 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Noe Shark034 (300)
+Seat 2: Benhamza17 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Benhamza17 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6h 2c]
+*** PRE-FLOP *** 
+Noe Shark034 calls 20
+Benhamza17 calls 10
+MathisKcr checks
+*** FLOP *** [Kd 4s 3s]
+Benhamza17 bets 20
+MathisKcr folds
+Noe Shark034 calls 20
+*** TURN *** [Kd 4s 3s][Js]
+Benhamza17 bets 20
+Noe Shark034 folds
+Benhamza17 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Kd 4s 3s Js]
+Seat 2: Benhamza17 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672363886161166337-2-1774947809 - Holdem no limit (10/20) - 2026/03/31 09:03:29 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Noe Shark034 (260)
+Seat 2: Benhamza17 (360)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Noe Shark034 posts big blind 20
+Dealt to MathisKcr [2c 4s]
+*** PRE-FLOP *** 
+Benhamza17 calls 20
+MathisKcr folds
+Noe Shark034 checks
+*** FLOP *** [Jh 6c 9d]
+Noe Shark034 checks
+Benhamza17 checks
+*** TURN *** [Jh 6c 9d][Kh]
+Noe Shark034 bets 20
+Benhamza17 calls 20
+*** RIVER *** [Jh 6c 9d Kh][5s]
+Noe Shark034 checks
+Benhamza17 checks
+*** SHOW DOWN ***
+Benhamza17 shows [Qd 7c] (High card : King)
+Noe Shark034 shows [6h Qc] (One pair : 6)
+Noe Shark034 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Jh 6c 9d Kh 5s]
+Seat 1: Noe Shark034 (big blind) showed [6h Qc] and won 90 with One pair : 6
+Seat 2: Benhamza17 (button) showed [Qd 7c] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672363886161166337-3-1774947824 - Holdem no limit (10/20) - 2026/03/31 09:03:44 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Noe Shark034 (310)
+Seat 2: Benhamza17 (320)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Noe Shark034 posts small blind 10
+Benhamza17 posts big blind 20
+Dealt to MathisKcr [7c 5c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Noe Shark034 calls 10
+Benhamza17 checks
+*** FLOP *** [2h 6h Ks]
+Noe Shark034 checks
+Benhamza17 checks
+*** TURN *** [2h 6h Ks][4d]
+Noe Shark034 checks
+Benhamza17 checks
+*** RIVER *** [2h 6h Ks 4d][Kc]
+Noe Shark034 bets 20
+Benhamza17 folds
+Noe Shark034 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2h 6h Ks 4d Kc]
+Seat 1: Noe Shark034 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672363886161166337-4-1774947840 - Holdem no limit (10/20) - 2026/03/31 09:04:00 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Noe Shark034 (330)
+Seat 2: Benhamza17 (300)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Benhamza17 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s 8h]
+*** PRE-FLOP *** 
+Noe Shark034 calls 20
+Benhamza17 calls 10
+MathisKcr checks
+*** FLOP *** [7s 9d 9c]
+Benhamza17 checks
+MathisKcr bets 21
+Noe Shark034 folds
+Benhamza17 folds
+MathisKcr collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [7s 9d 9c]
+Seat 3: MathisKcr (big blind) won 81
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672363886161166337-5-1774947856 - Holdem no limit (15/30) - 2026/03/31 09:04:16 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Noe Shark034 (310)
+Seat 2: Benhamza17 (280)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Noe Shark034 posts big blind 30
+Dealt to MathisKcr [4s As]
+*** PRE-FLOP *** 
+Benhamza17 folds
+MathisKcr raises 280 to 310 and is all-in
+Noe Shark034 folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: MathisKcr (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672363886161166337-6-1774947865 - Holdem no limit (15/30) - 2026/03/31 09:04:25 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Noe Shark034 (280)
+Seat 2: Benhamza17 (280)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+Noe Shark034 posts small blind 15
+Benhamza17 posts big blind 30
+Dealt to MathisKcr [4s 9c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Noe Shark034 raises 60 to 90
+Benhamza17 calls 60
+*** FLOP *** [Js 2s 4h]
+Noe Shark034 bets 117
+Benhamza17 folds
+Noe Shark034 collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [Js 2s 4h]
+Seat 1: Noe Shark034 (small blind) won 297
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672363886161166337-7-1774947877 - Holdem no limit (15/30) - 2026/03/31 09:04:37 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Noe Shark034 (370)
+Seat 2: Benhamza17 (190)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+Benhamza17 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6h 2c]
+*** PRE-FLOP *** 
+Noe Shark034 calls 30
+Benhamza17 calls 15
+MathisKcr checks
+*** FLOP *** [Jd 9s 6c]
+Benhamza17 checks
+MathisKcr bets 32
+Noe Shark034 raises 89 to 121
+Benhamza17 folds
+MathisKcr folds
+Noe Shark034 collected 243 from pot
+*** SUMMARY ***
+Total pot 243 | No rake
+Board: [Jd 9s 6c]
+Seat 1: Noe Shark034 (button) won 243
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672363886161166337-8-1774947899 - Holdem no limit (15/30) - 2026/03/31 09:04:59 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Noe Shark034 (462)
+Seat 2: Benhamza17 (160)
+Seat 3: MathisKcr (278)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Noe Shark034 posts big blind 30
+Dealt to MathisKcr [5h 4c]
+*** PRE-FLOP *** 
+Benhamza17 raises 130 to 160 and is all-in
+MathisKcr folds
+Noe Shark034 calls 130
+*** FLOP *** [Jh 9s 6d]
+*** TURN *** [Jh 9s 6d][Ts]
+*** RIVER *** [Jh 9s 6d Ts][6s]
+*** SHOW DOWN ***
+Noe Shark034 shows [9h Qc] (Two pairs : 9 and 6)
+Benhamza17 shows [Th Qd] (Two pairs : Tens and 6)
+Benhamza17 collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | No rake
+Board: [Jh 9s 6d Ts 6s]
+Seat 1: Noe Shark034 (big blind) showed [9h Qc] and lost with Two pairs : 9 and 6
+Seat 2: Benhamza17 (button) showed [Th Qd] and won 335 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672363886161166337-9-1774947915 - Holdem no limit (20/40) - 2026/03/31 09:05:15 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Noe Shark034 (302)
+Seat 2: Benhamza17 (335)
+Seat 3: MathisKcr (263)
+*** ANTE/BLINDS ***
+Noe Shark034 posts small blind 20
+Benhamza17 posts big blind 40
+Dealt to MathisKcr [3s 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Noe Shark034 calls 20
+Benhamza17 checks
+*** FLOP *** [7s Th 4h]
+Noe Shark034 bets 40
+Benhamza17 raises 40 to 80
+Noe Shark034 calls 40
+*** TURN *** [7s Th 4h][9h]
+Noe Shark034 checks
+Benhamza17 bets 40
+Noe Shark034 folds
+Benhamza17 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [7s Th 4h 9h]
+Seat 2: Benhamza17 (big blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672363886161166337-10-1774947935 - Holdem no limit (20/40) - 2026/03/31 09:05:35 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Noe Shark034 (182)
+Seat 2: Benhamza17 (455)
+Seat 3: MathisKcr (263)
+*** ANTE/BLINDS ***
+Benhamza17 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [8s Kh]
+*** PRE-FLOP *** 
+Noe Shark034 calls 40
+Benhamza17 calls 20
+MathisKcr raises 223 to 263 and is all-in
+Noe Shark034 folds
+Benhamza17 folds
+MathisKcr collected 343 from pot
+*** SUMMARY ***
+Total pot 343 | No rake
+Seat 3: MathisKcr (big blind) won 343
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672363886161166337-11-1774947953 - Holdem no limit (20/40) - 2026/03/31 09:05:53 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Noe Shark034 (142)
+Seat 2: Benhamza17 (415)
+Seat 3: MathisKcr (343)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Noe Shark034 posts big blind 40
+Dealt to MathisKcr [Ah Qs]
+*** PRE-FLOP *** 
+Benhamza17 calls 40
+MathisKcr raises 303 to 343 and is all-in
+Noe Shark034 folds
+Benhamza17 folds
+MathisKcr collected 423 from pot
+*** SUMMARY ***
+Total pot 423 | No rake
+Seat 3: MathisKcr (small blind) won 423
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672363886161166337-12-1774947967 - Holdem no limit (20/40) - 2026/03/31 09:06:07 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Noe Shark034 (102)
+Seat 2: Benhamza17 (375)
+Seat 3: MathisKcr (423)
+*** ANTE/BLINDS ***
+Noe Shark034 posts small blind 20
+Benhamza17 posts big blind 40
+Dealt to MathisKcr [6s Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 383 to 423 and is all-in
+Noe Shark034 folds
+Benhamza17 folds
+MathisKcr collected 483 from pot
+*** SUMMARY ***
+Total pot 483 | No rake
+Seat 3: MathisKcr (button) won 483
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672363886161166337-13-1774947975 - Holdem no limit (30/60) - 2026/03/31 09:06:15 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Noe Shark034 (82)
+Seat 2: Benhamza17 (335)
+Seat 3: MathisKcr (483)
+*** ANTE/BLINDS ***
+Benhamza17 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Js 2s]
+*** PRE-FLOP *** 
+Noe Shark034 folds
+Benhamza17 raises 275 to 335 and is all-in
+MathisKcr folds
+Benhamza17 collected 395 from pot
+*** SUMMARY ***
+Total pot 395 | No rake
+Seat 2: Benhamza17 (small blind) won 395
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672363886161166337-14-1774948001 - Holdem no limit (30/60) - 2026/03/31 09:06:41 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Noe Shark034 (82)
+Seat 2: Benhamza17 (395)
+Seat 3: MathisKcr (423)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Noe Shark034 posts big blind 60
+Dealt to MathisKcr [3d Tc]
+*** PRE-FLOP *** 
+Benhamza17 folds
+MathisKcr folds
+Noe Shark034 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Noe Shark034 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672363886161166337-15-1774948007 - Holdem no limit (30/60) - 2026/03/31 09:06:47 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Noe Shark034 (112)
+Seat 2: Benhamza17 (395)
+Seat 3: MathisKcr (393)
+*** ANTE/BLINDS ***
+Noe Shark034 posts small blind 30
+Benhamza17 posts big blind 60
+Dealt to MathisKcr [9h Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 333 to 393 and is all-in
+Noe Shark034 calls 82 and is all-in
+Benhamza17 folds
+*** FLOP *** [5s Kh 5h]
+*** TURN *** [5s Kh 5h][8h]
+*** RIVER *** [5s Kh 5h 8h][3c]
+*** SHOW DOWN ***
+Noe Shark034 shows [4s Js] (One pair : 5)
+MathisKcr shows [9h Ad] (One pair : 5)
+MathisKcr collected 565 from pot
+*** SUMMARY ***
+Total pot 565 | No rake
+Board: [5s Kh 5h 8h 3c]
+Seat 1: Noe Shark034 (small blind) showed [4s Js] and lost with One pair : 5
+Seat 3: MathisKcr (button) showed [9h Ad] and won 565 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672363886161166337-16-1774948023 - Holdem no limit (30/60) - 2026/03/31 09:07:03 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Benhamza17 (335)
+Seat 3: MathisKcr (565)
+*** ANTE/BLINDS ***
+Benhamza17 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [7c 8c]
+*** PRE-FLOP *** 
+Benhamza17 calls 30
+MathisKcr raises 505 to 565 and is all-in
+Benhamza17 calls 275 and is all-in
+*** FLOP *** [9c 2h Qh]
+*** TURN *** [9c 2h Qh][2c]
+*** RIVER *** [9c 2h Qh 2c][9d]
+*** SHOW DOWN ***
+Benhamza17 shows [Qs 7s] (Two pairs : Queens and 9)
+MathisKcr shows [7c 8c] (Two pairs : 9 and 2)
+MathisKcr collected 230 from side pot 1
+Benhamza17 collected 670 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9c 2h Qh 2c 9d]
+Seat 2: Benhamza17 (small blind) (button) showed [Qs 7s] and won 670 with Two pairs : Queens and 9
+Seat 3: MathisKcr (big blind) showed [7c 8c] and won 230 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672363886161166337-17-1774948042 - Holdem no limit (40/80) - 2026/03/31 09:07:22 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Benhamza17 (670)
+Seat 3: MathisKcr (230)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Benhamza17 posts big blind 80
+Dealt to MathisKcr [2d 7d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Benhamza17 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Benhamza17 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672363886161166337-18-1774948047 - Holdem no limit (40/80) - 2026/03/31 09:07:27 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Benhamza17 (710)
+Seat 3: MathisKcr (190)
+*** ANTE/BLINDS ***
+Benhamza17 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [4c 5d]
+*** PRE-FLOP *** 
+Benhamza17 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672363886161166337-19-1774948054 - Holdem no limit (40/80) - 2026/03/31 09:07:34 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Benhamza17 (670)
+Seat 3: MathisKcr (230)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Benhamza17 posts big blind 80
+Dealt to MathisKcr [7s 5s]
+*** PRE-FLOP *** 
+MathisKcr raises 150 to 230 and is all-in
+Benhamza17 folds
+MathisKcr collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 3: MathisKcr (small blind) (button) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672363886161166337-20-1774948065 - Holdem no limit (40/80) - 2026/03/31 09:07:45 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Benhamza17 (590)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+Benhamza17 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [6s 6c]
+*** PRE-FLOP *** 
+Benhamza17 calls 40
+MathisKcr raises 230 to 310 and is all-in
+Benhamza17 calls 230
+*** FLOP *** [Js 9h 8d]
+*** TURN *** [Js 9h 8d][Kc]
+*** RIVER *** [Js 9h 8d Kc][Jd]
+*** SHOW DOWN ***
+Benhamza17 shows [2d 6d] (One pair : Jacks)
+MathisKcr shows [6s 6c] (Two pairs : Jacks and 6)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Js 9h 8d Kc Jd]
+Seat 2: Benhamza17 (small blind) (button) showed [2d 6d] and lost with One pair : Jacks
+Seat 3: MathisKcr (big blind) showed [6s 6c] and won 620 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672363886161166337-21-1774948086 - Holdem no limit (40/80) - 2026/03/31 09:08:06 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Benhamza17 (280)
+Seat 3: MathisKcr (620)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Benhamza17 posts big blind 80
+Dealt to MathisKcr [2h 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 540 to 620 and is all-in
+Benhamza17 calls 200 and is all-in
+*** FLOP *** [2c 9s Kd]
+*** TURN *** [2c 9s Kd][9d]
+*** RIVER *** [2c 9s Kd 9d][7h]
+*** SHOW DOWN ***
+Benhamza17 shows [Qh Qd] (Two pairs : Queens and 9)
+MathisKcr shows [2h 6d] (Two pairs : 9 and 2)
+MathisKcr collected 340 from side pot 1
+Benhamza17 collected 560 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2c 9s Kd 9d 7h]
+Seat 2: Benhamza17 (big blind) showed [Qh Qd] and won 560 with Two pairs : Queens and 9
+Seat 3: MathisKcr (small blind) (button) showed [2h 6d] and won 340 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4672363886161166337-22-1774948100 - Holdem no limit (50/100) - 2026/03/31 09:08:20 UTC
+Table: 'Expresso Nitro(1087869491)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Benhamza17 (560)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+Benhamza17 posts small blind 50
+MathisKcr posts big blind 100
+Dealt to MathisKcr [Qs Jc]
+*** PRE-FLOP *** 
+Benhamza17 calls 50
+MathisKcr raises 240 to 340 and is all-in
+Benhamza17 calls 240
+*** FLOP *** [2s 8c Ac]
+*** TURN *** [2s 8c Ac][5d]
+*** RIVER *** [2s 8c Ac 5d][3s]
+*** SHOW DOWN ***
+MathisKcr shows [Qs Jc] (High card : Ace)
+Benhamza17 shows [2d Ad] (Two pairs : Aces and 2)
+Benhamza17 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [2s 8c Ac 5d 3s]
+Seat 2: Benhamza17 (small blind) (button) showed [2d Ad] and won 680 with Two pairs : Aces and 2
+Seat 3: MathisKcr (big blind) showed [Qs Jc] and lost with High card : Ace
+
+

@@ -1,0 +1,84 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4689226056614281217-1-1775579700 - Holdem no limit (10/20) - 2026/04/07 16:35:00 UTC
+Table: 'Expresso Nitro(1091795521)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vince.fk (300)
+Seat 2: MathisKcr (300)
+Seat 3: La glamboche (300)
+*** ANTE/BLINDS ***
+Vince.fk posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 2d]
+*** PRE-FLOP *** 
+La glamboche folds
+Vince.fk folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4689226056614281217-2-1775579708 - Holdem no limit (10/20) - 2026/04/07 16:35:08 UTC
+Table: 'Expresso Nitro(1091795521)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vince.fk (290)
+Seat 2: MathisKcr (310)
+Seat 3: La glamboche (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+La glamboche posts big blind 20
+Dealt to MathisKcr [7h 6c]
+*** PRE-FLOP *** 
+Vince.fk folds
+MathisKcr folds
+La glamboche collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: La glamboche (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4689226056614281217-3-1775579716 - Holdem no limit (10/20) - 2026/04/07 16:35:16 UTC
+Table: 'Expresso Nitro(1091795521)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vince.fk (290)
+Seat 2: MathisKcr (300)
+Seat 3: La glamboche (310)
+*** ANTE/BLINDS ***
+La glamboche posts small blind 10
+Vince.fk posts big blind 20
+Dealt to MathisKcr [3d Td]
+*** PRE-FLOP *** 
+MathisKcr folds
+La glamboche folds
+Vince.fk collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Vince.fk (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4689226056614281217-4-1775579724 - Holdem no limit (10/20) - 2026/04/07 16:35:24 UTC
+Table: 'Expresso Nitro(1091795521)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vince.fk (300)
+Seat 2: MathisKcr (300)
+Seat 3: La glamboche (300)
+*** ANTE/BLINDS ***
+Vince.fk posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3h 3s]
+*** PRE-FLOP *** 
+La glamboche raises 280 to 300 and is all-in
+Vince.fk calls 290 and is all-in
+MathisKcr calls 280 and is all-in
+*** FLOP *** [Td Ac 4h]
+*** TURN *** [Td Ac 4h][Qh]
+*** RIVER *** [Td Ac 4h Qh][Jc]
+*** SHOW DOWN ***
+MathisKcr shows [3h 3s] (One pair : 3)
+Vince.fk shows [8h Ah] (One pair : Aces)
+La glamboche shows [As 7h] (One pair : Aces)
+La glamboche collected 450 from pot
+Vince.fk collected 450 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td Ac 4h Qh Jc]
+Seat 1: Vince.fk (small blind) showed [8h Ah] and won 450 with One pair : Aces
+Seat 2: MathisKcr (big blind) showed [3h 3s] and lost with One pair : 3
+Seat 3: La glamboche (button) showed [As 7h] and won 450 with One pair : Aces
+
+

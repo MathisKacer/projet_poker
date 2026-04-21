@@ -1,0 +1,121 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4662152094608785409-1-1774540326 - Holdem no limit (10/20) - 2026/03/26 15:52:06 UTC
+Table: 'Expresso Nitro(1085491873)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rat-64225015 (300)
+Seat 2: Nastro21 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Rat-64225015 posts big blind 20
+Dealt to MathisKcr [6h 5d]
+*** PRE-FLOP *** 
+Nastro21 folds
+MathisKcr calls 10
+Rat-64225015 checks
+*** FLOP *** [6c Qc 4h]
+MathisKcr bets 40
+Rat-64225015 raises 240 to 280 and is all-in
+MathisKcr folds
+Rat-64225015 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [6c Qc 4h]
+Seat 1: Rat-64225015 (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4662152094608785409-2-1774540375 - Holdem no limit (10/20) - 2026/03/26 15:52:55 UTC
+Table: 'Expresso Nitro(1085491873)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rat-64225015 (360)
+Seat 2: Nastro21 (300)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+Rat-64225015 posts small blind 10
+Nastro21 posts big blind 20
+Dealt to MathisKcr [9s 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Rat-64225015 calls 10
+Nastro21 checks
+*** FLOP *** [Th Ts Qd]
+Rat-64225015 checks
+Nastro21 bets 40
+Rat-64225015 folds
+Nastro21 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Th Ts Qd]
+Seat 2: Nastro21 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4662152094608785409-3-1774540401 - Holdem no limit (15/30) - 2026/03/26 15:53:21 UTC
+Table: 'Expresso Nitro(1085491873)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Rat-64225015 (340)
+Seat 2: Nastro21 (320)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+Nastro21 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5h 7s]
+*** PRE-FLOP *** 
+Rat-64225015 calls 30
+Nastro21 folds
+MathisKcr checks
+*** FLOP *** [8h 6c Js]
+MathisKcr checks
+Rat-64225015 checks
+*** TURN *** [8h 6c Js][4h]
+MathisKcr bets 210 and is all-in
+Rat-64225015 folds
+MathisKcr collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Board: [8h 6c Js 4h]
+Seat 3: MathisKcr (big blind) won 285
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4662152094608785409-4-1774540425 - Holdem no limit (15/30) - 2026/03/26 15:53:45 UTC
+Table: 'Expresso Nitro(1085491873)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rat-64225015 (310)
+Seat 2: Nastro21 (305)
+Seat 3: MathisKcr (285)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Rat-64225015 posts big blind 30
+Dealt to MathisKcr [7c 8h]
+*** PRE-FLOP *** 
+Nastro21 folds
+MathisKcr folds
+Rat-64225015 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Rat-64225015 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4662152094608785409-5-1774540439 - Holdem no limit (15/30) - 2026/03/26 15:53:59 UTC
+Table: 'Expresso Nitro(1085491873)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rat-64225015 (325)
+Seat 2: Nastro21 (305)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Rat-64225015 posts small blind 15
+Nastro21 posts big blind 30
+Dealt to MathisKcr [3d Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 240 to 270 and is all-in
+Rat-64225015 raises 55 to 325 and is all-in
+Nastro21 calls 275 and is all-in
+*** FLOP *** [5s 6c 8d]
+*** TURN *** [5s 6c 8d][7c]
+*** RIVER *** [5s 6c 8d 7c][8s]
+*** SHOW DOWN ***
+Nastro21 shows [Jd Ks] (One pair : 8)
+MathisKcr shows [3d Kd] (One pair : 8)
+Rat-64225015 shows [Qh Ac] (One pair : 8)
+Rat-64225015 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s 6c 8d 7c 8s]
+Seat 1: Rat-64225015 (small blind) showed [Qh Ac] and won 900 with One pair : 8
+Seat 2: Nastro21 (big blind) showed [Jd Ks] and lost with One pair : 8
+Seat 3: MathisKcr (button) showed [3d Kd] and lost with One pair : 8
+
+

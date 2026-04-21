@@ -1,0 +1,60 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4384227750181863425-1-1763596579 - Holdem no limit (10/20) - 2025/11/19 23:56:19 UTC
+Table: 'Expresso(1020782569)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: italiano1966 (500)
+Seat 3: Sergigoat48 (500)
+*** ANTE/BLINDS ***
+Sergigoat48 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c 3d]
+*** PRE-FLOP *** 
+italiano1966 raises 30 to 50
+Sergigoat48 calls 40
+MathisKcr folds
+*** FLOP *** [Qc Jc 8h]
+Sergigoat48 bets 42
+italiano1966 calls 42
+*** TURN *** [Qc Jc 8h][4d]
+Sergigoat48 bets 71
+italiano1966 calls 71
+*** RIVER *** [Qc Jc 8h 4d][5d]
+Sergigoat48 bets 337 and is all-in
+italiano1966 folds
+Sergigoat48 collected 683 from pot
+*** SUMMARY ***
+Total pot 683 | No rake
+Board: [Qc Jc 8h 4d 5d]
+Seat 3: Sergigoat48 (small blind) won 683
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4384227750181863425-2-1763596603 - Holdem no limit (10/20) - 2025/11/19 23:56:43 UTC
+Table: 'Expresso(1020782569)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (480)
+Seat 2: italiano1966 (337)
+Seat 3: Sergigoat48 (683)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+italiano1966 posts big blind 20
+Dealt to MathisKcr [5c As]
+*** PRE-FLOP *** 
+Sergigoat48 raises 20 to 40
+MathisKcr raises 20 to 60
+italiano1966 folds
+Sergigoat48 calls 20
+*** FLOP *** [4h Jh 3d]
+MathisKcr bets 60
+Sergigoat48 raises 563 to 623 and is all-in
+MathisKcr calls 360 and is all-in
+*** TURN *** [4h Jh 3d][8h]
+*** RIVER *** [4h Jh 3d 8h][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [5c As] (High card : Ace)
+Sergigoat48 shows [Js Tc] (One pair : Jacks)
+Sergigoat48 collected 1183 from pot
+*** SUMMARY ***
+Total pot 1183 | No rake
+Board: [4h Jh 3d 8h Kc]
+Seat 1: MathisKcr (small blind) showed [5c As] and lost with High card : Ace
+Seat 3: Sergigoat48 (button) showed [Js Tc] and won 1183 with One pair : Jacks
+
+

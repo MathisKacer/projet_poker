@@ -1,0 +1,361 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667970860466831361-1-1774774924 - Holdem no limit (10/20) - 2026/03/29 09:02:04 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CarreDuPion (300)
+Seat 2: MathisKcr (300)
+Seat 3: AC&DC (300)
+*** ANTE/BLINDS ***
+CarreDuPion posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4d 7s]
+*** PRE-FLOP *** 
+AC&DC folds
+CarreDuPion calls 10
+MathisKcr checks
+*** FLOP *** [6c 5d As]
+CarreDuPion checks
+MathisKcr checks
+*** TURN *** [6c 5d As][Ac]
+CarreDuPion checks
+MathisKcr checks
+*** RIVER *** [6c 5d As Ac][Th]
+CarreDuPion checks
+MathisKcr checks
+*** SHOW DOWN ***
+CarreDuPion shows [4c 7c] (One pair : Aces)
+MathisKcr shows [4d 7s] (One pair : Aces)
+MathisKcr collected 20 from pot
+CarreDuPion collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [6c 5d As Ac Th]
+Seat 1: CarreDuPion (small blind) showed [4c 7c] and won 20 with One pair : Aces
+Seat 2: MathisKcr (big blind) showed [4d 7s] and won 20 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667970860466831361-2-1774774972 - Holdem no limit (10/20) - 2026/03/29 09:02:52 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CarreDuPion (300)
+Seat 2: MathisKcr (300)
+Seat 3: AC&DC (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+AC&DC posts big blind 20
+Dealt to MathisKcr [4s Ts]
+*** PRE-FLOP *** 
+CarreDuPion raises 20 to 40
+MathisKcr folds
+AC&DC folds
+CarreDuPion collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: CarreDuPion (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667970860466831361-3-1774774992 - Holdem no limit (15/30) - 2026/03/29 09:03:12 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CarreDuPion (330)
+Seat 2: MathisKcr (290)
+Seat 3: AC&DC (280)
+*** ANTE/BLINDS ***
+AC&DC posts small blind 15
+CarreDuPion posts big blind 30
+Dealt to MathisKcr [8h 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+AC&DC folds
+CarreDuPion collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: CarreDuPion (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667970860466831361-4-1774774998 - Holdem no limit (15/30) - 2026/03/29 09:03:18 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CarreDuPion (345)
+Seat 2: MathisKcr (290)
+Seat 3: AC&DC (265)
+*** ANTE/BLINDS ***
+CarreDuPion posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ah Ac]
+*** PRE-FLOP *** 
+AC&DC folds
+CarreDuPion folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667970860466831361-5-1774775007 - Holdem no limit (15/30) - 2026/03/29 09:03:27 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CarreDuPion (330)
+Seat 2: MathisKcr (305)
+Seat 3: AC&DC (265)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+AC&DC posts big blind 30
+Dealt to MathisKcr [3c 9d]
+*** PRE-FLOP *** 
+CarreDuPion folds
+MathisKcr folds
+AC&DC collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: AC&DC (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667970860466831361-6-1774775026 - Holdem no limit (15/30) - 2026/03/29 09:03:46 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CarreDuPion (330)
+Seat 2: MathisKcr (290)
+Seat 3: AC&DC (280)
+*** ANTE/BLINDS ***
+AC&DC posts small blind 15
+CarreDuPion posts big blind 30
+Dealt to MathisKcr [Ks 5c]
+*** PRE-FLOP *** 
+MathisKcr raises 260 to 290 and is all-in
+AC&DC folds
+CarreDuPion folds
+MathisKcr collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | No rake
+Seat 2: MathisKcr (button) won 335
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667970860466831361-7-1774775049 - Holdem no limit (20/40) - 2026/03/29 09:04:09 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CarreDuPion (300)
+Seat 2: MathisKcr (335)
+Seat 3: AC&DC (265)
+*** ANTE/BLINDS ***
+CarreDuPion posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jd Qs]
+*** PRE-FLOP *** 
+AC&DC folds
+CarreDuPion raises 260 to 300 and is all-in
+MathisKcr folds
+CarreDuPion collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: CarreDuPion (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667970860466831361-8-1774775076 - Holdem no limit (20/40) - 2026/03/29 09:04:36 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CarreDuPion (340)
+Seat 2: MathisKcr (295)
+Seat 3: AC&DC (265)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+AC&DC posts big blind 40
+Dealt to MathisKcr [3s 7h]
+*** PRE-FLOP *** 
+CarreDuPion raises 300 to 340 and is all-in
+MathisKcr folds
+AC&DC folds
+CarreDuPion collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 1: CarreDuPion (button) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667970860466831361-9-1774775088 - Holdem no limit (20/40) - 2026/03/29 09:04:48 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CarreDuPion (400)
+Seat 2: MathisKcr (275)
+Seat 3: AC&DC (225)
+*** ANTE/BLINDS ***
+AC&DC posts small blind 20
+CarreDuPion posts big blind 40
+Dealt to MathisKcr [4d 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+AC&DC calls 20
+CarreDuPion checks
+*** FLOP *** [9s 2d 8c]
+AC&DC checks
+CarreDuPion checks
+*** TURN *** [9s 2d 8c][7c]
+AC&DC checks
+CarreDuPion checks
+*** RIVER *** [9s 2d 8c 7c][Jd]
+AC&DC bets 64
+CarreDuPion folds
+AC&DC collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | No rake
+Board: [9s 2d 8c 7c Jd]
+Seat 3: AC&DC (small blind) won 144
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4667970860466831361-10-1774775141 - Holdem no limit (30/60) - 2026/03/29 09:05:41 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CarreDuPion (360)
+Seat 2: MathisKcr (275)
+Seat 3: AC&DC (265)
+*** ANTE/BLINDS ***
+CarreDuPion posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [5s Td]
+*** PRE-FLOP *** 
+AC&DC folds
+CarreDuPion folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4667970860466831361-11-1774775154 - Holdem no limit (30/60) - 2026/03/29 09:05:54 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CarreDuPion (330)
+Seat 2: MathisKcr (305)
+Seat 3: AC&DC (265)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+AC&DC posts big blind 60
+Dealt to MathisKcr [5h 3s]
+*** PRE-FLOP *** 
+CarreDuPion raises 270 to 330 and is all-in
+MathisKcr folds
+AC&DC calls 205 and is all-in
+*** FLOP *** [2s Ts Ks]
+*** TURN *** [2s Ts Ks][6s]
+*** RIVER *** [2s Ts Ks 6s][5c]
+*** SHOW DOWN ***
+CarreDuPion shows [Ah 2h] (One pair : 2)
+AC&DC shows [6c 8c] (One pair : 6)
+AC&DC collected 560 from main pot
+CarreDuPion collected 65 from side pot 1
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [2s Ts Ks 6s 5c]
+Seat 1: CarreDuPion (button) showed [Ah 2h] and won 65 with One pair : 2
+Seat 3: AC&DC (big blind) showed [6c 8c] and won 560 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4667970860466831361-12-1774775175 - Holdem no limit (40/80) - 2026/03/29 09:06:15 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CarreDuPion (65)
+Seat 2: MathisKcr (275)
+Seat 3: AC&DC (560)
+*** ANTE/BLINDS ***
+AC&DC posts small blind 40
+CarreDuPion posts big blind 65 and is all-in
+Dealt to MathisKcr [3s 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+AC&DC raises 95 to 160
+*** FLOP *** [8s 5d Qd]
+*** TURN *** [8s 5d Qd][7c]
+*** RIVER *** [8s 5d Qd 7c][9h]
+*** SHOW DOWN ***
+CarreDuPion shows [Jd 3c] (High card : Queen)
+AC&DC shows [Js Kh] (High card : King)
+AC&DC collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [8s 5d Qd 7c 9h]
+Seat 1: CarreDuPion (big blind) showed [Jd 3c] and lost with High card : Queen
+Seat 3: AC&DC (small blind) showed [Js Kh] and won 225 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4667970860466831361-13-1774775190 - Holdem no limit (40/80) - 2026/03/29 09:06:30 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (275)
+Seat 3: AC&DC (625)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+AC&DC posts big blind 80
+Dealt to MathisKcr [9d 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 195 to 275 and is all-in
+AC&DC calls 195
+*** FLOP *** [8s Jc 4d]
+*** TURN *** [8s Jc 4d][9h]
+*** RIVER *** [8s Jc 4d 9h][Ad]
+*** SHOW DOWN ***
+AC&DC shows [5h Th] (High card : Ace)
+MathisKcr shows [9d 9c] (Trips of 9)
+MathisKcr collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [8s Jc 4d 9h Ad]
+Seat 2: MathisKcr (small blind) (button) showed [9d 9c] and won 550 with Trips of 9
+Seat 3: AC&DC (big blind) showed [5h Th] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4667970860466831361-14-1774775207 - Holdem no limit (40/80) - 2026/03/29 09:06:47 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (550)
+Seat 3: AC&DC (350)
+*** ANTE/BLINDS ***
+AC&DC posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [3s 7h]
+*** PRE-FLOP *** 
+AC&DC calls 40
+MathisKcr checks
+*** FLOP *** [6c 9h 7d]
+MathisKcr bets 80
+AC&DC calls 80
+*** TURN *** [6c 9h 7d][6h]
+MathisKcr bets 160
+AC&DC raises 30 to 190 and is all-in
+MathisKcr calls 30
+*** RIVER *** [6c 9h 7d 6h][4h]
+*** SHOW DOWN ***
+MathisKcr shows [3s 7h] (Two pairs : 7 and 6)
+AC&DC shows [9s 8s] (Two pairs : 9 and 6)
+AC&DC collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [6c 9h 7d 6h 4h]
+Seat 2: MathisKcr (big blind) showed [3s 7h] and lost with Two pairs : 7 and 6
+Seat 3: AC&DC (small blind) (button) showed [9s 8s] and won 700 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4667970860466831361-15-1774775248 - Holdem no limit (50/100) - 2026/03/29 09:07:28 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (200)
+Seat 3: AC&DC (700)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 50
+AC&DC posts big blind 100
+Dealt to MathisKcr [5c 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+AC&DC collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: AC&DC (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4667970860466831361-16-1774775252 - Holdem no limit (50/100) - 2026/03/29 09:07:32 UTC
+Table: 'Expresso Nitro(1086846660)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (150)
+Seat 3: AC&DC (750)
+*** ANTE/BLINDS ***
+AC&DC posts small blind 50
+MathisKcr posts big blind 100
+Dealt to MathisKcr [Jd 9h]
+*** PRE-FLOP *** 
+AC&DC raises 100 to 200
+MathisKcr calls 50 and is all-in
+*** FLOP *** [4s Qc Jh]
+*** TURN *** [4s Qc Jh][Kh]
+*** RIVER *** [4s Qc Jh Kh][3s]
+*** SHOW DOWN ***
+MathisKcr shows [Jd 9h] (One pair : Jacks)
+AC&DC shows [Ks Ac] (One pair : Kings)
+AC&DC collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [4s Qc Jh Kh 3s]
+Seat 2: MathisKcr (big blind) showed [Jd 9h] and lost with One pair : Jacks
+Seat 3: AC&DC (small blind) (button) showed [Ks Ac] and won 350 with One pair : Kings
+
+

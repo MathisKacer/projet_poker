@@ -1,0 +1,177 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634985881000738817-1-1773592631 - Holdem no limit (10/20) - 2026/03/15 16:37:11 UTC
+Table: 'Expresso Nitro(1079166746)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sismixxxx (300)
+Seat 2: MathisKcr (300)
+Seat 3: Palmlxb (300)
+*** ANTE/BLINDS ***
+Palmlxb posts small blind 10
+sismixxxx posts big blind 20
+Dealt to MathisKcr [5c 7d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Palmlxb raises 20 to 40
+sismixxxx folds
+Palmlxb collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Palmlxb (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634985881000738817-2-1773592642 - Holdem no limit (10/20) - 2026/03/15 16:37:22 UTC
+Table: 'Expresso Nitro(1079166746)#0' 3-max (real money) Seat #3 is the button
+Seat 1: sismixxxx (280)
+Seat 2: MathisKcr (300)
+Seat 3: Palmlxb (320)
+*** ANTE/BLINDS ***
+sismixxxx posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kc 9h]
+*** PRE-FLOP *** 
+Palmlxb folds
+sismixxxx folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634985881000738817-3-1773592657 - Holdem no limit (10/20) - 2026/03/15 16:37:37 UTC
+Table: 'Expresso Nitro(1079166746)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sismixxxx (270)
+Seat 2: MathisKcr (310)
+Seat 3: Palmlxb (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Palmlxb posts big blind 20
+Dealt to MathisKcr [Ac 7s]
+*** PRE-FLOP *** 
+sismixxxx raises 40 to 60
+MathisKcr raises 250 to 310 and is all-in
+Palmlxb folds
+sismixxxx calls 210 and is all-in
+*** FLOP *** [Js 4d 2c]
+*** TURN *** [Js 4d 2c][9h]
+*** RIVER *** [Js 4d 2c 9h][7d]
+*** SHOW DOWN ***
+sismixxxx shows [Jh Qd] (One pair : Jacks)
+MathisKcr shows [Ac 7s] (One pair : 7)
+MathisKcr collected 40 from side pot 1
+sismixxxx collected 560 from main pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Js 4d 2c 9h 7d]
+Seat 1: sismixxxx (button) showed [Jh Qd] and won 560 with One pair : Jacks
+Seat 2: MathisKcr (small blind) showed [Ac 7s] and won 40 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634985881000738817-4-1773592677 - Holdem no limit (10/20) - 2026/03/15 16:37:57 UTC
+Table: 'Expresso Nitro(1079166746)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sismixxxx (560)
+Seat 2: MathisKcr (40)
+Seat 3: Palmlxb (300)
+*** ANTE/BLINDS ***
+Palmlxb posts small blind 10
+sismixxxx posts big blind 20
+Dealt to MathisKcr [3h 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Palmlxb calls 10
+sismixxxx checks
+*** FLOP *** [Qs 8d Jc]
+Palmlxb checks
+sismixxxx checks
+*** TURN *** [Qs 8d Jc][8c]
+Palmlxb bets 26
+sismixxxx folds
+Palmlxb collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Qs 8d Jc 8c]
+Seat 3: Palmlxb (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4634985881000738817-5-1773592705 - Holdem no limit (15/30) - 2026/03/15 16:38:25 UTC
+Table: 'Expresso Nitro(1079166746)#0' 3-max (real money) Seat #3 is the button
+Seat 1: sismixxxx (540)
+Seat 2: MathisKcr (40)
+Seat 3: Palmlxb (320)
+*** ANTE/BLINDS ***
+sismixxxx posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [As Qh]
+*** PRE-FLOP *** 
+Palmlxb raises 290 to 320 and is all-in
+sismixxxx folds
+MathisKcr calls 10 and is all-in
+*** FLOP *** [3s 6s 3h]
+*** TURN *** [3s 6s 3h][5h]
+*** RIVER *** [3s 6s 3h 5h][7c]
+*** SHOW DOWN ***
+MathisKcr shows [As Qh] (One pair : 3)
+Palmlxb shows [Jd Ah] (One pair : 3)
+Palmlxb collected 280 from side pot 1
+MathisKcr collected 95 from main pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [3s 6s 3h 5h 7c]
+Seat 2: MathisKcr (big blind) showed [As Qh] and won 95 with One pair : 3
+Seat 3: Palmlxb (button) showed [Jd Ah] and won 280 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4634985881000738817-6-1773592725 - Holdem no limit (15/30) - 2026/03/15 16:38:45 UTC
+Table: 'Expresso Nitro(1079166746)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sismixxxx (525)
+Seat 2: MathisKcr (95)
+Seat 3: Palmlxb (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Palmlxb posts big blind 30
+Dealt to MathisKcr [7d Jh]
+*** PRE-FLOP *** 
+sismixxxx folds
+MathisKcr raises 65 to 95 and is all-in
+Palmlxb raises 185 to 280 and is all-in
+*** FLOP *** [7c 4s 3d]
+*** TURN *** [7c 4s 3d][Th]
+*** RIVER *** [7c 4s 3d Th][Jc]
+*** SHOW DOWN ***
+MathisKcr shows [7d Jh] (Two pairs : Jacks and 7)
+Palmlxb shows [8s Js] (One pair : Jacks)
+Palmlxb collected 185 from side pot 1
+MathisKcr collected 190 from main pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [7c 4s 3d Th Jc]
+Seat 2: MathisKcr (small blind) showed [7d Jh] and won 190 with Two pairs : Jacks and 7
+Seat 3: Palmlxb (big blind) showed [8s Js] and won 185 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4634985881000738817-7-1773592745 - Holdem no limit (15/30) - 2026/03/15 16:39:05 UTC
+Table: 'Expresso Nitro(1079166746)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sismixxxx (525)
+Seat 2: MathisKcr (190)
+Seat 3: Palmlxb (185)
+*** ANTE/BLINDS ***
+Palmlxb posts small blind 15
+sismixxxx posts big blind 30
+Dealt to MathisKcr [Qs 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 160 to 190 and is all-in
+Palmlxb calls 170 and is all-in
+sismixxxx raises 335 to 525 and is all-in
+*** FLOP *** [8h 9h Jd]
+*** TURN *** [8h 9h Jd][8c]
+*** RIVER *** [8h 9h Jd 8c][3c]
+*** SHOW DOWN ***
+MathisKcr shows [Qs 7s] (One pair : 8)
+Palmlxb shows [Qh 6d] (One pair : 8)
+sismixxxx shows [Tc Th] (Two pairs : Tens and 8)
+sismixxxx collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h 9h Jd 8c 3c]
+Seat 1: sismixxxx (big blind) showed [Tc Th] and won 900 with Two pairs : Tens and 8
+Seat 2: MathisKcr (button) showed [Qs 7s] and lost with One pair : 8
+Seat 3: Palmlxb (small blind) showed [Qh 6d] and lost with One pair : 8
+
+

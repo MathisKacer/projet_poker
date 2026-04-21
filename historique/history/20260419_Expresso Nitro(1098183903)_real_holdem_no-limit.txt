@@ -1,0 +1,359 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4716663948378636289-1-1776631758 - Holdem no limit (10/20) - 2026/04/19 20:49:18 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: MiguiOuzou (300)
+Seat 3: LOQping (300)
+*** ANTE/BLINDS ***
+LOQping posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s 5d]
+*** PRE-FLOP *** 
+MiguiOuzou folds
+LOQping calls 10
+MathisKcr checks
+*** FLOP *** [3h 7s Js]
+LOQping bets 20
+MathisKcr folds
+LOQping collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3h 7s Js]
+Seat 3: LOQping (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4716663948378636289-2-1776631779 - Holdem no limit (10/20) - 2026/04/19 20:49:39 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: MiguiOuzou (300)
+Seat 3: LOQping (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+MiguiOuzou posts big blind 20
+Dealt to MathisKcr [4h 5s]
+*** PRE-FLOP *** 
+LOQping calls 20
+MathisKcr folds
+MiguiOuzou checks
+*** FLOP *** [6s Kd 8c]
+MiguiOuzou bets 20
+LOQping folds
+MiguiOuzou collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [6s Kd 8c]
+Seat 2: MiguiOuzou (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4716663948378636289-3-1776631794 - Holdem no limit (10/20) - 2026/04/19 20:49:54 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: MiguiOuzou (330)
+Seat 3: LOQping (300)
+*** ANTE/BLINDS ***
+MiguiOuzou posts small blind 10
+LOQping posts big blind 20
+Dealt to MathisKcr [9h 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+MiguiOuzou calls 30
+LOQping calls 20
+*** FLOP *** [5c 5s 5h]
+MiguiOuzou bets 290 and is all-in
+LOQping folds
+MathisKcr folds
+MiguiOuzou collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Board: [5c 5s 5h]
+Seat 2: MiguiOuzou (small blind) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4716663948378636289-4-1776631821 - Holdem no limit (15/30) - 2026/04/19 20:50:21 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (230)
+Seat 2: MiguiOuzou (410)
+Seat 3: LOQping (260)
+*** ANTE/BLINDS ***
+LOQping posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5s 2d]
+*** PRE-FLOP *** 
+MiguiOuzou calls 30
+LOQping calls 15
+MathisKcr checks
+*** FLOP *** [Ac 3s Kh]
+LOQping bets 30
+MathisKcr calls 30
+MiguiOuzou calls 30
+*** TURN *** [Ac 3s Kh][3c]
+LOQping bets 30
+MathisKcr folds
+MiguiOuzou calls 30
+*** RIVER *** [Ac 3s Kh 3c][Qc]
+LOQping bets 30
+MiguiOuzou folds
+LOQping collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [Ac 3s Kh 3c Qc]
+Seat 3: LOQping (small blind) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4716663948378636289-5-1776631852 - Holdem no limit (15/30) - 2026/04/19 20:50:52 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (170)
+Seat 2: MiguiOuzou (320)
+Seat 3: LOQping (410)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+MiguiOuzou posts big blind 30
+Dealt to MathisKcr [2c 8s]
+*** PRE-FLOP *** 
+LOQping calls 30
+MathisKcr folds
+MiguiOuzou checks
+*** FLOP *** [2s 4s 6h]
+MiguiOuzou bets 290 and is all-in
+LOQping folds
+MiguiOuzou collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Board: [2s 4s 6h]
+Seat 2: MiguiOuzou (big blind) won 365
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4716663948378636289-6-1776631865 - Holdem no limit (15/30) - 2026/04/19 20:51:05 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (155)
+Seat 2: MiguiOuzou (365)
+Seat 3: LOQping (380)
+*** ANTE/BLINDS ***
+MiguiOuzou posts small blind 15
+LOQping posts big blind 30
+Dealt to MathisKcr [4c Jd]
+*** PRE-FLOP *** 
+MathisKcr folds
+MiguiOuzou calls 15
+LOQping checks
+*** FLOP *** [6h 5h Td]
+MiguiOuzou checks
+LOQping bets 350 and is all-in
+MiguiOuzou folds
+LOQping collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Board: [6h 5h Td]
+Seat 3: LOQping (big blind) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4716663948378636289-7-1776631887 - Holdem no limit (20/40) - 2026/04/19 20:51:27 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (155)
+Seat 2: MiguiOuzou (335)
+Seat 3: LOQping (410)
+*** ANTE/BLINDS ***
+LOQping posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [8d Td]
+*** PRE-FLOP *** 
+MiguiOuzou folds
+LOQping calls 20
+MathisKcr raises 115 to 155 and is all-in
+LOQping calls 115
+*** FLOP *** [Jh Ts 3s]
+*** TURN *** [Jh Ts 3s][4s]
+*** RIVER *** [Jh Ts 3s 4s][6h]
+*** SHOW DOWN ***
+LOQping shows [Kc 4c] (One pair : 4)
+MathisKcr shows [8d Td] (One pair : Tens)
+MathisKcr collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Board: [Jh Ts 3s 4s 6h]
+Seat 1: MathisKcr (big blind) showed [8d Td] and won 310 with One pair : Tens
+Seat 3: LOQping (small blind) showed [Kc 4c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4716663948378636289-8-1776631913 - Holdem no limit (20/40) - 2026/04/19 20:51:53 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (310)
+Seat 2: MiguiOuzou (335)
+Seat 3: LOQping (255)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+MiguiOuzou posts big blind 40
+Dealt to MathisKcr [7c 5d]
+*** PRE-FLOP *** 
+LOQping folds
+MathisKcr folds
+MiguiOuzou collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MiguiOuzou (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4716663948378636289-9-1776631921 - Holdem no limit (20/40) - 2026/04/19 20:52:01 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: MiguiOuzou (355)
+Seat 3: LOQping (255)
+*** ANTE/BLINDS ***
+MiguiOuzou posts small blind 20
+LOQping posts big blind 40
+Dealt to MathisKcr [3h Js]
+*** PRE-FLOP *** 
+MathisKcr folds
+MiguiOuzou calls 20
+LOQping raises 40 to 80
+MiguiOuzou calls 40
+*** FLOP *** [Ks 6d 2h]
+MiguiOuzou bets 56
+LOQping raises 119 to 175 and is all-in
+MiguiOuzou folds
+LOQping collected 391 from pot
+*** SUMMARY ***
+Total pot 391 | No rake
+Board: [Ks 6d 2h]
+Seat 3: LOQping (big blind) won 391
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4716663948378636289-10-1776631949 - Holdem no limit (30/60) - 2026/04/19 20:52:29 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (290)
+Seat 2: MiguiOuzou (219)
+Seat 3: LOQping (391)
+*** ANTE/BLINDS ***
+LOQping posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [9h 4s]
+*** PRE-FLOP *** 
+MiguiOuzou raises 159 to 219 and is all-in
+LOQping folds
+MathisKcr folds
+MiguiOuzou collected 309 from pot
+*** SUMMARY ***
+Total pot 309 | No rake
+Seat 2: MiguiOuzou (button) won 309
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4716663948378636289-11-1776631966 - Holdem no limit (30/60) - 2026/04/19 20:52:46 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (230)
+Seat 2: MiguiOuzou (309)
+Seat 3: LOQping (361)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+MiguiOuzou posts big blind 60
+Dealt to MathisKcr [3h Jh]
+*** PRE-FLOP *** 
+LOQping calls 60
+MathisKcr folds
+MiguiOuzou raises 249 to 309 and is all-in
+LOQping folds
+MiguiOuzou collected 399 from pot
+*** SUMMARY ***
+Total pot 399 | No rake
+Seat 2: MiguiOuzou (big blind) won 399
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4716663948378636289-12-1776631977 - Holdem no limit (30/60) - 2026/04/19 20:52:57 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (200)
+Seat 2: MiguiOuzou (399)
+Seat 3: LOQping (301)
+*** ANTE/BLINDS ***
+MiguiOuzou posts small blind 30
+LOQping posts big blind 60
+Dealt to MathisKcr [6s 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+MiguiOuzou folds
+LOQping collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: LOQping (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4716663948378636289-13-1776631986 - Holdem no limit (30/60) - 2026/04/19 20:53:06 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (200)
+Seat 2: MiguiOuzou (369)
+Seat 3: LOQping (331)
+*** ANTE/BLINDS ***
+LOQping posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ks 6d]
+*** PRE-FLOP *** 
+MiguiOuzou calls 60
+LOQping calls 30
+MathisKcr raises 140 to 200 and is all-in
+MiguiOuzou calls 140
+LOQping folds
+*** FLOP *** [8h Tc Jd]
+*** TURN *** [8h Tc Jd][Kc]
+*** RIVER *** [8h Tc Jd Kc][6c]
+*** SHOW DOWN ***
+MiguiOuzou shows [9s Td] (One pair : Tens)
+MathisKcr shows [Ks 6d] (Two pairs : Kings and 6)
+MathisKcr collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [8h Tc Jd Kc 6c]
+Seat 1: MathisKcr (big blind) showed [Ks 6d] and won 460 with Two pairs : Kings and 6
+Seat 2: MiguiOuzou (button) showed [9s Td] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4716663948378636289-14-1776632009 - Holdem no limit (40/80) - 2026/04/19 20:53:29 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (460)
+Seat 2: MiguiOuzou (169)
+Seat 3: LOQping (271)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+MiguiOuzou posts big blind 80
+Dealt to MathisKcr [2c 8s]
+*** PRE-FLOP *** 
+LOQping calls 80
+MathisKcr folds
+MiguiOuzou raises 89 to 169 and is all-in
+LOQping calls 89
+*** FLOP *** [3c 9h 9s]
+*** TURN *** [3c 9h 9s][Ts]
+*** RIVER *** [3c 9h 9s Ts][Kc]
+*** SHOW DOWN ***
+MiguiOuzou shows [As 3s] (Two pairs : 9 and 3)
+LOQping shows [Js Th] (Two pairs : Tens and 9)
+LOQping collected 378 from pot
+*** SUMMARY ***
+Total pot 378 | No rake
+Board: [3c 9h 9s Ts Kc]
+Seat 2: MiguiOuzou (big blind) showed [As 3s] and lost with Two pairs : 9 and 3
+Seat 3: LOQping (button) showed [Js Th] and won 378 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4716663948378636289-15-1776632029 - Holdem no limit (40/80) - 2026/04/19 20:53:49 UTC
+Table: 'Expresso Nitro(1098183903)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (420)
+Seat 3: LOQping (480)
+*** ANTE/BLINDS ***
+LOQping posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Td Ac]
+*** PRE-FLOP *** 
+LOQping calls 40
+MathisKcr raises 340 to 420 and is all-in
+LOQping calls 340
+*** FLOP *** [Ks 7h 3h]
+*** TURN *** [Ks 7h 3h][5s]
+*** RIVER *** [Ks 7h 3h 5s][9s]
+*** SHOW DOWN ***
+MathisKcr shows [Td Ac] (High card : Ace)
+LOQping shows [Ad 5h] (One pair : 5)
+LOQping collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [Ks 7h 3h 5s 9s]
+Seat 1: MathisKcr (big blind) showed [Td Ac] and lost with High card : Ace
+Seat 3: LOQping (small blind) (button) showed [Ad 5h] and won 840 with One pair : 5
+
+

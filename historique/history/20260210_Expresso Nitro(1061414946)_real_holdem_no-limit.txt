@@ -1,0 +1,270 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558742480555606017-1-1770725641 - Holdem no limit (10/20) - 2026/02/10 12:14:01 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kekkae (300)
+Seat 2: MathisKcr (300)
+Seat 3: Lanyny (300)
+*** ANTE/BLINDS ***
+Kekkae posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6c Kd]
+*** PRE-FLOP *** 
+Lanyny folds
+Kekkae folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558742480555606017-2-1770725651 - Holdem no limit (10/20) - 2026/02/10 12:14:11 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kekkae (290)
+Seat 2: MathisKcr (310)
+Seat 3: Lanyny (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Lanyny posts big blind 20
+Dealt to MathisKcr [As 9h]
+*** PRE-FLOP *** 
+Kekkae folds
+MathisKcr raises 30 to 50
+Lanyny calls 30
+*** FLOP *** [6s 8c 4c]
+MathisKcr checks
+Lanyny bets 65
+MathisKcr calls 65
+*** TURN *** [6s 8c 4c][Jd]
+MathisKcr checks
+Lanyny bets 81
+MathisKcr folds
+Lanyny collected 311 from pot
+*** SUMMARY ***
+Total pot 311 | No rake
+Board: [6s 8c 4c Jd]
+Seat 3: Lanyny (big blind) won 311
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558742480555606017-3-1770725684 - Holdem no limit (10/20) - 2026/02/10 12:14:44 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kekkae (290)
+Seat 2: MathisKcr (195)
+Seat 3: Lanyny (415)
+*** ANTE/BLINDS ***
+Lanyny posts small blind 10
+Kekkae posts big blind 20
+Dealt to MathisKcr [Qc 2d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lanyny calls 10
+Kekkae checks
+*** FLOP *** [8c 2h 9s]
+Lanyny checks
+Kekkae bets 20
+Lanyny calls 20
+*** TURN *** [8c 2h 9s][Qd]
+Lanyny checks
+Kekkae checks
+*** RIVER *** [8c 2h 9s Qd][Jh]
+Lanyny checks
+Kekkae checks
+*** SHOW DOWN ***
+Lanyny shows [7s 5s] (High card : Queen)
+Kekkae shows [Kc 8d] (One pair : 8)
+Kekkae collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8c 2h 9s Qd Jh]
+Seat 1: Kekkae (big blind) showed [Kc 8d] and won 80 with One pair : 8
+Seat 3: Lanyny (small blind) showed [7s 5s] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4558742480555606017-4-1770725703 - Holdem no limit (15/30) - 2026/02/10 12:15:03 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kekkae (330)
+Seat 2: MathisKcr (195)
+Seat 3: Lanyny (375)
+*** ANTE/BLINDS ***
+Kekkae posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Th 2c]
+*** PRE-FLOP *** 
+Lanyny folds
+Kekkae calls 15
+MathisKcr checks
+*** FLOP *** [6s 4s 5c]
+Kekkae checks
+MathisKcr checks
+*** TURN *** [6s 4s 5c][8h]
+Kekkae bets 30
+MathisKcr folds
+Kekkae collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6s 4s 5c 8h]
+Seat 1: Kekkae (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4558742480555606017-5-1770725721 - Holdem no limit (15/30) - 2026/02/10 12:15:21 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kekkae (360)
+Seat 2: MathisKcr (165)
+Seat 3: Lanyny (375)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Lanyny posts big blind 30
+Dealt to MathisKcr [8h 2d]
+*** PRE-FLOP *** 
+Kekkae raises 45 to 75
+MathisKcr folds
+Lanyny folds
+Kekkae collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Kekkae (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4558742480555606017-6-1770725734 - Holdem no limit (15/30) - 2026/02/10 12:15:34 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kekkae (405)
+Seat 2: MathisKcr (150)
+Seat 3: Lanyny (345)
+*** ANTE/BLINDS ***
+Lanyny posts small blind 15
+Kekkae posts big blind 30
+Dealt to MathisKcr [8s 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 45 to 75
+Lanyny calls 60
+Kekkae raises 330 to 405 and is all-in
+MathisKcr calls 75 and is all-in
+Lanyny calls 270 and is all-in
+*** FLOP *** [6d 5d Kc]
+*** TURN *** [6d 5d Kc][5c]
+*** RIVER *** [6d 5d Kc 5c][7h]
+*** SHOW DOWN ***
+Lanyny shows [4c Ad] (One pair : 5)
+Kekkae shows [Qs As] (One pair : 5)
+MathisKcr shows [8s 6s] (Two pairs : 6 and 5)
+MathisKcr collected 450 from main pot
+Kekkae collected 450 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 5d Kc 5c 7h]
+Seat 1: Kekkae (big blind) showed [Qs As] and won 450 with One pair : 5
+Seat 2: MathisKcr (button) showed [8s 6s] and won 450 with Two pairs : 6 and 5
+Seat 3: Lanyny (small blind) showed [4c Ad] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4558742480555606017-7-1770725755 - Holdem no limit (15/30) - 2026/02/10 12:15:55 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kekkae (450)
+Seat 2: MathisKcr (450)
+*** ANTE/BLINDS ***
+Kekkae posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2h 6s]
+*** PRE-FLOP *** 
+Kekkae raises 420 to 450 and is all-in
+MathisKcr folds
+Kekkae collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 1: Kekkae (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4558742480555606017-8-1770725763 - Holdem no limit (20/40) - 2026/02/10 12:16:03 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kekkae (480)
+Seat 2: MathisKcr (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Kekkae posts big blind 40
+Dealt to MathisKcr [5s 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Kekkae collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Kekkae (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4558742480555606017-9-1770725768 - Holdem no limit (20/40) - 2026/02/10 12:16:08 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kekkae (500)
+Seat 2: MathisKcr (400)
+*** ANTE/BLINDS ***
+Kekkae posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Qc Ac]
+*** PRE-FLOP *** 
+Kekkae folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4558742480555606017-10-1770725774 - Holdem no limit (20/40) - 2026/02/10 12:16:14 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kekkae (480)
+Seat 2: MathisKcr (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Kekkae posts big blind 40
+Dealt to MathisKcr [8d 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 100
+Kekkae calls 60
+*** FLOP *** [7d Js 4c]
+Kekkae checks
+MathisKcr bets 100
+Kekkae raises 100 to 200
+MathisKcr folds
+Kekkae collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [7d Js 4c]
+Seat 1: Kekkae (big blind) won 500
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4558742480555606017-11-1770725793 - Holdem no limit (20/40) - 2026/02/10 12:16:33 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kekkae (680)
+Seat 2: MathisKcr (220)
+*** ANTE/BLINDS ***
+Kekkae posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7s Ts]
+*** PRE-FLOP *** 
+Kekkae folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4558742480555606017-12-1770725799 - Holdem no limit (20/40) - 2026/02/10 12:16:39 UTC
+Table: 'Expresso Nitro(1061414946)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kekkae (660)
+Seat 2: MathisKcr (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Kekkae posts big blind 40
+Dealt to MathisKcr [5c Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 200 to 240 and is all-in
+Kekkae calls 200
+*** FLOP *** [3s 2d Ah]
+*** TURN *** [3s 2d Ah][9s]
+*** RIVER *** [3s 2d Ah 9s][As]
+*** SHOW DOWN ***
+MathisKcr shows [5c Qh] (One pair : Aces)
+Kekkae shows [Kd Th] (One pair : Aces)
+Kekkae collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [3s 2d Ah 9s As]
+Seat 1: Kekkae (big blind) showed [Kd Th] and won 480 with One pair : Aces
+Seat 2: MathisKcr (small blind) (button) showed [5c Qh] and lost with One pair : Aces
+
+

@@ -1,0 +1,187 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558444079112781825-1-1770716812 - Holdem no limit (10/20) - 2026/02/10 09:46:52 UTC
+Table: 'Expresso Nitro(1061345469)#0' 3-max (real money) Seat #1 is the button
+Seat 1: funky_927256 (300)
+Seat 2: toune500 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+toune500 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6d 8h]
+*** PRE-FLOP *** 
+funky_927256 raises 20 to 40
+toune500 calls 30
+MathisKcr calls 20
+*** FLOP *** [Ah Ts 6s]
+toune500 checks
+MathisKcr bets 30
+funky_927256 calls 30
+toune500 calls 30
+*** TURN *** [Ah Ts 6s][3d]
+toune500 checks
+MathisKcr bets 60
+funky_927256 folds
+toune500 calls 60
+*** RIVER *** [Ah Ts 6s 3d][8s]
+toune500 checks
+MathisKcr checks
+*** SHOW DOWN ***
+toune500 shows [Th Jc] (One pair : Tens)
+MathisKcr shows [6d 8h] (Two pairs : 8 and 6)
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Ah Ts 6s 3d 8s]
+Seat 2: toune500 (small blind) showed [Th Jc] and lost with One pair : Tens
+Seat 3: MathisKcr (big blind) showed [6d 8h] and won 330 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558444079112781825-2-1770716836 - Holdem no limit (10/20) - 2026/02/10 09:47:16 UTC
+Table: 'Expresso Nitro(1061345469)#0' 3-max (real money) Seat #2 is the button
+Seat 1: funky_927256 (230)
+Seat 2: toune500 (170)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+funky_927256 posts big blind 20
+Dealt to MathisKcr [7c 8d]
+*** PRE-FLOP *** 
+toune500 folds
+MathisKcr raises 30 to 50
+funky_927256 calls 30
+*** FLOP *** [Tc Qh 2d]
+MathisKcr checks
+funky_927256 checks
+*** TURN *** [Tc Qh 2d][6c]
+MathisKcr checks
+funky_927256 checks
+*** RIVER *** [Tc Qh 2d 6c][9d]
+MathisKcr bets 35
+funky_927256 folds
+MathisKcr collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Tc Qh 2d 6c 9d]
+Seat 3: MathisKcr (small blind) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558444079112781825-3-1770716866 - Holdem no limit (10/20) - 2026/02/10 09:47:46 UTC
+Table: 'Expresso Nitro(1061345469)#0' 3-max (real money) Seat #3 is the button
+Seat 1: funky_927256 (180)
+Seat 2: toune500 (170)
+Seat 3: MathisKcr (550)
+*** ANTE/BLINDS ***
+funky_927256 posts small blind 10
+toune500 posts big blind 20
+Dealt to MathisKcr [Qc 4h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+funky_927256 calls 30
+toune500 folds
+*** FLOP *** [6s 2c 5h]
+funky_927256 checks
+MathisKcr bets 40
+funky_927256 calls 40
+*** TURN *** [6s 2c 5h][As]
+funky_927256 bets 20
+MathisKcr calls 20
+*** RIVER *** [6s 2c 5h As][Ac]
+funky_927256 checks
+MathisKcr checks
+*** SHOW DOWN ***
+funky_927256 shows [4c Qd] (One pair : Aces)
+MathisKcr shows [Qc 4h] (One pair : Aces)
+MathisKcr collected 110 from pot
+funky_927256 collected 110 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [6s 2c 5h As Ac]
+Seat 1: funky_927256 (small blind) showed [4c Qd] and won 110 with One pair : Aces
+Seat 3: MathisKcr (button) showed [Qc 4h] and won 110 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4558444079112781825-4-1770716885 - Holdem no limit (15/30) - 2026/02/10 09:48:05 UTC
+Table: 'Expresso Nitro(1061345469)#0' 3-max (real money) Seat #1 is the button
+Seat 1: funky_927256 (190)
+Seat 2: toune500 (150)
+Seat 3: MathisKcr (560)
+*** ANTE/BLINDS ***
+toune500 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2h Qs]
+*** PRE-FLOP *** 
+funky_927256 calls 30
+toune500 calls 15
+MathisKcr checks
+*** FLOP *** [Js 6s 8d]
+toune500 bets 120 and is all-in
+MathisKcr folds
+funky_927256 calls 120
+*** TURN *** [Js 6s 8d][Ah]
+*** RIVER *** [Js 6s 8d Ah][5h]
+*** SHOW DOWN ***
+toune500 shows [6c 4c] (One pair : 6)
+funky_927256 shows [8c 6d] (Two pairs : 8 and 6)
+funky_927256 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Js 6s 8d Ah 5h]
+Seat 1: funky_927256 (button) showed [8c 6d] and won 330 with Two pairs : 8 and 6
+Seat 2: toune500 (small blind) showed [6c 4c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4558444079112781825-5-1770716901 - Holdem no limit (15/30) - 2026/02/10 09:48:21 UTC
+Table: 'Expresso Nitro(1061345469)#0' 3-max (real money) Seat #3 is the button
+Seat 1: funky_927256 (370)
+Seat 3: MathisKcr (530)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+funky_927256 posts big blind 30
+Dealt to MathisKcr [Jh 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 45 to 75
+funky_927256 calls 45
+*** FLOP *** [3c 7d 2c]
+funky_927256 bets 53
+MathisKcr calls 53
+*** TURN *** [3c 7d 2c][8c]
+funky_927256 bets 90
+MathisKcr calls 90
+*** RIVER *** [3c 7d 2c 8c][Tc]
+funky_927256 bets 30
+MathisKcr calls 30
+*** SHOW DOWN ***
+funky_927256 shows [2s 4s] (One pair : 2)
+MathisKcr shows [Jh 9c] (Flush Ten high)
+MathisKcr collected 496 from pot
+*** SUMMARY ***
+Total pot 496 | No rake
+Board: [3c 7d 2c 8c Tc]
+Seat 1: funky_927256 (big blind) showed [2s 4s] and lost with One pair : 2
+Seat 3: MathisKcr (small blind) (button) showed [Jh 9c] and won 496 with Flush Ten high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4558444079112781825-6-1770716919 - Holdem no limit (15/30) - 2026/02/10 09:48:39 UTC
+Table: 'Expresso Nitro(1061345469)#0' 3-max (real money) Seat #1 is the button
+Seat 1: funky_927256 (122)
+Seat 3: MathisKcr (778)
+*** ANTE/BLINDS ***
+funky_927256 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4h Kd]
+*** PRE-FLOP *** 
+funky_927256 raises 92 to 122 and is all-in
+MathisKcr calls 92
+*** FLOP *** [8d Ks Js]
+*** TURN *** [8d Ks Js][5h]
+*** RIVER *** [8d Ks Js 5h][Qd]
+*** SHOW DOWN ***
+funky_927256 shows [5d 7h] (One pair : 5)
+MathisKcr shows [4h Kd] (One pair : Kings)
+MathisKcr collected 244 from pot
+*** SUMMARY ***
+Total pot 244 | No rake
+Board: [8d Ks Js 5h Qd]
+Seat 1: funky_927256 (small blind) (button) showed [5d 7h] and lost with One pair : 5
+Seat 3: MathisKcr (big blind) showed [4h Kd] and won 244 with One pair : Kings
+
+

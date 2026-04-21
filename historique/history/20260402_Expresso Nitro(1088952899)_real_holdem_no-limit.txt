@@ -1,0 +1,27 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677017088089391105-1-1775118783 - Holdem no limit (10/20) - 2026/04/02 08:33:03 UTC
+Table: 'Expresso Nitro(1088952899)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Casper Ruud (300)
+Seat 2: MathisKcr (300)
+Seat 3: aaaurelll (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+aaaurelll posts big blind 20
+Dealt to MathisKcr [8c Ad]
+*** PRE-FLOP *** 
+Casper Ruud raises 280 to 300 and is all-in
+MathisKcr calls 290 and is all-in
+aaaurelll folds
+*** FLOP *** [7s Jd 4d]
+*** TURN *** [7s Jd 4d][Ks]
+*** RIVER *** [7s Jd 4d Ks][5s]
+*** SHOW DOWN ***
+MathisKcr shows [8c Ad] (High card : Ace)
+Casper Ruud shows [Kh Ac] (One pair : Kings)
+Casper Ruud collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [7s Jd 4d Ks 5s]
+Seat 1: Casper Ruud (button) showed [Kh Ac] and won 620 with One pair : Kings
+Seat 2: MathisKcr (small blind) showed [8c Ad] and lost with High card : Ace
+
+

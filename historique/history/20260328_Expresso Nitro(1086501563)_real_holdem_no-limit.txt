@@ -1,0 +1,221 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666488680137883649-1-1774712287 - Holdem no limit (10/20) - 2026/03/28 15:38:07 UTC
+Table: 'Expresso Nitro(1086501563)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: La glamboche (300)
+Seat 3: Dt13 (300)
+*** ANTE/BLINDS ***
+Dt13 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d Kh]
+*** PRE-FLOP *** 
+La glamboche folds
+Dt13 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666488680137883649-2-1774712293 - Holdem no limit (10/20) - 2026/03/28 15:38:13 UTC
+Table: 'Expresso Nitro(1086501563)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (310)
+Seat 2: La glamboche (300)
+Seat 3: Dt13 (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+La glamboche posts big blind 20
+Dealt to MathisKcr [4d 7h]
+*** PRE-FLOP *** 
+Dt13 raises 270 to 290 and is all-in
+MathisKcr folds
+La glamboche folds
+Dt13 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Dt13 (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666488680137883649-3-1774712301 - Holdem no limit (10/20) - 2026/03/28 15:38:21 UTC
+Table: 'Expresso Nitro(1086501563)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: La glamboche (280)
+Seat 3: Dt13 (320)
+*** ANTE/BLINDS ***
+La glamboche posts small blind 10
+Dt13 posts big blind 20
+Dealt to MathisKcr [7c 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+La glamboche folds
+Dt13 calls 20
+*** FLOP *** [8h Js Tc]
+Dt13 checks
+MathisKcr checks
+*** TURN *** [8h Js Tc][4s]
+Dt13 checks
+MathisKcr checks
+*** RIVER *** [8h Js Tc 4s][5d]
+Dt13 checks
+MathisKcr bets 50
+Dt13 calls 50
+*** SHOW DOWN ***
+Dt13 shows [5s Kh] (One pair : 5)
+MathisKcr shows [7c 6c] (Straight 8 high)
+MathisKcr collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [8h Js Tc 4s 5d]
+Seat 1: MathisKcr (button) showed [7c 6c] and won 190 with Straight 8 high
+Seat 3: Dt13 (big blind) showed [5s Kh] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666488680137883649-4-1774712347 - Holdem no limit (15/30) - 2026/03/28 15:39:07 UTC
+Table: 'Expresso Nitro(1086501563)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (400)
+Seat 2: La glamboche (270)
+Seat 3: Dt13 (230)
+*** ANTE/BLINDS ***
+Dt13 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qd 6h]
+*** PRE-FLOP *** 
+La glamboche folds
+Dt13 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666488680137883649-5-1774712353 - Holdem no limit (15/30) - 2026/03/28 15:39:13 UTC
+Table: 'Expresso Nitro(1086501563)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (415)
+Seat 2: La glamboche (270)
+Seat 3: Dt13 (215)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+La glamboche posts big blind 30
+Dealt to MathisKcr [7s Jh]
+*** PRE-FLOP *** 
+Dt13 raises 185 to 215 and is all-in
+MathisKcr folds
+La glamboche raises 55 to 270 and is all-in
+*** FLOP *** [3s Jd 6h]
+*** TURN *** [3s Jd 6h][4c]
+*** RIVER *** [3s Jd 6h 4c][Ks]
+*** SHOW DOWN ***
+La glamboche shows [Tc Ts] (One pair : Tens)
+Dt13 shows [Jc Qd] (One pair : Jacks)
+Dt13 collected 445 from main pot
+La glamboche collected 55 from side pot 1
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [3s Jd 6h 4c Ks]
+Seat 2: La glamboche (big blind) showed [Tc Ts] and won 55 with One pair : Tens
+Seat 3: Dt13 (button) showed [Jc Qd] and won 445 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666488680137883649-6-1774712367 - Holdem no limit (15/30) - 2026/03/28 15:39:27 UTC
+Table: 'Expresso Nitro(1086501563)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (400)
+Seat 2: La glamboche (55)
+Seat 3: Dt13 (445)
+*** ANTE/BLINDS ***
+La glamboche posts small blind 15
+Dt13 posts big blind 30
+Dealt to MathisKcr [4h As]
+*** PRE-FLOP *** 
+MathisKcr raises 370 to 400 and is all-in
+La glamboche folds
+Dt13 folds
+MathisKcr collected 445 from pot
+*** SUMMARY ***
+Total pot 445 | No rake
+Seat 1: MathisKcr (button) won 445
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666488680137883649-7-1774712379 - Holdem no limit (15/30) - 2026/03/28 15:39:39 UTC
+Table: 'Expresso Nitro(1086501563)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (445)
+Seat 2: La glamboche (40)
+Seat 3: Dt13 (415)
+*** ANTE/BLINDS ***
+Dt13 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3c 2s]
+*** PRE-FLOP *** 
+La glamboche raises 10 to 40 and is all-in
+Dt13 calls 25
+MathisKcr calls 10
+*** FLOP *** [5s Ts 7c]
+Dt13 bets 30
+MathisKcr folds
+*** TURN *** [5s Ts 7c][4d]
+*** RIVER *** [5s Ts 7c 4d][Qd]
+*** SHOW DOWN ***
+La glamboche shows [Qh Ac] (One pair : Queens)
+Dt13 shows [9h 5c] (One pair : 5)
+Dt13 collected 30 from side pot 1
+La glamboche collected 120 from main pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [5s Ts 7c 4d Qd]
+Seat 2: La glamboche (button) showed [Qh Ac] and won 120 with One pair : Queens
+Seat 3: Dt13 (small blind) showed [9h 5c] and won 30 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666488680137883649-8-1774712407 - Holdem no limit (20/40) - 2026/03/28 15:40:07 UTC
+Table: 'Expresso Nitro(1086501563)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (405)
+Seat 2: La glamboche (120)
+Seat 3: Dt13 (375)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+La glamboche posts big blind 40
+Dealt to MathisKcr [Qd Jh]
+*** PRE-FLOP *** 
+Dt13 raises 40 to 80
+MathisKcr raises 325 to 405 and is all-in
+La glamboche calls 80 and is all-in
+Dt13 calls 295 and is all-in
+*** FLOP *** [Qh 2s 6s]
+*** TURN *** [Qh 2s 6s][2h]
+*** RIVER *** [Qh 2s 6s 2h][7s]
+*** SHOW DOWN ***
+La glamboche shows [8c 9c] (One pair : 2)
+MathisKcr shows [Qd Jh] (Two pairs : Queens and 2)
+Dt13 shows [As Ah] (Two pairs : Aces and 2)
+Dt13 collected 870 from main pot
+MathisKcr collected 30 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qh 2s 6s 2h 7s]
+Seat 1: MathisKcr (small blind) showed [Qd Jh] and won 30 with Two pairs : Queens and 2
+Seat 2: La glamboche (big blind) showed [8c 9c] and lost with One pair : 2
+Seat 3: Dt13 (button) showed [As Ah] and won 870 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666488680137883649-9-1774712427 - Holdem no limit (20/40) - 2026/03/28 15:40:27 UTC
+Table: 'Expresso Nitro(1086501563)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (30)
+Seat 3: Dt13 (870)
+*** ANTE/BLINDS ***
+Dt13 posts small blind 20
+MathisKcr posts big blind 30 and is all-in
+Dealt to MathisKcr [5d 4d]
+*** PRE-FLOP *** 
+Dt13 calls 20
+*** FLOP *** [7c Qs 8h]
+*** TURN *** [7c Qs 8h][Js]
+*** RIVER *** [7c Qs 8h Js][4h]
+*** SHOW DOWN ***
+MathisKcr shows [5d 4d] (One pair : 4)
+Dt13 shows [Ac Jh] (One pair : Jacks)
+Dt13 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [7c Qs 8h Js 4h]
+Seat 1: MathisKcr (big blind) showed [5d 4d] and lost with One pair : 4
+Seat 3: Dt13 (small blind) (button) showed [Ac Jh] and won 70 with One pair : Jacks
+
+

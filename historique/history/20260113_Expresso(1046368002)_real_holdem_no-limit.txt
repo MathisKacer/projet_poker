@@ -1,0 +1,378 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494116348170862593-1-1768294635 - Holdem no limit (10/20) - 2026/01/13 08:57:15 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Maraudeur66 (500)
+Seat 2: skippy34 (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Maraudeur66 posts small blind 10
+skippy34 posts big blind 20
+Dealt to MathisKcr [9c 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Maraudeur66 folds
+skippy34 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: skippy34 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494116348170862593-2-1768294644 - Holdem no limit (10/20) - 2026/01/13 08:57:24 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Maraudeur66 (490)
+Seat 2: skippy34 (510)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+skippy34 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c 5c]
+*** PRE-FLOP *** 
+Maraudeur66 calls 20
+skippy34 raises 20 to 40
+MathisKcr calls 20
+Maraudeur66 calls 20
+*** FLOP *** [8s 5h 4s]
+skippy34 bets 40
+MathisKcr calls 40
+Maraudeur66 folds
+*** TURN *** [8s 5h 4s][Th]
+skippy34 checks
+MathisKcr bets 80
+skippy34 calls 80
+*** RIVER *** [8s 5h 4s Th][3d]
+skippy34 checks
+MathisKcr bets 126
+skippy34 folds
+MathisKcr collected 486 from pot
+*** SUMMARY ***
+Total pot 486 | No rake
+Board: [8s 5h 4s Th 3d]
+Seat 3: MathisKcr (big blind) won 486
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494116348170862593-3-1768294713 - Holdem no limit (10/20) - 2026/01/13 08:58:33 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Maraudeur66 (450)
+Seat 2: skippy34 (350)
+Seat 3: MathisKcr (700)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Maraudeur66 posts big blind 20
+Dealt to MathisKcr [Tc 2s]
+*** PRE-FLOP *** 
+skippy34 folds
+MathisKcr raises 20 to 40
+Maraudeur66 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4494116348170862593-4-1768294733 - Holdem no limit (15/30) - 2026/01/13 08:58:53 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Maraudeur66 (430)
+Seat 2: skippy34 (350)
+Seat 3: MathisKcr (720)
+*** ANTE/BLINDS ***
+Maraudeur66 posts small blind 15
+skippy34 posts big blind 30
+Dealt to MathisKcr [2h Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Maraudeur66 folds
+skippy34 calls 30
+*** FLOP *** [Qs Qc 9c]
+skippy34 bets 30
+MathisKcr calls 30
+*** TURN *** [Qs Qc 9c][Ks]
+skippy34 checks
+MathisKcr bets 60
+skippy34 calls 60
+*** RIVER *** [Qs Qc 9c Ks][Jh]
+skippy34 checks
+MathisKcr bets 120
+skippy34 folds
+MathisKcr collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Board: [Qs Qc 9c Ks Jh]
+Seat 3: MathisKcr (button) won 435
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4494116348170862593-5-1768294764 - Holdem no limit (15/30) - 2026/01/13 08:59:24 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Maraudeur66 (415)
+Seat 2: skippy34 (200)
+Seat 3: MathisKcr (885)
+*** ANTE/BLINDS ***
+skippy34 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7s Jc]
+*** PRE-FLOP *** 
+Maraudeur66 calls 30
+skippy34 folds
+MathisKcr raises 30 to 60
+Maraudeur66 calls 30
+*** FLOP *** [3s 5d 4c]
+MathisKcr bets 60
+Maraudeur66 folds
+MathisKcr collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [3s 5d 4c]
+Seat 3: MathisKcr (big blind) won 195
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4494116348170862593-6-1768294789 - Holdem no limit (15/30) - 2026/01/13 08:59:49 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Maraudeur66 (355)
+Seat 2: skippy34 (185)
+Seat 3: MathisKcr (960)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Maraudeur66 posts big blind 30
+Dealt to MathisKcr [Qh Ad]
+*** PRE-FLOP *** 
+skippy34 raises 155 to 185 and is all-in
+MathisKcr raises 775 to 960 and is all-in
+Maraudeur66 folds
+*** FLOP *** [9h 2d 7s]
+*** TURN *** [9h 2d 7s][5s]
+*** RIVER *** [9h 2d 7s 5s][5h]
+*** SHOW DOWN ***
+skippy34 shows [Jc Js] (Two pairs : Jacks and 5)
+MathisKcr shows [Qh Ad] (One pair : 5)
+MathisKcr collected 775 from side pot 1
+skippy34 collected 400 from main pot
+*** SUMMARY ***
+Total pot 1175 | No rake
+Board: [9h 2d 7s 5s 5h]
+Seat 2: skippy34 (button) showed [Jc Js] and won 400 with Two pairs : Jacks and 5
+Seat 3: MathisKcr (small blind) showed [Qh Ad] and won 775 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4494116348170862593-7-1768294803 - Holdem no limit (15/30) - 2026/01/13 09:00:03 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Maraudeur66 (325)
+Seat 2: skippy34 (400)
+Seat 3: MathisKcr (775)
+*** ANTE/BLINDS ***
+Maraudeur66 posts small blind 15
+skippy34 posts big blind 30
+Dealt to MathisKcr [Ad 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 745 to 775 and is all-in
+Maraudeur66 folds
+skippy34 calls 370 and is all-in
+*** FLOP *** [5d Ks 9d]
+*** TURN *** [5d Ks 9d][2h]
+*** RIVER *** [5d Ks 9d 2h][9s]
+*** SHOW DOWN ***
+skippy34 shows [Qd Qc] (Two pairs : Queens and 9)
+MathisKcr shows [Ad 6d] (One pair : 9)
+MathisKcr collected 375 from side pot 1
+skippy34 collected 815 from main pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Board: [5d Ks 9d 2h 9s]
+Seat 2: skippy34 (big blind) showed [Qd Qc] and won 815 with Two pairs : Queens and 9
+Seat 3: MathisKcr (button) showed [Ad 6d] and won 375 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4494116348170862593-8-1768294819 - Holdem no limit (20/40) - 2026/01/13 09:00:19 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Maraudeur66 (310)
+Seat 2: skippy34 (815)
+Seat 3: MathisKcr (375)
+*** ANTE/BLINDS ***
+skippy34 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Qc Ah]
+*** PRE-FLOP *** 
+Maraudeur66 folds
+skippy34 calls 20
+MathisKcr raises 335 to 375 and is all-in
+skippy34 folds
+MathisKcr collected 415 from pot
+*** SUMMARY ***
+Total pot 415 | No rake
+Seat 3: MathisKcr (big blind) won 415
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4494116348170862593-9-1768294832 - Holdem no limit (20/40) - 2026/01/13 09:00:32 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Maraudeur66 (310)
+Seat 2: skippy34 (775)
+Seat 3: MathisKcr (415)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Maraudeur66 posts big blind 40
+Dealt to MathisKcr [7d 9h]
+*** PRE-FLOP *** 
+skippy34 folds
+MathisKcr raises 40 to 80
+Maraudeur66 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: MathisKcr (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4494116348170862593-10-1768294841 - Holdem no limit (20/40) - 2026/01/13 09:00:41 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Maraudeur66 (270)
+Seat 2: skippy34 (775)
+Seat 3: MathisKcr (455)
+*** ANTE/BLINDS ***
+Maraudeur66 posts small blind 20
+skippy34 posts big blind 40
+Dealt to MathisKcr [Js Tc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Maraudeur66 calls 60
+skippy34 folds
+*** FLOP *** [5c Kc 3s]
+Maraudeur66 bets 190 and is all-in
+MathisKcr calls 190
+*** TURN *** [5c Kc 3s][9c]
+*** RIVER *** [5c Kc 3s 9c][8c]
+*** SHOW DOWN ***
+Maraudeur66 shows [Qd Qh] (One pair : Queens)
+MathisKcr shows [Js Tc] (Flush King high)
+MathisKcr collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5c Kc 3s 9c 8c]
+Seat 1: Maraudeur66 (small blind) showed [Qd Qh] and lost with One pair : Queens
+Seat 3: MathisKcr (button) showed [Js Tc] and won 580 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4494116348170862593-11-1768294859 - Holdem no limit (20/40) - 2026/01/13 09:00:59 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #2 is the button
+Seat 2: skippy34 (735)
+Seat 3: MathisKcr (765)
+*** ANTE/BLINDS ***
+skippy34 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kc Qh]
+*** PRE-FLOP *** 
+skippy34 calls 20
+MathisKcr raises 725 to 765 and is all-in
+skippy34 folds
+MathisKcr collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | No rake
+Seat 3: MathisKcr (big blind) won 805
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4494116348170862593-12-1768294872 - Holdem no limit (20/40) - 2026/01/13 09:01:12 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #3 is the button
+Seat 2: skippy34 (695)
+Seat 3: MathisKcr (805)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+skippy34 posts big blind 40
+Dealt to MathisKcr [Kd 3h]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+skippy34 calls 40
+*** FLOP *** [5c 8c 4d]
+skippy34 bets 615 and is all-in
+MathisKcr folds
+skippy34 collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | No rake
+Board: [5c 8c 4d]
+Seat 2: skippy34 (big blind) won 775
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4494116348170862593-13-1768294888 - Holdem no limit (20/40) - 2026/01/13 09:01:28 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #2 is the button
+Seat 2: skippy34 (775)
+Seat 3: MathisKcr (725)
+*** ANTE/BLINDS ***
+skippy34 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [2d 7c]
+*** PRE-FLOP *** 
+skippy34 calls 20
+MathisKcr checks
+*** FLOP *** [4d Ts Ah]
+MathisKcr checks
+skippy34 bets 40
+MathisKcr folds
+skippy34 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4d Ts Ah]
+Seat 2: skippy34 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4494116348170862593-14-1768294906 - Holdem no limit (30/60) - 2026/01/13 09:01:46 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #3 is the button
+Seat 2: skippy34 (815)
+Seat 3: MathisKcr (685)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+skippy34 posts big blind 60
+Dealt to MathisKcr [Qs Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 625 to 685 and is all-in
+skippy34 folds
+MathisKcr collected 745 from pot
+*** SUMMARY ***
+Total pot 745 | No rake
+Seat 3: MathisKcr (small blind) (button) won 745
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4494116348170862593-15-1768294916 - Holdem no limit (30/60) - 2026/01/13 09:01:56 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #2 is the button
+Seat 2: skippy34 (755)
+Seat 3: MathisKcr (745)
+*** ANTE/BLINDS ***
+skippy34 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [8c 5s]
+*** PRE-FLOP *** 
+skippy34 calls 30
+MathisKcr raises 60 to 120
+skippy34 calls 60
+*** FLOP *** [3h 4c Qh]
+MathisKcr bets 60
+skippy34 raises 575 to 635 and is all-in
+MathisKcr folds
+skippy34 collected 935 from pot
+*** SUMMARY ***
+Total pot 935 | No rake
+Board: [3h 4c Qh]
+Seat 2: skippy34 (small blind) (button) won 935
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4494116348170862593-16-1768294937 - Holdem no limit (30/60) - 2026/01/13 09:02:17 UTC
+Table: 'Expresso(1046368002)#0' 3-max (real money) Seat #3 is the button
+Seat 2: skippy34 (935)
+Seat 3: MathisKcr (565)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+skippy34 posts big blind 60
+Dealt to MathisKcr [2h Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+skippy34 calls 60
+*** FLOP *** [Jc 7h 7c]
+skippy34 checks
+MathisKcr bets 445 and is all-in
+skippy34 raises 370 to 815 and is all-in
+*** TURN *** [Jc 7h 7c][9s]
+*** RIVER *** [Jc 7h 7c 9s][Qh]
+*** SHOW DOWN ***
+MathisKcr shows [2h Jh] (Two pairs : Jacks and 7)
+skippy34 shows [7s Jd] (Full of 7 and Jacks)
+skippy34 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Jc 7h 7c 9s Qh]
+Seat 2: skippy34 (big blind) showed [7s Jd] and won 1500 with Full of 7 and Jacks
+Seat 3: MathisKcr (small blind) (button) showed [2h Jh] and lost with Two pairs : Jacks and 7
+
+

@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671407607397744641-1-1774902285 - Holdem no limit (10/20) - 2026/03/30 20:24:45 UTC
+Table: 'Expresso Nitro(1087646840)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tp9uevee (300)
+Seat 2: Kozzeris1st (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Tp9uevee posts big blind 20
+Dealt to MathisKcr [5s Tc]
+*** PRE-FLOP *** 
+Kozzeris1st raises 20 to 40
+MathisKcr folds
+Tp9uevee raises 260 to 300 and is all-in
+Kozzeris1st calls 260 and is all-in
+*** FLOP *** [2c Ts Kd]
+*** TURN *** [2c Ts Kd][6d]
+*** RIVER *** [2c Ts Kd 6d][2h]
+*** SHOW DOWN ***
+Kozzeris1st shows [3d 3s] (Two pairs : 3 and 2)
+Tp9uevee shows [Ks Td] (Two pairs : Kings and Tens)
+Tp9uevee collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [2c Ts Kd 6d 2h]
+Seat 1: Tp9uevee (big blind) showed [Ks Td] and won 610 with Two pairs : Kings and Tens
+Seat 2: Kozzeris1st (button) showed [3d 3s] and lost with Two pairs : 3 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671407607397744641-2-1774902302 - Holdem no limit (10/20) - 2026/03/30 20:25:02 UTC
+Table: 'Expresso Nitro(1087646840)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tp9uevee (610)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Tp9uevee posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 2h]
+*** PRE-FLOP *** 
+Tp9uevee raises 590 to 610 and is all-in
+MathisKcr calls 270 and is all-in
+*** FLOP *** [5c 3d Qh]
+*** TURN *** [5c 3d Qh][Kc]
+*** RIVER *** [5c 3d Qh Kc][3s]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 2h] (One pair : 3)
+Tp9uevee shows [Th Kd] (Two pairs : Kings and 3)
+Tp9uevee collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5c 3d Qh Kc 3s]
+Seat 1: Tp9uevee (small blind) (button) showed [Th Kd] and won 900 with Two pairs : Kings and 3
+Seat 3: MathisKcr (big blind) showed [Ad 2h] and lost with One pair : 3
+
+

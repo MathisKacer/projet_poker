@@ -1,0 +1,531 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676987560189231105-1-1775117453 - Holdem no limit (10/20) - 2026/04/02 08:10:53 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cedlebon (300)
+Seat 2: Pica pica91 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Cedlebon posts big blind 20
+Dealt to MathisKcr [Td 7d]
+*** PRE-FLOP *** 
+Pica pica91 folds
+MathisKcr folds
+Cedlebon collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Cedlebon (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676987560189231105-2-1775117461 - Holdem no limit (10/20) - 2026/04/02 08:11:01 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (310)
+Seat 2: Pica pica91 (300)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 10
+Pica pica91 posts big blind 20
+Dealt to MathisKcr [Jh Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Cedlebon folds
+Pica pica91 raises 60 to 100
+MathisKcr raises 190 to 290 and is all-in
+Pica pica91 raises 10 to 300 and is all-in
+*** FLOP *** [7s 9c Jc]
+*** TURN *** [7s 9c Jc][Js]
+*** RIVER *** [7s 9c Jc Js][8s]
+*** SHOW DOWN ***
+Pica pica91 shows [Qd Qs] (Two pairs : Queens and Jacks)
+MathisKcr shows [Jh Ks] (Trips of Jacks)
+MathisKcr collected 590 from main pot
+Pica pica91 collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7s 9c Jc Js 8s]
+Seat 2: Pica pica91 (big blind) showed [Qd Qs] and won 10 with Two pairs : Queens and Jacks
+Seat 3: MathisKcr (button) showed [Jh Ks] and won 590 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676987560189231105-3-1775117491 - Holdem no limit (10/20) - 2026/04/02 08:11:31 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (300)
+Seat 2: Pica pica91 (10)
+Seat 3: MathisKcr (590)
+*** ANTE/BLINDS ***
+Pica pica91 posts small blind 10 and is all-in
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c 4s]
+*** PRE-FLOP *** 
+Cedlebon folds
+*** FLOP *** [4c 6d 9h]
+*** TURN *** [4c 6d 9h][5c]
+*** RIVER *** [4c 6d 9h 5c][3s]
+*** SHOW DOWN ***
+Pica pica91 shows [Ks 3c] (One pair : 3)
+MathisKcr shows [9c 4s] (Two pairs : 9 and 4)
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [4c 6d 9h 5c 3s]
+Seat 2: Pica pica91 (small blind) showed [Ks 3c] and lost with One pair : 3
+Seat 3: MathisKcr (big blind) showed [9c 4s] and won 30 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676987560189231105-4-1775117501 - Holdem no limit (10/20) - 2026/04/02 08:11:41 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (300)
+Seat 3: MathisKcr (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Cedlebon posts big blind 20
+Dealt to MathisKcr [3c 7d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cedlebon collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Cedlebon (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676987560189231105-5-1775117507 - Holdem no limit (10/20) - 2026/04/02 08:11:47 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (310)
+Seat 3: MathisKcr (590)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6c 6h]
+*** PRE-FLOP *** 
+Cedlebon folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4676987560189231105-6-1775117511 - Holdem no limit (15/30) - 2026/04/02 08:11:51 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (300)
+Seat 3: MathisKcr (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Cedlebon posts big blind 30
+Dealt to MathisKcr [9d Ts]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cedlebon collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Cedlebon (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4676987560189231105-7-1775117518 - Holdem no limit (15/30) - 2026/04/02 08:11:58 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (315)
+Seat 3: MathisKcr (585)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3h Ks]
+*** PRE-FLOP *** 
+Cedlebon folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4676987560189231105-8-1775117530 - Holdem no limit (15/30) - 2026/04/02 08:12:10 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (300)
+Seat 3: MathisKcr (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Cedlebon posts big blind 30
+Dealt to MathisKcr [Td 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cedlebon collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Cedlebon (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4676987560189231105-9-1775117534 - Holdem no limit (15/30) - 2026/04/02 08:12:14 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (315)
+Seat 3: MathisKcr (585)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jc Td]
+*** PRE-FLOP *** 
+Cedlebon calls 15
+MathisKcr raises 555 to 585 and is all-in
+Cedlebon folds
+MathisKcr collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Seat 3: MathisKcr (big blind) won 615
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4676987560189231105-10-1775117544 - Holdem no limit (15/30) - 2026/04/02 08:12:24 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (285)
+Seat 3: MathisKcr (615)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Cedlebon posts big blind 30
+Dealt to MathisKcr [5c 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cedlebon collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Cedlebon (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4676987560189231105-11-1775117549 - Holdem no limit (15/30) - 2026/04/02 08:12:29 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (300)
+Seat 3: MathisKcr (600)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qc Ac]
+*** PRE-FLOP *** 
+Cedlebon folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4676987560189231105-12-1775117556 - Holdem no limit (15/30) - 2026/04/02 08:12:36 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (285)
+Seat 3: MathisKcr (615)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Cedlebon posts big blind 30
+Dealt to MathisKcr [Td 7d]
+*** PRE-FLOP *** 
+MathisKcr raises 585 to 615 and is all-in
+Cedlebon folds
+MathisKcr collected 645 from pot
+*** SUMMARY ***
+Total pot 645 | No rake
+Seat 3: MathisKcr (small blind) (button) won 645
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4676987560189231105-13-1775117563 - Holdem no limit (15/30) - 2026/04/02 08:12:43 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (255)
+Seat 3: MathisKcr (645)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6c 6d]
+*** PRE-FLOP *** 
+Cedlebon folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4676987560189231105-14-1775117568 - Holdem no limit (15/30) - 2026/04/02 08:12:48 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (240)
+Seat 3: MathisKcr (660)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Cedlebon posts big blind 30
+Dealt to MathisKcr [4d Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 630 to 660 and is all-in
+Cedlebon folds
+MathisKcr collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Seat 3: MathisKcr (small blind) (button) won 690
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4676987560189231105-15-1775117574 - Holdem no limit (20/40) - 2026/04/02 08:12:54 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (210)
+Seat 3: MathisKcr (690)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Th Qc]
+*** PRE-FLOP *** 
+Cedlebon raises 170 to 210 and is all-in
+MathisKcr calls 170
+*** FLOP *** [2d 3d Kc]
+*** TURN *** [2d 3d Kc][6c]
+*** RIVER *** [2d 3d Kc 6c][8h]
+*** SHOW DOWN ***
+MathisKcr shows [Th Qc] (High card : King)
+Cedlebon shows [7s 8s] (One pair : 8)
+Cedlebon collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [2d 3d Kc 6c 8h]
+Seat 1: Cedlebon (small blind) (button) showed [7s 8s] and won 420 with One pair : 8
+Seat 3: MathisKcr (big blind) showed [Th Qc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4676987560189231105-16-1775117588 - Holdem no limit (20/40) - 2026/04/02 08:13:08 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (420)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Cedlebon posts big blind 40
+Dealt to MathisKcr [4h 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cedlebon collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Cedlebon (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4676987560189231105-17-1775117594 - Holdem no limit (20/40) - 2026/04/02 08:13:14 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (440)
+Seat 3: MathisKcr (460)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6c 3h]
+*** PRE-FLOP *** 
+Cedlebon raises 60 to 100
+MathisKcr folds
+Cedlebon collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: Cedlebon (small blind) (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4676987560189231105-18-1775117603 - Holdem no limit (20/40) - 2026/04/02 08:13:23 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (480)
+Seat 3: MathisKcr (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Cedlebon posts big blind 40
+Dealt to MathisKcr [2d Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 380 to 420 and is all-in
+Cedlebon folds
+MathisKcr collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 3: MathisKcr (small blind) (button) won 460
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4676987560189231105-19-1775117612 - Holdem no limit (20/40) - 2026/04/02 08:13:32 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (440)
+Seat 3: MathisKcr (460)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7h 2s]
+*** PRE-FLOP *** 
+Cedlebon calls 20
+MathisKcr checks
+*** FLOP *** [7c 6d 9s]
+MathisKcr bets 52
+Cedlebon folds
+MathisKcr collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [7c 6d 9s]
+Seat 3: MathisKcr (big blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4676987560189231105-20-1775117623 - Holdem no limit (20/40) - 2026/04/02 08:13:43 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (400)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Cedlebon posts big blind 40
+Dealt to MathisKcr [Jd 2d]
+*** PRE-FLOP *** 
+MathisKcr raises 460 to 500 and is all-in
+Cedlebon folds
+MathisKcr collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 3: MathisKcr (small blind) (button) won 540
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4676987560189231105-21-1775117631 - Holdem no limit (30/60) - 2026/04/02 08:13:51 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (360)
+Seat 3: MathisKcr (540)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [3c 6c]
+*** PRE-FLOP *** 
+Cedlebon folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4676987560189231105-22-1775117635 - Holdem no limit (30/60) - 2026/04/02 08:13:55 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (330)
+Seat 3: MathisKcr (570)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Cedlebon posts big blind 60
+Dealt to MathisKcr [4c 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cedlebon collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Cedlebon (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4676987560189231105-23-1775117642 - Holdem no limit (30/60) - 2026/04/02 08:14:02 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (360)
+Seat 3: MathisKcr (540)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Jc 2h]
+*** PRE-FLOP *** 
+Cedlebon raises 300 to 360 and is all-in
+MathisKcr folds
+Cedlebon collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 1: Cedlebon (small blind) (button) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4676987560189231105-24-1775117651 - Holdem no limit (30/60) - 2026/04/02 08:14:11 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (420)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Cedlebon posts big blind 60
+Dealt to MathisKcr [Kh 6h]
+*** PRE-FLOP *** 
+MathisKcr raises 420 to 480 and is all-in
+Cedlebon folds
+MathisKcr collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 3: MathisKcr (small blind) (button) won 540
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4676987560189231105-25-1775117658 - Holdem no limit (30/60) - 2026/04/02 08:14:18 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (360)
+Seat 3: MathisKcr (540)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qd As]
+*** PRE-FLOP *** 
+Cedlebon folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4676987560189231105-26-1775117664 - Holdem no limit (30/60) - 2026/04/02 08:14:24 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (330)
+Seat 3: MathisKcr (570)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Cedlebon posts big blind 60
+Dealt to MathisKcr [Jc 9h]
+*** PRE-FLOP *** 
+MathisKcr raises 510 to 570 and is all-in
+Cedlebon calls 270 and is all-in
+*** FLOP *** [8h Ts 3s]
+*** TURN *** [8h Ts 3s][Kc]
+*** RIVER *** [8h Ts 3s Kc][3d]
+*** SHOW DOWN ***
+Cedlebon shows [Ad 7d] (One pair : 3)
+MathisKcr shows [Jc 9h] (One pair : 3)
+MathisKcr collected 240 from side pot 1
+Cedlebon collected 660 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h Ts 3s Kc 3d]
+Seat 1: Cedlebon (big blind) showed [Ad 7d] and won 660 with One pair : 3
+Seat 3: MathisKcr (small blind) (button) showed [Jc 9h] and won 240 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4676987560189231105-27-1775117677 - Holdem no limit (30/60) - 2026/04/02 08:14:37 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (660)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [4h Js]
+*** PRE-FLOP *** 
+Cedlebon folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4676987560189231105-28-1775117682 - Holdem no limit (30/60) - 2026/04/02 08:14:42 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cedlebon (630)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Cedlebon posts big blind 60
+Dealt to MathisKcr [6c 5d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cedlebon collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Cedlebon (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4676987560189231105-29-1775117690 - Holdem no limit (30/60) - 2026/04/02 08:14:50 UTC
+Table: 'Expresso Nitro(1088946024)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cedlebon (660)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+Cedlebon posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [8s 7s]
+*** PRE-FLOP *** 
+Cedlebon raises 600 to 660 and is all-in
+MathisKcr calls 180 and is all-in
+*** FLOP *** [5d Jh 3h]
+*** TURN *** [5d Jh 3h][Th]
+*** RIVER *** [5d Jh 3h Th][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [8s 7s] (One pair : Tens)
+Cedlebon shows [6h 9h] (Flush Jack high)
+Cedlebon collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5d Jh 3h Th Ts]
+Seat 1: Cedlebon (small blind) (button) showed [6h 9h] and won 900 with Flush Jack high
+Seat 3: MathisKcr (big blind) showed [8s 7s] and lost with One pair : Tens
+
+

@@ -1,0 +1,296 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4609552828430548993-1-1772707492 - Holdem no limit (10/20) - 2026/03/05 10:44:52 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Franck67 (300)
+Seat 2: GsPetrolette (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Franck67 posts small blind 10
+GsPetrolette posts big blind 20
+Dealt to MathisKcr [Qc Ts]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Franck67 folds
+GsPetrolette folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4609552828430548993-2-1772707503 - Holdem no limit (10/20) - 2026/03/05 10:45:03 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Franck67 (290)
+Seat 2: GsPetrolette (280)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+GsPetrolette posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2h 2d]
+*** PRE-FLOP *** 
+Franck67 folds
+GsPetrolette folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4609552828430548993-3-1772707515 - Holdem no limit (10/20) - 2026/03/05 10:45:15 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Franck67 (290)
+Seat 2: GsPetrolette (270)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Franck67 posts big blind 20
+Dealt to MathisKcr [3h Jd]
+*** PRE-FLOP *** 
+GsPetrolette folds
+MathisKcr calls 10
+Franck67 checks
+*** FLOP *** [3d Ad 3s]
+MathisKcr checks
+Franck67 checks
+*** TURN *** [3d Ad 3s][4d]
+MathisKcr bets 20
+Franck67 calls 20
+*** RIVER *** [3d Ad 3s 4d][6h]
+MathisKcr bets 28
+Franck67 calls 28
+*** SHOW DOWN ***
+Franck67 shows [Ts 4c] (Two pairs : 4 and 3)
+MathisKcr shows [3h Jd] (Trips of 3)
+MathisKcr collected 136 from pot
+*** SUMMARY ***
+Total pot 136 | No rake
+Board: [3d Ad 3s 4d 6h]
+Seat 1: Franck67 (big blind) showed [Ts 4c] and lost with Two pairs : 4 and 3
+Seat 3: MathisKcr (small blind) showed [3h Jd] and won 136 with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4609552828430548993-4-1772707548 - Holdem no limit (10/20) - 2026/03/05 10:45:48 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Franck67 (222)
+Seat 2: GsPetrolette (270)
+Seat 3: MathisKcr (408)
+*** ANTE/BLINDS ***
+Franck67 posts small blind 10
+GsPetrolette posts big blind 20
+Dealt to MathisKcr [Ad 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Franck67 folds
+GsPetrolette raises 210 to 270 and is all-in
+MathisKcr calls 210
+*** FLOP *** [2h 6d Kd]
+*** TURN *** [2h 6d Kd][9s]
+*** RIVER *** [2h 6d Kd 9s][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 6c] (One pair : 6)
+GsPetrolette shows [Ks Kc] (Trips of Kings)
+GsPetrolette collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [2h 6d Kd 9s Ts]
+Seat 2: GsPetrolette (big blind) showed [Ks Kc] and won 550 with Trips of Kings
+Seat 3: MathisKcr (button) showed [Ad 6c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4609552828430548993-5-1772707572 - Holdem no limit (15/30) - 2026/03/05 10:46:12 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Franck67 (212)
+Seat 2: GsPetrolette (550)
+Seat 3: MathisKcr (138)
+*** ANTE/BLINDS ***
+GsPetrolette posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kh Qc]
+*** PRE-FLOP *** 
+Franck67 raises 182 to 212 and is all-in
+GsPetrolette folds
+MathisKcr calls 108 and is all-in
+*** FLOP *** [8h 4c Ac]
+*** TURN *** [8h 4c Ac][8c]
+*** RIVER *** [8h 4c Ac 8c][Tc]
+*** SHOW DOWN ***
+Franck67 shows [Qd As] (Two pairs : Aces and 8)
+MathisKcr shows [Kh Qc] (Flush Ace high)
+MathisKcr collected 291 from main pot
+Franck67 collected 74 from side pot 1
+*** SUMMARY ***
+Total pot 365 | No rake
+Board: [8h 4c Ac 8c Tc]
+Seat 1: Franck67 (button) showed [Qd As] and won 74 with Two pairs : Aces and 8
+Seat 3: MathisKcr (big blind) showed [Kh Qc] and won 291 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4609552828430548993-6-1772707589 - Holdem no limit (15/30) - 2026/03/05 10:46:29 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Franck67 (74)
+Seat 2: GsPetrolette (535)
+Seat 3: MathisKcr (291)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Franck67 posts big blind 30
+Dealt to MathisKcr [4s 2s]
+*** PRE-FLOP *** 
+GsPetrolette folds
+MathisKcr calls 15
+Franck67 raises 44 to 74 and is all-in
+MathisKcr calls 44
+*** FLOP *** [Js Ts 5c]
+*** TURN *** [Js Ts 5c][As]
+*** RIVER *** [Js Ts 5c As][3h]
+*** SHOW DOWN ***
+Franck67 shows [Kh 7c] (High card : Ace)
+MathisKcr shows [4s 2s] (Flush Ace high)
+MathisKcr collected 148 from pot
+*** SUMMARY ***
+Total pot 148 | No rake
+Board: [Js Ts 5c As 3h]
+Seat 1: Franck67 (big blind) showed [Kh 7c] and lost with High card : Ace
+Seat 3: MathisKcr (small blind) showed [4s 2s] and won 148 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4609552828430548993-7-1772707609 - Holdem no limit (15/30) - 2026/03/05 10:46:49 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #2 is the button
+Seat 2: GsPetrolette (535)
+Seat 3: MathisKcr (365)
+*** ANTE/BLINDS ***
+GsPetrolette posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5c 9c]
+*** PRE-FLOP *** 
+GsPetrolette folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4609552828430548993-8-1772707617 - Holdem no limit (20/40) - 2026/03/05 10:46:57 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #3 is the button
+Seat 2: GsPetrolette (520)
+Seat 3: MathisKcr (380)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+GsPetrolette posts big blind 40
+Dealt to MathisKcr [8h 8d]
+*** PRE-FLOP *** 
+MathisKcr raises 340 to 380 and is all-in
+GsPetrolette folds
+MathisKcr collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 3: MathisKcr (small blind) (button) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4609552828430548993-9-1772707628 - Holdem no limit (20/40) - 2026/03/05 10:47:08 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #2 is the button
+Seat 2: GsPetrolette (480)
+Seat 3: MathisKcr (420)
+*** ANTE/BLINDS ***
+GsPetrolette posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ad 5h]
+*** PRE-FLOP *** 
+GsPetrolette folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4609552828430548993-10-1772707633 - Holdem no limit (20/40) - 2026/03/05 10:47:13 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #3 is the button
+Seat 2: GsPetrolette (460)
+Seat 3: MathisKcr (440)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+GsPetrolette posts big blind 40
+Dealt to MathisKcr [3d 8c]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+GsPetrolette checks
+*** FLOP *** [As 7s Js]
+GsPetrolette checks
+MathisKcr bets 40
+GsPetrolette calls 40
+*** TURN *** [As 7s Js][Kc]
+GsPetrolette checks
+MathisKcr bets 104
+GsPetrolette folds
+MathisKcr collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | No rake
+Board: [As 7s Js Kc]
+Seat 3: MathisKcr (small blind) (button) won 264
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4609552828430548993-11-1772707653 - Holdem no limit (20/40) - 2026/03/05 10:47:33 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #2 is the button
+Seat 2: GsPetrolette (380)
+Seat 3: MathisKcr (520)
+*** ANTE/BLINDS ***
+GsPetrolette posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Tc 7h]
+*** PRE-FLOP *** 
+GsPetrolette calls 20
+MathisKcr checks
+*** FLOP *** [9h 3s 4c]
+MathisKcr checks
+GsPetrolette checks
+*** TURN *** [9h 3s 4c][Ks]
+MathisKcr checks
+GsPetrolette bets 52
+MathisKcr folds
+GsPetrolette collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [9h 3s 4c Ks]
+Seat 2: GsPetrolette (small blind) (button) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4609552828430548993-12-1772707685 - Holdem no limit (30/60) - 2026/03/05 10:48:05 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #3 is the button
+Seat 2: GsPetrolette (420)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+GsPetrolette posts big blind 60
+Dealt to MathisKcr [5c Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 420 to 480 and is all-in
+GsPetrolette folds
+MathisKcr collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 3: MathisKcr (small blind) (button) won 540
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4609552828430548993-13-1772707695 - Holdem no limit (30/60) - 2026/03/05 10:48:15 UTC
+Table: 'Expresso Nitro(1073245152)#0' 3-max (real money) Seat #2 is the button
+Seat 2: GsPetrolette (360)
+Seat 3: MathisKcr (540)
+*** ANTE/BLINDS ***
+GsPetrolette posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ac Jh]
+*** PRE-FLOP *** 
+GsPetrolette raises 300 to 360 and is all-in
+MathisKcr calls 300
+*** FLOP *** [Td 3d 2h]
+*** TURN *** [Td 3d 2h][6c]
+*** RIVER *** [Td 3d 2h 6c][7h]
+*** SHOW DOWN ***
+GsPetrolette shows [9d Qs] (High card : Queen)
+MathisKcr shows [Ac Jh] (High card : Ace)
+MathisKcr collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Td 3d 2h 6c 7h]
+Seat 2: GsPetrolette (small blind) (button) showed [9d Qs] and lost with High card : Queen
+Seat 3: MathisKcr (big blind) showed [Ac Jh] and won 720 with High card : Ace
+
+

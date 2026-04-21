@@ -1,0 +1,58 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667962201812762625-1-1774774534 - Holdem no limit (10/20) - 2026/03/29 08:55:34 UTC
+Table: 'Expresso Nitro(1086844644)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Hydir93370 (300)
+Seat 2: MathisKcr (300)
+Seat 3: oudioui (300)
+*** ANTE/BLINDS ***
+oudioui posts small blind 10
+Hydir93370 posts big blind 20
+Dealt to MathisKcr [5s 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+oudioui calls 10
+Hydir93370 raises 40 to 60
+oudioui calls 40
+*** FLOP *** [7h 2h Ks]
+oudioui checks
+Hydir93370 checks
+*** TURN *** [7h 2h Ks][Kd]
+oudioui checks
+Hydir93370 bets 42
+oudioui folds
+Hydir93370 collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [7h 2h Ks Kd]
+Seat 1: Hydir93370 (big blind) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667962201812762625-2-1774774553 - Holdem no limit (10/20) - 2026/03/29 08:55:53 UTC
+Table: 'Expresso Nitro(1086844644)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Hydir93370 (360)
+Seat 2: MathisKcr (300)
+Seat 3: oudioui (240)
+*** ANTE/BLINDS ***
+Hydir93370 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c 3s]
+*** PRE-FLOP *** 
+oudioui raises 220 to 240 and is all-in
+Hydir93370 raises 120 to 360 and is all-in
+MathisKcr calls 280 and is all-in
+*** FLOP *** [2c Jd 7s]
+*** TURN *** [2c Jd 7s][Th]
+*** RIVER *** [2c Jd 7s Th][9d]
+*** SHOW DOWN ***
+MathisKcr shows [3c 3s] (One pair : 3)
+Hydir93370 shows [Kd 7c] (One pair : 7)
+oudioui shows [8d 8s] (Straight Jack high)
+oudioui collected 720 from main pot
+Hydir93370 collected 180 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2c Jd 7s Th 9d]
+Seat 1: Hydir93370 (small blind) showed [Kd 7c] and won 180 with One pair : 7
+Seat 2: MathisKcr (big blind) showed [3c 3s] and lost with One pair : 3
+Seat 3: oudioui (button) showed [8d 8s] and won 720 with Straight Jack high
+
+

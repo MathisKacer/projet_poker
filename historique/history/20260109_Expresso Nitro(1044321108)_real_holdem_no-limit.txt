@@ -1,0 +1,103 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4485325005382483969-1-1767949894 - Holdem no limit (10/20) - 2026/01/09 09:11:34 UTC
+Table: 'Expresso Nitro(1044321108)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Trapu_Bison5 (300)
+Seat 2: MathisKcr (300)
+Seat 3: El-iA (300)
+*** ANTE/BLINDS ***
+El-iA posts small blind 10
+Trapu_Bison5 posts big blind 20
+Dealt to MathisKcr [8d 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+El-iA calls 290 and is all-in
+Trapu_Bison5 folds
+*** FLOP *** [2h 5c Qh]
+*** TURN *** [2h 5c Qh][9c]
+*** RIVER *** [2h 5c Qh 9c][Ad]
+*** SHOW DOWN ***
+El-iA shows [7c Kh] (High card : Ace)
+MathisKcr shows [8d 8c] (One pair : 8)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [2h 5c Qh 9c Ad]
+Seat 2: MathisKcr (button) showed [8d 8c] and won 620 with One pair : 8
+Seat 3: El-iA (small blind) showed [7c Kh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4485325005382483969-2-1767949915 - Holdem no limit (10/20) - 2026/01/09 09:11:55 UTC
+Table: 'Expresso Nitro(1044321108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Trapu_Bison5 (280)
+Seat 2: MathisKcr (620)
+*** ANTE/BLINDS ***
+Trapu_Bison5 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3s 8s]
+*** PRE-FLOP *** 
+Trapu_Bison5 calls 10
+MathisKcr raises 20 to 40
+Trapu_Bison5 calls 20
+*** FLOP *** [9s Ks 4h]
+MathisKcr bets 40
+Trapu_Bison5 raises 160 to 200
+MathisKcr raises 380 to 580 and is all-in
+Trapu_Bison5 calls 40 and is all-in
+*** TURN *** [9s Ks 4h][Ac]
+*** RIVER *** [9s Ks 4h Ac][Qd]
+*** SHOW DOWN ***
+Trapu_Bison5 shows [Jd Qc] (One pair : Queens)
+MathisKcr shows [3s 8s] (High card : Ace)
+MathisKcr collected 340 from side pot 1
+Trapu_Bison5 collected 560 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s Ks 4h Ac Qd]
+Seat 1: Trapu_Bison5 (small blind) (button) showed [Jd Qc] and won 560 with One pair : Queens
+Seat 2: MathisKcr (big blind) showed [3s 8s] and won 340 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4485325005382483969-3-1767949941 - Holdem no limit (10/20) - 2026/01/09 09:12:21 UTC
+Table: 'Expresso Nitro(1044321108)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Trapu_Bison5 (560)
+Seat 2: MathisKcr (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Trapu_Bison5 posts big blind 20
+Dealt to MathisKcr [Kd Tc]
+*** PRE-FLOP *** 
+MathisKcr raises 320 to 340 and is all-in
+Trapu_Bison5 folds
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: MathisKcr (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4485325005382483969-4-1767949954 - Holdem no limit (15/30) - 2026/01/09 09:12:34 UTC
+Table: 'Expresso Nitro(1044321108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Trapu_Bison5 (540)
+Seat 2: MathisKcr (360)
+*** ANTE/BLINDS ***
+Trapu_Bison5 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jc 6c]
+*** PRE-FLOP *** 
+Trapu_Bison5 calls 15
+MathisKcr raises 30 to 60
+Trapu_Bison5 raises 120 to 180
+MathisKcr raises 180 to 360 and is all-in
+Trapu_Bison5 raises 180 to 540 and is all-in
+*** FLOP *** [8h 8c As]
+*** TURN *** [8h 8c As][9h]
+*** RIVER *** [8h 8c As 9h][3d]
+*** SHOW DOWN ***
+MathisKcr shows [Jc 6c] (One pair : 8)
+Trapu_Bison5 shows [5s Ad] (Two pairs : Aces and 8)
+Trapu_Bison5 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h 8c As 9h 3d]
+Seat 1: Trapu_Bison5 (small blind) (button) showed [5s Ad] and won 900 with Two pairs : Aces and 8
+Seat 2: MathisKcr (big blind) showed [Jc 6c] and lost with One pair : 8
+
+

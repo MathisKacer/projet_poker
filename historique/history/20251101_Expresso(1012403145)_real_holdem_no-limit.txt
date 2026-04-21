@@ -1,0 +1,156 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4348238398142545921-1-1762034098 - Holdem no limit (10/20) - 2025/11/01 21:54:58 UTC
+Table: 'Expresso(1012403145)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Miss_click06 (500)
+Seat 2: Ney.c (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Miss_click06 posts small blind 10
+Ney.c posts big blind 20
+Dealt to MathisKcr [Kc Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Miss_click06 calls 30
+Ney.c folds
+*** FLOP *** [3s 2h Qc]
+Miss_click06 checks
+MathisKcr bets 60
+Miss_click06 calls 60
+*** TURN *** [3s 2h Qc][2s]
+Miss_click06 checks
+MathisKcr bets 143
+Miss_click06 folds
+MathisKcr collected 363 from pot
+*** SUMMARY ***
+Total pot 363 | No rake
+Board: [3s 2h Qc 2s]
+Seat 3: MathisKcr (button) won 363
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4348238398142545921-2-1762034124 - Holdem no limit (10/20) - 2025/11/01 21:55:24 UTC
+Table: 'Expresso(1012403145)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Miss_click06 (400)
+Seat 2: Ney.c (480)
+Seat 3: MathisKcr (620)
+*** ANTE/BLINDS ***
+Ney.c posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6c Tc]
+*** PRE-FLOP *** 
+Miss_click06 folds
+Ney.c raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [4s 7s 4d]
+Ney.c bets 20
+MathisKcr calls 20
+*** TURN *** [4s 7s 4d][Ah]
+Ney.c bets 42
+MathisKcr folds
+Ney.c collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [4s 7s 4d Ah]
+Seat 2: Ney.c (small blind) won 162
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4348238398142545921-3-1762034149 - Holdem no limit (10/20) - 2025/11/01 21:55:49 UTC
+Table: 'Expresso(1012403145)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Miss_click06 (400)
+Seat 2: Ney.c (540)
+Seat 3: MathisKcr (560)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Miss_click06 posts big blind 20
+Dealt to MathisKcr [4h Jh]
+*** PRE-FLOP *** 
+Ney.c raises 20 to 40
+MathisKcr calls 30
+Miss_click06 calls 20
+*** FLOP *** [2d 9h Qc]
+MathisKcr checks
+Miss_click06 checks
+Ney.c bets 20
+MathisKcr folds
+Miss_click06 raises 20 to 40
+Ney.c calls 20
+*** TURN *** [2d 9h Qc][2s]
+Miss_click06 checks
+Ney.c checks
+*** RIVER *** [2d 9h Qc 2s][4s]
+Miss_click06 bets 70
+Ney.c folds
+Miss_click06 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [2d 9h Qc 2s 4s]
+Seat 1: Miss_click06 (big blind) won 270
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4348238398142545921-4-1762034187 - Holdem no limit (15/30) - 2025/11/01 21:56:27 UTC
+Table: 'Expresso(1012403145)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Miss_click06 (520)
+Seat 2: Ney.c (460)
+Seat 3: MathisKcr (520)
+*** ANTE/BLINDS ***
+Miss_click06 posts small blind 15
+Ney.c posts big blind 30
+Dealt to MathisKcr [3d 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Miss_click06 raises 30 to 60
+Ney.c folds
+Miss_click06 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Miss_click06 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4348238398142545921-5-1762034200 - Holdem no limit (15/30) - 2025/11/01 21:56:40 UTC
+Table: 'Expresso(1012403145)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Miss_click06 (550)
+Seat 2: Ney.c (430)
+Seat 3: MathisKcr (520)
+*** ANTE/BLINDS ***
+Ney.c posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jh 8h]
+*** PRE-FLOP *** 
+Miss_click06 folds
+Ney.c folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4348238398142545921-6-1762034207 - Holdem no limit (15/30) - 2025/11/01 21:56:47 UTC
+Table: 'Expresso(1012403145)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Miss_click06 (550)
+Seat 2: Ney.c (415)
+Seat 3: MathisKcr (535)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Miss_click06 posts big blind 30
+Dealt to MathisKcr [4d Td]
+*** PRE-FLOP *** 
+Ney.c folds
+MathisKcr calls 15
+Miss_click06 checks
+*** FLOP *** [8h 3h 9h]
+MathisKcr bets 60
+Miss_click06 calls 60
+*** TURN *** [8h 3h 9h][Tc]
+MathisKcr bets 144
+Miss_click06 raises 316 to 460 and is all-in
+MathisKcr calls 301 and is all-in
+*** RIVER *** [8h 3h 9h Tc][9s]
+*** SHOW DOWN ***
+MathisKcr shows [4d Td] (Two pairs : Tens and 9)
+Miss_click06 shows [4h 5h] (Flush 9 high)
+Miss_click06 collected 1085 from pot
+*** SUMMARY ***
+Total pot 1085 | No rake
+Board: [8h 3h 9h Tc 9s]
+Seat 1: Miss_click06 (big blind) showed [4h 5h] and won 1085 with Flush 9 high
+Seat 3: MathisKcr (small blind) showed [4d Td] and lost with Two pairs : Tens and 9
+
+

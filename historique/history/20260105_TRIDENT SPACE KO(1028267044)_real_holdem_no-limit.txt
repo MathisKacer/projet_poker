@@ -1,0 +1,33 @@
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4416373325534593131-38-1767619606 - Holdem no limit (3/12/25) - 2026/01/05 13:26:46 UTC
+Table: 'TRIDENT SPACE KO(1028267044)#0106' 3-max (real money) Seat #1 is the button
+Seat 1: -bEAt- (1811, 0.90€ bounty)
+Seat 2: Ledgenz (689, 0.50€ bounty)
+Seat 3: MathisKcr (500, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Ledgenz posts ante 3
+MathisKcr posts ante 3
+-bEAt- posts ante 3
+Ledgenz posts small blind 12
+MathisKcr posts big blind 25
+Dealt to MathisKcr [6h Qc]
+*** PRE-FLOP *** 
+-bEAt- raises 31 to 56
+Ledgenz folds
+MathisKcr calls 31
+*** FLOP *** [2c 9c Qh]
+MathisKcr bets 61
+-bEAt- raises 1691 to 1752 and is all-in
+MathisKcr calls 380 and is all-in
+*** TURN *** [2c 9c Qh][7c]
+*** RIVER *** [2c 9c Qh 7c][Td]
+*** SHOW DOWN ***
+MathisKcr shows [6h Qc] (One pair : Queens)
+-bEAt- shows [Qd Ah] (One pair : Queens)
+-bEAt- collected 2326 from pot
+*** SUMMARY ***
+Total pot 2326 | No rake
+Board: [2c 9c Qh 7c Td]
+Seat 1: -bEAt- (button) showed [Qd Ah] and won 2326 with One pair : Queens
+Seat 3: MathisKcr (big blind) showed [6h Qc] and lost with One pair : Queens
+
+

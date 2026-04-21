@@ -1,0 +1,31 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4541533512968175617-1-1770211605 - Holdem no limit (10/20) - 2026/02/04 13:26:45 UTC
+Table: 'Expresso Nitro(1057408171)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Pozzy IV (300)
+Seat 3: PU-Chasseur3 (300)
+*** ANTE/BLINDS ***
+PU-Chasseur3 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5h 5d]
+*** PRE-FLOP *** 
+Pozzy IV calls 20
+PU-Chasseur3 calls 10
+MathisKcr raises 280 to 300 and is all-in
+Pozzy IV calls 280 and is all-in
+PU-Chasseur3 calls 280 and is all-in
+*** FLOP *** [Ad 8c 9c]
+*** TURN *** [Ad 8c 9c][Th]
+*** RIVER *** [Ad 8c 9c Th][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [5h 5d] (Two pairs : Tens and 5)
+Pozzy IV shows [Kd 8h] (Two pairs : Tens and 8)
+PU-Chasseur3 shows [Jh Tc] (Trips of Tens)
+PU-Chasseur3 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ad 8c 9c Th Ts]
+Seat 1: MathisKcr (big blind) showed [5h 5d] and lost with Two pairs : Tens and 5
+Seat 2: Pozzy IV (button) showed [Kd 8h] and lost with Two pairs : Tens and 8
+Seat 3: PU-Chasseur3 (small blind) showed [Jh Tc] and won 900 with Trips of Tens
+
+

@@ -1,0 +1,232 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4706956184123342849-1-1776240760 - Holdem no limit (10/20) - 2026/04/15 08:12:40 UTC
+Table: 'Expresso Nitro(1095923638)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Poumba13110 (300)
+Seat 2: MathisKcr (300)
+Seat 3: drachko85 (300)
+*** ANTE/BLINDS ***
+drachko85 posts small blind 10
+Poumba13110 posts big blind 20
+Dealt to MathisKcr [Qd 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+drachko85 folds
+Poumba13110 calls 20
+*** FLOP *** [8d 8s 2d]
+Poumba13110 checks
+MathisKcr checks
+*** TURN *** [8d 8s 2d][5h]
+Poumba13110 checks
+MathisKcr checks
+*** RIVER *** [8d 8s 2d 5h][5d]
+Poumba13110 checks
+MathisKcr bets 40
+Poumba13110 calls 40
+*** SHOW DOWN ***
+Poumba13110 shows [Jc Qs] (Two pairs : 8 and 5)
+MathisKcr shows [Qd 6c] (Two pairs : 8 and 5)
+MathisKcr collected 85 from pot
+Poumba13110 collected 85 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [8d 8s 2d 5h 5d]
+Seat 1: Poumba13110 (big blind) showed [Jc Qs] and won 85 with Two pairs : 8 and 5
+Seat 2: MathisKcr (button) showed [Qd 6c] and won 85 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4706956184123342849-2-1776240799 - Holdem no limit (10/20) - 2026/04/15 08:13:19 UTC
+Table: 'Expresso Nitro(1095923638)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Poumba13110 (305)
+Seat 2: MathisKcr (305)
+Seat 3: drachko85 (290)
+*** ANTE/BLINDS ***
+Poumba13110 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qc Td]
+*** PRE-FLOP *** 
+drachko85 calls 20
+Poumba13110 calls 10
+MathisKcr raises 285 to 305 and is all-in
+drachko85 calls 270 and is all-in
+Poumba13110 folds
+*** FLOP *** [Jh 5h 5c]
+*** TURN *** [Jh 5h 5c][Js]
+*** RIVER *** [Jh 5h 5c Js][8h]
+*** SHOW DOWN ***
+drachko85 shows [3s 3d] (Two pairs : Jacks and 5)
+MathisKcr shows [Qc Td] (Two pairs : Jacks and 5)
+MathisKcr collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Board: [Jh 5h 5c Js 8h]
+Seat 2: MathisKcr (big blind) showed [Qc Td] and won 615 with Two pairs : Jacks and 5
+Seat 3: drachko85 (button) showed [3s 3d] and lost with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4706956184123342849-3-1776240819 - Holdem no limit (15/30) - 2026/04/15 08:13:39 UTC
+Table: 'Expresso Nitro(1095923638)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Poumba13110 (285)
+Seat 2: MathisKcr (615)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Poumba13110 posts big blind 30
+Dealt to MathisKcr [4c Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 585 to 615 and is all-in
+Poumba13110 folds
+MathisKcr collected 645 from pot
+*** SUMMARY ***
+Total pot 645 | No rake
+Seat 2: MathisKcr (small blind) (button) won 645
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4706956184123342849-4-1776240826 - Holdem no limit (15/30) - 2026/04/15 08:13:46 UTC
+Table: 'Expresso Nitro(1095923638)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Poumba13110 (255)
+Seat 2: MathisKcr (645)
+*** ANTE/BLINDS ***
+Poumba13110 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kh 5c]
+*** PRE-FLOP *** 
+Poumba13110 calls 15
+MathisKcr raises 615 to 645 and is all-in
+Poumba13110 folds
+MathisKcr collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | No rake
+Seat 2: MathisKcr (big blind) won 675
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4706956184123342849-5-1776240836 - Holdem no limit (15/30) - 2026/04/15 08:13:56 UTC
+Table: 'Expresso Nitro(1095923638)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Poumba13110 (225)
+Seat 2: MathisKcr (675)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Poumba13110 posts big blind 30
+Dealt to MathisKcr [2s 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Poumba13110 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Poumba13110 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4706956184123342849-6-1776240841 - Holdem no limit (15/30) - 2026/04/15 08:14:01 UTC
+Table: 'Expresso Nitro(1095923638)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Poumba13110 (240)
+Seat 2: MathisKcr (660)
+*** ANTE/BLINDS ***
+Poumba13110 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6c Qd]
+*** PRE-FLOP *** 
+Poumba13110 calls 15
+MathisKcr raises 630 to 660 and is all-in
+Poumba13110 calls 210 and is all-in
+*** FLOP *** [Qs 9c 7c]
+*** TURN *** [Qs 9c 7c][3c]
+*** RIVER *** [Qs 9c 7c 3c][Qh]
+*** SHOW DOWN ***
+Poumba13110 shows [Kc Qc] (Flush King high)
+MathisKcr shows [6c Qd] (Trips of Queens)
+MathisKcr collected 420 from side pot 1
+Poumba13110 collected 480 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qs 9c 7c 3c Qh]
+Seat 1: Poumba13110 (small blind) (button) showed [Kc Qc] and won 480 with Flush King high
+Seat 2: MathisKcr (big blind) showed [6c Qd] and won 420 with Trips of Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4706956184123342849-7-1776240854 - Holdem no limit (15/30) - 2026/04/15 08:14:14 UTC
+Table: 'Expresso Nitro(1095923638)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Poumba13110 (480)
+Seat 2: MathisKcr (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Poumba13110 posts big blind 30
+Dealt to MathisKcr [Jh 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Poumba13110 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Poumba13110 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4706956184123342849-8-1776240859 - Holdem no limit (15/30) - 2026/04/15 08:14:19 UTC
+Table: 'Expresso Nitro(1095923638)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Poumba13110 (495)
+Seat 2: MathisKcr (405)
+*** ANTE/BLINDS ***
+Poumba13110 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Tc 2s]
+*** PRE-FLOP *** 
+Poumba13110 calls 15
+MathisKcr checks
+*** FLOP *** [Ad 4h 6c]
+MathisKcr checks
+Poumba13110 checks
+*** TURN *** [Ad 4h 6c][Kd]
+MathisKcr checks
+Poumba13110 checks
+*** RIVER *** [Ad 4h 6c Kd][9h]
+MathisKcr checks
+Poumba13110 checks
+*** SHOW DOWN ***
+MathisKcr shows [Tc 2s] (High card : Ace)
+Poumba13110 shows [Ts 6h] (One pair : 6)
+Poumba13110 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ad 4h 6c Kd 9h]
+Seat 1: Poumba13110 (small blind) (button) showed [Ts 6h] and won 60 with One pair : 6
+Seat 2: MathisKcr (big blind) showed [Tc 2s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4706956184123342849-9-1776240885 - Holdem no limit (20/40) - 2026/04/15 08:14:45 UTC
+Table: 'Expresso Nitro(1095923638)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Poumba13110 (525)
+Seat 2: MathisKcr (375)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Poumba13110 posts big blind 40
+Dealt to MathisKcr [9d 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Poumba13110 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Poumba13110 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4706956184123342849-10-1776240889 - Holdem no limit (20/40) - 2026/04/15 08:14:49 UTC
+Table: 'Expresso Nitro(1095923638)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Poumba13110 (545)
+Seat 2: MathisKcr (355)
+*** ANTE/BLINDS ***
+Poumba13110 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3d 4h]
+*** PRE-FLOP *** 
+Poumba13110 calls 20
+MathisKcr checks
+*** FLOP *** [4d 6s Qd]
+MathisKcr bets 315 and is all-in
+Poumba13110 raises 190 to 505 and is all-in
+*** TURN *** [4d 6s Qd][Jh]
+*** RIVER *** [4d 6s Qd Jh][9c]
+*** SHOW DOWN ***
+MathisKcr shows [3d 4h] (One pair : 4)
+Poumba13110 shows [Qh 4c] (Two pairs : Queens and 4)
+Poumba13110 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 6s Qd Jh 9c]
+Seat 1: Poumba13110 (small blind) (button) showed [Qh 4c] and won 900 with Two pairs : Queens and 4
+Seat 2: MathisKcr (big blind) showed [3d 4h] and lost with One pair : 4
+
+

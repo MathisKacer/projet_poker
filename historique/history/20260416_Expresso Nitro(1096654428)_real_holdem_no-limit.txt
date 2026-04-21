@@ -1,0 +1,93 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4710094903273586689-1-1776358007 - Holdem no limit (10/20) - 2026/04/16 16:46:47 UTC
+Table: 'Expresso Nitro(1096654428)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Le Faya Man (300)
+Seat 2: Jose_Fish768 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Le Faya Man posts small blind 10
+Jose_Fish768 posts big blind 20
+Dealt to MathisKcr [Jd 7h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Le Faya Man raises 280 to 300 and is all-in
+Jose_Fish768 folds
+Le Faya Man collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Le Faya Man (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4710094903273586689-2-1776358023 - Holdem no limit (10/20) - 2026/04/16 16:47:03 UTC
+Table: 'Expresso Nitro(1096654428)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Le Faya Man (320)
+Seat 2: Jose_Fish768 (280)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Jose_Fish768 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ac 5s]
+*** PRE-FLOP *** 
+Le Faya Man folds
+Jose_Fish768 raises 30 to 50
+MathisKcr raises 250 to 300 and is all-in
+Jose_Fish768 calls 230 and is all-in
+*** FLOP *** [9d 4c 2h]
+*** TURN *** [9d 4c 2h][5h]
+*** RIVER *** [9d 4c 2h 5h][8c]
+*** SHOW DOWN ***
+Jose_Fish768 shows [As Jh] (High card : Ace)
+MathisKcr shows [Ac 5s] (One pair : 5)
+MathisKcr collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [9d 4c 2h 5h 8c]
+Seat 2: Jose_Fish768 (small blind) showed [As Jh] and lost with High card : Ace
+Seat 3: MathisKcr (big blind) showed [Ac 5s] and won 580 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4710094903273586689-3-1776358044 - Holdem no limit (10/20) - 2026/04/16 16:47:24 UTC
+Table: 'Expresso Nitro(1096654428)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Le Faya Man (320)
+Seat 3: MathisKcr (580)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Le Faya Man posts big blind 20
+Dealt to MathisKcr [Tc 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Le Faya Man collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Le Faya Man (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4710094903273586689-4-1776358051 - Holdem no limit (10/20) - 2026/04/16 16:47:31 UTC
+Table: 'Expresso Nitro(1096654428)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Le Faya Man (330)
+Seat 3: MathisKcr (570)
+*** ANTE/BLINDS ***
+Le Faya Man posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6h 8d]
+*** PRE-FLOP *** 
+Le Faya Man raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [Ad 3d Jd]
+MathisKcr checks
+Le Faya Man bets 40
+MathisKcr calls 40
+*** TURN *** [Ad 3d Jd][9d]
+MathisKcr bets 490 and is all-in
+Le Faya Man calls 250 and is all-in
+*** RIVER *** [Ad 3d Jd 9d][Qh]
+*** SHOW DOWN ***
+Le Faya Man shows [5d 3c] (Flush Ace high)
+MathisKcr shows [6h 8d] (Flush Ace high)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ad 3d Jd 9d Qh]
+Seat 1: Le Faya Man (small blind) (button) showed [5d 3c] and lost with Flush Ace high
+Seat 3: MathisKcr (big blind) showed [6h 8d] and won 900 with Flush Ace high
+
+

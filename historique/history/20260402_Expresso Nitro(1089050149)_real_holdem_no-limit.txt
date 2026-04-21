@@ -1,0 +1,223 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4677434773658927105-1-1775133946 - Holdem no limit (10/20) - 2026/04/02 12:45:46 UTC
+Table: 'Expresso Nitro(1089050149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BinoScratcho (300)
+Seat 2: keyliera (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+BinoScratcho posts big blind 20
+Dealt to MathisKcr [6h 7h]
+*** PRE-FLOP *** 
+keyliera folds
+MathisKcr folds
+BinoScratcho collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: BinoScratcho (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4677434773658927105-2-1775133965 - Holdem no limit (10/20) - 2026/04/02 12:46:05 UTC
+Table: 'Expresso Nitro(1089050149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BinoScratcho (310)
+Seat 2: keyliera (300)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+BinoScratcho posts small blind 10
+keyliera posts big blind 20
+Dealt to MathisKcr [2s Ts]
+*** PRE-FLOP *** 
+MathisKcr folds
+BinoScratcho raises 290 to 310 and is all-in
+keyliera folds
+BinoScratcho collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: BinoScratcho (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4677434773658927105-3-1775133984 - Holdem no limit (10/20) - 2026/04/02 12:46:24 UTC
+Table: 'Expresso Nitro(1089050149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BinoScratcho (330)
+Seat 2: keyliera (280)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+keyliera posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd Ad]
+*** PRE-FLOP *** 
+BinoScratcho folds
+keyliera raises 260 to 280 and is all-in
+MathisKcr calls 260
+*** FLOP *** [6d 4d Tc]
+*** TURN *** [6d 4d Tc][Js]
+*** RIVER *** [6d 4d Tc Js][8d]
+*** SHOW DOWN ***
+keyliera shows [Th Qc] (One pair : Tens)
+MathisKcr shows [Jd Ad] (Flush Ace high)
+MathisKcr collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6d 4d Tc Js 8d]
+Seat 2: keyliera (small blind) showed [Th Qc] and lost with One pair : Tens
+Seat 3: MathisKcr (big blind) showed [Jd Ad] and won 560 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4677434773658927105-4-1775134004 - Holdem no limit (15/30) - 2026/04/02 12:46:44 UTC
+Table: 'Expresso Nitro(1089050149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BinoScratcho (330)
+Seat 3: MathisKcr (570)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+BinoScratcho posts big blind 30
+Dealt to MathisKcr [6c 9s]
+*** PRE-FLOP *** 
+MathisKcr folds
+BinoScratcho collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: BinoScratcho (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4677434773658927105-5-1775134019 - Holdem no limit (15/30) - 2026/04/02 12:46:59 UTC
+Table: 'Expresso Nitro(1089050149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BinoScratcho (345)
+Seat 3: MathisKcr (555)
+*** ANTE/BLINDS ***
+BinoScratcho posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [As 6c]
+*** PRE-FLOP *** 
+BinoScratcho calls 15
+MathisKcr raises 525 to 555 and is all-in
+BinoScratcho calls 315 and is all-in
+*** FLOP *** [Jh 8h 2s]
+*** TURN *** [Jh 8h 2s][5c]
+*** RIVER *** [Jh 8h 2s 5c][Js]
+*** SHOW DOWN ***
+BinoScratcho shows [Kh 5h] (Two pairs : Jacks and 5)
+MathisKcr shows [As 6c] (One pair : Jacks)
+MathisKcr collected 210 from side pot 1
+BinoScratcho collected 690 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh 8h 2s 5c Js]
+Seat 1: BinoScratcho (small blind) (button) showed [Kh 5h] and won 690 with Two pairs : Jacks and 5
+Seat 3: MathisKcr (big blind) showed [As 6c] and won 210 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4677434773658927105-6-1775134037 - Holdem no limit (15/30) - 2026/04/02 12:47:17 UTC
+Table: 'Expresso Nitro(1089050149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BinoScratcho (690)
+Seat 3: MathisKcr (210)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+BinoScratcho posts big blind 30
+Dealt to MathisKcr [3c 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+BinoScratcho collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: BinoScratcho (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4677434773658927105-7-1775134042 - Holdem no limit (15/30) - 2026/04/02 12:47:22 UTC
+Table: 'Expresso Nitro(1089050149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BinoScratcho (705)
+Seat 3: MathisKcr (195)
+*** ANTE/BLINDS ***
+BinoScratcho posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5h 4d]
+*** PRE-FLOP *** 
+BinoScratcho folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4677434773658927105-8-1775134046 - Holdem no limit (15/30) - 2026/04/02 12:47:26 UTC
+Table: 'Expresso Nitro(1089050149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BinoScratcho (690)
+Seat 3: MathisKcr (210)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+BinoScratcho posts big blind 30
+Dealt to MathisKcr [8s 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+BinoScratcho collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: BinoScratcho (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4677434773658927105-9-1775134053 - Holdem no limit (15/30) - 2026/04/02 12:47:33 UTC
+Table: 'Expresso Nitro(1089050149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BinoScratcho (705)
+Seat 3: MathisKcr (195)
+*** ANTE/BLINDS ***
+BinoScratcho posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qd Qs]
+*** PRE-FLOP *** 
+BinoScratcho calls 15
+MathisKcr raises 165 to 195 and is all-in
+BinoScratcho calls 165
+*** FLOP *** [Td 9d 7c]
+*** TURN *** [Td 9d 7c][Ad]
+*** RIVER *** [Td 9d 7c Ad][6h]
+*** SHOW DOWN ***
+BinoScratcho shows [Kc 4d] (High card : Ace)
+MathisKcr shows [Qd Qs] (One pair : Queens)
+MathisKcr collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [Td 9d 7c Ad 6h]
+Seat 1: BinoScratcho (small blind) (button) showed [Kc 4d] and lost with High card : Ace
+Seat 3: MathisKcr (big blind) showed [Qd Qs] and won 390 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4677434773658927105-10-1775134068 - Holdem no limit (20/40) - 2026/04/02 12:47:48 UTC
+Table: 'Expresso Nitro(1089050149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BinoScratcho (510)
+Seat 3: MathisKcr (390)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+BinoScratcho posts big blind 40
+Dealt to MathisKcr [Th 9h]
+*** PRE-FLOP *** 
+MathisKcr raises 350 to 390 and is all-in
+BinoScratcho folds
+MathisKcr collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 3: MathisKcr (small blind) (button) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4677434773658927105-11-1775134082 - Holdem no limit (20/40) - 2026/04/02 12:48:02 UTC
+Table: 'Expresso Nitro(1089050149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BinoScratcho (470)
+Seat 3: MathisKcr (430)
+*** ANTE/BLINDS ***
+BinoScratcho posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7c Kh]
+*** PRE-FLOP *** 
+BinoScratcho raises 430 to 470 and is all-in
+MathisKcr calls 390 and is all-in
+*** FLOP *** [9d Ts 8c]
+*** TURN *** [9d Ts 8c][5h]
+*** RIVER *** [9d Ts 8c 5h][9s]
+*** SHOW DOWN ***
+MathisKcr shows [7c Kh] (One pair : 9)
+BinoScratcho shows [2s Ad] (One pair : 9)
+BinoScratcho collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d Ts 8c 5h 9s]
+Seat 1: BinoScratcho (small blind) (button) showed [2s Ad] and won 900 with One pair : 9
+Seat 3: MathisKcr (big blind) showed [7c Kh] and lost with One pair : 9
+
+

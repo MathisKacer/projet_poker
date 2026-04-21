@@ -1,0 +1,83 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676982917329584129-1-1775117243 - Holdem no limit (10/20) - 2026/04/02 08:07:23 UTC
+Table: 'Expresso Nitro(1088944943)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: LM-GOAT10312 (300)
+Seat 3: Busbybabes (300)
+*** ANTE/BLINDS ***
+LM-GOAT10312 posts small blind 10
+Busbybabes posts big blind 20
+Dealt to MathisKcr [3h 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+LM-GOAT10312 calls 10
+Busbybabes checks
+*** FLOP *** [Ks 9d 7s]
+LM-GOAT10312 checks
+Busbybabes checks
+*** TURN *** [Ks 9d 7s][6s]
+LM-GOAT10312 bets 20
+Busbybabes folds
+LM-GOAT10312 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ks 9d 7s 6s]
+Seat 2: LM-GOAT10312 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676982917329584129-2-1775117255 - Holdem no limit (10/20) - 2026/04/02 08:07:35 UTC
+Table: 'Expresso Nitro(1088944943)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: LM-GOAT10312 (320)
+Seat 3: Busbybabes (280)
+*** ANTE/BLINDS ***
+Busbybabes posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4d 2h]
+*** PRE-FLOP *** 
+LM-GOAT10312 calls 20
+Busbybabes calls 10
+MathisKcr checks
+*** FLOP *** [6d Qs Ks]
+Busbybabes checks
+MathisKcr checks
+LM-GOAT10312 bets 60
+Busbybabes folds
+MathisKcr folds
+LM-GOAT10312 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [6d Qs Ks]
+Seat 2: LM-GOAT10312 (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676982917329584129-3-1775117289 - Holdem no limit (10/20) - 2026/04/02 08:08:09 UTC
+Table: 'Expresso Nitro(1088944943)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: LM-GOAT10312 (360)
+Seat 3: Busbybabes (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+LM-GOAT10312 posts big blind 20
+Dealt to MathisKcr [Ts Qs]
+*** PRE-FLOP *** 
+Busbybabes raises 240 to 260 and is all-in
+MathisKcr calls 250
+LM-GOAT10312 calls 240
+*** FLOP *** [3c 7s Kh]
+MathisKcr bets 20 and is all-in
+LM-GOAT10312 calls 20
+*** TURN *** [3c 7s Kh][2h]
+*** RIVER *** [3c 7s Kh 2h][Jd]
+*** SHOW DOWN ***
+MathisKcr shows [Ts Qs] (High card : King)
+Busbybabes shows [As 4d] (High card : Ace)
+LM-GOAT10312 shows [Ac Ks] (One pair : Kings)
+LM-GOAT10312 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [3c 7s Kh 2h Jd]
+Seat 1: MathisKcr (small blind) showed [Ts Qs] and lost with High card : King
+Seat 2: LM-GOAT10312 (big blind) showed [Ac Ks] and won 820 with One pair : Kings
+Seat 3: Busbybabes (button) showed [As 4d] and lost with High card : Ace
+
+

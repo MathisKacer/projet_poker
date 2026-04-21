@@ -1,0 +1,189 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601698883729358849-1-1772396681 - Holdem no limit (10/20) - 2026/03/01 20:24:41 UTC
+Table: 'Expresso Nitro(1071416513)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fannylems (300)
+Seat 2: D.Quixote (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Fannylems posts small blind 10
+D.Quixote posts big blind 20
+Dealt to MathisKcr [Qh 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Fannylems raises 40 to 60
+D.Quixote raises 240 to 300 and is all-in
+Fannylems calls 240 and is all-in
+*** FLOP *** [6c 9c 3c]
+*** TURN *** [6c 9c 3c][4s]
+*** RIVER *** [6c 9c 3c 4s][Qd]
+*** SHOW DOWN ***
+Fannylems shows [Jd Ac] (High card : Ace)
+D.Quixote shows [7c 7h] (One pair : 7)
+D.Quixote collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6c 9c 3c 4s Qd]
+Seat 1: Fannylems (small blind) showed [Jd Ac] and lost with High card : Ace
+Seat 2: D.Quixote (big blind) showed [7c 7h] and won 600 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601698883729358849-2-1772396703 - Holdem no limit (10/20) - 2026/03/01 20:25:03 UTC
+Table: 'Expresso Nitro(1071416513)#0' 3-max (real money) Seat #2 is the button
+Seat 2: D.Quixote (600)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+D.Quixote posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2h 9h]
+*** PRE-FLOP *** 
+D.Quixote folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601698883729358849-3-1772396710 - Holdem no limit (10/20) - 2026/03/01 20:25:10 UTC
+Table: 'Expresso Nitro(1071416513)#0' 3-max (real money) Seat #3 is the button
+Seat 2: D.Quixote (590)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+D.Quixote posts big blind 20
+Dealt to MathisKcr [Jd 2h]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+D.Quixote checks
+*** FLOP *** [Ks 4d Qc]
+D.Quixote checks
+MathisKcr checks
+*** TURN *** [Ks 4d Qc][Tc]
+D.Quixote checks
+MathisKcr bets 30
+D.Quixote folds
+MathisKcr collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Ks 4d Qc Tc]
+Seat 3: MathisKcr (small blind) (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601698883729358849-4-1772396729 - Holdem no limit (10/20) - 2026/03/01 20:25:29 UTC
+Table: 'Expresso Nitro(1071416513)#0' 3-max (real money) Seat #2 is the button
+Seat 2: D.Quixote (570)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+D.Quixote posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As Qs]
+*** PRE-FLOP *** 
+D.Quixote folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601698883729358849-5-1772396740 - Holdem no limit (15/30) - 2026/03/01 20:25:40 UTC
+Table: 'Expresso Nitro(1071416513)#0' 3-max (real money) Seat #3 is the button
+Seat 2: D.Quixote (560)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+D.Quixote posts big blind 30
+Dealt to MathisKcr [9d Ts]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+D.Quixote calls 30
+*** FLOP *** [6s 9s 7d]
+D.Quixote checks
+MathisKcr bets 60
+D.Quixote folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [6s 9s 7d]
+Seat 3: MathisKcr (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601698883729358849-6-1772396764 - Holdem no limit (15/30) - 2026/03/01 20:26:04 UTC
+Table: 'Expresso Nitro(1071416513)#0' 3-max (real money) Seat #2 is the button
+Seat 2: D.Quixote (500)
+Seat 3: MathisKcr (400)
+*** ANTE/BLINDS ***
+D.Quixote posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4c 7d]
+*** PRE-FLOP *** 
+D.Quixote folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601698883729358849-7-1772396773 - Holdem no limit (15/30) - 2026/03/01 20:26:13 UTC
+Table: 'Expresso Nitro(1071416513)#0' 3-max (real money) Seat #3 is the button
+Seat 2: D.Quixote (485)
+Seat 3: MathisKcr (415)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+D.Quixote posts big blind 30
+Dealt to MathisKcr [9s 4c]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+D.Quixote folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601698883729358849-8-1772396785 - Holdem no limit (15/30) - 2026/03/01 20:26:25 UTC
+Table: 'Expresso Nitro(1071416513)#0' 3-max (real money) Seat #2 is the button
+Seat 2: D.Quixote (455)
+Seat 3: MathisKcr (445)
+*** ANTE/BLINDS ***
+D.Quixote posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ac 5s]
+*** PRE-FLOP *** 
+D.Quixote raises 425 to 455 and is all-in
+MathisKcr calls 415 and is all-in
+*** FLOP *** [Ad 7c 9c]
+*** TURN *** [Ad 7c 9c][Kh]
+*** RIVER *** [Ad 7c 9c Kh][8c]
+*** SHOW DOWN ***
+D.Quixote shows [Ts Kd] (One pair : Kings)
+MathisKcr shows [Ac 5s] (One pair : Aces)
+MathisKcr collected 890 from main pot
+D.Quixote collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ad 7c 9c Kh 8c]
+Seat 2: D.Quixote (small blind) (button) showed [Ts Kd] and won 10 with One pair : Kings
+Seat 3: MathisKcr (big blind) showed [Ac 5s] and won 890 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4601698883729358849-9-1772396800 - Holdem no limit (20/40) - 2026/03/01 20:26:40 UTC
+Table: 'Expresso Nitro(1071416513)#0' 3-max (real money) Seat #3 is the button
+Seat 2: D.Quixote (10)
+Seat 3: MathisKcr (890)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+D.Quixote posts big blind 10 and is all-in
+Dealt to MathisKcr [9d 8h]
+*** PRE-FLOP *** 
+*** FLOP *** [As 8d 7h]
+*** TURN *** [As 8d 7h][7d]
+*** RIVER *** [As 8d 7h 7d][7c]
+*** SHOW DOWN ***
+D.Quixote shows [Qs 5c] (Trips of 7)
+MathisKcr shows [9d 8h] (Full of 7 and 8)
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [As 8d 7h 7d 7c]
+Seat 2: D.Quixote (big blind) showed [Qs 5c] and lost with Trips of 7
+Seat 3: MathisKcr (small blind) (button) showed [9d 8h] and won 30 with Full of 7 and 8
+
+

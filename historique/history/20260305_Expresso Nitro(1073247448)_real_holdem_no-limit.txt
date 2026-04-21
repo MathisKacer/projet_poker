@@ -1,0 +1,129 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4609562689675460609-1-1772707899 - Holdem no limit (10/20) - 2026/03/05 10:51:39 UTC
+Table: 'Expresso Nitro(1073247448)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: WINATOOB (300)
+Seat 3: kakilou1971 (300)
+*** ANTE/BLINDS ***
+kakilou1971 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6d 3h]
+*** PRE-FLOP *** 
+WINATOOB raises 280 to 300 and is all-in
+kakilou1971 folds
+MathisKcr folds
+WINATOOB collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: WINATOOB (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4609562689675460609-2-1772707911 - Holdem no limit (10/20) - 2026/03/05 10:51:51 UTC
+Table: 'Expresso Nitro(1073247448)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: WINATOOB (330)
+Seat 3: kakilou1971 (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+WINATOOB posts big blind 20
+Dealt to MathisKcr [5s 3d]
+*** PRE-FLOP *** 
+kakilou1971 calls 20
+MathisKcr folds
+WINATOOB checks
+*** FLOP *** [8d 8s 7h]
+WINATOOB checks
+kakilou1971 checks
+*** TURN *** [8d 8s 7h][6s]
+WINATOOB bets 50
+kakilou1971 folds
+WINATOOB collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [8d 8s 7h 6s]
+Seat 2: WINATOOB (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4609562689675460609-3-1772707926 - Holdem no limit (10/20) - 2026/03/05 10:52:06 UTC
+Table: 'Expresso Nitro(1073247448)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: WINATOOB (360)
+Seat 3: kakilou1971 (270)
+*** ANTE/BLINDS ***
+WINATOOB posts small blind 10
+kakilou1971 posts big blind 20
+Dealt to MathisKcr [Jd 4s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+WINATOOB folds
+kakilou1971 calls 20
+*** FLOP *** [2s 7s Ah]
+kakilou1971 checks
+MathisKcr checks
+*** TURN *** [2s 7s Ah][8d]
+kakilou1971 checks
+MathisKcr checks
+*** RIVER *** [2s 7s Ah 8d][Ts]
+kakilou1971 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Jd 4s] (High card : Ace)
+kakilou1971 shows [Qc 5d] (High card : Ace)
+kakilou1971 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [2s 7s Ah 8d Ts]
+Seat 1: MathisKcr (button) showed [Jd 4s] and lost with High card : Ace
+Seat 3: kakilou1971 (big blind) showed [Qc 5d] and won 90 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4609562689675460609-4-1772708001 - Holdem no limit (15/30) - 2026/03/05 10:53:21 UTC
+Table: 'Expresso Nitro(1073247448)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (230)
+Seat 2: WINATOOB (350)
+Seat 3: kakilou1971 (320)
+*** ANTE/BLINDS ***
+kakilou1971 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8d Qs]
+*** PRE-FLOP *** 
+WINATOOB folds
+kakilou1971 calls 15
+MathisKcr checks
+*** FLOP *** [3h 2h 6h]
+kakilou1971 bets 39
+MathisKcr folds
+kakilou1971 collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [3h 2h 6h]
+Seat 3: kakilou1971 (small blind) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4609562689675460609-5-1772708039 - Holdem no limit (20/40) - 2026/03/05 10:53:59 UTC
+Table: 'Expresso Nitro(1073247448)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (200)
+Seat 2: WINATOOB (350)
+Seat 3: kakilou1971 (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+WINATOOB posts big blind 40
+Dealt to MathisKcr [Jh 9h]
+*** PRE-FLOP *** 
+kakilou1971 calls 40
+MathisKcr raises 160 to 200 and is all-in
+WINATOOB raises 150 to 350 and is all-in
+kakilou1971 folds
+*** FLOP *** [8s 6s 8h]
+*** TURN *** [8s 6s 8h][Tc]
+*** RIVER *** [8s 6s 8h Tc][2d]
+*** SHOW DOWN ***
+MathisKcr shows [Jh 9h] (One pair : 8)
+WINATOOB shows [Td Qh] (Two pairs : Tens and 8)
+WINATOOB collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [8s 6s 8h Tc 2d]
+Seat 1: MathisKcr (small blind) showed [Jh 9h] and lost with One pair : 8
+Seat 2: WINATOOB (big blind) showed [Td Qh] and won 590 with Two pairs : Tens and 8
+
+

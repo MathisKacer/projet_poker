@@ -1,0 +1,143 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445197838900527105-1-1766311929 - Holdem no limit (10/20) - 2025/12/21 10:12:09 UTC
+Table: 'Expresso(1034978274)#0' 3-max (real money) Seat #3 is the button
+Seat 1: vbond007-- (500)
+Seat 2: Margotte _29 (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+vbond007-- posts small blind 10
+Margotte _29 posts big blind 20
+Dealt to MathisKcr [3h 7h]
+*** PRE-FLOP *** 
+MathisKcr folds
+vbond007-- calls 10
+Margotte _29 checks
+*** FLOP *** [6d Kh 8d]
+vbond007-- bets 40
+Margotte _29 calls 40
+*** TURN *** [6d Kh 8d][Ad]
+vbond007-- bets 40
+Margotte _29 calls 40
+*** RIVER *** [6d Kh 8d Ad][4c]
+vbond007-- bets 40
+Margotte _29 calls 40
+*** SHOW DOWN ***
+Margotte _29 shows [4h Td] (One pair : 4)
+vbond007-- shows [5h Ks] (One pair : Kings)
+vbond007-- collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [6d Kh 8d Ad 4c]
+Seat 1: vbond007-- (small blind) showed [5h Ks] and won 280 with One pair : Kings
+Seat 2: Margotte _29 (big blind) showed [4h Td] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445197838900527105-2-1766311958 - Holdem no limit (10/20) - 2025/12/21 10:12:38 UTC
+Table: 'Expresso(1034978274)#0' 3-max (real money) Seat #1 is the button
+Seat 1: vbond007-- (640)
+Seat 2: Margotte _29 (360)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Margotte _29 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Tc 8d]
+*** PRE-FLOP *** 
+vbond007-- folds
+Margotte _29 calls 10
+MathisKcr checks
+*** FLOP *** [Td Kh 7s]
+Margotte _29 checks
+MathisKcr bets 20
+Margotte _29 calls 20
+*** TURN *** [Td Kh 7s][3c]
+Margotte _29 checks
+MathisKcr bets 20
+Margotte _29 folds
+MathisKcr collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Td Kh 7s 3c]
+Seat 3: MathisKcr (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445197838900527105-3-1766311990 - Holdem no limit (10/20) - 2025/12/21 10:13:10 UTC
+Table: 'Expresso(1034978274)#0' 3-max (real money) Seat #2 is the button
+Seat 1: vbond007-- (640)
+Seat 2: Margotte _29 (320)
+Seat 3: MathisKcr (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+vbond007-- posts big blind 20
+Dealt to MathisKcr [Th Qc]
+*** PRE-FLOP *** 
+Margotte _29 calls 20
+MathisKcr raises 20 to 40
+vbond007-- calls 20
+Margotte _29 calls 20
+*** FLOP *** [Kd 8c 6d]
+MathisKcr bets 20
+vbond007-- calls 20
+Margotte _29 calls 20
+*** TURN *** [Kd 8c 6d][6c]
+MathisKcr checks
+vbond007-- bets 60
+Margotte _29 calls 60
+MathisKcr folds
+*** RIVER *** [Kd 8c 6d 6c][Ts]
+vbond007-- checks
+Margotte _29 checks
+*** SHOW DOWN ***
+vbond007-- shows [8s Ah] (Two pairs : 8 and 6)
+Margotte _29 shows [9s Kh] (Two pairs : Kings and 6)
+Margotte _29 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Kd 8c 6d 6c Ts]
+Seat 1: vbond007-- (big blind) showed [8s Ah] and lost with Two pairs : 8 and 6
+Seat 2: Margotte _29 (button) showed [9s Kh] and won 300 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4445197838900527105-4-1766312033 - Holdem no limit (15/30) - 2025/12/21 10:13:53 UTC
+Table: 'Expresso(1034978274)#0' 3-max (real money) Seat #3 is the button
+Seat 1: vbond007-- (520)
+Seat 2: Margotte _29 (500)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+vbond007-- posts small blind 15
+Margotte _29 posts big blind 30
+Dealt to MathisKcr [4s 9c]
+*** PRE-FLOP *** 
+MathisKcr folds
+vbond007-- folds
+Margotte _29 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Margotte _29 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4445197838900527105-5-1766312046 - Holdem no limit (15/30) - 2025/12/21 10:14:06 UTC
+Table: 'Expresso(1034978274)#0' 3-max (real money) Seat #1 is the button
+Seat 1: vbond007-- (505)
+Seat 2: Margotte _29 (515)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+Margotte _29 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ks Qs]
+*** PRE-FLOP *** 
+vbond007-- raises 475 to 505 and is all-in
+Margotte _29 folds
+MathisKcr calls 450 and is all-in
+*** FLOP *** [2h 4s Th]
+*** TURN *** [2h 4s Th][As]
+*** RIVER *** [2h 4s Th As][Ad]
+*** SHOW DOWN ***
+MathisKcr shows [Ks Qs] (One pair : Aces)
+vbond007-- shows [7h 7c] (Two pairs : Aces and 7)
+vbond007-- collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [2h 4s Th As Ad]
+Seat 1: vbond007-- (button) showed [7h 7c] and won 1000 with Two pairs : Aces and 7
+Seat 3: MathisKcr (big blind) showed [Ks Qs] and lost with One pair : Aces
+
+

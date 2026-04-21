@@ -1,0 +1,426 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614520306000723969-1-1772905963 - Holdem no limit (10/20) - 2026/03/07 17:52:43 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #3 is the button
+Seat 1: KMLB4 (300)
+Seat 2: MathisKcr (300)
+Seat 3: wodanoob (300)
+*** ANTE/BLINDS ***
+KMLB4 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9h Tc]
+*** PRE-FLOP *** 
+wodanoob folds
+KMLB4 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614520306000723969-2-1772905970 - Holdem no limit (10/20) - 2026/03/07 17:52:50 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #1 is the button
+Seat 1: KMLB4 (290)
+Seat 2: MathisKcr (310)
+Seat 3: wodanoob (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+wodanoob posts big blind 20
+Dealt to MathisKcr [9d Ac]
+*** PRE-FLOP *** 
+KMLB4 folds
+MathisKcr raises 40 to 60
+wodanoob calls 40
+*** FLOP *** [Jc Qh 7c]
+MathisKcr checks
+wodanoob checks
+*** TURN *** [Jc Qh 7c][Jh]
+MathisKcr checks
+wodanoob bets 40
+MathisKcr folds
+wodanoob collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Jc Qh 7c Jh]
+Seat 3: wodanoob (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614520306000723969-3-1772906005 - Holdem no limit (10/20) - 2026/03/07 17:53:25 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #2 is the button
+Seat 1: KMLB4 (290)
+Seat 2: MathisKcr (250)
+Seat 3: wodanoob (360)
+*** ANTE/BLINDS ***
+wodanoob posts small blind 10
+KMLB4 posts big blind 20
+Dealt to MathisKcr [8s 2d]
+*** PRE-FLOP *** 
+MathisKcr folds
+wodanoob raises 30 to 50
+KMLB4 calls 30
+*** FLOP *** [Qd 9d Ks]
+wodanoob bets 30
+KMLB4 calls 30
+*** TURN *** [Qd 9d Ks][4h]
+wodanoob bets 80
+KMLB4 calls 80
+*** RIVER *** [Qd 9d Ks 4h][Qs]
+wodanoob bets 200 and is all-in
+KMLB4 calls 130 and is all-in
+*** SHOW DOWN ***
+KMLB4 shows [Js 4s] (Two pairs : Queens and 4)
+wodanoob shows [Td Jc] (Straight King high)
+wodanoob collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Qd 9d Ks 4h Qs]
+Seat 1: KMLB4 (big blind) showed [Js 4s] and lost with Two pairs : Queens and 4
+Seat 3: wodanoob (small blind) showed [Td Jc] and won 650 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4614520306000723969-4-1772906049 - Holdem no limit (15/30) - 2026/03/07 17:54:09 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (250)
+Seat 3: wodanoob (650)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+wodanoob posts big blind 30
+Dealt to MathisKcr [Ks 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 220 to 250 and is all-in
+wodanoob folds
+MathisKcr collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 2: MathisKcr (small blind) (button) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4614520306000723969-5-1772906058 - Holdem no limit (15/30) - 2026/03/07 17:54:18 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (280)
+Seat 3: wodanoob (620)
+*** ANTE/BLINDS ***
+wodanoob posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kc Ah]
+*** PRE-FLOP *** 
+wodanoob raises 60 to 90
+MathisKcr raises 190 to 280 and is all-in
+wodanoob calls 190
+*** FLOP *** [Qs Th Ad]
+*** TURN *** [Qs Th Ad][Qc]
+*** RIVER *** [Qs Th Ad Qc][7c]
+*** SHOW DOWN ***
+wodanoob shows [Ac Js] (Two pairs : Aces and Queens)
+MathisKcr shows [Kc Ah] (Two pairs : Aces and Queens)
+MathisKcr collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Qs Th Ad Qc 7c]
+Seat 2: MathisKcr (big blind) showed [Kc Ah] and won 560 with Two pairs : Aces and Queens
+Seat 3: wodanoob (small blind) (button) showed [Ac Js] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4614520306000723969-6-1772906074 - Holdem no limit (15/30) - 2026/03/07 17:54:34 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (560)
+Seat 3: wodanoob (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+wodanoob posts big blind 30
+Dealt to MathisKcr [2c 3c]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+wodanoob raises 60 to 90
+MathisKcr folds
+wodanoob collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: wodanoob (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614520306000723969-7-1772906087 - Holdem no limit (20/40) - 2026/03/07 17:54:47 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (530)
+Seat 3: wodanoob (370)
+*** ANTE/BLINDS ***
+wodanoob posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6d Ks]
+*** PRE-FLOP *** 
+wodanoob calls 20
+MathisKcr checks
+*** FLOP *** [6c 3s 4c]
+MathisKcr bets 80
+wodanoob folds
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [6c 3s 4c]
+Seat 2: MathisKcr (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614520306000723969-8-1772906102 - Holdem no limit (20/40) - 2026/03/07 17:55:02 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (570)
+Seat 3: wodanoob (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+wodanoob posts big blind 40
+Dealt to MathisKcr [9s 7h]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+wodanoob checks
+*** FLOP *** [Jd Qs Js]
+wodanoob checks
+MathisKcr bets 80
+wodanoob folds
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Jd Qs Js]
+Seat 2: MathisKcr (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614520306000723969-9-1772906122 - Holdem no limit (20/40) - 2026/03/07 17:55:22 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (610)
+Seat 3: wodanoob (290)
+*** ANTE/BLINDS ***
+wodanoob posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ah 2c]
+*** PRE-FLOP *** 
+wodanoob calls 20
+MathisKcr raises 570 to 610 and is all-in
+wodanoob folds
+MathisKcr collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 2: MathisKcr (big blind) won 650
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614520306000723969-10-1772906134 - Holdem no limit (20/40) - 2026/03/07 17:55:34 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (650)
+Seat 3: wodanoob (250)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+wodanoob posts big blind 40
+Dealt to MathisKcr [6h Th]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+wodanoob raises 210 to 250 and is all-in
+MathisKcr folds
+wodanoob collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 3: wodanoob (big blind) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614520306000723969-11-1772906144 - Holdem no limit (30/60) - 2026/03/07 17:55:44 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (610)
+Seat 3: wodanoob (290)
+*** ANTE/BLINDS ***
+wodanoob posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [9h Ah]
+*** PRE-FLOP *** 
+wodanoob calls 30
+MathisKcr raises 550 to 610 and is all-in
+wodanoob calls 230 and is all-in
+*** FLOP *** [9d Qd 9c]
+*** TURN *** [9d Qd 9c][5d]
+*** RIVER *** [9d Qd 9c 5d][8d]
+*** SHOW DOWN ***
+MathisKcr shows [9h Ah] (Trips of 9)
+wodanoob shows [Ac 9s] (Trips of 9)
+wodanoob collected 290 from main pot
+MathisKcr collected 610 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d Qd 9c 5d 8d]
+Seat 2: MathisKcr (big blind) showed [9h Ah] and won 610 with Trips of 9
+Seat 3: wodanoob (small blind) (button) showed [Ac 9s] and won 290 with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614520306000723969-12-1772906158 - Holdem no limit (30/60) - 2026/03/07 17:55:58 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (610)
+Seat 3: wodanoob (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+wodanoob posts big blind 60
+Dealt to MathisKcr [Js Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 550 to 610 and is all-in
+wodanoob calls 230 and is all-in
+*** FLOP *** [Th 7c 3d]
+*** TURN *** [Th 7c 3d][3h]
+*** RIVER *** [Th 7c 3d 3h][2h]
+*** SHOW DOWN ***
+MathisKcr shows [Js Jd] (Two pairs : Jacks and 3)
+wodanoob shows [Qc 3c] (Trips of 3)
+wodanoob collected 580 from main pot
+MathisKcr collected 320 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Th 7c 3d 3h 2h]
+Seat 2: MathisKcr (small blind) (button) showed [Js Jd] and won 320 with Two pairs : Jacks and 3
+Seat 3: wodanoob (big blind) showed [Qc 3c] and won 580 with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614520306000723969-13-1772906170 - Holdem no limit (30/60) - 2026/03/07 17:56:10 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (320)
+Seat 3: wodanoob (580)
+*** ANTE/BLINDS ***
+wodanoob posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [3d Jh]
+*** PRE-FLOP *** 
+wodanoob calls 30
+MathisKcr checks
+*** FLOP *** [2h 7d 5d]
+MathisKcr checks
+wodanoob bets 60
+MathisKcr folds
+wodanoob collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [2h 7d 5d]
+Seat 3: wodanoob (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614520306000723969-14-1772906181 - Holdem no limit (30/60) - 2026/03/07 17:56:21 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (260)
+Seat 3: wodanoob (640)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+wodanoob posts big blind 60
+Dealt to MathisKcr [3d Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 200 to 260 and is all-in
+wodanoob calls 200
+*** FLOP *** [Ks Ad Js]
+*** TURN *** [Ks Ad Js][5s]
+*** RIVER *** [Ks Ad Js 5s][7d]
+*** SHOW DOWN ***
+wodanoob shows [Kh 9c] (One pair : Kings)
+MathisKcr shows [3d Ah] (One pair : Aces)
+MathisKcr collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Ks Ad Js 5s 7d]
+Seat 2: MathisKcr (small blind) (button) showed [3d Ah] and won 520 with One pair : Aces
+Seat 3: wodanoob (big blind) showed [Kh 9c] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614520306000723969-15-1772906194 - Holdem no limit (30/60) - 2026/03/07 17:56:34 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (520)
+Seat 3: wodanoob (380)
+*** ANTE/BLINDS ***
+wodanoob posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [4h 2s]
+*** PRE-FLOP *** 
+wodanoob raises 320 to 380 and is all-in
+MathisKcr folds
+wodanoob collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 3: wodanoob (small blind) (button) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614520306000723969-16-1772906200 - Holdem no limit (30/60) - 2026/03/07 17:56:40 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (460)
+Seat 3: wodanoob (440)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+wodanoob posts big blind 60
+Dealt to MathisKcr [2c Ks]
+*** PRE-FLOP *** 
+MathisKcr folds
+wodanoob collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: wodanoob (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4614520306000723969-17-1772906208 - Holdem no limit (40/80) - 2026/03/07 17:56:48 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (430)
+Seat 3: wodanoob (470)
+*** ANTE/BLINDS ***
+wodanoob posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Jc 7d]
+*** PRE-FLOP *** 
+wodanoob folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4614520306000723969-18-1772906214 - Holdem no limit (40/80) - 2026/03/07 17:56:54 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (470)
+Seat 3: wodanoob (430)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+wodanoob posts big blind 80
+Dealt to MathisKcr [Qc 5s]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+wodanoob raises 350 to 430 and is all-in
+MathisKcr folds
+wodanoob collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 3: wodanoob (big blind) won 510
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4614520306000723969-19-1772906222 - Holdem no limit (40/80) - 2026/03/07 17:57:02 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (390)
+Seat 3: wodanoob (510)
+*** ANTE/BLINDS ***
+wodanoob posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [2h 8h]
+*** PRE-FLOP *** 
+wodanoob folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4614520306000723969-20-1772906228 - Holdem no limit (40/80) - 2026/03/07 17:57:08 UTC
+Table: 'Expresso Nitro(1074401733)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (430)
+Seat 3: wodanoob (470)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+wodanoob posts big blind 80
+Dealt to MathisKcr [Qc 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 350 to 430 and is all-in
+wodanoob calls 350
+*** FLOP *** [7h Th 4c]
+*** TURN *** [7h Th 4c][5s]
+*** RIVER *** [7h Th 4c 5s][Ad]
+*** SHOW DOWN ***
+MathisKcr shows [Qc 6c] (High card : Ace)
+wodanoob shows [4d 4h] (Trips of 4)
+wodanoob collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [7h Th 4c 5s Ad]
+Seat 2: MathisKcr (small blind) (button) showed [Qc 6c] and lost with High card : Ace
+Seat 3: wodanoob (big blind) showed [4d 4h] and won 860 with Trips of 4
+
+

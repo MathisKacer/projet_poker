@@ -1,0 +1,28 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4711466239086559233-1-1776415552 - Holdem no limit (10/20) - 2026/04/17 08:45:52 UTC
+Table: 'Expresso Nitro(1096973717)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Amunaki (300)
+Seat 3: Izy_River (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Amunaki posts big blind 20
+Dealt to MathisKcr [4s 4h]
+*** PRE-FLOP *** 
+Izy_River calls 20
+MathisKcr raises 280 to 300 and is all-in
+Amunaki calls 280 and is all-in
+Izy_River folds
+*** FLOP *** [8h 8s Kh]
+*** TURN *** [8h 8s Kh][Tc]
+*** RIVER *** [8h 8s Kh Tc][2s]
+*** SHOW DOWN ***
+MathisKcr shows [4s 4h] (Two pairs : 8 and 4)
+Amunaki shows [9c Ks] (Two pairs : Kings and 8)
+Amunaki collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8h 8s Kh Tc 2s]
+Seat 1: MathisKcr (small blind) showed [4s 4h] and lost with Two pairs : 8 and 4
+Seat 2: Amunaki (big blind) showed [9c Ks] and won 620 with Two pairs : Kings and 8
+
+

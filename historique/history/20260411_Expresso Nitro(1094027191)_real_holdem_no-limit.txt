@@ -1,0 +1,81 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698811006279745537-1-1775926537 - Holdem no limit (10/20) - 2026/04/11 16:55:37 UTC
+Table: 'Expresso Nitro(1094027191)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: No Time 113 (300)
+Seat 3: Spartak923 (300)
+*** ANTE/BLINDS ***
+No Time 113 posts small blind 10
+Spartak923 posts big blind 20
+Dealt to MathisKcr [Qs Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+No Time 113 folds
+Spartak923 calls 20
+*** FLOP *** [5c 9h Ah]
+Spartak923 checks
+MathisKcr checks
+*** TURN *** [5c 9h Ah][9d]
+Spartak923 checks
+MathisKcr bets 32
+Spartak923 folds
+MathisKcr collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | No rake
+Board: [5c 9h Ah 9d]
+Seat 1: MathisKcr (button) won 122
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698811006279745537-2-1775926578 - Holdem no limit (10/20) - 2026/04/11 16:56:18 UTC
+Table: 'Expresso Nitro(1094027191)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (350)
+Seat 2: No Time 113 (290)
+Seat 3: Spartak923 (260)
+*** ANTE/BLINDS ***
+Spartak923 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 4s]
+*** PRE-FLOP *** 
+No Time 113 raises 270 to 290 and is all-in
+Spartak923 folds
+MathisKcr calls 270
+*** FLOP *** [8s 7h 7c]
+*** TURN *** [8s 7h 7c][9d]
+*** RIVER *** [8s 7h 7c 9d][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 4s] (One pair : 7)
+No Time 113 shows [Qh Tc] (Two pairs : Queens and 7)
+No Time 113 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [8s 7h 7c 9d Qs]
+Seat 1: MathisKcr (big blind) showed [Ad 4s] and lost with One pair : 7
+Seat 2: No Time 113 (button) showed [Qh Tc] and won 590 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4698811006279745537-3-1775926594 - Holdem no limit (15/30) - 2026/04/11 16:56:34 UTC
+Table: 'Expresso Nitro(1094027191)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (60)
+Seat 2: No Time 113 (590)
+Seat 3: Spartak923 (250)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+No Time 113 posts big blind 30
+Dealt to MathisKcr [2s Kh]
+*** PRE-FLOP *** 
+Spartak923 folds
+MathisKcr raises 30 to 60 and is all-in
+No Time 113 calls 30
+*** FLOP *** [Ac 3s 9s]
+*** TURN *** [Ac 3s 9s][Qs]
+*** RIVER *** [Ac 3s 9s Qs][Td]
+*** SHOW DOWN ***
+MathisKcr shows [2s Kh] (High card : Ace)
+No Time 113 shows [Kc As] (One pair : Aces)
+No Time 113 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ac 3s 9s Qs Td]
+Seat 1: MathisKcr (small blind) showed [2s Kh] and lost with High card : Ace
+Seat 2: No Time 113 (big blind) showed [Kc As] and won 120 with One pair : Aces
+
+

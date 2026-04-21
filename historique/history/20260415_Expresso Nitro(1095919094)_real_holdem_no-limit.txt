@@ -1,0 +1,147 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4706936667791949825-1-1776239874 - Holdem no limit (10/20) - 2026/04/15 07:57:54 UTC
+Table: 'Expresso Nitro(1095919094)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TD32 (300)
+Seat 2: MathisKcr (300)
+Seat 3: VILAIN QQ (300)
+*** ANTE/BLINDS ***
+VILAIN QQ posts small blind 10
+TD32 posts big blind 20
+Dealt to MathisKcr [2h Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+VILAIN QQ folds
+TD32 calls 20
+*** FLOP *** [6s 8h 2s]
+TD32 bets 20
+MathisKcr calls 20
+*** TURN *** [6s 8h 2s][8d]
+TD32 bets 20
+MathisKcr raises 60 to 80
+TD32 calls 60
+*** RIVER *** [6s 8h 2s 8d][3s]
+TD32 bets 102
+MathisKcr calls 102
+*** SHOW DOWN ***
+TD32 shows [Ts 4c] (One pair : 8)
+MathisKcr shows [2h Kc] (Two pairs : 8 and 2)
+MathisKcr collected 494 from pot
+*** SUMMARY ***
+Total pot 494 | No rake
+Board: [6s 8h 2s 8d 3s]
+Seat 1: TD32 (big blind) showed [Ts 4c] and lost with One pair : 8
+Seat 2: MathisKcr (button) showed [2h Kc] and won 494 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4706936667791949825-2-1776239916 - Holdem no limit (10/20) - 2026/04/15 07:58:36 UTC
+Table: 'Expresso Nitro(1095919094)#0' 3-max (real money) Seat #3 is the button
+Seat 1: TD32 (58)
+Seat 2: MathisKcr (552)
+Seat 3: VILAIN QQ (290)
+*** ANTE/BLINDS ***
+TD32 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qc Tc]
+*** PRE-FLOP *** 
+VILAIN QQ folds
+TD32 raises 38 to 58 and is all-in
+MathisKcr calls 38
+*** FLOP *** [4s 8h 5h]
+*** TURN *** [4s 8h 5h][Th]
+*** RIVER *** [4s 8h 5h Th][3c]
+*** SHOW DOWN ***
+TD32 shows [7h 7d] (One pair : 7)
+MathisKcr shows [Qc Tc] (One pair : Tens)
+MathisKcr collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | No rake
+Board: [4s 8h 5h Th 3c]
+Seat 1: TD32 (small blind) showed [7h 7d] and lost with One pair : 7
+Seat 2: MathisKcr (big blind) showed [Qc Tc] and won 116 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4706936667791949825-3-1776239932 - Holdem no limit (15/30) - 2026/04/15 07:58:52 UTC
+Table: 'Expresso Nitro(1095919094)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (610)
+Seat 3: VILAIN QQ (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+VILAIN QQ posts big blind 30
+Dealt to MathisKcr [8s 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+VILAIN QQ collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: VILAIN QQ (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4706936667791949825-4-1776239936 - Holdem no limit (15/30) - 2026/04/15 07:58:56 UTC
+Table: 'Expresso Nitro(1095919094)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (595)
+Seat 3: VILAIN QQ (305)
+*** ANTE/BLINDS ***
+VILAIN QQ posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9h Qh]
+*** PRE-FLOP *** 
+VILAIN QQ calls 15
+MathisKcr raises 565 to 595 and is all-in
+VILAIN QQ folds
+MathisKcr collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Seat 2: MathisKcr (big blind) won 625
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4706936667791949825-5-1776239958 - Holdem no limit (15/30) - 2026/04/15 07:59:18 UTC
+Table: 'Expresso Nitro(1095919094)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (625)
+Seat 3: VILAIN QQ (275)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+VILAIN QQ posts big blind 30
+Dealt to MathisKcr [5d Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 595 to 625 and is all-in
+VILAIN QQ calls 245 and is all-in
+*** FLOP *** [6d 8h Tc]
+*** TURN *** [6d 8h Tc][Jd]
+*** RIVER *** [6d 8h Tc Jd][4c]
+*** SHOW DOWN ***
+MathisKcr shows [5d Kh] (High card : King)
+VILAIN QQ shows [9d Kd] (High card : King)
+VILAIN QQ collected 550 from main pot
+MathisKcr collected 350 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 8h Tc Jd 4c]
+Seat 2: MathisKcr (small blind) (button) showed [5d Kh] and won 350 with High card : King
+Seat 3: VILAIN QQ (big blind) showed [9d Kd] and won 550 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4706936667791949825-6-1776239971 - Holdem no limit (15/30) - 2026/04/15 07:59:31 UTC
+Table: 'Expresso Nitro(1095919094)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (350)
+Seat 3: VILAIN QQ (550)
+*** ANTE/BLINDS ***
+VILAIN QQ posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qh Jd]
+*** PRE-FLOP *** 
+VILAIN QQ calls 15
+MathisKcr raises 320 to 350 and is all-in
+VILAIN QQ calls 320
+*** FLOP *** [8d 8c Th]
+*** TURN *** [8d 8c Th][6h]
+*** RIVER *** [8d 8c Th 6h][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [Qh Jd] (Two pairs : Tens and 8)
+VILAIN QQ shows [Qc Kc] (Two pairs : Tens and 8)
+VILAIN QQ collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [8d 8c Th 6h Ts]
+Seat 2: MathisKcr (big blind) showed [Qh Jd] and lost with Two pairs : Tens and 8
+Seat 3: VILAIN QQ (small blind) (button) showed [Qc Kc] and won 700 with Two pairs : Tens and 8
+
+

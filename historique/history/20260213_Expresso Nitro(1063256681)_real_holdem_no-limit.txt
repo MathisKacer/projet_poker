@@ -1,0 +1,58 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4566652672148504577-1-1770995053 - Holdem no limit (10/20) - 2026/02/13 15:04:13 UTC
+Table: 'Expresso Nitro(1063256681)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: PhoeniX1986 (300)
+Seat 3: BiggyZh (300)
+*** ANTE/BLINDS ***
+BiggyZh posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9h 3c]
+*** PRE-FLOP *** 
+PhoeniX1986 folds
+BiggyZh calls 10
+MathisKcr checks
+*** FLOP *** [Ks Jd 6h]
+BiggyZh bets 26
+MathisKcr folds
+BiggyZh collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Ks Jd 6h]
+Seat 3: BiggyZh (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4566652672148504577-2-1770995064 - Holdem no limit (10/20) - 2026/02/13 15:04:24 UTC
+Table: 'Expresso Nitro(1063256681)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: PhoeniX1986 (300)
+Seat 3: BiggyZh (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+PhoeniX1986 posts big blind 20
+Dealt to MathisKcr [Th 4h]
+*** PRE-FLOP *** 
+BiggyZh raises 20 to 40
+MathisKcr calls 30
+PhoeniX1986 calls 20
+*** FLOP *** [2h Jc Ts]
+MathisKcr bets 42
+PhoeniX1986 calls 42
+BiggyZh calls 42
+*** TURN *** [2h Jc Ts][Kc]
+MathisKcr bets 160
+PhoeniX1986 folds
+BiggyZh calls 160
+*** RIVER *** [2h Jc Ts Kc][9s]
+MathisKcr bets 38 and is all-in
+BiggyZh calls 38
+*** SHOW DOWN ***
+MathisKcr shows [Th 4h] (One pair : Tens)
+BiggyZh shows [Kh Qc] (Straight King high)
+BiggyZh collected 642 from pot
+*** SUMMARY ***
+Total pot 642 | No rake
+Board: [2h Jc Ts Kc 9s]
+Seat 1: MathisKcr (small blind) showed [Th 4h] and lost with One pair : Tens
+Seat 3: BiggyZh (button) showed [Kh Qc] and won 642 with Straight King high
+
+

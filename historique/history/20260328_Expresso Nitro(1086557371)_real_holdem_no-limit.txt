@@ -1,0 +1,173 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666728373672738817-1-1774720025 - Holdem no limit (10/20) - 2026/03/28 17:47:05 UTC
+Table: 'Expresso Nitro(1086557371)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ChardonkipiQ (300)
+Seat 2: LeMoldaveFou (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+ChardonkipiQ posts small blind 10
+LeMoldaveFou posts big blind 20
+Dealt to MathisKcr [Td Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+ChardonkipiQ folds
+LeMoldaveFou calls 20
+*** FLOP *** [Qs Ac 8h]
+LeMoldaveFou checks
+MathisKcr bets 32
+LeMoldaveFou folds
+MathisKcr collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | No rake
+Board: [Qs Ac 8h]
+Seat 3: MathisKcr (button) won 122
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666728373672738817-2-1774720047 - Holdem no limit (10/20) - 2026/03/28 17:47:27 UTC
+Table: 'Expresso Nitro(1086557371)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ChardonkipiQ (290)
+Seat 2: LeMoldaveFou (260)
+Seat 3: MathisKcr (350)
+*** ANTE/BLINDS ***
+LeMoldaveFou posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ac Jh]
+*** PRE-FLOP *** 
+ChardonkipiQ raises 270 to 290 and is all-in
+LeMoldaveFou folds
+MathisKcr calls 270
+*** FLOP *** [6h 8h 2c]
+*** TURN *** [6h 8h 2c][Qd]
+*** RIVER *** [6h 8h 2c Qd][4h]
+*** SHOW DOWN ***
+ChardonkipiQ shows [Tc Kc] (High card : King)
+MathisKcr shows [Ac Jh] (High card : Ace)
+MathisKcr collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [6h 8h 2c Qd 4h]
+Seat 1: ChardonkipiQ (button) showed [Tc Kc] and lost with High card : King
+Seat 3: MathisKcr (big blind) showed [Ac Jh] and won 590 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666728373672738817-3-1774720061 - Holdem no limit (10/20) - 2026/03/28 17:47:41 UTC
+Table: 'Expresso Nitro(1086557371)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LeMoldaveFou (250)
+Seat 3: MathisKcr (650)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+LeMoldaveFou posts big blind 20
+Dealt to MathisKcr [2d 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+LeMoldaveFou collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: LeMoldaveFou (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666728373672738817-4-1774720068 - Holdem no limit (10/20) - 2026/03/28 17:47:48 UTC
+Table: 'Expresso Nitro(1086557371)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LeMoldaveFou (260)
+Seat 3: MathisKcr (640)
+*** ANTE/BLINDS ***
+LeMoldaveFou posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d Jh]
+*** PRE-FLOP *** 
+LeMoldaveFou folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666728373672738817-5-1774720072 - Holdem no limit (10/20) - 2026/03/28 17:47:52 UTC
+Table: 'Expresso Nitro(1086557371)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LeMoldaveFou (250)
+Seat 3: MathisKcr (650)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+LeMoldaveFou posts big blind 20
+Dealt to MathisKcr [8d Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 630 to 650 and is all-in
+LeMoldaveFou folds
+MathisKcr collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 3: MathisKcr (small blind) (button) won 670
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666728373672738817-6-1774720080 - Holdem no limit (10/20) - 2026/03/28 17:48:00 UTC
+Table: 'Expresso Nitro(1086557371)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LeMoldaveFou (230)
+Seat 3: MathisKcr (670)
+*** ANTE/BLINDS ***
+LeMoldaveFou posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Js Qh]
+*** PRE-FLOP *** 
+LeMoldaveFou folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666728373672738817-7-1774720084 - Holdem no limit (15/30) - 2026/03/28 17:48:04 UTC
+Table: 'Expresso Nitro(1086557371)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LeMoldaveFou (220)
+Seat 3: MathisKcr (680)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+LeMoldaveFou posts big blind 30
+Dealt to MathisKcr [Th 5d]
+*** PRE-FLOP *** 
+MathisKcr folds
+LeMoldaveFou collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: LeMoldaveFou (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666728373672738817-8-1774720090 - Holdem no limit (15/30) - 2026/03/28 17:48:10 UTC
+Table: 'Expresso Nitro(1086557371)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LeMoldaveFou (235)
+Seat 3: MathisKcr (665)
+*** ANTE/BLINDS ***
+LeMoldaveFou posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6s Qc]
+*** PRE-FLOP *** 
+LeMoldaveFou folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666728373672738817-9-1774720094 - Holdem no limit (15/30) - 2026/03/28 17:48:14 UTC
+Table: 'Expresso Nitro(1086557371)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LeMoldaveFou (220)
+Seat 3: MathisKcr (680)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+LeMoldaveFou posts big blind 30
+Dealt to MathisKcr [Qc 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 650 to 680 and is all-in
+LeMoldaveFou calls 190 and is all-in
+*** FLOP *** [Kc Kd Jc]
+*** TURN *** [Kc Kd Jc][Qh]
+*** RIVER *** [Kc Kd Jc Qh][4h]
+*** SHOW DOWN ***
+LeMoldaveFou shows [Jd 9h] (Two pairs : Kings and Jacks)
+MathisKcr shows [Qc 8c] (Two pairs : Kings and Queens)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kc Kd Jc Qh 4h]
+Seat 2: LeMoldaveFou (big blind) showed [Jd 9h] and lost with Two pairs : Kings and Jacks
+Seat 3: MathisKcr (small blind) (button) showed [Qc 8c] and won 900 with Two pairs : Kings and Queens
+
+

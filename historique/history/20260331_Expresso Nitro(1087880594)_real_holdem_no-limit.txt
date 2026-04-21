@@ -1,0 +1,68 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672411573183053825-1-1774949971 - Holdem no limit (10/20) - 2026/03/31 09:39:31 UTC
+Table: 'Expresso Nitro(1087880594)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Tobipsv (300)
+Seat 2: LaSsasSinNn (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Tobipsv posts small blind 10
+LaSsasSinNn posts big blind 20
+Dealt to MathisKcr [5h 7d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Tobipsv raises 280 to 300 and is all-in
+LaSsasSinNn folds
+Tobipsv collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Tobipsv (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672411573183053825-2-1774949979 - Holdem no limit (10/20) - 2026/03/31 09:39:39 UTC
+Table: 'Expresso Nitro(1087880594)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tobipsv (320)
+Seat 2: LaSsasSinNn (280)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+LaSsasSinNn posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qh 5d]
+*** PRE-FLOP *** 
+Tobipsv raises 300 to 320 and is all-in
+LaSsasSinNn folds
+MathisKcr folds
+Tobipsv collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: Tobipsv (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672411573183053825-3-1774949986 - Holdem no limit (10/20) - 2026/03/31 09:39:46 UTC
+Table: 'Expresso Nitro(1087880594)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tobipsv (350)
+Seat 2: LaSsasSinNn (270)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Tobipsv posts big blind 20
+Dealt to MathisKcr [Ah 7c]
+*** PRE-FLOP *** 
+LaSsasSinNn raises 20 to 40
+MathisKcr raises 240 to 280 and is all-in
+Tobipsv raises 70 to 350 and is all-in
+LaSsasSinNn calls 230 and is all-in
+*** FLOP *** [3c Qd 7d]
+*** TURN *** [3c Qd 7d][8s]
+*** RIVER *** [3c Qd 7d 8s][9s]
+*** SHOW DOWN ***
+LaSsasSinNn shows [2d Ad] (High card : Ace)
+MathisKcr shows [Ah 7c] (One pair : 7)
+Tobipsv shows [8c As] (One pair : 8)
+Tobipsv collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3c Qd 7d 8s 9s]
+Seat 1: Tobipsv (big blind) showed [8c As] and won 900 with One pair : 8
+Seat 2: LaSsasSinNn (button) showed [2d Ad] and lost with High card : Ace
+Seat 3: MathisKcr (small blind) showed [Ah 7c] and lost with One pair : 7
+
+

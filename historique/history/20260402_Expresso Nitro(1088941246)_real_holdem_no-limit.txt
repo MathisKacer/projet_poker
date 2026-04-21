@@ -1,0 +1,145 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676967038835490817-1-1775116557 - Holdem no limit (10/20) - 2026/04/02 07:55:57 UTC
+Table: 'Expresso Nitro(1088941246)#0' 3-max (real money) Seat #1 is the button
+Seat 1: monaymax (300)
+Seat 2: MathisKcr (300)
+Seat 3: plumeslide (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+plumeslide posts big blind 20
+Dealt to MathisKcr [3s Kc]
+*** PRE-FLOP *** 
+monaymax folds
+MathisKcr raises 280 to 300 and is all-in
+plumeslide folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: MathisKcr (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676967038835490817-2-1775116574 - Holdem no limit (10/20) - 2026/04/02 07:56:14 UTC
+Table: 'Expresso Nitro(1088941246)#0' 3-max (real money) Seat #2 is the button
+Seat 1: monaymax (300)
+Seat 2: MathisKcr (320)
+Seat 3: plumeslide (280)
+*** ANTE/BLINDS ***
+plumeslide posts small blind 10
+monaymax posts big blind 20
+Dealt to MathisKcr [4c Jh]
+*** PRE-FLOP *** 
+MathisKcr folds
+plumeslide calls 10
+monaymax raises 20 to 40
+plumeslide calls 20
+*** FLOP *** [Kd 8h 4s]
+plumeslide bets 52
+monaymax folds
+plumeslide collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Kd 8h 4s]
+Seat 3: plumeslide (small blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676967038835490817-3-1775116591 - Holdem no limit (10/20) - 2026/04/02 07:56:31 UTC
+Table: 'Expresso Nitro(1088941246)#0' 3-max (real money) Seat #3 is the button
+Seat 1: monaymax (260)
+Seat 2: MathisKcr (320)
+Seat 3: plumeslide (320)
+*** ANTE/BLINDS ***
+monaymax posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qd Jc]
+*** PRE-FLOP *** 
+plumeslide folds
+monaymax raises 30 to 50
+MathisKcr calls 30
+*** FLOP *** [Ad 6h Qh]
+monaymax bets 100
+MathisKcr folds
+monaymax collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Ad 6h Qh]
+Seat 1: monaymax (small blind) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4676967038835490817-4-1775116611 - Holdem no limit (10/20) - 2026/04/02 07:56:51 UTC
+Table: 'Expresso Nitro(1088941246)#0' 3-max (real money) Seat #1 is the button
+Seat 1: monaymax (310)
+Seat 2: MathisKcr (270)
+Seat 3: plumeslide (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+plumeslide posts big blind 20
+Dealt to MathisKcr [6d Qc]
+*** PRE-FLOP *** 
+monaymax raises 40 to 60
+MathisKcr folds
+plumeslide folds
+monaymax collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: monaymax (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4676967038835490817-5-1775116628 - Holdem no limit (15/30) - 2026/04/02 07:57:08 UTC
+Table: 'Expresso Nitro(1088941246)#0' 3-max (real money) Seat #2 is the button
+Seat 1: monaymax (340)
+Seat 2: MathisKcr (260)
+Seat 3: plumeslide (300)
+*** ANTE/BLINDS ***
+plumeslide posts small blind 15
+monaymax posts big blind 30
+Dealt to MathisKcr [Ad 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 230 to 260 and is all-in
+plumeslide raises 40 to 300 and is all-in
+monaymax folds
+*** FLOP *** [5s 2c 8d]
+*** TURN *** [5s 2c 8d][Qc]
+*** RIVER *** [5s 2c 8d Qc][4d]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 9d] (High card : Ace)
+plumeslide shows [Kh 9h] (High card : King)
+plumeslide collected 40 from side pot 1
+MathisKcr collected 550 from main pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [5s 2c 8d Qc 4d]
+Seat 2: MathisKcr (button) showed [Ad 9d] and won 550 with High card : Ace
+Seat 3: plumeslide (small blind) showed [Kh 9h] and won 40 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4676967038835490817-6-1775116652 - Holdem no limit (15/30) - 2026/04/02 07:57:32 UTC
+Table: 'Expresso Nitro(1088941246)#0' 3-max (real money) Seat #3 is the button
+Seat 1: monaymax (310)
+Seat 2: MathisKcr (550)
+Seat 3: plumeslide (40)
+*** ANTE/BLINDS ***
+monaymax posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5d 5s]
+*** PRE-FLOP *** 
+plumeslide raises 10 to 40 and is all-in
+monaymax calls 25
+MathisKcr calls 10
+*** FLOP *** [4s 3s 6s]
+monaymax bets 30
+MathisKcr raises 480 to 510 and is all-in
+monaymax calls 240 and is all-in
+*** TURN *** [4s 3s 6s][Td]
+*** RIVER *** [4s 3s 6s Td][9d]
+*** SHOW DOWN ***
+monaymax shows [Ks 7c] (High card : King)
+plumeslide shows [2c 3c] (One pair : 3)
+MathisKcr shows [5d 5s] (One pair : 5)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 3s 6s Td 9d]
+Seat 1: monaymax (small blind) showed [Ks 7c] and lost with High card : King
+Seat 2: MathisKcr (big blind) showed [5d 5s] and won 900 with One pair : 5
+Seat 3: plumeslide (button) showed [2c 3c] and lost with One pair : 3
+
+

@@ -1,0 +1,225 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668471318646095873-1-1774794977 - Holdem no limit (10/20) - 2026/03/29 14:36:17 UTC
+Table: 'Expresso Nitro(1086963182)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Patrikowich (300)
+Seat 3: CatCurry14 (300)
+*** ANTE/BLINDS ***
+Patrikowich posts small blind 10
+CatCurry14 posts big blind 20
+Dealt to MathisKcr [4c Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Patrikowich raises 20 to 60
+CatCurry14 folds
+MathisKcr calls 20
+*** FLOP *** [Td 7d Ac]
+Patrikowich bets 49
+MathisKcr folds
+Patrikowich collected 189 from pot
+*** SUMMARY ***
+Total pot 189 | No rake
+Board: [Td 7d Ac]
+Seat 2: Patrikowich (small blind) won 189
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668471318646095873-2-1774795003 - Holdem no limit (10/20) - 2026/03/29 14:36:43 UTC
+Table: 'Expresso Nitro(1086963182)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (240)
+Seat 2: Patrikowich (380)
+Seat 3: CatCurry14 (280)
+*** ANTE/BLINDS ***
+CatCurry14 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c Jd]
+*** PRE-FLOP *** 
+Patrikowich calls 20
+CatCurry14 raises 260 to 280 and is all-in
+MathisKcr folds
+Patrikowich calls 260
+*** FLOP *** [Kh 8s 3d]
+*** TURN *** [Kh 8s 3d][9c]
+*** RIVER *** [Kh 8s 3d 9c][5h]
+*** SHOW DOWN ***
+Patrikowich shows [Ac 2c] (High card : Ace)
+CatCurry14 shows [Js Jc] (One pair : Jacks)
+CatCurry14 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Kh 8s 3d 9c 5h]
+Seat 2: Patrikowich (button) showed [Ac 2c] and lost with High card : Ace
+Seat 3: CatCurry14 (small blind) showed [Js Jc] and won 580 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668471318646095873-3-1774795023 - Holdem no limit (10/20) - 2026/03/29 14:37:03 UTC
+Table: 'Expresso Nitro(1086963182)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (220)
+Seat 2: Patrikowich (100)
+Seat 3: CatCurry14 (580)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Patrikowich posts big blind 20
+Dealt to MathisKcr [5d Th]
+*** PRE-FLOP *** 
+CatCurry14 folds
+MathisKcr folds
+Patrikowich collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Patrikowich (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668471318646095873-4-1774795034 - Holdem no limit (10/20) - 2026/03/29 14:37:14 UTC
+Table: 'Expresso Nitro(1086963182)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (210)
+Seat 2: Patrikowich (110)
+Seat 3: CatCurry14 (580)
+*** ANTE/BLINDS ***
+Patrikowich posts small blind 10
+CatCurry14 posts big blind 20
+Dealt to MathisKcr [6d 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Patrikowich raises 90 to 110 and is all-in
+CatCurry14 calls 90
+*** FLOP *** [7c Jc 3h]
+*** TURN *** [7c Jc 3h][9h]
+*** RIVER *** [7c Jc 3h 9h][7s]
+*** SHOW DOWN ***
+CatCurry14 shows [4h Qh] (One pair : 7)
+Patrikowich shows [Kh 6c] (One pair : 7)
+Patrikowich collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [7c Jc 3h 9h 7s]
+Seat 2: Patrikowich (small blind) showed [Kh 6c] and won 220 with One pair : 7
+Seat 3: CatCurry14 (big blind) showed [4h Qh] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668471318646095873-5-1774795049 - Holdem no limit (15/30) - 2026/03/29 14:37:29 UTC
+Table: 'Expresso Nitro(1086963182)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (210)
+Seat 2: Patrikowich (220)
+Seat 3: CatCurry14 (470)
+*** ANTE/BLINDS ***
+CatCurry14 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad 5h]
+*** PRE-FLOP *** 
+Patrikowich calls 30
+CatCurry14 folds
+MathisKcr raises 180 to 210 and is all-in
+Patrikowich calls 180
+*** FLOP *** [Kh 8h 2s]
+*** TURN *** [Kh 8h 2s][Qc]
+*** RIVER *** [Kh 8h 2s Qc][4c]
+*** SHOW DOWN ***
+Patrikowich shows [Td 7d] (High card : King)
+MathisKcr shows [Ad 5h] (High card : Ace)
+MathisKcr collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Board: [Kh 8h 2s Qc 4c]
+Seat 1: MathisKcr (big blind) showed [Ad 5h] and won 435 with High card : Ace
+Seat 2: Patrikowich (button) showed [Td 7d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668471318646095873-6-1774795073 - Holdem no limit (15/30) - 2026/03/29 14:37:53 UTC
+Table: 'Expresso Nitro(1086963182)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (435)
+Seat 2: Patrikowich (10)
+Seat 3: CatCurry14 (455)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Patrikowich posts big blind 10 and is all-in
+Dealt to MathisKcr [2h 4c]
+*** PRE-FLOP *** 
+CatCurry14 folds
+*** FLOP *** [8c Qh 9h]
+*** TURN *** [8c Qh 9h][Th]
+*** RIVER *** [8c Qh 9h Th][6d]
+*** SHOW DOWN ***
+MathisKcr shows [2h 4c] (High card : Queen)
+Patrikowich shows [7s 5c] (Straight Ten high)
+Patrikowich collected 20 from main pot
+MathisKcr collected 5 from side pot 1
+*** SUMMARY ***
+Total pot 25 | No rake
+Board: [8c Qh 9h Th 6d]
+Seat 1: MathisKcr (small blind) showed [2h 4c] and won 5 with High card : Queen
+Seat 2: Patrikowich (big blind) showed [7s 5c] and won 20 with Straight Ten high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668471318646095873-7-1774795084 - Holdem no limit (15/30) - 2026/03/29 14:38:04 UTC
+Table: 'Expresso Nitro(1086963182)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (425)
+Seat 2: Patrikowich (20)
+Seat 3: CatCurry14 (455)
+*** ANTE/BLINDS ***
+Patrikowich posts small blind 15
+CatCurry14 posts big blind 30
+Dealt to MathisKcr [2h Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Patrikowich calls 5 and is all-in
+CatCurry14 calls 30
+*** FLOP *** [4c 7d 2c]
+CatCurry14 checks
+MathisKcr bets 49
+CatCurry14 raises 101 to 150
+MathisKcr calls 101
+*** TURN *** [4c 7d 2c][3c]
+CatCurry14 bets 245 and is all-in
+MathisKcr folds
+*** RIVER *** [4c 7d 2c 3c][Jd]
+*** SHOW DOWN ***
+Patrikowich shows [6h 6d] (One pair : 6)
+CatCurry14 shows [As 7c] (One pair : 7)
+CatCurry14 collected 685 from pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Board: [4c 7d 2c 3c Jd]
+Seat 2: Patrikowich (small blind) showed [6h 6d] and lost with One pair : 6
+Seat 3: CatCurry14 (big blind) showed [As 7c] and won 685 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668471318646095873-8-1774795128 - Holdem no limit (20/40) - 2026/03/29 14:38:48 UTC
+Table: 'Expresso Nitro(1086963182)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (215)
+Seat 3: CatCurry14 (685)
+*** ANTE/BLINDS ***
+CatCurry14 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9s Ah]
+*** PRE-FLOP *** 
+CatCurry14 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668471318646095873-9-1774795132 - Holdem no limit (20/40) - 2026/03/29 14:38:52 UTC
+Table: 'Expresso Nitro(1086963182)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (235)
+Seat 3: CatCurry14 (665)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+CatCurry14 posts big blind 40
+Dealt to MathisKcr [6d Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 195 to 235 and is all-in
+CatCurry14 raises 430 to 665 and is all-in
+*** FLOP *** [Js 5c 7h]
+*** TURN *** [Js 5c 7h][5h]
+*** RIVER *** [Js 5c 7h 5h][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [6d Kc] (One pair : 5)
+CatCurry14 shows [4c As] (One pair : 5)
+CatCurry14 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Js 5c 7h 5h Qs]
+Seat 1: MathisKcr (small blind) (button) showed [6d Kc] and lost with One pair : 5
+Seat 3: CatCurry14 (big blind) showed [4c As] and won 900 with One pair : 5
+
+

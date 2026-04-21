@@ -1,0 +1,77 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4677414557247864833-1-1775133951 - Holdem no limit (10/20) - 2026/04/02 12:45:51 UTC
+Table: 'Expresso Nitro(1089045442)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: PlayOrFun80 (300)
+Seat 3: Jmj2222 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+PlayOrFun80 posts big blind 20
+Dealt to MathisKcr [2c 4h]
+*** PRE-FLOP *** 
+Jmj2222 calls 20
+MathisKcr folds
+PlayOrFun80 checks
+*** FLOP *** [5c 4d Qh]
+PlayOrFun80 checks
+Jmj2222 bets 50
+PlayOrFun80 folds
+Jmj2222 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [5c 4d Qh]
+Seat 3: Jmj2222 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4677414557247864833-2-1775133970 - Holdem no limit (10/20) - 2026/04/02 12:46:10 UTC
+Table: 'Expresso Nitro(1089045442)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: PlayOrFun80 (280)
+Seat 3: Jmj2222 (330)
+*** ANTE/BLINDS ***
+PlayOrFun80 posts small blind 10
+Jmj2222 posts big blind 20
+Dealt to MathisKcr [7h Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+PlayOrFun80 raises 240 to 280 and is all-in
+Jmj2222 folds
+MathisKcr calls 240
+*** FLOP *** [3c Js 4s]
+*** TURN *** [3c Js 4s][9h]
+*** RIVER *** [3c Js 4s 9h][Qd]
+*** SHOW DOWN ***
+MathisKcr shows [7h Qh] (One pair : Queens)
+PlayOrFun80 shows [Qs Ah] (One pair : Queens)
+PlayOrFun80 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [3c Js 4s 9h Qd]
+Seat 1: MathisKcr (button) showed [7h Qh] and lost with One pair : Queens
+Seat 2: PlayOrFun80 (small blind) showed [Qs Ah] and won 580 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4677414557247864833-3-1775134000 - Holdem no limit (10/20) - 2026/04/02 12:46:40 UTC
+Table: 'Expresso Nitro(1089045442)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (10)
+Seat 2: PlayOrFun80 (580)
+Seat 3: Jmj2222 (310)
+*** ANTE/BLINDS ***
+Jmj2222 posts small blind 10
+MathisKcr posts big blind 10 and is all-in
+Dealt to MathisKcr [Jd Th]
+*** PRE-FLOP *** 
+PlayOrFun80 folds
+*** FLOP *** [2h Qd Kc]
+*** TURN *** [2h Qd Kc][5h]
+*** RIVER *** [2h Qd Kc 5h][3h]
+*** SHOW DOWN ***
+MathisKcr shows [Jd Th] (High card : King)
+Jmj2222 shows [7h 2d] (One pair : 2)
+Jmj2222 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | No rake
+Board: [2h Qd Kc 5h 3h]
+Seat 1: MathisKcr (big blind) showed [Jd Th] and lost with High card : King
+Seat 3: Jmj2222 (small blind) showed [7h 2d] and won 20 with One pair : 2
+
+

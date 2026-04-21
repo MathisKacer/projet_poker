@@ -1,0 +1,153 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4538737463488675841-1-1770131067 - Holdem no limit (10/20) - 2026/02/03 15:04:27 UTC
+Table: 'Expresso(1056757165)#0' 3-max (real money) Seat #2 is the button
+Seat 1: gnoulbi00 (500)
+Seat 2: Oliver69140 (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+gnoulbi00 posts big blind 20
+Dealt to MathisKcr [8d Qs]
+*** PRE-FLOP *** 
+Oliver69140 calls 20
+MathisKcr raises 20 to 40
+gnoulbi00 calls 20
+Oliver69140 calls 20
+*** FLOP *** [8c 6h Ks]
+MathisKcr checks
+gnoulbi00 checks
+Oliver69140 checks
+*** TURN *** [8c 6h Ks][2d]
+MathisKcr bets 42
+gnoulbi00 calls 42
+Oliver69140 calls 42
+*** RIVER *** [8c 6h Ks 2d][5c]
+MathisKcr checks
+gnoulbi00 checks
+Oliver69140 bets 160
+MathisKcr calls 160
+gnoulbi00 folds
+*** SHOW DOWN ***
+MathisKcr shows [8d Qs] (One pair : 8)
+Oliver69140 shows [Kh As] (One pair : Kings)
+Oliver69140 collected 566 from pot
+*** SUMMARY ***
+Total pot 566 | No rake
+Board: [8c 6h Ks 2d 5c]
+Seat 2: Oliver69140 (button) showed [Kh As] and won 566 with One pair : Kings
+Seat 3: MathisKcr (small blind) showed [8d Qs] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4538737463488675841-2-1770131113 - Holdem no limit (10/20) - 2026/02/03 15:05:13 UTC
+Table: 'Expresso(1056757165)#0' 3-max (real money) Seat #3 is the button
+Seat 1: gnoulbi00 (418)
+Seat 2: Oliver69140 (824)
+Seat 3: MathisKcr (258)
+*** ANTE/BLINDS ***
+gnoulbi00 posts small blind 10
+Oliver69140 posts big blind 20
+Dealt to MathisKcr [2c 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+gnoulbi00 calls 10
+Oliver69140 checks
+*** FLOP *** [9c 4s Ks]
+gnoulbi00 checks
+Oliver69140 checks
+*** TURN *** [9c 4s Ks][3s]
+gnoulbi00 checks
+Oliver69140 checks
+*** RIVER *** [9c 4s Ks 3s][Qh]
+gnoulbi00 checks
+Oliver69140 bets 20
+gnoulbi00 calls 20
+*** SHOW DOWN ***
+gnoulbi00 shows [Td 3d] (One pair : 3)
+Oliver69140 shows [8d Qc] (One pair : Queens)
+Oliver69140 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9c 4s Ks 3s Qh]
+Seat 1: gnoulbi00 (small blind) showed [Td 3d] and lost with One pair : 3
+Seat 2: Oliver69140 (big blind) showed [8d Qc] and won 80 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4538737463488675841-3-1770131135 - Holdem no limit (10/20) - 2026/02/03 15:05:35 UTC
+Table: 'Expresso(1056757165)#0' 3-max (real money) Seat #1 is the button
+Seat 1: gnoulbi00 (378)
+Seat 2: Oliver69140 (864)
+Seat 3: MathisKcr (258)
+*** ANTE/BLINDS ***
+Oliver69140 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7s 5c]
+*** PRE-FLOP *** 
+gnoulbi00 folds
+Oliver69140 calls 10
+MathisKcr checks
+*** FLOP *** [6h 3d 9d]
+Oliver69140 checks
+MathisKcr checks
+*** TURN *** [6h 3d 9d][3c]
+Oliver69140 checks
+MathisKcr checks
+*** RIVER *** [6h 3d 9d 3c][Kd]
+Oliver69140 checks
+MathisKcr bets 50
+Oliver69140 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6h 3d 9d 3c Kd]
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4538737463488675841-4-1770131158 - Holdem no limit (15/30) - 2026/02/03 15:05:58 UTC
+Table: 'Expresso(1056757165)#0' 3-max (real money) Seat #2 is the button
+Seat 1: gnoulbi00 (378)
+Seat 2: Oliver69140 (844)
+Seat 3: MathisKcr (278)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+gnoulbi00 posts big blind 30
+Dealt to MathisKcr [2h 4s]
+*** PRE-FLOP *** 
+Oliver69140 folds
+MathisKcr folds
+gnoulbi00 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: gnoulbi00 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4538737463488675841-5-1770131167 - Holdem no limit (15/30) - 2026/02/03 15:06:07 UTC
+Table: 'Expresso(1056757165)#0' 3-max (real money) Seat #3 is the button
+Seat 1: gnoulbi00 (393)
+Seat 2: Oliver69140 (844)
+Seat 3: MathisKcr (263)
+*** ANTE/BLINDS ***
+gnoulbi00 posts small blind 15
+Oliver69140 posts big blind 30
+Dealt to MathisKcr [5c 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 90
+gnoulbi00 calls 75
+Oliver69140 calls 60
+*** FLOP *** [7d 8d 2c]
+gnoulbi00 checks
+Oliver69140 checks
+MathisKcr bets 173 and is all-in
+gnoulbi00 calls 173
+Oliver69140 folds
+*** TURN *** [7d 8d 2c][8h]
+*** RIVER *** [7d 8d 2c 8h][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [5c 5d] (Two pairs : 8 and 5)
+gnoulbi00 shows [4d 8s] (Trips of 8)
+gnoulbi00 collected 616 from pot
+*** SUMMARY ***
+Total pot 616 | No rake
+Board: [7d 8d 2c 8h Kc]
+Seat 1: gnoulbi00 (small blind) showed [4d 8s] and won 616 with Trips of 8
+Seat 3: MathisKcr (button) showed [5c 5d] and lost with Two pairs : 8 and 5
+
+

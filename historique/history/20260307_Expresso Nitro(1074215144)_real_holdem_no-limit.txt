@@ -1,0 +1,292 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613718912347930625-1-1772872589 - Holdem no limit (10/20) - 2026/03/07 08:36:29 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pronos-62 (300)
+Seat 2: Zelandia (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Zelandia posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd Ts]
+*** PRE-FLOP *** 
+Pronos-62 folds
+Zelandia calls 10
+MathisKcr checks
+*** FLOP *** [Qc Jc 8d]
+Zelandia checks
+MathisKcr bets 26
+Zelandia folds
+MathisKcr collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Qc Jc 8d]
+Seat 3: MathisKcr (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613718912347930625-2-1772872620 - Holdem no limit (10/20) - 2026/03/07 08:37:00 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pronos-62 (300)
+Seat 2: Zelandia (280)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Pronos-62 posts big blind 20
+Dealt to MathisKcr [5h 4s]
+*** PRE-FLOP *** 
+Zelandia raises 20 to 40
+MathisKcr folds
+Pronos-62 calls 20
+*** FLOP *** [9c Ac Ts]
+Pronos-62 checks
+Zelandia bets 31
+Pronos-62 folds
+Zelandia collected 121 from pot
+*** SUMMARY ***
+Total pot 121 | No rake
+Board: [9c Ac Ts]
+Seat 2: Zelandia (button) won 121
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613718912347930625-3-1772872643 - Holdem no limit (10/20) - 2026/03/07 08:37:23 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pronos-62 (260)
+Seat 2: Zelandia (330)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+Pronos-62 posts small blind 10
+Zelandia posts big blind 20
+Dealt to MathisKcr [Ac 6h]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Pronos-62 calls 50
+Zelandia folds
+*** FLOP *** [5d Jd 8h]
+Pronos-62 checks
+MathisKcr bets 49
+Pronos-62 folds
+MathisKcr collected 189 from pot
+*** SUMMARY ***
+Total pot 189 | No rake
+Board: [5d Jd 8h]
+Seat 3: MathisKcr (button) won 189
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4613718912347930625-4-1772872664 - Holdem no limit (15/30) - 2026/03/07 08:37:44 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pronos-62 (200)
+Seat 2: Zelandia (310)
+Seat 3: MathisKcr (390)
+*** ANTE/BLINDS ***
+Zelandia posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8s Qc]
+*** PRE-FLOP *** 
+Pronos-62 raises 170 to 200 and is all-in
+Zelandia folds
+MathisKcr folds
+Pronos-62 collected 245 from pot
+*** SUMMARY ***
+Total pot 245 | No rake
+Seat 1: Pronos-62 (button) won 245
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4613718912347930625-5-1772872671 - Holdem no limit (15/30) - 2026/03/07 08:37:51 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pronos-62 (245)
+Seat 2: Zelandia (295)
+Seat 3: MathisKcr (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Pronos-62 posts big blind 30
+Dealt to MathisKcr [7d Kh]
+*** PRE-FLOP *** 
+Zelandia raises 265 to 295 and is all-in
+MathisKcr folds
+Pronos-62 calls 215 and is all-in
+*** FLOP *** [As 6s 9d]
+*** TURN *** [As 6s 9d][2d]
+*** RIVER *** [As 6s 9d 2d][Jd]
+*** SHOW DOWN ***
+Pronos-62 shows [5s 8s] (High card : Ace)
+Zelandia shows [7s 7h] (One pair : 7)
+Zelandia collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Board: [As 6s 9d 2d Jd]
+Seat 1: Pronos-62 (big blind) showed [5s 8s] and lost with High card : Ace
+Seat 2: Zelandia (button) showed [7s 7h] and won 555 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4613718912347930625-6-1772872689 - Holdem no limit (15/30) - 2026/03/07 08:38:09 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Zelandia (555)
+Seat 3: MathisKcr (345)
+*** ANTE/BLINDS ***
+Zelandia posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kh 9d]
+*** PRE-FLOP *** 
+Zelandia raises 525 to 555 and is all-in
+MathisKcr calls 315 and is all-in
+*** FLOP *** [Td Jh Ks]
+*** TURN *** [Td Jh Ks][Jc]
+*** RIVER *** [Td Jh Ks Jc][2s]
+*** SHOW DOWN ***
+Zelandia shows [Ad 7c] (One pair : Jacks)
+MathisKcr shows [Kh 9d] (Two pairs : Kings and Jacks)
+MathisKcr collected 690 from main pot
+Zelandia collected 210 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td Jh Ks Jc 2s]
+Seat 2: Zelandia (small blind) (button) showed [Ad 7c] and won 210 with One pair : Jacks
+Seat 3: MathisKcr (big blind) showed [Kh 9d] and won 690 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4613718912347930625-7-1772872701 - Holdem no limit (15/30) - 2026/03/07 08:38:21 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Zelandia (210)
+Seat 3: MathisKcr (690)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Zelandia posts big blind 30
+Dealt to MathisKcr [Th Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Zelandia folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4613718912347930625-8-1772872718 - Holdem no limit (20/40) - 2026/03/07 08:38:38 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Zelandia (180)
+Seat 3: MathisKcr (720)
+*** ANTE/BLINDS ***
+Zelandia posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [8s Jh]
+*** PRE-FLOP *** 
+Zelandia raises 140 to 180 and is all-in
+MathisKcr folds
+Zelandia collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Seat 2: Zelandia (small blind) (button) won 220
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4613718912347930625-9-1772872724 - Holdem no limit (20/40) - 2026/03/07 08:38:44 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Zelandia (220)
+Seat 3: MathisKcr (680)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Zelandia posts big blind 40
+Dealt to MathisKcr [9c 4s]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Zelandia checks
+*** FLOP *** [Jc Kh 7h]
+Zelandia checks
+MathisKcr checks
+*** TURN *** [Jc Kh 7h][5h]
+Zelandia checks
+MathisKcr bets 80
+Zelandia calls 80
+*** RIVER *** [Jc Kh 7h 5h][9s]
+Zelandia checks
+MathisKcr bets 192
+Zelandia folds
+MathisKcr collected 432 from pot
+*** SUMMARY ***
+Total pot 432 | No rake
+Board: [Jc Kh 7h 5h 9s]
+Seat 3: MathisKcr (small blind) (button) won 432
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4613718912347930625-10-1772872752 - Holdem no limit (20/40) - 2026/03/07 08:39:12 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Zelandia (100)
+Seat 3: MathisKcr (800)
+*** ANTE/BLINDS ***
+Zelandia posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9d 3h]
+*** PRE-FLOP *** 
+Zelandia raises 60 to 100 and is all-in
+MathisKcr folds
+Zelandia collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: Zelandia (small blind) (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4613718912347930625-11-1772872764 - Holdem no limit (20/40) - 2026/03/07 08:39:24 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Zelandia (140)
+Seat 3: MathisKcr (760)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Zelandia posts big blind 40
+Dealt to MathisKcr [9c 2h]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Zelandia raises 100 to 140 and is all-in
+MathisKcr folds
+Zelandia collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: Zelandia (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4613718912347930625-12-1772872776 - Holdem no limit (30/60) - 2026/03/07 08:39:36 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Zelandia (180)
+Seat 3: MathisKcr (720)
+*** ANTE/BLINDS ***
+Zelandia posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [5d 7d]
+*** PRE-FLOP *** 
+Zelandia raises 120 to 180 and is all-in
+MathisKcr calls 120
+*** FLOP *** [Js Ac 8s]
+*** TURN *** [Js Ac 8s][3c]
+*** RIVER *** [Js Ac 8s 3c][4d]
+*** SHOW DOWN ***
+MathisKcr shows [5d 7d] (High card : Ace)
+Zelandia shows [7h Kh] (High card : Ace)
+Zelandia collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Js Ac 8s 3c 4d]
+Seat 2: Zelandia (small blind) (button) showed [7h Kh] and won 360 with High card : Ace
+Seat 3: MathisKcr (big blind) showed [5d 7d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4613718912347930625-13-1772872788 - Holdem no limit (30/60) - 2026/03/07 08:39:48 UTC
+Table: 'Expresso Nitro(1074215144)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Zelandia (360)
+Seat 3: MathisKcr (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Zelandia posts big blind 60
+Dealt to MathisKcr [Kd 5h]
+*** PRE-FLOP *** 
+MathisKcr raises 480 to 540 and is all-in
+Zelandia calls 300 and is all-in
+*** FLOP *** [4d 4h 5d]
+*** TURN *** [4d 4h 5d][2h]
+*** RIVER *** [4d 4h 5d 2h][5c]
+*** SHOW DOWN ***
+Zelandia shows [Th Kh] (Two pairs : 5 and 4)
+MathisKcr shows [Kd 5h] (Full of 5 and 4)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 4h 5d 2h 5c]
+Seat 2: Zelandia (big blind) showed [Th Kh] and lost with Two pairs : 5 and 4
+Seat 3: MathisKcr (small blind) (button) showed [Kd 5h] and won 900 with Full of 5 and 4
+
+

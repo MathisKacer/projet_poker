@@ -1,0 +1,109 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4662133136623140865-1-1774539682 - Holdem no limit (10/20) - 2026/03/26 15:41:22 UTC
+Table: 'Expresso Nitro(1085487459)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Raisin-Mat18 (300)
+Seat 2: MathisKcr (300)
+Seat 3: JetBlackJoe (300)
+*** ANTE/BLINDS ***
+Raisin-Mat18 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d 6d]
+*** PRE-FLOP *** 
+JetBlackJoe raises 280 to 300 and is all-in
+Raisin-Mat18 folds
+MathisKcr folds
+JetBlackJoe collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: JetBlackJoe (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4662133136623140865-2-1774539688 - Holdem no limit (10/20) - 2026/03/26 15:41:28 UTC
+Table: 'Expresso Nitro(1085487459)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Raisin-Mat18 (290)
+Seat 2: MathisKcr (280)
+Seat 3: JetBlackJoe (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+JetBlackJoe posts big blind 20
+Dealt to MathisKcr [7d Qs]
+*** PRE-FLOP *** 
+Raisin-Mat18 calls 20
+MathisKcr raises 260 to 280 and is all-in
+JetBlackJoe folds
+Raisin-Mat18 folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: MathisKcr (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4662133136623140865-3-1774539704 - Holdem no limit (10/20) - 2026/03/26 15:41:44 UTC
+Table: 'Expresso Nitro(1085487459)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Raisin-Mat18 (270)
+Seat 2: MathisKcr (320)
+Seat 3: JetBlackJoe (310)
+*** ANTE/BLINDS ***
+JetBlackJoe posts small blind 10
+Raisin-Mat18 posts big blind 20
+Dealt to MathisKcr [8s As]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+JetBlackJoe raises 270 to 310 and is all-in
+Raisin-Mat18 folds
+MathisKcr calls 270
+*** FLOP *** [Th Kd 8c]
+*** TURN *** [Th Kd 8c][6d]
+*** RIVER *** [Th Kd 8c 6d][3s]
+*** SHOW DOWN ***
+JetBlackJoe shows [Jc 8d] (One pair : 8)
+MathisKcr shows [8s As] (One pair : 8)
+MathisKcr collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Th Kd 8c 6d 3s]
+Seat 2: MathisKcr (button) showed [8s As] and won 640 with One pair : 8
+Seat 3: JetBlackJoe (small blind) showed [Jc 8d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4662133136623140865-4-1774539720 - Holdem no limit (10/20) - 2026/03/26 15:42:00 UTC
+Table: 'Expresso Nitro(1085487459)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Raisin-Mat18 (250)
+Seat 2: MathisKcr (650)
+*** ANTE/BLINDS ***
+Raisin-Mat18 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd 3s]
+*** PRE-FLOP *** 
+Raisin-Mat18 raises 230 to 250 and is all-in
+MathisKcr folds
+Raisin-Mat18 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 1: Raisin-Mat18 (small blind) (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4662133136623140865-5-1774539730 - Holdem no limit (10/20) - 2026/03/26 15:42:10 UTC
+Table: 'Expresso Nitro(1085487459)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Raisin-Mat18 (270)
+Seat 2: MathisKcr (630)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Raisin-Mat18 posts big blind 20
+Dealt to MathisKcr [Tc 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 610 to 630 and is all-in
+Raisin-Mat18 calls 250 and is all-in
+*** FLOP *** [6c 9d 5c]
+*** TURN *** [6c 9d 5c][6s]
+*** RIVER *** [6c 9d 5c 6s][7h]
+*** SHOW DOWN ***
+Raisin-Mat18 shows [Ah Kh] (One pair : 6)
+MathisKcr shows [Tc 8c] (Straight Ten high)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6c 9d 5c 6s 7h]
+Seat 1: Raisin-Mat18 (big blind) showed [Ah Kh] and lost with One pair : 6
+Seat 2: MathisKcr (small blind) (button) showed [Tc 8c] and won 900 with Straight Ten high
+
+

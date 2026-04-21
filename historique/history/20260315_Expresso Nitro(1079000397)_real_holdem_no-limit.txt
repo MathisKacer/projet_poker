@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634271417486016513-1-1773570469 - Holdem no limit (10/20) - 2026/03/15 10:27:49 UTC
+Table: 'Expresso Nitro(1079000397)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scorpion4612 (300)
+Seat 2: .. Winamax.. (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+.. Winamax.. posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8d Js]
+*** PRE-FLOP *** 
+Scorpion4612 calls 20
+.. Winamax.. folds
+MathisKcr checks
+*** FLOP *** [9h 3s 3h]
+MathisKcr checks
+Scorpion4612 checks
+*** TURN *** [9h 3s 3h][6d]
+MathisKcr checks
+Scorpion4612 bets 20
+MathisKcr folds
+Scorpion4612 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [9h 3s 3h 6d]
+Seat 1: Scorpion4612 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634271417486016513-2-1773570508 - Holdem no limit (10/20) - 2026/03/15 10:28:28 UTC
+Table: 'Expresso Nitro(1079000397)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Scorpion4612 (330)
+Seat 2: .. Winamax.. (290)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Scorpion4612 posts big blind 20
+Dealt to MathisKcr [Jd 8c]
+*** PRE-FLOP *** 
+.. Winamax.. folds
+MathisKcr raises 40 to 60
+Scorpion4612 folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: MathisKcr (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4634271417486016513-3-1773570517 - Holdem no limit (10/20) - 2026/03/15 10:28:37 UTC
+Table: 'Expresso Nitro(1079000397)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Scorpion4612 (310)
+Seat 2: .. Winamax.. (290)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Scorpion4612 posts small blind 10
+.. Winamax.. posts big blind 20
+Dealt to MathisKcr [4h Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Scorpion4612 folds
+.. Winamax.. calls 40
+*** FLOP *** [2h 7h As]
+.. Winamax.. checks
+MathisKcr bets 46
+.. Winamax.. calls 46
+*** TURN *** [2h 7h As][6d]
+.. Winamax.. checks
+MathisKcr bets 111
+.. Winamax.. raises 73 to 184 and is all-in
+MathisKcr calls 73
+*** RIVER *** [2h 7h As 6d][2d]
+*** SHOW DOWN ***
+MathisKcr shows [4h Kd] (One pair : 2)
+.. Winamax.. shows [6h Ah] (Two pairs : Aces and 6)
+.. Winamax.. collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [2h 7h As 6d 2d]
+Seat 2: .. Winamax.. (big blind) showed [6h Ah] and won 590 with Two pairs : Aces and 6
+Seat 3: MathisKcr (button) showed [4h Kd] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4634271417486016513-4-1773570548 - Holdem no limit (15/30) - 2026/03/15 10:29:08 UTC
+Table: 'Expresso Nitro(1079000397)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scorpion4612 (300)
+Seat 2: .. Winamax.. (590)
+Seat 3: MathisKcr (10)
+*** ANTE/BLINDS ***
+.. Winamax.. posts small blind 15
+MathisKcr posts big blind 10 and is all-in
+Dealt to MathisKcr [7c 4h]
+*** PRE-FLOP *** 
+Scorpion4612 calls 30
+.. Winamax.. folds
+*** FLOP *** [Ah Ad 2h]
+*** TURN *** [Ah Ad 2h][Ac]
+*** RIVER *** [Ah Ad 2h Ac][3h]
+*** SHOW DOWN ***
+MathisKcr shows [7c 4h] (Trips of Aces)
+Scorpion4612 shows [Qh 6h] (Flush Ace high)
+Scorpion4612 collected 55 from pot
+*** SUMMARY ***
+Total pot 55 | No rake
+Board: [Ah Ad 2h Ac 3h]
+Seat 1: Scorpion4612 (button) showed [Qh 6h] and won 55 with Flush Ace high
+Seat 3: MathisKcr (big blind) showed [7c 4h] and lost with Trips of Aces
+
+

@@ -1,0 +1,179 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613767110470926337-1-1772875070 - Holdem no limit (10/20) - 2026/03/07 09:17:50 UTC
+Table: 'Expresso Nitro(1074226366)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SarahMadSel (300)
+Seat 2: El_loca57 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+El_loca57 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jh 6h]
+*** PRE-FLOP *** 
+SarahMadSel calls 20
+El_loca57 raises 40 to 60
+MathisKcr folds
+SarahMadSel calls 40
+*** FLOP *** [4c 9s 7c]
+El_loca57 bets 60
+SarahMadSel folds
+El_loca57 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [4c 9s 7c]
+Seat 2: El_loca57 (small blind) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613767110470926337-2-1772875090 - Holdem no limit (10/20) - 2026/03/07 09:18:10 UTC
+Table: 'Expresso Nitro(1074226366)#0' 3-max (real money) Seat #2 is the button
+Seat 1: SarahMadSel (240)
+Seat 2: El_loca57 (380)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+SarahMadSel posts big blind 20
+Dealt to MathisKcr [2s Qs]
+*** PRE-FLOP *** 
+El_loca57 folds
+MathisKcr raises 40 to 60
+SarahMadSel calls 40
+*** FLOP *** [8h Th 5c]
+MathisKcr bets 78
+SarahMadSel folds
+MathisKcr collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [8h Th 5c]
+Seat 3: MathisKcr (small blind) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613767110470926337-3-1772875119 - Holdem no limit (10/20) - 2026/03/07 09:18:39 UTC
+Table: 'Expresso Nitro(1074226366)#0' 3-max (real money) Seat #3 is the button
+Seat 1: SarahMadSel (180)
+Seat 2: El_loca57 (380)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+SarahMadSel posts small blind 10
+El_loca57 posts big blind 20
+Dealt to MathisKcr [2d Td]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+SarahMadSel calls 10
+El_loca57 checks
+*** FLOP *** [Qs Ac Kh]
+SarahMadSel checks
+El_loca57 checks
+MathisKcr checks
+*** TURN *** [Qs Ac Kh][8s]
+SarahMadSel checks
+El_loca57 checks
+MathisKcr checks
+*** RIVER *** [Qs Ac Kh 8s][Qh]
+SarahMadSel checks
+El_loca57 checks
+MathisKcr checks
+*** SHOW DOWN ***
+SarahMadSel shows [4d 7h] (One pair : Queens)
+El_loca57 shows [7s 9c] (One pair : Queens)
+MathisKcr shows [2d Td] (One pair : Queens)
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qs Ac Kh 8s Qh]
+Seat 1: SarahMadSel (small blind) showed [4d 7h] and lost with One pair : Queens
+Seat 2: El_loca57 (big blind) showed [7s 9c] and lost with One pair : Queens
+Seat 3: MathisKcr (button) showed [2d Td] and won 60 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4613767110470926337-4-1772875152 - Holdem no limit (15/30) - 2026/03/07 09:19:12 UTC
+Table: 'Expresso Nitro(1074226366)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SarahMadSel (160)
+Seat 2: El_loca57 (360)
+Seat 3: MathisKcr (380)
+*** ANTE/BLINDS ***
+El_loca57 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9c 3s]
+*** PRE-FLOP *** 
+SarahMadSel calls 30
+El_loca57 calls 15
+MathisKcr checks
+*** FLOP *** [Tc Js Td]
+El_loca57 checks
+MathisKcr checks
+SarahMadSel checks
+*** TURN *** [Tc Js Td][Kc]
+El_loca57 checks
+MathisKcr checks
+SarahMadSel checks
+*** RIVER *** [Tc Js Td Kc][4h]
+El_loca57 checks
+MathisKcr checks
+SarahMadSel checks
+*** SHOW DOWN ***
+SarahMadSel shows [2d Qh] (One pair : Tens)
+MathisKcr shows [9c 3s] (One pair : Tens)
+El_loca57 shows [3d Ad] (One pair : Tens)
+El_loca57 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Tc Js Td Kc 4h]
+Seat 1: SarahMadSel (button) showed [2d Qh] and lost with One pair : Tens
+Seat 2: El_loca57 (small blind) showed [3d Ad] and won 90 with One pair : Tens
+Seat 3: MathisKcr (big blind) showed [9c 3s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4613767110470926337-5-1772875207 - Holdem no limit (20/40) - 2026/03/07 09:20:07 UTC
+Table: 'Expresso Nitro(1074226366)#0' 3-max (real money) Seat #2 is the button
+Seat 1: SarahMadSel (130)
+Seat 2: El_loca57 (420)
+Seat 3: MathisKcr (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+SarahMadSel posts big blind 40
+Dealt to MathisKcr [Tc Jc]
+*** PRE-FLOP *** 
+El_loca57 calls 40
+MathisKcr raises 310 to 350 and is all-in
+SarahMadSel calls 90 and is all-in
+El_loca57 folds
+*** FLOP *** [4c 6h As]
+*** TURN *** [4c 6h As][5s]
+*** RIVER *** [4c 6h As 5s][7h]
+*** SHOW DOWN ***
+SarahMadSel shows [Ah 5c] (Two pairs : Aces and 5)
+MathisKcr shows [Tc Jc] (High card : Ace)
+MathisKcr collected 220 from side pot 1
+SarahMadSel collected 300 from main pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [4c 6h As 5s 7h]
+Seat 1: SarahMadSel (big blind) showed [Ah 5c] and won 300 with Two pairs : Aces and 5
+Seat 3: MathisKcr (small blind) showed [Tc Jc] and won 220 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4613767110470926337-6-1772875232 - Holdem no limit (20/40) - 2026/03/07 09:20:32 UTC
+Table: 'Expresso Nitro(1074226366)#0' 3-max (real money) Seat #3 is the button
+Seat 1: SarahMadSel (300)
+Seat 2: El_loca57 (380)
+Seat 3: MathisKcr (220)
+*** ANTE/BLINDS ***
+SarahMadSel posts small blind 20
+El_loca57 posts big blind 40
+Dealt to MathisKcr [6h 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 180 to 220 and is all-in
+SarahMadSel folds
+El_loca57 calls 180
+*** FLOP *** [7d 6d 7c]
+*** TURN *** [7d 6d 7c][3s]
+*** RIVER *** [7d 6d 7c 3s][8h]
+*** SHOW DOWN ***
+MathisKcr shows [6h 6c] (Full of 6 and 7)
+El_loca57 shows [8c 7s] (Full of 7 and 8)
+El_loca57 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [7d 6d 7c 3s 8h]
+Seat 2: El_loca57 (big blind) showed [8c 7s] and won 460 with Full of 7 and 8
+Seat 3: MathisKcr (button) showed [6h 6c] and lost with Full of 6 and 7
+
+

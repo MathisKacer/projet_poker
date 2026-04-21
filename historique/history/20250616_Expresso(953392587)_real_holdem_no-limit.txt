@@ -1,0 +1,671 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4094789981413834753-1-1750091832 - Holdem no limit (10/20) - 2025/06/16 16:37:12 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CaJOlou24 (500)
+Seat 2: MathisKcr (500)
+Seat 3: crystofe75 (500)
+*** ANTE/BLINDS ***
+crystofe75 posts small blind 10
+CaJOlou24 posts big blind 20
+Dealt to MathisKcr [5d As]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+crystofe75 calls 10
+CaJOlou24 checks
+*** FLOP *** [6d 9c 6s]
+crystofe75 checks
+CaJOlou24 checks
+MathisKcr checks
+*** TURN *** [6d 9c 6s][5s]
+crystofe75 bets 20
+CaJOlou24 folds
+MathisKcr calls 20
+*** RIVER *** [6d 9c 6s 5s][7d]
+crystofe75 bets 20
+MathisKcr calls 20
+*** SHOW DOWN ***
+crystofe75 shows [5h Kc] (Two pairs : 6 and 5)
+MathisKcr shows [5d As] (Two pairs : 6 and 5)
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6d 9c 6s 5s 7d]
+Seat 2: MathisKcr (button) showed [5d As] and won 140 with Two pairs : 6 and 5
+Seat 3: crystofe75 (small blind) showed [5h Kc] and lost with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4094789981413834753-2-1750091861 - Holdem no limit (10/20) - 2025/06/16 16:37:41 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CaJOlou24 (480)
+Seat 2: MathisKcr (580)
+Seat 3: crystofe75 (440)
+*** ANTE/BLINDS ***
+CaJOlou24 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd 8s]
+*** PRE-FLOP *** 
+crystofe75 calls 20
+CaJOlou24 calls 10
+MathisKcr checks
+*** FLOP *** [9c 6c Qc]
+CaJOlou24 checks
+MathisKcr checks
+crystofe75 bets 20
+CaJOlou24 calls 20
+MathisKcr calls 20
+*** TURN *** [9c 6c Qc][Qs]
+CaJOlou24 checks
+MathisKcr checks
+crystofe75 checks
+*** RIVER *** [9c 6c Qc Qs][3s]
+CaJOlou24 bets 78
+MathisKcr folds
+crystofe75 folds
+CaJOlou24 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [9c 6c Qc Qs 3s]
+Seat 1: CaJOlou24 (small blind) won 198
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4094789981413834753-3-1750091902 - Holdem no limit (10/20) - 2025/06/16 16:38:22 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CaJOlou24 (560)
+Seat 2: MathisKcr (540)
+Seat 3: crystofe75 (400)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+crystofe75 posts big blind 20
+Dealt to MathisKcr [Jh 7h]
+*** PRE-FLOP *** 
+CaJOlou24 calls 20
+MathisKcr calls 10
+crystofe75 checks
+*** FLOP *** [8c 5s 9s]
+MathisKcr bets 40
+crystofe75 folds
+CaJOlou24 calls 40
+*** TURN *** [8c 5s 9s][4s]
+MathisKcr checks
+CaJOlou24 bets 20
+MathisKcr calls 20
+*** RIVER *** [8c 5s 9s 4s][9d]
+MathisKcr checks
+CaJOlou24 bets 117
+MathisKcr folds
+CaJOlou24 collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [8c 5s 9s 4s 9d]
+Seat 1: CaJOlou24 (button) won 297
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4094789981413834753-4-1750091960 - Holdem no limit (15/30) - 2025/06/16 16:39:20 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CaJOlou24 (660)
+Seat 2: MathisKcr (460)
+Seat 3: crystofe75 (380)
+*** ANTE/BLINDS ***
+crystofe75 posts small blind 15
+CaJOlou24 posts big blind 30
+Dealt to MathisKcr [5h Jh]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+crystofe75 calls 15
+CaJOlou24 checks
+*** FLOP *** [2s Td Ad]
+crystofe75 bets 30
+CaJOlou24 folds
+MathisKcr calls 30
+*** TURN *** [2s Td Ad][7h]
+crystofe75 bets 53
+MathisKcr folds
+crystofe75 collected 203 from pot
+*** SUMMARY ***
+Total pot 203 | No rake
+Board: [2s Td Ad 7h]
+Seat 3: crystofe75 (small blind) won 203
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4094789981413834753-5-1750091996 - Holdem no limit (15/30) - 2025/06/16 16:39:56 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CaJOlou24 (630)
+Seat 2: MathisKcr (400)
+Seat 3: crystofe75 (470)
+*** ANTE/BLINDS ***
+CaJOlou24 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jc 7d]
+*** PRE-FLOP *** 
+crystofe75 raises 75 to 105
+CaJOlou24 folds
+MathisKcr calls 75
+*** FLOP *** [Ts 5d 9c]
+MathisKcr checks
+crystofe75 bets 365 and is all-in
+MathisKcr folds
+crystofe75 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Ts 5d 9c]
+Seat 3: crystofe75 (button) won 590
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4094789981413834753-6-1750092015 - Holdem no limit (20/40) - 2025/06/16 16:40:15 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CaJOlou24 (615)
+Seat 2: MathisKcr (295)
+Seat 3: crystofe75 (590)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+crystofe75 posts big blind 40
+Dealt to MathisKcr [Ad As]
+*** PRE-FLOP *** 
+CaJOlou24 calls 40
+MathisKcr calls 20
+crystofe75 checks
+*** FLOP *** [7h 7d 4s]
+MathisKcr checks
+crystofe75 checks
+CaJOlou24 bets 78
+MathisKcr raises 78 to 156
+crystofe75 folds
+CaJOlou24 folds
+MathisKcr collected 354 from pot
+*** SUMMARY ***
+Total pot 354 | No rake
+Board: [7h 7d 4s]
+Seat 2: MathisKcr (small blind) won 354
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4094789981413834753-7-1750092039 - Holdem no limit (20/40) - 2025/06/16 16:40:39 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CaJOlou24 (497)
+Seat 2: MathisKcr (453)
+Seat 3: crystofe75 (550)
+*** ANTE/BLINDS ***
+crystofe75 posts small blind 20
+CaJOlou24 posts big blind 40
+Dealt to MathisKcr [2c 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+crystofe75 folds
+CaJOlou24 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: CaJOlou24 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4094789981413834753-8-1750092044 - Holdem no limit (20/40) - 2025/06/16 16:40:44 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CaJOlou24 (517)
+Seat 2: MathisKcr (453)
+Seat 3: crystofe75 (530)
+*** ANTE/BLINDS ***
+CaJOlou24 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Tc 2c]
+*** PRE-FLOP *** 
+crystofe75 folds
+CaJOlou24 calls 20
+MathisKcr checks
+*** FLOP *** [As Ac 7s]
+CaJOlou24 checks
+MathisKcr checks
+*** TURN *** [As Ac 7s][Jh]
+CaJOlou24 checks
+MathisKcr checks
+*** RIVER *** [As Ac 7s Jh][Jc]
+CaJOlou24 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Tc 2c] (Two pairs : Aces and Jacks)
+CaJOlou24 shows [6h Qd] (Two pairs : Aces and Jacks)
+CaJOlou24 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [As Ac 7s Jh Jc]
+Seat 1: CaJOlou24 (small blind) showed [6h Qd] and won 80 with Two pairs : Aces and Jacks
+Seat 2: MathisKcr (big blind) showed [Tc 2c] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4094789981413834753-9-1750092075 - Holdem no limit (20/40) - 2025/06/16 16:41:15 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CaJOlou24 (557)
+Seat 2: MathisKcr (413)
+Seat 3: crystofe75 (530)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+crystofe75 posts big blind 40
+Dealt to MathisKcr [Ac Qs]
+*** PRE-FLOP *** 
+CaJOlou24 folds
+MathisKcr calls 20
+crystofe75 checks
+*** FLOP *** [7c 5h 7h]
+MathisKcr checks
+crystofe75 checks
+*** TURN *** [7c 5h 7h][As]
+MathisKcr checks
+crystofe75 checks
+*** RIVER *** [7c 5h 7h As][8h]
+MathisKcr bets 80
+crystofe75 folds
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [7c 5h 7h As 8h]
+Seat 2: MathisKcr (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4094789981413834753-10-1750092100 - Holdem no limit (30/60) - 2025/06/16 16:41:40 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CaJOlou24 (557)
+Seat 2: MathisKcr (453)
+Seat 3: crystofe75 (490)
+*** ANTE/BLINDS ***
+crystofe75 posts small blind 30
+CaJOlou24 posts big blind 60
+Dealt to MathisKcr [9s 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+crystofe75 folds
+CaJOlou24 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: CaJOlou24 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4094789981413834753-11-1750092109 - Holdem no limit (30/60) - 2025/06/16 16:41:49 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CaJOlou24 (587)
+Seat 2: MathisKcr (453)
+Seat 3: crystofe75 (460)
+*** ANTE/BLINDS ***
+CaJOlou24 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Tc 7s]
+*** PRE-FLOP *** 
+crystofe75 folds
+CaJOlou24 calls 30
+MathisKcr checks
+*** FLOP *** [4d Ah 6c]
+CaJOlou24 checks
+MathisKcr checks
+*** TURN *** [4d Ah 6c][6d]
+CaJOlou24 checks
+MathisKcr checks
+*** RIVER *** [4d Ah 6c 6d][5c]
+CaJOlou24 bets 78
+MathisKcr folds
+CaJOlou24 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [4d Ah 6c 6d 5c]
+Seat 1: CaJOlou24 (small blind) won 198
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4094789981413834753-12-1750092126 - Holdem no limit (30/60) - 2025/06/16 16:42:06 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CaJOlou24 (647)
+Seat 2: MathisKcr (393)
+Seat 3: crystofe75 (460)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+crystofe75 posts big blind 60
+Dealt to MathisKcr [8h 2c]
+*** PRE-FLOP *** 
+CaJOlou24 folds
+MathisKcr calls 30
+crystofe75 raises 400 to 460 and is all-in
+MathisKcr folds
+crystofe75 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 3: crystofe75 (big blind) won 520
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4094789981413834753-13-1750092136 - Holdem no limit (30/60) - 2025/06/16 16:42:16 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CaJOlou24 (647)
+Seat 2: MathisKcr (333)
+Seat 3: crystofe75 (520)
+*** ANTE/BLINDS ***
+crystofe75 posts small blind 30
+CaJOlou24 posts big blind 60
+Dealt to MathisKcr [7s 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+crystofe75 folds
+CaJOlou24 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: CaJOlou24 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4094789981413834753-14-1750092141 - Holdem no limit (30/60) - 2025/06/16 16:42:21 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CaJOlou24 (677)
+Seat 2: MathisKcr (333)
+Seat 3: crystofe75 (490)
+*** ANTE/BLINDS ***
+CaJOlou24 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [8h Ac]
+*** PRE-FLOP *** 
+crystofe75 folds
+CaJOlou24 calls 30
+MathisKcr checks
+*** FLOP *** [3c Kh 8s]
+CaJOlou24 checks
+MathisKcr bets 120
+CaJOlou24 folds
+MathisKcr collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3c Kh 8s]
+Seat 2: MathisKcr (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4094789981413834753-15-1750092165 - Holdem no limit (30/60) - 2025/06/16 16:42:45 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CaJOlou24 (617)
+Seat 2: MathisKcr (393)
+Seat 3: crystofe75 (490)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+crystofe75 posts big blind 60
+Dealt to MathisKcr [6h 4c]
+*** PRE-FLOP *** 
+CaJOlou24 folds
+MathisKcr calls 30
+crystofe75 raises 120 to 180
+MathisKcr folds
+crystofe75 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: crystofe75 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4094789981413834753-16-1750092177 - Holdem no limit (30/60) - 2025/06/16 16:42:57 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CaJOlou24 (617)
+Seat 2: MathisKcr (333)
+Seat 3: crystofe75 (550)
+*** ANTE/BLINDS ***
+crystofe75 posts small blind 30
+CaJOlou24 posts big blind 60
+Dealt to MathisKcr [3s 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+crystofe75 folds
+CaJOlou24 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: CaJOlou24 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4094789981413834753-17-1750092182 - Holdem no limit (30/60) - 2025/06/16 16:43:02 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CaJOlou24 (647)
+Seat 2: MathisKcr (333)
+Seat 3: crystofe75 (520)
+*** ANTE/BLINDS ***
+CaJOlou24 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ac Ks]
+*** PRE-FLOP *** 
+crystofe75 raises 150 to 210
+CaJOlou24 folds
+MathisKcr raises 123 to 333 and is all-in
+crystofe75 calls 123
+*** FLOP *** [Qh 3d Jh]
+*** TURN *** [Qh 3d Jh][Ts]
+*** RIVER *** [Qh 3d Jh Ts][7d]
+*** SHOW DOWN ***
+crystofe75 shows [9d 9c] (One pair : 9)
+MathisKcr shows [Ac Ks] (Straight Ace high)
+MathisKcr collected 696 from pot
+*** SUMMARY ***
+Total pot 696 | No rake
+Board: [Qh 3d Jh Ts 7d]
+Seat 2: MathisKcr (big blind) showed [Ac Ks] and won 696 with Straight Ace high
+Seat 3: crystofe75 (button) showed [9d 9c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4094789981413834753-18-1750092195 - Holdem no limit (40/80) - 2025/06/16 16:43:15 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CaJOlou24 (617)
+Seat 2: MathisKcr (696)
+Seat 3: crystofe75 (187)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+crystofe75 posts big blind 80
+Dealt to MathisKcr [Jd 4c]
+*** PRE-FLOP *** 
+CaJOlou24 folds
+MathisKcr calls 40
+crystofe75 raises 107 to 187 and is all-in
+MathisKcr folds
+crystofe75 collected 267 from pot
+*** SUMMARY ***
+Total pot 267 | No rake
+Seat 3: crystofe75 (big blind) won 267
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4094789981413834753-19-1750092205 - Holdem no limit (40/80) - 2025/06/16 16:43:25 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CaJOlou24 (617)
+Seat 2: MathisKcr (616)
+Seat 3: crystofe75 (267)
+*** ANTE/BLINDS ***
+crystofe75 posts small blind 40
+CaJOlou24 posts big blind 80
+Dealt to MathisKcr [9d 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+crystofe75 raises 187 to 267 and is all-in
+CaJOlou24 folds
+crystofe75 collected 347 from pot
+*** SUMMARY ***
+Total pot 347 | No rake
+Seat 3: crystofe75 (small blind) won 347
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4094789981413834753-20-1750092215 - Holdem no limit (40/80) - 2025/06/16 16:43:35 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CaJOlou24 (537)
+Seat 2: MathisKcr (616)
+Seat 3: crystofe75 (347)
+*** ANTE/BLINDS ***
+CaJOlou24 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [5h Tc]
+*** PRE-FLOP *** 
+crystofe75 folds
+CaJOlou24 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4094789981413834753-21-1750092228 - Holdem no limit (40/80) - 2025/06/16 16:43:48 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CaJOlou24 (497)
+Seat 2: MathisKcr (656)
+Seat 3: crystofe75 (347)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+crystofe75 posts big blind 80
+Dealt to MathisKcr [Qs 2h]
+*** PRE-FLOP *** 
+CaJOlou24 calls 80
+MathisKcr calls 40
+crystofe75 checks
+*** FLOP *** [5c Kh 8c]
+MathisKcr checks
+crystofe75 checks
+CaJOlou24 bets 80
+MathisKcr folds
+crystofe75 folds
+CaJOlou24 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [5c Kh 8c]
+Seat 1: CaJOlou24 (button) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4094789981413834753-22-1750092244 - Holdem no limit (40/80) - 2025/06/16 16:44:04 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CaJOlou24 (657)
+Seat 2: MathisKcr (576)
+Seat 3: crystofe75 (267)
+*** ANTE/BLINDS ***
+crystofe75 posts small blind 40
+CaJOlou24 posts big blind 80
+Dealt to MathisKcr [5h Kh]
+*** PRE-FLOP *** 
+MathisKcr calls 80
+crystofe75 raises 187 to 267 and is all-in
+CaJOlou24 folds
+MathisKcr calls 187
+*** FLOP *** [Ad 9h Js]
+*** TURN *** [Ad 9h Js][6c]
+*** RIVER *** [Ad 9h Js 6c][2s]
+*** SHOW DOWN ***
+MathisKcr shows [5h Kh] (High card : Ace)
+crystofe75 shows [5c 5s] (One pair : 5)
+crystofe75 collected 614 from pot
+*** SUMMARY ***
+Total pot 614 | No rake
+Board: [Ad 9h Js 6c 2s]
+Seat 2: MathisKcr (button) showed [5h Kh] and lost with High card : Ace
+Seat 3: crystofe75 (small blind) showed [5c 5s] and won 614 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4094789981413834753-23-1750092266 - Holdem no limit (40/80) - 2025/06/16 16:44:26 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CaJOlou24 (577)
+Seat 2: MathisKcr (309)
+Seat 3: crystofe75 (614)
+*** ANTE/BLINDS ***
+CaJOlou24 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [2c 8d]
+*** PRE-FLOP *** 
+crystofe75 raises 200 to 280
+CaJOlou24 folds
+MathisKcr folds
+crystofe75 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 3: crystofe75 (button) won 400
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4094789981413834753-24-1750092275 - Holdem no limit (40/80) - 2025/06/16 16:44:35 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CaJOlou24 (537)
+Seat 2: MathisKcr (229)
+Seat 3: crystofe75 (734)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+crystofe75 posts big blind 80
+Dealt to MathisKcr [7c Qd]
+*** PRE-FLOP *** 
+CaJOlou24 folds
+MathisKcr calls 40
+crystofe75 checks
+*** FLOP *** [Jh Js Ah]
+MathisKcr checks
+crystofe75 checks
+*** TURN *** [Jh Js Ah][4c]
+MathisKcr checks
+crystofe75 bets 80
+MathisKcr folds
+crystofe75 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jh Js Ah 4c]
+Seat 3: crystofe75 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 6 - HandId: #4094789981413834753-25-1750092295 - Holdem no limit (50/100) - 2025/06/16 16:44:55 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CaJOlou24 (537)
+Seat 2: MathisKcr (149)
+Seat 3: crystofe75 (814)
+*** ANTE/BLINDS ***
+crystofe75 posts small blind 50
+CaJOlou24 posts big blind 100
+Dealt to MathisKcr [Th Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 49 to 149 and is all-in
+crystofe75 folds
+CaJOlou24 calls 49
+*** FLOP *** [Ac Kd Qd]
+*** TURN *** [Ac Kd Qd][5c]
+*** RIVER *** [Ac Kd Qd 5c][2s]
+*** SHOW DOWN ***
+CaJOlou24 shows [6d 4h] (High card : Ace)
+MathisKcr shows [Th Jh] (Straight Ace high)
+MathisKcr collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | No rake
+Board: [Ac Kd Qd 5c 2s]
+Seat 1: CaJOlou24 (big blind) showed [6d 4h] and lost with High card : Ace
+Seat 2: MathisKcr (button) showed [Th Jh] and won 348 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 6 - HandId: #4094789981413834753-26-1750092310 - Holdem no limit (50/100) - 2025/06/16 16:45:10 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CaJOlou24 (388)
+Seat 2: MathisKcr (348)
+Seat 3: crystofe75 (764)
+*** ANTE/BLINDS ***
+CaJOlou24 posts small blind 50
+MathisKcr posts big blind 100
+Dealt to MathisKcr [Jd 8h]
+*** PRE-FLOP *** 
+crystofe75 folds
+CaJOlou24 calls 50
+MathisKcr checks
+*** FLOP *** [3h Td 7c]
+CaJOlou24 bets 100
+MathisKcr calls 100
+*** TURN *** [3h Td 7c][4s]
+CaJOlou24 bets 188 and is all-in
+MathisKcr folds
+CaJOlou24 collected 588 from pot
+*** SUMMARY ***
+Total pot 588 | No rake
+Board: [3h Td 7c 4s]
+Seat 1: CaJOlou24 (small blind) won 588
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 6 - HandId: #4094789981413834753-27-1750092326 - Holdem no limit (50/100) - 2025/06/16 16:45:26 UTC
+Table: 'Expresso(953392587)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CaJOlou24 (588)
+Seat 2: MathisKcr (148)
+Seat 3: crystofe75 (764)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 50
+crystofe75 posts big blind 100
+Dealt to MathisKcr [Jd 3d]
+*** PRE-FLOP *** 
+CaJOlou24 folds
+MathisKcr raises 48 to 148 and is all-in
+crystofe75 calls 48
+*** FLOP *** [5s Ah 7s]
+*** TURN *** [5s Ah 7s][8d]
+*** RIVER *** [5s Ah 7s 8d][6d]
+*** SHOW DOWN ***
+MathisKcr shows [Jd 3d] (High card : Ace)
+crystofe75 shows [Ks 7h] (One pair : 7)
+crystofe75 collected 296 from pot
+*** SUMMARY ***
+Total pot 296 | No rake
+Board: [5s Ah 7s 8d 6d]
+Seat 2: MathisKcr (small blind) showed [Jd 3d] and lost with High card : Ace
+Seat 3: crystofe75 (big blind) showed [Ks 7h] and won 296 with One pair : 7
+
+

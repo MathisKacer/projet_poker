@@ -1,0 +1,1091 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-1-1774096210 - Holdem no limit (25/100/200) - 2026/03/21 12:30:10 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #4 is the button
+Seat 1: DragonGris24 (20000, 0.90€ bounty)
+Seat 2: MG1917 (20000, 0.90€ bounty)
+Seat 3: ICE57710 (20000, 0.90€ bounty)
+Seat 4: MathisKcr (20000, 0.90€ bounty)
+Seat 5: Id&al (20000, 0.90€ bounty)
+Seat 6: _PHILimp_ (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Id&al posts ante 25
+_PHILimp_ posts ante 25
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Id&al posts small blind 100
+_PHILimp_ posts big blind 200
+Dealt to MathisKcr [5h Kc]
+*** PRE-FLOP *** 
+DragonGris24 folds
+MG1917 folds
+ICE57710 raises 200 to 400
+MathisKcr calls 400
+Id&al folds
+_PHILimp_ calls 200
+*** FLOP *** [3c 2s Qd]
+_PHILimp_ checks
+ICE57710 checks
+MathisKcr bets 508
+_PHILimp_ folds
+ICE57710 folds
+MathisKcr collected 1958 from pot
+*** SUMMARY ***
+Total pot 1958 | No rake
+Board: [3c 2s Qd]
+Seat 4: MathisKcr (button) won 1958
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-2-1774096275 - Holdem no limit (25/100/200) - 2026/03/21 12:31:15 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #5 is the button
+Seat 1: DragonGris24 (19975, 0.90€ bounty)
+Seat 2: MG1917 (19975, 0.90€ bounty)
+Seat 3: ICE57710 (19575, 0.90€ bounty)
+Seat 4: MathisKcr (21025, 0.90€ bounty)
+Seat 5: Id&al (19875, 0.90€ bounty)
+Seat 6: _PHILimp_ (19575, 0.90€ bounty)
+*** ANTE/BLINDS ***
+_PHILimp_ posts ante 25
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Id&al posts ante 25
+_PHILimp_ posts small blind 100
+DragonGris24 posts big blind 200
+Dealt to MathisKcr [Ac Td]
+*** PRE-FLOP *** 
+MG1917 folds
+ICE57710 folds
+MathisKcr raises 200 to 400
+Id&al calls 400
+_PHILimp_ folds
+DragonGris24 calls 200
+*** FLOP *** [3d 4h 2d]
+DragonGris24 checks
+MathisKcr bets 508
+Id&al folds
+DragonGris24 calls 508
+*** TURN *** [3d 4h 2d][3h]
+DragonGris24 checks
+MathisKcr bets 1233
+DragonGris24 calls 1233
+*** RIVER *** [3d 4h 2d 3h][9s]
+DragonGris24 bets 3206
+MathisKcr folds
+DragonGris24 collected 8138 from pot
+*** SUMMARY ***
+Total pot 8138 | No rake
+Board: [3d 4h 2d 3h 9s]
+Seat 1: DragonGris24 (big blind) won 8138
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-3-1774096369 - Holdem no limit (25/100/200) - 2026/03/21 12:32:49 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #6 is the button
+Seat 1: DragonGris24 (22741, 0.90€ bounty)
+Seat 2: MG1917 (19950, 0.90€ bounty)
+Seat 3: ICE57710 (19550, 0.90€ bounty)
+Seat 4: MathisKcr (18859, 0.90€ bounty)
+Seat 5: Id&al (19450, 0.90€ bounty)
+Seat 6: _PHILimp_ (19450, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Id&al posts ante 25
+_PHILimp_ posts ante 25
+DragonGris24 posts small blind 100
+MG1917 posts big blind 200
+Dealt to MathisKcr [9d Kd]
+*** PRE-FLOP *** 
+ICE57710 calls 200
+MathisKcr raises 200 to 400
+Id&al folds
+_PHILimp_ folds
+DragonGris24 folds
+MG1917 folds
+ICE57710 calls 200
+*** FLOP *** [Jd 7h 4h]
+ICE57710 checks
+MathisKcr bets 400
+ICE57710 calls 400
+*** TURN *** [Jd 7h 4h][9h]
+ICE57710 checks
+MathisKcr bets 1025
+ICE57710 calls 1025
+*** RIVER *** [Jd 7h 4h 9h][7c]
+ICE57710 bets 3280
+MathisKcr calls 3280
+*** SHOW DOWN ***
+MathisKcr shows [9d Kd] (Two pairs : 9 and 7)
+ICE57710 shows [Ah 2h] (Flush Ace high)
+ICE57710 collected 10660 from pot
+*** SUMMARY ***
+Total pot 10660 | No rake
+Board: [Jd 7h 4h 9h 7c]
+Seat 3: ICE57710 showed [Ah 2h] and won 10660 with Flush Ace high
+Seat 4: MathisKcr showed [9d Kd] and lost with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-4-1774096417 - Holdem no limit (25/100/200) - 2026/03/21 12:33:37 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #1 is the button
+Seat 1: DragonGris24 (22616, 0.90€ bounty)
+Seat 2: MG1917 (19725, 0.90€ bounty)
+Seat 3: ICE57710 (25080, 0.90€ bounty)
+Seat 4: MathisKcr (13729, 0.90€ bounty)
+Seat 5: Id&al (19425, 0.90€ bounty)
+Seat 6: _PHILimp_ (19425, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MG1917 posts ante 25
+ICE57710 posts ante 25
+DragonGris24 posts ante 25
+MathisKcr posts ante 25
+Id&al posts ante 25
+_PHILimp_ posts ante 25
+MG1917 posts small blind 100
+ICE57710 posts big blind 200
+Dealt to MathisKcr [6h 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Id&al folds
+_PHILimp_ folds
+DragonGris24 raises 200 to 400
+MG1917 folds
+ICE57710 calls 200
+*** FLOP *** [9d 6c 8s]
+ICE57710 bets 525
+DragonGris24 calls 525
+*** TURN *** [9d 6c 8s][As]
+ICE57710 checks
+DragonGris24 bets 735
+ICE57710 calls 735
+*** RIVER *** [9d 6c 8s As][Ks]
+ICE57710 bets 2856
+DragonGris24 calls 2856
+*** SHOW DOWN ***
+DragonGris24 shows [9h Kc] (Two pairs : Kings and 9)
+ICE57710 shows [7s 4s] (Flush Ace high)
+ICE57710 collected 9282 from pot
+*** SUMMARY ***
+Total pot 9282 | No rake
+Board: [9d 6c 8s As Ks]
+Seat 1: DragonGris24 (button) showed [9h Kc] and lost with Two pairs : Kings and 9
+Seat 3: ICE57710 (big blind) showed [7s 4s] and won 9282 with Flush Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-5-1774096490 - Holdem no limit (25/100/200) - 2026/03/21 12:34:50 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #2 is the button
+Seat 1: DragonGris24 (18075, 0.90€ bounty)
+Seat 2: MG1917 (19600, 0.90€ bounty)
+Seat 3: ICE57710 (29821, 0.90€ bounty)
+Seat 4: MathisKcr (13704, 0.90€ bounty)
+Seat 6: _PHILimp_ (19400, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+_PHILimp_ posts ante 25
+ICE57710 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [Ks Qd]
+*** PRE-FLOP *** 
+_PHILimp_ folds
+DragonGris24 folds
+MG1917 calls 200
+ICE57710 calls 100
+MathisKcr raises 400 to 600
+MG1917 calls 400
+ICE57710 folds
+*** FLOP *** [4h 2s Th]
+MathisKcr bets 763
+MG1917 folds
+MathisKcr collected 2288 from pot
+*** SUMMARY ***
+Total pot 2288 | No rake
+Board: [4h 2s Th]
+Seat 4: MathisKcr (big blind) won 2288
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-6-1774096521 - Holdem no limit (25/100/200) - 2026/03/21 12:35:21 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #3 is the button
+Seat 1: DragonGris24 (18050, 0.90€ bounty)
+Seat 2: MG1917 (18975, 0.90€ bounty)
+Seat 3: ICE57710 (29596, 0.90€ bounty)
+Seat 4: MathisKcr (14604, 0.90€ bounty)
+Seat 6: _PHILimp_ (19375, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+_PHILimp_ posts ante 25
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts small blind 100
+_PHILimp_ posts big blind 200
+Dealt to MathisKcr [4h 7s]
+*** PRE-FLOP *** 
+DragonGris24 raises 200 to 400
+MG1917 folds
+ICE57710 calls 400
+MathisKcr folds
+_PHILimp_ calls 200
+*** FLOP *** [7h Ts Td]
+_PHILimp_ checks
+DragonGris24 bets 499
+ICE57710 folds
+_PHILimp_ calls 499
+*** TURN *** [7h Ts Td][5d]
+_PHILimp_ checks
+DragonGris24 bets 848
+_PHILimp_ raises 890 to 1738
+DragonGris24 calls 890
+*** RIVER *** [7h Ts Td 5d][Js]
+_PHILimp_ bets 4719
+DragonGris24 calls 4719
+*** SHOW DOWN ***
+_PHILimp_ shows [8d 6d] (One pair : Tens)
+DragonGris24 shows [8h 8c] (Two pairs : Tens and 8)
+DragonGris24 collected 15337 from pot
+*** SUMMARY ***
+Total pot 15337 | No rake
+Board: [7h Ts Td 5d Js]
+Seat 1: DragonGris24 showed [8h 8c] and won 15337 with Two pairs : Tens and 8
+Seat 6: _PHILimp_ (big blind) showed [8d 6d] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-7-1774096571 - Holdem no limit (25/100/200) - 2026/03/21 12:36:11 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #4 is the button
+Seat 1: DragonGris24 (26006, 0.90€ bounty)
+Seat 2: MG1917 (18950, 0.90€ bounty)
+Seat 3: ICE57710 (29171, 0.90€ bounty)
+Seat 4: MathisKcr (14479, 0.90€ bounty)
+Seat 5: SaladB0bun (20000, 0.90€ bounty)
+Seat 6: _PHILimp_ (11994, 0.90€ bounty)
+*** ANTE/BLINDS ***
+_PHILimp_ posts ante 25
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+_PHILimp_ posts small blind 100
+DragonGris24 posts big blind 200
+Dealt to MathisKcr [4s 6h]
+*** PRE-FLOP *** 
+MG1917 calls 200
+ICE57710 folds
+MathisKcr folds
+_PHILimp_ folds
+DragonGris24 checks
+*** FLOP *** [8c Td Qc]
+DragonGris24 checks
+MG1917 checks
+*** TURN *** [8c Td Qc][As]
+DragonGris24 bets 500
+MG1917 calls 500
+*** RIVER *** [8c Td Qc As][3h]
+DragonGris24 checks
+MG1917 bets 813
+DragonGris24 folds
+MG1917 collected 2438 from pot
+*** SUMMARY ***
+Total pot 2438 | No rake
+Board: [8c Td Qc As 3h]
+Seat 2: MG1917 won 2438
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-8-1774096651 - Holdem no limit (25/100/200) - 2026/03/21 12:37:31 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #6 is the button
+Seat 1: DragonGris24 (25281, 0.90€ bounty)
+Seat 2: MG1917 (19850, 0.90€ bounty)
+Seat 3: ICE57710 (29146, 0.90€ bounty)
+Seat 4: MathisKcr (14454, 0.90€ bounty)
+Seat 5: SaladB0bun (20000, 0.90€ bounty)
+Seat 6: _PHILimp_ (11869, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+SaladB0bun posts ante 25
+_PHILimp_ posts ante 25
+DragonGris24 posts small blind 100
+MG1917 posts big blind 200
+Dealt to MathisKcr [Qh Td]
+*** PRE-FLOP *** 
+ICE57710 folds
+MathisKcr raises 200 to 400
+SaladB0bun folds
+_PHILimp_ raises 11444 to 11844 and is all-in
+DragonGris24 folds
+MG1917 folds
+MathisKcr folds
+_PHILimp_ collected 12694 from pot
+*** SUMMARY ***
+Total pot 12694 | No rake
+Seat 6: _PHILimp_ (button) won 12694
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-9-1774096672 - Holdem no limit (25/100/200) - 2026/03/21 12:37:52 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #1 is the button
+Seat 1: DragonGris24 (25156, 0.90€ bounty)
+Seat 2: MG1917 (19625, 0.90€ bounty)
+Seat 3: ICE57710 (29121, 0.90€ bounty)
+Seat 4: MathisKcr (14029, 0.90€ bounty)
+Seat 5: SaladB0bun (19975, 0.90€ bounty)
+Seat 6: _PHILimp_ (12694, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MG1917 posts ante 25
+ICE57710 posts ante 25
+DragonGris24 posts ante 25
+MathisKcr posts ante 25
+SaladB0bun posts ante 25
+_PHILimp_ posts ante 25
+MG1917 posts small blind 100
+ICE57710 posts big blind 200
+Dealt to MathisKcr [5h 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+SaladB0bun folds
+_PHILimp_ calls 200
+DragonGris24 folds
+MG1917 folds
+ICE57710 checks
+*** FLOP *** [2d 5d 6c]
+ICE57710 checks
+_PHILimp_ bets 650
+ICE57710 folds
+_PHILimp_ collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [2d 5d 6c]
+Seat 6: _PHILimp_ won 1300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-10-1774096701 - Holdem no limit (25/100/200) - 2026/03/21 12:38:21 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #2 is the button
+Seat 1: DragonGris24 (25131, 0.90€ bounty)
+Seat 2: MG1917 (19500, 0.90€ bounty)
+Seat 3: ICE57710 (28896, 0.90€ bounty)
+Seat 4: MathisKcr (14004, 0.90€ bounty)
+Seat 6: _PHILimp_ (13119, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+_PHILimp_ posts ante 25
+ICE57710 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [9c Js]
+*** PRE-FLOP *** 
+_PHILimp_ folds
+DragonGris24 raises 200 to 400
+MG1917 calls 400
+ICE57710 folds
+MathisKcr calls 200
+*** FLOP *** [Qh 8h Jh]
+MathisKcr bets 499
+DragonGris24 calls 499
+MG1917 calls 499
+*** TURN *** [Qh 8h Jh][3c]
+MathisKcr checks
+DragonGris24 checks
+MG1917 checks
+*** RIVER *** [Qh 8h Jh 3c][3h]
+MathisKcr checks
+DragonGris24 checks
+MG1917 bets 200
+MathisKcr folds
+DragonGris24 calls 200
+*** SHOW DOWN ***
+DragonGris24 shows [Ts Jc] (Two pairs : Jacks and 3)
+MG1917 shows [Kh Qs] (Flush King high)
+MG1917 collected 3322 from pot
+*** SUMMARY ***
+Total pot 3322 | No rake
+Board: [Qh 8h Jh 3c 3h]
+Seat 1: DragonGris24 showed [Ts Jc] and lost with Two pairs : Jacks and 3
+Seat 2: MG1917 (button) showed [Kh Qs] and won 3322 with Flush King high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-11-1774096787 - Holdem no limit (25/100/200) - 2026/03/21 12:39:47 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #3 is the button
+Seat 1: DragonGris24 (24007, 0.90€ bounty)
+Seat 2: MG1917 (21698, 0.90€ bounty)
+Seat 3: ICE57710 (28771, 0.90€ bounty)
+Seat 4: MathisKcr (13080, 0.90€ bounty)
+Seat 5: Gregaldo (20000, 0.90€ bounty)
+Seat 6: _PHILimp_ (13094, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+_PHILimp_ posts ante 25
+MathisKcr posts small blind 100
+Gregaldo posts big blind 200
+Dealt to MathisKcr [3s 9d]
+*** PRE-FLOP *** 
+_PHILimp_ calls 200
+DragonGris24 folds
+MG1917 calls 200
+ICE57710 folds
+MathisKcr calls 100
+Gregaldo checks
+*** FLOP *** [Qs Ks Td]
+MathisKcr checks
+Gregaldo checks
+_PHILimp_ checks
+MG1917 checks
+*** TURN *** [Qs Ks Td][7c]
+MathisKcr checks
+Gregaldo checks
+_PHILimp_ checks
+MG1917 checks
+*** RIVER *** [Qs Ks Td 7c][4c]
+MathisKcr checks
+Gregaldo checks
+_PHILimp_ bets 1550
+MG1917 folds
+MathisKcr folds
+Gregaldo folds
+_PHILimp_ collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [Qs Ks Td 7c 4c]
+Seat 6: _PHILimp_ won 2500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-12-1774096843 - Holdem no limit (25/100/200) - 2026/03/21 12:40:43 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #4 is the button
+Seat 1: DragonGris24 (23982, 0.90€ bounty)
+Seat 2: MG1917 (21473, 0.90€ bounty)
+Seat 3: ICE57710 (28746, 0.90€ bounty)
+Seat 4: MathisKcr (12855, 0.90€ bounty)
+Seat 5: Gregaldo (19775, 0.90€ bounty)
+Seat 6: _PHILimp_ (13819, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Gregaldo posts ante 25
+_PHILimp_ posts ante 25
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Gregaldo posts small blind 100
+_PHILimp_ posts big blind 200
+Dealt to MathisKcr [7d Qd]
+*** PRE-FLOP *** 
+DragonGris24 raises 200 to 400
+MG1917 folds
+ICE57710 folds
+MathisKcr calls 400
+Gregaldo folds
+_PHILimp_ folds
+*** FLOP *** [Ac Js Jh]
+DragonGris24 checks
+MathisKcr checks
+*** TURN *** [Ac Js Jh][2s]
+DragonGris24 bets 438
+MathisKcr folds
+DragonGris24 collected 1688 from pot
+*** SUMMARY ***
+Total pot 1688 | No rake
+Board: [Ac Js Jh 2s]
+Seat 1: DragonGris24 won 1688
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-13-1774096884 - Holdem no limit (25/100/200) - 2026/03/21 12:41:24 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #5 is the button
+Seat 1: DragonGris24 (24807, 0.90€ bounty)
+Seat 2: MG1917 (21448, 0.90€ bounty)
+Seat 3: ICE57710 (28721, 0.90€ bounty)
+Seat 4: MathisKcr (12430, 0.90€ bounty)
+Seat 5: Gregaldo (19650, 0.90€ bounty)
+Seat 6: _PHILimp_ (13594, 0.90€ bounty)
+*** ANTE/BLINDS ***
+_PHILimp_ posts ante 25
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+_PHILimp_ posts small blind 100
+DragonGris24 posts big blind 200
+Dealt to MathisKcr [6h Qs]
+*** PRE-FLOP *** 
+MG1917 folds
+ICE57710 folds
+MathisKcr raises 200 to 400
+Gregaldo folds
+_PHILimp_ folds
+DragonGris24 calls 200
+*** FLOP *** [Ad 3c Ac]
+DragonGris24 checks
+MathisKcr checks
+*** TURN *** [Ad 3c Ac][9s]
+DragonGris24 bets 368
+MathisKcr folds
+DragonGris24 collected 1418 from pot
+*** SUMMARY ***
+Total pot 1418 | No rake
+Board: [Ad 3c Ac 9s]
+Seat 1: DragonGris24 (big blind) won 1418
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-14-1774096936 - Holdem no limit (25/100/200) - 2026/03/21 12:42:16 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #6 is the button
+Seat 1: DragonGris24 (25432, 0.90€ bounty)
+Seat 2: MG1917 (21423, 0.90€ bounty)
+Seat 3: ICE57710 (28696, 0.90€ bounty)
+Seat 4: MathisKcr (12005, 0.90€ bounty)
+Seat 5: Gregaldo (19625, 0.90€ bounty)
+Seat 6: _PHILimp_ (13469, 0.90€ bounty)
+*** ANTE/BLINDS ***
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+_PHILimp_ posts ante 25
+DragonGris24 posts small blind 100
+MG1917 posts big blind 200
+Dealt to MathisKcr [6c 3d]
+*** PRE-FLOP *** 
+ICE57710 folds
+MathisKcr folds
+Gregaldo calls 200
+_PHILimp_ folds
+DragonGris24 folds
+MG1917 checks
+*** FLOP *** [8h 9s Kc]
+MG1917 checks
+Gregaldo checks
+*** TURN *** [8h 9s Kc][6d]
+MG1917 checks
+Gregaldo checks
+*** RIVER *** [8h 9s Kc 6d][3s]
+MG1917 checks
+Gregaldo checks
+*** SHOW DOWN ***
+Gregaldo shows [2d 2s] (One pair : 2)
+MG1917 shows [Tc 9h] (One pair : 9)
+MG1917 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [8h 9s Kc 6d 3s]
+Seat 2: MG1917 (big blind) showed [Tc 9h] and won 650 with One pair : 9
+Seat 5: Gregaldo showed [2d 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-15-1774096979 - Holdem no limit (25/100/200) - 2026/03/21 12:42:59 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #1 is the button
+Seat 1: DragonGris24 (25307, 0.90€ bounty)
+Seat 2: MG1917 (21848, 0.90€ bounty)
+Seat 3: ICE57710 (28671, 0.90€ bounty)
+Seat 4: MathisKcr (11980, 0.90€ bounty)
+Seat 5: Gregaldo (19400, 0.90€ bounty)
+Seat 6: _PHILimp_ (13444, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MG1917 posts ante 25
+ICE57710 posts ante 25
+DragonGris24 posts ante 25
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+_PHILimp_ posts ante 25
+MG1917 posts small blind 100
+ICE57710 posts big blind 200
+Dealt to MathisKcr [7s 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 11755 to 11955 and is all-in
+Gregaldo folds
+_PHILimp_ folds
+DragonGris24 folds
+MG1917 folds
+ICE57710 folds
+MathisKcr collected 12405 from pot
+*** SUMMARY ***
+Total pot 12405 | No rake
+Seat 4: MathisKcr won 12405
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-16-1774096995 - Holdem no limit (25/100/200) - 2026/03/21 12:43:15 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #2 is the button
+Seat 1: DragonGris24 (25282, 0.90€ bounty)
+Seat 2: MG1917 (21723, 0.90€ bounty)
+Seat 3: ICE57710 (28446, 0.90€ bounty)
+Seat 4: MathisKcr (12405, 0.90€ bounty)
+Seat 5: Gregaldo (19375, 0.90€ bounty)
+Seat 6: _PHILimp_ (13419, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+Gregaldo posts ante 25
+_PHILimp_ posts ante 25
+ICE57710 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [4h Ad]
+*** PRE-FLOP *** 
+Gregaldo folds
+_PHILimp_ folds
+DragonGris24 raises 200 to 400
+MG1917 folds
+ICE57710 folds
+MathisKcr raises 11980 to 12380 and is all-in
+DragonGris24 calls 11980
+*** FLOP *** [Qc Ts 2s]
+*** TURN *** [Qc Ts 2s][7c]
+*** RIVER *** [Qc Ts 2s 7c][9d]
+*** SHOW DOWN ***
+DragonGris24 shows [5h Ac] (High card : Ace)
+MathisKcr shows [4h Ad] (High card : Ace)
+MathisKcr collected 12505 from pot
+DragonGris24 collected 12505 from pot
+*** SUMMARY ***
+Total pot 25010 | No rake
+Board: [Qc Ts 2s 7c 9d]
+Seat 1: DragonGris24 showed [5h Ac] and won 12505 with High card : Ace
+Seat 4: MathisKcr (big blind) showed [4h Ad] and won 12505 with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-17-1774097017 - Holdem no limit (25/100/200) - 2026/03/21 12:43:37 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #3 is the button
+Seat 1: DragonGris24 (25382, 0.90€ bounty)
+Seat 2: MG1917 (21698, 0.90€ bounty)
+Seat 3: ICE57710 (28321, 0.90€ bounty)
+Seat 4: MathisKcr (12505, 0.90€ bounty)
+Seat 5: Gregaldo (19350, 0.90€ bounty)
+Seat 6: _PHILimp_ (13394, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+DragonGris24 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+_PHILimp_ posts ante 25
+MathisKcr posts small blind 100
+Gregaldo posts big blind 200
+Dealt to MathisKcr [Kc 3h]
+*** PRE-FLOP *** 
+_PHILimp_ folds
+DragonGris24 folds
+MG1917 folds
+ICE57710 folds
+MathisKcr calls 100
+Gregaldo raises 500 to 700
+MathisKcr folds
+Gregaldo collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 5: Gregaldo (big blind) won 1050
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-18-1774097036 - Holdem no limit (25/100/200) - 2026/03/21 12:43:56 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #4 is the button
+Seat 2: MG1917 (21673, 0.90€ bounty)
+Seat 3: ICE57710 (28296, 0.90€ bounty)
+Seat 4: MathisKcr (12280, 0.90€ bounty)
+Seat 5: Gregaldo (19675, 0.90€ bounty)
+Seat 6: _PHILimp_ (13369, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Gregaldo posts ante 25
+_PHILimp_ posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Gregaldo posts small blind 100
+_PHILimp_ posts big blind 200
+Dealt to MathisKcr [Ah 2h]
+*** PRE-FLOP *** 
+MG1917 calls 200
+ICE57710 folds
+MathisKcr raises 400 to 600
+Gregaldo calls 500
+_PHILimp_ folds
+MG1917 calls 400
+*** FLOP *** [8d Ad 4c]
+Gregaldo checks
+MG1917 checks
+MathisKcr bets 744
+Gregaldo calls 744
+MG1917 folds
+*** TURN *** [8d Ad 4c][3c]
+Gregaldo checks
+MathisKcr bets 1265
+Gregaldo calls 1265
+*** RIVER *** [8d Ad 4c 3c][3s]
+Gregaldo checks
+MathisKcr bets 4914
+Gregaldo calls 4914
+*** SHOW DOWN ***
+MathisKcr shows [Ah 2h] (Two pairs : Aces and 3)
+Gregaldo shows [Js Ac] (Two pairs : Aces and 3)
+Gregaldo collected 15971 from pot
+*** SUMMARY ***
+Total pot 15971 | No rake
+Board: [8d Ad 4c 3c 3s]
+Seat 4: MathisKcr (button) showed [Ah 2h] and lost with Two pairs : Aces and 3
+Seat 5: Gregaldo (small blind) showed [Js Ac] and won 15971 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-19-1774097077 - Holdem no limit (25/100/200) - 2026/03/21 12:44:37 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #5 is the button
+Seat 2: MG1917 (21048, 0.90€ bounty)
+Seat 3: ICE57710 (28271, 0.90€ bounty)
+Seat 4: MathisKcr (4732, 0.90€ bounty)
+Seat 5: Gregaldo (28098, 0.90€ bounty)
+Seat 6: _PHILimp_ (13144, 0.90€ bounty)
+*** ANTE/BLINDS ***
+_PHILimp_ posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+_PHILimp_ posts small blind 100
+MG1917 posts big blind 200
+Dealt to MathisKcr [Kd Ac]
+*** PRE-FLOP *** 
+ICE57710 folds
+MathisKcr raises 200 to 400
+Gregaldo folds
+_PHILimp_ folds
+MG1917 calls 200
+*** FLOP *** [2c Td 7c]
+MG1917 checks
+MathisKcr bets 359
+MG1917 folds
+MathisKcr collected 1384 from pot
+*** SUMMARY ***
+Total pot 1384 | No rake
+Board: [2c Td 7c]
+Seat 4: MathisKcr won 1384
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-20-1774097095 - Holdem no limit (25/100/200) - 2026/03/21 12:44:55 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #6 is the button
+Seat 2: MG1917 (20623, 0.90€ bounty)
+Seat 3: ICE57710 (28246, 0.90€ bounty)
+Seat 4: MathisKcr (5332, 0.90€ bounty)
+Seat 5: Gregaldo (28073, 0.90€ bounty)
+Seat 6: _PHILimp_ (13019, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+_PHILimp_ posts ante 25
+MG1917 posts small blind 100
+ICE57710 posts big blind 200
+Dealt to MathisKcr [8d 9s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Gregaldo folds
+_PHILimp_ folds
+MG1917 folds
+ICE57710 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 3: ICE57710 (big blind) won 425
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-21-1774097104 - Holdem no limit (25/100/200) - 2026/03/21 12:45:04 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #2 is the button
+Seat 2: MG1917 (20498, 0.90€ bounty)
+Seat 3: ICE57710 (28446, 0.90€ bounty)
+Seat 4: MathisKcr (5307, 0.90€ bounty)
+Seat 5: Gregaldo (28048, 0.90€ bounty)
+Seat 6: _PHILimp_ (12994, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+MG1917 posts ante 25
+Gregaldo posts ante 25
+_PHILimp_ posts ante 25
+ICE57710 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [2h 6d]
+*** PRE-FLOP *** 
+Gregaldo folds
+_PHILimp_ calls 200
+MG1917 folds
+ICE57710 calls 100
+MathisKcr checks
+*** FLOP *** [4s Ts Qh]
+ICE57710 checks
+MathisKcr checks
+_PHILimp_ checks
+*** TURN *** [4s Ts Qh][6h]
+ICE57710 checks
+MathisKcr bets 800
+_PHILimp_ folds
+ICE57710 folds
+MathisKcr collected 1525 from pot
+*** SUMMARY ***
+Total pot 1525 | No rake
+Board: [4s Ts Qh 6h]
+Seat 4: MathisKcr (big blind) won 1525
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-22-1774097167 - Holdem no limit (25/100/200) - 2026/03/21 12:46:07 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #3 is the button
+Seat 2: MG1917 (20473, 0.90€ bounty)
+Seat 3: ICE57710 (28221, 0.90€ bounty)
+Seat 4: MathisKcr (5807, 0.90€ bounty)
+Seat 5: Gregaldo (28023, 0.90€ bounty)
+Seat 6: _PHILimp_ (12769, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+_PHILimp_ posts ante 25
+MathisKcr posts small blind 100
+Gregaldo posts big blind 200
+Dealt to MathisKcr [3s 5d]
+*** PRE-FLOP *** 
+_PHILimp_ folds
+MG1917 folds
+ICE57710 raises 200 to 400
+MathisKcr folds
+Gregaldo folds
+ICE57710 collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Seat 3: ICE57710 (button) won 825
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-23-1774097184 - Holdem no limit (25/100/200) - 2026/03/21 12:46:24 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #4 is the button
+Seat 2: MG1917 (20448, 0.90€ bounty)
+Seat 3: ICE57710 (28621, 0.90€ bounty)
+Seat 4: MathisKcr (5682, 0.90€ bounty)
+Seat 5: Gregaldo (27798, 0.90€ bounty)
+Seat 6: _PHILimp_ (12744, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Gregaldo posts ante 25
+_PHILimp_ posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Gregaldo posts small blind 100
+_PHILimp_ posts big blind 200
+Dealt to MathisKcr [4c Jh]
+*** PRE-FLOP *** 
+MG1917 calls 200
+ICE57710 folds
+MathisKcr folds
+Gregaldo folds
+_PHILimp_ checks
+*** FLOP *** [Ad Qh 9c]
+_PHILimp_ checks
+MG1917 bets 625
+_PHILimp_ folds
+MG1917 collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Board: [Ad Qh 9c]
+Seat 2: MG1917 won 1250
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-24-1774097209 - Holdem no limit (25/100/200) - 2026/03/21 12:46:49 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #5 is the button
+Seat 1: GEGE54 (20000, 0.90€ bounty)
+Seat 2: MG1917 (20848, 0.90€ bounty)
+Seat 3: ICE57710 (28596, 0.90€ bounty)
+Seat 4: MathisKcr (5657, 0.90€ bounty)
+Seat 5: Gregaldo (27673, 0.90€ bounty)
+Seat 6: _PHILimp_ (12519, 0.90€ bounty)
+*** ANTE/BLINDS ***
+_PHILimp_ posts ante 25
+GEGE54 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+_PHILimp_ posts small blind 100
+GEGE54 posts big blind 200
+Dealt to MathisKcr [3s Ad]
+*** PRE-FLOP *** 
+MG1917 folds
+ICE57710 folds
+MathisKcr raises 400 to 600
+Gregaldo folds
+_PHILimp_ folds
+GEGE54 calls 400
+*** FLOP *** [Ac 7d 5c]
+GEGE54 checks
+MathisKcr bets 508
+GEGE54 calls 508
+*** TURN *** [Ac 7d 5c][2d]
+GEGE54 checks
+MathisKcr checks
+*** RIVER *** [Ac 7d 5c 2d][9d]
+GEGE54 checks
+MathisKcr bets 4524 and is all-in
+GEGE54 folds
+MathisKcr collected 6990 from pot
+*** SUMMARY ***
+Total pot 6990 | No rake
+Board: [Ac 7d 5c 2d 9d]
+Seat 4: MathisKcr won 6990
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-25-1774097273 - Holdem no limit (25/100/200) - 2026/03/21 12:47:53 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #6 is the button
+Seat 1: GEGE54 (18867, 0.90€ bounty)
+Seat 2: MG1917 (20823, 0.90€ bounty)
+Seat 3: ICE57710 (28571, 0.90€ bounty)
+Seat 4: MathisKcr (6990, 0.90€ bounty)
+Seat 5: Gregaldo (27648, 0.90€ bounty)
+Seat 6: _PHILimp_ (12394, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GEGE54 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+_PHILimp_ posts ante 25
+GEGE54 posts small blind 100
+MG1917 posts big blind 200
+Dealt to MathisKcr [Qd 2d]
+*** PRE-FLOP *** 
+ICE57710 folds
+MathisKcr folds
+Gregaldo folds
+_PHILimp_ raises 650 to 850
+GEGE54 folds
+MG1917 folds
+_PHILimp_ collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 6: _PHILimp_ (button) won 1300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-26-1774097298 - Holdem no limit (25/100/200) - 2026/03/21 12:48:18 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #1 is the button
+Seat 1: GEGE54 (18742, 0.90€ bounty)
+Seat 2: MG1917 (20598, 0.90€ bounty)
+Seat 3: ICE57710 (28546, 0.90€ bounty)
+Seat 4: MathisKcr (6965, 0.90€ bounty)
+Seat 5: Gregaldo (27623, 0.90€ bounty)
+Seat 6: _PHILimp_ (12819, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MG1917 posts ante 25
+ICE57710 posts ante 25
+GEGE54 posts ante 25
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+_PHILimp_ posts ante 25
+MG1917 posts small blind 100
+ICE57710 posts big blind 200
+Dealt to MathisKcr [3h 7d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Gregaldo folds
+_PHILimp_ calls 200
+GEGE54 calls 200
+MG1917 raises 300 to 500
+ICE57710 folds
+_PHILimp_ calls 300
+GEGE54 folds
+*** FLOP *** [7c 7h 3d]
+MG1917 checks
+_PHILimp_ bets 1550
+MG1917 folds
+_PHILimp_ shows [4s 4h] (Two pairs : 7 and 4)
+_PHILimp_ collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Board: [7c 7h 3d]
+Seat 6: _PHILimp_ showed [4s 4h] and won 3100 with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-27-1774097374 - Holdem no limit (25/100/200) - 2026/03/21 12:49:34 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #2 is the button
+Seat 1: GEGE54 (18517, 0.90€ bounty)
+Seat 2: MG1917 (20073, 0.90€ bounty)
+Seat 3: ICE57710 (28321, 0.90€ bounty)
+Seat 4: MathisKcr (6940, 0.90€ bounty)
+Seat 5: Gregaldo (27598, 0.90€ bounty)
+Seat 6: _PHILimp_ (13844, 0.90€ bounty)
+*** ANTE/BLINDS ***
+ICE57710 posts ante 25
+MathisKcr posts ante 25
+GEGE54 posts ante 25
+MG1917 posts ante 25
+Gregaldo posts ante 25
+_PHILimp_ posts ante 25
+ICE57710 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [6s 9c]
+*** PRE-FLOP *** 
+Gregaldo folds
+_PHILimp_ folds
+GEGE54 folds
+MG1917 calls 200
+ICE57710 calls 100
+MathisKcr checks
+*** FLOP *** [8d 5h Qs]
+ICE57710 bets 263
+MathisKcr calls 263
+MG1917 raises 1539 to 1802
+ICE57710 calls 1539
+MathisKcr folds
+*** TURN *** [8d 5h Qs][9s]
+ICE57710 checks
+MG1917 bets 2309
+ICE57710 calls 2309
+*** RIVER *** [8d 5h Qs 9s][Kc]
+ICE57710 checks
+MG1917 bets 15737 and is all-in
+ICE57710 folds
+MG1917 collected 24972 from pot
+*** SUMMARY ***
+Total pot 24972 | No rake
+Board: [8d 5h Qs 9s Kc]
+Seat 2: MG1917 (button) won 24972
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4581544775462682625-28-1774097422 - Holdem no limit (25/100/200) - 2026/03/21 12:50:22 UTC
+Table: 'Kill The Fish(1066724019)#000' 6-max (real money) Seat #3 is the button
+Seat 1: GEGE54 (18492, 0.90€ bounty)
+Seat 2: MG1917 (24972, 0.90€ bounty)
+Seat 3: ICE57710 (23985, 0.90€ bounty)
+Seat 4: MathisKcr (6452, 0.90€ bounty)
+Seat 5: Gregaldo (27573, 0.90€ bounty)
+Seat 6: _PHILimp_ (13819, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+Gregaldo posts ante 25
+GEGE54 posts ante 25
+MG1917 posts ante 25
+ICE57710 posts ante 25
+_PHILimp_ posts ante 25
+MathisKcr posts small blind 100
+Gregaldo posts big blind 200
+Dealt to MathisKcr [9s 7c]
+*** PRE-FLOP *** 
+_PHILimp_ folds
+GEGE54 folds
+MG1917 folds
+ICE57710 raises 200 to 400
+MathisKcr raises 6027 to 6427 and is all-in
+Gregaldo folds
+ICE57710 calls 6027
+*** FLOP *** [4d 2s 6c]
+*** TURN *** [4d 2s 6c][4s]
+*** RIVER *** [4d 2s 6c 4s][5d]
+*** SHOW DOWN ***
+MathisKcr shows [9s 7c] (One pair : 4)
+ICE57710 shows [Ah Qh] (One pair : 4)
+ICE57710 collected 13204 from pot
+*** SUMMARY ***
+Total pot 13204 | No rake
+Board: [4d 2s 6c 4s 5d]
+Seat 3: ICE57710 (button) showed [Ah Qh] and won 13204 with One pair : 4
+Seat 4: MathisKcr (small blind) showed [9s 7c] and lost with One pair : 4
+
+

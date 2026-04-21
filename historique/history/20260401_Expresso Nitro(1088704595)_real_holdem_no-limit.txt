@@ -1,0 +1,108 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675950630529925121-1-1775074031 - Holdem no limit (10/20) - 2026/04/01 20:07:11 UTC
+Table: 'Expresso Nitro(1088704595)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sayok (300)
+Seat 2: Floooo68 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Sayok posts big blind 20
+Dealt to MathisKcr [8s Th]
+*** PRE-FLOP *** 
+Floooo68 raises 30 to 50
+MathisKcr folds
+Sayok calls 30
+*** FLOP *** [4c 2s 4d]
+Sayok checks
+Floooo68 checks
+*** TURN *** [4c 2s 4d][Jd]
+Sayok checks
+Floooo68 bets 39
+Sayok folds
+Floooo68 collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [4c 2s 4d Jd]
+Seat 2: Floooo68 (button) won 149
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675950630529925121-2-1775074061 - Holdem no limit (10/20) - 2026/04/01 20:07:41 UTC
+Table: 'Expresso Nitro(1088704595)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sayok (250)
+Seat 2: Floooo68 (360)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Sayok posts small blind 10
+Floooo68 posts big blind 20
+Dealt to MathisKcr [2s 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sayok raises 230 to 250 and is all-in
+Floooo68 folds
+Sayok collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 1: Sayok (small blind) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675950630529925121-3-1775074070 - Holdem no limit (10/20) - 2026/04/01 20:07:50 UTC
+Table: 'Expresso Nitro(1088704595)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sayok (270)
+Seat 2: Floooo68 (340)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Floooo68 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6h Ad]
+*** PRE-FLOP *** 
+Sayok raises 250 to 270 and is all-in
+Floooo68 folds
+MathisKcr calls 250
+*** FLOP *** [Kd 9h Js]
+*** TURN *** [Kd 9h Js][2h]
+*** RIVER *** [Kd 9h Js 2h][5d]
+*** SHOW DOWN ***
+MathisKcr shows [6h Ad] (High card : Ace)
+Sayok shows [2d Ah] (One pair : 2)
+Sayok collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Kd 9h Js 2h 5d]
+Seat 1: Sayok (button) showed [2d Ah] and won 550 with One pair : 2
+Seat 3: MathisKcr (big blind) showed [6h Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675950630529925121-4-1775074092 - Holdem no limit (15/30) - 2026/04/01 20:08:12 UTC
+Table: 'Expresso Nitro(1088704595)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sayok (550)
+Seat 2: Floooo68 (330)
+Seat 3: MathisKcr (20)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Sayok posts big blind 30
+Dealt to MathisKcr [Ad 4h]
+*** PRE-FLOP *** 
+Floooo68 raises 60 to 90
+MathisKcr calls 5 and is all-in
+Sayok calls 60
+*** FLOP *** [5d 8s Jd]
+Sayok checks
+Floooo68 bets 70
+Sayok calls 70
+*** TURN *** [5d 8s Jd][3d]
+Sayok checks
+Floooo68 bets 170 and is all-in
+Sayok calls 170
+*** RIVER *** [5d 8s Jd 3d][8h]
+*** SHOW DOWN ***
+Floooo68 shows [Qd Qs] (Two pairs : Queens and 8)
+MathisKcr shows [Ad 4h] (One pair : 8)
+Sayok shows [Td 9d] (Flush Jack high)
+Sayok collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [5d 8s Jd 3d 8h]
+Seat 1: Sayok (big blind) showed [Td 9d] and won 680 with Flush Jack high
+Seat 2: Floooo68 (button) showed [Qd Qs] and lost with Two pairs : Queens and 8
+Seat 3: MathisKcr (small blind) showed [Ad 4h] and lost with One pair : 8
+
+

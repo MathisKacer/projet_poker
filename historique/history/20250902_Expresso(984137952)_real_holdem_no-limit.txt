@@ -1,0 +1,117 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226840318592417793-1-1756802411 - Holdem no limit (10/20) - 2025/09/02 08:40:11 UTC
+Table: 'Expresso(984137952)#0' 3-max (real money) Seat #2 is the button
+Seat 1: rdmc (500)
+Seat 2: MathisKcr (500)
+Seat 3: iYoshimitsu (500)
+*** ANTE/BLINDS ***
+iYoshimitsu posts small blind 10
+rdmc posts big blind 20
+Dealt to MathisKcr [Ks 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+iYoshimitsu calls 30
+rdmc calls 20
+*** FLOP *** [7s 8d 8c]
+iYoshimitsu bets 20
+rdmc folds
+MathisKcr raises 440 to 460 and is all-in
+iYoshimitsu folds
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7s 8d 8c]
+Seat 2: MathisKcr (button) won 600
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226840318592417793-2-1756802453 - Holdem no limit (10/20) - 2025/09/02 08:40:53 UTC
+Table: 'Expresso(984137952)#0' 3-max (real money) Seat #3 is the button
+Seat 1: rdmc (460)
+Seat 2: MathisKcr (600)
+Seat 3: iYoshimitsu (440)
+*** ANTE/BLINDS ***
+rdmc posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd Jh]
+*** PRE-FLOP *** 
+iYoshimitsu calls 20
+rdmc calls 10
+MathisKcr raises 40 to 60
+iYoshimitsu folds
+rdmc calls 40
+*** FLOP *** [6h Js 2c]
+rdmc bets 49
+MathisKcr raises 89 to 138
+rdmc calls 89
+*** TURN *** [6h Js 2c][Qs]
+rdmc bets 20
+MathisKcr raises 382 to 402 and is all-in
+rdmc folds
+MathisKcr collected 838 from pot
+*** SUMMARY ***
+Total pot 838 | No rake
+Board: [6h Js 2c Qs]
+Seat 2: MathisKcr (big blind) won 838
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226840318592417793-3-1756802491 - Holdem no limit (10/20) - 2025/09/02 08:41:31 UTC
+Table: 'Expresso(984137952)#0' 3-max (real money) Seat #1 is the button
+Seat 1: rdmc (242)
+Seat 2: MathisKcr (838)
+Seat 3: iYoshimitsu (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+iYoshimitsu posts big blind 20
+Dealt to MathisKcr [Kd Td]
+*** PRE-FLOP *** 
+rdmc calls 20
+MathisKcr raises 40 to 60
+iYoshimitsu raises 40 to 100
+rdmc calls 80
+MathisKcr calls 40
+*** FLOP *** [6c 3h 4s]
+MathisKcr checks
+iYoshimitsu bets 105
+rdmc calls 105
+MathisKcr folds
+*** TURN *** [6c 3h 4s][3c]
+iYoshimitsu bets 215 and is all-in
+rdmc calls 37 and is all-in
+*** RIVER *** [6c 3h 4s 3c][As]
+*** SHOW DOWN ***
+rdmc shows [Kc 7d] (One pair : 3)
+iYoshimitsu shows [Ks Ad] (Two pairs : Aces and 3)
+iYoshimitsu collected 762 from pot
+*** SUMMARY ***
+Total pot 762 | No rake
+Board: [6c 3h 4s 3c As]
+Seat 1: rdmc (button) showed [Kc 7d] and lost with One pair : 3
+Seat 3: iYoshimitsu (big blind) showed [Ks Ad] and won 762 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226840318592417793-4-1756802545 - Holdem no limit (15/30) - 2025/09/02 08:42:25 UTC
+Table: 'Expresso(984137952)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (738)
+Seat 3: iYoshimitsu (762)
+*** ANTE/BLINDS ***
+iYoshimitsu posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6d 6s]
+*** PRE-FLOP *** 
+iYoshimitsu raises 30 to 60
+MathisKcr raises 30 to 90
+iYoshimitsu raises 672 to 762 and is all-in
+MathisKcr calls 648 and is all-in
+*** FLOP *** [Qs 8s Th]
+*** TURN *** [Qs 8s Th][Jc]
+*** RIVER *** [Qs 8s Th Jc][Qc]
+*** SHOW DOWN ***
+MathisKcr shows [6d 6s] (Two pairs : Queens and 6)
+iYoshimitsu shows [8c 8h] (Full of 8 and Queens)
+iYoshimitsu collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Qs 8s Th Jc Qc]
+Seat 2: MathisKcr (big blind) showed [6d 6s] and lost with Two pairs : Queens and 6
+Seat 3: iYoshimitsu (small blind) (button) showed [8c 8h] and won 1500 with Full of 8 and Queens
+
+

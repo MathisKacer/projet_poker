@@ -1,0 +1,64 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4684007353522061313-1-1775384234 - Holdem no limit (10/20) - 2026/04/05 10:17:14 UTC
+Table: 'Expresso Nitro(1090580447)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Brabus08 (300)
+Seat 2: Vert Lampion (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Vert Lampion posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jc 5c]
+*** PRE-FLOP *** 
+Brabus08 raises 280 to 300 and is all-in
+Vert Lampion folds
+MathisKcr folds
+Brabus08 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Brabus08 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4684007353522061313-2-1775384298 - Holdem no limit (15/30) - 2026/04/05 10:18:18 UTC
+Table: 'Expresso Nitro(1090580447)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Brabus08 (330)
+Seat 2: Vert Lampion (290)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Brabus08 posts big blind 30
+Dealt to MathisKcr [6h 9c]
+*** PRE-FLOP *** 
+Vert Lampion folds
+MathisKcr folds
+Brabus08 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Brabus08 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4684007353522061313-3-1775384308 - Holdem no limit (15/30) - 2026/04/05 10:18:28 UTC
+Table: 'Expresso Nitro(1090580447)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Brabus08 (345)
+Seat 2: Vert Lampion (290)
+Seat 3: MathisKcr (265)
+*** ANTE/BLINDS ***
+Brabus08 posts small blind 15
+Vert Lampion posts big blind 30
+Dealt to MathisKcr [9h As]
+*** PRE-FLOP *** 
+MathisKcr raises 235 to 265 and is all-in
+Brabus08 raises 80 to 345 and is all-in
+Vert Lampion folds
+*** FLOP *** [Qc 4c 3d]
+*** TURN *** [Qc 4c 3d][3h]
+*** RIVER *** [Qc 4c 3d 3h][6d]
+*** SHOW DOWN ***
+MathisKcr shows [9h As] (One pair : 3)
+Brabus08 shows [Jd Js] (Two pairs : Jacks and 3)
+Brabus08 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Qc 4c 3d 3h 6d]
+Seat 1: Brabus08 (small blind) showed [Jd Js] and won 640 with Two pairs : Jacks and 3
+Seat 3: MathisKcr (button) showed [9h As] and lost with One pair : 3
+
+

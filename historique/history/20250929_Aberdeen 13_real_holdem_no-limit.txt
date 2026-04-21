@@ -1,0 +1,782 @@
+Winamax Poker - CashGame - HandId: #21515784-16-1759174297 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:31:37 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #1 is the button
+Seat 1: Incognito 1 (2.83€)
+Seat 2: Incognito 2 (1.79€)
+Seat 4: MathisKcr (2€)
+Seat 5: Incognito 5 (1.99€)
+*** ANTE/BLINDS ***
+Incognito 2 posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [2c 8h]
+*** PRE-FLOP *** 
+Incognito 5 folds
+Incognito 1 calls 0.02€
+Incognito 2 calls 0.01€
+MathisKcr checks
+*** FLOP *** [Ad 8s 9s]
+Incognito 2 checks
+MathisKcr bets 0.04€
+Incognito 1 calls 0.04€
+Incognito 2 folds
+*** TURN *** [Ad 8s 9s][3c]
+MathisKcr checks
+Incognito 1 bets 0.11€
+MathisKcr calls 0.11€
+*** RIVER *** [Ad 8s 9s 3c][As]
+MathisKcr checks
+Incognito 1 bets 0.29€
+MathisKcr calls 0.29€
+*** SHOW DOWN ***
+MathisKcr shows [2c 8h] (Two pairs : Aces and 8)
+Incognito 1 shows [Ac 5d] (Trips of Aces)
+Incognito 1 collected 0.89€ from pot
+*** SUMMARY ***
+Total pot 0.89€ | Rake 0.05€
+Board: [Ad 8s 9s 3c As]
+Seat 1: Incognito 1 (button) showed [Ac 5d] and won 0.89€ with Trips of Aces
+Seat 4: MathisKcr (big blind) showed [2c 8h] and lost with Two pairs : Aces and 8
+
+
+Winamax Poker - CashGame - HandId: #21515784-17-1759174359 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:32:39 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #2 is the button
+Seat 1: Incognito 1 (3.26€)
+Seat 2: Incognito 2 (1.77€)
+Seat 3: Incognito 3 (2€)
+Seat 4: MathisKcr (1.54€)
+Seat 5: Incognito 5 (1.99€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+Incognito 5 posts big blind 0.02€
+Dealt to MathisKcr [3c 6d]
+*** PRE-FLOP *** 
+Incognito 1 folds
+Incognito 2 calls 0.02€
+MathisKcr calls 0.01€
+Incognito 5 checks
+*** FLOP *** [4h 3h Ts]
+MathisKcr checks
+Incognito 5 checks
+Incognito 2 checks
+*** TURN *** [4h 3h Ts][6h]
+MathisKcr checks
+Incognito 5 checks
+Incognito 2 checks
+*** RIVER *** [4h 3h Ts 6h][7s]
+MathisKcr checks
+Incognito 5 checks
+Incognito 2 bets 0.04€
+MathisKcr calls 0.04€
+Incognito 5 folds
+*** SHOW DOWN ***
+MathisKcr shows [3c 6d] (Two pairs : 6 and 3)
+Incognito 2 shows [8c 5h] (Straight 8 high)
+Incognito 2 collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | Rake 0.01€
+Board: [4h 3h Ts 6h 7s]
+Seat 2: Incognito 2 (button) showed [8c 5h] and won 0.13€ with Straight 8 high
+Seat 4: MathisKcr (small blind) showed [3c 6d] and lost with Two pairs : 6 and 3
+
+
+Winamax Poker - CashGame - HandId: #21515784-18-1759174432 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:33:52 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #4 is the button
+Seat 2: Incognito 2 (1.84€)
+Seat 3: Incognito 3 (2€)
+Seat 4: MathisKcr (1.48€)
+Seat 5: Incognito 5 (1.97€)
+*** ANTE/BLINDS ***
+Incognito 5 posts small blind 0.01€
+Incognito 2 posts big blind 0.02€
+Incognito 3 posts big blind 0.02€ out of position
+Dealt to MathisKcr [4c 4s]
+*** PRE-FLOP *** 
+Incognito 3 checks
+MathisKcr raises 0.06€ to 0.08€
+Incognito 5 folds
+Incognito 2 folds
+Incognito 3 calls 0.06€
+*** FLOP *** [5h Qc Ts]
+Incognito 3 checks
+MathisKcr checks
+*** TURN *** [5h Qc Ts][9h]
+Incognito 3 checks
+MathisKcr bets 0.04€
+Incognito 3 raises 0.07€ to 0.11€
+MathisKcr folds
+Incognito 3 collected 0.32€ from pot
+*** SUMMARY ***
+Total pot 0.32€ | Rake 0.02€
+Board: [5h Qc Ts 9h]
+Seat 3: Incognito 3 won 0.32€
+
+
+Winamax Poker - CashGame - HandId: #21515784-19-1759174468 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:34:28 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #5 is the button
+Seat 1: Incognito 1 (1€)
+Seat 2: Incognito 2 (1.82€)
+Seat 3: Incognito 3 (2.13€)
+Seat 4: MathisKcr (1.36€)
+Seat 5: Incognito 5 (1.96€)
+*** ANTE/BLINDS ***
+Incognito 2 posts small blind 0.01€
+Incognito 3 posts big blind 0.02€
+Dealt to MathisKcr [Jh Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 0.04€ to 0.06€
+Incognito 5 folds
+Incognito 2 folds
+Incognito 3 calls 0.04€
+*** FLOP *** [7s 9h 5s]
+Incognito 3 checks
+MathisKcr bets 0.06€
+Incognito 3 calls 0.06€
+*** TURN *** [7s 9h 5s][5h]
+Incognito 3 checks
+MathisKcr bets 0.10€
+Incognito 3 calls 0.10€
+*** RIVER *** [7s 9h 5s 5h][3h]
+Incognito 3 bets 0.16€
+MathisKcr calls 0.16€
+*** SHOW DOWN ***
+Incognito 3 shows [Qd 6c] (One pair : 5)
+MathisKcr shows [Jh Ks] (One pair : 5)
+MathisKcr collected 0.73€ from pot
+*** SUMMARY ***
+Total pot 0.73€ | Rake 0.04€
+Board: [7s 9h 5s 5h 3h]
+Seat 3: Incognito 3 (big blind) showed [Qd 6c] and lost with One pair : 5
+Seat 4: MathisKcr showed [Jh Ks] and won 0.73€ with One pair : 5
+
+
+Winamax Poker - CashGame - HandId: #21515784-20-1759174493 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:34:53 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #2 is the button
+Seat 1: Incognito 1 (1€)
+Seat 2: Incognito 2 (1.81€)
+Seat 3: Incognito 3 (1.75€)
+Seat 4: MathisKcr (1.71€)
+Seat 5: Incognito 5 (1.96€)
+*** ANTE/BLINDS ***
+Incognito 3 posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Incognito 1 posts big blind 0.02€ out of position
+Dealt to MathisKcr [Qc 4d]
+*** PRE-FLOP *** 
+Incognito 5 raises 0.04€ to 0.06€
+Incognito 1 folds
+Incognito 2 folds
+Incognito 3 calls 0.05€
+MathisKcr calls 0.04€
+*** FLOP *** [Ac Kc Jc]
+Incognito 3 checks
+MathisKcr checks
+Incognito 5 checks
+*** TURN *** [Ac Kc Jc][5d]
+Incognito 3 bets 0.02€
+MathisKcr raises 0.04€ to 0.06€
+Incognito 5 folds
+Incognito 3 folds
+MathisKcr collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | Rake 0.01€
+Board: [Ac Kc Jc 5d]
+Seat 4: MathisKcr (big blind) won 0.27€
+
+
+Winamax Poker - CashGame - HandId: #21515784-21-1759174558 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:35:58 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #3 is the button
+Seat 1: Incognito 1 (0.98€)
+Seat 2: Incognito 2 (1.81€)
+Seat 3: Incognito 3 (1.67€)
+Seat 4: MathisKcr (1.86€)
+Seat 5: Incognito 5 (1.90€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+Incognito 5 posts big blind 0.02€
+Dealt to MathisKcr [5s Qh]
+*** PRE-FLOP *** 
+Incognito 1 raises 0.02€ to 0.04€
+Incognito 2 folds
+Incognito 3 raises 0.11€ to 0.15€
+MathisKcr folds
+Incognito 5 folds
+Incognito 1 calls 0.11€
+*** FLOP *** [3s Ks 4s]
+Incognito 1 bets 0.17€
+Incognito 3 folds
+Incognito 1 collected 0.48€ from pot
+*** SUMMARY ***
+Total pot 0.48€ | Rake 0.02€
+Board: [3s Ks 4s]
+Seat 1: Incognito 1 won 0.48€
+
+
+Winamax Poker - CashGame - HandId: #21515784-22-1759174592 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:36:32 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #4 is the button
+Seat 1: Incognito 1 (1.14€)
+Seat 2: Incognito 2 (1.81€)
+Seat 3: Incognito 3 (1.52€)
+Seat 4: MathisKcr (1.85€)
+Seat 5: Incognito 5 (1.88€)
+*** ANTE/BLINDS ***
+Incognito 5 posts small blind 0.01€
+Incognito 1 posts big blind 0.02€
+Dealt to MathisKcr [4s 9c]
+*** PRE-FLOP *** 
+Incognito 2 raises 0.02€ to 0.04€
+Incognito 3 raises 0.11€ to 0.15€
+MathisKcr folds
+Incognito 5 folds
+Incognito 1 folds
+Incognito 2 folds
+Incognito 3 collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | No rake
+Seat 3: Incognito 3 won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #21515784-23-1759174611 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:36:51 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #5 is the button
+Seat 1: Incognito 1 (1.12€)
+Seat 2: Incognito 2 (1.77€)
+Seat 3: Incognito 3 (1.59€)
+Seat 4: MathisKcr (1.85€)
+Seat 5: Incognito 5 (1.87€)
+*** ANTE/BLINDS ***
+Incognito 1 posts small blind 0.01€
+Incognito 2 posts big blind 0.02€
+Dealt to MathisKcr [7h Ac]
+*** PRE-FLOP *** 
+Incognito 3 folds
+MathisKcr raises 0.02€ to 0.04€
+Incognito 5 calls 0.04€
+Incognito 1 folds
+Incognito 2 calls 0.02€
+*** FLOP *** [3d 3c Jc]
+Incognito 2 checks
+MathisKcr bets 0.06€
+Incognito 5 folds
+Incognito 2 calls 0.06€
+*** TURN *** [3d 3c Jc][8d]
+Incognito 2 checks
+MathisKcr checks
+*** RIVER *** [3d 3c Jc 8d][2s]
+Incognito 2 checks
+MathisKcr checks
+*** SHOW DOWN ***
+Incognito 2 shows [Tc Kc] (One pair : 3)
+MathisKcr shows [7h Ac] (One pair : 3)
+MathisKcr collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.01€
+Board: [3d 3c Jc 8d 2s]
+Seat 2: Incognito 2 (big blind) showed [Tc Kc] and lost with One pair : 3
+Seat 4: MathisKcr showed [7h Ac] and won 0.24€ with One pair : 3
+
+
+Winamax Poker - CashGame - HandId: #21515784-24-1759174657 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:37:37 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #1 is the button
+Seat 1: Incognito 1 (1.11€)
+Seat 2: Incognito 2 (1.67€)
+Seat 3: Incognito 3 (1.59€)
+Seat 4: MathisKcr (1.99€)
+Seat 5: Incognito 5 (1.83€)
+*** ANTE/BLINDS ***
+Incognito 2 posts small blind 0.01€
+Incognito 3 posts big blind 0.02€
+Dealt to MathisKcr [9h Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 0.04€ to 0.06€
+Incognito 5 folds
+Incognito 1 folds
+Incognito 2 folds
+Incognito 3 calls 0.04€
+*** FLOP *** [8h 6h 8c]
+Incognito 3 checks
+MathisKcr bets 0.08€
+Incognito 3 calls 0.08€
+*** TURN *** [8h 6h 8c][3h]
+Incognito 3 checks
+MathisKcr checks
+*** RIVER *** [8h 6h 8c 3h][Kh]
+Incognito 3 bets 0.19€
+MathisKcr raises 1.66€ to 1.85€ and is all-in
+Incognito 3 calls 1.26€ and is all-in
+*** SHOW DOWN ***
+Incognito 3 shows [7d 5h] (Flush King high)
+MathisKcr shows [9h Ah] (Flush Ace high)
+MathisKcr collected 3.41€ from pot
+*** SUMMARY ***
+Total pot 3.41€ | Rake 0.18€
+Board: [8h 6h 8c 3h Kh]
+Seat 3: Incognito 3 (big blind) showed [7d 5h] and lost with Flush King high
+Seat 4: MathisKcr showed [9h Ah] and won 3.41€ with Flush Ace high
+
+
+Winamax Poker - CashGame - HandId: #21515784-25-1759174710 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:38:30 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #2 is the button
+Seat 2: Incognito 2 (1.66€)
+Seat 4: MathisKcr (3.41€)
+Seat 5: Incognito 5 (1.83€)
+*** ANTE/BLINDS ***
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [7d 4c]
+*** PRE-FLOP *** 
+Incognito 5 folds
+Incognito 2 calls 0.02€
+MathisKcr checks
+*** FLOP *** [Qs 4s 6s]
+MathisKcr bets 0.04€
+Incognito 2 calls 0.04€
+*** TURN *** [Qs 4s 6s][3s]
+MathisKcr checks
+Incognito 2 bets 0.08€
+MathisKcr folds
+Incognito 2 collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [Qs 4s 6s 3s]
+Seat 2: Incognito 2 (button) won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #21515784-26-1759174729 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:38:49 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #3 is the button
+Seat 2: Incognito 2 (1.71€)
+Seat 4: MathisKcr (3.35€)
+Seat 5: Incognito 5 (1.83€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+Incognito 5 posts big blind 0.02€
+Dealt to MathisKcr [4c 4d]
+*** PRE-FLOP *** 
+Incognito 2 folds
+MathisKcr raises 0.06€ to 0.08€
+Incognito 5 folds
+MathisKcr collected 0.10€ from pot
+*** SUMMARY ***
+Total pot 0.10€ | No rake
+Seat 4: MathisKcr (small blind) won 0.10€
+
+
+Winamax Poker - CashGame - HandId: #21515784-27-1759174753 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:39:13 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #4 is the button
+Seat 2: Incognito 2 (1.71€)
+Seat 4: MathisKcr (3.37€)
+Seat 5: Incognito 5 (1.81€)
+*** ANTE/BLINDS ***
+Incognito 5 posts small blind 0.01€
+Incognito 2 posts big blind 0.02€
+Dealt to MathisKcr [4h Qd]
+*** PRE-FLOP *** 
+MathisKcr calls 0.02€
+Incognito 5 folds
+Incognito 2 checks
+*** FLOP *** [4s 4c 9s]
+Incognito 2 checks
+MathisKcr bets 0.04€
+Incognito 2 folds
+MathisKcr collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Board: [4s 4c 9s]
+Seat 4: MathisKcr (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #21515784-28-1759174780 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:39:40 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #5 is the button
+Seat 1: Incognito 1 (0€)
+Seat 2: Incognito 2 (1.69€)
+Seat 4: MathisKcr (3.40€)
+Seat 5: Incognito 5 (1.80€)
+*** ANTE/BLINDS ***
+Incognito 2 posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [Kc 2d]
+*** PRE-FLOP *** 
+Incognito 5 folds
+Incognito 2 calls 0.01€
+MathisKcr checks
+*** FLOP *** [3c 8s As]
+Incognito 2 bets 0.02€
+MathisKcr calls 0.02€
+*** TURN *** [3c 8s As][Tc]
+Incognito 2 bets 0.04€
+MathisKcr folds
+Incognito 2 collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Board: [3c 8s As Tc]
+Seat 2: Incognito 2 (small blind) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #21515784-29-1759174801 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:40:01 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #2 is the button
+Seat 2: Incognito 2 (1.73€)
+Seat 4: MathisKcr (3.36€)
+Seat 5: Incognito 5 (1.80€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+Incognito 5 posts big blind 0.02€
+Dealt to MathisKcr [Qs 6s]
+*** PRE-FLOP *** 
+Incognito 2 folds
+MathisKcr raises 0.02€ to 0.04€
+Incognito 5 calls 0.02€
+*** FLOP *** [8s 4c 4d]
+MathisKcr checks
+Incognito 5 bets 0.05€
+MathisKcr calls 0.05€
+*** TURN *** [8s 4c 4d][Kh]
+MathisKcr checks
+Incognito 5 bets 0.12€
+MathisKcr folds
+Incognito 5 collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.29€ | Rake 0.01€
+Board: [8s 4c 4d Kh]
+Seat 5: Incognito 5 (big blind) won 0.29€
+
+
+Winamax Poker - CashGame - HandId: #21515784-30-1759174834 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:40:34 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #4 is the button
+Seat 2: Incognito 2 (1.73€)
+Seat 3: Incognito 3 (0.50€)
+Seat 4: MathisKcr (3.27€)
+Seat 5: Incognito 5 (1.88€)
+*** ANTE/BLINDS ***
+Incognito 5 posts small blind 0.01€
+Incognito 2 posts big blind 0.02€
+Incognito 3 posts big blind 0.02€ out of position
+Dealt to MathisKcr [Ac 2s]
+*** PRE-FLOP *** 
+Incognito 3 checks
+MathisKcr raises 0.04€ to 0.06€
+Incognito 5 folds
+Incognito 2 folds
+Incognito 3 calls 0.04€
+*** FLOP *** [Td 3s Kc]
+Incognito 3 checks
+MathisKcr bets 0.04€
+Incognito 3 calls 0.04€
+*** TURN *** [Td 3s Kc][4h]
+Incognito 3 bets 0.15€
+MathisKcr folds
+Incognito 3 collected 0.37€ from pot
+*** SUMMARY ***
+Total pot 0.37€ | Rake 0.01€
+Board: [Td 3s Kc 4h]
+Seat 3: Incognito 3 won 0.37€
+
+
+Winamax Poker - CashGame - HandId: #21515784-31-1759174865 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:41:05 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #5 is the button
+Seat 1: Incognito 1 (1.95€)
+Seat 2: Incognito 2 (1.71€)
+Seat 3: Incognito 3 (0.62€)
+Seat 4: MathisKcr (3.17€)
+Seat 5: Incognito 5 (1.87€)
+*** ANTE/BLINDS ***
+Incognito 2 posts small blind 0.01€
+Incognito 3 posts big blind 0.02€
+Dealt to MathisKcr [8d Qc]
+*** PRE-FLOP *** 
+MathisKcr calls 0.02€
+Incognito 5 raises 0.04€ to 0.06€
+Incognito 2 calls 0.05€
+Incognito 3 folds
+MathisKcr calls 0.04€
+*** FLOP *** [As Ts 4s]
+Incognito 2 checks
+MathisKcr checks
+Incognito 5 bets 0.13€
+Incognito 2 raises 0.25€ to 0.38€
+MathisKcr folds
+Incognito 5 folds
+Incognito 2 collected 0.68€ from pot
+*** SUMMARY ***
+Total pot 0.68€ | Rake 0.03€
+Board: [As Ts 4s]
+Seat 2: Incognito 2 (small blind) won 0.68€
+
+
+Winamax Poker - CashGame - HandId: #21515784-32-1759174892 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:41:32 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #2 is the button
+Seat 1: Incognito 1 (1.95€)
+Seat 2: Incognito 2 (1.95€)
+Seat 3: Incognito 3 (0.60€)
+Seat 4: MathisKcr (3.11€)
+Seat 5: Incognito 5 (1.68€)
+*** ANTE/BLINDS ***
+Incognito 3 posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Incognito 1 posts big blind 0.02€ out of position
+Dealt to MathisKcr [Qs 9d]
+*** PRE-FLOP *** 
+Incognito 5 folds
+Incognito 1 checks
+Incognito 2 calls 0.02€
+Incognito 3 raises 0.02€ to 0.04€
+MathisKcr calls 0.02€
+Incognito 1 raises 1.91€ to 1.95€ and is all-in
+Incognito 2 folds
+Incognito 3 calls 0.56€ and is all-in
+MathisKcr folds
+*** FLOP *** [6h Tc 7s]
+*** TURN *** [6h Tc 7s][2s]
+*** RIVER *** [6h Tc 7s 2s][Kd]
+*** SHOW DOWN ***
+Incognito 1 shows [Jd 8c] (High card : King)
+Incognito 3 shows [Qh Kh] (One pair : Kings)
+Incognito 3 collected 1.19€ from main pot
+Incognito 1 collected 1.35€ from side pot 1
+*** SUMMARY ***
+Total pot 2.54€ | Rake 0.07€
+Board: [6h Tc 7s 2s Kd]
+Seat 1: Incognito 1 showed [Jd 8c] and won 1.35€ with High card : King
+Seat 3: Incognito 3 (small blind) showed [Qh Kh] and won 1.19€ with One pair : Kings
+
+
+Winamax Poker - CashGame - HandId: #21515784-33-1759174916 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:41:56 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #3 is the button
+Seat 1: Incognito 1 (1.35€)
+Seat 3: Incognito 3 (1.19€)
+Seat 4: MathisKcr (3.07€)
+Seat 5: Incognito 5 (1.68€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+Incognito 5 posts big blind 0.02€
+Dealt to MathisKcr [Jh 8s]
+*** PRE-FLOP *** 
+Incognito 1 raises 1.33€ to 1.35€ and is all-in
+Incognito 3 folds
+MathisKcr folds
+Incognito 5 folds
+Incognito 1 collected 1.38€ from pot
+*** SUMMARY ***
+Total pot 1.38€ | No rake
+Seat 1: Incognito 1 won 1.38€
+
+
+Winamax Poker - CashGame - HandId: #21515784-34-1759174925 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:42:05 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #4 is the button
+Seat 1: Incognito 1 (1.38€)
+Seat 3: Incognito 3 (1.19€)
+Seat 4: MathisKcr (3.06€)
+Seat 5: Incognito 5 (1.66€)
+*** ANTE/BLINDS ***
+Incognito 5 posts small blind 0.01€
+Incognito 1 posts big blind 0.02€
+Dealt to MathisKcr [Js Kd]
+*** PRE-FLOP *** 
+Incognito 3 folds
+MathisKcr calls 0.02€
+Incognito 5 calls 0.01€
+Incognito 1 checks
+*** FLOP *** [6h 2d Ac]
+Incognito 5 bets 0.04€
+Incognito 1 folds
+MathisKcr calls 0.04€
+*** TURN *** [6h 2d Ac][3d]
+Incognito 5 bets 0.09€
+MathisKcr folds
+Incognito 5 collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [6h 2d Ac 3d]
+Seat 5: Incognito 5 (small blind) won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #21515784-35-1759174943 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:42:23 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #5 is the button
+Seat 1: Incognito 1 (1.36€)
+Seat 2: Incognito 2 (2€)
+Seat 4: MathisKcr (3€)
+Seat 5: Incognito 5 (1.73€)
+*** ANTE/BLINDS ***
+Incognito 1 posts small blind 0.01€
+Incognito 2 posts big blind 0.02€
+Dealt to MathisKcr [2c 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Incognito 5 raises 0.04€ to 0.06€
+Incognito 1 calls 0.05€
+Incognito 2 folds
+*** FLOP *** [Jh 7h 9s]
+Incognito 1 checks
+Incognito 5 bets 0.05€
+Incognito 1 calls 0.05€
+*** TURN *** [Jh 7h 9s][Jd]
+Incognito 1 checks
+Incognito 5 bets 0.08€
+Incognito 1 calls 0.08€
+*** RIVER *** [Jh 7h 9s Jd][Kd]
+Incognito 1 checks
+Incognito 5 checks
+*** SHOW DOWN ***
+Incognito 1 shows [6h 7s] (Two pairs : Jacks and 7)
+Incognito 5 shows [6s 9h] (Two pairs : Jacks and 9)
+Incognito 5 collected 0.38€ from pot
+*** SUMMARY ***
+Total pot 0.38€ | Rake 0.02€
+Board: [Jh 7h 9s Jd Kd]
+Seat 1: Incognito 1 (small blind) showed [6h 7s] and lost with Two pairs : Jacks and 7
+Seat 5: Incognito 5 (button) showed [6s 9h] and won 0.38€ with Two pairs : Jacks and 9
+
+
+Winamax Poker - CashGame - HandId: #21515784-36-1759174964 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:42:44 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #1 is the button
+Seat 1: Incognito 1 (1.17€)
+Seat 2: Incognito 2 (1.98€)
+Seat 3: Incognito 3 (2€)
+Seat 4: MathisKcr (3€)
+Seat 5: Incognito 5 (1.92€)
+*** ANTE/BLINDS ***
+Incognito 2 posts small blind 0.01€
+Incognito 3 posts big blind 0.02€
+Dealt to MathisKcr [5h 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Incognito 5 raises 0.03€ to 0.05€
+Incognito 1 calls 0.05€
+Incognito 2 folds
+Incognito 3 folds
+*** FLOP *** [Kd Tc Qc]
+Incognito 5 checks
+Incognito 1 checks
+*** TURN *** [Kd Tc Qc][Kh]
+Incognito 5 checks
+Incognito 1 checks
+*** RIVER *** [Kd Tc Qc Kh][2s]
+Incognito 5 checks
+Incognito 1 checks
+*** SHOW DOWN ***
+Incognito 1 shows [8c 7c] (One pair : Kings)
+Incognito 5 shows [6d Ah] (One pair : Kings)
+Incognito 5 collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | Rake 0.01€
+Board: [Kd Tc Qc Kh 2s]
+Seat 1: Incognito 1 (button) showed [8c 7c] and lost with One pair : Kings
+Seat 5: Incognito 5 showed [6d Ah] and won 0.12€ with One pair : Kings
+
+
+Winamax Poker - CashGame - HandId: #21515784-37-1759174990 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:43:10 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #2 is the button
+Seat 1: Incognito 1 (1.12€)
+Seat 2: Incognito 2 (1.97€)
+Seat 3: Incognito 3 (2€)
+Seat 4: MathisKcr (3€)
+Seat 5: Incognito 5 (1.99€)
+*** ANTE/BLINDS ***
+Incognito 3 posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [Jh 3c]
+*** PRE-FLOP *** 
+Incognito 5 raises 0.04€ to 0.06€
+Incognito 1 folds
+Incognito 2 raises 0.04€ to 0.10€
+Incognito 3 raises 0.04€ to 0.14€
+MathisKcr folds
+Incognito 5 calls 0.08€
+Incognito 2 calls 0.04€
+*** FLOP *** [5d 3s 6s]
+Incognito 3 bets 0.22€
+Incognito 5 raises 0.22€ to 0.44€
+Incognito 2 folds
+Incognito 3 calls 0.22€
+*** TURN *** [5d 3s 6s][Th]
+Incognito 3 checks
+Incognito 5 bets 1.41€ and is all-in
+Incognito 3 calls 1.41€
+*** RIVER *** [5d 3s 6s Th][Ks]
+*** SHOW DOWN ***
+Incognito 3 shows [Kc Qs] (One pair : Kings)
+Incognito 5 shows [6c 5c] (Two pairs : 6 and 5)
+Incognito 5 collected 3.90€ from pot
+*** SUMMARY ***
+Total pot 3.90€ | Rake 0.24€
+Board: [5d 3s 6s Th Ks]
+Seat 3: Incognito 3 (small blind) showed [Kc Qs] and lost with One pair : Kings
+Seat 5: Incognito 5 showed [6c 5c] and won 3.90€ with Two pairs : 6 and 5
+
+
+Winamax Poker - CashGame - HandId: #21515784-38-1759175115 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:45:15 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #3 is the button
+Seat 1: Incognito 1 (1.12€)
+Seat 2: Incognito 2 (1.83€)
+Seat 3: Incognito 3 (2€)
+Seat 4: MathisKcr (2.98€)
+Seat 5: Incognito 5 (3.90€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+Incognito 5 posts big blind 0.02€
+Dealt to MathisKcr [5h Ac]
+*** PRE-FLOP *** 
+Incognito 1 raises 0.72€ to 0.74€
+Incognito 2 folds
+Incognito 3 folds
+MathisKcr raises 2.24€ to 2.98€ and is all-in
+Incognito 5 raises 0.92€ to 3.90€ and is all-in
+Incognito 1 calls 0.38€ and is all-in
+*** FLOP *** [7c 3c 6d]
+*** TURN *** [7c 3c 6d][6h]
+*** RIVER *** [7c 3c 6d 6h][4d]
+*** SHOW DOWN ***
+Incognito 1 shows [8s As] (One pair : 6)
+MathisKcr shows [5h Ac] (Straight 7 high)
+Incognito 5 shows [Ad Qd] (One pair : 6)
+Incognito 5 collected 0.92€ from side pot 1
+MathisKcr collected 6.68€ from main pot
+*** SUMMARY ***
+Total pot 7.60€ | Rake 0.40€
+Board: [7c 3c 6d 6h 4d]
+Seat 1: Incognito 1 showed [8s As] and lost with One pair : 6
+Seat 4: MathisKcr (small blind) showed [5h Ac] and won 6.68€ with Straight 7 high
+Seat 5: Incognito 5 (big blind) showed [Ad Qd] and won 0.92€ with One pair : 6
+
+
+Winamax Poker - CashGame - HandId: #21515784-39-1759175151 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:45:51 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #4 is the button
+Seat 1: Incognito 1 (0€)
+Seat 2: Incognito 2 (1.83€)
+Seat 3: Incognito 3 (2€)
+Seat 4: MathisKcr (6.68€)
+Seat 5: Incognito 5 (0.92€)
+*** ANTE/BLINDS ***
+Incognito 5 posts small blind 0.01€
+Incognito 2 posts big blind 0.02€
+Dealt to MathisKcr [Qc 7h]
+*** PRE-FLOP *** 
+Incognito 3 raises 0.03€ to 0.05€
+MathisKcr calls 0.05€
+Incognito 5 raises 0.87€ to 0.92€ and is all-in
+Incognito 2 folds
+Incognito 3 folds
+MathisKcr folds
+Incognito 5 collected 1.04€ from pot
+*** SUMMARY ***
+Total pot 1.04€ | No rake
+Seat 5: Incognito 5 (small blind) won 1.04€
+
+
+Winamax Poker - CashGame - HandId: #21515784-40-1759175184 - Holdem no limit (0.01€/0.02€) - 2025/09/29 19:46:24 UTC
+Table: 'Aberdeen 13' 5-max (real money) Seat #5 is the button
+Seat 1: Incognito 1 (0€)
+Seat 2: Incognito 2 (1.81€)
+Seat 3: Incognito 3 (2€)
+Seat 4: MathisKcr (6.63€)
+Seat 5: Incognito 5 (1.04€)
+*** ANTE/BLINDS ***
+Incognito 2 posts small blind 0.01€
+Incognito 3 posts big blind 0.02€
+Dealt to MathisKcr [5h 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Incognito 5 folds
+Incognito 2 raises 0.02€ to 0.04€
+Incognito 3 folds
+Incognito 2 collected 0.06€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Seat 2: Incognito 2 (small blind) won 0.06€
+
+

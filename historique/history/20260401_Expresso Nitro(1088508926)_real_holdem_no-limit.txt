@@ -1,0 +1,118 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675110238574084097-1-1775051612 - Holdem no limit (10/20) - 2026/04/01 13:53:32 UTC
+Table: 'Expresso Nitro(1088508926)#0' 3-max (real money) Seat #3 is the button
+Seat 1: TENDJ (300)
+Seat 2: MathisKcr (300)
+Seat 3: tchoc (300)
+*** ANTE/BLINDS ***
+TENDJ posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7s Qs]
+*** PRE-FLOP *** 
+tchoc folds
+TENDJ raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [4c 4h 9s]
+TENDJ checks
+MathisKcr checks
+*** TURN *** [4c 4h 9s][2c]
+TENDJ bets 20
+MathisKcr folds
+TENDJ collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [4c 4h 9s 2c]
+Seat 1: TENDJ (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675110238574084097-2-1775051647 - Holdem no limit (10/20) - 2026/04/01 13:54:07 UTC
+Table: 'Expresso Nitro(1088508926)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TENDJ (340)
+Seat 2: MathisKcr (260)
+Seat 3: tchoc (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+tchoc posts big blind 20
+Dealt to MathisKcr [8h Jd]
+*** PRE-FLOP *** 
+TENDJ calls 20
+MathisKcr calls 10
+tchoc raises 280 to 300 and is all-in
+TENDJ folds
+MathisKcr folds
+tchoc collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: tchoc (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675110238574084097-3-1775051664 - Holdem no limit (10/20) - 2026/04/01 13:54:24 UTC
+Table: 'Expresso Nitro(1088508926)#0' 3-max (real money) Seat #2 is the button
+Seat 1: TENDJ (320)
+Seat 2: MathisKcr (240)
+Seat 3: tchoc (340)
+*** ANTE/BLINDS ***
+tchoc posts small blind 10
+TENDJ posts big blind 20
+Dealt to MathisKcr [2h 9s]
+*** PRE-FLOP *** 
+MathisKcr folds
+tchoc calls 10
+TENDJ checks
+*** FLOP *** [9d 8d Kc]
+tchoc bets 20
+TENDJ folds
+tchoc collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9d 8d Kc]
+Seat 3: tchoc (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675110238574084097-4-1775051698 - Holdem no limit (15/30) - 2026/04/01 13:54:58 UTC
+Table: 'Expresso Nitro(1088508926)#0' 3-max (real money) Seat #3 is the button
+Seat 1: TENDJ (300)
+Seat 2: MathisKcr (240)
+Seat 3: tchoc (360)
+*** ANTE/BLINDS ***
+TENDJ posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qc Kh]
+*** PRE-FLOP *** 
+tchoc folds
+TENDJ calls 15
+MathisKcr raises 210 to 240 and is all-in
+TENDJ folds
+MathisKcr collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 2: MathisKcr (big blind) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675110238574084097-5-1775051712 - Holdem no limit (15/30) - 2026/04/01 13:55:12 UTC
+Table: 'Expresso Nitro(1088508926)#0' 3-max (real money) Seat #1 is the button
+Seat 1: TENDJ (270)
+Seat 2: MathisKcr (270)
+Seat 3: tchoc (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+tchoc posts big blind 30
+Dealt to MathisKcr [Js 5s]
+*** PRE-FLOP *** 
+TENDJ calls 30
+MathisKcr raises 240 to 270 and is all-in
+tchoc folds
+TENDJ calls 240 and is all-in
+*** FLOP *** [Tc 5c Ah]
+*** TURN *** [Tc 5c Ah][Qs]
+*** RIVER *** [Tc 5c Ah Qs][6s]
+*** SHOW DOWN ***
+MathisKcr shows [Js 5s] (One pair : 5)
+TENDJ shows [Qd 9h] (One pair : Queens)
+TENDJ collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Tc 5c Ah Qs 6s]
+Seat 1: TENDJ (button) showed [Qd 9h] and won 570 with One pair : Queens
+Seat 2: MathisKcr (small blind) showed [Js 5s] and lost with One pair : 5
+
+

@@ -1,0 +1,60 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668745938855002113-1-1774804086 - Holdem no limit (10/20) - 2026/03/29 17:08:06 UTC
+Table: 'Expresso Nitro(1087027122)#0' 3-max (real money) Seat #1 is the button
+Seat 1: wmx-eds9yys (300)
+Seat 2: MathisKcr (300)
+Seat 3: Expert_98486 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Expert_98486 posts big blind 20
+Dealt to MathisKcr [3d Ad]
+*** PRE-FLOP *** 
+wmx-eds9yys raises 280 to 300 and is all-in
+MathisKcr calls 290 and is all-in
+Expert_98486 folds
+*** FLOP *** [9h 2s Js]
+*** TURN *** [9h 2s Js][Kh]
+*** RIVER *** [9h 2s Js Kh][7s]
+*** SHOW DOWN ***
+wmx-eds9yys shows [6c Ac] (High card : Ace)
+MathisKcr shows [3d Ad] (High card : Ace)
+MathisKcr collected 310 from pot
+wmx-eds9yys collected 310 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9h 2s Js Kh 7s]
+Seat 1: wmx-eds9yys (button) showed [6c Ac] and won 310 with High card : Ace
+Seat 2: MathisKcr (small blind) showed [3d Ad] and won 310 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668745938855002113-2-1774804100 - Holdem no limit (10/20) - 2026/03/29 17:08:20 UTC
+Table: 'Expresso Nitro(1087027122)#0' 3-max (real money) Seat #2 is the button
+Seat 1: wmx-eds9yys (310)
+Seat 2: MathisKcr (310)
+Seat 3: Expert_98486 (280)
+*** ANTE/BLINDS ***
+Expert_98486 posts small blind 10
+wmx-eds9yys posts big blind 20
+Dealt to MathisKcr [Ac Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Expert_98486 raises 240 to 280 and is all-in
+wmx-eds9yys calls 260
+MathisKcr calls 240
+*** FLOP *** [9c 6d 5d]
+wmx-eds9yys bets 30 and is all-in
+MathisKcr calls 30 and is all-in
+*** TURN *** [9c 6d 5d][8c]
+*** RIVER *** [9c 6d 5d 8c][8d]
+*** SHOW DOWN ***
+MathisKcr shows [Ac Qh] (One pair : 8)
+Expert_98486 shows [9h Kd] (Two pairs : 9 and 8)
+wmx-eds9yys shows [7h Qc] (Straight 9 high)
+wmx-eds9yys collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9c 6d 5d 8c 8d]
+Seat 1: wmx-eds9yys (big blind) showed [7h Qc] and won 900 with Straight 9 high
+Seat 2: MathisKcr (button) showed [Ac Qh] and lost with One pair : 8
+Seat 3: Expert_98486 (small blind) showed [9h Kd] and lost with Two pairs : 9 and 8
+
+

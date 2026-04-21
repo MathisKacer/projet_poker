@@ -1,0 +1,74 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614052077256048641-1-1772887684 - Holdem no limit (10/20) - 2026/03/07 12:48:04 UTC
+Table: 'Expresso Nitro(1074292715)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Chich1s_7 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Rojo98 (300)
+*** ANTE/BLINDS ***
+Chich1s_7 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 8s]
+*** PRE-FLOP *** 
+Rojo98 folds
+Chich1s_7 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614052077256048641-2-1772887692 - Holdem no limit (10/20) - 2026/03/07 12:48:12 UTC
+Table: 'Expresso Nitro(1074292715)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chich1s_7 (290)
+Seat 2: MathisKcr (310)
+Seat 3: Rojo98 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Rojo98 posts big blind 20
+Dealt to MathisKcr [8c Ac]
+*** PRE-FLOP *** 
+Chich1s_7 raises 270 to 290 and is all-in
+MathisKcr calls 280
+Rojo98 raises 10 to 300 and is all-in
+MathisKcr calls 10
+*** FLOP *** [3d 6s 4h]
+*** TURN *** [3d 6s 4h][Kc]
+*** RIVER *** [3d 6s 4h Kc][Qh]
+*** SHOW DOWN ***
+Rojo98 shows [2d Ad] (High card : Ace)
+Chich1s_7 shows [Kh Jc] (One pair : Kings)
+MathisKcr shows [8c Ac] (High card : Ace)
+MathisKcr collected 20 from side pot 1
+Chich1s_7 collected 870 from main pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [3d 6s 4h Kc Qh]
+Seat 1: Chich1s_7 (button) showed [Kh Jc] and won 870 with One pair : Kings
+Seat 2: MathisKcr (small blind) showed [8c Ac] and won 20 with High card : Ace
+Seat 3: Rojo98 (big blind) showed [2d Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614052077256048641-3-1772887709 - Holdem no limit (10/20) - 2026/03/07 12:48:29 UTC
+Table: 'Expresso Nitro(1074292715)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Chich1s_7 (870)
+Seat 2: MathisKcr (30)
+*** ANTE/BLINDS ***
+Chich1s_7 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5d Qd]
+*** PRE-FLOP *** 
+Chich1s_7 raises 850 to 870 and is all-in
+MathisKcr calls 10 and is all-in
+*** FLOP *** [6d 7d 3h]
+*** TURN *** [6d 7d 3h][9s]
+*** RIVER *** [6d 7d 3h 9s][Js]
+*** SHOW DOWN ***
+MathisKcr shows [5d Qd] (High card : Queen)
+Chich1s_7 shows [Th Jh] (One pair : Jacks)
+Chich1s_7 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 7d 3h 9s Js]
+Seat 1: Chich1s_7 (small blind) (button) showed [Th Jh] and won 900 with One pair : Jacks
+Seat 2: MathisKcr (big blind) showed [5d Qd] and lost with High card : Queen
+
+

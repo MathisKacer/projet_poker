@@ -1,0 +1,147 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4643765180700819457-1-1773867203 - Holdem no limit (10/20) - 2026/03/18 20:53:23 UTC
+Table: 'Expresso Nitro(1081210836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: chti_pingu (300)
+Seat 3: JA_Matador5 (300)
+*** ANTE/BLINDS ***
+chti_pingu posts small blind 10
+JA_Matador5 posts big blind 20
+Dealt to MathisKcr [9d 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+chti_pingu calls 10
+JA_Matador5 checks
+*** FLOP *** [Ac 8d 6c]
+chti_pingu checks
+JA_Matador5 checks
+*** TURN *** [Ac 8d 6c][3c]
+chti_pingu checks
+JA_Matador5 bets 20
+chti_pingu folds
+JA_Matador5 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ac 8d 6c 3c]
+Seat 3: JA_Matador5 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4643765180700819457-2-1773867223 - Holdem no limit (10/20) - 2026/03/18 20:53:43 UTC
+Table: 'Expresso Nitro(1081210836)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: chti_pingu (280)
+Seat 3: JA_Matador5 (320)
+*** ANTE/BLINDS ***
+JA_Matador5 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2h 6c]
+*** PRE-FLOP *** 
+chti_pingu folds
+JA_Matador5 raises 40 to 60
+MathisKcr folds
+JA_Matador5 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: JA_Matador5 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4643765180700819457-3-1773867233 - Holdem no limit (10/20) - 2026/03/18 20:53:53 UTC
+Table: 'Expresso Nitro(1081210836)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: chti_pingu (280)
+Seat 3: JA_Matador5 (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+chti_pingu posts big blind 20
+Dealt to MathisKcr [Ts 5d]
+*** PRE-FLOP *** 
+JA_Matador5 raises 50 to 70
+MathisKcr folds
+chti_pingu raises 50 to 120
+JA_Matador5 raises 220 to 340 and is all-in
+chti_pingu calls 160 and is all-in
+*** FLOP *** [Tc 6s 3c]
+*** TURN *** [Tc 6s 3c][6h]
+*** RIVER *** [Tc 6s 3c 6h][Td]
+*** SHOW DOWN ***
+chti_pingu shows [Kc Ks] (Two pairs : Kings and Tens)
+JA_Matador5 shows [Ad 9s] (Two pairs : Tens and 6)
+JA_Matador5 collected 60 from side pot 1
+chti_pingu collected 570 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Tc 6s 3c 6h Td]
+Seat 2: chti_pingu (big blind) showed [Kc Ks] and won 570 with Two pairs : Kings and Tens
+Seat 3: JA_Matador5 (button) showed [Ad 9s] and won 60 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4643765180700819457-4-1773867250 - Holdem no limit (10/20) - 2026/03/18 20:54:10 UTC
+Table: 'Expresso Nitro(1081210836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: chti_pingu (570)
+Seat 3: JA_Matador5 (60)
+*** ANTE/BLINDS ***
+chti_pingu posts small blind 10
+JA_Matador5 posts big blind 20
+Dealt to MathisKcr [3s Jh]
+*** PRE-FLOP *** 
+MathisKcr folds
+chti_pingu raises 20 to 40
+JA_Matador5 calls 20
+*** FLOP *** [7s Qd 6c]
+chti_pingu checks
+JA_Matador5 bets 20 and is all-in
+chti_pingu calls 20
+*** TURN *** [7s Qd 6c][5s]
+*** RIVER *** [7s Qd 6c 5s][Ac]
+*** SHOW DOWN ***
+JA_Matador5 shows [2d 3d] (High card : Ace)
+chti_pingu shows [2h 2s] (One pair : 2)
+chti_pingu collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [7s Qd 6c 5s Ac]
+Seat 2: chti_pingu (small blind) showed [2h 2s] and won 120 with One pair : 2
+Seat 3: JA_Matador5 (big blind) showed [2d 3d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4643765180700819457-5-1773867271 - Holdem no limit (15/30) - 2026/03/18 20:54:31 UTC
+Table: 'Expresso Nitro(1081210836)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: chti_pingu (630)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+chti_pingu posts big blind 30
+Dealt to MathisKcr [3d 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+chti_pingu collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: chti_pingu (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4643765180700819457-6-1773867278 - Holdem no limit (15/30) - 2026/03/18 20:54:38 UTC
+Table: 'Expresso Nitro(1081210836)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (255)
+Seat 2: chti_pingu (645)
+*** ANTE/BLINDS ***
+chti_pingu posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad 3d]
+*** PRE-FLOP *** 
+chti_pingu raises 615 to 645 and is all-in
+MathisKcr calls 225 and is all-in
+*** FLOP *** [Qc Jh Th]
+*** TURN *** [Qc Jh Th][Ts]
+*** RIVER *** [Qc Jh Th Ts][2h]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 3d] (One pair : Tens)
+chti_pingu shows [Jd Kc] (Two pairs : Jacks and Tens)
+chti_pingu collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc Jh Th Ts 2h]
+Seat 1: MathisKcr (big blind) showed [Ad 3d] and lost with One pair : Tens
+Seat 2: chti_pingu (small blind) (button) showed [Jd Kc] and won 900 with Two pairs : Jacks and Tens
+
+

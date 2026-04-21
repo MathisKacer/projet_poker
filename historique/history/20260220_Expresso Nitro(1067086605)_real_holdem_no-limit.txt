@@ -1,0 +1,78 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4583102070474670081-1-1771614309 - Holdem no limit (10/20) - 2026/02/20 19:05:09 UTC
+Table: 'Expresso Nitro(1067086605)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: otong59 (300)
+Seat 3: IOZEFFish831 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+otong59 posts big blind 20
+Dealt to MathisKcr [Js 5d]
+*** PRE-FLOP *** 
+IOZEFFish831 calls 20
+MathisKcr raises 20 to 40
+otong59 raises 260 to 300 and is all-in
+IOZEFFish831 calls 280 and is all-in
+MathisKcr folds
+*** FLOP *** [Ks 8h 2s]
+*** TURN *** [Ks 8h 2s][9c]
+*** RIVER *** [Ks 8h 2s 9c][Ac]
+*** SHOW DOWN ***
+IOZEFFish831 shows [Tc Th] (One pair : Tens)
+otong59 shows [As 7c] (One pair : Aces)
+otong59 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Ks 8h 2s 9c Ac]
+Seat 2: otong59 (big blind) showed [As 7c] and won 640 with One pair : Aces
+Seat 3: IOZEFFish831 (button) showed [Tc Th] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4583102070474670081-2-1771614328 - Holdem no limit (10/20) - 2026/02/20 19:05:28 UTC
+Table: 'Expresso Nitro(1067086605)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (260)
+Seat 2: otong59 (640)
+*** ANTE/BLINDS ***
+otong59 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8h Ts]
+*** PRE-FLOP *** 
+otong59 calls 10
+MathisKcr checks
+*** FLOP *** [5d 7d As]
+MathisKcr bets 40
+otong59 raises 40 to 80
+MathisKcr folds
+otong59 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [5d 7d As]
+Seat 2: otong59 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4583102070474670081-3-1771614343 - Holdem no limit (10/20) - 2026/02/20 19:05:43 UTC
+Table: 'Expresso Nitro(1067086605)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (200)
+Seat 2: otong59 (700)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+otong59 posts big blind 20
+Dealt to MathisKcr [Qc 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+otong59 raises 20 to 60
+MathisKcr raises 140 to 200 and is all-in
+otong59 calls 140
+*** FLOP *** [8h Jd Kd]
+*** TURN *** [8h Jd Kd][2d]
+*** RIVER *** [8h Jd Kd 2d][4h]
+*** SHOW DOWN ***
+MathisKcr shows [Qc 9d] (High card : King)
+otong59 shows [Jh Kc] (Two pairs : Kings and Jacks)
+otong59 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [8h Jd Kd 2d 4h]
+Seat 1: MathisKcr (small blind) (button) showed [Qc 9d] and lost with High card : King
+Seat 2: otong59 (big blind) showed [Jh Kc] and won 400 with Two pairs : Kings and Jacks
+
+

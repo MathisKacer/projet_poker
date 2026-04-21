@@ -1,0 +1,925 @@
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-1-1773867630 - Holdem no limit (25/100/200) - 2026/03/18 21:00:30 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (20000, 1€ bounty)
+Seat 2: paulenpois (20000, 1€ bounty)
+Seat 3: mingus (20000, 1€ bounty)
+Seat 4: Am&jah (20000, 1€ bounty)
+Seat 5: 15centimes (20000, 1€ bounty)
+Seat 6: Yak2403 (20000, 1€ bounty)
+*** ANTE/BLINDS ***
+Yak2403 posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts ante 25
+15centimes posts ante 25
+Yak2403 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [2d 9d]
+*** PRE-FLOP *** 
+paulenpois folds
+mingus calls 200
+Am&jah calls 200
+15centimes raises 19775 to 19975 and is all-in
+Yak2403 folds
+MathisKcr folds
+mingus calls 19775 and is all-in
+Am&jah folds
+*** FLOP *** [Js 6c Jd]
+*** TURN *** [Js 6c Jd][2h]
+*** RIVER *** [Js 6c Jd 2h][As]
+*** SHOW DOWN ***
+15centimes shows [Td Th] (Two pairs : Jacks and Tens)
+mingus shows [Ac Ts] (Two pairs : Aces and Jacks)
+mingus collected 40600 from pot
+*** SUMMARY ***
+Total pot 40600 | No rake
+Board: [Js 6c Jd 2h As]
+Seat 3: mingus showed [Ac Ts] and won 40600 with Two pairs : Aces and Jacks
+Seat 5: 15centimes (button) showed [Td Th] and lost with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-2-1773867752 - Holdem no limit (25/100/200) - 2026/03/18 21:02:32 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (19775, 1€ bounty)
+Seat 2: paulenpois (19975, 1€ bounty)
+Seat 3: mingus (40600, 1.50€ bounty)
+Seat 4: Am&jah (19775, 1€ bounty)
+Seat 6: Yak2403 (19875, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts ante 25
+Yak2403 posts ante 25
+MathisKcr posts small blind 100
+paulenpois posts big blind 200
+Dealt to MathisKcr [Qs Jc]
+*** PRE-FLOP *** 
+mingus calls 200
+Am&jah folds
+Yak2403 raises 825 to 1025
+MathisKcr calls 925
+paulenpois calls 825
+mingus raises 2050 to 3075
+Yak2403 raises 16775 to 19850 and is all-in
+MathisKcr folds
+paulenpois folds
+mingus calls 16775
+*** FLOP *** [3c 8s Kc]
+*** TURN *** [3c 8s Kc][Ks]
+*** RIVER *** [3c 8s Kc Ks][5d]
+*** SHOW DOWN ***
+Yak2403 shows [Qc Qd] (Two pairs : Kings and Queens)
+mingus shows [Kd Kh] (Quads of Kings)
+mingus collected 41875 from pot
+*** SUMMARY ***
+Total pot 41875 | No rake
+Board: [3c 8s Kc Ks 5d]
+Seat 3: mingus showed [Kd Kh] and won 41875 with Quads of Kings
+Seat 6: Yak2403 (button) showed [Qc Qd] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-3-1773867810 - Holdem no limit (25/100/200) - 2026/03/18 21:03:30 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (18725, 1€ bounty)
+Seat 2: paulenpois (18925, 1€ bounty)
+Seat 3: mingus (62600, 2.50€ bounty)
+Seat 4: Am&jah (19750, 1€ bounty)
+Seat 5: fishbloom98 (20000, 1€ bounty)
+*** ANTE/BLINDS ***
+paulenpois posts ante 25
+mingus posts ante 25
+MathisKcr posts ante 25
+Am&jah posts ante 25
+fishbloom98 posts ante 25
+paulenpois posts small blind 100
+mingus posts big blind 200
+Dealt to MathisKcr [Qc 5s]
+*** PRE-FLOP *** 
+Am&jah folds
+fishbloom98 folds
+MathisKcr calls 200
+paulenpois calls 100
+mingus checks
+*** FLOP *** [Kd 9s Ac]
+paulenpois checks
+mingus checks
+MathisKcr bets 254
+paulenpois folds
+mingus calls 254
+*** TURN *** [Kd 9s Ac][3d]
+mingus checks
+MathisKcr bets 617
+mingus folds
+MathisKcr collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [Kd 9s Ac 3d]
+Seat 1: MathisKcr (button) won 1850
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-4-1773867846 - Holdem no limit (25/100/200) - 2026/03/18 21:04:06 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (19479, 1€ bounty)
+Seat 2: paulenpois (18700, 1€ bounty)
+Seat 3: mingus (62121, 2.50€ bounty)
+Seat 4: Am&jah (19725, 1€ bounty)
+Seat 5: fishbloom98 (19975, 1€ bounty)
+Seat 6: Cocologo59 (20000, 1€ bounty)
+*** ANTE/BLINDS ***
+mingus posts ante 25
+Am&jah posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+fishbloom98 posts ante 25
+Cocologo59 posts ante 25
+mingus posts small blind 100
+Am&jah posts big blind 200
+Dealt to MathisKcr [5d 3c]
+*** PRE-FLOP *** 
+fishbloom98 folds
+Cocologo59 calls 200
+MathisKcr folds
+paulenpois calls 200
+mingus raises 200 to 400
+Am&jah folds
+Cocologo59 calls 200
+paulenpois calls 200
+*** FLOP *** [Qc Jh 2c]
+mingus bets 1550
+Cocologo59 folds
+paulenpois folds
+mingus collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Board: [Qc Jh 2c]
+Seat 3: mingus (small blind) won 3100
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-5-1773867907 - Holdem no limit (25/100/200) - 2026/03/18 21:05:07 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (19454, 1€ bounty)
+Seat 2: paulenpois (18275, 1€ bounty)
+Seat 3: mingus (63246, 2.50€ bounty)
+Seat 4: Am&jah (19500, 1€ bounty)
+Seat 5: fishbloom98 (19950, 1€ bounty)
+*** ANTE/BLINDS ***
+Am&jah posts ante 25
+fishbloom98 posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts small blind 100
+fishbloom98 posts big blind 200
+Dealt to MathisKcr [Qh 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 200 to 400
+paulenpois calls 400
+mingus calls 400
+Am&jah folds
+fishbloom98 calls 200
+*** FLOP *** [6c Jc 7h]
+fishbloom98 checks
+MathisKcr checks
+paulenpois bets 639
+mingus folds
+fishbloom98 folds
+MathisKcr calls 639
+*** TURN *** [6c Jc 7h][3s]
+MathisKcr checks
+paulenpois checks
+*** RIVER *** [6c Jc 7h 3s][6s]
+MathisKcr bets 2017
+paulenpois folds
+MathisKcr collected 5120 from pot
+*** SUMMARY ***
+Total pot 5120 | No rake
+Board: [6c Jc 7h 3s 6s]
+Seat 1: MathisKcr won 5120
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-6-1773867981 - Holdem no limit (25/100/200) - 2026/03/18 21:06:21 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (21493, 1€ bounty)
+Seat 2: paulenpois (17211, 1€ bounty)
+Seat 3: mingus (62821, 2.50€ bounty)
+Seat 4: Am&jah (19375, 1€ bounty)
+Seat 5: fishbloom98 (19525, 1€ bounty)
+Seat 6: lunotikk (20000, 1€ bounty)
+*** ANTE/BLINDS ***
+fishbloom98 posts ante 25
+lunotikk posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts ante 25
+fishbloom98 posts small blind 100
+lunotikk posts big blind 200
+Dealt to MathisKcr [5s Jd]
+*** PRE-FLOP *** 
+MathisKcr folds
+paulenpois calls 200
+mingus calls 200
+Am&jah raises 800 to 1000
+fishbloom98 calls 900
+lunotikk folds
+paulenpois calls 800
+mingus calls 800
+*** FLOP *** [2h 8h Kc]
+fishbloom98 checks
+paulenpois checks
+mingus checks
+Am&jah checks
+*** TURN *** [2h 8h Kc][6d]
+fishbloom98 checks
+paulenpois checks
+mingus checks
+Am&jah checks
+*** RIVER *** [2h 8h Kc 6d][8d]
+fishbloom98 bets 1523
+paulenpois raises 1599 to 3122
+mingus folds
+Am&jah folds
+fishbloom98 folds
+paulenpois collected 8995 from pot
+*** SUMMARY ***
+Total pot 8995 | No rake
+Board: [2h 8h Kc 6d 8d]
+Seat 2: paulenpois won 8995
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-7-1773868052 - Holdem no limit (25/100/200) - 2026/03/18 21:07:32 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (21468, 1€ bounty)
+Seat 2: paulenpois (22059, 1€ bounty)
+Seat 3: mingus (61796, 2.50€ bounty)
+Seat 4: Am&jah (18350, 1€ bounty)
+Seat 5: fishbloom98 (16977, 1€ bounty)
+Seat 6: lunotikk (19775, 1€ bounty)
+*** ANTE/BLINDS ***
+lunotikk posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts ante 25
+fishbloom98 posts ante 25
+lunotikk posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [7s Jc]
+*** PRE-FLOP *** 
+paulenpois raises 200 to 400
+mingus calls 400
+Am&jah folds
+fishbloom98 folds
+lunotikk folds
+MathisKcr calls 200
+*** FLOP *** [6c As 8c]
+MathisKcr checks
+paulenpois checks
+mingus checks
+*** TURN *** [6c As 8c][2d]
+MathisKcr checks
+paulenpois checks
+mingus checks
+*** RIVER *** [6c As 8c 2d][Qd]
+MathisKcr checks
+paulenpois checks
+mingus checks
+*** SHOW DOWN ***
+MathisKcr shows [7s Jc] (High card : Ace)
+mingus shows [3d 4d] (High card : Ace)
+paulenpois shows [Qs Th] (One pair : Queens)
+paulenpois collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [6c As 8c 2d Qd]
+Seat 1: MathisKcr (big blind) showed [7s Jc] and lost with High card : Ace
+Seat 2: paulenpois showed [Qs Th] and won 1450 with One pair : Queens
+Seat 3: mingus showed [3d 4d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-8-1773868117 - Holdem no limit (25/100/200) - 2026/03/18 21:08:37 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (21043, 1€ bounty)
+Seat 2: paulenpois (23084, 1€ bounty)
+Seat 3: mingus (61371, 2.50€ bounty)
+Seat 4: Am&jah (18325, 1€ bounty)
+Seat 5: fishbloom98 (16952, 1€ bounty)
+Seat 6: lunotikk (19650, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts ante 25
+fishbloom98 posts ante 25
+lunotikk posts ante 25
+MathisKcr posts small blind 100
+paulenpois posts big blind 200
+Dealt to MathisKcr [9h Ac]
+*** PRE-FLOP *** 
+mingus calls 200
+Am&jah folds
+fishbloom98 folds
+lunotikk raises 600 to 800
+MathisKcr calls 700
+paulenpois folds
+mingus calls 600
+*** FLOP *** [6d 5d Jd]
+MathisKcr checks
+mingus checks
+lunotikk bets 688
+MathisKcr calls 688
+mingus calls 688
+*** TURN *** [6d 5d Jd][2c]
+MathisKcr checks
+mingus checks
+lunotikk bets 3177
+MathisKcr folds
+mingus folds
+lunotikk collected 7991 from pot
+*** SUMMARY ***
+Total pot 7991 | No rake
+Board: [6d 5d Jd 2c]
+Seat 6: lunotikk (button) won 7991
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-9-1773868184 - Holdem no limit (25/100/200) - 2026/03/18 21:09:44 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (19530, 1€ bounty)
+Seat 2: paulenpois (22859, 1€ bounty)
+Seat 3: mingus (59858, 2.50€ bounty)
+Seat 4: Am&jah (18300, 1€ bounty)
+Seat 5: fishbloom98 (16927, 1€ bounty)
+Seat 6: lunotikk (22951, 1€ bounty)
+*** ANTE/BLINDS ***
+paulenpois posts ante 25
+mingus posts ante 25
+MathisKcr posts ante 25
+Am&jah posts ante 25
+fishbloom98 posts ante 25
+lunotikk posts ante 25
+paulenpois posts small blind 100
+mingus posts big blind 200
+Dealt to MathisKcr [Ah 4d]
+*** PRE-FLOP *** 
+Am&jah folds
+fishbloom98 folds
+lunotikk folds
+MathisKcr raises 300 to 500
+paulenpois folds
+mingus calls 300
+*** FLOP *** [Qd Qh Ad]
+mingus checks
+MathisKcr bets 438
+mingus calls 438
+*** TURN *** [Qd Qh Ad][5s]
+mingus checks
+MathisKcr bets 1063
+mingus calls 1063
+*** RIVER *** [Qd Qh Ad 5s][Kh]
+mingus bets 200
+MathisKcr calls 200
+*** SHOW DOWN ***
+MathisKcr shows [Ah 4d] (Two pairs : Aces and Queens)
+mingus shows [2d Ac] (Two pairs : Aces and Queens)
+mingus collected 2326 from pot
+MathisKcr collected 2326 from pot
+*** SUMMARY ***
+Total pot 4652 | No rake
+Board: [Qd Qh Ad 5s Kh]
+Seat 1: MathisKcr (button) showed [Ah 4d] and won 2326 with Two pairs : Aces and Queens
+Seat 3: mingus (big blind) showed [2d Ac] and won 2326 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-10-1773868238 - Holdem no limit (25/100/200) - 2026/03/18 21:10:38 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (19630, 1€ bounty)
+Seat 2: paulenpois (22734, 1€ bounty)
+Seat 3: mingus (59958, 2.50€ bounty)
+Seat 4: Am&jah (18275, 1€ bounty)
+Seat 5: fishbloom98 (16902, 1€ bounty)
+Seat 6: lunotikk (22926, 1€ bounty)
+*** ANTE/BLINDS ***
+mingus posts ante 25
+Am&jah posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+fishbloom98 posts ante 25
+lunotikk posts ante 25
+mingus posts small blind 100
+Am&jah posts big blind 200
+Dealt to MathisKcr [Ah Kd]
+*** PRE-FLOP *** 
+fishbloom98 folds
+lunotikk folds
+MathisKcr raises 200 to 400
+paulenpois folds
+mingus calls 300
+Am&jah folds
+*** FLOP *** [9h 9c 4s]
+mingus bets 400
+MathisKcr calls 400
+*** TURN *** [9h 9c 4s][Ad]
+mingus bets 400
+MathisKcr calls 400
+*** RIVER *** [9h 9c 4s Ad][5d]
+mingus bets 400
+MathisKcr raises 2168 to 2568
+mingus folds
+MathisKcr collected 5718 from pot
+*** SUMMARY ***
+Total pot 5718 | No rake
+Board: [9h 9c 4s Ad 5d]
+Seat 1: MathisKcr won 5718
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-11-1773868286 - Holdem no limit (25/100/200) - 2026/03/18 21:11:26 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (21555, 1€ bounty)
+Seat 2: paulenpois (22709, 1€ bounty)
+Seat 3: mingus (58333, 2.50€ bounty)
+Seat 4: Am&jah (18050, 1€ bounty)
+Seat 5: fishbloom98 (16877, 1€ bounty)
+Seat 6: lunotikk (22901, 1€ bounty)
+*** ANTE/BLINDS ***
+Am&jah posts ante 25
+fishbloom98 posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+lunotikk posts ante 25
+Am&jah posts small blind 100
+fishbloom98 posts big blind 200
+Dealt to MathisKcr [2s Th]
+*** PRE-FLOP *** 
+lunotikk raises 400 to 600
+MathisKcr folds
+paulenpois calls 600
+mingus folds
+Am&jah calls 500
+fishbloom98 calls 400
+*** FLOP *** [Ks Ah Kh]
+Am&jah checks
+fishbloom98 checks
+lunotikk bets 638
+paulenpois folds
+Am&jah folds
+fishbloom98 calls 638
+*** TURN *** [Ks Ah Kh][Ad]
+fishbloom98 checks
+lunotikk checks
+*** RIVER *** [Ks Ah Kh Ad][As]
+fishbloom98 checks
+lunotikk bets 1301
+fishbloom98 calls 1301
+*** SHOW DOWN ***
+fishbloom98 shows [Jc Qd] (Full of Aces and Kings)
+lunotikk shows [Qh 8h] (Full of Aces and Kings)
+lunotikk collected 3214 from pot
+fishbloom98 collected 3214 from pot
+*** SUMMARY ***
+Total pot 6428 | No rake
+Board: [Ks Ah Kh Ad As]
+Seat 5: fishbloom98 (big blind) showed [Jc Qd] and won 3214 with Full of Aces and Kings
+Seat 6: lunotikk showed [Qh 8h] and won 3214 with Full of Aces and Kings
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-12-1773868370 - Holdem no limit (25/100/200) - 2026/03/18 21:12:50 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (21530, 1€ bounty)
+Seat 2: paulenpois (22084, 1€ bounty)
+Seat 3: mingus (58308, 2.50€ bounty)
+Seat 4: Am&jah (17425, 1€ bounty)
+Seat 5: fishbloom98 (17527, 1€ bounty)
+Seat 6: lunotikk (23551, 1€ bounty)
+*** ANTE/BLINDS ***
+fishbloom98 posts ante 25
+lunotikk posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts ante 25
+fishbloom98 posts small blind 100
+lunotikk posts big blind 200
+Dealt to MathisKcr [3s 3c]
+*** PRE-FLOP *** 
+MathisKcr raises 21305 to 21505 and is all-in
+paulenpois folds
+mingus folds
+Am&jah folds
+fishbloom98 folds
+lunotikk folds
+MathisKcr collected 21955 from pot
+*** SUMMARY ***
+Total pot 21955 | No rake
+Seat 1: MathisKcr won 21955
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-13-1773868387 - Holdem no limit (25/100/200) - 2026/03/18 21:13:07 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (21955, 1€ bounty)
+Seat 2: paulenpois (22059, 1€ bounty)
+Seat 3: mingus (58283, 2.50€ bounty)
+Seat 4: Am&jah (17400, 1€ bounty)
+Seat 5: fishbloom98 (17402, 1€ bounty)
+Seat 6: lunotikk (23326, 1€ bounty)
+*** ANTE/BLINDS ***
+lunotikk posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts ante 25
+fishbloom98 posts ante 25
+lunotikk posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [6c Qs]
+*** PRE-FLOP *** 
+paulenpois folds
+mingus calls 200
+Am&jah folds
+fishbloom98 raises 300 to 500
+lunotikk folds
+MathisKcr folds
+mingus calls 300
+*** FLOP *** [Ts 4s 5c]
+mingus checks
+fishbloom98 checks
+*** TURN *** [Ts 4s 5c][9d]
+mingus bets 400
+fishbloom98 folds
+mingus collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [Ts 4s 5c 9d]
+Seat 3: mingus won 1850
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-14-1773868445 - Holdem no limit (25/100/200) - 2026/03/18 21:14:05 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (21730, 1€ bounty)
+Seat 2: paulenpois (22034, 1€ bounty)
+Seat 3: mingus (59208, 2.50€ bounty)
+Seat 4: Am&jah (17375, 1€ bounty)
+Seat 5: fishbloom98 (16877, 1€ bounty)
+Seat 6: lunotikk (23201, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts ante 25
+fishbloom98 posts ante 25
+lunotikk posts ante 25
+MathisKcr posts small blind 100
+paulenpois posts big blind 200
+Dealt to MathisKcr [Ac 9c]
+*** PRE-FLOP *** 
+mingus calls 200
+Am&jah calls 200
+fishbloom98 folds
+lunotikk folds
+MathisKcr raises 300 to 500
+paulenpois calls 300
+mingus calls 300
+Am&jah calls 300
+*** FLOP *** [Qd 3c 8s]
+MathisKcr bets 753
+paulenpois calls 753
+mingus folds
+Am&jah raises 3377 to 4130
+MathisKcr folds
+paulenpois folds
+Am&jah collected 7786 from pot
+*** SUMMARY ***
+Total pot 7786 | No rake
+Board: [Qd 3c 8s]
+Seat 4: Am&jah won 7786
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-15-1773868501 - Holdem no limit (25/100/200) - 2026/03/18 21:15:01 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (20452, 1€ bounty)
+Seat 2: paulenpois (20756, 1€ bounty)
+Seat 3: mingus (58683, 2.50€ bounty)
+Seat 4: Am&jah (20506, 1€ bounty)
+Seat 5: fishbloom98 (16852, 1€ bounty)
+Seat 6: lunotikk (23176, 1€ bounty)
+*** ANTE/BLINDS ***
+paulenpois posts ante 25
+mingus posts ante 25
+MathisKcr posts ante 25
+Am&jah posts ante 25
+fishbloom98 posts ante 25
+lunotikk posts ante 25
+paulenpois posts small blind 100
+mingus posts big blind 200
+Dealt to MathisKcr [8s Qd]
+*** PRE-FLOP *** 
+Am&jah folds
+fishbloom98 folds
+lunotikk raises 400 to 600
+MathisKcr calls 600
+paulenpois calls 500
+mingus calls 400
+*** FLOP *** [Qs 9h 7c]
+paulenpois checks
+mingus bets 200
+lunotikk raises 871 to 1071
+MathisKcr calls 1071
+paulenpois folds
+mingus calls 871
+*** TURN *** [Qs 9h 7c][Kh]
+mingus checks
+lunotikk checks
+MathisKcr checks
+*** RIVER *** [Qs 9h 7c Kh][Ah]
+mingus checks
+lunotikk checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [8s Qd] (One pair : Queens)
+mingus shows [8d 5d] (High card : Ace)
+lunotikk shows [Qc Th] (One pair : Queens)
+lunotikk collected 5763 from pot
+*** SUMMARY ***
+Total pot 5763 | No rake
+Board: [Qs 9h 7c Kh Ah]
+Seat 1: MathisKcr (button) showed [8s Qd] and lost with One pair : Queens
+Seat 3: mingus (big blind) showed [8d 5d] and lost with High card : Ace
+Seat 6: lunotikk showed [Qc Th] and won 5763 with One pair : Queens
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-16-1773868589 - Holdem no limit (25/100/200) - 2026/03/18 21:16:29 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (18756, 1€ bounty)
+Seat 2: paulenpois (20131, 1€ bounty)
+Seat 3: mingus (56987, 2.50€ bounty)
+Seat 4: Am&jah (20481, 1€ bounty)
+Seat 6: lunotikk (27243, 1€ bounty)
+*** ANTE/BLINDS ***
+mingus posts ante 25
+Am&jah posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+lunotikk posts ante 25
+mingus posts small blind 100
+Am&jah posts big blind 200
+Dealt to MathisKcr [Ac Qd]
+*** PRE-FLOP *** 
+lunotikk raises 500 to 700
+MathisKcr raises 1400 to 2100
+paulenpois folds
+mingus folds
+Am&jah folds
+lunotikk calls 1400
+*** FLOP *** [4c 8h 6s]
+lunotikk checks
+MathisKcr bets 1619
+lunotikk raises 3501 to 5120
+MathisKcr calls 3501
+*** TURN *** [4c 8h 6s][Kc]
+lunotikk checks
+MathisKcr bets 11511 and is all-in
+lunotikk folds
+MathisKcr collected 26376 from pot
+*** SUMMARY ***
+Total pot 26376 | No rake
+Board: [4c 8h 6s Kc]
+Seat 1: MathisKcr won 26376
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-17-1773868667 - Holdem no limit (25/100/200) - 2026/03/18 21:17:47 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (26376, 1€ bounty)
+Seat 2: paulenpois (20106, 1€ bounty)
+Seat 3: mingus (56862, 2.50€ bounty)
+Seat 4: Am&jah (20256, 1€ bounty)
+Seat 5: Emeu-confus0 (20000, 1€ bounty)
+Seat 6: lunotikk (19998, 1€ bounty)
+*** ANTE/BLINDS ***
+Am&jah posts ante 25
+Emeu-confus0 posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+lunotikk posts ante 25
+Am&jah posts small blind 100
+Emeu-confus0 posts big blind 200
+Dealt to MathisKcr [8s Ad]
+*** PRE-FLOP *** 
+lunotikk folds
+MathisKcr raises 200 to 400
+paulenpois folds
+mingus calls 400
+Am&jah raises 1400 to 1800
+Emeu-confus0 folds
+MathisKcr calls 1400
+mingus calls 1400
+*** FLOP *** [5h Jh 7s]
+Am&jah bets 4600
+MathisKcr folds
+mingus calls 4600
+*** TURN *** [5h Jh 7s][4h]
+Am&jah bets 13831 and is all-in
+mingus folds
+Am&jah collected 28781 from pot
+*** SUMMARY ***
+Total pot 28781 | No rake
+Board: [5h Jh 7s 4h]
+Seat 4: Am&jah (small blind) won 28781
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-18-1773868711 - Holdem no limit (25/100/200) - 2026/03/18 21:18:31 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (24551, 1€ bounty)
+Seat 2: paulenpois (20081, 1€ bounty)
+Seat 3: mingus (50437, 2.50€ bounty)
+Seat 4: Am&jah (28781, 1€ bounty)
+Seat 5: Emeu-confus0 (19775, 1€ bounty)
+Seat 6: lunotikk (19973, 1€ bounty)
+*** ANTE/BLINDS ***
+Emeu-confus0 posts ante 25
+lunotikk posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts ante 25
+Emeu-confus0 posts small blind 100
+lunotikk posts big blind 200
+Dealt to MathisKcr [9c 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+paulenpois folds
+mingus calls 200
+Am&jah calls 200
+Emeu-confus0 calls 100
+lunotikk checks
+*** FLOP *** [4c 7c Ks]
+Emeu-confus0 checks
+lunotikk checks
+mingus checks
+Am&jah checks
+*** TURN *** [4c 7c Ks][9d]
+Emeu-confus0 bets 200
+lunotikk calls 200
+mingus calls 200
+Am&jah folds
+*** RIVER *** [4c 7c Ks 9d][Ad]
+Emeu-confus0 bets 1550
+lunotikk folds
+mingus folds
+Emeu-confus0 collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Board: [4c 7c Ks 9d Ad]
+Seat 5: Emeu-confus0 (small blind) won 3100
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-19-1773868750 - Holdem no limit (25/100/200) - 2026/03/18 21:19:10 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (24526, 1€ bounty)
+Seat 2: paulenpois (20056, 1€ bounty)
+Seat 3: mingus (50012, 2.50€ bounty)
+Seat 4: Am&jah (28556, 1€ bounty)
+Seat 5: Emeu-confus0 (20900, 1€ bounty)
+Seat 6: lunotikk (19548, 1€ bounty)
+*** ANTE/BLINDS ***
+lunotikk posts ante 25
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts ante 25
+Emeu-confus0 posts ante 25
+lunotikk posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [4s 5d]
+*** PRE-FLOP *** 
+paulenpois calls 200
+mingus folds
+Am&jah calls 200
+Emeu-confus0 calls 200
+lunotikk folds
+MathisKcr checks
+*** FLOP *** [7h 8c 3c]
+MathisKcr checks
+paulenpois checks
+Am&jah checks
+Emeu-confus0 checks
+*** TURN *** [7h 8c 3c][8d]
+MathisKcr checks
+paulenpois bets 368
+Am&jah calls 368
+Emeu-confus0 folds
+MathisKcr calls 368
+*** RIVER *** [7h 8c 3c 8d][Kd]
+MathisKcr checks
+paulenpois checks
+Am&jah checks
+*** SHOW DOWN ***
+MathisKcr shows [4s 5d] (One pair : 8)
+Am&jah shows [Qc Ac] (One pair : 8)
+paulenpois shows [Td 7d] (Two pairs : 8 and 7)
+paulenpois collected 2154 from pot
+*** SUMMARY ***
+Total pot 2154 | No rake
+Board: [7h 8c 3c 8d Kd]
+Seat 1: MathisKcr (big blind) showed [4s 5d] and lost with One pair : 8
+Seat 2: paulenpois showed [Td 7d] and won 2154 with Two pairs : 8 and 7
+Seat 4: Am&jah showed [Qc Ac] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4573518078586912827-20-1773868816 - Holdem no limit (25/100/200) - 2026/03/18 21:20:16 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (23933, 1€ bounty)
+Seat 2: paulenpois (21617, 1€ bounty)
+Seat 3: mingus (49987, 2.50€ bounty)
+Seat 4: Am&jah (27963, 1€ bounty)
+Seat 5: Emeu-confus0 (20675, 1€ bounty)
+Seat 6: lunotikk (19423, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+paulenpois posts ante 25
+mingus posts ante 25
+Am&jah posts ante 25
+Emeu-confus0 posts ante 25
+lunotikk posts ante 25
+MathisKcr posts small blind 100
+paulenpois posts big blind 200
+Dealt to MathisKcr [6s 3d]
+*** PRE-FLOP *** 
+mingus calls 200
+Am&jah folds
+Emeu-confus0 folds
+lunotikk calls 200
+MathisKcr calls 100
+paulenpois checks
+*** FLOP *** [5s 5c 3h]
+MathisKcr bets 618
+paulenpois calls 618
+mingus folds
+lunotikk calls 618
+*** TURN *** [5s 5c 3h][7c]
+MathisKcr bets 981
+paulenpois folds
+lunotikk raises 2019 to 3000
+MathisKcr calls 2019
+*** RIVER *** [5s 5c 3h 7c][Ah]
+MathisKcr checks
+lunotikk checks
+*** SHOW DOWN ***
+MathisKcr shows [6s 3d] (Two pairs : 5 and 3)
+lunotikk shows [3s 7s] (Two pairs : 7 and 5)
+lunotikk collected 8804 from pot
+*** SUMMARY ***
+Total pot 8804 | No rake
+Board: [5s 5c 3h 7c Ah]
+Seat 1: MathisKcr (small blind) showed [6s 3d] and lost with Two pairs : 5 and 3
+Seat 6: lunotikk (button) showed [3s 7s] and won 8804 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #4573518078586912827-21-1773868898 - Holdem no limit (30/125/250) - 2026/03/18 21:21:38 UTC
+Table: 'OUTERSPACE(1064855158)#0058' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (20090, 1€ bounty)
+Seat 2: paulenpois (20774, 1€ bounty)
+Seat 3: mingus (49762, 2.50€ bounty)
+Seat 4: Am&jah (27938, 1€ bounty)
+Seat 5: Emeu-confus0 (20650, 1€ bounty)
+Seat 6: lunotikk (24384, 1€ bounty)
+*** ANTE/BLINDS ***
+paulenpois posts ante 30
+mingus posts ante 30
+MathisKcr posts ante 30
+Am&jah posts ante 30
+Emeu-confus0 posts ante 30
+lunotikk posts ante 30
+paulenpois posts small blind 125
+mingus posts big blind 250
+Dealt to MathisKcr [Ac Jc]
+*** PRE-FLOP *** 
+Am&jah calls 250
+Emeu-confus0 calls 250
+lunotikk folds
+MathisKcr raises 250 to 500
+paulenpois folds
+mingus calls 250
+Am&jah folds
+Emeu-confus0 calls 250
+*** FLOP *** [Qc Th 6d]
+mingus bets 2055
+Emeu-confus0 calls 2055
+MathisKcr raises 17505 to 19560 and is all-in
+mingus calls 17505
+Emeu-confus0 folds
+*** TURN *** [Qc Th 6d][5h]
+*** RIVER *** [Qc Th 6d 5h][9h]
+*** SHOW DOWN ***
+MathisKcr shows [Ac Jc] (High card : Ace)
+mingus shows [Qd 5c] (Two pairs : Queens and 5)
+mingus collected 43230 from pot
+*** SUMMARY ***
+Total pot 43230 | No rake
+Board: [Qc Th 6d 5h 9h]
+Seat 1: MathisKcr (button) showed [Ac Jc] and lost with High card : Ace
+Seat 3: mingus (big blind) showed [Qd 5c] and won 43230 with Two pairs : Queens and 5
+
+

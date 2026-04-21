@@ -1,0 +1,73 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693212357495619585-1-1775722186 - Holdem no limit (10/20) - 2026/04/09 08:09:46 UTC
+Table: 'Expresso Nitro(1092723654)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Oso Celeste1 (300)
+Seat 3: pabzzen (300)
+*** ANTE/BLINDS ***
+Oso Celeste1 posts small blind 10
+pabzzen posts big blind 20
+Dealt to MathisKcr [Jh 2d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Oso Celeste1 raises 20 to 40
+pabzzen folds
+Oso Celeste1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Oso Celeste1 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693212357495619585-2-1775722195 - Holdem no limit (10/20) - 2026/04/09 08:09:55 UTC
+Table: 'Expresso Nitro(1092723654)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Oso Celeste1 (320)
+Seat 3: pabzzen (280)
+*** ANTE/BLINDS ***
+pabzzen posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jc 5c]
+*** PRE-FLOP *** 
+Oso Celeste1 raises 20 to 40
+pabzzen folds
+MathisKcr calls 20
+*** FLOP *** [3s Kh 4s]
+MathisKcr checks
+Oso Celeste1 bets 90
+MathisKcr folds
+Oso Celeste1 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [3s Kh 4s]
+Seat 2: Oso Celeste1 (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693212357495619585-3-1775722214 - Holdem no limit (10/20) - 2026/04/09 08:10:14 UTC
+Table: 'Expresso Nitro(1092723654)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (260)
+Seat 2: Oso Celeste1 (370)
+Seat 3: pabzzen (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Oso Celeste1 posts big blind 20
+Dealt to MathisKcr [9h Jd]
+*** PRE-FLOP *** 
+pabzzen raises 50 to 70
+MathisKcr calls 60
+Oso Celeste1 folds
+*** FLOP *** [Jc 2c 4d]
+MathisKcr bets 56
+pabzzen raises 144 to 200 and is all-in
+MathisKcr calls 134 and is all-in
+*** TURN *** [Jc 2c 4d][Kh]
+*** RIVER *** [Jc 2c 4d Kh][5c]
+*** SHOW DOWN ***
+MathisKcr shows [9h Jd] (One pair : Jacks)
+pabzzen shows [Ks Ac] (One pair : Kings)
+pabzzen collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Jc 2c 4d Kh 5c]
+Seat 1: MathisKcr (small blind) showed [9h Jd] and lost with One pair : Jacks
+Seat 3: pabzzen (button) showed [Ks Ac] and won 550 with One pair : Kings
+
+

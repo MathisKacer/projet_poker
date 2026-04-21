@@ -1,0 +1,526 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4295208681751969793-1-1759755179 - Holdem no limit (10/20) - 2025/10/06 12:52:59 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Force 663146 (1500)
+Seat 2: MathisKcr (1500)
+Seat 3: Gavril24 (1500)
+Seat 4: JS_Joker (1500)
+Seat 5: TnulJtenc (1500)
+Seat 6: 3Palestine (1500)
+*** ANTE/BLINDS ***
+Gavril24 posts small blind 10
+JS_Joker posts big blind 20
+Dealt to MathisKcr [5c Td]
+*** PRE-FLOP *** 
+TnulJtenc raises 20 to 40
+3Palestine folds
+Force 663146 calls 40
+MathisKcr folds
+Gavril24 calls 30
+JS_Joker folds
+*** FLOP *** [6s Jc 8s]
+Gavril24 checks
+TnulJtenc bets 60
+Force 663146 folds
+Gavril24 calls 60
+*** TURN *** [6s Jc 8s][Js]
+Gavril24 checks
+TnulJtenc bets 120
+Gavril24 calls 120
+*** RIVER *** [6s Jc 8s Js][Th]
+Gavril24 checks
+TnulJtenc bets 500
+Gavril24 calls 500
+*** SHOW DOWN ***
+Gavril24 shows [8d Tc] (Two pairs : Jacks and Tens)
+TnulJtenc shows [9h Jh] (Trips of Jacks)
+TnulJtenc collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [6s Jc 8s Js Th]
+Seat 3: Gavril24 (small blind) showed [8d Tc] and lost with Two pairs : Jacks and Tens
+Seat 5: TnulJtenc showed [9h Jh] and won 1500 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4295208681751969793-2-1759755227 - Holdem no limit (10/20) - 2025/10/06 12:53:47 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Force 663146 (1460)
+Seat 2: MathisKcr (1500)
+Seat 3: Gavril24 (780)
+Seat 4: JS_Joker (1480)
+Seat 5: TnulJtenc (2280)
+Seat 6: 3Palestine (1500)
+*** ANTE/BLINDS ***
+JS_Joker posts small blind 10
+TnulJtenc posts big blind 20
+Dealt to MathisKcr [Ad Qd]
+*** PRE-FLOP *** 
+3Palestine folds
+Force 663146 folds
+MathisKcr raises 20 to 40
+Gavril24 folds
+JS_Joker folds
+TnulJtenc raises 80 to 120
+MathisKcr raises 80 to 200
+TnulJtenc calls 80
+*** FLOP *** [Qs Kh 2c]
+TnulJtenc checks
+MathisKcr bets 1300 and is all-in
+TnulJtenc folds
+MathisKcr collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [Qs Kh 2c]
+Seat 2: MathisKcr won 1710
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4295208681751969793-3-1759755259 - Holdem no limit (10/20) - 2025/10/06 12:54:19 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Force 663146 (1460)
+Seat 2: MathisKcr (1710)
+Seat 3: Gavril24 (780)
+Seat 4: JS_Joker (1470)
+Seat 5: TnulJtenc (2080)
+Seat 6: 3Palestine (1500)
+*** ANTE/BLINDS ***
+TnulJtenc posts small blind 10
+3Palestine posts big blind 20
+Dealt to MathisKcr [5d 3d]
+*** PRE-FLOP *** 
+Force 663146 calls 20
+MathisKcr folds
+Gavril24 raises 25 to 45
+JS_Joker calls 45
+TnulJtenc calls 35
+3Palestine calls 25
+Force 663146 calls 25
+*** FLOP *** [Ah Ts 9s]
+TnulJtenc checks
+3Palestine bets 225
+Force 663146 folds
+Gavril24 calls 225
+JS_Joker calls 225
+TnulJtenc folds
+*** TURN *** [Ah Ts 9s][7h]
+3Palestine bets 315
+Gavril24 calls 315
+JS_Joker calls 315
+*** RIVER *** [Ah Ts 9s 7h][7d]
+3Palestine bets 915 and is all-in
+Gavril24 folds
+JS_Joker calls 885 and is all-in
+*** SHOW DOWN ***
+JS_Joker shows [Tc 7s] (Full of 7 and Tens)
+3Palestine shows [5s As] (Two pairs : Aces and 7)
+3Palestine collected 30 from side pot 1
+JS_Joker collected 3615 from main pot
+*** SUMMARY ***
+Total pot 3645 | No rake
+Board: [Ah Ts 9s 7h 7d]
+Seat 4: JS_Joker (button) showed [Tc 7s] and won 3615 with Full of 7 and Tens
+Seat 6: 3Palestine (big blind) showed [5s As] and won 30 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4295208681751969793-4-1759755333 - Holdem no limit (15/30) - 2025/10/06 12:55:33 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Force 663146 (1415)
+Seat 2: MathisKcr (1710)
+Seat 3: Gavril24 (195)
+Seat 4: JS_Joker (3615)
+Seat 5: TnulJtenc (2035)
+Seat 6: 3Palestine (30)
+*** ANTE/BLINDS ***
+3Palestine posts small blind 15
+Force 663146 posts big blind 30
+Dealt to MathisKcr [Qc Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Gavril24 raises 135 to 195 and is all-in
+JS_Joker folds
+TnulJtenc folds
+3Palestine calls 15 and is all-in
+Force 663146 calls 165
+MathisKcr raises 1515 to 1710 and is all-in
+Force 663146 folds
+*** FLOP *** [7d Td 7c]
+*** TURN *** [7d Td 7c][2c]
+*** RIVER *** [7d Td 7c 2c][9h]
+*** SHOW DOWN ***
+Gavril24 shows [Kd 3h] (One pair : 7)
+3Palestine shows [Ks 4d] (One pair : 7)
+MathisKcr shows [Qc Ad] (One pair : 7)
+MathisKcr collected 2130 from pot
+*** SUMMARY ***
+Total pot 2130 | No rake
+Board: [7d Td 7c 2c 9h]
+Seat 2: MathisKcr showed [Qc Ad] and won 2130 with One pair : 7
+Seat 3: Gavril24 showed [Kd 3h] and lost with One pair : 7
+Seat 6: 3Palestine (small blind) showed [Ks 4d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4295208681751969793-5-1759755377 - Holdem no limit (20/40) - 2025/10/06 12:56:17 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Force 663146 (1220)
+Seat 2: MathisKcr (2130)
+Seat 4: JS_Joker (3615)
+Seat 5: TnulJtenc (2035)
+*** ANTE/BLINDS ***
+Force 663146 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kh Js]
+*** PRE-FLOP *** 
+JS_Joker calls 40
+TnulJtenc folds
+Force 663146 calls 20
+MathisKcr raises 80 to 120
+JS_Joker calls 80
+Force 663146 calls 80
+*** FLOP *** [6c 6s 2s]
+Force 663146 bets 360
+MathisKcr folds
+JS_Joker folds
+Force 663146 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [6c 6s 2s]
+Seat 1: Force 663146 (small blind) won 720
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4295208681751969793-6-1759755437 - Holdem no limit (20/40) - 2025/10/06 12:57:17 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Force 663146 (1460)
+Seat 2: MathisKcr (2010)
+Seat 4: JS_Joker (3495)
+Seat 5: TnulJtenc (2035)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+JS_Joker posts big blind 40
+Dealt to MathisKcr [2d 9c]
+*** PRE-FLOP *** 
+TnulJtenc raises 80 to 120
+Force 663146 raises 240 to 360
+MathisKcr folds
+JS_Joker calls 320
+TnulJtenc calls 240
+*** FLOP *** [Qc 6d 5s]
+JS_Joker bets 40
+TnulJtenc calls 40
+Force 663146 raises 401 to 441
+JS_Joker calls 401
+TnulJtenc folds
+*** TURN *** [Qc 6d 5s][7d]
+JS_Joker bets 2694 and is all-in
+Force 663146 calls 659 and is all-in
+*** RIVER *** [Qc 6d 5s 7d][3h]
+*** SHOW DOWN ***
+Force 663146 shows [5d 5h] (Trips of 5)
+JS_Joker shows [Td Ts] (One pair : Tens)
+JS_Joker collected 2035 from side pot 1
+Force 663146 collected 3340 from main pot
+*** SUMMARY ***
+Total pot 5375 | No rake
+Board: [Qc 6d 5s 7d 3h]
+Seat 1: Force 663146 (button) showed [5d 5h] and won 3340 with Trips of 5
+Seat 4: JS_Joker (big blind) showed [Td Ts] and won 2035 with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4295208681751969793-7-1759755469 - Holdem no limit (30/60) - 2025/10/06 12:57:49 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Force 663146 (3340)
+Seat 2: MathisKcr (1990)
+Seat 4: JS_Joker (2035)
+Seat 5: TnulJtenc (1635)
+*** ANTE/BLINDS ***
+JS_Joker posts small blind 30
+TnulJtenc posts big blind 60
+Dealt to MathisKcr [4h Ac]
+*** PRE-FLOP *** 
+Force 663146 calls 60
+MathisKcr calls 60
+JS_Joker raises 1975 to 2035 and is all-in
+TnulJtenc folds
+Force 663146 folds
+MathisKcr calls 1930 and is all-in
+*** FLOP *** [5d 4d Kh]
+*** TURN *** [5d 4d Kh][7s]
+*** RIVER *** [5d 4d Kh 7s][Qd]
+*** SHOW DOWN ***
+MathisKcr shows [4h Ac] (One pair : 4)
+JS_Joker shows [8s 9d] (High card : King)
+JS_Joker collected 45 from side pot 1
+MathisKcr collected 4100 from main pot
+*** SUMMARY ***
+Total pot 4145 | No rake
+Board: [5d 4d Kh 7s Qd]
+Seat 2: MathisKcr (button) showed [4h Ac] and won 4100 with One pair : 4
+Seat 4: JS_Joker (small blind) showed [8s 9d] and won 45 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4295208681751969793-8-1759755498 - Holdem no limit (30/60) - 2025/10/06 12:58:18 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Force 663146 (3280)
+Seat 2: MathisKcr (4100)
+Seat 4: JS_Joker (45)
+Seat 5: TnulJtenc (1575)
+*** ANTE/BLINDS ***
+TnulJtenc posts small blind 30
+Force 663146 posts big blind 60
+Dealt to MathisKcr [8d 9c]
+*** PRE-FLOP *** 
+MathisKcr folds
+JS_Joker calls 45 and is all-in
+TnulJtenc folds
+*** FLOP *** [6d Qc Qh]
+*** TURN *** [6d Qc Qh][Td]
+*** RIVER *** [6d Qc Qh Td][Ad]
+*** SHOW DOWN ***
+Force 663146 shows [5d 4c] (One pair : Queens)
+JS_Joker shows [2s 8c] (One pair : Queens)
+JS_Joker collected 120 from main pot
+Force 663146 collected 15 from side pot 1
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [6d Qc Qh Td Ad]
+Seat 1: Force 663146 (big blind) showed [5d 4c] and won 15 with One pair : Queens
+Seat 4: JS_Joker (button) showed [2s 8c] and won 120 with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4295208681751969793-9-1759755516 - Holdem no limit (30/60) - 2025/10/06 12:58:36 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Force 663146 (3235)
+Seat 2: MathisKcr (4100)
+Seat 4: JS_Joker (120)
+Seat 5: TnulJtenc (1545)
+*** ANTE/BLINDS ***
+Force 663146 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ks 9s]
+*** PRE-FLOP *** 
+JS_Joker raises 60 to 120 and is all-in
+TnulJtenc folds
+Force 663146 calls 90
+MathisKcr calls 60
+*** FLOP *** [Ts Tc 3c]
+Force 663146 checks
+MathisKcr bets 180
+Force 663146 folds
+*** TURN *** [Ts Tc 3c][Th]
+*** RIVER *** [Ts Tc 3c Th][7h]
+*** SHOW DOWN ***
+JS_Joker shows [Jc 4d] (Trips of Tens)
+MathisKcr shows [Ks 9s] (Trips of Tens)
+MathisKcr collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Ts Tc 3c Th 7h]
+Seat 2: MathisKcr (big blind) showed [Ks 9s] and won 540 with Trips of Tens
+Seat 4: JS_Joker showed [Jc 4d] and lost with Trips of Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4295208681751969793-10-1759755536 - Holdem no limit (30/60) - 2025/10/06 12:58:56 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Force 663146 (3115)
+Seat 2: MathisKcr (4340)
+Seat 5: TnulJtenc (1545)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+TnulJtenc posts big blind 60
+Dealt to MathisKcr [Tc 6c]
+*** PRE-FLOP *** 
+Force 663146 folds
+MathisKcr calls 30
+TnulJtenc checks
+*** FLOP *** [Ac 4h Qh]
+MathisKcr checks
+TnulJtenc checks
+*** TURN *** [Ac 4h Qh][5d]
+MathisKcr checks
+TnulJtenc checks
+*** RIVER *** [Ac 4h Qh 5d][Qc]
+MathisKcr checks
+TnulJtenc checks
+*** SHOW DOWN ***
+TnulJtenc shows [9c 2s] (One pair : Queens)
+MathisKcr shows [Tc 6c] (One pair : Queens)
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ac 4h Qh 5d Qc]
+Seat 2: MathisKcr (small blind) showed [Tc 6c] and won 120 with One pair : Queens
+Seat 5: TnulJtenc (big blind) showed [9c 2s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4295208681751969793-11-1759755566 - Holdem no limit (40/80) - 2025/10/06 12:59:26 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Force 663146 (3115)
+Seat 2: MathisKcr (4400)
+Seat 5: TnulJtenc (1485)
+*** ANTE/BLINDS ***
+TnulJtenc posts small blind 40
+Force 663146 posts big blind 80
+Dealt to MathisKcr [2s 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+TnulJtenc folds
+Force 663146 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Force 663146 (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4295208681751969793-12-1759755574 - Holdem no limit (40/80) - 2025/10/06 12:59:34 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Force 663146 (3155)
+Seat 2: MathisKcr (4400)
+Seat 5: TnulJtenc (1445)
+*** ANTE/BLINDS ***
+Force 663146 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [9h 8c]
+*** PRE-FLOP *** 
+TnulJtenc folds
+Force 663146 calls 40
+MathisKcr checks
+*** FLOP *** [Qs 4c 8d]
+Force 663146 checks
+MathisKcr bets 160
+Force 663146 folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Qs 4c 8d]
+Seat 2: MathisKcr (big blind) won 320
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4295208681751969793-13-1759755596 - Holdem no limit (40/80) - 2025/10/06 12:59:56 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Force 663146 (3075)
+Seat 2: MathisKcr (4480)
+Seat 5: TnulJtenc (1445)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+TnulJtenc posts big blind 80
+Dealt to MathisKcr [8h 8c]
+*** PRE-FLOP *** 
+Force 663146 folds
+MathisKcr raises 80 to 160
+TnulJtenc calls 80
+*** FLOP *** [7s 9h Jd]
+MathisKcr bets 4320 and is all-in
+TnulJtenc calls 1285 and is all-in
+*** TURN *** [7s 9h Jd][Ks]
+*** RIVER *** [7s 9h Jd Ks][9d]
+*** SHOW DOWN ***
+TnulJtenc shows [7d Qd] (Two pairs : 9 and 7)
+MathisKcr shows [8h 8c] (Two pairs : 9 and 8)
+MathisKcr collected 5925 from pot
+*** SUMMARY ***
+Total pot 5925 | No rake
+Board: [7s 9h Jd Ks 9d]
+Seat 2: MathisKcr (small blind) showed [8h 8c] and won 5925 with Two pairs : 9 and 8
+Seat 5: TnulJtenc (big blind) showed [7d Qd] and lost with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4295208681751969793-14-1759755616 - Holdem no limit (40/80) - 2025/10/06 13:00:16 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Force 663146 (3075)
+Seat 2: MathisKcr (5925)
+*** ANTE/BLINDS ***
+Force 663146 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Kh 4s]
+*** PRE-FLOP *** 
+Force 663146 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4295208681751969793-15-1759755623 - Holdem no limit (40/80) - 2025/10/06 13:00:23 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Force 663146 (3035)
+Seat 2: MathisKcr (5965)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Force 663146 posts big blind 80
+Dealt to MathisKcr [9h 3d]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+Force 663146 raises 160 to 240
+MathisKcr folds
+Force 663146 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Force 663146 (big blind) won 320
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4295208681751969793-16-1759755640 - Holdem no limit (60/120) - 2025/10/06 13:00:40 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Force 663146 (3115)
+Seat 2: MathisKcr (5885)
+*** ANTE/BLINDS ***
+Force 663146 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [Qs 2h]
+*** PRE-FLOP *** 
+Force 663146 calls 60
+MathisKcr checks
+*** FLOP *** [Tc Jd 7c]
+MathisKcr checks
+Force 663146 checks
+*** TURN *** [Tc Jd 7c][Js]
+MathisKcr checks
+Force 663146 checks
+*** RIVER *** [Tc Jd 7c Js][Kh]
+MathisKcr checks
+Force 663146 bets 240
+MathisKcr folds
+Force 663146 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Tc Jd 7c Js Kh]
+Seat 1: Force 663146 (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4295208681751969793-17-1759755675 - Holdem no limit (60/120) - 2025/10/06 13:01:15 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Force 663146 (3235)
+Seat 2: MathisKcr (5765)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 60
+Force 663146 posts big blind 120
+Dealt to MathisKcr [3d 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Force 663146 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: Force 663146 (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4295208681751969793-18-1759755680 - Holdem no limit (60/120) - 2025/10/06 13:01:20 UTC
+Table: 'Starting Block WiPT(1000056202)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Force 663146 (3295)
+Seat 2: MathisKcr (5705)
+*** ANTE/BLINDS ***
+Force 663146 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [Ad 7h]
+*** PRE-FLOP *** 
+Force 663146 raises 240 to 360
+MathisKcr raises 5345 to 5705 and is all-in
+Force 663146 calls 2935 and is all-in
+*** FLOP *** [Js 4s Ts]
+*** TURN *** [Js 4s Ts][Jh]
+*** RIVER *** [Js 4s Ts Jh][7c]
+*** SHOW DOWN ***
+Force 663146 shows [Qh Kd] (One pair : Jacks)
+MathisKcr shows [Ad 7h] (Two pairs : Jacks and 7)
+MathisKcr collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Board: [Js 4s Ts Jh 7c]
+Seat 1: Force 663146 (small blind) (button) showed [Qh Kd] and lost with One pair : Jacks
+Seat 2: MathisKcr (big blind) showed [Ad 7h] and won 9000 with Two pairs : Jacks and 7
+
+

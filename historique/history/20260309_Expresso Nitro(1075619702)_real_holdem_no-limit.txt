@@ -1,0 +1,221 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4619751443023265793-1-1773099531 - Holdem no limit (10/20) - 2026/03/09 23:38:51 UTC
+Table: 'Expresso Nitro(1075619702)#0' 3-max (real money) Seat #3 is the button
+Seat 1: applepouri2b (300)
+Seat 2: MathisKcr (300)
+Seat 3: MiweCAS (300)
+*** ANTE/BLINDS ***
+applepouri2b posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c 8c]
+*** PRE-FLOP *** 
+MiweCAS folds
+applepouri2b folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4619751443023265793-2-1773099543 - Holdem no limit (10/20) - 2026/03/09 23:39:03 UTC
+Table: 'Expresso Nitro(1075619702)#0' 3-max (real money) Seat #1 is the button
+Seat 1: applepouri2b (290)
+Seat 2: MathisKcr (310)
+Seat 3: MiweCAS (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+MiweCAS posts big blind 20
+Dealt to MathisKcr [9d 6d]
+*** PRE-FLOP *** 
+applepouri2b folds
+MathisKcr calls 10
+MiweCAS checks
+*** FLOP *** [Qh Qc Jh]
+MathisKcr checks
+MiweCAS checks
+*** TURN *** [Qh Qc Jh][3d]
+MathisKcr checks
+MiweCAS checks
+*** RIVER *** [Qh Qc Jh 3d][Th]
+MathisKcr bets 32
+MiweCAS calls 32
+*** SHOW DOWN ***
+MathisKcr shows [9d 6d] (One pair : Queens)
+MiweCAS shows [Td 5s] (Two pairs : Queens and Tens)
+MiweCAS collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | No rake
+Board: [Qh Qc Jh 3d Th]
+Seat 2: MathisKcr (small blind) showed [9d 6d] and lost with One pair : Queens
+Seat 3: MiweCAS (big blind) showed [Td 5s] and won 104 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4619751443023265793-3-1773099568 - Holdem no limit (10/20) - 2026/03/09 23:39:28 UTC
+Table: 'Expresso Nitro(1075619702)#0' 3-max (real money) Seat #2 is the button
+Seat 1: applepouri2b (290)
+Seat 2: MathisKcr (258)
+Seat 3: MiweCAS (352)
+*** ANTE/BLINDS ***
+MiweCAS posts small blind 10
+applepouri2b posts big blind 20
+Dealt to MathisKcr [6s 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+MiweCAS raises 40 to 60
+applepouri2b raises 230 to 290 and is all-in
+MiweCAS calls 230
+*** FLOP *** [6c 9h 2h]
+*** TURN *** [6c 9h 2h][9s]
+*** RIVER *** [6c 9h 2h 9s][7h]
+*** SHOW DOWN ***
+MiweCAS shows [Qd Kc] (One pair : 9)
+applepouri2b shows [Qh Th] (Flush Queen high)
+applepouri2b collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6c 9h 2h 9s 7h]
+Seat 1: applepouri2b (big blind) showed [Qh Th] and won 580 with Flush Queen high
+Seat 3: MiweCAS (small blind) showed [Qd Kc] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4619751443023265793-4-1773099582 - Holdem no limit (10/20) - 2026/03/09 23:39:42 UTC
+Table: 'Expresso Nitro(1075619702)#0' 3-max (real money) Seat #3 is the button
+Seat 1: applepouri2b (580)
+Seat 2: MathisKcr (258)
+Seat 3: MiweCAS (62)
+*** ANTE/BLINDS ***
+applepouri2b posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4h 9c]
+*** PRE-FLOP *** 
+MiweCAS raises 42 to 62 and is all-in
+applepouri2b folds
+MathisKcr folds
+MiweCAS collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Seat 3: MiweCAS (button) won 92
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4619751443023265793-5-1773099590 - Holdem no limit (15/30) - 2026/03/09 23:39:50 UTC
+Table: 'Expresso Nitro(1075619702)#0' 3-max (real money) Seat #1 is the button
+Seat 1: applepouri2b (570)
+Seat 2: MathisKcr (238)
+Seat 3: MiweCAS (92)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+MiweCAS posts big blind 30
+Dealt to MathisKcr [4c Td]
+*** PRE-FLOP *** 
+applepouri2b folds
+MathisKcr calls 15
+MiweCAS raises 62 to 92 and is all-in
+MathisKcr calls 62
+*** FLOP *** [Jc 7s Kd]
+*** TURN *** [Jc 7s Kd][8s]
+*** RIVER *** [Jc 7s Kd 8s][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [4c Td] (High card : King)
+MiweCAS shows [9d Ah] (High card : Ace)
+MiweCAS collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | No rake
+Board: [Jc 7s Kd 8s Qs]
+Seat 2: MathisKcr (small blind) showed [4c Td] and lost with High card : King
+Seat 3: MiweCAS (big blind) showed [9d Ah] and won 184 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4619751443023265793-6-1773099607 - Holdem no limit (15/30) - 2026/03/09 23:40:07 UTC
+Table: 'Expresso Nitro(1075619702)#0' 3-max (real money) Seat #2 is the button
+Seat 1: applepouri2b (570)
+Seat 2: MathisKcr (146)
+Seat 3: MiweCAS (184)
+*** ANTE/BLINDS ***
+MiweCAS posts small blind 15
+applepouri2b posts big blind 30
+Dealt to MathisKcr [2s 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+MiweCAS calls 15
+applepouri2b checks
+*** FLOP *** [Ad 9s Jh]
+MiweCAS bets 105
+applepouri2b folds
+MiweCAS collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [Ad 9s Jh]
+Seat 3: MiweCAS (small blind) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4619751443023265793-7-1773099618 - Holdem no limit (15/30) - 2026/03/09 23:40:18 UTC
+Table: 'Expresso Nitro(1075619702)#0' 3-max (real money) Seat #3 is the button
+Seat 1: applepouri2b (540)
+Seat 2: MathisKcr (146)
+Seat 3: MiweCAS (214)
+*** ANTE/BLINDS ***
+applepouri2b posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3s 4c]
+*** PRE-FLOP *** 
+MiweCAS folds
+applepouri2b folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4619751443023265793-8-1773099625 - Holdem no limit (15/30) - 2026/03/09 23:40:25 UTC
+Table: 'Expresso Nitro(1075619702)#0' 3-max (real money) Seat #1 is the button
+Seat 1: applepouri2b (525)
+Seat 2: MathisKcr (161)
+Seat 3: MiweCAS (214)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+MiweCAS posts big blind 30
+Dealt to MathisKcr [7h Jc]
+*** PRE-FLOP *** 
+applepouri2b folds
+MathisKcr calls 15
+MiweCAS checks
+*** FLOP *** [8s 2h Kc]
+MathisKcr checks
+MiweCAS checks
+*** TURN *** [8s 2h Kc][Ah]
+MathisKcr checks
+MiweCAS bets 45
+MathisKcr folds
+MiweCAS collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [8s 2h Kc Ah]
+Seat 3: MiweCAS (big blind) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4619751443023265793-9-1773099642 - Holdem no limit (15/30) - 2026/03/09 23:40:42 UTC
+Table: 'Expresso Nitro(1075619702)#0' 3-max (real money) Seat #2 is the button
+Seat 1: applepouri2b (525)
+Seat 2: MathisKcr (131)
+Seat 3: MiweCAS (244)
+*** ANTE/BLINDS ***
+MiweCAS posts small blind 15
+applepouri2b posts big blind 30
+Dealt to MathisKcr [Ts Js]
+*** PRE-FLOP *** 
+MathisKcr raises 101 to 131 and is all-in
+MiweCAS folds
+applepouri2b raises 394 to 525 and is all-in
+*** FLOP *** [Kh Ah 3c]
+*** TURN *** [Kh Ah 3c][2c]
+*** RIVER *** [Kh Ah 3c 2c][8s]
+*** SHOW DOWN ***
+MathisKcr shows [Ts Js] (High card : Ace)
+applepouri2b shows [Jc Ad] (One pair : Aces)
+applepouri2b collected 671 from pot
+*** SUMMARY ***
+Total pot 671 | No rake
+Board: [Kh Ah 3c 2c 8s]
+Seat 1: applepouri2b (big blind) showed [Jc Ad] and won 671 with One pair : Aces
+Seat 2: MathisKcr (button) showed [Ts Js] and lost with High card : Ace
+
+

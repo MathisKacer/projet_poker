@@ -1,0 +1,72 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672406449287069697-1-1774949744 - Holdem no limit (10/20) - 2026/03/31 09:35:44 UTC
+Table: 'Expresso Nitro(1087879401)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Xs-Rorqual41 (300)
+Seat 2: Mania91 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Xs-Rorqual41 posts small blind 10
+Mania91 posts big blind 20
+Dealt to MathisKcr [Qs Js]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Xs-Rorqual41 calls 30
+Mania91 folds
+*** FLOP *** [Td 7d 9c]
+Xs-Rorqual41 checks
+MathisKcr bets 35
+Xs-Rorqual41 raises 225 to 260 and is all-in
+MathisKcr folds
+Xs-Rorqual41 collected 395 from pot
+*** SUMMARY ***
+Total pot 395 | No rake
+Board: [Td 7d 9c]
+Seat 1: Xs-Rorqual41 (small blind) won 395
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672406449287069697-2-1774949767 - Holdem no limit (10/20) - 2026/03/31 09:36:07 UTC
+Table: 'Expresso Nitro(1087879401)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Xs-Rorqual41 (395)
+Seat 2: Mania91 (280)
+Seat 3: MathisKcr (225)
+*** ANTE/BLINDS ***
+Mania91 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8h Qc]
+*** PRE-FLOP *** 
+Xs-Rorqual41 folds
+Mania91 calls 10
+MathisKcr raises 205 to 225 and is all-in
+Mania91 folds
+MathisKcr collected 245 from pot
+*** SUMMARY ***
+Total pot 245 | No rake
+Seat 3: MathisKcr (big blind) won 245
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672406449287069697-3-1774949785 - Holdem no limit (10/20) - 2026/03/31 09:36:25 UTC
+Table: 'Expresso Nitro(1087879401)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Xs-Rorqual41 (395)
+Seat 2: Mania91 (260)
+Seat 3: MathisKcr (245)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Xs-Rorqual41 posts big blind 20
+Dealt to MathisKcr [8s Ac]
+*** PRE-FLOP *** 
+Mania91 folds
+MathisKcr raises 225 to 245 and is all-in
+Xs-Rorqual41 calls 225
+*** FLOP *** [4d 7d 7s]
+*** TURN *** [4d 7d 7s][2h]
+*** RIVER *** [4d 7d 7s 2h][7h]
+*** SHOW DOWN ***
+MathisKcr shows [8s Ac] (Trips of 7)
+Xs-Rorqual41 shows [2s 2d] (Full of 7 and 2)
+Xs-Rorqual41 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [4d 7d 7s 2h 7h]
+Seat 1: Xs-Rorqual41 (big blind) showed [2s 2d] and won 490 with Full of 7 and 2
+Seat 3: MathisKcr (small blind) showed [8s Ac] and lost with Trips of 7
+
+

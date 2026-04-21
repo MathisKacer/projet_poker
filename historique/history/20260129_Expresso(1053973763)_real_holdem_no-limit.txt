@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4526782842927054849-1-1769691623 - Holdem no limit (10/20) - 2026/01/29 13:00:23 UTC
+Table: 'Expresso(1053973763)#0' 3-max (real money) Seat #3 is the button
+Seat 1: campaners189 (500)
+Seat 2: MathisKcr (500)
+Seat 3: onvabrakerW (500)
+*** ANTE/BLINDS ***
+campaners189 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8h 6d]
+*** PRE-FLOP *** 
+onvabrakerW folds
+campaners189 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4526782842927054849-2-1769691638 - Holdem no limit (10/20) - 2026/01/29 13:00:38 UTC
+Table: 'Expresso(1053973763)#0' 3-max (real money) Seat #1 is the button
+Seat 1: campaners189 (490)
+Seat 2: MathisKcr (510)
+Seat 3: onvabrakerW (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+onvabrakerW posts big blind 20
+Dealt to MathisKcr [5c 7c]
+*** PRE-FLOP *** 
+campaners189 folds
+MathisKcr raises 20 to 40
+onvabrakerW calls 20
+*** FLOP *** [2s 5s 8s]
+MathisKcr bets 60
+onvabrakerW raises 60 to 120
+MathisKcr raises 350 to 470 and is all-in
+onvabrakerW calls 340 and is all-in
+*** TURN *** [2s 5s 8s][Ac]
+*** RIVER *** [2s 5s 8s Ac][3s]
+*** SHOW DOWN ***
+MathisKcr shows [5c 7c] (One pair : 5)
+onvabrakerW shows [Ts Qs] (Flush Queen high)
+onvabrakerW collected 1000 from main pot
+MathisKcr collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [2s 5s 8s Ac 3s]
+Seat 2: MathisKcr (small blind) showed [5c 7c] and won 10 with One pair : 5
+Seat 3: onvabrakerW (big blind) showed [Ts Qs] and won 1000 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4526782842927054849-3-1769691662 - Holdem no limit (10/20) - 2026/01/29 13:01:02 UTC
+Table: 'Expresso(1053973763)#0' 3-max (real money) Seat #2 is the button
+Seat 1: campaners189 (490)
+Seat 2: MathisKcr (10)
+Seat 3: onvabrakerW (1000)
+*** ANTE/BLINDS ***
+onvabrakerW posts small blind 10
+campaners189 posts big blind 20
+Dealt to MathisKcr [9c Td]
+*** PRE-FLOP *** 
+MathisKcr calls 10 and is all-in
+onvabrakerW calls 10
+campaners189 checks
+*** FLOP *** [9s Kd 4c]
+onvabrakerW bets 50
+campaners189 folds
+*** TURN *** [9s Kd 4c][3c]
+*** RIVER *** [9s Kd 4c 3c][2d]
+*** SHOW DOWN ***
+MathisKcr shows [9c Td] (One pair : 9)
+onvabrakerW shows [Ks Tc] (One pair : Kings)
+onvabrakerW collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [9s Kd 4c 3c 2d]
+Seat 2: MathisKcr (button) showed [9c Td] and lost with One pair : 9
+Seat 3: onvabrakerW (small blind) showed [Ks Tc] and won 100 with One pair : Kings
+
+

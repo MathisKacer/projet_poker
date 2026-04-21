@@ -1,0 +1,70 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4604988575275024385-1-1772525247 - Holdem no limit (10/20) - 2026/03/03 08:07:27 UTC
+Table: 'Expresso Nitro(1072182454)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: tomcrett (300)
+Seat 3: elodie290908 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+tomcrett posts big blind 20
+Dealt to MathisKcr [4h Jd]
+*** PRE-FLOP *** 
+elodie290908 calls 20
+MathisKcr calls 10
+tomcrett checks
+*** FLOP *** [8s 4c 8d]
+MathisKcr bets 40
+tomcrett folds
+elodie290908 calls 40
+*** TURN *** [8s 4c 8d][6c]
+MathisKcr checks
+elodie290908 bets 49
+MathisKcr calls 49
+*** RIVER *** [8s 4c 8d 6c][Tc]
+MathisKcr checks
+elodie290908 checks
+*** SHOW DOWN ***
+MathisKcr shows [4h Jd] (Two pairs : 8 and 4)
+elodie290908 shows [5h 6h] (Two pairs : 8 and 6)
+elodie290908 collected 238 from pot
+*** SUMMARY ***
+Total pot 238 | No rake
+Board: [8s 4c 8d 6c Tc]
+Seat 1: MathisKcr (small blind) showed [4h Jd] and lost with Two pairs : 8 and 4
+Seat 3: elodie290908 (button) showed [5h 6h] and won 238 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4604988575275024385-2-1772525266 - Holdem no limit (10/20) - 2026/03/03 08:07:46 UTC
+Table: 'Expresso Nitro(1072182454)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (191)
+Seat 2: tomcrett (280)
+Seat 3: elodie290908 (429)
+*** ANTE/BLINDS ***
+tomcrett posts small blind 10
+elodie290908 posts big blind 20
+Dealt to MathisKcr [9h 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+tomcrett calls 30
+elodie290908 calls 20
+*** FLOP *** [2h 5d Kh]
+tomcrett checks
+elodie290908 checks
+MathisKcr bets 60
+tomcrett folds
+elodie290908 calls 60
+*** TURN *** [2h 5d Kh][Jc]
+elodie290908 checks
+MathisKcr bets 91 and is all-in
+elodie290908 calls 91
+*** RIVER *** [2h 5d Kh Jc][3d]
+*** SHOW DOWN ***
+MathisKcr shows [9h 8c] (High card : King)
+elodie290908 shows [Qs Ah] (High card : Ace)
+elodie290908 collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | No rake
+Board: [2h 5d Kh Jc 3d]
+Seat 1: MathisKcr (button) showed [9h 8c] and lost with High card : King
+Seat 3: elodie290908 (big blind) showed [Qs Ah] and won 422 with High card : Ace
+
+

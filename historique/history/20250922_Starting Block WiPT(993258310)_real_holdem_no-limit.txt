@@ -1,0 +1,118 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4266011957930229761-1-1758543137 - Holdem no limit (10/20) - 2025/09/22 12:12:17 UTC
+Table: 'Starting Block WiPT(993258310)#0' 6-max (real money) Seat #1 is the button
+Seat 1: BONBONS_2002 (1500)
+Seat 2: Dr. P (1500)
+Seat 3: MathisKcr (1500)
+Seat 4: Tom26262626 (1500)
+Seat 5: falcon17570 (1500)
+Seat 6: KVN4217 (1500)
+*** ANTE/BLINDS ***
+Dr. P posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d 3h]
+*** PRE-FLOP *** 
+Tom26262626 calls 20
+falcon17570 calls 20
+KVN4217 folds
+BONBONS_2002 raises 1480 to 1500 and is all-in
+Dr. P folds
+MathisKcr folds
+Tom26262626 calls 1480 and is all-in
+falcon17570 folds
+*** FLOP *** [Kd 8h Qd]
+*** TURN *** [Kd 8h Qd][8s]
+*** RIVER *** [Kd 8h Qd 8s][5s]
+*** SHOW DOWN ***
+BONBONS_2002 shows [Jc 9c] (One pair : 8)
+Tom26262626 shows [5c Ac] (Two pairs : 8 and 5)
+Tom26262626 collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Board: [Kd 8h Qd 8s 5s]
+Seat 1: BONBONS_2002 (button) showed [Jc 9c] and lost with One pair : 8
+Seat 4: Tom26262626 showed [5c Ac] and won 3050 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4266011957930229761-2-1758543172 - Holdem no limit (10/20) - 2025/09/22 12:12:52 UTC
+Table: 'Starting Block WiPT(993258310)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Dr. P (1490)
+Seat 3: MathisKcr (1480)
+Seat 4: Tom26262626 (3050)
+Seat 5: falcon17570 (1480)
+Seat 6: KVN4217 (1500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Tom26262626 posts big blind 20
+Dealt to MathisKcr [2s Jc]
+*** PRE-FLOP *** 
+falcon17570 calls 20
+KVN4217 folds
+Dr. P folds
+MathisKcr calls 10
+Tom26262626 checks
+*** FLOP *** [9c 9d 3d]
+MathisKcr checks
+Tom26262626 checks
+falcon17570 checks
+*** TURN *** [9c 9d 3d][Ah]
+MathisKcr checks
+Tom26262626 checks
+falcon17570 checks
+*** RIVER *** [9c 9d 3d Ah][3s]
+MathisKcr checks
+Tom26262626 checks
+falcon17570 checks
+*** SHOW DOWN ***
+MathisKcr shows [2s Jc] (Two pairs : 9 and 3)
+Tom26262626 shows [5h Jh] (Two pairs : 9 and 3)
+falcon17570 shows [8d Qc] (Two pairs : 9 and 3)
+falcon17570 collected 20 from pot
+Tom26262626 collected 20 from pot
+MathisKcr collected 20 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9c 9d 3d Ah 3s]
+Seat 3: MathisKcr (small blind) showed [2s Jc] and won 20 with Two pairs : 9 and 3
+Seat 4: Tom26262626 (big blind) showed [5h Jh] and won 20 with Two pairs : 9 and 3
+Seat 5: falcon17570 showed [8d Qc] and won 20 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4266011957930229761-3-1758543199 - Holdem no limit (10/20) - 2025/09/22 12:13:19 UTC
+Table: 'Starting Block WiPT(993258310)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Dr. P (1490)
+Seat 3: MathisKcr (1480)
+Seat 4: Tom26262626 (3050)
+Seat 5: falcon17570 (1480)
+Seat 6: KVN4217 (1500)
+*** ANTE/BLINDS ***
+Tom26262626 posts small blind 10
+falcon17570 posts big blind 20
+Dealt to MathisKcr [Jd Jh]
+*** PRE-FLOP *** 
+KVN4217 folds
+Dr. P raises 20 to 40
+MathisKcr raises 40 to 80
+Tom26262626 calls 70
+falcon17570 calls 60
+Dr. P raises 80 to 160
+MathisKcr raises 80 to 240
+Tom26262626 raises 2810 to 3050 and is all-in
+falcon17570 folds
+Dr. P calls 1330 and is all-in
+MathisKcr calls 1240 and is all-in
+*** FLOP *** [Ah Th 5d]
+*** TURN *** [Ah Th 5d][Qc]
+*** RIVER *** [Ah Th 5d Qc][Js]
+*** SHOW DOWN ***
+Dr. P shows [Qh As] (Two pairs : Aces and Queens)
+MathisKcr shows [Jd Jh] (Trips of Jacks)
+Tom26262626 shows [Qd Kd] (Straight Ace high)
+Tom26262626 collected 6100 from pot
+*** SUMMARY ***
+Total pot 6100 | No rake
+Board: [Ah Th 5d Qc Js]
+Seat 2: Dr. P showed [Qh As] and lost with Two pairs : Aces and Queens
+Seat 3: MathisKcr (button) showed [Jd Jh] and lost with Trips of Jacks
+Seat 4: Tom26262626 (small blind) showed [Qd Kd] and won 6100 with Straight Ace high
+
+

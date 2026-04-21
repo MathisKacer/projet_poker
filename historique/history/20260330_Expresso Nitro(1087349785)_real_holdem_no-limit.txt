@@ -1,0 +1,316 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670131765887631361-1-1774863996 - Holdem no limit (10/20) - 2026/03/30 09:46:36 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BenMNT14 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Topicola (300)
+*** ANTE/BLINDS ***
+Topicola posts small blind 10
+BenMNT14 posts big blind 20
+Dealt to MathisKcr [8h 7h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Topicola folds
+BenMNT14 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: BenMNT14 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670131765887631361-2-1774864001 - Holdem no limit (10/20) - 2026/03/30 09:46:41 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BenMNT14 (310)
+Seat 2: MathisKcr (300)
+Seat 3: Topicola (290)
+*** ANTE/BLINDS ***
+BenMNT14 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Tc 9c]
+*** PRE-FLOP *** 
+Topicola calls 20
+BenMNT14 folds
+MathisKcr checks
+*** FLOP *** [As 5s 3h]
+MathisKcr checks
+Topicola checks
+*** TURN *** [As 5s 3h][Js]
+MathisKcr checks
+Topicola checks
+*** RIVER *** [As 5s 3h Js][Ac]
+MathisKcr checks
+Topicola checks
+*** SHOW DOWN ***
+Topicola shows [7c 6d] (One pair : Aces)
+MathisKcr shows [Tc 9c] (One pair : Aces)
+MathisKcr collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [As 5s 3h Js Ac]
+Seat 2: MathisKcr (big blind) showed [Tc 9c] and won 50 with One pair : Aces
+Seat 3: Topicola (button) showed [7c 6d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670131765887631361-3-1774864039 - Holdem no limit (10/20) - 2026/03/30 09:47:19 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BenMNT14 (300)
+Seat 2: MathisKcr (330)
+Seat 3: Topicola (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Topicola posts big blind 20
+Dealt to MathisKcr [8h 4d]
+*** PRE-FLOP *** 
+BenMNT14 raises 20 to 40
+MathisKcr folds
+Topicola raises 20 to 60
+BenMNT14 calls 20
+*** FLOP *** [7s Kd 4s]
+Topicola bets 46
+BenMNT14 folds
+Topicola collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | No rake
+Board: [7s Kd 4s]
+Seat 3: Topicola (big blind) won 176
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670131765887631361-4-1774864053 - Holdem no limit (10/20) - 2026/03/30 09:47:33 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BenMNT14 (240)
+Seat 2: MathisKcr (320)
+Seat 3: Topicola (340)
+*** ANTE/BLINDS ***
+Topicola posts small blind 10
+BenMNT14 posts big blind 20
+Dealt to MathisKcr [Kh 4d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Topicola folds
+BenMNT14 folds
+MathisKcr collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: MathisKcr (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670131765887631361-5-1774864065 - Holdem no limit (15/30) - 2026/03/30 09:47:45 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BenMNT14 (220)
+Seat 2: MathisKcr (350)
+Seat 3: Topicola (330)
+*** ANTE/BLINDS ***
+BenMNT14 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5c Js]
+*** PRE-FLOP *** 
+Topicola raises 30 to 60
+BenMNT14 raises 30 to 90
+MathisKcr folds
+Topicola raises 240 to 330 and is all-in
+BenMNT14 calls 130 and is all-in
+*** FLOP *** [4h Ad 6h]
+*** TURN *** [4h Ad 6h][Jc]
+*** RIVER *** [4h Ad 6h Jc][Ac]
+*** SHOW DOWN ***
+BenMNT14 shows [6s As] (Full of Aces and 6)
+Topicola shows [Jd Ah] (Full of Aces and Jacks)
+Topicola collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [4h Ad 6h Jc Ac]
+Seat 1: BenMNT14 (small blind) showed [6s As] and lost with Full of Aces and 6
+Seat 3: Topicola (button) showed [Jd Ah] and won 580 with Full of Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670131765887631361-6-1774864091 - Holdem no limit (15/30) - 2026/03/30 09:48:11 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (320)
+Seat 3: Topicola (580)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Topicola posts big blind 30
+Dealt to MathisKcr [Kh 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 290 to 320 and is all-in
+Topicola folds
+MathisKcr collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: MathisKcr (small blind) (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670131765887631361-7-1774864122 - Holdem no limit (20/40) - 2026/03/30 09:48:42 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (350)
+Seat 3: Topicola (550)
+*** ANTE/BLINDS ***
+Topicola posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Th Js]
+*** PRE-FLOP *** 
+Topicola folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670131765887631361-8-1774864127 - Holdem no limit (20/40) - 2026/03/30 09:48:47 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (370)
+Seat 3: Topicola (530)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Topicola posts big blind 40
+Dealt to MathisKcr [8c Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 330 to 370 and is all-in
+Topicola folds
+MathisKcr collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 2: MathisKcr (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670131765887631361-9-1774864134 - Holdem no limit (20/40) - 2026/03/30 09:48:54 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (410)
+Seat 3: Topicola (490)
+*** ANTE/BLINDS ***
+Topicola posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9d 4h]
+*** PRE-FLOP *** 
+Topicola raises 450 to 490 and is all-in
+MathisKcr folds
+Topicola collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 3: Topicola (small blind) (button) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670131765887631361-10-1774864154 - Holdem no limit (20/40) - 2026/03/30 09:49:14 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (370)
+Seat 3: Topicola (530)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Topicola posts big blind 40
+Dealt to MathisKcr [9s 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Topicola collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Topicola (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670131765887631361-11-1774864160 - Holdem no limit (20/40) - 2026/03/30 09:49:20 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (350)
+Seat 3: Topicola (550)
+*** ANTE/BLINDS ***
+Topicola posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3h Kd]
+*** PRE-FLOP *** 
+Topicola folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670131765887631361-12-1774864164 - Holdem no limit (20/40) - 2026/03/30 09:49:24 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (370)
+Seat 3: Topicola (530)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Topicola posts big blind 40
+Dealt to MathisKcr [Ac 8s]
+*** PRE-FLOP *** 
+MathisKcr raises 330 to 370 and is all-in
+Topicola folds
+MathisKcr collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 2: MathisKcr (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670131765887631361-13-1774864171 - Holdem no limit (20/40) - 2026/03/30 09:49:31 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (410)
+Seat 3: Topicola (490)
+*** ANTE/BLINDS ***
+Topicola posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3c Ad]
+*** PRE-FLOP *** 
+Topicola calls 20
+MathisKcr raises 370 to 410 and is all-in
+Topicola folds
+MathisKcr collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 2: MathisKcr (big blind) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4670131765887631361-14-1774864179 - Holdem no limit (30/60) - 2026/03/30 09:49:39 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (450)
+Seat 3: Topicola (450)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Topicola posts big blind 60
+Dealt to MathisKcr [Kd 7d]
+*** PRE-FLOP *** 
+MathisKcr raises 390 to 450 and is all-in
+Topicola folds
+MathisKcr collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 2: MathisKcr (small blind) (button) won 510
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4670131765887631361-15-1774864186 - Holdem no limit (30/60) - 2026/03/30 09:49:46 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (510)
+Seat 3: Topicola (390)
+*** ANTE/BLINDS ***
+Topicola posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [4s 7d]
+*** PRE-FLOP *** 
+Topicola raises 330 to 390 and is all-in
+MathisKcr folds
+Topicola collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 3: Topicola (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4670131765887631361-16-1774864192 - Holdem no limit (30/60) - 2026/03/30 09:49:52 UTC
+Table: 'Expresso Nitro(1087349785)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (450)
+Seat 3: Topicola (450)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Topicola posts big blind 60
+Dealt to MathisKcr [4h Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 390 to 450 and is all-in
+Topicola calls 390 and is all-in
+*** FLOP *** [8h Jd 9c]
+*** TURN *** [8h Jd 9c][6c]
+*** RIVER *** [8h Jd 9c 6c][8c]
+*** SHOW DOWN ***
+Topicola shows [Th Ad] (One pair : 8)
+MathisKcr shows [4h Jh] (Two pairs : Jacks and 8)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h Jd 9c 6c 8c]
+Seat 2: MathisKcr (small blind) (button) showed [4h Jh] and won 900 with Two pairs : Jacks and 8
+Seat 3: Topicola (big blind) showed [Th Ad] and lost with One pair : 8
+
+

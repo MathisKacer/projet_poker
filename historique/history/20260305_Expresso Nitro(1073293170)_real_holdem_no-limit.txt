@@ -1,0 +1,367 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609759064170168321-1-1772715228 - Holdem no limit (10/20) - 2026/03/05 12:53:48 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: GaetanCz37 (300)
+Seat 3: Minigenie (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+GaetanCz37 posts big blind 20
+Dealt to MathisKcr [Ks 2h]
+*** PRE-FLOP *** 
+Minigenie folds
+MathisKcr calls 10
+GaetanCz37 checks
+*** FLOP *** [3s Qh Jd]
+MathisKcr checks
+GaetanCz37 checks
+*** TURN *** [3s Qh Jd][Tc]
+MathisKcr checks
+GaetanCz37 bets 40
+MathisKcr calls 40
+*** RIVER *** [3s Qh Jd Tc][8d]
+MathisKcr checks
+GaetanCz37 bets 20
+MathisKcr folds
+GaetanCz37 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [3s Qh Jd Tc 8d]
+Seat 2: GaetanCz37 (big blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609759064170168321-2-1772715256 - Holdem no limit (10/20) - 2026/03/05 12:54:16 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (240)
+Seat 2: GaetanCz37 (360)
+Seat 3: Minigenie (300)
+*** ANTE/BLINDS ***
+GaetanCz37 posts small blind 10
+Minigenie posts big blind 20
+Dealt to MathisKcr [5c Th]
+*** PRE-FLOP *** 
+MathisKcr folds
+GaetanCz37 folds
+Minigenie collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Minigenie (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609759064170168321-3-1772715260 - Holdem no limit (10/20) - 2026/03/05 12:54:20 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (240)
+Seat 2: GaetanCz37 (350)
+Seat 3: Minigenie (310)
+*** ANTE/BLINDS ***
+Minigenie posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ks 3h]
+*** PRE-FLOP *** 
+GaetanCz37 folds
+Minigenie raises 30 to 50
+MathisKcr calls 30
+*** FLOP *** [6h 4h 2d]
+Minigenie bets 50
+MathisKcr folds
+Minigenie collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [6h 4h 2d]
+Seat 3: Minigenie (small blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609759064170168321-4-1772715274 - Holdem no limit (10/20) - 2026/03/05 12:54:34 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (190)
+Seat 2: GaetanCz37 (350)
+Seat 3: Minigenie (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+GaetanCz37 posts big blind 20
+Dealt to MathisKcr [Qd 5h]
+*** PRE-FLOP *** 
+Minigenie folds
+MathisKcr calls 10
+GaetanCz37 checks
+*** FLOP *** [Kh Js 3c]
+MathisKcr checks
+GaetanCz37 checks
+*** TURN *** [Kh Js 3c][9s]
+MathisKcr checks
+GaetanCz37 bets 40
+MathisKcr folds
+GaetanCz37 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Kh Js 3c 9s]
+Seat 2: GaetanCz37 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609759064170168321-5-1772715290 - Holdem no limit (15/30) - 2026/03/05 12:54:50 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (170)
+Seat 2: GaetanCz37 (370)
+Seat 3: Minigenie (360)
+*** ANTE/BLINDS ***
+GaetanCz37 posts small blind 15
+Minigenie posts big blind 30
+Dealt to MathisKcr [9d Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+GaetanCz37 raises 310 to 370 and is all-in
+Minigenie calls 330 and is all-in
+MathisKcr folds
+*** FLOP *** [2s 7h Jc]
+*** TURN *** [2s 7h Jc][As]
+*** RIVER *** [2s 7h Jc As][6c]
+*** SHOW DOWN ***
+Minigenie shows [5h 5c] (One pair : 5)
+GaetanCz37 shows [8d 8s] (One pair : 8)
+GaetanCz37 collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [2s 7h Jc As 6c]
+Seat 2: GaetanCz37 (small blind) showed [8d 8s] and won 790 with One pair : 8
+Seat 3: Minigenie (big blind) showed [5h 5c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609759064170168321-6-1772715307 - Holdem no limit (15/30) - 2026/03/05 12:55:07 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (110)
+Seat 2: GaetanCz37 (790)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+GaetanCz37 posts big blind 30
+Dealt to MathisKcr [Ah Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 110 and is all-in
+GaetanCz37 folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: MathisKcr (small blind) (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609759064170168321-7-1772715315 - Holdem no limit (15/30) - 2026/03/05 12:55:15 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (140)
+Seat 2: GaetanCz37 (760)
+*** ANTE/BLINDS ***
+GaetanCz37 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9s 4h]
+*** PRE-FLOP *** 
+GaetanCz37 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609759064170168321-8-1772715320 - Holdem no limit (15/30) - 2026/03/05 12:55:20 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (155)
+Seat 2: GaetanCz37 (745)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+GaetanCz37 posts big blind 30
+Dealt to MathisKcr [9s 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+GaetanCz37 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: GaetanCz37 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609759064170168321-9-1772715324 - Holdem no limit (15/30) - 2026/03/05 12:55:24 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (140)
+Seat 2: GaetanCz37 (760)
+*** ANTE/BLINDS ***
+GaetanCz37 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jc Td]
+*** PRE-FLOP *** 
+GaetanCz37 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609759064170168321-10-1772715329 - Holdem no limit (15/30) - 2026/03/05 12:55:29 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (155)
+Seat 2: GaetanCz37 (745)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+GaetanCz37 posts big blind 30
+Dealt to MathisKcr [Jd 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+GaetanCz37 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609759064170168321-11-1772715349 - Holdem no limit (20/40) - 2026/03/05 12:55:49 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (185)
+Seat 2: GaetanCz37 (715)
+*** ANTE/BLINDS ***
+GaetanCz37 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kd Qs]
+*** PRE-FLOP *** 
+GaetanCz37 raises 675 to 715 and is all-in
+MathisKcr calls 145 and is all-in
+*** FLOP *** [9c 3c Td]
+*** TURN *** [9c 3c Td][Jh]
+*** RIVER *** [9c 3c Td Jh][6d]
+*** SHOW DOWN ***
+MathisKcr shows [Kd Qs] (Straight King high)
+GaetanCz37 shows [Qc Tc] (One pair : Tens)
+GaetanCz37 collected 530 from side pot 1
+MathisKcr collected 370 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9c 3c Td Jh 6d]
+Seat 1: MathisKcr (big blind) showed [Kd Qs] and won 370 with Straight King high
+Seat 2: GaetanCz37 (small blind) (button) showed [Qc Tc] and won 530 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609759064170168321-12-1772715361 - Holdem no limit (20/40) - 2026/03/05 12:56:01 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (370)
+Seat 2: GaetanCz37 (530)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+GaetanCz37 posts big blind 40
+Dealt to MathisKcr [4s As]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 120
+GaetanCz37 folds
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: MathisKcr (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609759064170168321-13-1772715369 - Holdem no limit (20/40) - 2026/03/05 12:56:09 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (410)
+Seat 2: GaetanCz37 (490)
+*** ANTE/BLINDS ***
+GaetanCz37 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ah 2s]
+*** PRE-FLOP *** 
+GaetanCz37 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609759064170168321-14-1772715375 - Holdem no limit (20/40) - 2026/03/05 12:56:15 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (430)
+Seat 2: GaetanCz37 (470)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+GaetanCz37 posts big blind 40
+Dealt to MathisKcr [9h 6s]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+GaetanCz37 raises 430 to 470 and is all-in
+MathisKcr folds
+GaetanCz37 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 2: GaetanCz37 (big blind) won 510
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609759064170168321-15-1772715383 - Holdem no limit (20/40) - 2026/03/05 12:56:23 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (390)
+Seat 2: GaetanCz37 (510)
+*** ANTE/BLINDS ***
+GaetanCz37 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5h Jc]
+*** PRE-FLOP *** 
+GaetanCz37 raises 470 to 510 and is all-in
+MathisKcr folds
+GaetanCz37 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 2: GaetanCz37 (small blind) (button) won 550
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609759064170168321-16-1772715388 - Holdem no limit (20/40) - 2026/03/05 12:56:28 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (350)
+Seat 2: GaetanCz37 (550)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+GaetanCz37 posts big blind 40
+Dealt to MathisKcr [3s 8d]
+*** PRE-FLOP *** 
+MathisKcr folds
+GaetanCz37 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: GaetanCz37 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609759064170168321-17-1772715392 - Holdem no limit (20/40) - 2026/03/05 12:56:32 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (330)
+Seat 2: GaetanCz37 (570)
+*** ANTE/BLINDS ***
+GaetanCz37 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [2c Kh]
+*** PRE-FLOP *** 
+GaetanCz37 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609759064170168321-18-1772715397 - Holdem no limit (20/40) - 2026/03/05 12:56:37 UTC
+Table: 'Expresso Nitro(1073293170)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (350)
+Seat 2: GaetanCz37 (550)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+GaetanCz37 posts big blind 40
+Dealt to MathisKcr [Jc Td]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+GaetanCz37 calls 40
+*** FLOP *** [Th Qc 3c]
+GaetanCz37 checks
+MathisKcr bets 60
+GaetanCz37 calls 60
+*** TURN *** [Th Qc 3c][8d]
+GaetanCz37 checks
+MathisKcr bets 80
+GaetanCz37 raises 330 to 410 and is all-in
+MathisKcr calls 130 and is all-in
+*** RIVER *** [Th Qc 3c 8d][2c]
+*** SHOW DOWN ***
+MathisKcr shows [Jc Td] (One pair : Tens)
+GaetanCz37 shows [Qs 5s] (One pair : Queens)
+GaetanCz37 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Th Qc 3c 8d 2c]
+Seat 1: MathisKcr (small blind) (button) showed [Jc Td] and lost with One pair : Tens
+Seat 2: GaetanCz37 (big blind) showed [Qs 5s] and won 900 with One pair : Queens
+
+

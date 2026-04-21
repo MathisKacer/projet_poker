@@ -1,0 +1,140 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666822076974235649-1-1774723116 - Holdem no limit (10/20) - 2026/03/28 18:38:36 UTC
+Table: 'Expresso Nitro(1086579188)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vito9100 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Corne 410563 (300)
+*** ANTE/BLINDS ***
+Corne 410563 posts small blind 10
+Vito9100 posts big blind 20
+Dealt to MathisKcr [Jh Ts]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Corne 410563 calls 30
+Vito9100 calls 20
+*** FLOP *** [7d 7h Ah]
+Corne 410563 checks
+Vito9100 checks
+MathisKcr bets 60
+Corne 410563 folds
+Vito9100 calls 60
+*** TURN *** [7d 7h Ah][Ks]
+Vito9100 checks
+MathisKcr checks
+*** RIVER *** [7d 7h Ah Ks][3d]
+Vito9100 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Jh Ts] (One pair : 7)
+Vito9100 shows [2h Qs] (One pair : 7)
+Vito9100 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7d 7h Ah Ks 3d]
+Seat 1: Vito9100 (big blind) showed [2h Qs] and won 240 with One pair : 7
+Seat 2: MathisKcr (button) showed [Jh Ts] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666822076974235649-2-1774723183 - Holdem no limit (15/30) - 2026/03/28 18:39:43 UTC
+Table: 'Expresso Nitro(1086579188)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vito9100 (440)
+Seat 2: MathisKcr (200)
+Seat 3: Corne 410563 (260)
+*** ANTE/BLINDS ***
+Vito9100 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4d 8s]
+*** PRE-FLOP *** 
+Corne 410563 folds
+Vito9100 calls 15
+MathisKcr checks
+*** FLOP *** [Tc Qc 2c]
+Vito9100 checks
+MathisKcr checks
+*** TURN *** [Tc Qc 2c][Ad]
+Vito9100 checks
+MathisKcr checks
+*** RIVER *** [Tc Qc 2c Ad][Qs]
+Vito9100 checks
+MathisKcr checks
+*** SHOW DOWN ***
+Vito9100 shows [4s 6h] (One pair : Queens)
+MathisKcr shows [4d 8s] (One pair : Queens)
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Tc Qc 2c Ad Qs]
+Seat 1: Vito9100 (small blind) showed [4s 6h] and lost with One pair : Queens
+Seat 2: MathisKcr (big blind) showed [4d 8s] and won 60 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666822076974235649-3-1774723211 - Holdem no limit (15/30) - 2026/03/28 18:40:11 UTC
+Table: 'Expresso Nitro(1086579188)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vito9100 (410)
+Seat 2: MathisKcr (230)
+Seat 3: Corne 410563 (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Corne 410563 posts big blind 30
+Dealt to MathisKcr [7h Ah]
+*** PRE-FLOP *** 
+Vito9100 calls 30
+MathisKcr raises 200 to 230 and is all-in
+Corne 410563 folds
+Vito9100 folds
+MathisKcr collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 2: MathisKcr (small blind) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666822076974235649-4-1774723227 - Holdem no limit (15/30) - 2026/03/28 18:40:27 UTC
+Table: 'Expresso Nitro(1086579188)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vito9100 (380)
+Seat 2: MathisKcr (290)
+Seat 3: Corne 410563 (230)
+*** ANTE/BLINDS ***
+Corne 410563 posts small blind 15
+Vito9100 posts big blind 30
+Dealt to MathisKcr [6c Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Corne 410563 folds
+Vito9100 folds
+MathisKcr collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: MathisKcr (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666822076974235649-5-1774723237 - Holdem no limit (20/40) - 2026/03/28 18:40:37 UTC
+Table: 'Expresso Nitro(1086579188)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vito9100 (350)
+Seat 2: MathisKcr (335)
+Seat 3: Corne 410563 (215)
+*** ANTE/BLINDS ***
+Vito9100 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9h 7s]
+*** PRE-FLOP *** 
+Corne 410563 folds
+Vito9100 calls 20
+MathisKcr checks
+*** FLOP *** [2d 6h Jd]
+Vito9100 checks
+MathisKcr checks
+*** TURN *** [2d 6h Jd][9d]
+Vito9100 bets 40
+MathisKcr raises 255 to 295 and is all-in
+Vito9100 calls 255
+*** RIVER *** [2d 6h Jd 9d][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [9h 7s] (One pair : 9)
+Vito9100 shows [Jh Td] (One pair : Jacks)
+Vito9100 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [2d 6h Jd 9d Qs]
+Seat 1: Vito9100 (small blind) showed [Jh Td] and won 670 with One pair : Jacks
+Seat 2: MathisKcr (big blind) showed [9h 7s] and lost with One pair : 9
+
+

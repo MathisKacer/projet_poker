@@ -1,0 +1,327 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4661846018059403265-1-1774528889 - Holdem no limit (10/20) - 2026/03/26 12:41:29 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: El Grizzly (300)
+Seat 2: UnJauneSvp (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+UnJauneSvp posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5h 7h]
+*** PRE-FLOP *** 
+El Grizzly calls 20
+UnJauneSvp folds
+MathisKcr checks
+*** FLOP *** [4c Kc 8c]
+MathisKcr checks
+El Grizzly checks
+*** TURN *** [4c Kc 8c][2d]
+MathisKcr checks
+El Grizzly checks
+*** RIVER *** [4c Kc 8c 2d][3s]
+MathisKcr checks
+El Grizzly bets 40
+MathisKcr folds
+El Grizzly collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [4c Kc 8c 2d 3s]
+Seat 1: El Grizzly (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4661846018059403265-2-1774528930 - Holdem no limit (10/20) - 2026/03/26 12:42:10 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #2 is the button
+Seat 1: El Grizzly (330)
+Seat 2: UnJauneSvp (290)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+El Grizzly posts big blind 20
+Dealt to MathisKcr [8d 2c]
+*** PRE-FLOP *** 
+UnJauneSvp raises 270 to 290 and is all-in
+MathisKcr folds
+El Grizzly folds
+UnJauneSvp collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: UnJauneSvp (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4661846018059403265-3-1774528940 - Holdem no limit (10/20) - 2026/03/26 12:42:20 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #3 is the button
+Seat 1: El Grizzly (310)
+Seat 2: UnJauneSvp (320)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+El Grizzly posts small blind 10
+UnJauneSvp posts big blind 20
+Dealt to MathisKcr [6d Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 250 to 270 and is all-in
+El Grizzly folds
+UnJauneSvp folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: MathisKcr (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4661846018059403265-4-1774528966 - Holdem no limit (15/30) - 2026/03/26 12:42:46 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: El Grizzly (300)
+Seat 2: UnJauneSvp (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+UnJauneSvp posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qd 8s]
+*** PRE-FLOP *** 
+El Grizzly folds
+UnJauneSvp folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4661846018059403265-5-1774528973 - Holdem no limit (15/30) - 2026/03/26 12:42:53 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #2 is the button
+Seat 1: El Grizzly (300)
+Seat 2: UnJauneSvp (285)
+Seat 3: MathisKcr (315)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+El Grizzly posts big blind 30
+Dealt to MathisKcr [Tc 7h]
+*** PRE-FLOP *** 
+UnJauneSvp folds
+MathisKcr folds
+El Grizzly collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: El Grizzly (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4661846018059403265-6-1774528984 - Holdem no limit (15/30) - 2026/03/26 12:43:04 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #3 is the button
+Seat 1: El Grizzly (315)
+Seat 2: UnJauneSvp (285)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+El Grizzly posts small blind 15
+UnJauneSvp posts big blind 30
+Dealt to MathisKcr [2d Qs]
+*** PRE-FLOP *** 
+MathisKcr folds
+El Grizzly calls 15
+UnJauneSvp checks
+*** FLOP *** [Kd Qh Ks]
+El Grizzly checks
+UnJauneSvp checks
+*** TURN *** [Kd Qh Ks][5s]
+El Grizzly checks
+UnJauneSvp checks
+*** RIVER *** [Kd Qh Ks 5s][9c]
+El Grizzly checks
+UnJauneSvp checks
+*** SHOW DOWN ***
+UnJauneSvp shows [4c 6h] (One pair : Kings)
+El Grizzly shows [Ad 8s] (One pair : Kings)
+El Grizzly collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kd Qh Ks 5s 9c]
+Seat 1: El Grizzly (small blind) showed [Ad 8s] and won 60 with One pair : Kings
+Seat 2: UnJauneSvp (big blind) showed [4c 6h] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4661846018059403265-7-1774529019 - Holdem no limit (20/40) - 2026/03/26 12:43:39 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: El Grizzly (345)
+Seat 2: UnJauneSvp (255)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+UnJauneSvp posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7d 4s]
+*** PRE-FLOP *** 
+El Grizzly raises 40 to 80
+UnJauneSvp folds
+MathisKcr folds
+El Grizzly collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: El Grizzly (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4661846018059403265-8-1774529035 - Holdem no limit (20/40) - 2026/03/26 12:43:55 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #2 is the button
+Seat 1: El Grizzly (405)
+Seat 2: UnJauneSvp (235)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+El Grizzly posts big blind 40
+Dealt to MathisKcr [8h Ts]
+*** PRE-FLOP *** 
+UnJauneSvp folds
+MathisKcr folds
+El Grizzly collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: El Grizzly (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4661846018059403265-9-1774529042 - Holdem no limit (20/40) - 2026/03/26 12:44:02 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #3 is the button
+Seat 1: El Grizzly (425)
+Seat 2: UnJauneSvp (235)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+El Grizzly posts small blind 20
+UnJauneSvp posts big blind 40
+Dealt to MathisKcr [2d 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+El Grizzly calls 20
+UnJauneSvp checks
+*** FLOP *** [4c 5c 6s]
+El Grizzly checks
+UnJauneSvp bets 195 and is all-in
+El Grizzly folds
+UnJauneSvp collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Board: [4c 5c 6s]
+Seat 2: UnJauneSvp (big blind) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4661846018059403265-10-1774529073 - Holdem no limit (30/60) - 2026/03/26 12:44:33 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: El Grizzly (385)
+Seat 2: UnJauneSvp (275)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+UnJauneSvp posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ac Kd]
+*** PRE-FLOP *** 
+El Grizzly folds
+UnJauneSvp raises 215 to 275 and is all-in
+MathisKcr calls 180 and is all-in
+*** FLOP *** [Ah Qd 3d]
+*** TURN *** [Ah Qd 3d][5d]
+*** RIVER *** [Ah Qd 3d 5d][Qh]
+*** SHOW DOWN ***
+UnJauneSvp shows [8s 8c] (Two pairs : Queens and 8)
+MathisKcr shows [Ac Kd] (Two pairs : Aces and Queens)
+MathisKcr collected 480 from main pot
+UnJauneSvp collected 35 from side pot 1
+*** SUMMARY ***
+Total pot 515 | No rake
+Board: [Ah Qd 3d 5d Qh]
+Seat 2: UnJauneSvp (small blind) showed [8s 8c] and won 35 with Two pairs : Queens and 8
+Seat 3: MathisKcr (big blind) showed [Ac Kd] and won 480 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4661846018059403265-11-1774529091 - Holdem no limit (30/60) - 2026/03/26 12:44:51 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #2 is the button
+Seat 1: El Grizzly (385)
+Seat 2: UnJauneSvp (35)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+El Grizzly posts big blind 60
+Dealt to MathisKcr [5c Ac]
+*** PRE-FLOP *** 
+UnJauneSvp folds
+MathisKcr raises 420 to 480 and is all-in
+El Grizzly calls 325 and is all-in
+*** FLOP *** [2s 5s Qd]
+*** TURN *** [2s 5s Qd][4s]
+*** RIVER *** [2s 5s Qd 4s][Jd]
+*** SHOW DOWN ***
+El Grizzly shows [Kh Kc] (One pair : Kings)
+MathisKcr shows [5c Ac] (One pair : 5)
+MathisKcr collected 95 from side pot 1
+El Grizzly collected 770 from main pot
+*** SUMMARY ***
+Total pot 865 | No rake
+Board: [2s 5s Qd 4s Jd]
+Seat 1: El Grizzly (big blind) showed [Kh Kc] and won 770 with One pair : Kings
+Seat 3: MathisKcr (small blind) showed [5c Ac] and won 95 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4661846018059403265-12-1774529110 - Holdem no limit (30/60) - 2026/03/26 12:45:10 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #3 is the button
+Seat 1: El Grizzly (770)
+Seat 2: UnJauneSvp (35)
+Seat 3: MathisKcr (95)
+*** ANTE/BLINDS ***
+El Grizzly posts small blind 30
+UnJauneSvp posts big blind 35 and is all-in
+Dealt to MathisKcr [8c 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+El Grizzly folds
+UnJauneSvp collected 65 from pot
+*** SUMMARY ***
+Total pot 65 | No rake
+Seat 2: UnJauneSvp (big blind) won 65
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4661846018059403265-13-1774529117 - Holdem no limit (30/60) - 2026/03/26 12:45:17 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: El Grizzly (740)
+Seat 2: UnJauneSvp (65)
+Seat 3: MathisKcr (95)
+*** ANTE/BLINDS ***
+UnJauneSvp posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [3s 3c]
+*** PRE-FLOP *** 
+El Grizzly folds
+UnJauneSvp raises 5 to 65 and is all-in
+MathisKcr calls 5
+*** FLOP *** [4d Js 5c]
+*** TURN *** [4d Js 5c][Ts]
+*** RIVER *** [4d Js 5c Ts][9d]
+*** SHOW DOWN ***
+MathisKcr shows [3s 3c] (One pair : 3)
+UnJauneSvp shows [8d 7s] (Straight Jack high)
+UnJauneSvp collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [4d Js 5c Ts 9d]
+Seat 2: UnJauneSvp (small blind) showed [8d 7s] and won 130 with Straight Jack high
+Seat 3: MathisKcr (big blind) showed [3s 3c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4661846018059403265-14-1774529130 - Holdem no limit (40/80) - 2026/03/26 12:45:30 UTC
+Table: 'Expresso Nitro(1085420609)#0' 3-max (real money) Seat #2 is the button
+Seat 1: El Grizzly (740)
+Seat 2: UnJauneSvp (130)
+Seat 3: MathisKcr (30)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30 and is all-in
+El Grizzly posts big blind 80
+Dealt to MathisKcr [8c Th]
+*** PRE-FLOP *** 
+UnJauneSvp raises 50 to 130 and is all-in
+El Grizzly calls 50
+*** FLOP *** [Kc 7d 4s]
+*** TURN *** [Kc 7d 4s][Kh]
+*** RIVER *** [Kc 7d 4s Kh][8s]
+*** SHOW DOWN ***
+El Grizzly shows [7h 4h] (Two pairs : Kings and 7)
+MathisKcr shows [8c Th] (Two pairs : Kings and 8)
+UnJauneSvp shows [Tc Kd] (Trips of Kings)
+UnJauneSvp collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Board: [Kc 7d 4s Kh 8s]
+Seat 1: El Grizzly (big blind) showed [7h 4h] and lost with Two pairs : Kings and 7
+Seat 2: UnJauneSvp (button) showed [Tc Kd] and won 290 with Trips of Kings
+Seat 3: MathisKcr (small blind) showed [8c Th] and lost with Two pairs : Kings and 8
+
+

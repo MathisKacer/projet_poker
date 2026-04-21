@@ -1,0 +1,212 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657460366823915521-1-1774346561 - Holdem no limit (10/20) - 2026/03/24 10:02:41 UTC
+Table: 'Expresso Nitro(1084399495)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: LyTe (300)
+Seat 3: nicofac62 (300)
+*** ANTE/BLINDS ***
+nicofac62 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd 8h]
+*** PRE-FLOP *** 
+LyTe folds
+nicofac62 raises 280 to 300 and is all-in
+MathisKcr folds
+nicofac62 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: nicofac62 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657460366823915521-2-1774346575 - Holdem no limit (10/20) - 2026/03/24 10:02:55 UTC
+Table: 'Expresso Nitro(1084399495)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: LyTe (300)
+Seat 3: nicofac62 (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+LyTe posts big blind 20
+Dealt to MathisKcr [9c 5d]
+*** PRE-FLOP *** 
+nicofac62 folds
+MathisKcr folds
+LyTe collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: LyTe (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657460366823915521-3-1774346582 - Holdem no limit (10/20) - 2026/03/24 10:03:02 UTC
+Table: 'Expresso Nitro(1084399495)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: LyTe (310)
+Seat 3: nicofac62 (320)
+*** ANTE/BLINDS ***
+LyTe posts small blind 10
+nicofac62 posts big blind 20
+Dealt to MathisKcr [9d Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+LyTe folds
+nicofac62 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657460366823915521-4-1774346596 - Holdem no limit (10/20) - 2026/03/24 10:03:16 UTC
+Table: 'Expresso Nitro(1084399495)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: LyTe (300)
+Seat 3: nicofac62 (300)
+*** ANTE/BLINDS ***
+nicofac62 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jc Kd]
+*** PRE-FLOP *** 
+LyTe folds
+nicofac62 calls 10
+MathisKcr raises 40 to 60
+nicofac62 folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: MathisKcr (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657460366823915521-5-1774346616 - Holdem no limit (10/20) - 2026/03/24 10:03:36 UTC
+Table: 'Expresso Nitro(1084399495)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (320)
+Seat 2: LyTe (300)
+Seat 3: nicofac62 (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+LyTe posts big blind 20
+Dealt to MathisKcr [Ad Kd]
+*** PRE-FLOP *** 
+nicofac62 raises 260 to 280 and is all-in
+MathisKcr raises 40 to 320 and is all-in
+LyTe folds
+*** FLOP *** [8d Qh Ah]
+*** TURN *** [8d Qh Ah][Qd]
+*** RIVER *** [8d Qh Ah Qd][2d]
+*** SHOW DOWN ***
+nicofac62 shows [3d 3h] (Two pairs : Queens and 3)
+MathisKcr shows [Ad Kd] (Flush Ace high)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8d Qh Ah Qd 2d]
+Seat 1: MathisKcr (small blind) showed [Ad Kd] and won 620 with Flush Ace high
+Seat 3: nicofac62 (button) showed [3d 3h] and lost with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4657460366823915521-6-1774346631 - Holdem no limit (15/30) - 2026/03/24 10:03:51 UTC
+Table: 'Expresso Nitro(1084399495)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (620)
+Seat 2: LyTe (280)
+*** ANTE/BLINDS ***
+LyTe posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jh Qs]
+*** PRE-FLOP *** 
+LyTe folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4657460366823915521-7-1774346636 - Holdem no limit (15/30) - 2026/03/24 10:03:56 UTC
+Table: 'Expresso Nitro(1084399495)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (635)
+Seat 2: LyTe (265)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+LyTe posts big blind 30
+Dealt to MathisKcr [Jh 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 605 to 635 and is all-in
+LyTe folds
+MathisKcr collected 665 from pot
+*** SUMMARY ***
+Total pot 665 | No rake
+Seat 1: MathisKcr (small blind) (button) won 665
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4657460366823915521-8-1774346648 - Holdem no limit (15/30) - 2026/03/24 10:04:08 UTC
+Table: 'Expresso Nitro(1084399495)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (665)
+Seat 2: LyTe (235)
+*** ANTE/BLINDS ***
+LyTe posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6d 9h]
+*** PRE-FLOP *** 
+LyTe folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4657460366823915521-9-1774346659 - Holdem no limit (15/30) - 2026/03/24 10:04:19 UTC
+Table: 'Expresso Nitro(1084399495)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (680)
+Seat 2: LyTe (220)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+LyTe posts big blind 30
+Dealt to MathisKcr [4d 2d]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+LyTe raises 190 to 220 and is all-in
+MathisKcr folds
+LyTe collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 2: LyTe (big blind) won 250
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4657460366823915521-10-1774346680 - Holdem no limit (20/40) - 2026/03/24 10:04:40 UTC
+Table: 'Expresso Nitro(1084399495)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (650)
+Seat 2: LyTe (250)
+*** ANTE/BLINDS ***
+LyTe posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3s 8h]
+*** PRE-FLOP *** 
+LyTe raises 210 to 250 and is all-in
+MathisKcr folds
+LyTe collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 2: LyTe (small blind) (button) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4657460366823915521-11-1774346686 - Holdem no limit (20/40) - 2026/03/24 10:04:46 UTC
+Table: 'Expresso Nitro(1084399495)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (610)
+Seat 2: LyTe (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+LyTe posts big blind 40
+Dealt to MathisKcr [Jc Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 570 to 610 and is all-in
+LyTe calls 250 and is all-in
+*** FLOP *** [Qs 8h 7h]
+*** TURN *** [Qs 8h 7h][4c]
+*** RIVER *** [Qs 8h 7h 4c][Qc]
+*** SHOW DOWN ***
+LyTe shows [2s As] (One pair : Queens)
+MathisKcr shows [Jc Ac] (One pair : Queens)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qs 8h 7h 4c Qc]
+Seat 1: MathisKcr (small blind) (button) showed [Jc Ac] and won 900 with One pair : Queens
+Seat 2: LyTe (big blind) showed [2s As] and lost with One pair : Queens
+
+

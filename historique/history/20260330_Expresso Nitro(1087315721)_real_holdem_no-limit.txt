@@ -1,0 +1,116 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669985462121660417-1-1774857590 - Holdem no limit (10/20) - 2026/03/30 07:59:50 UTC
+Table: 'Expresso Nitro(1087315721)#0' 3-max (real money) Seat #3 is the button
+Seat 1: kayou666 (300)
+Seat 2: MathisKcr (300)
+Seat 3: mch35000 (300)
+*** ANTE/BLINDS ***
+kayou666 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8c 9d]
+*** PRE-FLOP *** 
+mch35000 folds
+kayou666 calls 10
+MathisKcr checks
+*** FLOP *** [Ah 5d 3h]
+kayou666 checks
+MathisKcr checks
+*** TURN *** [Ah 5d 3h][Js]
+kayou666 bets 20
+MathisKcr calls 20
+*** RIVER *** [Ah 5d 3h Js][Qc]
+kayou666 bets 28
+MathisKcr folds
+kayou666 collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [Ah 5d 3h Js Qc]
+Seat 1: kayou666 (small blind) won 108
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669985462121660417-2-1774857627 - Holdem no limit (10/20) - 2026/03/30 08:00:27 UTC
+Table: 'Expresso Nitro(1087315721)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kayou666 (340)
+Seat 2: MathisKcr (260)
+Seat 3: mch35000 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+mch35000 posts big blind 20
+Dealt to MathisKcr [Ts Qs]
+*** PRE-FLOP *** 
+kayou666 calls 20
+MathisKcr raises 240 to 260 and is all-in
+mch35000 raises 40 to 300 and is all-in
+kayou666 folds
+*** FLOP *** [Jh Ks 4s]
+*** TURN *** [Jh Ks 4s][Ah]
+*** RIVER *** [Jh Ks 4s Ah][Jc]
+*** SHOW DOWN ***
+MathisKcr shows [Ts Qs] (Straight Ace high)
+mch35000 shows [Tc 8c] (One pair : Jacks)
+mch35000 collected 40 from side pot 1
+MathisKcr collected 540 from main pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Jh Ks 4s Ah Jc]
+Seat 2: MathisKcr (small blind) showed [Ts Qs] and won 540 with Straight Ace high
+Seat 3: mch35000 (big blind) showed [Tc 8c] and won 40 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669985462121660417-3-1774857645 - Holdem no limit (10/20) - 2026/03/30 08:00:45 UTC
+Table: 'Expresso Nitro(1087315721)#0' 3-max (real money) Seat #2 is the button
+Seat 1: kayou666 (320)
+Seat 2: MathisKcr (540)
+Seat 3: mch35000 (40)
+*** ANTE/BLINDS ***
+mch35000 posts small blind 10
+kayou666 posts big blind 20
+Dealt to MathisKcr [7h 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+mch35000 raises 20 to 40 and is all-in
+kayou666 calls 20
+*** FLOP *** [As 9c 5s]
+*** TURN *** [As 9c 5s][Jh]
+*** RIVER *** [As 9c 5s Jh][4d]
+*** SHOW DOWN ***
+mch35000 shows [4h 2d] (One pair : 4)
+kayou666 shows [Qh Ad] (One pair : Aces)
+kayou666 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [As 9c 5s Jh 4d]
+Seat 1: kayou666 (big blind) showed [Qh Ad] and won 80 with One pair : Aces
+Seat 3: mch35000 (small blind) showed [4h 2d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4669985462121660417-4-1774857665 - Holdem no limit (15/30) - 2026/03/30 08:01:05 UTC
+Table: 'Expresso Nitro(1087315721)#0' 3-max (real money) Seat #1 is the button
+Seat 1: kayou666 (360)
+Seat 2: MathisKcr (540)
+*** ANTE/BLINDS ***
+kayou666 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qc 6s]
+*** PRE-FLOP *** 
+kayou666 calls 15
+MathisKcr checks
+*** FLOP *** [6h Qd 8d]
+MathisKcr bets 30
+kayou666 calls 30
+*** TURN *** [6h Qd 8d][Ah]
+MathisKcr bets 60
+kayou666 calls 60
+*** RIVER *** [6h Qd 8d Ah][Qs]
+MathisKcr bets 240
+kayou666 calls 240 and is all-in
+*** SHOW DOWN ***
+kayou666 shows [As 7d] (Two pairs : Aces and Queens)
+MathisKcr shows [Qc 6s] (Full of Queens and 6)
+MathisKcr collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [6h Qd 8d Ah Qs]
+Seat 1: kayou666 (small blind) (button) showed [As 7d] and lost with Two pairs : Aces and Queens
+Seat 2: MathisKcr (big blind) showed [Qc 6s] and won 720 with Full of Queens and 6
+
+

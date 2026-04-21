@@ -1,0 +1,376 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4085683748803182593-1-1749675340 - Holdem no limit (10/20) - 2025/06/11 20:55:40 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #1 is the button
+Seat 1: maroking34 (500)
+Seat 2: MathisKcr (500)
+Seat 3: NOSYAH (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+NOSYAH posts big blind 20
+Dealt to MathisKcr [2h Ts]
+*** PRE-FLOP *** 
+maroking34 folds
+MathisKcr calls 10
+NOSYAH raises 480 to 500 and is all-in
+MathisKcr folds
+NOSYAH collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 3: NOSYAH (big blind) won 520
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4085683748803182593-2-1749675354 - Holdem no limit (10/20) - 2025/06/11 20:55:54 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #2 is the button
+Seat 1: maroking34 (500)
+Seat 2: MathisKcr (480)
+Seat 3: NOSYAH (520)
+*** ANTE/BLINDS ***
+NOSYAH posts small blind 10
+maroking34 posts big blind 20
+Dealt to MathisKcr [Kh Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+NOSYAH calls 30
+maroking34 raises 460 to 500 and is all-in
+MathisKcr calls 440 and is all-in
+NOSYAH folds
+*** FLOP *** [4d Jc Ks]
+*** TURN *** [4d Jc Ks][9c]
+*** RIVER *** [4d Jc Ks 9c][Jh]
+*** SHOW DOWN ***
+maroking34 shows [9d Qc] (Two pairs : Jacks and 9)
+MathisKcr shows [Kh Qh] (Two pairs : Kings and Jacks)
+MathisKcr collected 1000 from main pot
+maroking34 collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [4d Jc Ks 9c Jh]
+Seat 1: maroking34 (big blind) showed [9d Qc] and won 20 with Two pairs : Jacks and 9
+Seat 2: MathisKcr (button) showed [Kh Qh] and won 1000 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4085683748803182593-3-1749675373 - Holdem no limit (10/20) - 2025/06/11 20:56:13 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #3 is the button
+Seat 1: maroking34 (20)
+Seat 2: MathisKcr (1000)
+Seat 3: NOSYAH (480)
+*** ANTE/BLINDS ***
+maroking34 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kh Ts]
+*** PRE-FLOP *** 
+NOSYAH calls 20
+maroking34 calls 10 and is all-in
+MathisKcr checks
+*** FLOP *** [9d 5s 7d]
+MathisKcr checks
+NOSYAH bets 90
+MathisKcr folds
+*** TURN *** [9d 5s 7d][Qh]
+*** RIVER *** [9d 5s 7d Qh][Jc]
+*** SHOW DOWN ***
+maroking34 shows [6c Ah] (High card : Ace)
+NOSYAH shows [6d Js] (One pair : Jacks)
+NOSYAH collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [9d 5s 7d Qh Jc]
+Seat 1: maroking34 (small blind) showed [6c Ah] and lost with High card : Ace
+Seat 3: NOSYAH (button) showed [6d Js] and won 150 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4085683748803182593-4-1749675391 - Holdem no limit (10/20) - 2025/06/11 20:56:31 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (980)
+Seat 3: NOSYAH (520)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+NOSYAH posts big blind 20
+Dealt to MathisKcr [5c 3s]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+NOSYAH checks
+*** FLOP *** [Kh 4d 8c]
+NOSYAH bets 60
+MathisKcr folds
+NOSYAH collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Kh 4d 8c]
+Seat 3: NOSYAH (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4085683748803182593-5-1749675408 - Holdem no limit (10/20) - 2025/06/11 20:56:48 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (960)
+Seat 3: NOSYAH (540)
+*** ANTE/BLINDS ***
+NOSYAH posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Js 4c]
+*** PRE-FLOP *** 
+NOSYAH calls 10
+MathisKcr checks
+*** FLOP *** [Kh 7c 3h]
+MathisKcr checks
+NOSYAH bets 520 and is all-in
+MathisKcr folds
+NOSYAH collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Kh 7c 3h]
+Seat 3: NOSYAH (small blind) (button) won 560
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4085683748803182593-6-1749675428 - Holdem no limit (15/30) - 2025/06/11 20:57:08 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (940)
+Seat 3: NOSYAH (560)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+NOSYAH posts big blind 30
+Dealt to MathisKcr [Qc Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+NOSYAH raises 500 to 560 and is all-in
+MathisKcr calls 500
+*** FLOP *** [3h 5h 8h]
+*** TURN *** [3h 5h 8h][6h]
+*** RIVER *** [3h 5h 8h 6h][7c]
+*** SHOW DOWN ***
+MathisKcr shows [Qc Jd] (High card : Queen)
+NOSYAH shows [9s Ac] (Straight 9 high)
+NOSYAH collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Board: [3h 5h 8h 6h 7c]
+Seat 2: MathisKcr (small blind) (button) showed [Qc Jd] and lost with High card : Queen
+Seat 3: NOSYAH (big blind) showed [9s Ac] and won 1120 with Straight 9 high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4085683748803182593-7-1749675446 - Holdem no limit (15/30) - 2025/06/11 20:57:26 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (380)
+Seat 3: NOSYAH (1120)
+*** ANTE/BLINDS ***
+NOSYAH posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5d 9c]
+*** PRE-FLOP *** 
+NOSYAH calls 15
+MathisKcr checks
+*** FLOP *** [5h Ts 9h]
+MathisKcr checks
+NOSYAH checks
+*** TURN *** [5h Ts 9h][4c]
+MathisKcr checks
+NOSYAH checks
+*** RIVER *** [5h Ts 9h 4c][Js]
+MathisKcr bets 60
+NOSYAH folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5h Ts 9h 4c Js]
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4085683748803182593-8-1749675476 - Holdem no limit (15/30) - 2025/06/11 20:57:56 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (410)
+Seat 3: NOSYAH (1090)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+NOSYAH posts big blind 30
+Dealt to MathisKcr [2d 7s]
+*** PRE-FLOP *** 
+MathisKcr folds
+NOSYAH collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: NOSYAH (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4085683748803182593-9-1749675485 - Holdem no limit (15/30) - 2025/06/11 20:58:05 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (395)
+Seat 3: NOSYAH (1105)
+*** ANTE/BLINDS ***
+NOSYAH posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3s 8s]
+*** PRE-FLOP *** 
+NOSYAH calls 15
+MathisKcr checks
+*** FLOP *** [Kh 3h 5c]
+MathisKcr bets 30
+NOSYAH calls 30
+*** TURN *** [Kh 3h 5c][Ah]
+MathisKcr checks
+NOSYAH bets 1045 and is all-in
+MathisKcr folds
+NOSYAH collected 1165 from pot
+*** SUMMARY ***
+Total pot 1165 | No rake
+Board: [Kh 3h 5c Ah]
+Seat 3: NOSYAH (small blind) (button) won 1165
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4085683748803182593-10-1749675504 - Holdem no limit (15/30) - 2025/06/11 20:58:24 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (335)
+Seat 3: NOSYAH (1165)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+NOSYAH posts big blind 30
+Dealt to MathisKcr [3d Jc]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+NOSYAH checks
+*** FLOP *** [4d 2h 6s]
+NOSYAH bets 1135 and is all-in
+MathisKcr folds
+NOSYAH collected 1195 from pot
+*** SUMMARY ***
+Total pot 1195 | No rake
+Board: [4d 2h 6s]
+Seat 3: NOSYAH (big blind) won 1195
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4085683748803182593-11-1749675519 - Holdem no limit (20/40) - 2025/06/11 20:58:39 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (305)
+Seat 3: NOSYAH (1195)
+*** ANTE/BLINDS ***
+NOSYAH posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6s 2c]
+*** PRE-FLOP *** 
+NOSYAH folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4085683748803182593-12-1749675525 - Holdem no limit (20/40) - 2025/06/11 20:58:45 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (325)
+Seat 3: NOSYAH (1175)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+NOSYAH posts big blind 40
+Dealt to MathisKcr [Kh Tc]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+NOSYAH checks
+*** FLOP *** [4h 4c 5c]
+NOSYAH bets 80
+MathisKcr calls 80
+*** TURN *** [4h 4c 5c][8c]
+NOSYAH bets 220
+MathisKcr folds
+NOSYAH collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [4h 4c 5c 8c]
+Seat 3: NOSYAH (big blind) won 460
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4085683748803182593-13-1749675547 - Holdem no limit (20/40) - 2025/06/11 20:59:07 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (205)
+Seat 3: NOSYAH (1295)
+*** ANTE/BLINDS ***
+NOSYAH posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jh 3c]
+*** PRE-FLOP *** 
+NOSYAH calls 20
+MathisKcr checks
+*** FLOP *** [7s 9c 9d]
+MathisKcr checks
+NOSYAH bets 1255 and is all-in
+MathisKcr folds
+NOSYAH collected 1335 from pot
+*** SUMMARY ***
+Total pot 1335 | No rake
+Board: [7s 9c 9d]
+Seat 3: NOSYAH (small blind) (button) won 1335
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4085683748803182593-14-1749675558 - Holdem no limit (20/40) - 2025/06/11 20:59:18 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (165)
+Seat 3: NOSYAH (1335)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+NOSYAH posts big blind 40
+Dealt to MathisKcr [8h Qs]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+NOSYAH checks
+*** FLOP *** [4s 2d Ac]
+NOSYAH checks
+MathisKcr checks
+*** TURN *** [4s 2d Ac][Jc]
+NOSYAH checks
+MathisKcr checks
+*** RIVER *** [4s 2d Ac Jc][5d]
+NOSYAH checks
+MathisKcr checks
+*** SHOW DOWN ***
+NOSYAH shows [8s Tc] (High card : Ace)
+MathisKcr shows [8h Qs] (High card : Ace)
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [4s 2d Ac Jc 5d]
+Seat 2: MathisKcr (small blind) (button) showed [8h Qs] and won 80 with High card : Ace
+Seat 3: NOSYAH (big blind) showed [8s Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4085683748803182593-15-1749675572 - Holdem no limit (20/40) - 2025/06/11 20:59:32 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (205)
+Seat 3: NOSYAH (1295)
+*** ANTE/BLINDS ***
+NOSYAH posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [4d 7c]
+*** PRE-FLOP *** 
+NOSYAH folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4085683748803182593-16-1749675578 - Holdem no limit (20/40) - 2025/06/11 20:59:38 UTC
+Table: 'Expresso(951272377)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (225)
+Seat 3: NOSYAH (1275)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+NOSYAH posts big blind 40
+Dealt to MathisKcr [Ah Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+NOSYAH calls 40
+*** FLOP *** [Qs 6d 7c]
+NOSYAH checks
+MathisKcr bets 120
+NOSYAH raises 120 to 240
+MathisKcr calls 25 and is all-in
+*** TURN *** [Qs 6d 7c][Tc]
+*** RIVER *** [Qs 6d 7c Tc][3d]
+*** SHOW DOWN ***
+MathisKcr shows [Ah Jc] (High card : Ace)
+NOSYAH shows [5h Qc] (One pair : Queens)
+NOSYAH collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | No rake
+Board: [Qs 6d 7c Tc 3d]
+Seat 2: MathisKcr (small blind) (button) showed [Ah Jc] and lost with High card : Ace
+Seat 3: NOSYAH (big blind) showed [5h Qc] and won 545 with One pair : Queens
+
+

@@ -1,0 +1,244 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609750349681524737-1-1772714909 - Holdem no limit (10/20) - 2026/03/05 12:48:29 UTC
+Table: 'Expresso(1073291141)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pale.Naja376 (500)
+Seat 2: MathisKcr (500)
+Seat 3: ASSINA_F (500)
+*** ANTE/BLINDS ***
+pale.Naja376 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ac 6h]
+*** PRE-FLOP *** 
+ASSINA_F calls 20
+pale.Naja376 calls 10
+MathisKcr raises 40 to 60
+ASSINA_F calls 40
+pale.Naja376 calls 40
+*** FLOP *** [9s 6c Jc]
+pale.Naja376 checks
+MathisKcr bets 40
+ASSINA_F folds
+pale.Naja376 calls 40
+*** TURN *** [9s 6c Jc][5d]
+pale.Naja376 bets 169
+MathisKcr calls 169
+*** RIVER *** [9s 6c Jc 5d][Kd]
+pale.Naja376 bets 50
+MathisKcr calls 50
+*** SHOW DOWN ***
+MathisKcr shows [Ac 6h] (One pair : 6)
+pale.Naja376 shows [2c Ks] (One pair : Kings)
+pale.Naja376 collected 698 from pot
+*** SUMMARY ***
+Total pot 698 | No rake
+Board: [9s 6c Jc 5d Kd]
+Seat 1: pale.Naja376 (small blind) showed [2c Ks] and won 698 with One pair : Kings
+Seat 2: MathisKcr (big blind) showed [Ac 6h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609750349681524737-2-1772714959 - Holdem no limit (10/20) - 2026/03/05 12:49:19 UTC
+Table: 'Expresso(1073291141)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pale.Naja376 (879)
+Seat 2: MathisKcr (181)
+Seat 3: ASSINA_F (440)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+ASSINA_F posts big blind 20
+Dealt to MathisKcr [5h 7c]
+*** PRE-FLOP *** 
+pale.Naja376 raises 40 to 60
+MathisKcr folds
+ASSINA_F calls 40
+*** FLOP *** [8d Kc 2d]
+ASSINA_F checks
+pale.Naja376 bets 819 and is all-in
+ASSINA_F calls 380 and is all-in
+*** TURN *** [8d Kc 2d][Qd]
+*** RIVER *** [8d Kc 2d Qd][5c]
+*** SHOW DOWN ***
+pale.Naja376 shows [Ts 8s] (One pair : 8)
+ASSINA_F shows [Ad 3d] (Flush Ace high)
+ASSINA_F collected 890 from main pot
+pale.Naja376 collected 439 from side pot 1
+*** SUMMARY ***
+Total pot 1329 | No rake
+Board: [8d Kc 2d Qd 5c]
+Seat 1: pale.Naja376 (button) showed [Ts 8s] and won 439 with One pair : 8
+Seat 3: ASSINA_F (big blind) showed [Ad 3d] and won 890 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609750349681524737-3-1772714975 - Holdem no limit (10/20) - 2026/03/05 12:49:35 UTC
+Table: 'Expresso(1073291141)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pale.Naja376 (439)
+Seat 2: MathisKcr (171)
+Seat 3: ASSINA_F (890)
+*** ANTE/BLINDS ***
+ASSINA_F posts small blind 10
+pale.Naja376 posts big blind 20
+Dealt to MathisKcr [4h 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+ASSINA_F folds
+pale.Naja376 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: pale.Naja376 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609750349681524737-4-1772714981 - Holdem no limit (10/20) - 2026/03/05 12:49:41 UTC
+Table: 'Expresso(1073291141)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pale.Naja376 (449)
+Seat 2: MathisKcr (171)
+Seat 3: ASSINA_F (880)
+*** ANTE/BLINDS ***
+pale.Naja376 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2c Jc]
+*** PRE-FLOP *** 
+ASSINA_F calls 20
+pale.Naja376 calls 10
+MathisKcr checks
+*** FLOP *** [5d 4h 6s]
+pale.Naja376 checks
+MathisKcr checks
+ASSINA_F bets 20
+pale.Naja376 calls 20
+MathisKcr folds
+*** TURN *** [5d 4h 6s][2s]
+pale.Naja376 checks
+ASSINA_F checks
+*** RIVER *** [5d 4h 6s 2s][Jd]
+pale.Naja376 bets 65
+ASSINA_F folds
+pale.Naja376 collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [5d 4h 6s 2s Jd]
+Seat 1: pale.Naja376 (small blind) won 165
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609750349681524737-5-1772715020 - Holdem no limit (15/30) - 2026/03/05 12:50:20 UTC
+Table: 'Expresso(1073291141)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pale.Naja376 (509)
+Seat 2: MathisKcr (151)
+Seat 3: ASSINA_F (840)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+ASSINA_F posts big blind 30
+Dealt to MathisKcr [8h 9c]
+*** PRE-FLOP *** 
+pale.Naja376 folds
+MathisKcr calls 15
+ASSINA_F checks
+*** FLOP *** [Qc 5h Td]
+MathisKcr bets 60
+ASSINA_F calls 60
+*** TURN *** [Qc 5h Td][Ad]
+MathisKcr checks
+ASSINA_F bets 30
+MathisKcr calls 30
+*** RIVER *** [Qc 5h Td Ad][7d]
+MathisKcr checks
+ASSINA_F checks
+*** SHOW DOWN ***
+MathisKcr shows [8h 9c] (High card : Ace)
+ASSINA_F shows [Qd 9s] (One pair : Queens)
+ASSINA_F collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Qc 5h Td Ad 7d]
+Seat 2: MathisKcr (small blind) showed [8h 9c] and lost with High card : Ace
+Seat 3: ASSINA_F (big blind) showed [Qd 9s] and won 240 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609750349681524737-6-1772715046 - Holdem no limit (15/30) - 2026/03/05 12:50:46 UTC
+Table: 'Expresso(1073291141)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pale.Naja376 (509)
+Seat 2: MathisKcr (31)
+Seat 3: ASSINA_F (960)
+*** ANTE/BLINDS ***
+ASSINA_F posts small blind 15
+pale.Naja376 posts big blind 30
+Dealt to MathisKcr [9s 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+ASSINA_F calls 15
+pale.Naja376 checks
+*** FLOP *** [4c 6c 5h]
+ASSINA_F checks
+pale.Naja376 bets 39
+ASSINA_F calls 39
+*** TURN *** [4c 6c 5h][3d]
+ASSINA_F checks
+pale.Naja376 bets 90
+ASSINA_F calls 90
+*** RIVER *** [4c 6c 5h 3d][Ts]
+ASSINA_F bets 801 and is all-in
+pale.Naja376 calls 350 and is all-in
+*** SHOW DOWN ***
+pale.Naja376 shows [2c Tc] (Straight 6 high)
+ASSINA_F shows [9c Jc] (High card : Jack)
+ASSINA_F collected 451 from side pot 1
+pale.Naja376 collected 1018 from main pot
+*** SUMMARY ***
+Total pot 1469 | No rake
+Board: [4c 6c 5h 3d Ts]
+Seat 1: pale.Naja376 (big blind) showed [2c Tc] and won 1018 with Straight 6 high
+Seat 3: ASSINA_F (small blind) showed [9c Jc] and won 451 with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609750349681524737-7-1772715071 - Holdem no limit (15/30) - 2026/03/05 12:51:11 UTC
+Table: 'Expresso(1073291141)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pale.Naja376 (1018)
+Seat 2: MathisKcr (31)
+Seat 3: ASSINA_F (451)
+*** ANTE/BLINDS ***
+pale.Naja376 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4h 8s]
+*** PRE-FLOP *** 
+ASSINA_F calls 30
+pale.Naja376 raises 988 to 1018 and is all-in
+MathisKcr calls 1 and is all-in
+ASSINA_F folds
+*** FLOP *** [7s 9c 7c]
+*** TURN *** [7s 9c 7c][Tc]
+*** RIVER *** [7s 9c 7c Tc][8d]
+*** SHOW DOWN ***
+pale.Naja376 shows [Qd Ah] (One pair : 7)
+MathisKcr shows [4h 8s] (Two pairs : 8 and 7)
+MathisKcr collected 92 from main pot
+pale.Naja376 collected 987 from side pot 1
+*** SUMMARY ***
+Total pot 1079 | No rake
+Board: [7s 9c 7c Tc 8d]
+Seat 1: pale.Naja376 (small blind) showed [Qd Ah] and won 987 with One pair : 7
+Seat 2: MathisKcr (big blind) showed [4h 8s] and won 92 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609750349681524737-8-1772715085 - Holdem no limit (15/30) - 2026/03/05 12:51:25 UTC
+Table: 'Expresso(1073291141)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pale.Naja376 (987)
+Seat 2: MathisKcr (92)
+Seat 3: ASSINA_F (421)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+ASSINA_F posts big blind 30
+Dealt to MathisKcr [6h 5h]
+*** PRE-FLOP *** 
+pale.Naja376 raises 957 to 987 and is all-in
+MathisKcr calls 77 and is all-in
+ASSINA_F folds
+*** FLOP *** [8c 4c 9d]
+*** TURN *** [8c 4c 9d][Ks]
+*** RIVER *** [8c 4c 9d Ks][Td]
+*** SHOW DOWN ***
+MathisKcr shows [6h 5h] (High card : King)
+pale.Naja376 shows [Qs As] (High card : Ace)
+pale.Naja376 collected 1109 from pot
+*** SUMMARY ***
+Total pot 1109 | No rake
+Board: [8c 4c 9d Ks Td]
+Seat 1: pale.Naja376 (button) showed [Qs As] and won 1109 with High card : Ace
+Seat 2: MathisKcr (small blind) showed [6h 5h] and lost with High card : King
+
+

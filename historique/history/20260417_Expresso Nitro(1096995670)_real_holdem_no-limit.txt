@@ -1,0 +1,153 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4711560526503608321-1-1776419741 - Holdem no limit (10/20) - 2026/04/17 09:55:41 UTC
+Table: 'Expresso Nitro(1096995670)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Biouii (300)
+Seat 2: Mishel S (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Mishel S posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Td 9h]
+*** PRE-FLOP *** 
+Biouii calls 20
+Mishel S calls 10
+MathisKcr checks
+*** FLOP *** [8d Kc 8c]
+Mishel S checks
+MathisKcr checks
+Biouii bets 21
+Mishel S raises 51 to 72
+MathisKcr folds
+Biouii folds
+Mishel S collected 153 from pot
+*** SUMMARY ***
+Total pot 153 | No rake
+Board: [8d Kc 8c]
+Seat 2: Mishel S (small blind) won 153
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4711560526503608321-2-1776419775 - Holdem no limit (10/20) - 2026/04/17 09:56:15 UTC
+Table: 'Expresso Nitro(1096995670)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Biouii (259)
+Seat 2: Mishel S (361)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Biouii posts big blind 20
+Dealt to MathisKcr [9h 2c]
+*** PRE-FLOP *** 
+Mishel S folds
+MathisKcr folds
+Biouii collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Biouii (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4711560526503608321-3-1776419781 - Holdem no limit (10/20) - 2026/04/17 09:56:21 UTC
+Table: 'Expresso Nitro(1096995670)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Biouii (269)
+Seat 2: Mishel S (361)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Biouii posts small blind 10
+Mishel S posts big blind 20
+Dealt to MathisKcr [Ks 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Biouii folds
+Mishel S raises 321 to 361 and is all-in
+MathisKcr calls 230 and is all-in
+*** FLOP *** [3d Kh Tc]
+*** TURN *** [3d Kh Tc][5h]
+*** RIVER *** [3d Kh Tc 5h][8h]
+*** SHOW DOWN ***
+Mishel S shows [Ad Qd] (High card : Ace)
+MathisKcr shows [Ks 9d] (One pair : Kings)
+MathisKcr collected 550 from main pot
+Mishel S collected 91 from side pot 1
+*** SUMMARY ***
+Total pot 641 | No rake
+Board: [3d Kh Tc 5h 8h]
+Seat 2: Mishel S (big blind) showed [Ad Qd] and won 91 with High card : Ace
+Seat 3: MathisKcr (button) showed [Ks 9d] and won 550 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4711560526503608321-4-1776419807 - Holdem no limit (15/30) - 2026/04/17 09:56:47 UTC
+Table: 'Expresso Nitro(1096995670)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Biouii (259)
+Seat 2: Mishel S (91)
+Seat 3: MathisKcr (550)
+*** ANTE/BLINDS ***
+Mishel S posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8s Td]
+*** PRE-FLOP *** 
+Biouii calls 30
+Mishel S folds
+MathisKcr checks
+*** FLOP *** [Ah Jh 2h]
+MathisKcr checks
+Biouii bets 30
+MathisKcr folds
+Biouii collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [Ah Jh 2h]
+Seat 1: Biouii (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4711560526503608321-5-1776419823 - Holdem no limit (15/30) - 2026/04/17 09:57:03 UTC
+Table: 'Expresso Nitro(1096995670)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Biouii (304)
+Seat 2: Mishel S (76)
+Seat 3: MathisKcr (520)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Biouii posts big blind 30
+Dealt to MathisKcr [Kc Ac]
+*** PRE-FLOP *** 
+Mishel S raises 46 to 76 and is all-in
+MathisKcr raises 444 to 520 and is all-in
+Biouii calls 274 and is all-in
+*** FLOP *** [5d 3s 6c]
+*** TURN *** [5d 3s 6c][4d]
+*** RIVER *** [5d 3s 6c 4d][Kd]
+*** SHOW DOWN ***
+Biouii shows [Qh Td] (High card : King)
+Mishel S shows [4s 6s] (Two pairs : 6 and 4)
+MathisKcr shows [Kc Ac] (One pair : Kings)
+MathisKcr collected 672 from side pot 1
+Mishel S collected 228 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5d 3s 6c 4d Kd]
+Seat 1: Biouii (big blind) showed [Qh Td] and lost with High card : King
+Seat 2: Mishel S (button) showed [4s 6s] and won 228 with Two pairs : 6 and 4
+Seat 3: MathisKcr (small blind) showed [Kc Ac] and won 672 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4711560526503608321-6-1776419838 - Holdem no limit (15/30) - 2026/04/17 09:57:18 UTC
+Table: 'Expresso Nitro(1096995670)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Mishel S (228)
+Seat 3: MathisKcr (672)
+*** ANTE/BLINDS ***
+Mishel S posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8s Kc]
+*** PRE-FLOP *** 
+Mishel S raises 198 to 228 and is all-in
+MathisKcr calls 198
+*** FLOP *** [Ks 5h Js]
+*** TURN *** [Ks 5h Js][8h]
+*** RIVER *** [Ks 5h Js 8h][2s]
+*** SHOW DOWN ***
+Mishel S shows [2c As] (One pair : 2)
+MathisKcr shows [8s Kc] (Two pairs : Kings and 8)
+MathisKcr collected 456 from pot
+*** SUMMARY ***
+Total pot 456 | No rake
+Board: [Ks 5h Js 8h 2s]
+Seat 2: Mishel S (small blind) (button) showed [2c As] and lost with One pair : 2
+Seat 3: MathisKcr (big blind) showed [8s Kc] and won 456 with Two pairs : Kings and 8
+
+

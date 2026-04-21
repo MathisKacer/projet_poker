@@ -1,0 +1,265 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351745058551103489-1-1762193148 - Holdem no limit (10/20) - 2025/11/03 18:05:48 UTC
+Table: 'Expresso(1013219603)#0' 3-max (real money) Seat #1 is the button
+Seat 1: QueenRr1884 (500)
+Seat 2: MathisKcr (500)
+Seat 3: Cho21 (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Cho21 posts big blind 20
+Dealt to MathisKcr [Qc Kc]
+*** PRE-FLOP *** 
+QueenRr1884 calls 20
+MathisKcr raises 40 to 60
+Cho21 calls 40
+QueenRr1884 calls 40
+*** FLOP *** [8s 3s 7d]
+MathisKcr checks
+Cho21 checks
+QueenRr1884 checks
+*** TURN *** [8s 3s 7d][Tc]
+MathisKcr bets 63
+Cho21 calls 63
+QueenRr1884 calls 63
+*** RIVER *** [8s 3s 7d Tc][Qs]
+MathisKcr bets 185
+Cho21 calls 185
+QueenRr1884 folds
+*** SHOW DOWN ***
+MathisKcr shows [Qc Kc] (One pair : Queens)
+Cho21 shows [7h Td] (Two pairs : Tens and 7)
+Cho21 collected 739 from pot
+*** SUMMARY ***
+Total pot 739 | No rake
+Board: [8s 3s 7d Tc Qs]
+Seat 2: MathisKcr (small blind) showed [Qc Kc] and lost with One pair : Queens
+Seat 3: Cho21 (big blind) showed [7h Td] and won 739 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351745058551103489-2-1762193186 - Holdem no limit (10/20) - 2025/11/03 18:06:26 UTC
+Table: 'Expresso(1013219603)#0' 3-max (real money) Seat #2 is the button
+Seat 1: QueenRr1884 (377)
+Seat 2: MathisKcr (192)
+Seat 3: Cho21 (931)
+*** ANTE/BLINDS ***
+Cho21 posts small blind 10
+QueenRr1884 posts big blind 20
+Dealt to MathisKcr [9c 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cho21 calls 10
+QueenRr1884 raises 30 to 50
+Cho21 calls 30
+*** FLOP *** [8c Qc Td]
+Cho21 checks
+QueenRr1884 bets 50
+Cho21 folds
+QueenRr1884 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [8c Qc Td]
+Seat 1: QueenRr1884 (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351745058551103489-3-1762193205 - Holdem no limit (10/20) - 2025/11/03 18:06:45 UTC
+Table: 'Expresso(1013219603)#0' 3-max (real money) Seat #3 is the button
+Seat 1: QueenRr1884 (427)
+Seat 2: MathisKcr (192)
+Seat 3: Cho21 (881)
+*** ANTE/BLINDS ***
+QueenRr1884 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d 4d]
+*** PRE-FLOP *** 
+Cho21 calls 20
+QueenRr1884 calls 10
+MathisKcr checks
+*** FLOP *** [5c Jh 6s]
+QueenRr1884 checks
+MathisKcr checks
+Cho21 checks
+*** TURN *** [5c Jh 6s][Qs]
+QueenRr1884 bets 30
+MathisKcr folds
+Cho21 calls 30
+*** RIVER *** [5c Jh 6s Qs][Ah]
+QueenRr1884 checks
+Cho21 checks
+*** SHOW DOWN ***
+Cho21 shows [Ts 4s] (High card : Ace)
+QueenRr1884 shows [Js 9s] (One pair : Jacks)
+QueenRr1884 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5c Jh 6s Qs Ah]
+Seat 1: QueenRr1884 (small blind) showed [Js 9s] and won 120 with One pair : Jacks
+Seat 3: Cho21 (button) showed [Ts 4s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4351745058551103489-4-1762193253 - Holdem no limit (15/30) - 2025/11/03 18:07:33 UTC
+Table: 'Expresso(1013219603)#0' 3-max (real money) Seat #1 is the button
+Seat 1: QueenRr1884 (497)
+Seat 2: MathisKcr (172)
+Seat 3: Cho21 (831)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Cho21 posts big blind 30
+Dealt to MathisKcr [8s Qc]
+*** PRE-FLOP *** 
+QueenRr1884 folds
+MathisKcr calls 15
+Cho21 checks
+*** FLOP *** [7c 5s 2h]
+MathisKcr bets 60
+Cho21 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [7c 5s 2h]
+Seat 2: MathisKcr (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4351745058551103489-5-1762193280 - Holdem no limit (15/30) - 2025/11/03 18:08:00 UTC
+Table: 'Expresso(1013219603)#0' 3-max (real money) Seat #2 is the button
+Seat 1: QueenRr1884 (497)
+Seat 2: MathisKcr (202)
+Seat 3: Cho21 (801)
+*** ANTE/BLINDS ***
+Cho21 posts small blind 15
+QueenRr1884 posts big blind 30
+Dealt to MathisKcr [4h 7s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cho21 calls 15
+QueenRr1884 checks
+*** FLOP *** [Th 7h Qh]
+Cho21 checks
+QueenRr1884 bets 30
+Cho21 calls 30
+*** TURN *** [Th 7h Qh][9s]
+Cho21 checks
+QueenRr1884 bets 42
+Cho21 calls 42
+*** RIVER *** [Th 7h Qh 9s][3d]
+Cho21 checks
+QueenRr1884 checks
+*** SHOW DOWN ***
+QueenRr1884 shows [4s Qd] (One pair : Queens)
+Cho21 shows [Ts 3h] (Two pairs : Tens and 3)
+Cho21 collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Board: [Th 7h Qh 9s 3d]
+Seat 1: QueenRr1884 (big blind) showed [4s Qd] and lost with One pair : Queens
+Seat 3: Cho21 (small blind) showed [Ts 3h] and won 204 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4351745058551103489-6-1762193314 - Holdem no limit (15/30) - 2025/11/03 18:08:34 UTC
+Table: 'Expresso(1013219603)#0' 3-max (real money) Seat #3 is the button
+Seat 1: QueenRr1884 (395)
+Seat 2: MathisKcr (202)
+Seat 3: Cho21 (903)
+*** ANTE/BLINDS ***
+QueenRr1884 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qc 3d]
+*** PRE-FLOP *** 
+Cho21 raises 873 to 903 and is all-in
+QueenRr1884 folds
+MathisKcr folds
+Cho21 collected 948 from pot
+*** SUMMARY ***
+Total pot 948 | No rake
+Seat 3: Cho21 (button) won 948
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4351745058551103489-7-1762193326 - Holdem no limit (20/40) - 2025/11/03 18:08:46 UTC
+Table: 'Expresso(1013219603)#0' 3-max (real money) Seat #1 is the button
+Seat 1: QueenRr1884 (380)
+Seat 2: MathisKcr (172)
+Seat 3: Cho21 (948)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Cho21 posts big blind 40
+Dealt to MathisKcr [3h 8h]
+*** PRE-FLOP *** 
+QueenRr1884 raises 40 to 80
+MathisKcr folds
+Cho21 calls 40
+*** FLOP *** [6s Qd Ah]
+Cho21 checks
+QueenRr1884 bets 90
+Cho21 folds
+QueenRr1884 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [6s Qd Ah]
+Seat 1: QueenRr1884 (button) won 270
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4351745058551103489-8-1762193350 - Holdem no limit (20/40) - 2025/11/03 18:09:10 UTC
+Table: 'Expresso(1013219603)#0' 3-max (real money) Seat #2 is the button
+Seat 1: QueenRr1884 (480)
+Seat 2: MathisKcr (152)
+Seat 3: Cho21 (868)
+*** ANTE/BLINDS ***
+Cho21 posts small blind 20
+QueenRr1884 posts big blind 40
+Dealt to MathisKcr [3h Qc]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cho21 calls 20
+QueenRr1884 checks
+*** FLOP *** [5h 5c 4c]
+Cho21 checks
+QueenRr1884 checks
+*** TURN *** [5h 5c 4c][Ts]
+Cho21 checks
+QueenRr1884 checks
+*** RIVER *** [5h 5c 4c Ts][7s]
+Cho21 checks
+QueenRr1884 checks
+*** SHOW DOWN ***
+QueenRr1884 shows [2s Kc] (One pair : 5)
+Cho21 shows [6c Kh] (One pair : 5)
+Cho21 collected 40 from pot
+QueenRr1884 collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5h 5c 4c Ts 7s]
+Seat 1: QueenRr1884 (big blind) showed [2s Kc] and won 40 with One pair : 5
+Seat 3: Cho21 (small blind) showed [6c Kh] and won 40 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4351745058551103489-9-1762193385 - Holdem no limit (20/40) - 2025/11/03 18:09:45 UTC
+Table: 'Expresso(1013219603)#0' 3-max (real money) Seat #3 is the button
+Seat 1: QueenRr1884 (480)
+Seat 2: MathisKcr (152)
+Seat 3: Cho21 (868)
+*** ANTE/BLINDS ***
+QueenRr1884 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3d 5s]
+*** PRE-FLOP *** 
+Cho21 folds
+QueenRr1884 calls 20
+MathisKcr checks
+*** FLOP *** [Qs 4c Td]
+QueenRr1884 checks
+MathisKcr bets 40
+QueenRr1884 calls 40
+*** TURN *** [Qs 4c Td][3s]
+QueenRr1884 checks
+MathisKcr bets 72 and is all-in
+QueenRr1884 calls 72
+*** RIVER *** [Qs 4c Td 3s][2s]
+*** SHOW DOWN ***
+MathisKcr shows [3d 5s] (One pair : 3)
+QueenRr1884 shows [Ts Kc] (One pair : Tens)
+QueenRr1884 collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | No rake
+Board: [Qs 4c Td 3s 2s]
+Seat 1: QueenRr1884 (small blind) showed [Ts Kc] and won 304 with One pair : Tens
+Seat 2: MathisKcr (big blind) showed [3d 5s] and lost with One pair : 3
+
+

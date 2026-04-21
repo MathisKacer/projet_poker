@@ -1,0 +1,296 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614485052909158401-1-1772904650 - Holdem no limit (10/20) - 2026/03/07 17:30:50 UTC
+Table: 'Expresso Nitro(1074393525)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Entourloop. (300)
+Seat 3: Corne4953213 (300)
+*** ANTE/BLINDS ***
+Entourloop. posts small blind 10
+Corne4953213 posts big blind 20
+Dealt to MathisKcr [As Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Entourloop. folds
+Corne4953213 calls 40
+*** FLOP *** [3c 2d 2h]
+Corne4953213 checks
+MathisKcr bets 46
+Corne4953213 calls 46
+*** TURN *** [3c 2d 2h][Ac]
+Corne4953213 checks
+MathisKcr bets 111
+Corne4953213 folds
+MathisKcr collected 333 from pot
+*** SUMMARY ***
+Total pot 333 | No rake
+Board: [3c 2d 2h Ac]
+Seat 1: MathisKcr (button) won 333
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614485052909158401-2-1772904671 - Holdem no limit (10/20) - 2026/03/07 17:31:11 UTC
+Table: 'Expresso Nitro(1074393525)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (416)
+Seat 2: Entourloop. (290)
+Seat 3: Corne4953213 (194)
+*** ANTE/BLINDS ***
+Corne4953213 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c 2h]
+*** PRE-FLOP *** 
+Entourloop. folds
+Corne4953213 calls 10
+MathisKcr checks
+*** FLOP *** [Ac 6h 8d]
+Corne4953213 checks
+MathisKcr checks
+*** TURN *** [Ac 6h 8d][4h]
+Corne4953213 checks
+MathisKcr checks
+*** RIVER *** [Ac 6h 8d 4h][Tc]
+Corne4953213 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [7c 2h] (High card : Ace)
+Corne4953213 shows [4c 5s] (One pair : 4)
+Corne4953213 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ac 6h 8d 4h Tc]
+Seat 1: MathisKcr (big blind) showed [7c 2h] and lost with High card : Ace
+Seat 3: Corne4953213 (small blind) showed [4c 5s] and won 40 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614485052909158401-3-1772904690 - Holdem no limit (10/20) - 2026/03/07 17:31:30 UTC
+Table: 'Expresso Nitro(1074393525)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (396)
+Seat 2: Entourloop. (290)
+Seat 3: Corne4953213 (214)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Entourloop. posts big blind 20
+Dealt to MathisKcr [Kd Js]
+*** PRE-FLOP *** 
+Corne4953213 calls 20
+MathisKcr raises 376 to 396 and is all-in
+Entourloop. folds
+Corne4953213 folds
+MathisKcr collected 436 from pot
+*** SUMMARY ***
+Total pot 436 | No rake
+Seat 1: MathisKcr (small blind) won 436
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614485052909158401-4-1772904700 - Holdem no limit (10/20) - 2026/03/07 17:31:40 UTC
+Table: 'Expresso Nitro(1074393525)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (436)
+Seat 2: Entourloop. (270)
+Seat 3: Corne4953213 (194)
+*** ANTE/BLINDS ***
+Entourloop. posts small blind 10
+Corne4953213 posts big blind 20
+Dealt to MathisKcr [3h Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Entourloop. folds
+Corne4953213 calls 40
+*** FLOP *** [3c Qc Th]
+Corne4953213 checks
+MathisKcr bets 46
+Corne4953213 calls 46
+*** TURN *** [3c Qc Th][Jh]
+Corne4953213 checks
+MathisKcr bets 111
+Corne4953213 calls 88 and is all-in
+*** RIVER *** [3c Qc Th Jh][Qd]
+*** SHOW DOWN ***
+MathisKcr shows [3h Ks] (Two pairs : Queens and 3)
+Corne4953213 shows [Qs 7s] (Trips of Queens)
+Corne4953213 collected 398 from main pot
+MathisKcr collected 23 from side pot 1
+*** SUMMARY ***
+Total pot 421 | No rake
+Board: [3c Qc Th Jh Qd]
+Seat 1: MathisKcr (button) showed [3h Ks] and won 23 with Two pairs : Queens and 3
+Seat 3: Corne4953213 (big blind) showed [Qs 7s] and won 398 with Trips of Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4614485052909158401-5-1772904727 - Holdem no limit (15/30) - 2026/03/07 17:32:07 UTC
+Table: 'Expresso Nitro(1074393525)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (242)
+Seat 2: Entourloop. (260)
+Seat 3: Corne4953213 (398)
+*** ANTE/BLINDS ***
+Corne4953213 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7s Td]
+*** PRE-FLOP *** 
+Entourloop. folds
+Corne4953213 calls 15
+MathisKcr checks
+*** FLOP *** [5h 8h 4s]
+Corne4953213 checks
+MathisKcr bets 60
+Corne4953213 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5h 8h 4s]
+Seat 1: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4614485052909158401-6-1772904743 - Holdem no limit (15/30) - 2026/03/07 17:32:23 UTC
+Table: 'Expresso Nitro(1074393525)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (272)
+Seat 2: Entourloop. (260)
+Seat 3: Corne4953213 (368)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Entourloop. posts big blind 30
+Dealt to MathisKcr [3d Jc]
+*** PRE-FLOP *** 
+Corne4953213 calls 30
+MathisKcr calls 15
+Entourloop. checks
+*** FLOP *** [Tc 8h 7h]
+MathisKcr checks
+Entourloop. bets 45
+Corne4953213 calls 45
+MathisKcr folds
+*** TURN *** [Tc 8h 7h][2s]
+Entourloop. bets 90
+Corne4953213 calls 90
+*** RIVER *** [Tc 8h 7h 2s][3h]
+Entourloop. checks
+Corne4953213 checks
+*** SHOW DOWN ***
+Corne4953213 shows [Jd 7d] (One pair : 7)
+Entourloop. shows [Ac 8d] (One pair : 8)
+Entourloop. collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Tc 8h 7h 2s 3h]
+Seat 2: Entourloop. (big blind) showed [Ac 8d] and won 360 with One pair : 8
+Seat 3: Corne4953213 (button) showed [Jd 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614485052909158401-7-1772904770 - Holdem no limit (20/40) - 2026/03/07 17:32:50 UTC
+Table: 'Expresso Nitro(1074393525)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (242)
+Seat 2: Entourloop. (455)
+Seat 3: Corne4953213 (203)
+*** ANTE/BLINDS ***
+Entourloop. posts small blind 20
+Corne4953213 posts big blind 40
+Dealt to MathisKcr [Ks Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 202 to 242 and is all-in
+Entourloop. calls 222
+Corne4953213 folds
+*** FLOP *** [7c Qd Th]
+*** TURN *** [7c Qd Th][9h]
+*** RIVER *** [7c Qd Th 9h][2s]
+*** SHOW DOWN ***
+Entourloop. shows [2d As] (One pair : 2)
+MathisKcr shows [Ks Qh] (One pair : Queens)
+MathisKcr collected 524 from pot
+*** SUMMARY ***
+Total pot 524 | No rake
+Board: [7c Qd Th 9h 2s]
+Seat 1: MathisKcr (button) showed [Ks Qh] and won 524 with One pair : Queens
+Seat 2: Entourloop. (small blind) showed [2d As] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614485052909158401-8-1772904784 - Holdem no limit (20/40) - 2026/03/07 17:33:04 UTC
+Table: 'Expresso Nitro(1074393525)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (524)
+Seat 2: Entourloop. (213)
+Seat 3: Corne4953213 (163)
+*** ANTE/BLINDS ***
+Corne4953213 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5c Ac]
+*** PRE-FLOP *** 
+Entourloop. folds
+Corne4953213 calls 20
+MathisKcr raises 484 to 524 and is all-in
+Corne4953213 folds
+MathisKcr collected 564 from pot
+*** SUMMARY ***
+Total pot 564 | No rake
+Seat 1: MathisKcr (big blind) won 564
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614485052909158401-9-1772904801 - Holdem no limit (20/40) - 2026/03/07 17:33:21 UTC
+Table: 'Expresso Nitro(1074393525)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (564)
+Seat 2: Entourloop. (213)
+Seat 3: Corne4953213 (123)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Entourloop. posts big blind 40
+Dealt to MathisKcr [2c 5c]
+*** PRE-FLOP *** 
+Corne4953213 raises 83 to 123 and is all-in
+MathisKcr folds
+Entourloop. calls 83
+*** FLOP *** [Qc 9s 3c]
+*** TURN *** [Qc 9s 3c][Kh]
+*** RIVER *** [Qc 9s 3c Kh][Qd]
+*** SHOW DOWN ***
+Corne4953213 shows [Ac 7c] (One pair : Queens)
+Entourloop. shows [4h 4s] (Two pairs : Queens and 4)
+Entourloop. collected 266 from pot
+*** SUMMARY ***
+Total pot 266 | No rake
+Board: [Qc 9s 3c Kh Qd]
+Seat 2: Entourloop. (big blind) showed [4h 4s] and won 266 with Two pairs : Queens and 4
+Seat 3: Corne4953213 (button) showed [Ac 7c] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614485052909158401-10-1772904816 - Holdem no limit (20/40) - 2026/03/07 17:33:36 UTC
+Table: 'Expresso Nitro(1074393525)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (544)
+Seat 2: Entourloop. (356)
+*** ANTE/BLINDS ***
+Entourloop. posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [8d 9h]
+*** PRE-FLOP *** 
+Entourloop. folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614485052909158401-11-1772904822 - Holdem no limit (20/40) - 2026/03/07 17:33:42 UTC
+Table: 'Expresso Nitro(1074393525)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (564)
+Seat 2: Entourloop. (336)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Entourloop. posts big blind 40
+Dealt to MathisKcr [9s 5c]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Entourloop. checks
+*** FLOP *** [4s 9h Ks]
+Entourloop. checks
+MathisKcr bets 80
+Entourloop. calls 80
+*** TURN *** [4s 9h Ks][2s]
+Entourloop. checks
+MathisKcr bets 120
+Entourloop. raises 96 to 216 and is all-in
+MathisKcr calls 96
+*** RIVER *** [4s 9h Ks 2s][5h]
+*** SHOW DOWN ***
+Entourloop. shows [6s Kc] (One pair : Kings)
+MathisKcr shows [9s 5c] (Two pairs : 9 and 5)
+MathisKcr collected 672 from pot
+*** SUMMARY ***
+Total pot 672 | No rake
+Board: [4s 9h Ks 2s 5h]
+Seat 1: MathisKcr (small blind) (button) showed [9s 5c] and won 672 with Two pairs : 9 and 5
+Seat 2: Entourloop. (big blind) showed [6s Kc] and lost with One pair : Kings
+
+

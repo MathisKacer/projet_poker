@@ -1,0 +1,154 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4216787539614236673-1-1756305915 - Holdem no limit (10/20) - 2025/08/27 14:45:15 UTC
+Table: 'Expresso(981797357)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kahina.V (500)
+Seat 2: One_T1me (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Kahina.V posts small blind 10
+One_T1me posts big blind 20
+Dealt to MathisKcr [Ah Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Kahina.V folds
+One_T1me folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4216787539614236673-2-1756305927 - Holdem no limit (10/20) - 2025/08/27 14:45:27 UTC
+Table: 'Expresso(981797357)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kahina.V (490)
+Seat 2: One_T1me (480)
+Seat 3: MathisKcr (530)
+*** ANTE/BLINDS ***
+One_T1me posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Td Tc]
+*** PRE-FLOP *** 
+Kahina.V folds
+One_T1me calls 10
+MathisKcr raises 510 to 530 and is all-in
+One_T1me folds
+MathisKcr collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 3: MathisKcr (big blind) won 550
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4216787539614236673-3-1756305944 - Holdem no limit (10/20) - 2025/08/27 14:45:44 UTC
+Table: 'Expresso(981797357)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kahina.V (490)
+Seat 2: One_T1me (460)
+Seat 3: MathisKcr (550)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Kahina.V posts big blind 20
+Dealt to MathisKcr [5h Js]
+*** PRE-FLOP *** 
+One_T1me folds
+MathisKcr calls 10
+Kahina.V raises 40 to 60
+MathisKcr calls 40
+*** FLOP *** [6h Kc Ac]
+MathisKcr checks
+Kahina.V bets 48
+MathisKcr calls 48
+*** TURN *** [6h Kc Ac][Th]
+MathisKcr checks
+Kahina.V bets 86
+MathisKcr folds
+Kahina.V collected 302 from pot
+*** SUMMARY ***
+Total pot 302 | No rake
+Board: [6h Kc Ac Th]
+Seat 1: Kahina.V (big blind) won 302
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4216787539614236673-4-1756305975 - Holdem no limit (10/20) - 2025/08/27 14:46:15 UTC
+Table: 'Expresso(981797357)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kahina.V (598)
+Seat 2: One_T1me (460)
+Seat 3: MathisKcr (442)
+*** ANTE/BLINDS ***
+Kahina.V posts small blind 10
+One_T1me posts big blind 20
+Dealt to MathisKcr [4s 8s]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Kahina.V calls 10
+One_T1me checks
+*** FLOP *** [Ad 3h 7d]
+Kahina.V checks
+One_T1me checks
+MathisKcr checks
+*** TURN *** [Ad 3h 7d][Qc]
+Kahina.V checks
+One_T1me checks
+MathisKcr checks
+*** RIVER *** [Ad 3h 7d Qc][2c]
+Kahina.V bets 40
+One_T1me folds
+MathisKcr folds
+Kahina.V collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Ad 3h 7d Qc 2c]
+Seat 1: Kahina.V (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4216787539614236673-5-1756306018 - Holdem no limit (15/30) - 2025/08/27 14:46:58 UTC
+Table: 'Expresso(981797357)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kahina.V (638)
+Seat 2: One_T1me (440)
+Seat 3: MathisKcr (422)
+*** ANTE/BLINDS ***
+One_T1me posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8h 2d]
+*** PRE-FLOP *** 
+Kahina.V raises 30 to 60
+One_T1me raises 380 to 440 and is all-in
+MathisKcr folds
+Kahina.V calls 380
+*** FLOP *** [Ah 7d Qc]
+*** TURN *** [Ah 7d Qc][7c]
+*** RIVER *** [Ah 7d Qc 7c][4d]
+*** SHOW DOWN ***
+One_T1me shows [As Ts] (Two pairs : Aces and 7)
+Kahina.V shows [Qs Ac] (Two pairs : Aces and Queens)
+Kahina.V collected 910 from pot
+*** SUMMARY ***
+Total pot 910 | No rake
+Board: [Ah 7d Qc 7c 4d]
+Seat 1: Kahina.V (button) showed [Qs Ac] and won 910 with Two pairs : Aces and Queens
+Seat 2: One_T1me (small blind) showed [As Ts] and lost with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4216787539614236673-6-1756306041 - Holdem no limit (15/30) - 2025/08/27 14:47:21 UTC
+Table: 'Expresso(981797357)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kahina.V (1108)
+Seat 3: MathisKcr (392)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Kahina.V posts big blind 30
+Dealt to MathisKcr [8s Th]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Kahina.V raises 1048 to 1108 and is all-in
+MathisKcr calls 332 and is all-in
+*** FLOP *** [9s 3h 2s]
+*** TURN *** [9s 3h 2s][2c]
+*** RIVER *** [9s 3h 2s 2c][Jh]
+*** SHOW DOWN ***
+MathisKcr shows [8s Th] (One pair : 2)
+Kahina.V shows [8h 8c] (Two pairs : 8 and 2)
+Kahina.V collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [9s 3h 2s 2c Jh]
+Seat 1: Kahina.V (big blind) showed [8h 8c] and won 1500 with Two pairs : 8 and 2
+Seat 3: MathisKcr (small blind) (button) showed [8s Th] and lost with One pair : 2
+
+

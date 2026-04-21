@@ -1,0 +1,250 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351313878194323457-1-1762178924 - Holdem no limit (10/20) - 2025/11/03 14:08:44 UTC
+Table: 'Expresso Nitro(1013119211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Magic_Lo (300)
+Seat 2: joalfer96 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Magic_Lo posts small blind 10
+joalfer96 posts big blind 20
+Dealt to MathisKcr [4h 4d]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+Magic_Lo folds
+joalfer96 folds
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: MathisKcr (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351313878194323457-2-1762178936 - Holdem no limit (10/20) - 2025/11/03 14:08:56 UTC
+Table: 'Expresso Nitro(1013119211)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Magic_Lo (290)
+Seat 2: joalfer96 (280)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+joalfer96 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8c Ah]
+*** PRE-FLOP *** 
+Magic_Lo folds
+joalfer96 calls 10
+MathisKcr raises 20 to 40
+joalfer96 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351313878194323457-3-1762178956 - Holdem no limit (10/20) - 2025/11/03 14:09:16 UTC
+Table: 'Expresso Nitro(1013119211)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Magic_Lo (290)
+Seat 2: joalfer96 (260)
+Seat 3: MathisKcr (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Magic_Lo posts big blind 20
+Dealt to MathisKcr [5d Qc]
+*** PRE-FLOP *** 
+joalfer96 folds
+MathisKcr calls 10
+Magic_Lo checks
+*** FLOP *** [9d 5h 3c]
+MathisKcr bets 40
+Magic_Lo folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9d 5h 3c]
+Seat 3: MathisKcr (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4351313878194323457-4-1762178981 - Holdem no limit (15/30) - 2025/11/03 14:09:41 UTC
+Table: 'Expresso Nitro(1013119211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Magic_Lo (270)
+Seat 2: joalfer96 (260)
+Seat 3: MathisKcr (370)
+*** ANTE/BLINDS ***
+Magic_Lo posts small blind 15
+joalfer96 posts big blind 30
+Dealt to MathisKcr [Ad Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 90
+Magic_Lo calls 75
+joalfer96 raises 170 to 260 and is all-in
+MathisKcr calls 170
+Magic_Lo folds
+*** FLOP *** [7d Ks Js]
+*** TURN *** [7d Ks Js][Td]
+*** RIVER *** [7d Ks Js Td][7h]
+*** SHOW DOWN ***
+MathisKcr shows [Ad Jh] (Two pairs : Jacks and 7)
+joalfer96 shows [Ts Kc] (Two pairs : Kings and Tens)
+joalfer96 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [7d Ks Js Td 7h]
+Seat 2: joalfer96 (big blind) showed [Ts Kc] and won 610 with Two pairs : Kings and Tens
+Seat 3: MathisKcr (button) showed [Ad Jh] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4351313878194323457-5-1762179016 - Holdem no limit (15/30) - 2025/11/03 14:10:16 UTC
+Table: 'Expresso Nitro(1013119211)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Magic_Lo (180)
+Seat 2: joalfer96 (610)
+Seat 3: MathisKcr (110)
+*** ANTE/BLINDS ***
+joalfer96 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Td 9c]
+*** PRE-FLOP *** 
+Magic_Lo folds
+joalfer96 raises 60 to 90
+MathisKcr raises 20 to 110 and is all-in
+joalfer96 calls 20
+*** FLOP *** [Ts Kd 3s]
+*** TURN *** [Ts Kd 3s][7c]
+*** RIVER *** [Ts Kd 3s 7c][Qc]
+*** SHOW DOWN ***
+joalfer96 shows [Jh 5c] (High card : King)
+MathisKcr shows [Td 9c] (One pair : Tens)
+MathisKcr collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Ts Kd 3s 7c Qc]
+Seat 2: joalfer96 (small blind) showed [Jh 5c] and lost with High card : King
+Seat 3: MathisKcr (big blind) showed [Td 9c] and won 220 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4351313878194323457-6-1762179037 - Holdem no limit (15/30) - 2025/11/03 14:10:37 UTC
+Table: 'Expresso Nitro(1013119211)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Magic_Lo (180)
+Seat 2: joalfer96 (500)
+Seat 3: MathisKcr (220)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Magic_Lo posts big blind 30
+Dealt to MathisKcr [4s 2d]
+*** PRE-FLOP *** 
+joalfer96 folds
+MathisKcr folds
+Magic_Lo collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Magic_Lo (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4351313878194323457-7-1762179044 - Holdem no limit (20/40) - 2025/11/03 14:10:44 UTC
+Table: 'Expresso Nitro(1013119211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Magic_Lo (195)
+Seat 2: joalfer96 (500)
+Seat 3: MathisKcr (205)
+*** ANTE/BLINDS ***
+Magic_Lo posts small blind 20
+joalfer96 posts big blind 40
+Dealt to MathisKcr [6c 5c]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+Magic_Lo raises 155 to 195 and is all-in
+joalfer96 folds
+MathisKcr folds
+Magic_Lo collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Seat 1: Magic_Lo (small blind) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4351313878194323457-8-1762179057 - Holdem no limit (20/40) - 2025/11/03 14:10:57 UTC
+Table: 'Expresso Nitro(1013119211)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Magic_Lo (275)
+Seat 2: joalfer96 (460)
+Seat 3: MathisKcr (165)
+*** ANTE/BLINDS ***
+joalfer96 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6d Jh]
+*** PRE-FLOP *** 
+Magic_Lo folds
+joalfer96 raises 420 to 460 and is all-in
+MathisKcr calls 125 and is all-in
+*** FLOP *** [Ac Ks Th]
+*** TURN *** [Ac Ks Th][6h]
+*** RIVER *** [Ac Ks Th 6h][5s]
+*** SHOW DOWN ***
+joalfer96 shows [4s 4h] (One pair : 4)
+MathisKcr shows [6d Jh] (One pair : 6)
+MathisKcr collected 330 from main pot
+joalfer96 collected 295 from side pot 1
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [Ac Ks Th 6h 5s]
+Seat 2: joalfer96 (small blind) showed [4s 4h] and won 295 with One pair : 4
+Seat 3: MathisKcr (big blind) showed [6d Jh] and won 330 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4351313878194323457-9-1762179074 - Holdem no limit (20/40) - 2025/11/03 14:11:14 UTC
+Table: 'Expresso Nitro(1013119211)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Magic_Lo (275)
+Seat 2: joalfer96 (295)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Magic_Lo posts big blind 40
+Dealt to MathisKcr [4c 6h]
+*** PRE-FLOP *** 
+joalfer96 raises 255 to 295 and is all-in
+MathisKcr folds
+Magic_Lo calls 235 and is all-in
+*** FLOP *** [2h Tc 7s]
+*** TURN *** [2h Tc 7s][8d]
+*** RIVER *** [2h Tc 7s 8d][4h]
+*** SHOW DOWN ***
+Magic_Lo shows [Ah Ts] (One pair : Tens)
+joalfer96 shows [Qc 8c] (One pair : 8)
+joalfer96 collected 20 from side pot 1
+Magic_Lo collected 570 from main pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [2h Tc 7s 8d 4h]
+Seat 1: Magic_Lo (big blind) showed [Ah Ts] and won 570 with One pair : Tens
+Seat 2: joalfer96 (button) showed [Qc 8c] and won 20 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4351313878194323457-10-1762179095 - Holdem no limit (20/40) - 2025/11/03 14:11:35 UTC
+Table: 'Expresso Nitro(1013119211)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Magic_Lo (570)
+Seat 2: joalfer96 (20)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+Magic_Lo posts small blind 20
+joalfer96 posts big blind 20 and is all-in
+Dealt to MathisKcr [Jd 2c]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+Magic_Lo calls 20
+*** FLOP *** [4s 2h 4c]
+Magic_Lo checks
+MathisKcr bets 80
+Magic_Lo calls 80
+*** TURN *** [4s 2h 4c][4d]
+Magic_Lo checks
+MathisKcr bets 40
+Magic_Lo calls 40
+*** RIVER *** [4s 2h 4c 4d][Js]
+Magic_Lo checks
+MathisKcr bets 150 and is all-in
+Magic_Lo calls 150
+*** SHOW DOWN ***
+joalfer96 shows [Kh 8c] (Trips of 4)
+MathisKcr shows [Jd 2c] (Full of 4 and Jacks)
+Magic_Lo shows [7h 4h] (Quads of 4)
+Magic_Lo collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [4s 2h 4c 4d Js]
+Seat 1: Magic_Lo (small blind) showed [7h 4h] and won 640 with Quads of 4
+Seat 2: joalfer96 (big blind) showed [Kh 8c] and lost with Trips of 4
+Seat 3: MathisKcr (button) showed [Jd 2c] and lost with Full of 4 and Jacks
+
+

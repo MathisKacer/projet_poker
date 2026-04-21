@@ -1,0 +1,156 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4707004313526861825-1-1776242886 - Holdem no limit (10/20) - 2026/04/15 08:48:06 UTC
+Table: 'Expresso Nitro(1095934844)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: gitock (300)
+Seat 3: Maitre_SENG (300)
+*** ANTE/BLINDS ***
+Maitre_SENG posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 5h]
+*** PRE-FLOP *** 
+gitock calls 20
+Maitre_SENG calls 10
+MathisKcr raises 280 to 300 and is all-in
+gitock folds
+Maitre_SENG folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: MathisKcr (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4707004313526861825-2-1776242898 - Holdem no limit (10/20) - 2026/04/15 08:48:18 UTC
+Table: 'Expresso Nitro(1095934844)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (340)
+Seat 2: gitock (280)
+Seat 3: Maitre_SENG (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+gitock posts big blind 20
+Dealt to MathisKcr [Jd Ks]
+*** PRE-FLOP *** 
+Maitre_SENG folds
+MathisKcr raises 320 to 340 and is all-in
+gitock folds
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: MathisKcr (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4707004313526861825-3-1776242908 - Holdem no limit (10/20) - 2026/04/15 08:48:28 UTC
+Table: 'Expresso Nitro(1095934844)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (360)
+Seat 2: gitock (260)
+Seat 3: Maitre_SENG (280)
+*** ANTE/BLINDS ***
+gitock posts small blind 10
+Maitre_SENG posts big blind 20
+Dealt to MathisKcr [4h 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+gitock calls 10
+Maitre_SENG checks
+*** FLOP *** [7d 5h Jh]
+gitock bets 40
+Maitre_SENG calls 40
+*** TURN *** [7d 5h Jh][Js]
+gitock bets 200 and is all-in
+Maitre_SENG calls 200
+*** RIVER *** [7d 5h Jh Js][7s]
+*** SHOW DOWN ***
+Maitre_SENG shows [8s 6d] (Two pairs : Jacks and 7)
+gitock shows [Kd Qs] (Two pairs : Jacks and 7)
+gitock collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [7d 5h Jh Js 7s]
+Seat 2: gitock (small blind) showed [Kd Qs] and won 520 with Two pairs : Jacks and 7
+Seat 3: Maitre_SENG (big blind) showed [8s 6d] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4707004313526861825-4-1776242929 - Holdem no limit (10/20) - 2026/04/15 08:48:49 UTC
+Table: 'Expresso Nitro(1095934844)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (360)
+Seat 2: gitock (520)
+Seat 3: Maitre_SENG (20)
+*** ANTE/BLINDS ***
+Maitre_SENG posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3s 2h]
+*** PRE-FLOP *** 
+gitock calls 20
+Maitre_SENG calls 10 and is all-in
+MathisKcr checks
+*** FLOP *** [5c As Js]
+MathisKcr checks
+gitock checks
+*** TURN *** [5c As Js][Kd]
+MathisKcr bets 21
+gitock folds
+*** RIVER *** [5c As Js Kd][Ad]
+*** SHOW DOWN ***
+MathisKcr shows [3s 2h] (One pair : Aces)
+Maitre_SENG shows [Jh 5d] (Two pairs : Aces and Jacks)
+Maitre_SENG collected 60 from main pot
+MathisKcr collected 21 from side pot 1
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [5c As Js Kd Ad]
+Seat 1: MathisKcr (big blind) showed [3s 2h] and won 21 with One pair : Aces
+Seat 3: Maitre_SENG (small blind) showed [Jh 5d] and won 60 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4707004313526861825-5-1776242949 - Holdem no limit (15/30) - 2026/04/15 08:49:09 UTC
+Table: 'Expresso Nitro(1095934844)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (340)
+Seat 2: gitock (500)
+Seat 3: Maitre_SENG (60)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+gitock posts big blind 30
+Dealt to MathisKcr [Th 9d]
+*** PRE-FLOP *** 
+Maitre_SENG raises 30 to 60 and is all-in
+MathisKcr calls 45
+gitock folds
+*** FLOP *** [6h Ts 3s]
+*** TURN *** [6h Ts 3s][9s]
+*** RIVER *** [6h Ts 3s 9s][Ac]
+*** SHOW DOWN ***
+Maitre_SENG shows [Ks 8d] (High card : Ace)
+MathisKcr shows [Th 9d] (Two pairs : Tens and 9)
+MathisKcr collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [6h Ts 3s 9s Ac]
+Seat 1: MathisKcr (small blind) showed [Th 9d] and won 150 with Two pairs : Tens and 9
+Seat 3: Maitre_SENG (button) showed [Ks 8d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4707004313526861825-6-1776242962 - Holdem no limit (15/30) - 2026/04/15 08:49:22 UTC
+Table: 'Expresso Nitro(1095934844)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (430)
+Seat 2: gitock (470)
+*** ANTE/BLINDS ***
+gitock posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Js 5s]
+*** PRE-FLOP *** 
+gitock calls 15
+MathisKcr raises 400 to 430 and is all-in
+gitock calls 400
+*** FLOP *** [9s Jh Qc]
+*** TURN *** [9s Jh Qc][7c]
+*** RIVER *** [9s Jh Qc 7c][Td]
+*** SHOW DOWN ***
+MathisKcr shows [Js 5s] (One pair : Jacks)
+gitock shows [Ks Qd] (Straight King high)
+gitock collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [9s Jh Qc 7c Td]
+Seat 1: MathisKcr (big blind) showed [Js 5s] and lost with One pair : Jacks
+Seat 2: gitock (small blind) (button) showed [Ks Qd] and won 860 with Straight King high
+
+

@@ -1,0 +1,98 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668498621753196545-1-1774795960 - Holdem no limit (10/20) - 2026/03/29 14:52:40 UTC
+Table: 'Expresso Nitro(1086969539)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vermax (300)
+Seat 2: Kevkevinm (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Vermax posts small blind 10
+Kevkevinm posts big blind 20
+Dealt to MathisKcr [As 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Vermax calls 30
+Kevkevinm folds
+*** FLOP *** [8c Tc 9s]
+Vermax checks
+MathisKcr bets 35
+Vermax calls 35
+*** TURN *** [8c Tc 9s][Ks]
+Vermax checks
+MathisKcr checks
+*** RIVER *** [8c Tc 9s Ks][7h]
+Vermax bets 225 and is all-in
+MathisKcr folds
+Vermax collected 395 from pot
+*** SUMMARY ***
+Total pot 395 | No rake
+Board: [8c Tc 9s Ks 7h]
+Seat 1: Vermax (small blind) won 395
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668498621753196545-2-1774795989 - Holdem no limit (10/20) - 2026/03/29 14:53:09 UTC
+Table: 'Expresso Nitro(1086969539)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Vermax (395)
+Seat 2: Kevkevinm (280)
+Seat 3: MathisKcr (225)
+*** ANTE/BLINDS ***
+Kevkevinm posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th 6h]
+*** PRE-FLOP *** 
+Vermax folds
+Kevkevinm raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [Ad Ks 5c]
+Kevkevinm bets 52
+MathisKcr folds
+Kevkevinm collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Ad Ks 5c]
+Seat 2: Kevkevinm (small blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668498621753196545-3-1774796005 - Holdem no limit (10/20) - 2026/03/29 14:53:25 UTC
+Table: 'Expresso Nitro(1086969539)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Vermax (395)
+Seat 2: Kevkevinm (320)
+Seat 3: MathisKcr (185)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Vermax posts big blind 20
+Dealt to MathisKcr [4s Jc]
+*** PRE-FLOP *** 
+Kevkevinm folds
+MathisKcr folds
+Vermax collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Vermax (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668498621753196545-4-1774796018 - Holdem no limit (15/30) - 2026/03/29 14:53:38 UTC
+Table: 'Expresso Nitro(1086969539)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Vermax (405)
+Seat 2: Kevkevinm (320)
+Seat 3: MathisKcr (175)
+*** ANTE/BLINDS ***
+Vermax posts small blind 15
+Kevkevinm posts big blind 30
+Dealt to MathisKcr [2d Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 145 to 175 and is all-in
+Vermax folds
+Kevkevinm calls 145
+*** FLOP *** [6h 7h Jh]
+*** TURN *** [6h 7h Jh][Td]
+*** RIVER *** [6h 7h Jh Td][2h]
+*** SHOW DOWN ***
+MathisKcr shows [2d Ad] (One pair : 2)
+Kevkevinm shows [Th Kc] (Flush Jack high)
+Kevkevinm collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | No rake
+Board: [6h 7h Jh Td 2h]
+Seat 2: Kevkevinm (big blind) showed [Th Kc] and won 365 with Flush Jack high
+Seat 3: MathisKcr (button) showed [2d Ad] and lost with One pair : 2
+
+

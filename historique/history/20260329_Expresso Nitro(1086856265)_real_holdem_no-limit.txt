@@ -1,0 +1,81 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668012113627709441-1-1774776760 - Holdem no limit (10/20) - 2026/03/29 09:32:40 UTC
+Table: 'Expresso Nitro(1086856265)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB-Matador32 (300)
+Seat 2: Syssou23 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+JB-Matador32 posts small blind 10
+Syssou23 posts big blind 20
+Dealt to MathisKcr [Ac 9h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+JB-Matador32 raises 260 to 300 and is all-in
+Syssou23 folds
+MathisKcr calls 260 and is all-in
+*** FLOP *** [3d Ah 2s]
+*** TURN *** [3d Ah 2s][7c]
+*** RIVER *** [3d Ah 2s 7c][Tc]
+*** SHOW DOWN ***
+JB-Matador32 shows [4h 4s] (One pair : 4)
+MathisKcr shows [Ac 9h] (One pair : Aces)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [3d Ah 2s 7c Tc]
+Seat 1: JB-Matador32 (small blind) showed [4h 4s] and lost with One pair : 4
+Seat 3: MathisKcr (button) showed [Ac 9h] and won 620 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668012113627709441-2-1774776778 - Holdem no limit (10/20) - 2026/03/29 09:32:58 UTC
+Table: 'Expresso Nitro(1086856265)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Syssou23 (280)
+Seat 3: MathisKcr (620)
+*** ANTE/BLINDS ***
+Syssou23 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4d 7s]
+*** PRE-FLOP *** 
+Syssou23 calls 10
+MathisKcr checks
+*** FLOP *** [3d Qc Kd]
+MathisKcr checks
+Syssou23 checks
+*** TURN *** [3d Qc Kd][Th]
+MathisKcr checks
+Syssou23 checks
+*** RIVER *** [3d Qc Kd Th][Jd]
+MathisKcr checks
+Syssou23 bets 40
+MathisKcr folds
+Syssou23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3d Qc Kd Th Jd]
+Seat 2: Syssou23 (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668012113627709441-3-1774776802 - Holdem no limit (10/20) - 2026/03/29 09:33:22 UTC
+Table: 'Expresso Nitro(1086856265)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Syssou23 (300)
+Seat 3: MathisKcr (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Syssou23 posts big blind 20
+Dealt to MathisKcr [Js Ts]
+*** PRE-FLOP *** 
+MathisKcr raises 580 to 600 and is all-in
+Syssou23 calls 280 and is all-in
+*** FLOP *** [8c 5s 6c]
+*** TURN *** [8c 5s 6c][4c]
+*** RIVER *** [8c 5s 6c 4c][Td]
+*** SHOW DOWN ***
+Syssou23 shows [Jc Kh] (High card : King)
+MathisKcr shows [Js Ts] (One pair : Tens)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8c 5s 6c 4c Td]
+Seat 2: Syssou23 (big blind) showed [Jc Kh] and lost with High card : King
+Seat 3: MathisKcr (small blind) (button) showed [Js Ts] and won 900 with One pair : Tens
+
+

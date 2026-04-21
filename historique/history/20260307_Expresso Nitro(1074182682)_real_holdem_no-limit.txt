@@ -1,0 +1,85 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613579489119567873-1-1772866089 - Holdem no limit (10/20) - 2026/03/07 06:48:09 UTC
+Table: 'Expresso Nitro(1074182682)#0' 3-max (real money) Seat #3 is the button
+Seat 1: malkoas (300)
+Seat 2: MathisKcr (300)
+Seat 3: roulito86 (300)
+*** ANTE/BLINDS ***
+malkoas posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d 2c]
+*** PRE-FLOP *** 
+roulito86 calls 20
+malkoas raises 280 to 300 and is all-in
+MathisKcr folds
+roulito86 folds
+malkoas collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: malkoas (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613579489119567873-2-1772866111 - Holdem no limit (10/20) - 2026/03/07 06:48:31 UTC
+Table: 'Expresso Nitro(1074182682)#0' 3-max (real money) Seat #1 is the button
+Seat 1: malkoas (340)
+Seat 2: MathisKcr (280)
+Seat 3: roulito86 (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+roulito86 posts big blind 20
+Dealt to MathisKcr [4s 7c]
+*** PRE-FLOP *** 
+malkoas raises 320 to 340 and is all-in
+MathisKcr folds
+roulito86 folds
+malkoas collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 1: malkoas (button) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613579489119567873-3-1772866125 - Holdem no limit (10/20) - 2026/03/07 06:48:45 UTC
+Table: 'Expresso Nitro(1074182682)#0' 3-max (real money) Seat #2 is the button
+Seat 1: malkoas (370)
+Seat 2: MathisKcr (270)
+Seat 3: roulito86 (260)
+*** ANTE/BLINDS ***
+roulito86 posts small blind 10
+malkoas posts big blind 20
+Dealt to MathisKcr [Ad 5h]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+roulito86 folds
+malkoas folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613579489119567873-4-1772866146 - Holdem no limit (10/20) - 2026/03/07 06:49:06 UTC
+Table: 'Expresso Nitro(1074182682)#0' 3-max (real money) Seat #3 is the button
+Seat 1: malkoas (350)
+Seat 2: MathisKcr (300)
+Seat 3: roulito86 (250)
+*** ANTE/BLINDS ***
+malkoas posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8d 8c]
+*** PRE-FLOP *** 
+roulito86 folds
+malkoas raises 330 to 350 and is all-in
+MathisKcr calls 280 and is all-in
+*** FLOP *** [Js 4c 3h]
+*** TURN *** [Js 4c 3h][7s]
+*** RIVER *** [Js 4c 3h 7s][Ks]
+*** SHOW DOWN ***
+MathisKcr shows [8d 8c] (One pair : 8)
+malkoas shows [Kd 7h] (Two pairs : Kings and 7)
+malkoas collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Js 4c 3h 7s Ks]
+Seat 1: malkoas (small blind) showed [Kd 7h] and won 650 with Two pairs : Kings and 7
+Seat 2: MathisKcr (big blind) showed [8d 8c] and lost with One pair : 8
+
+

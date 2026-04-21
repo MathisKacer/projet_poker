@@ -1,0 +1,182 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677143085249986561-1-1775123911 - Holdem no limit (10/20) - 2026/04/02 09:58:31 UTC
+Table: 'Expresso Nitro(1088982235)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Trollflou554 (300)
+Seat 2: MathisKcr (300)
+Seat 3: poldergom (300)
+*** ANTE/BLINDS ***
+Trollflou554 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3s 2h]
+*** PRE-FLOP *** 
+poldergom folds
+Trollflou554 calls 10
+MathisKcr checks
+*** FLOP *** [Tc 6d Ks]
+Trollflou554 checks
+MathisKcr checks
+*** TURN *** [Tc 6d Ks][Td]
+Trollflou554 checks
+MathisKcr checks
+*** RIVER *** [Tc 6d Ks Td][4d]
+Trollflou554 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [3s 2h] (One pair : Tens)
+Trollflou554 shows [5c 3d] (One pair : Tens)
+Trollflou554 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Tc 6d Ks Td 4d]
+Seat 1: Trollflou554 (small blind) showed [5c 3d] and won 40 with One pair : Tens
+Seat 2: MathisKcr (big blind) showed [3s 2h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677143085249986561-2-1775123949 - Holdem no limit (10/20) - 2026/04/02 09:59:09 UTC
+Table: 'Expresso Nitro(1088982235)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Trollflou554 (320)
+Seat 2: MathisKcr (280)
+Seat 3: poldergom (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+poldergom posts big blind 20
+Dealt to MathisKcr [9s 7c]
+*** PRE-FLOP *** 
+Trollflou554 calls 20
+MathisKcr folds
+poldergom checks
+*** FLOP *** [9h Qd 8c]
+poldergom checks
+Trollflou554 checks
+*** TURN *** [9h Qd 8c][Ac]
+poldergom checks
+Trollflou554 bets 300 and is all-in
+poldergom folds
+Trollflou554 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [9h Qd 8c Ac]
+Seat 1: Trollflou554 (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677143085249986561-3-1775123985 - Holdem no limit (15/30) - 2026/04/02 09:59:45 UTC
+Table: 'Expresso Nitro(1088982235)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Trollflou554 (350)
+Seat 2: MathisKcr (270)
+Seat 3: poldergom (280)
+*** ANTE/BLINDS ***
+poldergom posts small blind 15
+Trollflou554 posts big blind 30
+Dealt to MathisKcr [3h 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+poldergom folds
+Trollflou554 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Trollflou554 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677143085249986561-4-1775123993 - Holdem no limit (15/30) - 2026/04/02 09:59:53 UTC
+Table: 'Expresso Nitro(1088982235)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Trollflou554 (365)
+Seat 2: MathisKcr (270)
+Seat 3: poldergom (265)
+*** ANTE/BLINDS ***
+Trollflou554 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6h 6d]
+*** PRE-FLOP *** 
+poldergom folds
+Trollflou554 calls 15
+MathisKcr raises 240 to 270 and is all-in
+Trollflou554 folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: MathisKcr (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677143085249986561-5-1775124006 - Holdem no limit (15/30) - 2026/04/02 10:00:06 UTC
+Table: 'Expresso Nitro(1088982235)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Trollflou554 (335)
+Seat 2: MathisKcr (300)
+Seat 3: poldergom (265)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+poldergom posts big blind 30
+Dealt to MathisKcr [Kc 7s]
+*** PRE-FLOP *** 
+Trollflou554 calls 30
+MathisKcr raises 270 to 300 and is all-in
+poldergom calls 235 and is all-in
+Trollflou554 folds
+*** FLOP *** [Qc 4c 3d]
+*** TURN *** [Qc 4c 3d][4d]
+*** RIVER *** [Qc 4c 3d 4d][Jh]
+*** SHOW DOWN ***
+MathisKcr shows [Kc 7s] (One pair : 4)
+poldergom shows [Ks Ah] (One pair : 4)
+poldergom collected 560 from main pot
+MathisKcr collected 35 from side pot 1
+*** SUMMARY ***
+Total pot 595 | No rake
+Board: [Qc 4c 3d 4d Jh]
+Seat 2: MathisKcr (small blind) showed [Kc 7s] and won 35 with One pair : 4
+Seat 3: poldergom (big blind) showed [Ks Ah] and won 560 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4677143085249986561-6-1775124042 - Holdem no limit (20/40) - 2026/04/02 10:00:42 UTC
+Table: 'Expresso Nitro(1088982235)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Trollflou554 (305)
+Seat 2: MathisKcr (35)
+Seat 3: poldergom (560)
+*** ANTE/BLINDS ***
+poldergom posts small blind 20
+Trollflou554 posts big blind 40
+Dealt to MathisKcr [9d Qh]
+*** PRE-FLOP *** 
+MathisKcr calls 35 and is all-in
+poldergom raises 520 to 560 and is all-in
+Trollflou554 folds
+*** FLOP *** [7d Qc Ah]
+*** TURN *** [7d Qc Ah][Ts]
+*** RIVER *** [7d Qc Ah Ts][9s]
+*** SHOW DOWN ***
+MathisKcr shows [9d Qh] (Two pairs : Queens and 9)
+poldergom shows [Ac 4c] (One pair : Aces)
+poldergom collected 530 from side pot 1
+MathisKcr collected 105 from main pot
+*** SUMMARY ***
+Total pot 635 | No rake
+Board: [7d Qc Ah Ts 9s]
+Seat 2: MathisKcr (button) showed [9d Qh] and won 105 with Two pairs : Queens and 9
+Seat 3: poldergom (small blind) showed [Ac 4c] and won 530 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4677143085249986561-7-1775124056 - Holdem no limit (20/40) - 2026/04/02 10:00:56 UTC
+Table: 'Expresso Nitro(1088982235)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Trollflou554 (265)
+Seat 2: MathisKcr (105)
+Seat 3: poldergom (530)
+*** ANTE/BLINDS ***
+Trollflou554 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jh 4d]
+*** PRE-FLOP *** 
+poldergom folds
+Trollflou554 raises 225 to 265 and is all-in
+MathisKcr calls 65 and is all-in
+*** FLOP *** [2h 5c Qc]
+*** TURN *** [2h 5c Qc][6c]
+*** RIVER *** [2h 5c Qc 6c][7h]
+*** SHOW DOWN ***
+MathisKcr shows [Jh 4d] (High card : Queen)
+Trollflou554 shows [Kh 6d] (One pair : 6)
+Trollflou554 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Board: [2h 5c Qc 6c 7h]
+Seat 1: Trollflou554 (small blind) showed [Kh 6d] and won 370 with One pair : 6
+Seat 2: MathisKcr (big blind) showed [Jh 4d] and lost with High card : Queen
+
+

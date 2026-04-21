@@ -1,0 +1,77 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4661903085289865217-1-1774531171 - Holdem no limit (10/20) - 2026/03/26 13:19:31 UTC
+Table: 'Expresso Nitro(1085433896)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Kepa974 (300)
+Seat 3: XupamecanoX (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Kepa974 posts big blind 20
+Dealt to MathisKcr [6d Tc]
+*** PRE-FLOP *** 
+XupamecanoX folds
+MathisKcr folds
+Kepa974 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Kepa974 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4661903085289865217-2-1774531180 - Holdem no limit (10/20) - 2026/03/26 13:19:40 UTC
+Table: 'Expresso Nitro(1085433896)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: Kepa974 (310)
+Seat 3: XupamecanoX (300)
+*** ANTE/BLINDS ***
+Kepa974 posts small blind 10
+XupamecanoX posts big blind 20
+Dealt to MathisKcr [2d 5c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Kepa974 calls 10
+XupamecanoX checks
+*** FLOP *** [4h Ks Kc]
+Kepa974 checks
+XupamecanoX checks
+*** TURN *** [4h Ks Kc][Ac]
+Kepa974 bets 20
+XupamecanoX folds
+Kepa974 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [4h Ks Kc Ac]
+Seat 2: Kepa974 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4661903085289865217-3-1774531196 - Holdem no limit (10/20) - 2026/03/26 13:19:56 UTC
+Table: 'Expresso Nitro(1085433896)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (290)
+Seat 2: Kepa974 (330)
+Seat 3: XupamecanoX (280)
+*** ANTE/BLINDS ***
+XupamecanoX posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th 8h]
+*** PRE-FLOP *** 
+Kepa974 calls 20
+XupamecanoX folds
+MathisKcr checks
+*** FLOP *** [7h 8d 8c]
+MathisKcr bets 20
+Kepa974 calls 20
+*** TURN *** [7h 8d 8c][4s]
+MathisKcr bets 40
+Kepa974 calls 40
+*** RIVER *** [7h 8d 8c 4s][Js]
+MathisKcr bets 210 and is all-in
+Kepa974 calls 210
+*** SHOW DOWN ***
+MathisKcr shows [Th 8h] (Trips of 8)
+Kepa974 shows [Jc 8s] (Full of 8 and Jacks)
+Kepa974 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [7h 8d 8c 4s Js]
+Seat 1: MathisKcr (big blind) showed [Th 8h] and lost with Trips of 8
+Seat 2: Kepa974 (button) showed [Jc 8s] and won 590 with Full of 8 and Jacks
+
+

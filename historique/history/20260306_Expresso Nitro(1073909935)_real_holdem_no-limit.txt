@@ -1,0 +1,100 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612408049674485761-1-1772818511 - Holdem no limit (10/20) - 2026/03/06 17:35:11 UTC
+Table: 'Expresso Nitro(1073909935)#0' 3-max (real money) Seat #3 is the button
+Seat 1: wmx-cwytpzo (300)
+Seat 2: zdededede31 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+wmx-cwytpzo posts small blind 10
+zdededede31 posts big blind 20
+Dealt to MathisKcr [Ah 8d]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+wmx-cwytpzo calls 50
+zdededede31 calls 40
+*** FLOP *** [Kd 6c Qs]
+wmx-cwytpzo checks
+zdededede31 checks
+MathisKcr bets 63
+wmx-cwytpzo raises 177 to 240 and is all-in
+zdededede31 folds
+MathisKcr folds
+wmx-cwytpzo collected 483 from pot
+*** SUMMARY ***
+Total pot 483 | No rake
+Board: [Kd 6c Qs]
+Seat 1: wmx-cwytpzo (small blind) won 483
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612408049674485761-2-1772818528 - Holdem no limit (10/20) - 2026/03/06 17:35:28 UTC
+Table: 'Expresso Nitro(1073909935)#0' 3-max (real money) Seat #1 is the button
+Seat 1: wmx-cwytpzo (483)
+Seat 2: zdededede31 (240)
+Seat 3: MathisKcr (177)
+*** ANTE/BLINDS ***
+zdededede31 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8c Qc]
+*** PRE-FLOP *** 
+wmx-cwytpzo calls 20
+zdededede31 calls 10
+MathisKcr checks
+*** FLOP *** [7h 9c 7c]
+zdededede31 checks
+MathisKcr bets 30
+wmx-cwytpzo folds
+zdededede31 calls 30
+*** TURN *** [7h 9c 7c][2h]
+zdededede31 checks
+MathisKcr bets 78
+zdededede31 calls 78
+*** RIVER *** [7h 9c 7c 2h][4h]
+zdededede31 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [8c Qc] (One pair : 7)
+zdededede31 shows [8d 7s] (Trips of 7)
+zdededede31 collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | No rake
+Board: [7h 9c 7c 2h 4h]
+Seat 2: zdededede31 (small blind) showed [8d 7s] and won 276 with Trips of 7
+Seat 3: MathisKcr (big blind) showed [8c Qc] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4612408049674485761-3-1772818569 - Holdem no limit (15/30) - 2026/03/06 17:36:09 UTC
+Table: 'Expresso Nitro(1073909935)#0' 3-max (real money) Seat #2 is the button
+Seat 1: wmx-cwytpzo (463)
+Seat 2: zdededede31 (388)
+Seat 3: MathisKcr (49)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+wmx-cwytpzo posts big blind 30
+Dealt to MathisKcr [5c Ks]
+*** PRE-FLOP *** 
+zdededede31 calls 30
+MathisKcr raises 19 to 49 and is all-in
+wmx-cwytpzo calls 19
+zdededede31 calls 19
+*** FLOP *** [Ac 3s Qd]
+wmx-cwytpzo checks
+zdededede31 checks
+*** TURN *** [Ac 3s Qd][8h]
+wmx-cwytpzo checks
+zdededede31 checks
+*** RIVER *** [Ac 3s Qd 8h][Kh]
+wmx-cwytpzo bets 30
+zdededede31 raises 30 to 60
+wmx-cwytpzo calls 30
+*** SHOW DOWN ***
+wmx-cwytpzo shows [Qs 9h] (One pair : Queens)
+MathisKcr shows [5c Ks] (One pair : Kings)
+zdededede31 shows [Td Jh] (Straight Ace high)
+zdededede31 collected 267 from pot
+*** SUMMARY ***
+Total pot 267 | No rake
+Board: [Ac 3s Qd 8h Kh]
+Seat 1: wmx-cwytpzo (big blind) showed [Qs 9h] and lost with One pair : Queens
+Seat 2: zdededede31 (button) showed [Td Jh] and won 267 with Straight Ace high
+Seat 3: MathisKcr (small blind) showed [5c Ks] and lost with One pair : Kings
+
+

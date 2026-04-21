@@ -1,0 +1,60 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4630714888212185195-1-1775984430 - Holdem no limit (25/100/200) - 2026/04/12 09:00:30 UTC
+Table: 'Freeroll(1078172328)#0106' 8-max (real money) Seat #5 is the button
+Seat 1: PISTUFIX51 (20000)
+Seat 2: MathisKcr (20000)
+Seat 3: shrek952 (20000)
+Seat 4: Cyclone trop (20000)
+Seat 5: valoche1968 (20000)
+Seat 6: Kulligan (20000)
+Seat 7: didf1 (20000)
+Seat 8: Sofugly2 (20000)
+*** ANTE/BLINDS ***
+Kulligan posts ante 25
+didf1 posts ante 25
+PISTUFIX51 posts ante 25
+MathisKcr posts ante 25
+shrek952 posts ante 25
+Cyclone trop posts ante 25
+valoche1968 posts ante 25
+Sofugly2 posts ante 25
+Kulligan posts small blind 100
+didf1 posts big blind 200
+Dealt to MathisKcr [Ah Kh]
+*** PRE-FLOP *** 
+Sofugly2 folds
+PISTUFIX51 folds
+MathisKcr raises 200 to 400
+shrek952 folds
+Cyclone trop calls 400
+valoche1968 calls 400
+Kulligan calls 300
+didf1 calls 200
+*** FLOP *** [Jh 5d 6c]
+Kulligan checks
+didf1 checks
+MathisKcr bets 1100
+Cyclone trop calls 1100
+valoche1968 calls 1100
+Kulligan calls 1100
+didf1 raises 1100 to 2200
+MathisKcr calls 1100
+Cyclone trop raises 17375 to 19575 and is all-in
+valoche1968 folds
+Kulligan folds
+didf1 calls 17375 and is all-in
+MathisKcr calls 17375 and is all-in
+*** TURN *** [Jh 5d 6c][3s]
+*** RIVER *** [Jh 5d 6c 3s][5s]
+*** SHOW DOWN ***
+MathisKcr shows [Ah Kh] (One pair : 5)
+Cyclone trop shows [8h 9h] (One pair : 5)
+didf1 shows [5h 6s] (Full of 5 and 6)
+didf1 collected 63125 from pot
+*** SUMMARY ***
+Total pot 63125 | No rake
+Board: [Jh 5d 6c 3s 5s]
+Seat 2: MathisKcr showed [Ah Kh] and lost with One pair : 5
+Seat 4: Cyclone trop showed [8h 9h] and lost with One pair : 5
+Seat 7: didf1 (big blind) showed [5h 6s] and won 63125 with Full of 5 and 6
+
+

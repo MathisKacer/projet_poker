@@ -1,0 +1,123 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494717076656619521-1-1768318660 - Holdem no limit (10/20) - 2026/01/13 15:37:40 UTC
+Table: 'Expresso Nitro(1046507870)#0' 3-max (real money) Seat #2 is the button
+Seat 1: chinois.68 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Maple.Leafs (300)
+*** ANTE/BLINDS ***
+Maple.Leafs posts small blind 10
+chinois.68 posts big blind 20
+Dealt to MathisKcr [5h Td]
+*** PRE-FLOP *** 
+MathisKcr folds
+Maple.Leafs calls 10
+chinois.68 checks
+*** FLOP *** [2c 7d Kh]
+Maple.Leafs bets 20
+chinois.68 folds
+Maple.Leafs collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2c 7d Kh]
+Seat 3: Maple.Leafs (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494717076656619521-2-1768318680 - Holdem no limit (10/20) - 2026/01/13 15:38:00 UTC
+Table: 'Expresso Nitro(1046507870)#0' 3-max (real money) Seat #3 is the button
+Seat 1: chinois.68 (280)
+Seat 2: MathisKcr (300)
+Seat 3: Maple.Leafs (320)
+*** ANTE/BLINDS ***
+chinois.68 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 3s]
+*** PRE-FLOP *** 
+Maple.Leafs folds
+chinois.68 raises 260 to 280 and is all-in
+MathisKcr raises 20 to 300 and is all-in
+*** FLOP *** [As Ts 9h]
+*** TURN *** [As Ts 9h][Js]
+*** RIVER *** [As Ts 9h Js][Ac]
+*** SHOW DOWN ***
+chinois.68 shows [Ah 3c] (Trips of Aces)
+MathisKcr shows [Ad 3s] (Trips of Aces)
+MathisKcr collected 300 from side pot 1
+chinois.68 collected 280 from main pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [As Ts 9h Js Ac]
+Seat 1: chinois.68 (small blind) showed [Ah 3c] and won 280 with Trips of Aces
+Seat 2: MathisKcr (big blind) showed [Ad 3s] and won 300 with Trips of Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494717076656619521-3-1768318700 - Holdem no limit (10/20) - 2026/01/13 15:38:20 UTC
+Table: 'Expresso Nitro(1046507870)#0' 3-max (real money) Seat #1 is the button
+Seat 1: chinois.68 (280)
+Seat 2: MathisKcr (300)
+Seat 3: Maple.Leafs (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Maple.Leafs posts big blind 20
+Dealt to MathisKcr [2c Qs]
+*** PRE-FLOP *** 
+chinois.68 calls 20
+MathisKcr calls 10
+Maple.Leafs checks
+*** FLOP *** [Jh 3h 7h]
+MathisKcr bets 40
+Maple.Leafs folds
+chinois.68 folds
+MathisKcr collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Jh 3h 7h]
+Seat 2: MathisKcr (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4494717076656619521-4-1768318722 - Holdem no limit (15/30) - 2026/01/13 15:38:42 UTC
+Table: 'Expresso Nitro(1046507870)#0' 3-max (real money) Seat #2 is the button
+Seat 1: chinois.68 (260)
+Seat 2: MathisKcr (340)
+Seat 3: Maple.Leafs (300)
+*** ANTE/BLINDS ***
+Maple.Leafs posts small blind 15
+chinois.68 posts big blind 30
+Dealt to MathisKcr [3h 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Maple.Leafs raises 270 to 300 and is all-in
+chinois.68 folds
+Maple.Leafs collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Maple.Leafs (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4494717076656619521-5-1768318729 - Holdem no limit (15/30) - 2026/01/13 15:38:49 UTC
+Table: 'Expresso Nitro(1046507870)#0' 3-max (real money) Seat #3 is the button
+Seat 1: chinois.68 (230)
+Seat 2: MathisKcr (340)
+Seat 3: Maple.Leafs (330)
+*** ANTE/BLINDS ***
+chinois.68 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2d 2h]
+*** PRE-FLOP *** 
+Maple.Leafs raises 300 to 330 and is all-in
+chinois.68 calls 215 and is all-in
+MathisKcr calls 300
+*** FLOP *** [Qh 3h 7h]
+*** TURN *** [Qh 3h 7h][2c]
+*** RIVER *** [Qh 3h 7h 2c][9s]
+*** SHOW DOWN ***
+chinois.68 shows [3s As] (One pair : 3)
+Maple.Leafs shows [6d Ac] (High card : Ace)
+MathisKcr shows [2d 2h] (Trips of 2)
+MathisKcr collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [Qh 3h 7h 2c 9s]
+Seat 1: chinois.68 (small blind) showed [3s As] and lost with One pair : 3
+Seat 2: MathisKcr (big blind) showed [2d 2h] and won 890 with Trips of 2
+Seat 3: Maple.Leafs (button) showed [6d Ac] and lost with High card : Ace
+
+

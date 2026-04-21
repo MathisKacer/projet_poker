@@ -1,0 +1,274 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688825413474975745-1-1775567812 - Holdem no limit (10/20) - 2026/04/07 13:16:52 UTC
+Table: 'Expresso Nitro(1091702239)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Fabich33 (300)
+Seat 3: Faucon-50393 (300)
+*** ANTE/BLINDS ***
+Fabich33 posts small blind 10
+Faucon-50393 posts big blind 20
+Dealt to MathisKcr [Ks 5h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Fabich33 calls 30
+Faucon-50393 calls 20
+*** FLOP *** [Th Ac 7c]
+Fabich33 bets 20
+Faucon-50393 folds
+MathisKcr folds
+Fabich33 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Th Ac 7c]
+Seat 2: Fabich33 (small blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688825413474975745-2-1775567836 - Holdem no limit (10/20) - 2026/04/07 13:17:16 UTC
+Table: 'Expresso Nitro(1091702239)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (260)
+Seat 2: Fabich33 (380)
+Seat 3: Faucon-50393 (260)
+*** ANTE/BLINDS ***
+Faucon-50393 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c 7d]
+*** PRE-FLOP *** 
+Fabich33 calls 20
+Faucon-50393 calls 10
+MathisKcr checks
+*** FLOP *** [9c 5d Ks]
+Faucon-50393 checks
+MathisKcr bets 21
+Fabich33 calls 21
+Faucon-50393 calls 21
+*** TURN *** [9c 5d Ks][Jc]
+Faucon-50393 bets 20
+MathisKcr folds
+Fabich33 calls 20
+*** RIVER *** [9c 5d Ks Jc][7s]
+Faucon-50393 bets 106
+Fabich33 calls 106
+*** SHOW DOWN ***
+Faucon-50393 shows [Qh Js] (One pair : Jacks)
+Fabich33 shows [Kh 8h] (One pair : Kings)
+Fabich33 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [9c 5d Ks Jc 7s]
+Seat 2: Fabich33 (button) showed [Kh 8h] and won 375 with One pair : Kings
+Seat 3: Faucon-50393 (small blind) showed [Qh Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688825413474975745-3-1775567873 - Holdem no limit (15/30) - 2026/04/07 13:17:53 UTC
+Table: 'Expresso Nitro(1091702239)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (219)
+Seat 2: Fabich33 (588)
+Seat 3: Faucon-50393 (93)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Fabich33 posts big blind 30
+Dealt to MathisKcr [Js Td]
+*** PRE-FLOP *** 
+Faucon-50393 raises 63 to 93 and is all-in
+MathisKcr raises 126 to 219 and is all-in
+Fabich33 folds
+*** FLOP *** [9s 8d Kd]
+*** TURN *** [9s 8d Kd][Tc]
+*** RIVER *** [9s 8d Kd Tc][3s]
+*** SHOW DOWN ***
+MathisKcr shows [Js Td] (One pair : Tens)
+Faucon-50393 shows [7c Jc] (Straight Jack high)
+Faucon-50393 collected 216 from main pot
+MathisKcr collected 126 from side pot 1
+*** SUMMARY ***
+Total pot 342 | No rake
+Board: [9s 8d Kd Tc 3s]
+Seat 1: MathisKcr (small blind) showed [Js Td] and won 126 with One pair : Tens
+Seat 3: Faucon-50393 (button) showed [7c Jc] and won 216 with Straight Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688825413474975745-4-1775567897 - Holdem no limit (15/30) - 2026/04/07 13:18:17 UTC
+Table: 'Expresso Nitro(1091702239)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (126)
+Seat 2: Fabich33 (558)
+Seat 3: Faucon-50393 (216)
+*** ANTE/BLINDS ***
+Fabich33 posts small blind 15
+Faucon-50393 posts big blind 30
+Dealt to MathisKcr [2c Jd]
+*** PRE-FLOP *** 
+MathisKcr folds
+Fabich33 calls 15
+Faucon-50393 checks
+*** FLOP *** [Ts Ks 6c]
+Fabich33 bets 30
+Faucon-50393 folds
+Fabich33 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Ts Ks 6c]
+Seat 2: Fabich33 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688825413474975745-5-1775567912 - Holdem no limit (15/30) - 2026/04/07 13:18:32 UTC
+Table: 'Expresso Nitro(1091702239)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (126)
+Seat 2: Fabich33 (588)
+Seat 3: Faucon-50393 (186)
+*** ANTE/BLINDS ***
+Faucon-50393 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3c 5d]
+*** PRE-FLOP *** 
+Fabich33 calls 30
+Faucon-50393 calls 15
+MathisKcr checks
+*** FLOP *** [Th Jc Kh]
+Faucon-50393 checks
+MathisKcr checks
+Fabich33 checks
+*** TURN *** [Th Jc Kh][Kd]
+Faucon-50393 checks
+MathisKcr checks
+Fabich33 checks
+*** RIVER *** [Th Jc Kh Kd][3s]
+Faucon-50393 checks
+MathisKcr checks
+Fabich33 checks
+*** SHOW DOWN ***
+Fabich33 shows [9c 6h] (One pair : Kings)
+Faucon-50393 shows [4h Qd] (One pair : Kings)
+MathisKcr shows [3c 5d] (Two pairs : Kings and 3)
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Th Jc Kh Kd 3s]
+Seat 1: MathisKcr (big blind) showed [3c 5d] and won 90 with Two pairs : Kings and 3
+Seat 2: Fabich33 (button) showed [9c 6h] and lost with One pair : Kings
+Seat 3: Faucon-50393 (small blind) showed [4h Qd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688825413474975745-6-1775567967 - Holdem no limit (20/40) - 2026/04/07 13:19:27 UTC
+Table: 'Expresso Nitro(1091702239)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (186)
+Seat 2: Fabich33 (558)
+Seat 3: Faucon-50393 (156)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Fabich33 posts big blind 40
+Dealt to MathisKcr [Jh Jc]
+*** PRE-FLOP *** 
+Faucon-50393 folds
+MathisKcr raises 40 to 80
+Fabich33 calls 40
+*** FLOP *** [3c Qc 3s]
+MathisKcr bets 106 and is all-in
+Fabich33 folds
+MathisKcr collected 266 from pot
+*** SUMMARY ***
+Total pot 266 | No rake
+Board: [3c Qc 3s]
+Seat 1: MathisKcr (small blind) won 266
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688825413474975745-7-1775567989 - Holdem no limit (20/40) - 2026/04/07 13:19:49 UTC
+Table: 'Expresso Nitro(1091702239)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (266)
+Seat 2: Fabich33 (478)
+Seat 3: Faucon-50393 (156)
+*** ANTE/BLINDS ***
+Fabich33 posts small blind 20
+Faucon-50393 posts big blind 40
+Dealt to MathisKcr [Td 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Fabich33 folds
+Faucon-50393 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Faucon-50393 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4688825413474975745-8-1775567994 - Holdem no limit (30/60) - 2026/04/07 13:19:54 UTC
+Table: 'Expresso Nitro(1091702239)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (266)
+Seat 2: Fabich33 (458)
+Seat 3: Faucon-50393 (176)
+*** ANTE/BLINDS ***
+Faucon-50393 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [6d Td]
+*** PRE-FLOP *** 
+Fabich33 folds
+Faucon-50393 calls 30
+MathisKcr checks
+*** FLOP *** [5d 3c 4c]
+Faucon-50393 checks
+MathisKcr checks
+*** TURN *** [5d 3c 4c][Ts]
+Faucon-50393 checks
+MathisKcr bets 206 and is all-in
+Faucon-50393 calls 116 and is all-in
+*** RIVER *** [5d 3c 4c Ts][Jh]
+*** SHOW DOWN ***
+MathisKcr shows [6d Td] (One pair : Tens)
+Faucon-50393 shows [5s 5h] (Trips of 5)
+Faucon-50393 collected 352 from main pot
+MathisKcr collected 90 from side pot 1
+*** SUMMARY ***
+Total pot 442 | No rake
+Board: [5d 3c 4c Ts Jh]
+Seat 1: MathisKcr (big blind) showed [6d Td] and won 90 with One pair : Tens
+Seat 3: Faucon-50393 (small blind) showed [5s 5h] and won 352 with Trips of 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4688825413474975745-9-1775568040 - Holdem no limit (30/60) - 2026/04/07 13:20:40 UTC
+Table: 'Expresso Nitro(1091702239)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (90)
+Seat 2: Fabich33 (458)
+Seat 3: Faucon-50393 (352)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Fabich33 posts big blind 60
+Dealt to MathisKcr [2s 3s]
+*** PRE-FLOP *** 
+Faucon-50393 raises 292 to 352 and is all-in
+MathisKcr folds
+Fabich33 calls 292
+*** FLOP *** [Th 8d Kc]
+*** TURN *** [Th 8d Kc][8s]
+*** RIVER *** [Th 8d Kc 8s][5c]
+*** SHOW DOWN ***
+Faucon-50393 shows [As 7c] (One pair : 8)
+Fabich33 shows [9s Kd] (Two pairs : Kings and 8)
+Fabich33 collected 734 from pot
+*** SUMMARY ***
+Total pot 734 | No rake
+Board: [Th 8d Kc 8s 5c]
+Seat 2: Fabich33 (big blind) showed [9s Kd] and won 734 with Two pairs : Kings and 8
+Seat 3: Faucon-50393 (button) showed [As 7c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4688825413474975745-10-1775568057 - Holdem no limit (40/80) - 2026/04/07 13:20:57 UTC
+Table: 'Expresso Nitro(1091702239)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (60)
+Seat 2: Fabich33 (840)
+*** ANTE/BLINDS ***
+Fabich33 posts small blind 40
+MathisKcr posts big blind 60 and is all-in
+Dealt to MathisKcr [2c 2h]
+*** PRE-FLOP *** 
+Fabich33 calls 40
+*** FLOP *** [4s Td Qs]
+*** TURN *** [4s Td Qs][Jc]
+*** RIVER *** [4s Td Qs Jc][4c]
+*** SHOW DOWN ***
+MathisKcr shows [2c 2h] (Two pairs : 4 and 2)
+Fabich33 shows [Jh 5d] (Two pairs : Jacks and 4)
+Fabich33 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [4s Td Qs Jc 4c]
+Seat 1: MathisKcr (big blind) showed [2c 2h] and lost with Two pairs : 4 and 2
+Seat 2: Fabich33 (small blind) (button) showed [Jh 5d] and won 140 with Two pairs : Jacks and 4
+
+

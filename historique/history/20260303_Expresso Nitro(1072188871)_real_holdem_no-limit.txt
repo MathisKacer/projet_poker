@@ -1,0 +1,179 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4605016136080162817-1-1772526593 - Holdem no limit (10/20) - 2026/03/03 08:29:53 UTC
+Table: 'Expresso Nitro(1072188871)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: lejoker666 (300)
+Seat 3: Nong.Vi (300)
+*** ANTE/BLINDS ***
+Nong.Vi posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2h 5c]
+*** PRE-FLOP *** 
+lejoker666 folds
+Nong.Vi folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4605016136080162817-2-1772526603 - Holdem no limit (10/20) - 2026/03/03 08:30:03 UTC
+Table: 'Expresso Nitro(1072188871)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (310)
+Seat 2: lejoker666 (300)
+Seat 3: Nong.Vi (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+lejoker666 posts big blind 20
+Dealt to MathisKcr [4s 5d]
+*** PRE-FLOP *** 
+Nong.Vi raises 20 to 40
+MathisKcr folds
+lejoker666 calls 20
+*** FLOP *** [Qh 6h 9h]
+lejoker666 checks
+Nong.Vi bets 40
+lejoker666 calls 40
+*** TURN *** [Qh 6h 9h][6s]
+lejoker666 checks
+Nong.Vi checks
+*** RIVER *** [Qh 6h 9h 6s][Ts]
+lejoker666 checks
+Nong.Vi checks
+*** SHOW DOWN ***
+Nong.Vi shows [4d Ah] (One pair : 6)
+lejoker666 shows [2c 9c] (Two pairs : 9 and 6)
+lejoker666 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [Qh 6h 9h 6s Ts]
+Seat 2: lejoker666 (big blind) showed [2c 9c] and won 170 with Two pairs : 9 and 6
+Seat 3: Nong.Vi (button) showed [4d Ah] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4605016136080162817-3-1772526658 - Holdem no limit (15/30) - 2026/03/03 08:30:58 UTC
+Table: 'Expresso Nitro(1072188871)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: lejoker666 (390)
+Seat 3: Nong.Vi (210)
+*** ANTE/BLINDS ***
+lejoker666 posts small blind 15
+Nong.Vi posts big blind 30
+Dealt to MathisKcr [2d Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+lejoker666 calls 45
+Nong.Vi folds
+*** FLOP *** [9h 6d 9d]
+lejoker666 checks
+MathisKcr checks
+*** TURN *** [9h 6d 9d][3c]
+lejoker666 checks
+MathisKcr checks
+*** RIVER *** [9h 6d 9d 3c][Qc]
+lejoker666 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [2d Kh] (One pair : 9)
+lejoker666 shows [5c 5d] (Two pairs : 9 and 5)
+lejoker666 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [9h 6d 9d 3c Qc]
+Seat 1: MathisKcr (button) showed [2d Kh] and lost with One pair : 9
+Seat 2: lejoker666 (small blind) showed [5c 5d] and won 150 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4605016136080162817-4-1772526707 - Holdem no limit (15/30) - 2026/03/03 08:31:47 UTC
+Table: 'Expresso Nitro(1072188871)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (240)
+Seat 2: lejoker666 (480)
+Seat 3: Nong.Vi (180)
+*** ANTE/BLINDS ***
+Nong.Vi posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6h Qs]
+*** PRE-FLOP *** 
+lejoker666 calls 30
+Nong.Vi raises 150 to 180 and is all-in
+MathisKcr folds
+lejoker666 calls 150
+*** FLOP *** [Td Kh As]
+*** TURN *** [Td Kh As][9d]
+*** RIVER *** [Td Kh As 9d][6d]
+*** SHOW DOWN ***
+lejoker666 shows [9c Ac] (Two pairs : Aces and 9)
+Nong.Vi shows [Jd 7d] (Flush Jack high)
+Nong.Vi collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [Td Kh As 9d 6d]
+Seat 2: lejoker666 (button) showed [9c Ac] and lost with Two pairs : Aces and 9
+Seat 3: Nong.Vi (small blind) showed [Jd 7d] and won 390 with Flush Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4605016136080162817-5-1772526752 - Holdem no limit (20/40) - 2026/03/03 08:32:32 UTC
+Table: 'Expresso Nitro(1072188871)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (210)
+Seat 2: lejoker666 (300)
+Seat 3: Nong.Vi (390)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+lejoker666 posts big blind 40
+Dealt to MathisKcr [Td 4h]
+*** PRE-FLOP *** 
+Nong.Vi folds
+MathisKcr folds
+lejoker666 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: lejoker666 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4605016136080162817-6-1772526764 - Holdem no limit (20/40) - 2026/03/03 08:32:44 UTC
+Table: 'Expresso Nitro(1072188871)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (190)
+Seat 2: lejoker666 (320)
+Seat 3: Nong.Vi (390)
+*** ANTE/BLINDS ***
+lejoker666 posts small blind 20
+Nong.Vi posts big blind 40
+Dealt to MathisKcr [5h Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+lejoker666 raises 240 to 320 and is all-in
+Nong.Vi folds
+MathisKcr folds
+lejoker666 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 2: lejoker666 (small blind) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4605016136080162817-7-1772526781 - Holdem no limit (30/60) - 2026/03/03 08:33:01 UTC
+Table: 'Expresso Nitro(1072188871)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (110)
+Seat 2: lejoker666 (440)
+Seat 3: Nong.Vi (350)
+*** ANTE/BLINDS ***
+Nong.Vi posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qd 2c]
+*** PRE-FLOP *** 
+lejoker666 calls 60
+Nong.Vi folds
+MathisKcr raises 50 to 110 and is all-in
+lejoker666 calls 50
+*** FLOP *** [8c Jh 5h]
+*** TURN *** [8c Jh 5h][3c]
+*** RIVER *** [8c Jh 5h 3c][8s]
+*** SHOW DOWN ***
+MathisKcr shows [Qd 2c] (One pair : 8)
+lejoker666 shows [Ts Kd] (One pair : 8)
+lejoker666 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Board: [8c Jh 5h 3c 8s]
+Seat 1: MathisKcr (big blind) showed [Qd 2c] and lost with One pair : 8
+Seat 2: lejoker666 (button) showed [Ts Kd] and won 250 with One pair : 8
+
+

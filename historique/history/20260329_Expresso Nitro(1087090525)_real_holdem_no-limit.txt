@@ -1,0 +1,111 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669018252666470401-1-1774812385 - Holdem no limit (10/20) - 2026/03/29 19:26:25 UTC
+Table: 'Expresso Nitro(1087090525)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BoubouPlayy (300)
+Seat 2: MathisKcr (300)
+Seat 3: luperz42 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+luperz42 posts big blind 20
+Dealt to MathisKcr [7d 5h]
+*** PRE-FLOP *** 
+BoubouPlayy folds
+MathisKcr folds
+luperz42 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: luperz42 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669018252666470401-2-1774812392 - Holdem no limit (10/20) - 2026/03/29 19:26:32 UTC
+Table: 'Expresso Nitro(1087090525)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BoubouPlayy (300)
+Seat 2: MathisKcr (290)
+Seat 3: luperz42 (310)
+*** ANTE/BLINDS ***
+luperz42 posts small blind 10
+BoubouPlayy posts big blind 20
+Dealt to MathisKcr [5h 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+luperz42 raises 290 to 310 and is all-in
+BoubouPlayy folds
+luperz42 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: luperz42 (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669018252666470401-3-1774812400 - Holdem no limit (10/20) - 2026/03/29 19:26:40 UTC
+Table: 'Expresso Nitro(1087090525)#0' 3-max (real money) Seat #3 is the button
+Seat 1: BoubouPlayy (280)
+Seat 2: MathisKcr (290)
+Seat 3: luperz42 (330)
+*** ANTE/BLINDS ***
+BoubouPlayy posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7d Ts]
+*** PRE-FLOP *** 
+luperz42 raises 310 to 330 and is all-in
+BoubouPlayy folds
+MathisKcr folds
+luperz42 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: luperz42 (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669018252666470401-4-1774812407 - Holdem no limit (10/20) - 2026/03/29 19:26:47 UTC
+Table: 'Expresso Nitro(1087090525)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BoubouPlayy (270)
+Seat 2: MathisKcr (270)
+Seat 3: luperz42 (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+luperz42 posts big blind 20
+Dealt to MathisKcr [8h 7c]
+*** PRE-FLOP *** 
+BoubouPlayy raises 40 to 60
+MathisKcr folds
+luperz42 raises 120 to 180
+BoubouPlayy raises 90 to 270 and is all-in
+luperz42 calls 90
+*** FLOP *** [9s 3h 7h]
+*** TURN *** [9s 3h 7h][9c]
+*** RIVER *** [9s 3h 7h 9c][Ad]
+*** SHOW DOWN ***
+BoubouPlayy shows [Qs 7s] (Two pairs : 9 and 7)
+luperz42 shows [Td 9d] (Trips of 9)
+luperz42 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [9s 3h 7h 9c Ad]
+Seat 1: BoubouPlayy (button) showed [Qs 7s] and lost with Two pairs : 9 and 7
+Seat 3: luperz42 (big blind) showed [Td 9d] and won 550 with Trips of 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669018252666470401-5-1774812427 - Holdem no limit (10/20) - 2026/03/29 19:27:07 UTC
+Table: 'Expresso Nitro(1087090525)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (260)
+Seat 3: luperz42 (640)
+*** ANTE/BLINDS ***
+luperz42 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd Ac]
+*** PRE-FLOP *** 
+luperz42 calls 10
+MathisKcr raises 240 to 260 and is all-in
+luperz42 calls 240
+*** FLOP *** [Th Js 8s]
+*** TURN *** [Th Js 8s][4s]
+*** RIVER *** [Th Js 8s 4s][2s]
+*** SHOW DOWN ***
+MathisKcr shows [Jd Ac] (One pair : Jacks)
+luperz42 shows [Jh 2h] (Two pairs : Jacks and 2)
+luperz42 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Th Js 8s 4s 2s]
+Seat 2: MathisKcr (big blind) showed [Jd Ac] and lost with One pair : Jacks
+Seat 3: luperz42 (small blind) (button) showed [Jh 2h] and won 520 with Two pairs : Jacks and 2
+
+

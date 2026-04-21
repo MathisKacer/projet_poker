@@ -1,0 +1,89 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672317148327051265-1-1774945514 - Holdem no limit (10/20) - 2026/03/31 08:25:14 UTC
+Table: 'Expresso Nitro(1087858609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: skyline11 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Angel22Ltc (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Angel22Ltc posts big blind 20
+Dealt to MathisKcr [3d 7h]
+*** PRE-FLOP *** 
+skyline11 folds
+MathisKcr folds
+Angel22Ltc collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Angel22Ltc (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672317148327051265-2-1774945525 - Holdem no limit (10/20) - 2026/03/31 08:25:25 UTC
+Table: 'Expresso Nitro(1087858609)#0' 3-max (real money) Seat #2 is the button
+Seat 1: skyline11 (300)
+Seat 2: MathisKcr (290)
+Seat 3: Angel22Ltc (310)
+*** ANTE/BLINDS ***
+Angel22Ltc posts small blind 10
+skyline11 posts big blind 20
+Dealt to MathisKcr [5c Th]
+*** PRE-FLOP *** 
+MathisKcr folds
+Angel22Ltc calls 10
+skyline11 checks
+*** FLOP *** [2h Jc 3s]
+Angel22Ltc checks
+skyline11 bets 40
+Angel22Ltc folds
+skyline11 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2h Jc 3s]
+Seat 1: skyline11 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672317148327051265-3-1774945540 - Holdem no limit (10/20) - 2026/03/31 08:25:40 UTC
+Table: 'Expresso Nitro(1087858609)#0' 3-max (real money) Seat #3 is the button
+Seat 1: skyline11 (320)
+Seat 2: MathisKcr (290)
+Seat 3: Angel22Ltc (290)
+*** ANTE/BLINDS ***
+skyline11 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c Td]
+*** PRE-FLOP *** 
+Angel22Ltc raises 270 to 290 and is all-in
+skyline11 folds
+MathisKcr folds
+Angel22Ltc collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: Angel22Ltc (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672317148327051265-4-1774945552 - Holdem no limit (10/20) - 2026/03/31 08:25:52 UTC
+Table: 'Expresso Nitro(1087858609)#0' 3-max (real money) Seat #1 is the button
+Seat 1: skyline11 (310)
+Seat 2: MathisKcr (270)
+Seat 3: Angel22Ltc (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Angel22Ltc posts big blind 20
+Dealt to MathisKcr [Js 8c]
+*** PRE-FLOP *** 
+skyline11 calls 20
+MathisKcr raises 250 to 270 and is all-in
+Angel22Ltc folds
+skyline11 calls 250
+*** FLOP *** [Qc 3h 3d]
+*** TURN *** [Qc 3h 3d][6h]
+*** RIVER *** [Qc 3h 3d 6h][Ac]
+*** SHOW DOWN ***
+MathisKcr shows [Js 8c] (One pair : 3)
+skyline11 shows [6d 7s] (Two pairs : 6 and 3)
+skyline11 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Qc 3h 3d 6h Ac]
+Seat 1: skyline11 (button) showed [6d 7s] and won 560 with Two pairs : 6 and 3
+Seat 2: MathisKcr (small blind) showed [Js 8c] and lost with One pair : 3
+
+

@@ -1,0 +1,376 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4300309427862372353-1-1759931636 - Holdem no limit (10/20) - 2025/10/08 13:53:56 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Abeto (1500)
+Seat 2: k4rem (1500)
+Seat 3: Albicy95311 (1500)
+Seat 4: kindeurchoco (1500)
+Seat 5: MathisKcr (1500)
+Seat 6: CaptnC0oK (1500)
+*** ANTE/BLINDS ***
+CaptnC0oK posts small blind 10
+Abeto posts big blind 20
+Dealt to MathisKcr [6c 9c]
+*** PRE-FLOP *** 
+k4rem calls 20
+Albicy95311 folds
+kindeurchoco calls 20
+MathisKcr calls 20
+CaptnC0oK folds
+Abeto checks
+*** FLOP *** [3c Jc 9h]
+Abeto checks
+k4rem checks
+kindeurchoco bets 90
+MathisKcr raises 1390 to 1480 and is all-in
+Abeto folds
+k4rem folds
+kindeurchoco calls 1390 and is all-in
+*** TURN *** [3c Jc 9h][Qd]
+*** RIVER *** [3c Jc 9h Qd][8c]
+*** SHOW DOWN ***
+kindeurchoco shows [9s 7s] (One pair : 9)
+MathisKcr shows [6c 9c] (Flush Jack high)
+MathisKcr collected 3050 from pot
+*** SUMMARY ***
+Total pot 3050 | No rake
+Board: [3c Jc 9h Qd 8c]
+Seat 4: kindeurchoco showed [9s 7s] and lost with One pair : 9
+Seat 5: MathisKcr (button) showed [6c 9c] and won 3050 with Flush Jack high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4300309427862372353-2-1759931675 - Holdem no limit (10/20) - 2025/10/08 13:54:35 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Abeto (1480)
+Seat 2: k4rem (1480)
+Seat 3: Albicy95311 (1500)
+Seat 5: MathisKcr (3050)
+Seat 6: CaptnC0oK (1490)
+*** ANTE/BLINDS ***
+Abeto posts small blind 10
+k4rem posts big blind 20
+Dealt to MathisKcr [9s 2s]
+*** PRE-FLOP *** 
+Albicy95311 folds
+MathisKcr folds
+CaptnC0oK folds
+Abeto calls 10
+k4rem checks
+*** FLOP *** [Ah As 5d]
+Abeto bets 20
+k4rem calls 20
+*** TURN *** [Ah As 5d][Qh]
+Abeto bets 80
+k4rem folds
+Abeto collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Ah As 5d Qh]
+Seat 1: Abeto (small blind) won 160
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4300309427862372353-3-1759931702 - Holdem no limit (10/20) - 2025/10/08 13:55:02 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Abeto (1520)
+Seat 2: k4rem (1440)
+Seat 3: Albicy95311 (1500)
+Seat 5: MathisKcr (3050)
+Seat 6: CaptnC0oK (1490)
+*** ANTE/BLINDS ***
+k4rem posts small blind 10
+Albicy95311 posts big blind 20
+Dealt to MathisKcr [6d Ts]
+*** PRE-FLOP *** 
+MathisKcr folds
+CaptnC0oK raises 20 to 40
+Abeto calls 40
+k4rem calls 30
+Albicy95311 calls 20
+*** FLOP *** [7d 4h 2h]
+k4rem checks
+Albicy95311 bets 1460 and is all-in
+CaptnC0oK folds
+Abeto folds
+k4rem folds
+Albicy95311 collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [7d 4h 2h]
+Seat 3: Albicy95311 (big blind) won 1620
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4300309427862372353-4-1759931723 - Holdem no limit (10/20) - 2025/10/08 13:55:23 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Abeto (1480)
+Seat 2: k4rem (1400)
+Seat 3: Albicy95311 (1620)
+Seat 5: MathisKcr (3050)
+Seat 6: CaptnC0oK (1450)
+*** ANTE/BLINDS ***
+Albicy95311 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d Td]
+*** PRE-FLOP *** 
+CaptnC0oK folds
+Abeto folds
+k4rem calls 20
+Albicy95311 folds
+MathisKcr checks
+*** FLOP *** [Kh 5d Jc]
+MathisKcr bets 40
+k4rem raises 1340 to 1380 and is all-in
+MathisKcr folds
+k4rem collected 1470 from pot
+*** SUMMARY ***
+Total pot 1470 | No rake
+Board: [Kh 5d Jc]
+Seat 2: k4rem (button) won 1470
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4300309427862372353-5-1759931758 - Holdem no limit (15/30) - 2025/10/08 13:55:58 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Abeto (1480)
+Seat 2: k4rem (1470)
+Seat 3: Albicy95311 (1610)
+Seat 5: MathisKcr (2990)
+Seat 6: CaptnC0oK (1450)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+CaptnC0oK posts big blind 30
+Dealt to MathisKcr [Ac 6c]
+*** PRE-FLOP *** 
+Abeto calls 30
+k4rem raises 1440 to 1470 and is all-in
+Albicy95311 raises 140 to 1610 and is all-in
+MathisKcr calls 1595
+CaptnC0oK folds
+Abeto folds
+*** FLOP *** [5d Jc 9s]
+*** TURN *** [5d Jc 9s][Qd]
+*** RIVER *** [5d Jc 9s Qd][7h]
+*** SHOW DOWN ***
+k4rem shows [2c 3c] (High card : Queen)
+MathisKcr shows [Ac 6c] (High card : Ace)
+Albicy95311 shows [Ks Qh] (One pair : Queens)
+Albicy95311 collected 4750 from pot
+*** SUMMARY ***
+Total pot 4750 | No rake
+Board: [5d Jc 9s Qd 7h]
+Seat 2: k4rem showed [2c 3c] and lost with High card : Queen
+Seat 3: Albicy95311 (button) showed [Ks Qh] and won 4750 with One pair : Queens
+Seat 5: MathisKcr (small blind) showed [Ac 6c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4300309427862372353-6-1759931776 - Holdem no limit (15/30) - 2025/10/08 13:56:16 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Abeto (1450)
+Seat 3: Albicy95311 (4750)
+Seat 5: MathisKcr (1380)
+Seat 6: CaptnC0oK (1420)
+*** ANTE/BLINDS ***
+CaptnC0oK posts small blind 15
+Abeto posts big blind 30
+Dealt to MathisKcr [Tc 3d]
+*** PRE-FLOP *** 
+Albicy95311 calls 30
+MathisKcr folds
+CaptnC0oK calls 15
+Abeto checks
+*** FLOP *** [Kc 4h 2h]
+CaptnC0oK checks
+Abeto bets 90
+Albicy95311 raises 195 to 285
+CaptnC0oK folds
+Abeto calls 195
+*** TURN *** [Kc 4h 2h][8h]
+Abeto checks
+Albicy95311 bets 4435 and is all-in
+Abeto folds
+Albicy95311 collected 5095 from pot
+*** SUMMARY ***
+Total pot 5095 | No rake
+Board: [Kc 4h 2h 8h]
+Seat 3: Albicy95311 won 5095
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4300309427862372353-7-1759931816 - Holdem no limit (20/40) - 2025/10/08 13:56:56 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Abeto (1135)
+Seat 3: Albicy95311 (5095)
+Seat 5: MathisKcr (1380)
+Seat 6: CaptnC0oK (1390)
+*** ANTE/BLINDS ***
+Abeto posts small blind 20
+Albicy95311 posts big blind 40
+Dealt to MathisKcr [8s 5s]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+CaptnC0oK folds
+Abeto calls 20
+Albicy95311 raises 5055 to 5095 and is all-in
+MathisKcr folds
+Abeto folds
+Albicy95311 collected 5175 from pot
+*** SUMMARY ***
+Total pot 5175 | No rake
+Seat 3: Albicy95311 (big blind) won 5175
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4300309427862372353-8-1759931829 - Holdem no limit (20/40) - 2025/10/08 13:57:09 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Abeto (1095)
+Seat 3: Albicy95311 (5175)
+Seat 5: MathisKcr (1340)
+Seat 6: CaptnC0oK (1390)
+*** ANTE/BLINDS ***
+Albicy95311 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5s Kh]
+*** PRE-FLOP *** 
+CaptnC0oK folds
+Abeto folds
+Albicy95311 raises 40 to 80
+MathisKcr raises 40 to 120
+Albicy95311 calls 40
+*** FLOP *** [3h 4d Ac]
+Albicy95311 checks
+MathisKcr bets 80
+Albicy95311 folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [3h 4d Ac]
+Seat 5: MathisKcr (big blind) won 320
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4300309427862372353-9-1759931856 - Holdem no limit (20/40) - 2025/10/08 13:57:36 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Abeto (1095)
+Seat 3: Albicy95311 (5055)
+Seat 5: MathisKcr (1460)
+Seat 6: CaptnC0oK (1390)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+CaptnC0oK posts big blind 40
+Dealt to MathisKcr [7c 6d]
+*** PRE-FLOP *** 
+Abeto folds
+Albicy95311 folds
+MathisKcr calls 20
+CaptnC0oK checks
+*** FLOP *** [Kc 6s 8d]
+MathisKcr bets 80
+CaptnC0oK folds
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Kc 6s 8d]
+Seat 5: MathisKcr (small blind) won 160
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4300309427862372353-10-1759931875 - Holdem no limit (20/40) - 2025/10/08 13:57:55 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Abeto (1095)
+Seat 3: Albicy95311 (5055)
+Seat 5: MathisKcr (1500)
+Seat 6: CaptnC0oK (1350)
+*** ANTE/BLINDS ***
+CaptnC0oK posts small blind 20
+Abeto posts big blind 40
+Dealt to MathisKcr [7d 9d]
+*** PRE-FLOP *** 
+Albicy95311 raises 5015 to 5055 and is all-in
+MathisKcr folds
+CaptnC0oK folds
+Abeto folds
+Albicy95311 collected 5115 from pot
+*** SUMMARY ***
+Total pot 5115 | No rake
+Seat 3: Albicy95311 won 5115
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4300309427862372353-11-1759931933 - Holdem no limit (30/60) - 2025/10/08 13:58:53 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Abeto (1055)
+Seat 3: Albicy95311 (5115)
+Seat 5: MathisKcr (1500)
+Seat 6: CaptnC0oK (1330)
+*** ANTE/BLINDS ***
+Abeto posts small blind 30
+Albicy95311 posts big blind 60
+Dealt to MathisKcr [Tc 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+CaptnC0oK raises 60 to 120
+Abeto raises 935 to 1055 and is all-in
+Albicy95311 folds
+CaptnC0oK folds
+Abeto collected 1235 from pot
+*** SUMMARY ***
+Total pot 1235 | No rake
+Seat 1: Abeto (small blind) won 1235
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4300309427862372353-12-1759931948 - Holdem no limit (30/60) - 2025/10/08 13:59:08 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Abeto (1235)
+Seat 3: Albicy95311 (5055)
+Seat 5: MathisKcr (1500)
+Seat 6: CaptnC0oK (1210)
+*** ANTE/BLINDS ***
+Albicy95311 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [5d 5h]
+*** PRE-FLOP *** 
+CaptnC0oK folds
+Abeto folds
+Albicy95311 calls 30
+MathisKcr raises 60 to 120
+Albicy95311 calls 60
+*** FLOP *** [7h Kc Tc]
+Albicy95311 checks
+MathisKcr bets 1380 and is all-in
+Albicy95311 folds
+MathisKcr collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [7h Kc Tc]
+Seat 5: MathisKcr (big blind) won 1620
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4300309427862372353-13-1759931969 - Holdem no limit (30/60) - 2025/10/08 13:59:29 UTC
+Table: 'Starting Block WiPT(1001243812)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Abeto (1235)
+Seat 3: Albicy95311 (4935)
+Seat 5: MathisKcr (1620)
+Seat 6: CaptnC0oK (1210)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+CaptnC0oK posts big blind 60
+Dealt to MathisKcr [Kc Qh]
+*** PRE-FLOP *** 
+Abeto folds
+Albicy95311 calls 60
+MathisKcr raises 120 to 180
+CaptnC0oK folds
+Albicy95311 calls 120
+*** FLOP *** [6d 8c 3s]
+MathisKcr bets 180
+Albicy95311 calls 180
+*** TURN *** [6d 8c 3s][Jc]
+MathisKcr checks
+Albicy95311 checks
+*** RIVER *** [6d 8c 3s Jc][5c]
+MathisKcr bets 330
+Albicy95311 raises 1440 to 1770
+MathisKcr calls 930 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [Kc Qh] (High card : King)
+Albicy95311 shows [Ad Ac] (One pair : Aces)
+Albicy95311 collected 3810 from pot
+*** SUMMARY ***
+Total pot 3810 | No rake
+Board: [6d 8c 3s Jc 5c]
+Seat 3: Albicy95311 (button) showed [Ad Ac] and won 3810 with One pair : Aces
+Seat 5: MathisKcr (small blind) showed [Kc Qh] and lost with High card : King
+
+

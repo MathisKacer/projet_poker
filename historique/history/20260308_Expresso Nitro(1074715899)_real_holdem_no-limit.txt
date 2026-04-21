@@ -1,0 +1,257 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4615869638696239105-1-1772967882 - Holdem no limit (10/20) - 2026/03/08 11:04:42 UTC
+Table: 'Expresso Nitro(1074715899)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Raisin-Mat18 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Fish K1ller (300)
+*** ANTE/BLINDS ***
+Fish K1ller posts small blind 10
+Raisin-Mat18 posts big blind 20
+Dealt to MathisKcr [6d 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Fish K1ller folds
+Raisin-Mat18 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Raisin-Mat18 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4615869638696239105-2-1772967889 - Holdem no limit (10/20) - 2026/03/08 11:04:49 UTC
+Table: 'Expresso Nitro(1074715899)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Raisin-Mat18 (310)
+Seat 2: MathisKcr (300)
+Seat 3: Fish K1ller (290)
+*** ANTE/BLINDS ***
+Raisin-Mat18 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6h Kh]
+*** PRE-FLOP *** 
+Fish K1ller folds
+Raisin-Mat18 calls 10
+MathisKcr checks
+*** FLOP *** [Qh 2h Ad]
+Raisin-Mat18 checks
+MathisKcr bets 40
+Raisin-Mat18 calls 40
+*** TURN *** [Qh 2h Ad][7s]
+Raisin-Mat18 checks
+MathisKcr checks
+*** RIVER *** [Qh 2h Ad 7s][4d]
+Raisin-Mat18 checks
+MathisKcr bets 78
+Raisin-Mat18 folds
+MathisKcr collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [Qh 2h Ad 7s 4d]
+Seat 2: MathisKcr (big blind) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4615869638696239105-3-1772967914 - Holdem no limit (10/20) - 2026/03/08 11:05:14 UTC
+Table: 'Expresso Nitro(1074715899)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Raisin-Mat18 (250)
+Seat 2: MathisKcr (360)
+Seat 3: Fish K1ller (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Fish K1ller posts big blind 20
+Dealt to MathisKcr [Jh 5d]
+*** PRE-FLOP *** 
+Raisin-Mat18 calls 20
+MathisKcr calls 10
+Fish K1ller checks
+*** FLOP *** [6h As Qs]
+MathisKcr checks
+Fish K1ller checks
+Raisin-Mat18 checks
+*** TURN *** [6h As Qs][Ts]
+MathisKcr checks
+Fish K1ller checks
+Raisin-Mat18 checks
+*** RIVER *** [6h As Qs Ts][Ah]
+MathisKcr checks
+Fish K1ller checks
+Raisin-Mat18 checks
+*** SHOW DOWN ***
+Raisin-Mat18 shows [2c Jc] (One pair : Aces)
+MathisKcr shows [Jh 5d] (One pair : Aces)
+Fish K1ller shows [6d 8h] (Two pairs : Aces and 6)
+Fish K1ller collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6h As Qs Ts Ah]
+Seat 1: Raisin-Mat18 (button) showed [2c Jc] and lost with One pair : Aces
+Seat 2: MathisKcr (small blind) showed [Jh 5d] and lost with One pair : Aces
+Seat 3: Fish K1ller (big blind) showed [6d 8h] and won 60 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4615869638696239105-4-1772967957 - Holdem no limit (15/30) - 2026/03/08 11:05:57 UTC
+Table: 'Expresso Nitro(1074715899)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Raisin-Mat18 (230)
+Seat 2: MathisKcr (340)
+Seat 3: Fish K1ller (330)
+*** ANTE/BLINDS ***
+Fish K1ller posts small blind 15
+Raisin-Mat18 posts big blind 30
+Dealt to MathisKcr [Qs Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 310 to 340 and is all-in
+Fish K1ller folds
+Raisin-Mat18 calls 200 and is all-in
+*** FLOP *** [Ad 4s Ah]
+*** TURN *** [Ad 4s Ah][3d]
+*** RIVER *** [Ad 4s Ah 3d][Kd]
+*** SHOW DOWN ***
+Raisin-Mat18 shows [4d Ac] (Full of Aces and 4)
+MathisKcr shows [Qs Jd] (One pair : Aces)
+MathisKcr collected 110 from side pot 1
+Raisin-Mat18 collected 475 from main pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Board: [Ad 4s Ah 3d Kd]
+Seat 1: Raisin-Mat18 (big blind) showed [4d Ac] and won 475 with Full of Aces and 4
+Seat 2: MathisKcr (button) showed [Qs Jd] and won 110 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4615869638696239105-5-1772967975 - Holdem no limit (15/30) - 2026/03/08 11:06:15 UTC
+Table: 'Expresso Nitro(1074715899)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Raisin-Mat18 (475)
+Seat 2: MathisKcr (110)
+Seat 3: Fish K1ller (315)
+*** ANTE/BLINDS ***
+Raisin-Mat18 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad Jh]
+*** PRE-FLOP *** 
+Fish K1ller folds
+Raisin-Mat18 calls 15
+MathisKcr raises 80 to 110 and is all-in
+Raisin-Mat18 calls 80
+*** FLOP *** [Ah Qs 9s]
+*** TURN *** [Ah Qs 9s][9h]
+*** RIVER *** [Ah Qs 9s 9h][Kc]
+*** SHOW DOWN ***
+Raisin-Mat18 shows [4d 7c] (One pair : 9)
+MathisKcr shows [Ad Jh] (Two pairs : Aces and 9)
+MathisKcr collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Ah Qs 9s 9h Kc]
+Seat 1: Raisin-Mat18 (small blind) showed [4d 7c] and lost with One pair : 9
+Seat 2: MathisKcr (big blind) showed [Ad Jh] and won 220 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4615869638696239105-6-1772967991 - Holdem no limit (15/30) - 2026/03/08 11:06:31 UTC
+Table: 'Expresso Nitro(1074715899)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Raisin-Mat18 (365)
+Seat 2: MathisKcr (220)
+Seat 3: Fish K1ller (315)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Fish K1ller posts big blind 30
+Dealt to MathisKcr [5s 6d]
+*** PRE-FLOP *** 
+Raisin-Mat18 raises 75 to 105
+MathisKcr folds
+Fish K1ller folds
+Raisin-Mat18 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: Raisin-Mat18 (button) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4615869638696239105-7-1772968001 - Holdem no limit (20/40) - 2026/03/08 11:06:41 UTC
+Table: 'Expresso Nitro(1074715899)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Raisin-Mat18 (410)
+Seat 2: MathisKcr (205)
+Seat 3: Fish K1ller (285)
+*** ANTE/BLINDS ***
+Fish K1ller posts small blind 20
+Raisin-Mat18 posts big blind 40
+Dealt to MathisKcr [9s 2d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Fish K1ller raises 245 to 285 and is all-in
+Raisin-Mat18 folds
+Fish K1ller collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 3: Fish K1ller (small blind) won 325
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4615869638696239105-8-1772968009 - Holdem no limit (20/40) - 2026/03/08 11:06:49 UTC
+Table: 'Expresso Nitro(1074715899)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Raisin-Mat18 (370)
+Seat 2: MathisKcr (205)
+Seat 3: Fish K1ller (325)
+*** ANTE/BLINDS ***
+Raisin-Mat18 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [8c 7s]
+*** PRE-FLOP *** 
+Fish K1ller folds
+Raisin-Mat18 raises 330 to 370 and is all-in
+MathisKcr folds
+Raisin-Mat18 collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 1: Raisin-Mat18 (small blind) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4615869638696239105-9-1772968019 - Holdem no limit (20/40) - 2026/03/08 11:06:59 UTC
+Table: 'Expresso Nitro(1074715899)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Raisin-Mat18 (410)
+Seat 2: MathisKcr (165)
+Seat 3: Fish K1ller (325)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Fish K1ller posts big blind 40
+Dealt to MathisKcr [6s 9d]
+*** PRE-FLOP *** 
+Raisin-Mat18 folds
+MathisKcr calls 20
+Fish K1ller checks
+*** FLOP *** [Ah Td Ad]
+MathisKcr checks
+Fish K1ller checks
+*** TURN *** [Ah Td Ad][As]
+MathisKcr checks
+Fish K1ller checks
+*** RIVER *** [Ah Td Ad As][5s]
+MathisKcr checks
+Fish K1ller bets 40
+MathisKcr folds
+Fish K1ller collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ah Td Ad As 5s]
+Seat 3: Fish K1ller (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4615869638696239105-10-1772968052 - Holdem no limit (20/40) - 2026/03/08 11:07:32 UTC
+Table: 'Expresso Nitro(1074715899)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Raisin-Mat18 (410)
+Seat 2: MathisKcr (125)
+Seat 3: Fish K1ller (365)
+*** ANTE/BLINDS ***
+Fish K1ller posts small blind 20
+Raisin-Mat18 posts big blind 40
+Dealt to MathisKcr [Kd 3c]
+*** PRE-FLOP *** 
+MathisKcr raises 85 to 125 and is all-in
+Fish K1ller folds
+Raisin-Mat18 calls 85
+*** FLOP *** [Jh 7d 6c]
+*** TURN *** [Jh 7d 6c][2s]
+*** RIVER *** [Jh 7d 6c 2s][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 3c] (High card : King)
+Raisin-Mat18 shows [9h 6h] (One pair : 6)
+Raisin-Mat18 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [Jh 7d 6c 2s Ts]
+Seat 1: Raisin-Mat18 (big blind) showed [9h 6h] and won 270 with One pair : 6
+Seat 2: MathisKcr (button) showed [Kd 3c] and lost with High card : King
+
+

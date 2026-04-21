@@ -1,0 +1,128 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659464226765537281-1-1774429471 - Holdem no limit (10/20) - 2026/03/25 09:04:31 UTC
+Table: 'Expresso Nitro(1084866055)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jorpi85 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Elodie171220 (300)
+*** ANTE/BLINDS ***
+Jorpi85 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s 5s]
+*** PRE-FLOP *** 
+Elodie171220 folds
+Jorpi85 raises 280 to 300 and is all-in
+MathisKcr folds
+Jorpi85 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Jorpi85 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659464226765537281-2-1774429483 - Holdem no limit (10/20) - 2026/03/25 09:04:43 UTC
+Table: 'Expresso Nitro(1084866055)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jorpi85 (320)
+Seat 2: MathisKcr (280)
+Seat 3: Elodie171220 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Elodie171220 posts big blind 20
+Dealt to MathisKcr [Tc 5s]
+*** PRE-FLOP *** 
+Jorpi85 folds
+MathisKcr calls 10
+Elodie171220 raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [2s 4h 4d]
+MathisKcr bets 50
+Elodie171220 folds
+MathisKcr collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [2s 4h 4d]
+Seat 2: MathisKcr (small blind) won 130
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659464226765537281-3-1774429506 - Holdem no limit (10/20) - 2026/03/25 09:05:06 UTC
+Table: 'Expresso Nitro(1084866055)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jorpi85 (320)
+Seat 2: MathisKcr (320)
+Seat 3: Elodie171220 (260)
+*** ANTE/BLINDS ***
+Elodie171220 posts small blind 10
+Jorpi85 posts big blind 20
+Dealt to MathisKcr [4h 5d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Elodie171220 calls 10
+Jorpi85 checks
+*** FLOP *** [9c 7c 5h]
+Elodie171220 checks
+Jorpi85 checks
+*** TURN *** [9c 7c 5h][9s]
+Elodie171220 checks
+Jorpi85 checks
+*** RIVER *** [9c 7c 5h 9s][7h]
+Elodie171220 checks
+Jorpi85 bets 20
+Elodie171220 folds
+Jorpi85 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9c 7c 5h 9s 7h]
+Seat 1: Jorpi85 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4659464226765537281-4-1774429532 - Holdem no limit (15/30) - 2026/03/25 09:05:32 UTC
+Table: 'Expresso Nitro(1084866055)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jorpi85 (340)
+Seat 2: MathisKcr (320)
+Seat 3: Elodie171220 (240)
+*** ANTE/BLINDS ***
+Jorpi85 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kd 2h]
+*** PRE-FLOP *** 
+Elodie171220 calls 30
+Jorpi85 folds
+MathisKcr checks
+*** FLOP *** [5s Ts 2d]
+MathisKcr checks
+Elodie171220 bets 30
+MathisKcr calls 30
+*** TURN *** [5s Ts 2d][Th]
+MathisKcr bets 88
+Elodie171220 raises 92 to 180 and is all-in
+MathisKcr folds
+Elodie171220 collected 403 from pot
+*** SUMMARY ***
+Total pot 403 | No rake
+Board: [5s Ts 2d Th]
+Seat 3: Elodie171220 (button) won 403
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4659464226765537281-5-1774429549 - Holdem no limit (15/30) - 2026/03/25 09:05:49 UTC
+Table: 'Expresso Nitro(1084866055)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jorpi85 (325)
+Seat 2: MathisKcr (172)
+Seat 3: Elodie171220 (403)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Elodie171220 posts big blind 30
+Dealt to MathisKcr [Ks Ts]
+*** PRE-FLOP *** 
+Jorpi85 raises 295 to 325 and is all-in
+MathisKcr calls 157 and is all-in
+Elodie171220 folds
+*** FLOP *** [6h 5h Qs]
+*** TURN *** [6h 5h Qs][Ah]
+*** RIVER *** [6h 5h Qs Ah][3h]
+*** SHOW DOWN ***
+MathisKcr shows [Ks Ts] (High card : Ace)
+Jorpi85 shows [6d 6c] (Trips of 6)
+Jorpi85 collected 527 from pot
+*** SUMMARY ***
+Total pot 527 | No rake
+Board: [6h 5h Qs Ah 3h]
+Seat 1: Jorpi85 (button) showed [6d 6c] and won 527 with Trips of 6
+Seat 2: MathisKcr (small blind) showed [Ks Ts] and lost with High card : Ace
+
+

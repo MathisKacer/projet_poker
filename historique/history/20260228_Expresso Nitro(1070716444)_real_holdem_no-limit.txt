@@ -1,0 +1,196 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4598692110269415425-1-1772274867 - Holdem no limit (10/20) - 2026/02/28 10:34:27 UTC
+Table: 'Expresso Nitro(1070716444)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB-Matador32 (300)
+Seat 2: Aporie (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+JB-Matador32 posts small blind 10
+Aporie posts big blind 20
+Dealt to MathisKcr [2s 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+JB-Matador32 raises 60 to 80
+Aporie raises 220 to 300 and is all-in
+JB-Matador32 calls 220 and is all-in
+*** FLOP *** [Th 7c Tc]
+*** TURN *** [Th 7c Tc][2d]
+*** RIVER *** [Th 7c Tc 2d][8s]
+*** SHOW DOWN ***
+JB-Matador32 shows [Ah 4s] (One pair : Tens)
+Aporie shows [Ac 9c] (One pair : Tens)
+Aporie collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Th 7c Tc 2d 8s]
+Seat 1: JB-Matador32 (small blind) showed [Ah 4s] and lost with One pair : Tens
+Seat 2: Aporie (big blind) showed [Ac 9c] and won 600 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4598692110269415425-2-1772274886 - Holdem no limit (10/20) - 2026/02/28 10:34:46 UTC
+Table: 'Expresso Nitro(1070716444)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Aporie (600)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Aporie posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3s 6d]
+*** PRE-FLOP *** 
+Aporie raises 20 to 40
+MathisKcr folds
+Aporie collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Aporie (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4598692110269415425-12-1772275012 - Holdem no limit (20/40) - 2026/02/28 10:36:52 UTC
+Table: 'Expresso Nitro(1070716444)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Aporie (830)
+Seat 3: MathisKcr (70)
+*** ANTE/BLINDS ***
+Aporie posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3c 6c]
+*** PRE-FLOP *** 
+Aporie raises 40 to 80
+MathisKcr calls 30 and is all-in
+*** FLOP *** [2h As 3d]
+*** TURN *** [2h As 3d][Qd]
+*** RIVER *** [2h As 3d Qd][9c]
+*** SHOW DOWN ***
+Aporie shows [7d 8d] (High card : Ace)
+MathisKcr shows [3c 6c] (One pair : 3)
+MathisKcr collected 140 from main pot
+Aporie collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [2h As 3d Qd 9c]
+Seat 2: Aporie (small blind) (button) showed [7d 8d] and won 10 with High card : Ace
+Seat 3: MathisKcr (big blind) showed [3c 6c] and won 140 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4598692110269415425-13-1772275026 - Holdem no limit (20/40) - 2026/02/28 10:37:06 UTC
+Table: 'Expresso Nitro(1070716444)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Aporie (760)
+Seat 3: MathisKcr (140)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Aporie posts big blind 40
+Dealt to MathisKcr [Qh 3d]
+*** PRE-FLOP *** 
+MathisKcr raises 100 to 140 and is all-in
+Aporie raises 100 to 240
+*** FLOP *** [4s 5d 3c]
+*** TURN *** [4s 5d 3c][Ts]
+*** RIVER *** [4s 5d 3c Ts][4h]
+*** SHOW DOWN ***
+Aporie shows [Ad Jh] (One pair : 4)
+MathisKcr shows [Qh 3d] (Two pairs : 4 and 3)
+MathisKcr collected 280 from main pot
+Aporie collected 100 from side pot 1
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [4s 5d 3c Ts 4h]
+Seat 2: Aporie (big blind) showed [Ad Jh] and won 100 with One pair : 4
+Seat 3: MathisKcr (small blind) (button) showed [Qh 3d] and won 280 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4598692110269415425-14-1772275038 - Holdem no limit (20/40) - 2026/02/28 10:37:18 UTC
+Table: 'Expresso Nitro(1070716444)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Aporie (620)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+Aporie posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5d Ts]
+*** PRE-FLOP *** 
+Aporie raises 580 to 620 and is all-in
+MathisKcr folds
+Aporie collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 2: Aporie (small blind) (button) won 660
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4598692110269415425-15-1772275044 - Holdem no limit (20/40) - 2026/02/28 10:37:24 UTC
+Table: 'Expresso Nitro(1070716444)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Aporie (660)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Aporie posts big blind 40
+Dealt to MathisKcr [6c Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Aporie folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: MathisKcr (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4598692110269415425-16-1772275052 - Holdem no limit (30/60) - 2026/02/28 10:37:32 UTC
+Table: 'Expresso Nitro(1070716444)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Aporie (620)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+Aporie posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [6s Qd]
+*** PRE-FLOP *** 
+Aporie folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4598692110269415425-17-1772275056 - Holdem no limit (30/60) - 2026/02/28 10:37:36 UTC
+Table: 'Expresso Nitro(1070716444)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Aporie (590)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Aporie posts big blind 60
+Dealt to MathisKcr [8s 7c]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+Aporie calls 60
+*** FLOP *** [4c Qs Th]
+Aporie checks
+MathisKcr checks
+*** TURN *** [4c Qs Th][Qh]
+Aporie bets 60
+MathisKcr folds
+Aporie collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [4c Qs Th Qh]
+Seat 2: Aporie (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4598692110269415425-18-1772275068 - Holdem no limit (30/60) - 2026/02/28 10:37:48 UTC
+Table: 'Expresso Nitro(1070716444)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Aporie (710)
+Seat 3: MathisKcr (190)
+*** ANTE/BLINDS ***
+Aporie posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Kd 9s]
+*** PRE-FLOP *** 
+Aporie raises 650 to 710 and is all-in
+MathisKcr calls 130 and is all-in
+*** FLOP *** [6c 7c Qd]
+*** TURN *** [6c 7c Qd][4d]
+*** RIVER *** [6c 7c Qd 4d][2d]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 9s] (High card : King)
+Aporie shows [7d Jd] (Flush Queen high)
+Aporie collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6c 7c Qd 4d 2d]
+Seat 2: Aporie (small blind) (button) showed [7d Jd] and won 900 with Flush Queen high
+Seat 3: MathisKcr (big blind) showed [Kd 9s] and lost with High card : King
+
+

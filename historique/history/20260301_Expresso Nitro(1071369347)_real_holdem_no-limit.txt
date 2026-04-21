@@ -1,0 +1,31 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601496307301875713-1-1772390595 - Holdem no limit (10/20) - 2026/03/01 18:43:15 UTC
+Table: 'Expresso Nitro(1071369347)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cryonic22 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Hermine 5950 (300)
+*** ANTE/BLINDS ***
+Cryonic22 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qd Ah]
+*** PRE-FLOP *** 
+Hermine 5950 raises 50 to 70
+Cryonic22 calls 60
+MathisKcr raises 230 to 300 and is all-in
+Hermine 5950 calls 230 and is all-in
+Cryonic22 calls 230 and is all-in
+*** FLOP *** [Jd 6c 6d]
+*** TURN *** [Jd 6c 6d][9h]
+*** RIVER *** [Jd 6c 6d 9h][Qh]
+*** SHOW DOWN ***
+Cryonic22 shows [3d 3s] (Two pairs : 6 and 3)
+Hermine 5950 shows [9s 3h] (Two pairs : 9 and 6)
+MathisKcr shows [Qd Ah] (Two pairs : Queens and 6)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jd 6c 6d 9h Qh]
+Seat 1: Cryonic22 (small blind) showed [3d 3s] and lost with Two pairs : 6 and 3
+Seat 2: MathisKcr (big blind) showed [Qd Ah] and won 900 with Two pairs : Queens and 6
+Seat 3: Hermine 5950 (button) showed [9s 3h] and lost with Two pairs : 9 and 6
+
+

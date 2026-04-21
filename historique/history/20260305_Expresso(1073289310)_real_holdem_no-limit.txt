@@ -1,0 +1,256 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609742485596405761-1-1772714632 - Holdem no limit (10/20) - 2026/03/05 12:43:52 UTC
+Table: 'Expresso(1073289310)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Ares_23 (500)
+Seat 3: yannis6906 (500)
+*** ANTE/BLINDS ***
+Ares_23 posts small blind 10
+yannis6906 posts big blind 20
+Dealt to MathisKcr [Qd 3d]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Ares_23 raises 50 to 70
+yannis6906 folds
+MathisKcr calls 50
+*** FLOP *** [3c 5s 3s]
+Ares_23 bets 40
+MathisKcr calls 40
+*** TURN *** [3c 5s 3s][6h]
+Ares_23 checks
+MathisKcr bets 50
+Ares_23 calls 50
+*** RIVER *** [3c 5s 3s 6h][Kh]
+Ares_23 checks
+MathisKcr bets 119
+Ares_23 raises 221 to 340 and is all-in
+MathisKcr calls 221 and is all-in
+*** SHOW DOWN ***
+Ares_23 shows [Ac Ts] (One pair : 3)
+MathisKcr shows [Qd 3d] (Trips of 3)
+MathisKcr collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [3c 5s 3s 6h Kh]
+Seat 1: MathisKcr (button) showed [Qd 3d] and won 1020 with Trips of 3
+Seat 2: Ares_23 (small blind) showed [Ac Ts] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609742485596405761-2-1772714668 - Holdem no limit (10/20) - 2026/03/05 12:44:28 UTC
+Table: 'Expresso(1073289310)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (1020)
+Seat 3: yannis6906 (480)
+*** ANTE/BLINDS ***
+yannis6906 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c 2d]
+*** PRE-FLOP *** 
+yannis6906 raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [Qc 7s Qh]
+MathisKcr checks
+yannis6906 bets 28
+MathisKcr folds
+yannis6906 collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [Qc 7s Qh]
+Seat 3: yannis6906 (small blind) (button) won 108
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609742485596405761-3-1772714677 - Holdem no limit (10/20) - 2026/03/05 12:44:37 UTC
+Table: 'Expresso(1073289310)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (980)
+Seat 3: yannis6906 (520)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+yannis6906 posts big blind 20
+Dealt to MathisKcr [5c Qs]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+yannis6906 checks
+*** FLOP *** [Tc 5h Th]
+yannis6906 checks
+MathisKcr bets 40
+yannis6906 folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Tc 5h Th]
+Seat 1: MathisKcr (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609742485596405761-4-1772714691 - Holdem no limit (10/20) - 2026/03/05 12:44:51 UTC
+Table: 'Expresso(1073289310)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (1000)
+Seat 3: yannis6906 (500)
+*** ANTE/BLINDS ***
+yannis6906 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As 2h]
+*** PRE-FLOP *** 
+yannis6906 calls 10
+MathisKcr raises 20 to 40
+yannis6906 calls 20
+*** FLOP *** [7c 6s Ad]
+MathisKcr checks
+yannis6906 checks
+*** TURN *** [7c 6s Ad][Qh]
+MathisKcr bets 40
+yannis6906 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [7c 6s Ad Qh]
+Seat 1: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609742485596405761-5-1772714708 - Holdem no limit (10/20) - 2026/03/05 12:45:08 UTC
+Table: 'Expresso(1073289310)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1040)
+Seat 3: yannis6906 (460)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+yannis6906 posts big blind 20
+Dealt to MathisKcr [6h 2h]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+yannis6906 raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [Qs 6d 5h]
+yannis6906 checks
+MathisKcr bets 40
+yannis6906 calls 40
+*** TURN *** [Qs 6d 5h][Ks]
+yannis6906 bets 56
+MathisKcr calls 56
+*** RIVER *** [Qs 6d 5h Ks][4s]
+yannis6906 bets 177
+MathisKcr folds
+yannis6906 collected 449 from pot
+*** SUMMARY ***
+Total pot 449 | No rake
+Board: [Qs 6d 5h Ks 4s]
+Seat 3: yannis6906 (big blind) won 449
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609742485596405761-6-1772714731 - Holdem no limit (15/30) - 2026/03/05 12:45:31 UTC
+Table: 'Expresso(1073289310)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (904)
+Seat 3: yannis6906 (596)
+*** ANTE/BLINDS ***
+yannis6906 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jc 8h]
+*** PRE-FLOP *** 
+yannis6906 calls 15
+MathisKcr checks
+*** FLOP *** [Ac 7d Ks]
+MathisKcr checks
+yannis6906 checks
+*** TURN *** [Ac 7d Ks][3h]
+MathisKcr checks
+yannis6906 checks
+*** RIVER *** [Ac 7d Ks 3h][3d]
+MathisKcr checks
+yannis6906 checks
+*** SHOW DOWN ***
+yannis6906 shows [6s Tc] (One pair : 3)
+MathisKcr shows [Jc 8h] (One pair : 3)
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ac 7d Ks 3h 3d]
+Seat 1: MathisKcr (big blind) showed [Jc 8h] and won 60 with One pair : 3
+Seat 3: yannis6906 (small blind) (button) showed [6s Tc] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609742485596405761-7-1772714749 - Holdem no limit (15/30) - 2026/03/05 12:45:49 UTC
+Table: 'Expresso(1073289310)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (934)
+Seat 3: yannis6906 (566)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+yannis6906 posts big blind 30
+Dealt to MathisKcr [7d Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 90
+yannis6906 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609742485596405761-8-1772714757 - Holdem no limit (15/30) - 2026/03/05 12:45:57 UTC
+Table: 'Expresso(1073289310)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (964)
+Seat 3: yannis6906 (536)
+*** ANTE/BLINDS ***
+yannis6906 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4s 4c]
+*** PRE-FLOP *** 
+yannis6906 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609742485596405761-9-1772714763 - Holdem no limit (15/30) - 2026/03/05 12:46:03 UTC
+Table: 'Expresso(1073289310)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (979)
+Seat 3: yannis6906 (521)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+yannis6906 posts big blind 30
+Dealt to MathisKcr [Jd 6h]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+yannis6906 raises 30 to 60
+MathisKcr calls 30
+*** FLOP *** [Qc 8d 8c]
+yannis6906 bets 42
+MathisKcr folds
+yannis6906 collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [Qc 8d 8c]
+Seat 3: yannis6906 (big blind) won 162
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609742485596405761-10-1772714776 - Holdem no limit (15/30) - 2026/03/05 12:46:16 UTC
+Table: 'Expresso(1073289310)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (919)
+Seat 3: yannis6906 (581)
+*** ANTE/BLINDS ***
+yannis6906 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qc 6c]
+*** PRE-FLOP *** 
+yannis6906 raises 30 to 60
+MathisKcr calls 30
+*** FLOP *** [Qd 8c Ks]
+MathisKcr bets 60
+yannis6906 raises 60 to 120
+MathisKcr calls 60
+*** TURN *** [Qd 8c Ks][4d]
+MathisKcr checks
+yannis6906 bets 126
+MathisKcr calls 126
+*** RIVER *** [Qd 8c Ks 4d][Qh]
+MathisKcr checks
+yannis6906 bets 214
+MathisKcr raises 214 to 428
+yannis6906 calls 61 and is all-in
+*** SHOW DOWN ***
+yannis6906 shows [Th Td] (Two pairs : Queens and Tens)
+MathisKcr shows [Qc 6c] (Trips of Queens)
+MathisKcr collected 1315 from pot
+*** SUMMARY ***
+Total pot 1315 | No rake
+Board: [Qd 8c Ks 4d Qh]
+Seat 1: MathisKcr (big blind) showed [Qc 6c] and won 1315 with Trips of Queens
+Seat 3: yannis6906 (small blind) (button) showed [Th Td] and lost with Two pairs : Queens and Tens
+
+

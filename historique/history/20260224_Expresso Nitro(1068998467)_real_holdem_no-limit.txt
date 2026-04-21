@@ -1,0 +1,135 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4591313455239135233-1-1771961262 - Holdem no limit (10/20) - 2026/02/24 19:27:42 UTC
+Table: 'Expresso Nitro(1068998467)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ElNainGui (300)
+Seat 2: MathisKcr (300)
+Seat 3: Elfo-4986316 (300)
+*** ANTE/BLINDS ***
+Elfo-4986316 posts small blind 10
+ElNainGui posts big blind 20
+Dealt to MathisKcr [6d 7d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Elfo-4986316 raises 260 to 300 and is all-in
+ElNainGui calls 280 and is all-in
+MathisKcr folds
+*** FLOP *** [2d 2s 4h]
+*** TURN *** [2d 2s 4h][7c]
+*** RIVER *** [2d 2s 4h 7c][7s]
+*** SHOW DOWN ***
+ElNainGui shows [8c 6h] (Two pairs : 7 and 2)
+Elfo-4986316 shows [Ac Kd] (Two pairs : 7 and 2)
+Elfo-4986316 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [2d 2s 4h 7c 7s]
+Seat 1: ElNainGui (big blind) showed [8c 6h] and lost with Two pairs : 7 and 2
+Seat 3: Elfo-4986316 (small blind) showed [Ac Kd] and won 640 with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4591313455239135233-2-1771961282 - Holdem no limit (10/20) - 2026/02/24 19:28:02 UTC
+Table: 'Expresso Nitro(1068998467)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (260)
+Seat 3: Elfo-4986316 (640)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Elfo-4986316 posts big blind 20
+Dealt to MathisKcr [5s Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Elfo-4986316 calls 20
+*** FLOP *** [6h Kd Js]
+Elfo-4986316 checks
+MathisKcr bets 40
+Elfo-4986316 calls 40
+*** TURN *** [6h Kd Js][3c]
+Elfo-4986316 checks
+MathisKcr bets 80
+Elfo-4986316 calls 80
+*** RIVER *** [6h Kd Js 3c][9c]
+Elfo-4986316 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [5s Kh] (One pair : Kings)
+Elfo-4986316 shows [Ts Qd] (Straight King high)
+Elfo-4986316 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [6h Kd Js 3c 9c]
+Seat 2: MathisKcr (small blind) (button) showed [5s Kh] and lost with One pair : Kings
+Seat 3: Elfo-4986316 (big blind) showed [Ts Qd] and won 320 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4591313455239135233-3-1771961315 - Holdem no limit (10/20) - 2026/02/24 19:28:35 UTC
+Table: 'Expresso Nitro(1068998467)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (100)
+Seat 3: Elfo-4986316 (800)
+*** ANTE/BLINDS ***
+Elfo-4986316 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As 2c]
+*** PRE-FLOP *** 
+Elfo-4986316 calls 10
+MathisKcr raises 20 to 40
+Elfo-4986316 calls 20
+*** FLOP *** [8s Qc 3s]
+MathisKcr bets 60 and is all-in
+Elfo-4986316 folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [8s Qc 3s]
+Seat 2: MathisKcr (big blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4591313455239135233-4-1771961330 - Holdem no limit (15/30) - 2026/02/24 19:28:50 UTC
+Table: 'Expresso Nitro(1068998467)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (140)
+Seat 3: Elfo-4986316 (760)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Elfo-4986316 posts big blind 30
+Dealt to MathisKcr [Kc 4s]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Elfo-4986316 calls 30
+*** FLOP *** [2h 8d 2d]
+Elfo-4986316 checks
+MathisKcr checks
+*** TURN *** [2h 8d 2d][5d]
+Elfo-4986316 bets 700 and is all-in
+MathisKcr folds
+Elfo-4986316 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [2h 8d 2d 5d]
+Seat 3: Elfo-4986316 (big blind) won 820
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4591313455239135233-5-1771961348 - Holdem no limit (15/30) - 2026/02/24 19:29:08 UTC
+Table: 'Expresso Nitro(1068998467)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (80)
+Seat 3: Elfo-4986316 (820)
+*** ANTE/BLINDS ***
+Elfo-4986316 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4d 7d]
+*** PRE-FLOP *** 
+Elfo-4986316 calls 15
+MathisKcr checks
+*** FLOP *** [4c Qc 7h]
+MathisKcr checks
+Elfo-4986316 bets 790 and is all-in
+MathisKcr calls 50 and is all-in
+*** TURN *** [4c Qc 7h][Ts]
+*** RIVER *** [4c Qc 7h Ts][Qh]
+*** SHOW DOWN ***
+MathisKcr shows [4d 7d] (Two pairs : Queens and 7)
+Elfo-4986316 shows [Jh 7c] (Two pairs : Queens and 7)
+Elfo-4986316 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c Qc 7h Ts Qh]
+Seat 2: MathisKcr (big blind) showed [4d 7d] and lost with Two pairs : Queens and 7
+Seat 3: Elfo-4986316 (small blind) (button) showed [Jh 7c] and won 900 with Two pairs : Queens and 7
+
+

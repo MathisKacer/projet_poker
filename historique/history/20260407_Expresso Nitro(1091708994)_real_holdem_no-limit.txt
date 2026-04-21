@@ -1,0 +1,400 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688854425979060225-1-1775568760 - Holdem no limit (10/20) - 2026/04/07 13:32:40 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Iju13 (300)
+Seat 3: chouettebot (300)
+*** ANTE/BLINDS ***
+chouettebot posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2c 7d]
+*** PRE-FLOP *** 
+Iju13 calls 20
+chouettebot calls 10
+MathisKcr checks
+*** FLOP *** [4h 6c Ts]
+chouettebot bets 39
+MathisKcr folds
+Iju13 folds
+chouettebot collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [4h 6c Ts]
+Seat 3: chouettebot (small blind) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688854425979060225-2-1775568783 - Holdem no limit (10/20) - 2026/04/07 13:33:03 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Iju13 (280)
+Seat 3: chouettebot (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Iju13 posts big blind 20
+Dealt to MathisKcr [8h 4h]
+*** PRE-FLOP *** 
+chouettebot raises 30 to 50
+MathisKcr folds
+Iju13 folds
+chouettebot collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: chouettebot (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688854425979060225-3-1775568793 - Holdem no limit (10/20) - 2026/04/07 13:33:13 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: Iju13 (260)
+Seat 3: chouettebot (370)
+*** ANTE/BLINDS ***
+Iju13 posts small blind 10
+chouettebot posts big blind 20
+Dealt to MathisKcr [Kd Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Iju13 folds
+chouettebot raises 60 to 100
+MathisKcr raises 170 to 270 and is all-in
+chouettebot calls 170
+*** FLOP *** [3d Ks 4h]
+*** TURN *** [3d Ks 4h][6h]
+*** RIVER *** [3d Ks 4h 6h][Th]
+*** SHOW DOWN ***
+chouettebot shows [Qs 7d] (High card : King)
+MathisKcr shows [Kd Ad] (One pair : Kings)
+MathisKcr collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [3d Ks 4h 6h Th]
+Seat 1: MathisKcr (button) showed [Kd Ad] and won 550 with One pair : Kings
+Seat 3: chouettebot (big blind) showed [Qs 7d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688854425979060225-4-1775568828 - Holdem no limit (15/30) - 2026/04/07 13:33:48 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (550)
+Seat 2: Iju13 (250)
+Seat 3: chouettebot (100)
+*** ANTE/BLINDS ***
+chouettebot posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kd 7d]
+*** PRE-FLOP *** 
+Iju13 folds
+chouettebot raises 70 to 100 and is all-in
+MathisKcr calls 70
+*** FLOP *** [Ks 3h 2s]
+*** TURN *** [Ks 3h 2s][7h]
+*** RIVER *** [Ks 3h 2s 7h][Td]
+*** SHOW DOWN ***
+chouettebot shows [Jh Qs] (High card : King)
+MathisKcr shows [Kd 7d] (Two pairs : Kings and 7)
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Ks 3h 2s 7h Td]
+Seat 1: MathisKcr (big blind) showed [Kd 7d] and won 200 with Two pairs : Kings and 7
+Seat 3: chouettebot (small blind) showed [Jh Qs] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688854425979060225-5-1775568847 - Holdem no limit (15/30) - 2026/04/07 13:34:07 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (650)
+Seat 2: Iju13 (250)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Iju13 posts big blind 30
+Dealt to MathisKcr [Qs Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 620 to 650 and is all-in
+Iju13 folds
+MathisKcr collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Seat 1: MathisKcr (small blind) (button) won 680
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688854425979060225-6-1775568859 - Holdem no limit (15/30) - 2026/04/07 13:34:19 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (680)
+Seat 2: Iju13 (220)
+*** ANTE/BLINDS ***
+Iju13 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ks 5c]
+*** PRE-FLOP *** 
+Iju13 calls 15
+MathisKcr raises 650 to 680 and is all-in
+Iju13 folds
+MathisKcr collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Seat 1: MathisKcr (big blind) won 710
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688854425979060225-7-1775568871 - Holdem no limit (15/30) - 2026/04/07 13:34:31 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (710)
+Seat 2: Iju13 (190)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Iju13 posts big blind 30
+Dealt to MathisKcr [5d Td]
+*** PRE-FLOP *** 
+MathisKcr folds
+Iju13 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Iju13 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688854425979060225-8-1775568876 - Holdem no limit (15/30) - 2026/04/07 13:34:36 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (695)
+Seat 2: Iju13 (205)
+*** ANTE/BLINDS ***
+Iju13 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3c 3s]
+*** PRE-FLOP *** 
+Iju13 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688854425979060225-9-1775568880 - Holdem no limit (20/40) - 2026/04/07 13:34:40 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (710)
+Seat 2: Iju13 (190)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Iju13 posts big blind 40
+Dealt to MathisKcr [5d 7s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Iju13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Iju13 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688854425979060225-10-1775568886 - Holdem no limit (20/40) - 2026/04/07 13:34:46 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (690)
+Seat 2: Iju13 (210)
+*** ANTE/BLINDS ***
+Iju13 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5d 2s]
+*** PRE-FLOP *** 
+Iju13 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688854425979060225-11-1775568890 - Holdem no limit (20/40) - 2026/04/07 13:34:50 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (710)
+Seat 2: Iju13 (190)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Iju13 posts big blind 40
+Dealt to MathisKcr [9h 7s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Iju13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Iju13 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688854425979060225-12-1775568901 - Holdem no limit (20/40) - 2026/04/07 13:35:01 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (690)
+Seat 2: Iju13 (210)
+*** ANTE/BLINDS ***
+Iju13 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kh 6d]
+*** PRE-FLOP *** 
+Iju13 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688854425979060225-13-1775568905 - Holdem no limit (20/40) - 2026/04/07 13:35:05 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (710)
+Seat 2: Iju13 (190)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Iju13 posts big blind 40
+Dealt to MathisKcr [3h 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Iju13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Iju13 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688854425979060225-14-1775568914 - Holdem no limit (20/40) - 2026/04/07 13:35:14 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (690)
+Seat 2: Iju13 (210)
+*** ANTE/BLINDS ***
+Iju13 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Qs 6s]
+*** PRE-FLOP *** 
+Iju13 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688854425979060225-15-1775568918 - Holdem no limit (20/40) - 2026/04/07 13:35:18 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (710)
+Seat 2: Iju13 (190)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Iju13 posts big blind 40
+Dealt to MathisKcr [4h 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Iju13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Iju13 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688854425979060225-16-1775568927 - Holdem no limit (20/40) - 2026/04/07 13:35:27 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (690)
+Seat 2: Iju13 (210)
+*** ANTE/BLINDS ***
+Iju13 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9s 6c]
+*** PRE-FLOP *** 
+Iju13 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4688854425979060225-17-1775568931 - Holdem no limit (20/40) - 2026/04/07 13:35:31 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (710)
+Seat 2: Iju13 (190)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Iju13 posts big blind 40
+Dealt to MathisKcr [3h 9c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Iju13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Iju13 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4688854425979060225-18-1775568940 - Holdem no limit (30/60) - 2026/04/07 13:35:40 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (690)
+Seat 2: Iju13 (210)
+*** ANTE/BLINDS ***
+Iju13 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [9c Qs]
+*** PRE-FLOP *** 
+Iju13 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4688854425979060225-19-1775568944 - Holdem no limit (30/60) - 2026/04/07 13:35:44 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (720)
+Seat 2: Iju13 (180)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Iju13 posts big blind 60
+Dealt to MathisKcr [Qd Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 660 to 720 and is all-in
+Iju13 folds
+MathisKcr collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 1: MathisKcr (small blind) (button) won 780
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4688854425979060225-20-1775568951 - Holdem no limit (30/60) - 2026/04/07 13:35:51 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (780)
+Seat 2: Iju13 (120)
+*** ANTE/BLINDS ***
+Iju13 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [9c Th]
+*** PRE-FLOP *** 
+Iju13 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4688854425979060225-21-1775568956 - Holdem no limit (30/60) - 2026/04/07 13:35:56 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (810)
+Seat 2: Iju13 (90)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Iju13 posts big blind 60
+Dealt to MathisKcr [4h 6s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Iju13 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Iju13 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4688854425979060225-22-1775568965 - Holdem no limit (30/60) - 2026/04/07 13:36:05 UTC
+Table: 'Expresso Nitro(1091708994)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (780)
+Seat 2: Iju13 (120)
+*** ANTE/BLINDS ***
+Iju13 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ac 7h]
+*** PRE-FLOP *** 
+Iju13 raises 60 to 120 and is all-in
+MathisKcr calls 60
+*** FLOP *** [4s 8s 5d]
+*** TURN *** [4s 8s 5d][9c]
+*** RIVER *** [4s 8s 5d 9c][8d]
+*** SHOW DOWN ***
+Iju13 shows [Jh 2d] (One pair : 8)
+MathisKcr shows [Ac 7h] (One pair : 8)
+MathisKcr collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [4s 8s 5d 9c 8d]
+Seat 1: MathisKcr (big blind) showed [Ac 7h] and won 240 with One pair : 8
+Seat 2: Iju13 (small blind) (button) showed [Jh 2d] and lost with One pair : 8
+
+

@@ -1,0 +1,199 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488967176304197633-1-1768083825 - Holdem no limit (10/20) - 2026/01/10 22:23:45 UTC
+Table: 'Expresso(1045169117)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: leiradi (500)
+Seat 3: Keiff52 (500)
+*** ANTE/BLINDS ***
+leiradi posts small blind 10
+Keiff52 posts big blind 20
+Dealt to MathisKcr [Ks Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+leiradi folds
+Keiff52 raises 80 to 120
+MathisKcr raises 80 to 200
+Keiff52 calls 80
+*** FLOP *** [2c 4h 4d]
+Keiff52 checks
+MathisKcr bets 103
+Keiff52 folds
+MathisKcr collected 513 from pot
+*** SUMMARY ***
+Total pot 513 | No rake
+Board: [2c 4h 4d]
+Seat 1: MathisKcr (button) won 513
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488967176304197633-2-1768083857 - Holdem no limit (10/20) - 2026/01/10 22:24:17 UTC
+Table: 'Expresso(1045169117)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (710)
+Seat 2: leiradi (490)
+Seat 3: Keiff52 (300)
+*** ANTE/BLINDS ***
+Keiff52 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ac 5d]
+*** PRE-FLOP *** 
+leiradi folds
+Keiff52 calls 10
+MathisKcr raises 20 to 40
+Keiff52 calls 20
+*** FLOP *** [6c 4c Jh]
+Keiff52 bets 52
+MathisKcr calls 52
+*** TURN *** [6c 4c Jh][8d]
+Keiff52 bets 64
+MathisKcr folds
+Keiff52 collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [6c 4c Jh 8d]
+Seat 3: Keiff52 (small blind) won 248
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488967176304197633-3-1768083872 - Holdem no limit (10/20) - 2026/01/10 22:24:32 UTC
+Table: 'Expresso(1045169117)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (618)
+Seat 2: leiradi (490)
+Seat 3: Keiff52 (392)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+leiradi posts big blind 20
+Dealt to MathisKcr [9h 2h]
+*** PRE-FLOP *** 
+Keiff52 folds
+MathisKcr raises 20 to 40
+leiradi raises 450 to 490 and is all-in
+MathisKcr folds
+leiradi collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 2: leiradi (big blind) won 530
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488967176304197633-4-1768083893 - Holdem no limit (10/20) - 2026/01/10 22:24:53 UTC
+Table: 'Expresso(1045169117)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (578)
+Seat 2: leiradi (530)
+Seat 3: Keiff52 (392)
+*** ANTE/BLINDS ***
+leiradi posts small blind 10
+Keiff52 posts big blind 20
+Dealt to MathisKcr [5s 9s]
+*** PRE-FLOP *** 
+MathisKcr folds
+leiradi calls 10
+Keiff52 checks
+*** FLOP *** [8c 8h 7d]
+leiradi checks
+Keiff52 checks
+*** TURN *** [8c 8h 7d][Td]
+leiradi bets 26
+Keiff52 folds
+leiradi collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [8c 8h 7d Td]
+Seat 2: leiradi (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488967176304197633-5-1768083918 - Holdem no limit (15/30) - 2026/01/10 22:25:18 UTC
+Table: 'Expresso(1045169117)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (578)
+Seat 2: leiradi (550)
+Seat 3: Keiff52 (372)
+*** ANTE/BLINDS ***
+Keiff52 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6h 7d]
+*** PRE-FLOP *** 
+leiradi raises 30 to 60
+Keiff52 raises 90 to 150
+MathisKcr folds
+leiradi folds
+Keiff52 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: Keiff52 (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488967176304197633-6-1768083939 - Holdem no limit (15/30) - 2026/01/10 22:25:39 UTC
+Table: 'Expresso(1045169117)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (548)
+Seat 2: leiradi (490)
+Seat 3: Keiff52 (462)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+leiradi posts big blind 30
+Dealt to MathisKcr [Ks 2c]
+*** PRE-FLOP *** 
+Keiff52 calls 30
+MathisKcr raises 30 to 60
+leiradi folds
+Keiff52 calls 30
+*** FLOP *** [5s Ac 7s]
+MathisKcr bets 60
+Keiff52 calls 60
+*** TURN *** [5s Ac 7s][Qh]
+MathisKcr checks
+Keiff52 bets 95
+MathisKcr calls 95
+*** RIVER *** [5s Ac 7s Qh][8s]
+MathisKcr checks
+Keiff52 checks
+*** SHOW DOWN ***
+MathisKcr shows [Ks 2c] (High card : Ace)
+Keiff52 shows [Js 7c] (One pair : 7)
+Keiff52 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [5s Ac 7s Qh 8s]
+Seat 1: MathisKcr (small blind) showed [Ks 2c] and lost with High card : Ace
+Seat 3: Keiff52 (button) showed [Js 7c] and won 460 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488967176304197633-7-1768083976 - Holdem no limit (15/30) - 2026/01/10 22:26:16 UTC
+Table: 'Expresso(1045169117)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (333)
+Seat 2: leiradi (460)
+Seat 3: Keiff52 (707)
+*** ANTE/BLINDS ***
+leiradi posts small blind 15
+Keiff52 posts big blind 30
+Dealt to MathisKcr [7c 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+leiradi folds
+Keiff52 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Keiff52 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4488967176304197633-8-1768084007 - Holdem no limit (20/40) - 2026/01/10 22:26:47 UTC
+Table: 'Expresso(1045169117)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (333)
+Seat 2: leiradi (445)
+Seat 3: Keiff52 (722)
+*** ANTE/BLINDS ***
+Keiff52 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Tc 9h]
+*** PRE-FLOP *** 
+leiradi raises 405 to 445 and is all-in
+Keiff52 folds
+MathisKcr calls 293 and is all-in
+*** FLOP *** [9d Jd Ad]
+*** TURN *** [9d Jd Ad][2h]
+*** RIVER *** [9d Jd Ad 2h][4h]
+*** SHOW DOWN ***
+MathisKcr shows [Tc 9h] (One pair : 9)
+leiradi shows [Qh 9s] (One pair : 9)
+leiradi collected 798 from pot
+*** SUMMARY ***
+Total pot 798 | No rake
+Board: [9d Jd Ad 2h 4h]
+Seat 1: MathisKcr (big blind) showed [Tc 9h] and lost with One pair : 9
+Seat 2: leiradi (button) showed [Qh 9s] and won 798 with One pair : 9
+
+

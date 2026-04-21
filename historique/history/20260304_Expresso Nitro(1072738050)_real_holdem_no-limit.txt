@@ -1,0 +1,230 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607374841924812801-1-1772616586 - Holdem no limit (10/20) - 2026/03/04 09:29:46 UTC
+Table: 'Expresso Nitro(1072738050)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SLF38 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Mteff_89 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Mteff_89 posts big blind 20
+Dealt to MathisKcr [Jc 3d]
+*** PRE-FLOP *** 
+SLF38 calls 20
+MathisKcr calls 10
+Mteff_89 checks
+*** FLOP *** [Qs 6d 8c]
+MathisKcr checks
+Mteff_89 checks
+SLF38 checks
+*** TURN *** [Qs 6d 8c][Qh]
+MathisKcr checks
+Mteff_89 checks
+SLF38 checks
+*** RIVER *** [Qs 6d 8c Qh][3c]
+MathisKcr bets 21
+Mteff_89 folds
+SLF38 folds
+MathisKcr collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [Qs 6d 8c Qh 3c]
+Seat 2: MathisKcr (small blind) won 81
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607374841924812801-2-1772616620 - Holdem no limit (10/20) - 2026/03/04 09:30:20 UTC
+Table: 'Expresso Nitro(1072738050)#0' 3-max (real money) Seat #2 is the button
+Seat 1: SLF38 (280)
+Seat 2: MathisKcr (340)
+Seat 3: Mteff_89 (280)
+*** ANTE/BLINDS ***
+Mteff_89 posts small blind 10
+SLF38 posts big blind 20
+Dealt to MathisKcr [2s Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 320 to 340 and is all-in
+Mteff_89 folds
+SLF38 folds
+MathisKcr collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 2: MathisKcr (button) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607374841924812801-3-1772616633 - Holdem no limit (10/20) - 2026/03/04 09:30:33 UTC
+Table: 'Expresso Nitro(1072738050)#0' 3-max (real money) Seat #3 is the button
+Seat 1: SLF38 (260)
+Seat 2: MathisKcr (370)
+Seat 3: Mteff_89 (270)
+*** ANTE/BLINDS ***
+SLF38 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d Ah]
+*** PRE-FLOP *** 
+Mteff_89 folds
+SLF38 calls 10
+MathisKcr raises 40 to 60
+SLF38 calls 40
+*** FLOP *** [Qh 4h Ts]
+SLF38 checks
+MathisKcr bets 42
+SLF38 calls 42
+*** TURN *** [Qh 4h Ts][Jc]
+SLF38 checks
+MathisKcr bets 133
+SLF38 folds
+MathisKcr collected 337 from pot
+*** SUMMARY ***
+Total pot 337 | No rake
+Board: [Qh 4h Ts Jc]
+Seat 2: MathisKcr (big blind) won 337
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4607374841924812801-4-1772616666 - Holdem no limit (15/30) - 2026/03/04 09:31:06 UTC
+Table: 'Expresso Nitro(1072738050)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SLF38 (158)
+Seat 2: MathisKcr (472)
+Seat 3: Mteff_89 (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Mteff_89 posts big blind 30
+Dealt to MathisKcr [4h 5h]
+*** PRE-FLOP *** 
+SLF38 calls 30
+MathisKcr raises 60 to 90
+Mteff_89 raises 180 to 270 and is all-in
+SLF38 calls 128 and is all-in
+MathisKcr folds
+*** FLOP *** [6h Ad Kh]
+*** TURN *** [6h Ad Kh][Jh]
+*** RIVER *** [6h Ad Kh Jh][Jc]
+*** SHOW DOWN ***
+SLF38 shows [8d Js] (Trips of Jacks)
+Mteff_89 shows [2c 6c] (Two pairs : Jacks and 6)
+Mteff_89 collected 112 from side pot 1
+SLF38 collected 406 from main pot
+*** SUMMARY ***
+Total pot 518 | No rake
+Board: [6h Ad Kh Jh Jc]
+Seat 1: SLF38 (button) showed [8d Js] and won 406 with Trips of Jacks
+Seat 3: Mteff_89 (big blind) showed [2c 6c] and won 112 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4607374841924812801-5-1772616698 - Holdem no limit (15/30) - 2026/03/04 09:31:38 UTC
+Table: 'Expresso Nitro(1072738050)#0' 3-max (real money) Seat #2 is the button
+Seat 1: SLF38 (406)
+Seat 2: MathisKcr (382)
+Seat 3: Mteff_89 (112)
+*** ANTE/BLINDS ***
+Mteff_89 posts small blind 15
+SLF38 posts big blind 30
+Dealt to MathisKcr [Tc 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Mteff_89 calls 15
+SLF38 checks
+*** FLOP *** [5s Qh 7s]
+Mteff_89 checks
+SLF38 checks
+*** TURN *** [5s Qh 7s][4d]
+Mteff_89 checks
+SLF38 checks
+*** RIVER *** [5s Qh 7s 4d][9d]
+Mteff_89 checks
+SLF38 bets 376 and is all-in
+Mteff_89 folds
+SLF38 collected 436 from pot
+*** SUMMARY ***
+Total pot 436 | No rake
+Board: [5s Qh 7s 4d 9d]
+Seat 1: SLF38 (big blind) won 436
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4607374841924812801-6-1772616735 - Holdem no limit (20/40) - 2026/03/04 09:32:15 UTC
+Table: 'Expresso Nitro(1072738050)#0' 3-max (real money) Seat #3 is the button
+Seat 1: SLF38 (436)
+Seat 2: MathisKcr (382)
+Seat 3: Mteff_89 (82)
+*** ANTE/BLINDS ***
+SLF38 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5h 6d]
+*** PRE-FLOP *** 
+Mteff_89 calls 40
+SLF38 calls 20
+MathisKcr checks
+*** FLOP *** [Ad 2s Tc]
+SLF38 checks
+MathisKcr checks
+Mteff_89 checks
+*** TURN *** [Ad 2s Tc][As]
+SLF38 checks
+MathisKcr checks
+Mteff_89 checks
+*** RIVER *** [Ad 2s Tc As][2h]
+SLF38 checks
+MathisKcr checks
+Mteff_89 checks
+*** SHOW DOWN ***
+MathisKcr shows [5h 6d] (Two pairs : Aces and 2)
+Mteff_89 shows [Js 8h] (Two pairs : Aces and 2)
+SLF38 shows [Qh 3s] (Two pairs : Aces and 2)
+SLF38 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ad 2s Tc As 2h]
+Seat 1: SLF38 (small blind) showed [Qh 3s] and won 120 with Two pairs : Aces and 2
+Seat 2: MathisKcr (big blind) showed [5h 6d] and lost with Two pairs : Aces and 2
+Seat 3: Mteff_89 (button) showed [Js 8h] and lost with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4607374841924812801-7-1772616789 - Holdem no limit (30/60) - 2026/03/04 09:33:09 UTC
+Table: 'Expresso Nitro(1072738050)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SLF38 (516)
+Seat 2: MathisKcr (342)
+Seat 3: Mteff_89 (42)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Mteff_89 posts big blind 42 and is all-in
+Dealt to MathisKcr [5c Kd]
+*** PRE-FLOP *** 
+SLF38 folds
+MathisKcr calls 30
+*** FLOP *** [Qd 7h 3h]
+*** TURN *** [Qd 7h 3h][Ks]
+*** RIVER *** [Qd 7h 3h Ks][2s]
+*** SHOW DOWN ***
+Mteff_89 shows [8d Ts] (High card : King)
+MathisKcr shows [5c Kd] (One pair : Kings)
+MathisKcr collected 102 from pot
+*** SUMMARY ***
+Total pot 102 | No rake
+Board: [Qd 7h 3h Ks 2s]
+Seat 2: MathisKcr (small blind) showed [5c Kd] and won 102 with One pair : Kings
+Seat 3: Mteff_89 (big blind) showed [8d Ts] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4607374841924812801-8-1772616808 - Holdem no limit (30/60) - 2026/03/04 09:33:28 UTC
+Table: 'Expresso Nitro(1072738050)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SLF38 (516)
+Seat 2: MathisKcr (384)
+*** ANTE/BLINDS ***
+SLF38 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [8d Kc]
+*** PRE-FLOP *** 
+SLF38 calls 30
+MathisKcr raises 324 to 384 and is all-in
+SLF38 calls 324
+*** FLOP *** [7s 6h 5c]
+*** TURN *** [7s 6h 5c][2c]
+*** RIVER *** [7s 6h 5c 2c][Td]
+*** SHOW DOWN ***
+MathisKcr shows [8d Kc] (High card : King)
+SLF38 shows [8s 7d] (One pair : 7)
+SLF38 collected 768 from pot
+*** SUMMARY ***
+Total pot 768 | No rake
+Board: [7s 6h 5c 2c Td]
+Seat 1: SLF38 (small blind) (button) showed [8s 7d] and won 768 with One pair : 7
+Seat 2: MathisKcr (big blind) showed [8d Kc] and lost with High card : King
+
+

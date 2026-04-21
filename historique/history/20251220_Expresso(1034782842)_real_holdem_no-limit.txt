@@ -1,0 +1,305 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4444358464851935233-1-1766265238 - Holdem no limit (10/20) - 2025/12/20 21:13:58 UTC
+Table: 'Expresso(1034782842)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Ples (500)
+Seat 3: monster59430 (500)
+*** ANTE/BLINDS ***
+Ples posts small blind 10
+monster59430 posts big blind 20
+Dealt to MathisKcr [8d 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Ples raises 40 to 60
+monster59430 raises 144 to 204
+Ples calls 144
+*** FLOP *** [Ad 9s 6s]
+Ples checks
+monster59430 bets 207
+Ples folds
+monster59430 collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Board: [Ad 9s 6s]
+Seat 3: monster59430 (big blind) won 615
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4444358464851935233-2-1766265267 - Holdem no limit (10/20) - 2025/12/20 21:14:27 UTC
+Table: 'Expresso(1034782842)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Ples (296)
+Seat 3: monster59430 (704)
+*** ANTE/BLINDS ***
+monster59430 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 4h]
+*** PRE-FLOP *** 
+Ples raises 40 to 60
+monster59430 calls 50
+MathisKcr folds
+*** FLOP *** [4c 9d Qd]
+monster59430 bets 100
+Ples folds
+monster59430 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [4c 9d Qd]
+Seat 3: monster59430 (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4444358464851935233-3-1766265289 - Holdem no limit (10/20) - 2025/12/20 21:14:49 UTC
+Table: 'Expresso(1034782842)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (480)
+Seat 2: Ples (236)
+Seat 3: monster59430 (784)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Ples posts big blind 20
+Dealt to MathisKcr [2c 9c]
+*** PRE-FLOP *** 
+monster59430 folds
+MathisKcr calls 10
+Ples checks
+*** FLOP *** [9s Td 5h]
+MathisKcr checks
+Ples bets 26
+MathisKcr calls 26
+*** TURN *** [9s Td 5h][Ah]
+MathisKcr checks
+Ples bets 60
+MathisKcr calls 60
+*** RIVER *** [9s Td 5h Ah][2d]
+MathisKcr checks
+Ples checks
+*** SHOW DOWN ***
+Ples shows [Ts 8d] (One pair : Tens)
+MathisKcr shows [2c 9c] (Two pairs : 9 and 2)
+MathisKcr collected 212 from pot
+*** SUMMARY ***
+Total pot 212 | No rake
+Board: [9s Td 5h Ah 2d]
+Seat 1: MathisKcr (small blind) showed [2c 9c] and won 212 with Two pairs : 9 and 2
+Seat 2: Ples (big blind) showed [Ts 8d] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4444358464851935233-4-1766265320 - Holdem no limit (10/20) - 2025/12/20 21:15:20 UTC
+Table: 'Expresso(1034782842)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (586)
+Seat 2: Ples (130)
+Seat 3: monster59430 (784)
+*** ANTE/BLINDS ***
+Ples posts small blind 10
+monster59430 posts big blind 20
+Dealt to MathisKcr [7d 6s]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Ples folds
+monster59430 raises 50 to 70
+MathisKcr folds
+monster59430 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: monster59430 (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4444358464851935233-5-1766265358 - Holdem no limit (15/30) - 2025/12/20 21:15:58 UTC
+Table: 'Expresso(1034782842)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (566)
+Seat 2: Ples (120)
+Seat 3: monster59430 (814)
+*** ANTE/BLINDS ***
+monster59430 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7h 8c]
+*** PRE-FLOP *** 
+Ples raises 60 to 90
+monster59430 calls 75
+MathisKcr calls 60
+*** FLOP *** [Tc Jc 4s]
+monster59430 bets 75
+MathisKcr calls 75
+Ples calls 30 and is all-in
+*** TURN *** [Tc Jc 4s][Jh]
+monster59430 checks
+MathisKcr checks
+*** RIVER *** [Tc Jc 4s Jh][Js]
+monster59430 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [7h 8c] (Trips of Jacks)
+Ples shows [Ah As] (Full of Jacks and Aces)
+monster59430 shows [4c Kc] (Full of Jacks and 4)
+monster59430 collected 90 from side pot 1
+Ples collected 360 from main pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [Tc Jc 4s Jh Js]
+Seat 1: MathisKcr (big blind) showed [7h 8c] and lost with Trips of Jacks
+Seat 2: Ples (button) showed [Ah As] and won 360 with Full of Jacks and Aces
+Seat 3: monster59430 (small blind) showed [4c Kc] and won 90 with Full of Jacks and 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4444358464851935233-6-1766265394 - Holdem no limit (15/30) - 2025/12/20 21:16:34 UTC
+Table: 'Expresso(1034782842)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (401)
+Seat 2: Ples (360)
+Seat 3: monster59430 (739)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Ples posts big blind 30
+Dealt to MathisKcr [As 4d]
+*** PRE-FLOP *** 
+monster59430 folds
+MathisKcr raises 371 to 401 and is all-in
+Ples calls 330 and is all-in
+*** FLOP *** [2c Ac Js]
+*** TURN *** [2c Ac Js][7c]
+*** RIVER *** [2c Ac Js 7c][7h]
+*** SHOW DOWN ***
+MathisKcr shows [As 4d] (Two pairs : Aces and 7)
+Ples shows [Ah Tc] (Two pairs : Aces and 7)
+Ples collected 360 from main pot
+MathisKcr collected 401 from side pot 1
+*** SUMMARY ***
+Total pot 761 | No rake
+Board: [2c Ac Js 7c 7h]
+Seat 1: MathisKcr (small blind) showed [As 4d] and won 401 with Two pairs : Aces and 7
+Seat 2: Ples (big blind) showed [Ah Tc] and won 360 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4444358464851935233-7-1766265408 - Holdem no limit (15/30) - 2025/12/20 21:16:48 UTC
+Table: 'Expresso(1034782842)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (401)
+Seat 2: Ples (360)
+Seat 3: monster59430 (739)
+*** ANTE/BLINDS ***
+Ples posts small blind 15
+monster59430 posts big blind 30
+Dealt to MathisKcr [9c Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Ples calls 45
+monster59430 calls 30
+*** FLOP *** [Ac 7s Jd]
+Ples checks
+monster59430 bets 30
+MathisKcr raises 60 to 90
+Ples folds
+monster59430 calls 60
+*** TURN *** [Ac 7s Jd][2c]
+monster59430 bets 90
+MathisKcr raises 161 to 251 and is all-in
+monster59430 calls 161
+*** RIVER *** [Ac 7s Jd 2c][7h]
+*** SHOW DOWN ***
+monster59430 shows [9h Js] (Two pairs : Jacks and 7)
+MathisKcr shows [9c Ad] (Two pairs : Aces and 7)
+MathisKcr collected 862 from pot
+*** SUMMARY ***
+Total pot 862 | No rake
+Board: [Ac 7s Jd 2c 7h]
+Seat 1: MathisKcr (button) showed [9c Ad] and won 862 with Two pairs : Aces and 7
+Seat 3: monster59430 (big blind) showed [9h Js] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4444358464851935233-8-1766265450 - Holdem no limit (20/40) - 2025/12/20 21:17:30 UTC
+Table: 'Expresso(1034782842)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (862)
+Seat 2: Ples (300)
+Seat 3: monster59430 (338)
+*** ANTE/BLINDS ***
+monster59430 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Qd 7s]
+*** PRE-FLOP *** 
+Ples raises 80 to 120
+monster59430 folds
+MathisKcr calls 80
+*** FLOP *** [8c 2h 4d]
+MathisKcr checks
+Ples checks
+*** TURN *** [8c 2h 4d][9d]
+MathisKcr checks
+Ples bets 169
+MathisKcr calls 169
+*** RIVER *** [8c 2h 4d 9d][6d]
+MathisKcr checks
+Ples bets 11 and is all-in
+MathisKcr calls 11
+*** SHOW DOWN ***
+MathisKcr shows [Qd 7s] (High card : Queen)
+Ples shows [9s Kc] (One pair : 9)
+Ples collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8c 2h 4d 9d 6d]
+Seat 1: MathisKcr (big blind) showed [Qd 7s] and lost with High card : Queen
+Seat 2: Ples (button) showed [9s Kc] and won 620 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4444358464851935233-9-1766265500 - Holdem no limit (20/40) - 2025/12/20 21:18:20 UTC
+Table: 'Expresso(1034782842)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (562)
+Seat 2: Ples (620)
+Seat 3: monster59430 (318)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Ples posts big blind 40
+Dealt to MathisKcr [Td 2s]
+*** PRE-FLOP *** 
+monster59430 raises 80 to 120
+MathisKcr folds
+Ples calls 80
+*** FLOP *** [7d Jc Js]
+Ples bets 500 and is all-in
+monster59430 calls 198 and is all-in
+*** TURN *** [7d Jc Js][7s]
+*** RIVER *** [7d Jc Js 7s][2c]
+*** SHOW DOWN ***
+monster59430 shows [Ah Kc] (Two pairs : Jacks and 7)
+Ples shows [7c 9d] (Full of 7 and Jacks)
+Ples collected 958 from pot
+*** SUMMARY ***
+Total pot 958 | No rake
+Board: [7d Jc Js 7s 2c]
+Seat 2: Ples (big blind) showed [7c 9d] and won 958 with Full of 7 and Jacks
+Seat 3: monster59430 (button) showed [Ah Kc] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4444358464851935233-10-1766265521 - Holdem no limit (30/60) - 2025/12/20 21:18:41 UTC
+Table: 'Expresso(1034782842)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (542)
+Seat 2: Ples (958)
+*** ANTE/BLINDS ***
+Ples posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Th 7s]
+*** PRE-FLOP *** 
+Ples calls 30
+MathisKcr checks
+*** FLOP *** [Jd Td 8c]
+MathisKcr bets 482 and is all-in
+Ples folds
+MathisKcr collected 602 from pot
+*** SUMMARY ***
+Total pot 602 | No rake
+Board: [Jd Td 8c]
+Seat 1: MathisKcr (big blind) won 602
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4444358464851935233-11-1766265548 - Holdem no limit (30/60) - 2025/12/20 21:19:08 UTC
+Table: 'Expresso(1034782842)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (602)
+Seat 2: Ples (898)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Ples posts big blind 60
+Dealt to MathisKcr [Ah Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+Ples folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: MathisKcr (small blind) (button) won 180
+
+

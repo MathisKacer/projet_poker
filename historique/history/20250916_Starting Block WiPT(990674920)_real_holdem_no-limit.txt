@@ -1,0 +1,703 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4254916382367416321-1-1758035735 - Holdem no limit (10/20) - 2025/09/16 15:15:35 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Gourou Roti0 (1500)
+Seat 2: MathisKcr (1500)
+Seat 3: Breizhatao64 (1500)
+Seat 4: julinho57 (1500)
+Seat 5: Yoyoleterro (1500)
+Seat 6: MaDJack63 (1500)
+*** ANTE/BLINDS ***
+MaDJack63 posts small blind 10
+Gourou Roti0 posts big blind 20
+Dealt to MathisKcr [5c 6s]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Breizhatao64 folds
+julinho57 raises 70 to 90
+Yoyoleterro calls 90
+MaDJack63 calls 80
+Gourou Roti0 calls 70
+MathisKcr folds
+*** FLOP *** [2h 6d 3h]
+MaDJack63 checks
+Gourou Roti0 checks
+julinho57 bets 133
+Yoyoleterro folds
+MaDJack63 folds
+Gourou Roti0 folds
+julinho57 collected 513 from pot
+*** SUMMARY ***
+Total pot 513 | No rake
+Board: [2h 6d 3h]
+Seat 4: julinho57 won 513
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4254916382367416321-2-1758035775 - Holdem no limit (10/20) - 2025/09/16 15:16:15 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Gourou Roti0 (1410)
+Seat 2: MathisKcr (1480)
+Seat 3: Breizhatao64 (1500)
+Seat 4: julinho57 (1790)
+Seat 5: Yoyoleterro (1410)
+Seat 6: MaDJack63 (1410)
+*** ANTE/BLINDS ***
+Gourou Roti0 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5s 2d]
+*** PRE-FLOP *** 
+Breizhatao64 calls 20
+julinho57 calls 20
+Yoyoleterro calls 20
+MaDJack63 calls 20
+Gourou Roti0 raises 40 to 60
+MathisKcr folds
+Breizhatao64 calls 40
+julinho57 calls 40
+Yoyoleterro calls 40
+MaDJack63 calls 40
+*** FLOP *** [3h 9h 2c]
+Gourou Roti0 checks
+Breizhatao64 checks
+julinho57 checks
+Yoyoleterro bets 20
+MaDJack63 folds
+Gourou Roti0 calls 20
+Breizhatao64 calls 20
+julinho57 calls 20
+*** TURN *** [3h 9h 2c][9d]
+Gourou Roti0 checks
+Breizhatao64 checks
+julinho57 checks
+Yoyoleterro bets 20
+Gourou Roti0 folds
+Breizhatao64 calls 20
+julinho57 folds
+*** RIVER *** [3h 9h 2c 9d][Jc]
+Breizhatao64 checks
+Yoyoleterro bets 20
+Breizhatao64 calls 20
+*** SHOW DOWN ***
+Yoyoleterro shows [4h 5d] (One pair : 9)
+Breizhatao64 shows [Js Kc] (Two pairs : Jacks and 9)
+Breizhatao64 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [3h 9h 2c 9d Jc]
+Seat 3: Breizhatao64 showed [Js Kc] and won 480 with Two pairs : Jacks and 9
+Seat 5: Yoyoleterro showed [4h 5d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4254916382367416321-3-1758035844 - Holdem no limit (15/30) - 2025/09/16 15:17:24 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Gourou Roti0 (1330)
+Seat 2: MathisKcr (1460)
+Seat 3: Breizhatao64 (1860)
+Seat 4: julinho57 (1710)
+Seat 5: Yoyoleterro (1290)
+Seat 6: MaDJack63 (1350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Breizhatao64 posts big blind 30
+Dealt to MathisKcr [Ks Kc]
+*** PRE-FLOP *** 
+julinho57 raises 45 to 75
+Yoyoleterro calls 75
+MaDJack63 folds
+Gourou Roti0 folds
+MathisKcr raises 120 to 195
+Breizhatao64 folds
+julinho57 calls 120
+Yoyoleterro calls 120
+*** FLOP *** [Qd Jc 7h]
+MathisKcr bets 1265 and is all-in
+julinho57 calls 1265
+Yoyoleterro folds
+*** TURN *** [Qd Jc 7h][6d]
+*** RIVER *** [Qd Jc 7h 6d][6c]
+*** SHOW DOWN ***
+julinho57 shows [7c Ac] (Two pairs : 7 and 6)
+MathisKcr shows [Ks Kc] (Two pairs : Kings and 6)
+MathisKcr collected 3145 from pot
+*** SUMMARY ***
+Total pot 3145 | No rake
+Board: [Qd Jc 7h 6d 6c]
+Seat 2: MathisKcr (small blind) showed [Ks Kc] and won 3145 with Two pairs : Kings and 6
+Seat 4: julinho57 showed [7c Ac] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4254916382367416321-4-1758035903 - Holdem no limit (15/30) - 2025/09/16 15:18:23 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Gourou Roti0 (1330)
+Seat 2: MathisKcr (3145)
+Seat 3: Breizhatao64 (1830)
+Seat 4: julinho57 (250)
+Seat 5: Yoyoleterro (1095)
+Seat 6: MaDJack63 (1350)
+*** ANTE/BLINDS ***
+Breizhatao64 posts small blind 15
+julinho57 posts big blind 30
+Dealt to MathisKcr [3h 9c]
+*** PRE-FLOP *** 
+Yoyoleterro raises 30 to 60
+MaDJack63 folds
+Gourou Roti0 raises 120 to 180
+MathisKcr folds
+Breizhatao64 folds
+julinho57 raises 70 to 250 and is all-in
+Yoyoleterro calls 190
+Gourou Roti0 calls 70
+*** FLOP *** [Kc Qd 7c]
+Yoyoleterro bets 845 and is all-in
+Gourou Roti0 calls 845
+*** TURN *** [Kc Qd 7c][Ac]
+*** RIVER *** [Kc Qd 7c Ac][6s]
+*** SHOW DOWN ***
+Yoyoleterro shows [9s Qc] (One pair : Queens)
+Gourou Roti0 shows [As Ts] (One pair : Aces)
+julinho57 shows [8c Jc] (Flush Ace high)
+julinho57 collected 765 from main pot
+Gourou Roti0 collected 1690 from side pot 1
+*** SUMMARY ***
+Total pot 2455 | No rake
+Board: [Kc Qd 7c Ac 6s]
+Seat 1: Gourou Roti0 showed [As Ts] and won 1690 with One pair : Aces
+Seat 4: julinho57 (big blind) showed [8c Jc] and won 765 with Flush Ace high
+Seat 5: Yoyoleterro showed [9s Qc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4254916382367416321-5-1758035937 - Holdem no limit (20/40) - 2025/09/16 15:18:57 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Gourou Roti0 (1925)
+Seat 2: MathisKcr (3145)
+Seat 3: Breizhatao64 (1815)
+Seat 4: julinho57 (765)
+Seat 6: MaDJack63 (1350)
+*** ANTE/BLINDS ***
+julinho57 posts small blind 20
+MaDJack63 posts big blind 40
+Dealt to MathisKcr [Ks Jh]
+*** PRE-FLOP *** 
+Gourou Roti0 folds
+MathisKcr raises 80 to 120
+Breizhatao64 folds
+julinho57 folds
+MaDJack63 calls 80
+*** FLOP *** [7d Qh 4c]
+MaDJack63 checks
+MathisKcr checks
+*** TURN *** [7d Qh 4c][4d]
+MaDJack63 checks
+MathisKcr checks
+*** RIVER *** [7d Qh 4c 4d][7s]
+MaDJack63 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MaDJack63 shows [Jd 3s] (Two pairs : 7 and 4)
+MathisKcr shows [Ks Jh] (Two pairs : 7 and 4)
+MathisKcr collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [7d Qh 4c 4d 7s]
+Seat 2: MathisKcr showed [Ks Jh] and won 260 with Two pairs : 7 and 4
+Seat 6: MaDJack63 (big blind) showed [Jd 3s] and lost with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4254916382367416321-6-1758035974 - Holdem no limit (20/40) - 2025/09/16 15:19:34 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Gourou Roti0 (1925)
+Seat 2: MathisKcr (3285)
+Seat 3: Breizhatao64 (1815)
+Seat 4: julinho57 (745)
+Seat 6: MaDJack63 (1230)
+*** ANTE/BLINDS ***
+MaDJack63 posts small blind 20
+Gourou Roti0 posts big blind 40
+Dealt to MathisKcr [2d 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Breizhatao64 folds
+julinho57 calls 40
+MaDJack63 raises 1190 to 1230 and is all-in
+Gourou Roti0 folds
+julinho57 folds
+MaDJack63 collected 1310 from pot
+*** SUMMARY ***
+Total pot 1310 | No rake
+Seat 6: MaDJack63 (small blind) won 1310
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4254916382367416321-7-1758035992 - Holdem no limit (20/40) - 2025/09/16 15:19:52 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Gourou Roti0 (1885)
+Seat 2: MathisKcr (3285)
+Seat 3: Breizhatao64 (1815)
+Seat 4: julinho57 (705)
+Seat 6: MaDJack63 (1310)
+*** ANTE/BLINDS ***
+Gourou Roti0 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3d Qc]
+*** PRE-FLOP *** 
+Breizhatao64 folds
+julinho57 calls 40
+MaDJack63 calls 40
+Gourou Roti0 raises 1845 to 1885 and is all-in
+MathisKcr folds
+julinho57 calls 665 and is all-in
+MaDJack63 folds
+*** FLOP *** [Th Ks Ah]
+*** TURN *** [Th Ks Ah][3s]
+*** RIVER *** [Th Ks Ah 3s][6c]
+*** SHOW DOWN ***
+julinho57 shows [Qh Ts] (One pair : Tens)
+Gourou Roti0 shows [7c Kc] (One pair : Kings)
+Gourou Roti0 collected 2670 from pot
+*** SUMMARY ***
+Total pot 2670 | No rake
+Board: [Th Ks Ah 3s 6c]
+Seat 1: Gourou Roti0 (small blind) showed [7c Kc] and won 2670 with One pair : Kings
+Seat 4: julinho57 showed [Qh Ts] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4254916382367416321-8-1758036013 - Holdem no limit (30/60) - 2025/09/16 15:20:13 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Gourou Roti0 (2670)
+Seat 2: MathisKcr (3245)
+Seat 3: Breizhatao64 (1815)
+Seat 6: MaDJack63 (1270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Breizhatao64 posts big blind 60
+Dealt to MathisKcr [8c 4s]
+*** PRE-FLOP *** 
+MaDJack63 calls 60
+Gourou Roti0 calls 60
+MathisKcr calls 30
+Breizhatao64 raises 1755 to 1815 and is all-in
+MaDJack63 folds
+Gourou Roti0 folds
+MathisKcr folds
+Breizhatao64 collected 1995 from pot
+*** SUMMARY ***
+Total pot 1995 | No rake
+Seat 3: Breizhatao64 (big blind) won 1995
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4254916382367416321-9-1758036040 - Holdem no limit (30/60) - 2025/09/16 15:20:40 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Gourou Roti0 (2610)
+Seat 2: MathisKcr (3185)
+Seat 3: Breizhatao64 (1995)
+Seat 6: MaDJack63 (1210)
+*** ANTE/BLINDS ***
+Breizhatao64 posts small blind 30
+MaDJack63 posts big blind 60
+Dealt to MathisKcr [Th 2h]
+*** PRE-FLOP *** 
+Gourou Roti0 folds
+MathisKcr calls 60
+Breizhatao64 calls 30
+MaDJack63 checks
+*** FLOP *** [3s 9d 6c]
+Breizhatao64 checks
+MaDJack63 bets 1150 and is all-in
+MathisKcr folds
+Breizhatao64 folds
+MaDJack63 collected 1330 from pot
+*** SUMMARY ***
+Total pot 1330 | No rake
+Board: [3s 9d 6c]
+Seat 6: MaDJack63 (big blind) won 1330
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4254916382367416321-10-1758036075 - Holdem no limit (30/60) - 2025/09/16 15:21:15 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Gourou Roti0 (2610)
+Seat 2: MathisKcr (3125)
+Seat 3: Breizhatao64 (1935)
+Seat 6: MaDJack63 (1330)
+*** ANTE/BLINDS ***
+MaDJack63 posts small blind 30
+Gourou Roti0 posts big blind 60
+Dealt to MathisKcr [3d 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Breizhatao64 folds
+MaDJack63 calls 30
+Gourou Roti0 raises 412 to 472
+MaDJack63 folds
+Gourou Roti0 collected 532 from pot
+*** SUMMARY ***
+Total pot 532 | No rake
+Seat 1: Gourou Roti0 (big blind) won 532
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4254916382367416321-11-1758036102 - Holdem no limit (40/80) - 2025/09/16 15:21:42 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Gourou Roti0 (2670)
+Seat 2: MathisKcr (3125)
+Seat 3: Breizhatao64 (1935)
+Seat 6: MaDJack63 (1270)
+*** ANTE/BLINDS ***
+Gourou Roti0 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [6c 7h]
+*** PRE-FLOP *** 
+Breizhatao64 folds
+MaDJack63 raises 1190 to 1270 and is all-in
+Gourou Roti0 folds
+MathisKcr folds
+MaDJack63 collected 1390 from pot
+*** SUMMARY ***
+Total pot 1390 | No rake
+Seat 6: MaDJack63 (button) won 1390
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4254916382367416321-12-1758036120 - Holdem no limit (40/80) - 2025/09/16 15:22:00 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Gourou Roti0 (2630)
+Seat 2: MathisKcr (3045)
+Seat 3: Breizhatao64 (1935)
+Seat 6: MaDJack63 (1390)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Breizhatao64 posts big blind 80
+Dealt to MathisKcr [3s Jd]
+*** PRE-FLOP *** 
+MaDJack63 calls 80
+Gourou Roti0 calls 80
+MathisKcr calls 40
+Breizhatao64 checks
+*** FLOP *** [3h Tc 4s]
+MathisKcr checks
+Breizhatao64 checks
+MaDJack63 bets 1310 and is all-in
+Gourou Roti0 calls 1310
+MathisKcr folds
+Breizhatao64 folds
+*** TURN *** [3h Tc 4s][Td]
+*** RIVER *** [3h Tc 4s Td][Ks]
+*** SHOW DOWN ***
+Gourou Roti0 shows [2s Ts] (Trips of Tens)
+MaDJack63 shows [6h Th] (Trips of Tens)
+MaDJack63 collected 2940 from pot
+*** SUMMARY ***
+Total pot 2940 | No rake
+Board: [3h Tc 4s Td Ks]
+Seat 1: Gourou Roti0 (button) showed [2s Ts] and lost with Trips of Tens
+Seat 6: MaDJack63 showed [6h Th] and won 2940 with Trips of Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4254916382367416321-13-1758036155 - Holdem no limit (40/80) - 2025/09/16 15:22:35 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Gourou Roti0 (1240)
+Seat 2: MathisKcr (2965)
+Seat 3: Breizhatao64 (1855)
+Seat 6: MaDJack63 (2940)
+*** ANTE/BLINDS ***
+Breizhatao64 posts small blind 40
+MaDJack63 posts big blind 80
+Dealt to MathisKcr [Th 6h]
+*** PRE-FLOP *** 
+Gourou Roti0 raises 1160 to 1240 and is all-in
+MathisKcr folds
+Breizhatao64 folds
+MaDJack63 folds
+Gourou Roti0 collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | No rake
+Seat 1: Gourou Roti0 won 1360
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4254916382367416321-14-1758036181 - Holdem no limit (40/80) - 2025/09/16 15:23:01 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Gourou Roti0 (1360)
+Seat 2: MathisKcr (2965)
+Seat 3: Breizhatao64 (1815)
+Seat 6: MaDJack63 (2860)
+*** ANTE/BLINDS ***
+MaDJack63 posts small blind 40
+Gourou Roti0 posts big blind 80
+Dealt to MathisKcr [4d 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Breizhatao64 calls 80
+MaDJack63 calls 40
+Gourou Roti0 raises 1280 to 1360 and is all-in
+Breizhatao64 folds
+MaDJack63 calls 1280
+*** FLOP *** [9h Qd 8h]
+*** TURN *** [9h Qd 8h][4h]
+*** RIVER *** [9h Qd 8h 4h][Jh]
+*** SHOW DOWN ***
+MaDJack63 shows [7c Td] (Straight Queen high)
+Gourou Roti0 shows [Kh 7h] (Flush King high)
+Gourou Roti0 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Board: [9h Qd 8h 4h Jh]
+Seat 1: Gourou Roti0 (big blind) showed [Kh 7h] and won 2800 with Flush King high
+Seat 6: MaDJack63 (small blind) showed [7c Td] and lost with Straight Queen high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4254916382367416321-15-1758036206 - Holdem no limit (60/120) - 2025/09/16 15:23:26 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Gourou Roti0 (2800)
+Seat 2: MathisKcr (2965)
+Seat 3: Breizhatao64 (1735)
+Seat 6: MaDJack63 (1500)
+*** ANTE/BLINDS ***
+Gourou Roti0 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [3c 7s]
+*** PRE-FLOP *** 
+Breizhatao64 folds
+MaDJack63 calls 120
+Gourou Roti0 raises 360 to 480
+MathisKcr folds
+MaDJack63 calls 360
+*** FLOP *** [5h 7c Tc]
+Gourou Roti0 bets 378
+MaDJack63 folds
+Gourou Roti0 collected 1458 from pot
+*** SUMMARY ***
+Total pot 1458 | No rake
+Board: [5h 7c Tc]
+Seat 1: Gourou Roti0 (small blind) won 1458
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4254916382367416321-16-1758036228 - Holdem no limit (60/120) - 2025/09/16 15:23:48 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Gourou Roti0 (3400)
+Seat 2: MathisKcr (2845)
+Seat 3: Breizhatao64 (1735)
+Seat 6: MaDJack63 (1020)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 60
+Breizhatao64 posts big blind 120
+Dealt to MathisKcr [7h 4s]
+*** PRE-FLOP *** 
+MaDJack63 raises 900 to 1020 and is all-in
+Gourou Roti0 calls 1020
+MathisKcr folds
+Breizhatao64 raises 715 to 1735 and is all-in
+Gourou Roti0 calls 715
+*** FLOP *** [Qd 8h 9c]
+*** TURN *** [Qd 8h 9c][6c]
+*** RIVER *** [Qd 8h 9c 6c][Kc]
+*** SHOW DOWN ***
+Breizhatao64 shows [Qs Ac] (One pair : Queens)
+MaDJack63 shows [5d Td] (High card : King)
+Gourou Roti0 shows [Kd 6h] (Two pairs : Kings and 6)
+Gourou Roti0 collected 4550 from pot
+*** SUMMARY ***
+Total pot 4550 | No rake
+Board: [Qd 8h 9c 6c Kc]
+Seat 1: Gourou Roti0 (button) showed [Kd 6h] and won 4550 with Two pairs : Kings and 6
+Seat 3: Breizhatao64 (big blind) showed [Qs Ac] and lost with One pair : Queens
+Seat 6: MaDJack63 showed [5d Td] and lost with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4254916382367416321-17-1758036243 - Holdem no limit (60/120) - 2025/09/16 15:24:03 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Gourou Roti0 (6215)
+Seat 2: MathisKcr (2785)
+*** ANTE/BLINDS ***
+Gourou Roti0 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [Th 6d]
+*** PRE-FLOP *** 
+Gourou Roti0 calls 60
+MathisKcr checks
+*** FLOP *** [4s 2h 7c]
+MathisKcr checks
+Gourou Roti0 bets 156
+MathisKcr folds
+Gourou Roti0 collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [4s 2h 7c]
+Seat 1: Gourou Roti0 (small blind) (button) won 396
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4254916382367416321-18-1758036262 - Holdem no limit (60/120) - 2025/09/16 15:24:22 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Gourou Roti0 (6335)
+Seat 2: MathisKcr (2665)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 60
+Gourou Roti0 posts big blind 120
+Dealt to MathisKcr [9c 2c]
+*** PRE-FLOP *** 
+MathisKcr calls 60
+Gourou Roti0 raises 6215 to 6335 and is all-in
+MathisKcr folds
+Gourou Roti0 collected 6455 from pot
+*** SUMMARY ***
+Total pot 6455 | No rake
+Seat 1: Gourou Roti0 (big blind) won 6455
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4254916382367416321-19-1758036288 - Holdem no limit (10/60/120) - 2025/09/16 15:24:48 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Gourou Roti0 (6455)
+Seat 2: MathisKcr (2545)
+*** ANTE/BLINDS ***
+Gourou Roti0 posts ante 10
+MathisKcr posts ante 10
+Gourou Roti0 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [As Kd]
+*** PRE-FLOP *** 
+Gourou Roti0 folds
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 2: MathisKcr (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4254916382367416321-20-1758036294 - Holdem no limit (10/60/120) - 2025/09/16 15:24:54 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Gourou Roti0 (6385)
+Seat 2: MathisKcr (2615)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 10
+Gourou Roti0 posts ante 10
+MathisKcr posts small blind 60
+Gourou Roti0 posts big blind 120
+Dealt to MathisKcr [5h 7s]
+*** PRE-FLOP *** 
+MathisKcr calls 60
+Gourou Roti0 raises 260 to 380
+MathisKcr folds
+Gourou Roti0 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 1: Gourou Roti0 (big blind) won 520
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4254916382367416321-21-1758036308 - Holdem no limit (10/60/120) - 2025/09/16 15:25:08 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Gourou Roti0 (6515)
+Seat 2: MathisKcr (2485)
+*** ANTE/BLINDS ***
+Gourou Roti0 posts ante 10
+MathisKcr posts ante 10
+Gourou Roti0 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [Kc Ah]
+*** PRE-FLOP *** 
+Gourou Roti0 raises 260 to 380
+MathisKcr raises 2095 to 2475 and is all-in
+Gourou Roti0 calls 2095
+*** FLOP *** [8d 2d Kh]
+*** TURN *** [8d 2d Kh][4h]
+*** RIVER *** [8d 2d Kh 4h][3c]
+*** SHOW DOWN ***
+Gourou Roti0 shows [Ac Js] (High card : Ace)
+MathisKcr shows [Kc Ah] (One pair : Kings)
+MathisKcr collected 4970 from pot
+*** SUMMARY ***
+Total pot 4970 | No rake
+Board: [8d 2d Kh 4h 3c]
+Seat 1: Gourou Roti0 (small blind) (button) showed [Ac Js] and lost with High card : Ace
+Seat 2: MathisKcr (big blind) showed [Kc Ah] and won 4970 with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4254916382367416321-22-1758036322 - Holdem no limit (10/60/120) - 2025/09/16 15:25:22 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Gourou Roti0 (4030)
+Seat 2: MathisKcr (4970)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 10
+Gourou Roti0 posts ante 10
+MathisKcr posts small blind 60
+Gourou Roti0 posts big blind 120
+Dealt to MathisKcr [7h Qd]
+*** PRE-FLOP *** 
+MathisKcr calls 60
+Gourou Roti0 raises 260 to 380
+MathisKcr calls 260
+*** FLOP *** [2d 3s 4h]
+Gourou Roti0 bets 780
+MathisKcr folds
+Gourou Roti0 collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [2d 3s 4h]
+Seat 1: Gourou Roti0 (big blind) won 1560
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4254916382367416321-23-1758036336 - Holdem no limit (10/60/120) - 2025/09/16 15:25:36 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Gourou Roti0 (4420)
+Seat 2: MathisKcr (4580)
+*** ANTE/BLINDS ***
+Gourou Roti0 posts ante 10
+MathisKcr posts ante 10
+Gourou Roti0 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [Qs 4d]
+*** PRE-FLOP *** 
+Gourou Roti0 folds
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 2: MathisKcr (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4254916382367416321-24-1758036341 - Holdem no limit (10/60/120) - 2025/09/16 15:25:41 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Gourou Roti0 (4350)
+Seat 2: MathisKcr (4650)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 10
+Gourou Roti0 posts ante 10
+MathisKcr posts small blind 60
+Gourou Roti0 posts big blind 120
+Dealt to MathisKcr [4c 5d]
+*** PRE-FLOP *** 
+MathisKcr calls 60
+Gourou Roti0 checks
+*** FLOP *** [Qs 8h 4h]
+Gourou Roti0 bets 120
+MathisKcr raises 240 to 360
+Gourou Roti0 raises 511 to 871
+MathisKcr calls 511
+*** TURN *** [Qs 8h 4h][9s]
+Gourou Roti0 bets 1301
+MathisKcr folds
+Gourou Roti0 collected 3303 from pot
+*** SUMMARY ***
+Total pot 3303 | No rake
+Board: [Qs 8h 4h 9s]
+Seat 1: Gourou Roti0 (big blind) won 3303
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4254916382367416321-25-1758036355 - Holdem no limit (10/60/120) - 2025/09/16 15:25:55 UTC
+Table: 'Starting Block WiPT(990674920)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Gourou Roti0 (5351)
+Seat 2: MathisKcr (3649)
+*** ANTE/BLINDS ***
+Gourou Roti0 posts ante 10
+MathisKcr posts ante 10
+Gourou Roti0 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [Qd 9c]
+*** PRE-FLOP *** 
+Gourou Roti0 raises 5221 to 5341 and is all-in
+MathisKcr calls 3519 and is all-in
+*** FLOP *** [Qs Kc 9d]
+*** TURN *** [Qs Kc 9d][3h]
+*** RIVER *** [Qs Kc 9d 3h][Jd]
+*** SHOW DOWN ***
+MathisKcr shows [Qd 9c] (Two pairs : Queens and 9)
+Gourou Roti0 shows [Qh Th] (Straight King high)
+Gourou Roti0 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Board: [Qs Kc 9d 3h Jd]
+Seat 1: Gourou Roti0 (small blind) (button) showed [Qh Th] and won 9000 with Straight King high
+Seat 2: MathisKcr (big blind) showed [Qd 9c] and lost with Two pairs : Queens and 9
+
+

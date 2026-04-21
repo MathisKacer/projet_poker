@@ -1,0 +1,174 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4557635074777939969-1-1770678740 - Holdem no limit (10/20) - 2026/02/09 23:12:20 UTC
+Table: 'Expresso(1061157108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: YoAnN9344 (500)
+Seat 3: Vicmathys26 (500)
+*** ANTE/BLINDS ***
+YoAnN9344 posts small blind 10
+Vicmathys26 posts big blind 20
+Dealt to MathisKcr [Ac Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+YoAnN9344 calls 50
+Vicmathys26 raises 40 to 100
+MathisKcr raises 400 to 500 and is all-in
+YoAnN9344 folds
+Vicmathys26 calls 400 and is all-in
+*** FLOP *** [8d 3h Td]
+*** TURN *** [8d 3h Td][5h]
+*** RIVER *** [8d 3h Td 5h][Qh]
+*** SHOW DOWN ***
+Vicmathys26 shows [6h 6d] (One pair : 6)
+MathisKcr shows [Ac Qs] (One pair : Queens)
+MathisKcr collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Board: [8d 3h Td 5h Qh]
+Seat 1: MathisKcr (button) showed [Ac Qs] and won 1060 with One pair : Queens
+Seat 3: Vicmathys26 (big blind) showed [6h 6d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4557635074777939969-2-1770678778 - Holdem no limit (10/20) - 2026/02/09 23:12:58 UTC
+Table: 'Expresso(1061157108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1060)
+Seat 2: YoAnN9344 (440)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+YoAnN9344 posts big blind 20
+Dealt to MathisKcr [Th 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 50
+YoAnN9344 calls 30
+*** FLOP *** [Ah 2h 4s]
+YoAnN9344 bets 100
+MathisKcr calls 100
+*** TURN *** [Ah 2h 4s][Ac]
+YoAnN9344 bets 290 and is all-in
+MathisKcr folds
+YoAnN9344 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Ah 2h 4s Ac]
+Seat 2: YoAnN9344 (big blind) won 590
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4557635074777939969-3-1770678793 - Holdem no limit (10/20) - 2026/02/09 23:13:13 UTC
+Table: 'Expresso(1061157108)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (910)
+Seat 2: YoAnN9344 (590)
+*** ANTE/BLINDS ***
+YoAnN9344 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Td 5s]
+*** PRE-FLOP *** 
+YoAnN9344 raises 570 to 590 and is all-in
+MathisKcr folds
+YoAnN9344 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Seat 2: YoAnN9344 (small blind) (button) won 610
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4557635074777939969-4-1770678798 - Holdem no limit (10/20) - 2026/02/09 23:13:18 UTC
+Table: 'Expresso(1061157108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (890)
+Seat 2: YoAnN9344 (610)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+YoAnN9344 posts big blind 20
+Dealt to MathisKcr [Ah 4s]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 50
+YoAnN9344 calls 30
+*** FLOP *** [8d 6d Qh]
+YoAnN9344 checks
+MathisKcr bets 60
+YoAnN9344 calls 60
+*** TURN *** [8d 6d Qh][Kd]
+YoAnN9344 bets 143
+MathisKcr folds
+YoAnN9344 collected 363 from pot
+*** SUMMARY ***
+Total pot 363 | No rake
+Board: [8d 6d Qh Kd]
+Seat 2: YoAnN9344 (big blind) won 363
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4557635074777939969-5-1770678818 - Holdem no limit (10/20) - 2026/02/09 23:13:38 UTC
+Table: 'Expresso(1061157108)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (780)
+Seat 2: YoAnN9344 (720)
+*** ANTE/BLINDS ***
+YoAnN9344 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Td Jd]
+*** PRE-FLOP *** 
+YoAnN9344 calls 10
+MathisKcr raises 30 to 50
+YoAnN9344 calls 30
+*** FLOP *** [3h 7c 4d]
+MathisKcr bets 60
+YoAnN9344 calls 60
+*** TURN *** [3h 7c 4d][2d]
+MathisKcr bets 77
+YoAnN9344 calls 77
+*** RIVER *** [3h 7c 4d 2d][3d]
+MathisKcr bets 131
+YoAnN9344 calls 131
+*** SHOW DOWN ***
+YoAnN9344 shows [Ah 4c] (Two pairs : 4 and 3)
+MathisKcr shows [Td Jd] (Flush Jack high)
+MathisKcr collected 636 from pot
+*** SUMMARY ***
+Total pot 636 | No rake
+Board: [3h 7c 4d 2d 3d]
+Seat 1: MathisKcr (big blind) showed [Td Jd] and won 636 with Flush Jack high
+Seat 2: YoAnN9344 (small blind) (button) showed [Ah 4c] and lost with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4557635074777939969-6-1770678846 - Holdem no limit (15/30) - 2026/02/09 23:14:06 UTC
+Table: 'Expresso(1061157108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1098)
+Seat 2: YoAnN9344 (402)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+YoAnN9344 posts big blind 30
+Dealt to MathisKcr [2d 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 90
+YoAnN9344 calls 60
+*** FLOP *** [5c Ks Jd]
+YoAnN9344 bets 312 and is all-in
+MathisKcr folds
+YoAnN9344 collected 492 from pot
+*** SUMMARY ***
+Total pot 492 | No rake
+Board: [5c Ks Jd]
+Seat 2: YoAnN9344 (big blind) won 492
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4557635074777939969-7-1770678857 - Holdem no limit (15/30) - 2026/02/09 23:14:17 UTC
+Table: 'Expresso(1061157108)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (1008)
+Seat 2: YoAnN9344 (492)
+*** ANTE/BLINDS ***
+YoAnN9344 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9d Js]
+*** PRE-FLOP *** 
+YoAnN9344 raises 462 to 492 and is all-in
+MathisKcr calls 462
+*** FLOP *** [Th 8d 9c]
+*** TURN *** [Th 8d 9c][7c]
+*** RIVER *** [Th 8d 9c 7c][Td]
+*** SHOW DOWN ***
+YoAnN9344 shows [4s Ad] (One pair : Tens)
+MathisKcr shows [9d Js] (Straight Jack high)
+MathisKcr collected 984 from pot
+*** SUMMARY ***
+Total pot 984 | No rake
+Board: [Th 8d 9c 7c Td]
+Seat 1: MathisKcr (big blind) showed [9d Js] and won 984 with Straight Jack high
+Seat 2: YoAnN9344 (small blind) (button) showed [4s Ad] and lost with One pair : Tens
+
+

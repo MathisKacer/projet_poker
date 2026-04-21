@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666193134848311297-1-1774701795 - Holdem no limit (10/20) - 2026/03/28 12:43:15 UTC
+Table: 'Expresso Nitro(1086432751)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: la th42211 (300)
+Seat 3: Alvaro_21 (300)
+*** ANTE/BLINDS ***
+la th42211 posts small blind 10
+Alvaro_21 posts big blind 20
+Dealt to MathisKcr [Ac 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+la th42211 calls 30
+Alvaro_21 folds
+*** FLOP *** [2s Js Ks]
+la th42211 bets 20
+MathisKcr folds
+la th42211 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2s Js Ks]
+Seat 2: la th42211 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666193134848311297-2-1774701821 - Holdem no limit (10/20) - 2026/03/28 12:43:41 UTC
+Table: 'Expresso Nitro(1086432751)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (260)
+Seat 2: la th42211 (360)
+Seat 3: Alvaro_21 (280)
+*** ANTE/BLINDS ***
+Alvaro_21 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qh 8c]
+*** PRE-FLOP *** 
+la th42211 raises 20 to 40
+Alvaro_21 folds
+MathisKcr raises 220 to 260 and is all-in
+la th42211 calls 220
+*** FLOP *** [4s Td 3h]
+*** TURN *** [4s Td 3h][Ac]
+*** RIVER *** [4s Td 3h Ac][9h]
+*** SHOW DOWN ***
+MathisKcr shows [Qh 8c] (High card : Ace)
+la th42211 shows [Ts Th] (Trips of Tens)
+la th42211 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [4s Td 3h Ac 9h]
+Seat 1: MathisKcr (big blind) showed [Qh 8c] and lost with High card : Ace
+Seat 2: la th42211 (button) showed [Ts Th] and won 530 with Trips of Tens
+
+

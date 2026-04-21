@@ -1,0 +1,184 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558457002669375489-1-1770717272 - Holdem no limit (10/20) - 2026/02/10 09:54:32 UTC
+Table: 'Expresso Nitro(1061348478)#0' 3-max (real money) Seat #2 is the button
+Seat 1: BSD 13 (300)
+Seat 2: KlynnSharp (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+BSD 13 posts big blind 20
+Dealt to MathisKcr [Qh Tc]
+*** PRE-FLOP *** 
+KlynnSharp folds
+MathisKcr raises 20 to 40
+BSD 13 raises 260 to 300 and is all-in
+MathisKcr calls 260 and is all-in
+*** FLOP *** [9d Kd 5c]
+*** TURN *** [9d Kd 5c][3h]
+*** RIVER *** [9d Kd 5c 3h][Jh]
+*** SHOW DOWN ***
+BSD 13 shows [5s Ks] (Two pairs : Kings and 5)
+MathisKcr shows [Qh Tc] (Straight King high)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9d Kd 5c 3h Jh]
+Seat 1: BSD 13 (big blind) showed [5s Ks] and lost with Two pairs : Kings and 5
+Seat 3: MathisKcr (small blind) showed [Qh Tc] and won 600 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558457002669375489-2-1770717289 - Holdem no limit (10/20) - 2026/02/10 09:54:49 UTC
+Table: 'Expresso Nitro(1061348478)#0' 3-max (real money) Seat #2 is the button
+Seat 2: KlynnSharp (300)
+Seat 3: MathisKcr (600)
+*** ANTE/BLINDS ***
+KlynnSharp posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ks 8h]
+*** PRE-FLOP *** 
+KlynnSharp folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558457002669375489-3-1770717295 - Holdem no limit (10/20) - 2026/02/10 09:54:55 UTC
+Table: 'Expresso Nitro(1061348478)#0' 3-max (real money) Seat #3 is the button
+Seat 2: KlynnSharp (290)
+Seat 3: MathisKcr (610)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+KlynnSharp posts big blind 20
+Dealt to MathisKcr [Js Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+KlynnSharp folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: MathisKcr (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558457002669375489-4-1770717302 - Holdem no limit (10/20) - 2026/02/10 09:55:02 UTC
+Table: 'Expresso Nitro(1061348478)#0' 3-max (real money) Seat #2 is the button
+Seat 2: KlynnSharp (270)
+Seat 3: MathisKcr (630)
+*** ANTE/BLINDS ***
+KlynnSharp posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9h Jh]
+*** PRE-FLOP *** 
+KlynnSharp raises 20 to 40
+MathisKcr raises 20 to 60
+KlynnSharp calls 20
+*** FLOP *** [Qs 7c 2d]
+MathisKcr bets 60
+KlynnSharp calls 60
+*** TURN *** [Qs 7c 2d][Kh]
+MathisKcr checks
+KlynnSharp bets 150 and is all-in
+MathisKcr folds
+KlynnSharp collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [Qs 7c 2d Kh]
+Seat 2: KlynnSharp (small blind) (button) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558457002669375489-5-1770717322 - Holdem no limit (10/20) - 2026/02/10 09:55:22 UTC
+Table: 'Expresso Nitro(1061348478)#0' 3-max (real money) Seat #3 is the button
+Seat 2: KlynnSharp (390)
+Seat 3: MathisKcr (510)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+KlynnSharp posts big blind 20
+Dealt to MathisKcr [4h Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 50
+KlynnSharp calls 30
+*** FLOP *** [7c 3c 9c]
+KlynnSharp checks
+MathisKcr bets 50
+KlynnSharp calls 50
+*** TURN *** [7c 3c 9c][6s]
+KlynnSharp checks
+MathisKcr checks
+*** RIVER *** [7c 3c 9c 6s][Jh]
+KlynnSharp checks
+MathisKcr bets 100
+KlynnSharp folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [7c 3c 9c 6s Jh]
+Seat 3: MathisKcr (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4558457002669375489-6-1770717350 - Holdem no limit (15/30) - 2026/02/10 09:55:50 UTC
+Table: 'Expresso Nitro(1061348478)#0' 3-max (real money) Seat #2 is the button
+Seat 2: KlynnSharp (290)
+Seat 3: MathisKcr (610)
+*** ANTE/BLINDS ***
+KlynnSharp posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5d Kh]
+*** PRE-FLOP *** 
+KlynnSharp folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4558457002669375489-7-1770717356 - Holdem no limit (15/30) - 2026/02/10 09:55:56 UTC
+Table: 'Expresso Nitro(1061348478)#0' 3-max (real money) Seat #3 is the button
+Seat 2: KlynnSharp (275)
+Seat 3: MathisKcr (625)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+KlynnSharp posts big blind 30
+Dealt to MathisKcr [3h Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 45 to 75
+KlynnSharp calls 45
+*** FLOP *** [Ts Ac Jh]
+KlynnSharp checks
+MathisKcr checks
+*** TURN *** [Ts Ac Jh][4d]
+KlynnSharp bets 98
+MathisKcr folds
+KlynnSharp collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [Ts Ac Jh 4d]
+Seat 2: KlynnSharp (big blind) won 248
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4558457002669375489-8-1770717372 - Holdem no limit (15/30) - 2026/02/10 09:56:12 UTC
+Table: 'Expresso Nitro(1061348478)#0' 3-max (real money) Seat #2 is the button
+Seat 2: KlynnSharp (350)
+Seat 3: MathisKcr (550)
+*** ANTE/BLINDS ***
+KlynnSharp posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad 6d]
+*** PRE-FLOP *** 
+KlynnSharp raises 30 to 60
+MathisKcr raises 120 to 180
+KlynnSharp calls 120
+*** FLOP *** [7h Ts 3s]
+MathisKcr bets 370 and is all-in
+KlynnSharp calls 170 and is all-in
+*** TURN *** [7h Ts 3s][5h]
+*** RIVER *** [7h Ts 3s 5h][7c]
+*** SHOW DOWN ***
+KlynnSharp shows [Js Qh] (One pair : 7)
+MathisKcr shows [Ad 6d] (One pair : 7)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7h Ts 3s 5h 7c]
+Seat 2: KlynnSharp (small blind) (button) showed [Js Qh] and lost with One pair : 7
+Seat 3: MathisKcr (big blind) showed [Ad 6d] and won 900 with One pair : 7
+
+

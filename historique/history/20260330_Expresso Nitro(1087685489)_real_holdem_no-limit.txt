@@ -1,0 +1,505 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671573603588767745-1-1774906198 - Holdem no limit (10/20) - 2026/03/30 21:29:58 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #2 is the button
+Seat 1: eleossa (300)
+Seat 2: Chinono (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+eleossa posts big blind 20
+Dealt to MathisKcr [Jd 2h]
+*** PRE-FLOP *** 
+Chinono calls 20
+MathisKcr folds
+eleossa checks
+*** FLOP *** [9s Kd 3c]
+eleossa checks
+Chinono checks
+*** TURN *** [9s Kd 3c][Qc]
+eleossa checks
+Chinono bets 20
+eleossa calls 20
+*** RIVER *** [9s Kd 3c Qc][Ks]
+eleossa checks
+Chinono checks
+*** SHOW DOWN ***
+eleossa shows [Ts 6d] (One pair : Kings)
+Chinono shows [6c Th] (One pair : Kings)
+Chinono collected 45 from pot
+eleossa collected 45 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9s Kd 3c Qc Ks]
+Seat 1: eleossa (big blind) showed [Ts 6d] and won 45 with One pair : Kings
+Seat 2: Chinono (button) showed [6c Th] and won 45 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671573603588767745-2-1774906218 - Holdem no limit (10/20) - 2026/03/30 21:30:18 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #3 is the button
+Seat 1: eleossa (305)
+Seat 2: Chinono (305)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+eleossa posts small blind 10
+Chinono posts big blind 20
+Dealt to MathisKcr [5d Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+eleossa folds
+Chinono calls 20
+*** FLOP *** [Kd Qc 7s]
+Chinono checks
+MathisKcr bets 32
+Chinono calls 32
+*** TURN *** [Kd Qc 7s][As]
+Chinono checks
+MathisKcr bets 77
+Chinono calls 77
+*** RIVER *** [Kd Qc 7s As][Ts]
+Chinono checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [5d Kh] (One pair : Kings)
+Chinono shows [5c Ad] (One pair : Aces)
+Chinono collected 308 from pot
+*** SUMMARY ***
+Total pot 308 | No rake
+Board: [Kd Qc 7s As Ts]
+Seat 2: Chinono (big blind) showed [5c Ad] and won 308 with One pair : Aces
+Seat 3: MathisKcr (button) showed [5d Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671573603588767745-3-1774906245 - Holdem no limit (10/20) - 2026/03/30 21:30:45 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #1 is the button
+Seat 1: eleossa (295)
+Seat 2: Chinono (464)
+Seat 3: MathisKcr (141)
+*** ANTE/BLINDS ***
+Chinono posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2s Kc]
+*** PRE-FLOP *** 
+eleossa folds
+Chinono calls 10
+MathisKcr raises 121 to 141 and is all-in
+Chinono folds
+MathisKcr collected 161 from pot
+*** SUMMARY ***
+Total pot 161 | No rake
+Seat 3: MathisKcr (big blind) won 161
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4671573603588767745-4-1774906259 - Holdem no limit (15/30) - 2026/03/30 21:30:59 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #2 is the button
+Seat 1: eleossa (295)
+Seat 2: Chinono (444)
+Seat 3: MathisKcr (161)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+eleossa posts big blind 30
+Dealt to MathisKcr [Kc 3s]
+*** PRE-FLOP *** 
+Chinono calls 30
+MathisKcr raises 131 to 161 and is all-in
+eleossa folds
+Chinono folds
+MathisKcr collected 221 from pot
+*** SUMMARY ***
+Total pot 221 | No rake
+Seat 3: MathisKcr (small blind) won 221
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4671573603588767745-5-1774906274 - Holdem no limit (15/30) - 2026/03/30 21:31:14 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #3 is the button
+Seat 1: eleossa (265)
+Seat 2: Chinono (414)
+Seat 3: MathisKcr (221)
+*** ANTE/BLINDS ***
+eleossa posts small blind 15
+Chinono posts big blind 30
+Dealt to MathisKcr [6c 7s]
+*** PRE-FLOP *** 
+MathisKcr folds
+eleossa calls 15
+Chinono checks
+*** FLOP *** [2h 8h Td]
+eleossa checks
+Chinono checks
+*** TURN *** [2h 8h Td][Ah]
+eleossa checks
+Chinono bets 30
+eleossa folds
+Chinono collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [2h 8h Td Ah]
+Seat 2: Chinono (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4671573603588767745-6-1774906295 - Holdem no limit (15/30) - 2026/03/30 21:31:35 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #1 is the button
+Seat 1: eleossa (235)
+Seat 2: Chinono (444)
+Seat 3: MathisKcr (221)
+*** ANTE/BLINDS ***
+Chinono posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9c Th]
+*** PRE-FLOP *** 
+eleossa calls 30
+Chinono folds
+MathisKcr checks
+*** FLOP *** [7d 6c Ks]
+MathisKcr checks
+eleossa checks
+*** TURN *** [7d 6c Ks][4d]
+MathisKcr checks
+eleossa checks
+*** RIVER *** [7d 6c Ks 4d][Kd]
+MathisKcr checks
+eleossa checks
+*** SHOW DOWN ***
+MathisKcr shows [9c Th] (One pair : Kings)
+eleossa shows [Jd 3c] (One pair : Kings)
+eleossa collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [7d 6c Ks 4d Kd]
+Seat 1: eleossa (button) showed [Jd 3c] and won 75 with One pair : Kings
+Seat 3: MathisKcr (big blind) showed [9c Th] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4671573603588767745-7-1774906318 - Holdem no limit (20/40) - 2026/03/30 21:31:58 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #2 is the button
+Seat 1: eleossa (280)
+Seat 2: Chinono (429)
+Seat 3: MathisKcr (191)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+eleossa posts big blind 40
+Dealt to MathisKcr [4s 5h]
+*** PRE-FLOP *** 
+Chinono folds
+MathisKcr folds
+eleossa collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: eleossa (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4671573603588767745-8-1774906325 - Holdem no limit (20/40) - 2026/03/30 21:32:05 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #3 is the button
+Seat 1: eleossa (300)
+Seat 2: Chinono (429)
+Seat 3: MathisKcr (171)
+*** ANTE/BLINDS ***
+eleossa posts small blind 20
+Chinono posts big blind 40
+Dealt to MathisKcr [7h 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+eleossa calls 20
+Chinono checks
+*** FLOP *** [6s As 5d]
+eleossa checks
+Chinono checks
+*** TURN *** [6s As 5d][6h]
+eleossa checks
+Chinono checks
+*** RIVER *** [6s As 5d 6h][8s]
+eleossa bets 80
+Chinono folds
+eleossa collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [6s As 5d 6h 8s]
+Seat 1: eleossa (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4671573603588767745-9-1774906343 - Holdem no limit (20/40) - 2026/03/30 21:32:23 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #1 is the button
+Seat 1: eleossa (340)
+Seat 2: Chinono (389)
+Seat 3: MathisKcr (171)
+*** ANTE/BLINDS ***
+Chinono posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [2h 4d]
+*** PRE-FLOP *** 
+eleossa calls 40
+Chinono raises 80 to 120
+MathisKcr folds
+eleossa calls 80
+*** FLOP *** [8c 4s Qs]
+Chinono bets 98
+eleossa folds
+Chinono collected 378 from pot
+*** SUMMARY ***
+Total pot 378 | No rake
+Board: [8c 4s Qs]
+Seat 2: Chinono (small blind) won 378
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4671573603588767745-10-1774906360 - Holdem no limit (20/40) - 2026/03/30 21:32:40 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #2 is the button
+Seat 1: eleossa (220)
+Seat 2: Chinono (549)
+Seat 3: MathisKcr (131)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+eleossa posts big blind 40
+Dealt to MathisKcr [3s Tc]
+*** PRE-FLOP *** 
+Chinono calls 40
+MathisKcr folds
+eleossa checks
+*** FLOP *** [Qh Qc Ks]
+eleossa checks
+Chinono checks
+*** TURN *** [Qh Qc Ks][Jd]
+eleossa checks
+Chinono checks
+*** RIVER *** [Qh Qc Ks Jd][8h]
+eleossa bets 65
+Chinono folds
+eleossa collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [Qh Qc Ks Jd 8h]
+Seat 1: eleossa (big blind) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4671573603588767745-11-1774906374 - Holdem no limit (20/40) - 2026/03/30 21:32:54 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #3 is the button
+Seat 1: eleossa (280)
+Seat 2: Chinono (509)
+Seat 3: MathisKcr (111)
+*** ANTE/BLINDS ***
+eleossa posts small blind 20
+Chinono posts big blind 40
+Dealt to MathisKcr [8c Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 71 to 111 and is all-in
+eleossa folds
+Chinono folds
+MathisKcr collected 171 from pot
+*** SUMMARY ***
+Total pot 171 | No rake
+Seat 3: MathisKcr (button) won 171
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4671573603588767745-12-1774906384 - Holdem no limit (30/60) - 2026/03/30 21:33:04 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #1 is the button
+Seat 1: eleossa (260)
+Seat 2: Chinono (469)
+Seat 3: MathisKcr (171)
+*** ANTE/BLINDS ***
+Chinono posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [9s 3h]
+*** PRE-FLOP *** 
+eleossa folds
+Chinono raises 60 to 120
+MathisKcr raises 51 to 171 and is all-in
+Chinono calls 51
+*** FLOP *** [7h 8c 6d]
+*** TURN *** [7h 8c 6d][5c]
+*** RIVER *** [7h 8c 6d 5c][7c]
+*** SHOW DOWN ***
+Chinono shows [Jd Ac] (One pair : 7)
+MathisKcr shows [9s 3h] (Straight 9 high)
+MathisKcr collected 342 from pot
+*** SUMMARY ***
+Total pot 342 | No rake
+Board: [7h 8c 6d 5c 7c]
+Seat 2: Chinono (small blind) showed [Jd Ac] and lost with One pair : 7
+Seat 3: MathisKcr (big blind) showed [9s 3h] and won 342 with Straight 9 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4671573603588767745-13-1774906411 - Holdem no limit (30/60) - 2026/03/30 21:33:31 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #2 is the button
+Seat 1: eleossa (260)
+Seat 2: Chinono (298)
+Seat 3: MathisKcr (342)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+eleossa posts big blind 60
+Dealt to MathisKcr [Ah 4s]
+*** PRE-FLOP *** 
+Chinono calls 60
+MathisKcr raises 282 to 342 and is all-in
+eleossa folds
+Chinono folds
+MathisKcr collected 462 from pot
+*** SUMMARY ***
+Total pot 462 | No rake
+Seat 3: MathisKcr (small blind) won 462
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4671573603588767745-14-1774906421 - Holdem no limit (30/60) - 2026/03/30 21:33:41 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #3 is the button
+Seat 1: eleossa (200)
+Seat 2: Chinono (238)
+Seat 3: MathisKcr (462)
+*** ANTE/BLINDS ***
+eleossa posts small blind 30
+Chinono posts big blind 60
+Dealt to MathisKcr [Ks 7h]
+*** PRE-FLOP *** 
+MathisKcr raises 402 to 462 and is all-in
+eleossa folds
+Chinono folds
+MathisKcr collected 552 from pot
+*** SUMMARY ***
+Total pot 552 | No rake
+Seat 3: MathisKcr (button) won 552
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4671573603588767745-15-1774906435 - Holdem no limit (30/60) - 2026/03/30 21:33:55 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #1 is the button
+Seat 1: eleossa (170)
+Seat 2: Chinono (178)
+Seat 3: MathisKcr (552)
+*** ANTE/BLINDS ***
+Chinono posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [6s Ad]
+*** PRE-FLOP *** 
+eleossa folds
+Chinono folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4671573603588767745-16-1774906441 - Holdem no limit (40/80) - 2026/03/30 21:34:01 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #2 is the button
+Seat 1: eleossa (170)
+Seat 2: Chinono (148)
+Seat 3: MathisKcr (582)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+eleossa posts big blind 80
+Dealt to MathisKcr [6c 6d]
+*** PRE-FLOP *** 
+Chinono folds
+MathisKcr raises 502 to 582 and is all-in
+eleossa folds
+MathisKcr collected 662 from pot
+*** SUMMARY ***
+Total pot 662 | No rake
+Seat 3: MathisKcr (small blind) won 662
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4671573603588767745-17-1774906456 - Holdem no limit (40/80) - 2026/03/30 21:34:16 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #3 is the button
+Seat 1: eleossa (90)
+Seat 2: Chinono (148)
+Seat 3: MathisKcr (662)
+*** ANTE/BLINDS ***
+eleossa posts small blind 40
+Chinono posts big blind 80
+Dealt to MathisKcr [Qh 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 582 to 662 and is all-in
+eleossa calls 50 and is all-in
+Chinono folds
+*** FLOP *** [Jd 9s Jc]
+*** TURN *** [Jd 9s Jc][3h]
+*** RIVER *** [Jd 9s Jc 3h][2s]
+*** SHOW DOWN ***
+eleossa shows [4c 9h] (Two pairs : Jacks and 9)
+MathisKcr shows [Qh 8c] (One pair : Jacks)
+MathisKcr collected 572 from side pot 1
+eleossa collected 260 from main pot
+*** SUMMARY ***
+Total pot 832 | No rake
+Board: [Jd 9s Jc 3h 2s]
+Seat 1: eleossa (small blind) showed [4c 9h] and won 260 with Two pairs : Jacks and 9
+Seat 3: MathisKcr (button) showed [Qh 8c] and won 572 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4671573603588767745-18-1774906470 - Holdem no limit (40/80) - 2026/03/30 21:34:30 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #1 is the button
+Seat 1: eleossa (260)
+Seat 2: Chinono (68)
+Seat 3: MathisKcr (572)
+*** ANTE/BLINDS ***
+Chinono posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [9s Jd]
+*** PRE-FLOP *** 
+eleossa folds
+Chinono calls 28 and is all-in
+*** FLOP *** [Ks 3c 7c]
+*** TURN *** [Ks 3c 7c][Ac]
+*** RIVER *** [Ks 3c 7c Ac][Th]
+*** SHOW DOWN ***
+Chinono shows [8c 2d] (High card : Ace)
+MathisKcr shows [9s Jd] (High card : Ace)
+MathisKcr collected 148 from pot
+*** SUMMARY ***
+Total pot 148 | No rake
+Board: [Ks 3c 7c Ac Th]
+Seat 2: Chinono (small blind) showed [8c 2d] and lost with High card : Ace
+Seat 3: MathisKcr (big blind) showed [9s Jd] and won 148 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4671573603588767745-19-1774906482 - Holdem no limit (40/80) - 2026/03/30 21:34:42 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #3 is the button
+Seat 1: eleossa (260)
+Seat 3: MathisKcr (640)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+eleossa posts big blind 80
+Dealt to MathisKcr [2d Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 560 to 640 and is all-in
+eleossa folds
+MathisKcr collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 3: MathisKcr (small blind) (button) won 720
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4671573603588767745-20-1774906493 - Holdem no limit (40/80) - 2026/03/30 21:34:53 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #1 is the button
+Seat 1: eleossa (180)
+Seat 3: MathisKcr (720)
+*** ANTE/BLINDS ***
+eleossa posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Ks 7h]
+*** PRE-FLOP *** 
+eleossa folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4671573603588767745-21-1774906499 - Holdem no limit (50/100) - 2026/03/30 21:34:59 UTC
+Table: 'Expresso Nitro(1087685489)#0' 3-max (real money) Seat #3 is the button
+Seat 1: eleossa (140)
+Seat 3: MathisKcr (760)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 50
+eleossa posts big blind 100
+Dealt to MathisKcr [3d 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 660 to 760 and is all-in
+eleossa calls 40 and is all-in
+*** FLOP *** [7d 8d Ad]
+*** TURN *** [7d 8d Ad][3h]
+*** RIVER *** [7d 8d Ad 3h][Jh]
+*** SHOW DOWN ***
+eleossa shows [5d 5c] (One pair : 5)
+MathisKcr shows [3d 6d] (Flush Ace high)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 8d Ad 3h Jh]
+Seat 1: eleossa (big blind) showed [5d 5c] and lost with One pair : 5
+Seat 3: MathisKcr (small blind) (button) showed [3d 6d] and won 900 with Flush Ace high
+
+

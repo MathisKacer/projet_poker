@@ -1,0 +1,81 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4399095578340884481-1-1764338615 - Holdem no limit (10/20) - 2025/11/28 14:03:35 UTC
+Table: 'Expresso(1024244255)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: yanndu08 (500)
+Seat 3: Naked93 (500)
+*** ANTE/BLINDS ***
+yanndu08 posts small blind 10
+Naked93 posts big blind 20
+Dealt to MathisKcr [2c Ks]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+yanndu08 calls 10
+Naked93 checks
+*** FLOP *** [4d Kc 3s]
+yanndu08 checks
+Naked93 checks
+MathisKcr bets 40
+yanndu08 folds
+Naked93 folds
+MathisKcr collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [4d Kc 3s]
+Seat 1: MathisKcr (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4399095578340884481-2-1764338662 - Holdem no limit (10/20) - 2025/11/28 14:04:22 UTC
+Table: 'Expresso(1024244255)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (540)
+Seat 2: yanndu08 (480)
+Seat 3: Naked93 (480)
+*** ANTE/BLINDS ***
+Naked93 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c Th]
+*** PRE-FLOP *** 
+yanndu08 raises 50 to 70
+Naked93 raises 410 to 480 and is all-in
+MathisKcr folds
+yanndu08 calls 410 and is all-in
+*** FLOP *** [Jh 4s 3h]
+*** TURN *** [Jh 4s 3h][9s]
+*** RIVER *** [Jh 4s 3h 9s][Ad]
+*** SHOW DOWN ***
+Naked93 shows [Kh Qd] (High card : Ace)
+yanndu08 shows [8c Ac] (One pair : Aces)
+yanndu08 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [Jh 4s 3h 9s Ad]
+Seat 2: yanndu08 (button) showed [8c Ac] and won 980 with One pair : Aces
+Seat 3: Naked93 (small blind) showed [Kh Qd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4399095578340884481-3-1764338684 - Holdem no limit (10/20) - 2025/11/28 14:04:44 UTC
+Table: 'Expresso(1024244255)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (520)
+Seat 2: yanndu08 (980)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+yanndu08 posts big blind 20
+Dealt to MathisKcr [Ad Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+yanndu08 calls 40
+*** FLOP *** [2c 5d 6h]
+yanndu08 bets 920 and is all-in
+MathisKcr calls 460 and is all-in
+*** TURN *** [2c 5d 6h][7h]
+*** RIVER *** [2c 5d 6h 7h][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [Ad Jc] (High card : Ace)
+yanndu08 shows [9h 9d] (One pair : 9)
+yanndu08 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [2c 5d 6h 7h Qs]
+Seat 1: MathisKcr (small blind) (button) showed [Ad Jc] and lost with High card : Ace
+Seat 2: yanndu08 (big blind) showed [9h 9d] and won 1500 with One pair : 9
+
+

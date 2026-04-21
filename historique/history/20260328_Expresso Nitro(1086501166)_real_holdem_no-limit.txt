@@ -1,0 +1,132 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666486975035867137-1-1774712236 - Holdem no limit (10/20) - 2026/03/28 15:37:16 UTC
+Table: 'Expresso Nitro(1086501166)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ox laurax xo (300)
+Seat 2: Beluga-Lent6 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+ox laurax xo posts big blind 20
+Dealt to MathisKcr [3d 9c]
+*** PRE-FLOP *** 
+Beluga-Lent6 raises 20 to 40
+MathisKcr folds
+ox laurax xo calls 20
+*** FLOP *** [8d Qd Kc]
+ox laurax xo bets 50
+Beluga-Lent6 folds
+ox laurax xo collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [8d Qd Kc]
+Seat 1: ox laurax xo (big blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666486975035867137-2-1774712262 - Holdem no limit (10/20) - 2026/03/28 15:37:42 UTC
+Table: 'Expresso Nitro(1086501166)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ox laurax xo (350)
+Seat 2: Beluga-Lent6 (260)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+ox laurax xo posts small blind 10
+Beluga-Lent6 posts big blind 20
+Dealt to MathisKcr [8d Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+ox laurax xo calls 30
+Beluga-Lent6 calls 20
+*** FLOP *** [8c 5d 5c]
+ox laurax xo bets 20
+Beluga-Lent6 raises 160 to 180
+MathisKcr raises 70 to 250 and is all-in
+ox laurax xo folds
+Beluga-Lent6 calls 40 and is all-in
+*** TURN *** [8c 5d 5c][Jd]
+*** RIVER *** [8c 5d 5c Jd][9s]
+*** SHOW DOWN ***
+Beluga-Lent6 shows [Jc 8s] (Two pairs : Jacks and 8)
+MathisKcr shows [8d Kd] (Two pairs : 8 and 5)
+MathisKcr collected 30 from side pot 1
+Beluga-Lent6 collected 580 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [8c 5d 5c Jd 9s]
+Seat 2: Beluga-Lent6 (big blind) showed [Jc 8s] and won 580 with Two pairs : Jacks and 8
+Seat 3: MathisKcr (button) showed [8d Kd] and won 30 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666486975035867137-3-1774712296 - Holdem no limit (15/30) - 2026/03/28 15:38:16 UTC
+Table: 'Expresso Nitro(1086501166)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ox laurax xo (290)
+Seat 2: Beluga-Lent6 (580)
+Seat 3: MathisKcr (30)
+*** ANTE/BLINDS ***
+Beluga-Lent6 posts small blind 15
+MathisKcr posts big blind 30 and is all-in
+Dealt to MathisKcr [4d Qs]
+*** PRE-FLOP *** 
+ox laurax xo folds
+Beluga-Lent6 calls 15
+*** FLOP *** [6s Kh Ks]
+*** TURN *** [6s Kh Ks][8c]
+*** RIVER *** [6s Kh Ks 8c][6c]
+*** SHOW DOWN ***
+Beluga-Lent6 shows [5d 2c] (Two pairs : Kings and 6)
+MathisKcr shows [4d Qs] (Two pairs : Kings and 6)
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6s Kh Ks 8c 6c]
+Seat 2: Beluga-Lent6 (small blind) showed [5d 2c] and lost with Two pairs : Kings and 6
+Seat 3: MathisKcr (big blind) showed [4d Qs] and won 60 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666486975035867137-4-1774712308 - Holdem no limit (15/30) - 2026/03/28 15:38:28 UTC
+Table: 'Expresso Nitro(1086501166)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ox laurax xo (290)
+Seat 2: Beluga-Lent6 (550)
+Seat 3: MathisKcr (60)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+ox laurax xo posts big blind 30
+Dealt to MathisKcr [3c 8h]
+*** PRE-FLOP *** 
+Beluga-Lent6 folds
+MathisKcr folds
+ox laurax xo collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: ox laurax xo (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666486975035867137-5-1774712316 - Holdem no limit (15/30) - 2026/03/28 15:38:36 UTC
+Table: 'Expresso Nitro(1086501166)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ox laurax xo (305)
+Seat 2: Beluga-Lent6 (550)
+Seat 3: MathisKcr (45)
+*** ANTE/BLINDS ***
+ox laurax xo posts small blind 15
+Beluga-Lent6 posts big blind 30
+Dealt to MathisKcr [Qs Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 15 to 45 and is all-in
+ox laurax xo calls 30
+Beluga-Lent6 calls 15
+*** FLOP *** [8h 6h Ah]
+ox laurax xo checks
+Beluga-Lent6 checks
+*** TURN *** [8h 6h Ah][9h]
+ox laurax xo checks
+Beluga-Lent6 bets 505 and is all-in
+ox laurax xo folds
+*** RIVER *** [8h 6h Ah 9h][7d]
+*** SHOW DOWN ***
+MathisKcr shows [Qs Qc] (One pair : Queens)
+Beluga-Lent6 shows [3h 7c] (Flush Ace high)
+Beluga-Lent6 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [8h 6h Ah 9h 7d]
+Seat 2: Beluga-Lent6 (big blind) showed [3h 7c] and won 640 with Flush Ace high
+Seat 3: MathisKcr (button) showed [Qs Qc] and lost with One pair : Queens
+
+

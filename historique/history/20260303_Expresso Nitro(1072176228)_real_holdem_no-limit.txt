@@ -1,0 +1,395 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4604961834808639489-1-1772523865 - Holdem no limit (10/20) - 2026/03/03 07:44:25 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: El_Vaquilla (300)
+Seat 3: F.Burgundy (300)
+*** ANTE/BLINDS ***
+El_Vaquilla posts small blind 10
+F.Burgundy posts big blind 20
+Dealt to MathisKcr [7h Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+El_Vaquilla folds
+F.Burgundy calls 20
+*** FLOP *** [5d 3c 2c]
+F.Burgundy checks
+MathisKcr bets 40
+F.Burgundy calls 40
+*** TURN *** [5d 3c 2c][Tc]
+F.Burgundy checks
+MathisKcr checks
+*** RIVER *** [5d 3c 2c Tc][Ts]
+F.Burgundy checks
+MathisKcr checks
+*** SHOW DOWN ***
+F.Burgundy shows [6c Qh] (One pair : Tens)
+MathisKcr shows [7h Ah] (One pair : Tens)
+MathisKcr collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [5d 3c 2c Tc Ts]
+Seat 1: MathisKcr (button) showed [7h Ah] and won 170 with One pair : Tens
+Seat 3: F.Burgundy (big blind) showed [6c Qh] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4604961834808639489-2-1772523905 - Holdem no limit (10/20) - 2026/03/03 07:45:05 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (390)
+Seat 2: El_Vaquilla (290)
+Seat 3: F.Burgundy (220)
+*** ANTE/BLINDS ***
+F.Burgundy posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2h Th]
+*** PRE-FLOP *** 
+El_Vaquilla calls 20
+F.Burgundy raises 200 to 220 and is all-in
+MathisKcr folds
+El_Vaquilla calls 200
+*** FLOP *** [Tc Js Kd]
+*** TURN *** [Tc Js Kd][7h]
+*** RIVER *** [Tc Js Kd 7h][8s]
+*** SHOW DOWN ***
+El_Vaquilla shows [8h As] (One pair : 8)
+F.Burgundy shows [Qd Qs] (One pair : Queens)
+F.Burgundy collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [Tc Js Kd 7h 8s]
+Seat 2: El_Vaquilla (button) showed [8h As] and lost with One pair : 8
+Seat 3: F.Burgundy (small blind) showed [Qd Qs] and won 460 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4604961834808639489-3-1772523929 - Holdem no limit (15/30) - 2026/03/03 07:45:29 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (370)
+Seat 2: El_Vaquilla (70)
+Seat 3: F.Burgundy (460)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+El_Vaquilla posts big blind 30
+Dealt to MathisKcr [9s 4s]
+*** PRE-FLOP *** 
+F.Burgundy raises 430 to 460 and is all-in
+MathisKcr folds
+El_Vaquilla calls 40 and is all-in
+*** FLOP *** [6h Kd 5d]
+*** TURN *** [6h Kd 5d][Qd]
+*** RIVER *** [6h Kd 5d Qd][9d]
+*** SHOW DOWN ***
+El_Vaquilla shows [8c Qh] (One pair : Queens)
+F.Burgundy shows [3d Js] (Flush King high)
+F.Burgundy collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | No rake
+Board: [6h Kd 5d Qd 9d]
+Seat 2: El_Vaquilla (big blind) showed [8c Qh] and lost with One pair : Queens
+Seat 3: F.Burgundy (button) showed [3d Js] and won 545 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4604961834808639489-4-1772523942 - Holdem no limit (15/30) - 2026/03/03 07:45:42 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (355)
+Seat 3: F.Burgundy (545)
+*** ANTE/BLINDS ***
+F.Burgundy posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8d 6s]
+*** PRE-FLOP *** 
+F.Burgundy raises 515 to 545 and is all-in
+MathisKcr folds
+F.Burgundy collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Seat 3: F.Burgundy (small blind) (button) won 575
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4604961834808639489-5-1772523948 - Holdem no limit (15/30) - 2026/03/03 07:45:48 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (325)
+Seat 3: F.Burgundy (575)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+F.Burgundy posts big blind 30
+Dealt to MathisKcr [Jc 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+F.Burgundy collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: F.Burgundy (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4604961834808639489-6-1772523954 - Holdem no limit (15/30) - 2026/03/03 07:45:54 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (310)
+Seat 3: F.Burgundy (590)
+*** ANTE/BLINDS ***
+F.Burgundy posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5d Ts]
+*** PRE-FLOP *** 
+F.Burgundy raises 560 to 590 and is all-in
+MathisKcr folds
+F.Burgundy collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 3: F.Burgundy (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4604961834808639489-7-1772523961 - Holdem no limit (15/30) - 2026/03/03 07:46:01 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (280)
+Seat 3: F.Burgundy (620)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+F.Burgundy posts big blind 30
+Dealt to MathisKcr [3c 7d]
+*** PRE-FLOP *** 
+MathisKcr folds
+F.Burgundy collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: F.Burgundy (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4604961834808639489-8-1772523968 - Holdem no limit (15/30) - 2026/03/03 07:46:08 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (265)
+Seat 3: F.Burgundy (635)
+*** ANTE/BLINDS ***
+F.Burgundy posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4h 8s]
+*** PRE-FLOP *** 
+F.Burgundy raises 605 to 635 and is all-in
+MathisKcr folds
+F.Burgundy collected 665 from pot
+*** SUMMARY ***
+Total pot 665 | No rake
+Seat 3: F.Burgundy (small blind) (button) won 665
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4604961834808639489-9-1772523978 - Holdem no limit (15/30) - 2026/03/03 07:46:18 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (235)
+Seat 3: F.Burgundy (665)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+F.Burgundy posts big blind 30
+Dealt to MathisKcr [Ad 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 205 to 235 and is all-in
+F.Burgundy folds
+MathisKcr collected 265 from pot
+*** SUMMARY ***
+Total pot 265 | No rake
+Seat 1: MathisKcr (small blind) (button) won 265
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4604961834808639489-10-1772523986 - Holdem no limit (20/40) - 2026/03/03 07:46:26 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (265)
+Seat 3: F.Burgundy (635)
+*** ANTE/BLINDS ***
+F.Burgundy posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Th 9d]
+*** PRE-FLOP *** 
+F.Burgundy folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4604961834808639489-11-1772523992 - Holdem no limit (20/40) - 2026/03/03 07:46:32 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (285)
+Seat 3: F.Burgundy (615)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+F.Burgundy posts big blind 40
+Dealt to MathisKcr [3c 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+F.Burgundy collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: F.Burgundy (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4604961834808639489-12-1772523997 - Holdem no limit (20/40) - 2026/03/03 07:46:37 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (265)
+Seat 3: F.Burgundy (635)
+*** ANTE/BLINDS ***
+F.Burgundy posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ah 5c]
+*** PRE-FLOP *** 
+F.Burgundy raises 595 to 635 and is all-in
+MathisKcr calls 225 and is all-in
+*** FLOP *** [4h Qh Tc]
+*** TURN *** [4h Qh Tc][9d]
+*** RIVER *** [4h Qh Tc 9d][4s]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 5c] (One pair : 4)
+F.Burgundy shows [Ad 3c] (One pair : 4)
+F.Burgundy collected 635 from side pot 1
+MathisKcr collected 265 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4h Qh Tc 9d 4s]
+Seat 1: MathisKcr (big blind) showed [Ah 5c] and won 265 with One pair : 4
+Seat 3: F.Burgundy (small blind) (button) showed [Ad 3c] and won 635 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4604961834808639489-13-1772524008 - Holdem no limit (20/40) - 2026/03/03 07:46:48 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (265)
+Seat 3: F.Burgundy (635)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+F.Burgundy posts big blind 40
+Dealt to MathisKcr [Qs As]
+*** PRE-FLOP *** 
+MathisKcr raises 225 to 265 and is all-in
+F.Burgundy calls 225
+*** FLOP *** [9d 3d 4s]
+*** TURN *** [9d 3d 4s][4c]
+*** RIVER *** [9d 3d 4s 4c][6c]
+*** SHOW DOWN ***
+F.Burgundy shows [Th 2s] (One pair : 4)
+MathisKcr shows [Qs As] (One pair : 4)
+MathisKcr collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [9d 3d 4s 4c 6c]
+Seat 1: MathisKcr (small blind) (button) showed [Qs As] and won 530 with One pair : 4
+Seat 3: F.Burgundy (big blind) showed [Th 2s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4604961834808639489-14-1772524024 - Holdem no limit (20/40) - 2026/03/03 07:47:04 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (530)
+Seat 3: F.Burgundy (370)
+*** ANTE/BLINDS ***
+F.Burgundy posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jd 2d]
+*** PRE-FLOP *** 
+F.Burgundy folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4604961834808639489-15-1772524030 - Holdem no limit (20/40) - 2026/03/03 07:47:10 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (550)
+Seat 3: F.Burgundy (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+F.Burgundy posts big blind 40
+Dealt to MathisKcr [Kc 4h]
+*** PRE-FLOP *** 
+MathisKcr raises 510 to 550 and is all-in
+F.Burgundy folds
+MathisKcr collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 1: MathisKcr (small blind) (button) won 590
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4604961834808639489-16-1772524043 - Holdem no limit (30/60) - 2026/03/03 07:47:23 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (590)
+Seat 3: F.Burgundy (310)
+*** ANTE/BLINDS ***
+F.Burgundy posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qd 6c]
+*** PRE-FLOP *** 
+F.Burgundy folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4604961834808639489-17-1772524048 - Holdem no limit (30/60) - 2026/03/03 07:47:28 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (620)
+Seat 3: F.Burgundy (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+F.Burgundy posts big blind 60
+Dealt to MathisKcr [9s 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+F.Burgundy collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: F.Burgundy (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4604961834808639489-18-1772524055 - Holdem no limit (30/60) - 2026/03/03 07:47:35 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (590)
+Seat 3: F.Burgundy (310)
+*** ANTE/BLINDS ***
+F.Burgundy posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [8c 4c]
+*** PRE-FLOP *** 
+F.Burgundy raises 250 to 310 and is all-in
+MathisKcr folds
+F.Burgundy collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 3: F.Burgundy (small blind) (button) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4604961834808639489-19-1772524062 - Holdem no limit (30/60) - 2026/03/03 07:47:42 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (530)
+Seat 3: F.Burgundy (370)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+F.Burgundy posts big blind 60
+Dealt to MathisKcr [6d 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+F.Burgundy collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: F.Burgundy (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4604961834808639489-20-1772524068 - Holdem no limit (30/60) - 2026/03/03 07:47:48 UTC
+Table: 'Expresso Nitro(1072176228)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (500)
+Seat 3: F.Burgundy (400)
+*** ANTE/BLINDS ***
+F.Burgundy posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ah 3c]
+*** PRE-FLOP *** 
+F.Burgundy raises 340 to 400 and is all-in
+MathisKcr calls 340
+*** FLOP *** [5d 9c 7h]
+*** TURN *** [5d 9c 7h][6d]
+*** RIVER *** [5d 9c 7h 6d][9s]
+*** SHOW DOWN ***
+F.Burgundy shows [3h Js] (One pair : 9)
+MathisKcr shows [Ah 3c] (One pair : 9)
+MathisKcr collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [5d 9c 7h 6d 9s]
+Seat 1: MathisKcr (big blind) showed [Ah 3c] and won 800 with One pair : 9
+Seat 3: F.Burgundy (small blind) (button) showed [3h Js] and lost with One pair : 9
+
+

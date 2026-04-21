@@ -1,0 +1,226 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668723695219376129-1-1774803383 - Holdem no limit (10/20) - 2026/03/29 16:56:23 UTC
+Table: 'Expresso Nitro(1087021943)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ChanchoCR03 (300)
+Seat 2: reac 4121691 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+ChanchoCR03 posts small blind 10
+reac 4121691 posts big blind 20
+Dealt to MathisKcr [5d 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+ChanchoCR03 calls 10
+reac 4121691 checks
+*** FLOP *** [8h 6h 7h]
+ChanchoCR03 bets 20
+reac 4121691 calls 20
+*** TURN *** [8h 6h 7h][Qh]
+ChanchoCR03 checks
+reac 4121691 checks
+*** RIVER *** [8h 6h 7h Qh][9c]
+ChanchoCR03 checks
+reac 4121691 bets 80
+ChanchoCR03 folds
+reac 4121691 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [8h 6h 7h Qh 9c]
+Seat 2: reac 4121691 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668723695219376129-2-1774803434 - Holdem no limit (10/20) - 2026/03/29 16:57:14 UTC
+Table: 'Expresso Nitro(1087021943)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ChanchoCR03 (260)
+Seat 2: reac 4121691 (340)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+reac 4121691 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8h Qd]
+*** PRE-FLOP *** 
+ChanchoCR03 folds
+reac 4121691 calls 10
+MathisKcr checks
+*** FLOP *** [Ks 2s 4s]
+reac 4121691 checks
+MathisKcr checks
+*** TURN *** [Ks 2s 4s][Qs]
+reac 4121691 checks
+MathisKcr bets 26
+reac 4121691 folds
+MathisKcr collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Ks 2s 4s Qs]
+Seat 3: MathisKcr (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668723695219376129-3-1774803462 - Holdem no limit (15/30) - 2026/03/29 16:57:42 UTC
+Table: 'Expresso Nitro(1087021943)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ChanchoCR03 (260)
+Seat 2: reac 4121691 (320)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+ChanchoCR03 posts big blind 30
+Dealt to MathisKcr [4h Qc]
+*** PRE-FLOP *** 
+reac 4121691 calls 30
+MathisKcr raises 290 to 320 and is all-in
+ChanchoCR03 folds
+reac 4121691 folds
+MathisKcr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: MathisKcr (small blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668723695219376129-4-1774803480 - Holdem no limit (15/30) - 2026/03/29 16:58:00 UTC
+Table: 'Expresso Nitro(1087021943)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ChanchoCR03 (230)
+Seat 2: reac 4121691 (290)
+Seat 3: MathisKcr (380)
+*** ANTE/BLINDS ***
+ChanchoCR03 posts small blind 15
+reac 4121691 posts big blind 30
+Dealt to MathisKcr [Th 8c]
+*** PRE-FLOP *** 
+MathisKcr folds
+ChanchoCR03 raises 200 to 230 and is all-in
+reac 4121691 folds
+ChanchoCR03 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 1: ChanchoCR03 (small blind) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668723695219376129-5-1774803492 - Holdem no limit (15/30) - 2026/03/29 16:58:12 UTC
+Table: 'Expresso Nitro(1087021943)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ChanchoCR03 (260)
+Seat 2: reac 4121691 (260)
+Seat 3: MathisKcr (380)
+*** ANTE/BLINDS ***
+reac 4121691 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3s 9h]
+*** PRE-FLOP *** 
+ChanchoCR03 raises 30 to 60
+reac 4121691 folds
+MathisKcr folds
+ChanchoCR03 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 1: ChanchoCR03 (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668723695219376129-6-1774803507 - Holdem no limit (20/40) - 2026/03/29 16:58:27 UTC
+Table: 'Expresso Nitro(1087021943)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ChanchoCR03 (305)
+Seat 2: reac 4121691 (245)
+Seat 3: MathisKcr (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+ChanchoCR03 posts big blind 40
+Dealt to MathisKcr [Ks Qs]
+*** PRE-FLOP *** 
+reac 4121691 calls 40
+MathisKcr raises 310 to 350 and is all-in
+ChanchoCR03 calls 265 and is all-in
+reac 4121691 folds
+*** FLOP *** [Ah 6h 5d]
+*** TURN *** [Ah 6h 5d][Qh]
+*** RIVER *** [Ah 6h 5d Qh][5c]
+*** SHOW DOWN ***
+ChanchoCR03 shows [Ad Qc] (Two pairs : Aces and Queens)
+MathisKcr shows [Ks Qs] (Two pairs : Queens and 5)
+MathisKcr collected 45 from side pot 1
+ChanchoCR03 collected 650 from main pot
+*** SUMMARY ***
+Total pot 695 | No rake
+Board: [Ah 6h 5d Qh 5c]
+Seat 1: ChanchoCR03 (big blind) showed [Ad Qc] and won 650 with Two pairs : Aces and Queens
+Seat 3: MathisKcr (small blind) showed [Ks Qs] and won 45 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668723695219376129-7-1774803528 - Holdem no limit (20/40) - 2026/03/29 16:58:48 UTC
+Table: 'Expresso Nitro(1087021943)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ChanchoCR03 (650)
+Seat 2: reac 4121691 (205)
+Seat 3: MathisKcr (45)
+*** ANTE/BLINDS ***
+ChanchoCR03 posts small blind 20
+reac 4121691 posts big blind 40
+Dealt to MathisKcr [Kc Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 5 to 45 and is all-in
+ChanchoCR03 calls 25
+reac 4121691 calls 5
+*** FLOP *** [Jc 9c Ad]
+ChanchoCR03 bets 40
+reac 4121691 calls 40
+*** TURN *** [Jc 9c Ad][9s]
+ChanchoCR03 checks
+reac 4121691 checks
+*** RIVER *** [Jc 9c Ad 9s][5s]
+ChanchoCR03 checks
+reac 4121691 checks
+*** SHOW DOWN ***
+reac 4121691 shows [8c 7c] (One pair : 9)
+ChanchoCR03 shows [Td Js] (Two pairs : Jacks and 9)
+MathisKcr shows [Kc Kh] (Two pairs : Kings and 9)
+MathisKcr collected 135 from main pot
+ChanchoCR03 collected 80 from side pot 1
+*** SUMMARY ***
+Total pot 215 | No rake
+Board: [Jc 9c Ad 9s 5s]
+Seat 1: ChanchoCR03 (small blind) showed [Td Js] and won 80 with Two pairs : Jacks and 9
+Seat 2: reac 4121691 (big blind) showed [8c 7c] and lost with One pair : 9
+Seat 3: MathisKcr (button) showed [Kc Kh] and won 135 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4668723695219376129-8-1774803571 - Holdem no limit (30/60) - 2026/03/29 16:59:31 UTC
+Table: 'Expresso Nitro(1087021943)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ChanchoCR03 (645)
+Seat 2: reac 4121691 (120)
+Seat 3: MathisKcr (135)
+*** ANTE/BLINDS ***
+reac 4121691 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Th 4c]
+*** PRE-FLOP *** 
+ChanchoCR03 folds
+reac 4121691 raises 60 to 120 and is all-in
+MathisKcr folds
+reac 4121691 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: reac 4121691 (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4668723695219376129-9-1774803583 - Holdem no limit (30/60) - 2026/03/29 16:59:43 UTC
+Table: 'Expresso Nitro(1087021943)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ChanchoCR03 (645)
+Seat 2: reac 4121691 (180)
+Seat 3: MathisKcr (75)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+ChanchoCR03 posts big blind 60
+Dealt to MathisKcr [Kh 3c]
+*** PRE-FLOP *** 
+reac 4121691 raises 120 to 180 and is all-in
+MathisKcr calls 45 and is all-in
+ChanchoCR03 folds
+*** FLOP *** [3d 2c Kc]
+*** TURN *** [3d 2c Kc][Ad]
+*** RIVER *** [3d 2c Kc Ad][2h]
+*** SHOW DOWN ***
+MathisKcr shows [Kh 3c] (Two pairs : Kings and 3)
+reac 4121691 shows [Jh As] (Two pairs : Aces and 2)
+reac 4121691 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [3d 2c Kc Ad 2h]
+Seat 2: reac 4121691 (button) showed [Jh As] and won 315 with Two pairs : Aces and 2
+Seat 3: MathisKcr (small blind) showed [Kh 3c] and lost with Two pairs : Kings and 3
+
+

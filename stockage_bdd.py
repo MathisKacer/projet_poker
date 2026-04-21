@@ -1,8 +1,15 @@
 import s3fs
+import zipfile
+import os
 
+# Connexion S3
 fs = s3fs.S3FileSystem(client_kwargs={"endpoint_url": "https://minio.lab.sspcloud.fr"})
 
-# Uploader tout un dossier
-import os
-for fichier in os.listdir("mon_dossier/"):
-    fs.put(f"mon_dossier/{fichier}", f"mathiskacer2/diffusion/mon_dossier/{fichier}")
+# Télécharger le zip depuis S3
+fs.get("mathiskacer2/diffusion/projet_poker/history.zip", "history.zip")
+
+# Dézipper
+with zipfile.ZipFile("history.zip", "r") as z:
+    z.extractall("historique/")
+
+print(os.listdir("historique/"))

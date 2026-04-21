@@ -1,0 +1,495 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607367325732044801-1-1772616196 - Holdem no limit (10/20) - 2026/03/04 09:23:16 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shino- (300)
+Seat 2: Cutcut11 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Shino- posts small blind 10
+Cutcut11 posts big blind 20
+Dealt to MathisKcr [7h Tc]
+*** PRE-FLOP *** 
+MathisKcr folds
+Shino- raises 280 to 300 and is all-in
+Cutcut11 folds
+Shino- collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: Shino- (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607367325732044801-2-1772616204 - Holdem no limit (10/20) - 2026/03/04 09:23:24 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shino- (320)
+Seat 2: Cutcut11 (280)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Cutcut11 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd 3s]
+*** PRE-FLOP *** 
+Shino- calls 20
+Cutcut11 calls 10
+MathisKcr checks
+*** FLOP *** [Qc Ks 8c]
+Cutcut11 checks
+MathisKcr bets 21
+Shino- folds
+Cutcut11 calls 21
+*** TURN *** [Qc Ks 8c][Jd]
+Cutcut11 checks
+MathisKcr bets 36
+Cutcut11 calls 36
+*** RIVER *** [Qc Ks 8c Jd][Qh]
+Cutcut11 bets 113
+MathisKcr calls 113
+*** SHOW DOWN ***
+Cutcut11 shows [9d 8s] (Two pairs : Queens and 8)
+MathisKcr shows [Kd 3s] (Two pairs : Kings and Queens)
+MathisKcr collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Qc Ks 8c Jd Qh]
+Seat 2: Cutcut11 (small blind) showed [9d 8s] and lost with Two pairs : Queens and 8
+Seat 3: MathisKcr (big blind) showed [Kd 3s] and won 400 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4607367325732044801-3-1772616233 - Holdem no limit (10/20) - 2026/03/04 09:23:53 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shino- (300)
+Seat 2: Cutcut11 (90)
+Seat 3: MathisKcr (510)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Shino- posts big blind 20
+Dealt to MathisKcr [8c Ad]
+*** PRE-FLOP *** 
+Cutcut11 folds
+MathisKcr raises 40 to 60
+Shino- calls 40
+*** FLOP *** [3s Js 7c]
+MathisKcr checks
+Shino- checks
+*** TURN *** [3s Js 7c][Ks]
+MathisKcr bets 42
+Shino- calls 42
+*** RIVER *** [3s Js 7c Ks][9h]
+MathisKcr checks
+Shino- checks
+*** SHOW DOWN ***
+MathisKcr shows [8c Ad] (High card : Ace)
+Shino- shows [9c As] (One pair : 9)
+Shino- collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Board: [3s Js 7c Ks 9h]
+Seat 1: Shino- (big blind) showed [9c As] and won 204 with One pair : 9
+Seat 3: MathisKcr (small blind) showed [8c Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4607367325732044801-4-1772616255 - Holdem no limit (15/30) - 2026/03/04 09:24:15 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shino- (402)
+Seat 2: Cutcut11 (90)
+Seat 3: MathisKcr (408)
+*** ANTE/BLINDS ***
+Shino- posts small blind 15
+Cutcut11 posts big blind 30
+Dealt to MathisKcr [4c 2d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Shino- folds
+Cutcut11 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Cutcut11 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4607367325732044801-5-1772616261 - Holdem no limit (15/30) - 2026/03/04 09:24:21 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shino- (387)
+Seat 2: Cutcut11 (105)
+Seat 3: MathisKcr (408)
+*** ANTE/BLINDS ***
+Cutcut11 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3h 4h]
+*** PRE-FLOP *** 
+Shino- folds
+Cutcut11 raises 75 to 105 and is all-in
+MathisKcr calls 75
+*** FLOP *** [Ac As Qd]
+*** TURN *** [Ac As Qd][Jc]
+*** RIVER *** [Ac As Qd Jc][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [3h 4h] (Two pairs : Aces and Queens)
+Cutcut11 shows [Ks 3s] (Two pairs : Aces and Queens)
+Cutcut11 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Ac As Qd Jc Qs]
+Seat 2: Cutcut11 (small blind) showed [Ks 3s] and won 210 with Two pairs : Aces and Queens
+Seat 3: MathisKcr (big blind) showed [3h 4h] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4607367325732044801-6-1772616276 - Holdem no limit (15/30) - 2026/03/04 09:24:36 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shino- (387)
+Seat 2: Cutcut11 (210)
+Seat 3: MathisKcr (303)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Shino- posts big blind 30
+Dealt to MathisKcr [3s Ad]
+*** PRE-FLOP *** 
+Cutcut11 folds
+MathisKcr raises 273 to 303 and is all-in
+Shino- folds
+MathisKcr collected 333 from pot
+*** SUMMARY ***
+Total pot 333 | No rake
+Seat 3: MathisKcr (small blind) won 333
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4607367325732044801-7-1772616290 - Holdem no limit (15/30) - 2026/03/04 09:24:50 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shino- (357)
+Seat 2: Cutcut11 (210)
+Seat 3: MathisKcr (333)
+*** ANTE/BLINDS ***
+Shino- posts small blind 15
+Cutcut11 posts big blind 30
+Dealt to MathisKcr [4d 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Shino- calls 15
+Cutcut11 checks
+*** FLOP *** [Ts 2s 6h]
+Shino- checks
+Cutcut11 bets 30
+Shino- calls 30
+*** TURN *** [Ts 2s 6h][Td]
+Shino- checks
+Cutcut11 bets 60
+Shino- calls 60
+*** RIVER *** [Ts 2s 6h Td][Ad]
+Shino- bets 30
+Cutcut11 raises 60 to 90 and is all-in
+Shino- calls 60
+*** SHOW DOWN ***
+Shino- shows [Ac Ks] (Two pairs : Aces and Tens)
+Cutcut11 shows [Tc 6d] (Full of Tens and 6)
+Cutcut11 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Ts 2s 6h Td Ad]
+Seat 1: Shino- (small blind) showed [Ac Ks] and lost with Two pairs : Aces and Tens
+Seat 2: Cutcut11 (big blind) showed [Tc 6d] and won 420 with Full of Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4607367325732044801-8-1772616333 - Holdem no limit (20/40) - 2026/03/04 09:25:33 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shino- (147)
+Seat 2: Cutcut11 (420)
+Seat 3: MathisKcr (333)
+*** ANTE/BLINDS ***
+Cutcut11 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3d 8s]
+*** PRE-FLOP *** 
+Shino- raises 107 to 147 and is all-in
+Cutcut11 calls 127
+MathisKcr folds
+*** FLOP *** [4s Th Ks]
+*** TURN *** [4s Th Ks][3s]
+*** RIVER *** [4s Th Ks 3s][9s]
+*** SHOW DOWN ***
+Cutcut11 shows [7h Ac] (High card : Ace)
+Shino- shows [Ad 4c] (One pair : 4)
+Shino- collected 334 from pot
+*** SUMMARY ***
+Total pot 334 | No rake
+Board: [4s Th Ks 3s 9s]
+Seat 1: Shino- (button) showed [Ad 4c] and won 334 with One pair : 4
+Seat 2: Cutcut11 (small blind) showed [7h Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4607367325732044801-9-1772616347 - Holdem no limit (20/40) - 2026/03/04 09:25:47 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shino- (334)
+Seat 2: Cutcut11 (273)
+Seat 3: MathisKcr (293)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Shino- posts big blind 40
+Dealt to MathisKcr [5d 4s]
+*** PRE-FLOP *** 
+Cutcut11 calls 40
+MathisKcr calls 20
+Shino- checks
+*** FLOP *** [3c 4d 9d]
+MathisKcr bets 42
+Shino- folds
+Cutcut11 raises 191 to 233 and is all-in
+MathisKcr calls 191
+*** TURN *** [3c 4d 9d][9s]
+*** RIVER *** [3c 4d 9d 9s][Jd]
+*** SHOW DOWN ***
+MathisKcr shows [5d 4s] (Two pairs : 9 and 4)
+Cutcut11 shows [Jc 9h] (Full of 9 and Jacks)
+Cutcut11 collected 586 from pot
+*** SUMMARY ***
+Total pot 586 | No rake
+Board: [3c 4d 9d 9s Jd]
+Seat 2: Cutcut11 (button) showed [Jc 9h] and won 586 with Full of 9 and Jacks
+Seat 3: MathisKcr (small blind) showed [5d 4s] and lost with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4607367325732044801-10-1772616371 - Holdem no limit (20/40) - 2026/03/04 09:26:11 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shino- (294)
+Seat 2: Cutcut11 (586)
+Seat 3: MathisKcr (20)
+*** ANTE/BLINDS ***
+Shino- posts small blind 20
+Cutcut11 posts big blind 40
+Dealt to MathisKcr [8h Qc]
+*** PRE-FLOP *** 
+MathisKcr calls 20 and is all-in
+Shino- calls 20
+Cutcut11 checks
+*** FLOP *** [Ks Js 8d]
+Shino- checks
+Cutcut11 bets 60
+Shino- folds
+*** TURN *** [Ks Js 8d][2d]
+*** RIVER *** [Ks Js 8d 2d][3d]
+*** SHOW DOWN ***
+Cutcut11 shows [Td 2s] (One pair : 2)
+MathisKcr shows [8h Qc] (One pair : 8)
+MathisKcr collected 60 from main pot
+Cutcut11 collected 100 from side pot 1
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Ks Js 8d 2d 3d]
+Seat 2: Cutcut11 (big blind) showed [Td 2s] and won 100 with One pair : 2
+Seat 3: MathisKcr (button) showed [8h Qc] and won 60 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4607367325732044801-11-1772616393 - Holdem no limit (30/60) - 2026/03/04 09:26:33 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shino- (254)
+Seat 2: Cutcut11 (586)
+Seat 3: MathisKcr (60)
+*** ANTE/BLINDS ***
+Cutcut11 posts small blind 30
+MathisKcr posts big blind 60 and is all-in
+Dealt to MathisKcr [Kh Td]
+*** PRE-FLOP *** 
+Shino- calls 60
+Cutcut11 calls 30
+*** FLOP *** [7d Ad Ah]
+Cutcut11 checks
+Shino- bets 194 and is all-in
+Cutcut11 folds
+*** TURN *** [7d Ad Ah][4h]
+*** RIVER *** [7d Ad Ah 4h][Jc]
+*** SHOW DOWN ***
+Shino- shows [Kc 8s] (One pair : Aces)
+MathisKcr shows [Kh Td] (One pair : Aces)
+MathisKcr collected 180 from main pot
+Shino- collected 194 from side pot 1
+*** SUMMARY ***
+Total pot 374 | No rake
+Board: [7d Ad Ah 4h Jc]
+Seat 1: Shino- (button) showed [Kc 8s] and won 194 with One pair : Aces
+Seat 3: MathisKcr (big blind) showed [Kh Td] and won 180 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4607367325732044801-12-1772616417 - Holdem no limit (30/60) - 2026/03/04 09:26:57 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shino- (194)
+Seat 2: Cutcut11 (526)
+Seat 3: MathisKcr (180)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Shino- posts big blind 60
+Dealt to MathisKcr [8c 5c]
+*** PRE-FLOP *** 
+Cutcut11 raises 466 to 526 and is all-in
+MathisKcr folds
+Shino- calls 134 and is all-in
+*** FLOP *** [As Jc 4h]
+*** TURN *** [As Jc 4h][Ad]
+*** RIVER *** [As Jc 4h Ad][Tc]
+*** SHOW DOWN ***
+Shino- shows [6s 6c] (Two pairs : Aces and 6)
+Cutcut11 shows [2s 2c] (Two pairs : Aces and 2)
+Cutcut11 collected 332 from side pot 1
+Shino- collected 418 from main pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [As Jc 4h Ad Tc]
+Seat 1: Shino- (big blind) showed [6s 6c] and won 418 with Two pairs : Aces and 6
+Seat 2: Cutcut11 (button) showed [2s 2c] and won 332 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4607367325732044801-13-1772616429 - Holdem no limit (30/60) - 2026/03/04 09:27:09 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shino- (418)
+Seat 2: Cutcut11 (332)
+Seat 3: MathisKcr (150)
+*** ANTE/BLINDS ***
+Shino- posts small blind 30
+Cutcut11 posts big blind 60
+Dealt to MathisKcr [7c 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Shino- calls 30
+Cutcut11 checks
+*** FLOP *** [Jd 4h Ad]
+Shino- checks
+Cutcut11 checks
+*** TURN *** [Jd 4h Ad][Qc]
+Shino- checks
+Cutcut11 checks
+*** RIVER *** [Jd 4h Ad Qc][Jc]
+Shino- checks
+Cutcut11 checks
+*** SHOW DOWN ***
+Cutcut11 shows [9s Ts] (One pair : Jacks)
+Shino- shows [9d Kc] (One pair : Jacks)
+Shino- collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jd 4h Ad Qc Jc]
+Seat 1: Shino- (small blind) showed [9d Kc] and won 120 with One pair : Jacks
+Seat 2: Cutcut11 (big blind) showed [9s Ts] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4607367325732044801-14-1772616474 - Holdem no limit (40/80) - 2026/03/04 09:27:54 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shino- (478)
+Seat 2: Cutcut11 (272)
+Seat 3: MathisKcr (150)
+*** ANTE/BLINDS ***
+Cutcut11 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [6d 4h]
+*** PRE-FLOP *** 
+Shino- folds
+Cutcut11 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4607367325732044801-15-1772616483 - Holdem no limit (40/80) - 2026/03/04 09:28:03 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shino- (478)
+Seat 2: Cutcut11 (232)
+Seat 3: MathisKcr (190)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Shino- posts big blind 80
+Dealt to MathisKcr [7s 6h]
+*** PRE-FLOP *** 
+Cutcut11 raises 152 to 232 and is all-in
+MathisKcr folds
+Shino- folds
+Cutcut11 collected 352 from pot
+*** SUMMARY ***
+Total pot 352 | No rake
+Seat 2: Cutcut11 (button) won 352
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4607367325732044801-16-1772616491 - Holdem no limit (40/80) - 2026/03/04 09:28:11 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shino- (398)
+Seat 2: Cutcut11 (352)
+Seat 3: MathisKcr (150)
+*** ANTE/BLINDS ***
+Shino- posts small blind 40
+Cutcut11 posts big blind 80
+Dealt to MathisKcr [Jh 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 70 to 150 and is all-in
+Shino- folds
+Cutcut11 folds
+MathisKcr collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 3: MathisKcr (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4607367325732044801-17-1772616501 - Holdem no limit (50/100) - 2026/03/04 09:28:21 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shino- (358)
+Seat 2: Cutcut11 (272)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Cutcut11 posts small blind 50
+MathisKcr posts big blind 100
+Dealt to MathisKcr [6d 8h]
+*** PRE-FLOP *** 
+Shino- raises 258 to 358 and is all-in
+Cutcut11 calls 222 and is all-in
+MathisKcr folds
+*** FLOP *** [7d Ts 3c]
+*** TURN *** [7d Ts 3c][8s]
+*** RIVER *** [7d Ts 3c 8s][Js]
+*** SHOW DOWN ***
+Cutcut11 shows [Kc Qc] (High card : King)
+Shino- shows [Tc Qs] (One pair : Tens)
+Shino- collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [7d Ts 3c 8s Js]
+Seat 1: Shino- (button) showed [Tc Qs] and won 730 with One pair : Tens
+Seat 2: Cutcut11 (small blind) showed [Kc Qc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4607367325732044801-18-1772616516 - Holdem no limit (50/100) - 2026/03/04 09:28:36 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shino- (730)
+Seat 3: MathisKcr (170)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 50
+Shino- posts big blind 100
+Dealt to MathisKcr [4s 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 70 to 170 and is all-in
+Shino- folds
+MathisKcr collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 3: MathisKcr (small blind) (button) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4607367325732044801-19-1772616526 - Holdem no limit (50/100) - 2026/03/04 09:28:46 UTC
+Table: 'Expresso Nitro(1072736300)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shino- (630)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Shino- posts small blind 50
+MathisKcr posts big blind 100
+Dealt to MathisKcr [3d Jh]
+*** PRE-FLOP *** 
+Shino- calls 50
+MathisKcr checks
+*** FLOP *** [9c 3s 8h]
+MathisKcr bets 170 and is all-in
+Shino- calls 170
+*** TURN *** [9c 3s 8h][Kd]
+*** RIVER *** [9c 3s 8h Kd][Td]
+*** SHOW DOWN ***
+MathisKcr shows [3d Jh] (One pair : 3)
+Shino- shows [Tc Ac] (One pair : Tens)
+Shino- collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [9c 3s 8h Kd Td]
+Seat 1: Shino- (small blind) (button) showed [Tc Ac] and won 540 with One pair : Tens
+Seat 3: MathisKcr (big blind) showed [3d Jh] and lost with One pair : 3
+
+

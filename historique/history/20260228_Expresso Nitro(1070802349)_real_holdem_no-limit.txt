@@ -1,0 +1,124 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4599061069434978305-1-1772289739 - Holdem no limit (10/20) - 2026/02/28 14:42:19 UTC
+Table: 'Expresso Nitro(1070802349)#0' 3-max (real money) Seat #1 is the button
+Seat 1: -morgan-34 (300)
+Seat 2: Blissure (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Blissure posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 8c]
+*** PRE-FLOP *** 
+-morgan-34 calls 20
+Blissure raises 40 to 60
+MathisKcr calls 40
+-morgan-34 calls 40
+*** FLOP *** [Jd 5h 9c]
+Blissure bets 40
+MathisKcr folds
+-morgan-34 folds
+Blissure collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [Jd 5h 9c]
+Seat 2: Blissure (small blind) won 220
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4599061069434978305-2-1772289761 - Holdem no limit (10/20) - 2026/02/28 14:42:41 UTC
+Table: 'Expresso Nitro(1070802349)#0' 3-max (real money) Seat #2 is the button
+Seat 1: -morgan-34 (240)
+Seat 2: Blissure (420)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+-morgan-34 posts big blind 20
+Dealt to MathisKcr [9c 3s]
+*** PRE-FLOP *** 
+Blissure folds
+MathisKcr folds
+-morgan-34 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: -morgan-34 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4599061069434978305-3-1772289767 - Holdem no limit (10/20) - 2026/02/28 14:42:47 UTC
+Table: 'Expresso Nitro(1070802349)#0' 3-max (real money) Seat #3 is the button
+Seat 1: -morgan-34 (250)
+Seat 2: Blissure (420)
+Seat 3: MathisKcr (230)
+*** ANTE/BLINDS ***
+-morgan-34 posts small blind 10
+Blissure posts big blind 20
+Dealt to MathisKcr [8s 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+-morgan-34 calls 10
+Blissure checks
+*** FLOP *** [9d 9c Ad]
+-morgan-34 checks
+Blissure bets 20
+-morgan-34 folds
+Blissure collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9d 9c Ad]
+Seat 2: Blissure (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4599061069434978305-4-1772289803 - Holdem no limit (15/30) - 2026/02/28 14:43:23 UTC
+Table: 'Expresso Nitro(1070802349)#0' 3-max (real money) Seat #1 is the button
+Seat 1: -morgan-34 (230)
+Seat 2: Blissure (440)
+Seat 3: MathisKcr (230)
+*** ANTE/BLINDS ***
+Blissure posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Tc Jd]
+*** PRE-FLOP *** 
+-morgan-34 calls 30
+Blissure raises 90 to 120
+MathisKcr raises 110 to 230 and is all-in
+-morgan-34 calls 200 and is all-in
+Blissure calls 110
+*** FLOP *** [8h Qd Th]
+*** TURN *** [8h Qd Th][9h]
+*** RIVER *** [8h Qd Th 9h][8s]
+*** SHOW DOWN ***
+-morgan-34 shows [3s 4s] (One pair : 8)
+Blissure shows [5s 5c] (Two pairs : 8 and 5)
+MathisKcr shows [Tc Jd] (Straight Queen high)
+MathisKcr collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [8h Qd Th 9h 8s]
+Seat 1: -morgan-34 (button) showed [3s 4s] and lost with One pair : 8
+Seat 2: Blissure (small blind) showed [5s 5c] and lost with Two pairs : 8 and 5
+Seat 3: MathisKcr (big blind) showed [Tc Jd] and won 690 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4599061069434978305-5-1772289825 - Holdem no limit (15/30) - 2026/02/28 14:43:45 UTC
+Table: 'Expresso Nitro(1070802349)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Blissure (210)
+Seat 3: MathisKcr (690)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Blissure posts big blind 30
+Dealt to MathisKcr [4h Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Blissure raises 150 to 210 and is all-in
+MathisKcr calls 150
+*** FLOP *** [Qh 7h Jc]
+*** TURN *** [Qh 7h Jc][5d]
+*** RIVER *** [Qh 7h Jc 5d][Th]
+*** SHOW DOWN ***
+Blissure shows [Ad 7c] (One pair : 7)
+MathisKcr shows [4h Qs] (One pair : Queens)
+MathisKcr collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Qh 7h Jc 5d Th]
+Seat 2: Blissure (big blind) showed [Ad 7c] and lost with One pair : 7
+Seat 3: MathisKcr (small blind) (button) showed [4h Qs] and won 420 with One pair : Queens
+
+

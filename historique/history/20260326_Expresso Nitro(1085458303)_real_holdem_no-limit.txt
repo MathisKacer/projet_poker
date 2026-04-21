@@ -1,0 +1,174 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4662007912556658689-1-1774535181 - Holdem no limit (10/20) - 2026/03/26 14:26:21 UTC
+Table: 'Expresso Nitro(1085458303)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: yolap83 (300)
+Seat 3: Loro Cruel63 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+yolap83 posts big blind 20
+Dealt to MathisKcr [7d 4d]
+*** PRE-FLOP *** 
+Loro Cruel63 folds
+MathisKcr calls 10
+yolap83 checks
+*** FLOP *** [Ad Jc 9c]
+MathisKcr checks
+yolap83 bets 40
+MathisKcr folds
+yolap83 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ad Jc 9c]
+Seat 2: yolap83 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4662007912556658689-2-1774535215 - Holdem no limit (10/20) - 2026/03/26 14:26:55 UTC
+Table: 'Expresso Nitro(1085458303)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (280)
+Seat 2: yolap83 (320)
+Seat 3: Loro Cruel63 (300)
+*** ANTE/BLINDS ***
+yolap83 posts small blind 10
+Loro Cruel63 posts big blind 20
+Dealt to MathisKcr [Qs Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+yolap83 folds
+Loro Cruel63 raises 20 to 60
+MathisKcr raises 40 to 100
+Loro Cruel63 raises 40 to 140
+MathisKcr raises 140 to 280 and is all-in
+Loro Cruel63 raises 20 to 300 and is all-in
+*** FLOP *** [Js 2d Jh]
+*** TURN *** [Js 2d Jh][9s]
+*** RIVER *** [Js 2d Jh 9s][Ks]
+*** SHOW DOWN ***
+MathisKcr shows [Qs Qc] (Two pairs : Queens and Jacks)
+Loro Cruel63 shows [Tc Td] (Two pairs : Jacks and Tens)
+Loro Cruel63 collected 20 from side pot 1
+MathisKcr collected 570 from main pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Js 2d Jh 9s Ks]
+Seat 1: MathisKcr (button) showed [Qs Qc] and won 570 with Two pairs : Queens and Jacks
+Seat 3: Loro Cruel63 (big blind) showed [Tc Td] and won 20 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4662007912556658689-3-1774535243 - Holdem no limit (15/30) - 2026/03/26 14:27:23 UTC
+Table: 'Expresso Nitro(1085458303)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (570)
+Seat 2: yolap83 (310)
+Seat 3: Loro Cruel63 (20)
+*** ANTE/BLINDS ***
+Loro Cruel63 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7s 9d]
+*** PRE-FLOP *** 
+yolap83 raises 60 to 90
+Loro Cruel63 calls 5 and is all-in
+MathisKcr folds
+*** FLOP *** [5d 4d Ac]
+*** TURN *** [5d 4d Ac][9c]
+*** RIVER *** [5d 4d Ac 9c][Qd]
+*** SHOW DOWN ***
+Loro Cruel63 shows [6h 9h] (One pair : 9)
+yolap83 shows [Qh Jd] (One pair : Queens)
+yolap83 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [5d 4d Ac 9c Qd]
+Seat 2: yolap83 (button) showed [Qh Jd] and won 140 with One pair : Queens
+Seat 3: Loro Cruel63 (small blind) showed [6h 9h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4662007912556658689-4-1774535263 - Holdem no limit (15/30) - 2026/03/26 14:27:43 UTC
+Table: 'Expresso Nitro(1085458303)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (540)
+Seat 2: yolap83 (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+yolap83 posts big blind 30
+Dealt to MathisKcr [Kc As]
+*** PRE-FLOP *** 
+MathisKcr raises 510 to 540 and is all-in
+yolap83 folds
+MathisKcr collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 1: MathisKcr (small blind) (button) won 570
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4662007912556658689-5-1774535271 - Holdem no limit (15/30) - 2026/03/26 14:27:51 UTC
+Table: 'Expresso Nitro(1085458303)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (570)
+Seat 2: yolap83 (330)
+*** ANTE/BLINDS ***
+yolap83 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5h As]
+*** PRE-FLOP *** 
+yolap83 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4662007912556658689-6-1774535276 - Holdem no limit (15/30) - 2026/03/26 14:27:56 UTC
+Table: 'Expresso Nitro(1085458303)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (585)
+Seat 2: yolap83 (315)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+yolap83 posts big blind 30
+Dealt to MathisKcr [2h 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+yolap83 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: yolap83 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4662007912556658689-7-1774535283 - Holdem no limit (15/30) - 2026/03/26 14:28:03 UTC
+Table: 'Expresso Nitro(1085458303)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (570)
+Seat 2: yolap83 (330)
+*** ANTE/BLINDS ***
+yolap83 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jd 7d]
+*** PRE-FLOP *** 
+yolap83 raises 300 to 330 and is all-in
+MathisKcr folds
+yolap83 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: yolap83 (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4662007912556658689-8-1774535292 - Holdem no limit (15/30) - 2026/03/26 14:28:12 UTC
+Table: 'Expresso Nitro(1085458303)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (540)
+Seat 2: yolap83 (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+yolap83 posts big blind 30
+Dealt to MathisKcr [Kh Js]
+*** PRE-FLOP *** 
+MathisKcr raises 510 to 540 and is all-in
+yolap83 calls 330 and is all-in
+*** FLOP *** [Kc Ks 4s]
+*** TURN *** [Kc Ks 4s][6h]
+*** RIVER *** [Kc Ks 4s 6h][9d]
+*** SHOW DOWN ***
+yolap83 shows [8c Qs] (One pair : Kings)
+MathisKcr shows [Kh Js] (Trips of Kings)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kc Ks 4s 6h 9d]
+Seat 1: MathisKcr (small blind) (button) showed [Kh Js] and won 900 with Trips of Kings
+Seat 2: yolap83 (big blind) showed [8c Qs] and lost with One pair : Kings
+
+

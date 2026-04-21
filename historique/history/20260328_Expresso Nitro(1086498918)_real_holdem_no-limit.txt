@@ -1,0 +1,91 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666477319949385729-1-1774711920 - Holdem no limit (10/20) - 2026/03/28 15:32:00 UTC
+Table: 'Expresso Nitro(1086498918)#0' 3-max (real money) Seat #3 is the button
+Seat 1: T onyx (300)
+Seat 2: MathisKcr (300)
+Seat 3: Backde7 (300)
+*** ANTE/BLINDS ***
+T onyx posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2h Tc]
+*** PRE-FLOP *** 
+Backde7 raises 20 to 40
+T onyx calls 30
+MathisKcr folds
+*** FLOP *** [2s 4d 4c]
+T onyx checks
+Backde7 checks
+*** TURN *** [2s 4d 4c][Kc]
+T onyx checks
+Backde7 checks
+*** RIVER *** [2s 4d 4c Kc][Ks]
+T onyx checks
+Backde7 checks
+*** SHOW DOWN ***
+Backde7 shows [8c Js] (Two pairs : Kings and 4)
+T onyx shows [Qd 9h] (Two pairs : Kings and 4)
+T onyx collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [2s 4d 4c Kc Ks]
+Seat 1: T onyx (small blind) showed [Qd 9h] and won 100 with Two pairs : Kings and 4
+Seat 3: Backde7 (button) showed [8c Js] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666477319949385729-2-1774711942 - Holdem no limit (10/20) - 2026/03/28 15:32:22 UTC
+Table: 'Expresso Nitro(1086498918)#0' 3-max (real money) Seat #1 is the button
+Seat 1: T onyx (360)
+Seat 2: MathisKcr (280)
+Seat 3: Backde7 (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Backde7 posts big blind 20
+Dealt to MathisKcr [Jd Js]
+*** PRE-FLOP *** 
+T onyx calls 20
+MathisKcr raises 260 to 280 and is all-in
+Backde7 calls 240 and is all-in
+T onyx folds
+*** FLOP *** [8c 5c Ac]
+*** TURN *** [8c 5c Ac][4d]
+*** RIVER *** [8c 5c Ac 4d][4s]
+*** SHOW DOWN ***
+MathisKcr shows [Jd Js] (Two pairs : Jacks and 4)
+Backde7 shows [6d Ah] (Two pairs : Aces and 4)
+Backde7 collected 540 from main pot
+MathisKcr collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [8c 5c Ac 4d 4s]
+Seat 2: MathisKcr (small blind) showed [Jd Js] and won 20 with Two pairs : Jacks and 4
+Seat 3: Backde7 (big blind) showed [6d Ah] and won 540 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666477319949385729-3-1774711957 - Holdem no limit (10/20) - 2026/03/28 15:32:37 UTC
+Table: 'Expresso Nitro(1086498918)#0' 3-max (real money) Seat #2 is the button
+Seat 1: T onyx (340)
+Seat 2: MathisKcr (20)
+Seat 3: Backde7 (540)
+*** ANTE/BLINDS ***
+Backde7 posts small blind 10
+T onyx posts big blind 20
+Dealt to MathisKcr [4d 4s]
+*** PRE-FLOP *** 
+MathisKcr calls 20 and is all-in
+Backde7 raises 20 to 40
+T onyx calls 20
+*** FLOP *** [3s Kd Jd]
+Backde7 bets 35
+T onyx folds
+*** TURN *** [3s Kd Jd][8h]
+*** RIVER *** [3s Kd Jd 8h][Jh]
+*** SHOW DOWN ***
+MathisKcr shows [4d 4s] (Two pairs : Jacks and 4)
+Backde7 shows [Ts Jc] (Trips of Jacks)
+Backde7 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [3s Kd Jd 8h Jh]
+Seat 2: MathisKcr (button) showed [4d 4s] and lost with Two pairs : Jacks and 4
+Seat 3: Backde7 (small blind) showed [Ts Jc] and won 135 with Trips of Jacks
+
+

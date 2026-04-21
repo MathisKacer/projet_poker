@@ -1,0 +1,130 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4573306096181051393-1-1771245270 - Holdem no limit (10/20) - 2026/02/16 12:34:30 UTC
+Table: 'Expresso Nitro(1064805802)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Yury98 (300)
+Seat 3: BackToEx (300)
+*** ANTE/BLINDS ***
+Yury98 posts small blind 10
+BackToEx posts big blind 20
+Dealt to MathisKcr [2c Td]
+*** PRE-FLOP *** 
+MathisKcr folds
+Yury98 folds
+BackToEx collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: BackToEx (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4573306096181051393-2-1771245276 - Holdem no limit (10/20) - 2026/02/16 12:34:36 UTC
+Table: 'Expresso Nitro(1064805802)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Yury98 (290)
+Seat 3: BackToEx (310)
+*** ANTE/BLINDS ***
+BackToEx posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2s 3h]
+*** PRE-FLOP *** 
+Yury98 folds
+BackToEx calls 10
+MathisKcr checks
+*** FLOP *** [Ah Jd Jh]
+BackToEx checks
+MathisKcr checks
+*** TURN *** [Ah Jd Jh][6d]
+BackToEx checks
+MathisKcr checks
+*** RIVER *** [Ah Jd Jh 6d][Qh]
+BackToEx checks
+MathisKcr bets 40
+BackToEx folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ah Jd Jh 6d Qh]
+Seat 1: MathisKcr (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4573306096181051393-3-1771245341 - Holdem no limit (15/30) - 2026/02/16 12:35:41 UTC
+Table: 'Expresso Nitro(1064805802)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (320)
+Seat 2: Yury98 (290)
+Seat 3: BackToEx (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Yury98 posts big blind 30
+Dealt to MathisKcr [4s Kh]
+*** PRE-FLOP *** 
+BackToEx folds
+MathisKcr raises 30 to 60
+Yury98 calls 30
+*** FLOP *** [3h Td Ad]
+MathisKcr checks
+Yury98 bets 30
+MathisKcr calls 30
+*** TURN *** [3h Td Ad][2s]
+MathisKcr checks
+Yury98 bets 30
+MathisKcr calls 30
+*** RIVER *** [3h Td Ad 2s][Qs]
+MathisKcr checks
+Yury98 bets 60
+MathisKcr calls 60
+*** SHOW DOWN ***
+MathisKcr shows [4s Kh] (High card : Ace)
+Yury98 shows [Th Ah] (Two pairs : Aces and Tens)
+Yury98 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [3h Td Ad 2s Qs]
+Seat 1: MathisKcr (small blind) showed [4s Kh] and lost with High card : Ace
+Seat 2: Yury98 (big blind) showed [Th Ah] and won 360 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4573306096181051393-4-1771245393 - Holdem no limit (20/40) - 2026/02/16 12:36:33 UTC
+Table: 'Expresso Nitro(1064805802)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (140)
+Seat 2: Yury98 (470)
+Seat 3: BackToEx (290)
+*** ANTE/BLINDS ***
+Yury98 posts small blind 20
+BackToEx posts big blind 40
+Dealt to MathisKcr [2s Kd]
+*** PRE-FLOP *** 
+MathisKcr folds
+Yury98 folds
+BackToEx collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: BackToEx (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4573306096181051393-5-1771245411 - Holdem no limit (20/40) - 2026/02/16 12:36:51 UTC
+Table: 'Expresso Nitro(1064805802)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (140)
+Seat 2: Yury98 (450)
+Seat 3: BackToEx (310)
+*** ANTE/BLINDS ***
+BackToEx posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Td Ks]
+*** PRE-FLOP *** 
+Yury98 calls 40
+BackToEx folds
+MathisKcr raises 100 to 140 and is all-in
+Yury98 calls 100
+*** FLOP *** [8d 9d Tc]
+*** TURN *** [8d 9d Tc][4s]
+*** RIVER *** [8d 9d Tc 4s][Qh]
+*** SHOW DOWN ***
+MathisKcr shows [Td Ks] (One pair : Tens)
+Yury98 shows [Jh Ah] (Straight Queen high)
+Yury98 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [8d 9d Tc 4s Qh]
+Seat 1: MathisKcr (big blind) showed [Td Ks] and lost with One pair : Tens
+Seat 2: Yury98 (button) showed [Jh Ah] and won 300 with Straight Queen high
+
+

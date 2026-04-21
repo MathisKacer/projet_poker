@@ -1,0 +1,151 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693371490328903681-1-1775728663 - Holdem no limit (10/20) - 2026/04/09 09:57:43 UTC
+Table: 'Expresso Nitro(1092760705)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Oranoutang (300)
+Seat 2: kila27 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+kila27 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4c 7h]
+*** PRE-FLOP *** 
+Oranoutang folds
+kila27 calls 10
+MathisKcr checks
+*** FLOP *** [5d 2d Kc]
+kila27 checks
+MathisKcr checks
+*** TURN *** [5d 2d Kc][Qd]
+kila27 checks
+MathisKcr bets 26
+kila27 folds
+MathisKcr collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [5d 2d Kc Qd]
+Seat 3: MathisKcr (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693371490328903681-2-1775728707 - Holdem no limit (10/20) - 2026/04/09 09:58:27 UTC
+Table: 'Expresso Nitro(1092760705)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Oranoutang (300)
+Seat 2: kila27 (280)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Oranoutang posts big blind 20
+Dealt to MathisKcr [3h 9c]
+*** PRE-FLOP *** 
+kila27 folds
+MathisKcr folds
+Oranoutang collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Oranoutang (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693371490328903681-3-1775728714 - Holdem no limit (10/20) - 2026/04/09 09:58:34 UTC
+Table: 'Expresso Nitro(1092760705)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Oranoutang (310)
+Seat 2: kila27 (280)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+Oranoutang posts small blind 10
+kila27 posts big blind 20
+Dealt to MathisKcr [As 4d]
+*** PRE-FLOP *** 
+MathisKcr raises 290 to 310 and is all-in
+Oranoutang folds
+kila27 folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: MathisKcr (button) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4693371490328903681-4-1775728728 - Holdem no limit (15/30) - 2026/04/09 09:58:48 UTC
+Table: 'Expresso Nitro(1092760705)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Oranoutang (300)
+Seat 2: kila27 (260)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+kila27 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qh 9s]
+*** PRE-FLOP *** 
+Oranoutang raises 30 to 60
+kila27 raises 200 to 260 and is all-in
+MathisKcr folds
+Oranoutang raises 40 to 300 and is all-in
+*** FLOP *** [Ks Ad Tc]
+*** TURN *** [Ks Ad Tc][2c]
+*** RIVER *** [Ks Ad Tc 2c][Jd]
+*** SHOW DOWN ***
+Oranoutang shows [Jc Kc] (Two pairs : Kings and Jacks)
+kila27 shows [Qs Kh] (Straight Ace high)
+kila27 collected 550 from main pot
+Oranoutang collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Ks Ad Tc 2c Jd]
+Seat 1: Oranoutang (button) showed [Jc Kc] and won 40 with Two pairs : Kings and Jacks
+Seat 2: kila27 (small blind) showed [Qs Kh] and won 550 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4693371490328903681-5-1775728743 - Holdem no limit (15/30) - 2026/04/09 09:59:03 UTC
+Table: 'Expresso Nitro(1092760705)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Oranoutang (40)
+Seat 2: kila27 (550)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Oranoutang posts big blind 30
+Dealt to MathisKcr [4c 4h]
+*** PRE-FLOP *** 
+kila27 calls 30
+MathisKcr raises 280 to 310 and is all-in
+Oranoutang calls 10 and is all-in
+kila27 folds
+*** FLOP *** [9s 8h 6h]
+*** TURN *** [9s 8h 6h][Qc]
+*** RIVER *** [9s 8h 6h Qc][Ad]
+*** SHOW DOWN ***
+Oranoutang shows [Qh 7h] (One pair : Queens)
+MathisKcr shows [4c 4h] (One pair : 4)
+MathisKcr collected 270 from side pot 1
+Oranoutang collected 110 from main pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [9s 8h 6h Qc Ad]
+Seat 1: Oranoutang (big blind) showed [Qh 7h] and won 110 with One pair : Queens
+Seat 3: MathisKcr (small blind) showed [4c 4h] and won 270 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4693371490328903681-6-1775728759 - Holdem no limit (15/30) - 2026/04/09 09:59:19 UTC
+Table: 'Expresso Nitro(1092760705)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Oranoutang (110)
+Seat 2: kila27 (520)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Oranoutang posts small blind 15
+kila27 posts big blind 30
+Dealt to MathisKcr [8s Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 240 to 270 and is all-in
+Oranoutang calls 95 and is all-in
+kila27 calls 240
+*** FLOP *** [Tc Th 6s]
+*** TURN *** [Tc Th 6s][7d]
+*** RIVER *** [Tc Th 6s 7d][5c]
+*** SHOW DOWN ***
+Oranoutang shows [4s 4h] (Two pairs : Tens and 4)
+MathisKcr shows [8s Qh] (One pair : Tens)
+kila27 shows [8h 8c] (Two pairs : Tens and 8)
+kila27 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Tc Th 6s 7d 5c]
+Seat 1: Oranoutang (small blind) showed [4s 4h] and lost with Two pairs : Tens and 4
+Seat 2: kila27 (big blind) showed [8h 8c] and won 650 with Two pairs : Tens and 8
+Seat 3: MathisKcr (button) showed [8s Qh] and lost with One pair : Tens
+
+

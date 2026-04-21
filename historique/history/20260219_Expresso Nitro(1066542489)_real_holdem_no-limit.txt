@@ -1,0 +1,140 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580765110049439745-1-1771522229 - Holdem no limit (10/20) - 2026/02/19 17:30:29 UTC
+Table: 'Expresso Nitro(1066542489)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yann08032019 (300)
+Seat 2: MathisKcr (300)
+Seat 3: ximos006 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+ximos006 posts big blind 20
+Dealt to MathisKcr [4h 5s]
+*** PRE-FLOP *** 
+Yann08032019 calls 20
+MathisKcr folds
+ximos006 checks
+*** FLOP *** [Tc 2s Ad]
+ximos006 bets 20
+Yann08032019 folds
+ximos006 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Tc 2s Ad]
+Seat 3: ximos006 (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580765110049439745-2-1771522244 - Holdem no limit (10/20) - 2026/02/19 17:30:44 UTC
+Table: 'Expresso Nitro(1066542489)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Yann08032019 (280)
+Seat 2: MathisKcr (290)
+Seat 3: ximos006 (330)
+*** ANTE/BLINDS ***
+ximos006 posts small blind 10
+Yann08032019 posts big blind 20
+Dealt to MathisKcr [6s Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+ximos006 calls 30
+Yann08032019 folds
+*** FLOP *** [Ah 6d Qs]
+ximos006 checks
+MathisKcr checks
+*** TURN *** [Ah 6d Qs][9h]
+ximos006 checks
+MathisKcr bets 35
+ximos006 folds
+MathisKcr collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Ah 6d Qs 9h]
+Seat 2: MathisKcr (button) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580765110049439745-3-1771522282 - Holdem no limit (10/20) - 2026/02/19 17:31:22 UTC
+Table: 'Expresso Nitro(1066542489)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Yann08032019 (260)
+Seat 2: MathisKcr (350)
+Seat 3: ximos006 (290)
+*** ANTE/BLINDS ***
+Yann08032019 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c 7h]
+*** PRE-FLOP *** 
+ximos006 calls 20
+Yann08032019 folds
+MathisKcr checks
+*** FLOP *** [3h 8h Kh]
+MathisKcr bets 40
+ximos006 calls 40
+*** TURN *** [3h 8h Kh][6c]
+MathisKcr bets 50
+ximos006 calls 50
+*** RIVER *** [3h 8h Kh 6c][2c]
+MathisKcr checks
+ximos006 checks
+*** SHOW DOWN ***
+MathisKcr shows [9c 7h] (High card : King)
+ximos006 shows [Jh 4c] (High card : King)
+ximos006 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Board: [3h 8h Kh 6c 2c]
+Seat 2: MathisKcr (big blind) showed [9c 7h] and lost with High card : King
+Seat 3: ximos006 (button) showed [Jh 4c] and won 230 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4580765110049439745-4-1771522325 - Holdem no limit (15/30) - 2026/02/19 17:32:05 UTC
+Table: 'Expresso Nitro(1066542489)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Yann08032019 (250)
+Seat 2: MathisKcr (240)
+Seat 3: ximos006 (410)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+ximos006 posts big blind 30
+Dealt to MathisKcr [8h 4s]
+*** PRE-FLOP *** 
+Yann08032019 calls 30
+MathisKcr folds
+ximos006 raises 45 to 75
+Yann08032019 calls 45
+*** FLOP *** [Kh 9c Js]
+ximos006 checks
+Yann08032019 checks
+*** TURN *** [Kh 9c Js][7c]
+ximos006 bets 30
+Yann08032019 folds
+ximos006 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [Kh 9c Js 7c]
+Seat 3: ximos006 (big blind) won 195
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4580765110049439745-5-1771522354 - Holdem no limit (20/40) - 2026/02/19 17:32:34 UTC
+Table: 'Expresso Nitro(1066542489)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Yann08032019 (175)
+Seat 2: MathisKcr (225)
+Seat 3: ximos006 (500)
+*** ANTE/BLINDS ***
+ximos006 posts small blind 20
+Yann08032019 posts big blind 40
+Dealt to MathisKcr [Ad 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 100
+ximos006 calls 80
+Yann08032019 folds
+*** FLOP *** [2c Qh 9d]
+ximos006 bets 40
+MathisKcr raises 85 to 125 and is all-in
+ximos006 calls 85
+*** TURN *** [2c Qh 9d][Jh]
+*** RIVER *** [2c Qh 9d Jh][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 8h] (One pair : Queens)
+ximos006 shows [4d 2s] (Two pairs : Queens and 2)
+ximos006 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [2c Qh 9d Jh Qs]
+Seat 2: MathisKcr (button) showed [Ad 8h] and lost with One pair : Queens
+Seat 3: ximos006 (small blind) showed [4d 2s] and won 490 with Two pairs : Queens and 2
+
+

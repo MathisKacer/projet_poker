@@ -1,0 +1,206 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667984784750804993-1-1774775565 - Holdem no limit (10/20) - 2026/03/29 09:12:45 UTC
+Table: 'Expresso Nitro(1086849902)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Morse 417337 (300)
+Seat 2: Teddydu01100 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Morse 417337 posts small blind 10
+Teddydu01100 posts big blind 20
+Dealt to MathisKcr [4c Jd]
+*** PRE-FLOP *** 
+MathisKcr folds
+Morse 417337 calls 10
+Teddydu01100 checks
+*** FLOP *** [4h Qs Kh]
+Morse 417337 checks
+Teddydu01100 checks
+*** TURN *** [4h Qs Kh][Ad]
+Morse 417337 checks
+Teddydu01100 checks
+*** RIVER *** [4h Qs Kh Ad][Tc]
+Morse 417337 bets 40
+Teddydu01100 raises 40 to 80
+Morse 417337 raises 200 to 280 and is all-in
+Teddydu01100 calls 200 and is all-in
+*** SHOW DOWN ***
+Teddydu01100 shows [Ks 4d] (Two pairs : Kings and 4)
+Morse 417337 shows [5s Js] (Straight Ace high)
+Morse 417337 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4h Qs Kh Ad Tc]
+Seat 1: Morse 417337 (small blind) showed [5s Js] and won 600 with Straight Ace high
+Seat 2: Teddydu01100 (big blind) showed [Ks 4d] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667984784750804993-2-1774775608 - Holdem no limit (10/20) - 2026/03/29 09:13:28 UTC
+Table: 'Expresso Nitro(1086849902)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Morse 417337 (600)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Morse 417337 posts big blind 20
+Dealt to MathisKcr [Kd 5s]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+Morse 417337 folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: MathisKcr (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667984784750804993-3-1774775614 - Holdem no limit (10/20) - 2026/03/29 09:13:34 UTC
+Table: 'Expresso Nitro(1086849902)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Morse 417337 (580)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+Morse 417337 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qc Qh]
+*** PRE-FLOP *** 
+Morse 417337 calls 10
+MathisKcr raises 300 to 320 and is all-in
+Morse 417337 folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: MathisKcr (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667984784750804993-4-1774775625 - Holdem no limit (15/30) - 2026/03/29 09:13:45 UTC
+Table: 'Expresso Nitro(1086849902)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Morse 417337 (560)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Morse 417337 posts big blind 30
+Dealt to MathisKcr [2c Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 310 to 340 and is all-in
+Morse 417337 folds
+MathisKcr collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 3: MathisKcr (small blind) (button) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667984784750804993-5-1774775633 - Holdem no limit (15/30) - 2026/03/29 09:13:53 UTC
+Table: 'Expresso Nitro(1086849902)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Morse 417337 (530)
+Seat 3: MathisKcr (370)
+*** ANTE/BLINDS ***
+Morse 417337 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9s 5s]
+*** PRE-FLOP *** 
+Morse 417337 calls 15
+MathisKcr checks
+*** FLOP *** [Ah Qd 2c]
+MathisKcr checks
+Morse 417337 checks
+*** TURN *** [Ah Qd 2c][8s]
+MathisKcr bets 39
+Morse 417337 calls 39
+*** RIVER *** [Ah Qd 2c 8s][7s]
+MathisKcr bets 301 and is all-in
+Morse 417337 folds
+MathisKcr collected 439 from pot
+*** SUMMARY ***
+Total pot 439 | No rake
+Board: [Ah Qd 2c 8s 7s]
+Seat 3: MathisKcr (big blind) won 439
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667984784750804993-6-1774775655 - Holdem no limit (15/30) - 2026/03/29 09:14:15 UTC
+Table: 'Expresso Nitro(1086849902)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Morse 417337 (461)
+Seat 3: MathisKcr (439)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Morse 417337 posts big blind 30
+Dealt to MathisKcr [8s 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Morse 417337 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Morse 417337 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667984784750804993-7-1774775665 - Holdem no limit (15/30) - 2026/03/29 09:14:25 UTC
+Table: 'Expresso Nitro(1086849902)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Morse 417337 (476)
+Seat 3: MathisKcr (424)
+*** ANTE/BLINDS ***
+Morse 417337 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ks Qc]
+*** PRE-FLOP *** 
+Morse 417337 raises 446 to 476 and is all-in
+MathisKcr calls 394 and is all-in
+*** FLOP *** [3d 2s 5s]
+*** TURN *** [3d 2s 5s][4d]
+*** RIVER *** [3d 2s 5s 4d][Ac]
+*** SHOW DOWN ***
+Morse 417337 shows [Qs 9c] (Straight 5 high)
+MathisKcr shows [Ks Qc] (Straight 5 high)
+MathisKcr collected 424 from main pot
+Morse 417337 collected 476 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 2s 5s 4d Ac]
+Seat 1: Morse 417337 (small blind) (button) showed [Qs 9c] and won 476 with Straight 5 high
+Seat 3: MathisKcr (big blind) showed [Ks Qc] and won 424 with Straight 5 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667984784750804993-8-1774775677 - Holdem no limit (15/30) - 2026/03/29 09:14:37 UTC
+Table: 'Expresso Nitro(1086849902)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Morse 417337 (476)
+Seat 3: MathisKcr (424)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Morse 417337 posts big blind 30
+Dealt to MathisKcr [6d Td]
+*** PRE-FLOP *** 
+MathisKcr raises 394 to 424 and is all-in
+Morse 417337 calls 394
+*** FLOP *** [2h 5c 3c]
+*** TURN *** [2h 5c 3c][7d]
+*** RIVER *** [2h 5c 3c 7d][5h]
+*** SHOW DOWN ***
+Morse 417337 shows [8s 6s] (One pair : 5)
+MathisKcr shows [6d Td] (One pair : 5)
+MathisKcr collected 848 from pot
+*** SUMMARY ***
+Total pot 848 | No rake
+Board: [2h 5c 3c 7d 5h]
+Seat 1: Morse 417337 (big blind) showed [8s 6s] and lost with One pair : 5
+Seat 3: MathisKcr (small blind) (button) showed [6d Td] and won 848 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667984784750804993-9-1774775690 - Holdem no limit (20/40) - 2026/03/29 09:14:50 UTC
+Table: 'Expresso Nitro(1086849902)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Morse 417337 (52)
+Seat 3: MathisKcr (848)
+*** ANTE/BLINDS ***
+Morse 417337 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [4d 5c]
+*** PRE-FLOP *** 
+Morse 417337 raises 12 to 52 and is all-in
+MathisKcr calls 12
+*** FLOP *** [Ac 9c 3c]
+*** TURN *** [Ac 9c 3c][9h]
+*** RIVER *** [Ac 9c 3c 9h][Qc]
+*** SHOW DOWN ***
+Morse 417337 shows [Ah Th] (Two pairs : Aces and 9)
+MathisKcr shows [4d 5c] (Flush Ace high)
+MathisKcr collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | No rake
+Board: [Ac 9c 3c 9h Qc]
+Seat 1: Morse 417337 (small blind) (button) showed [Ah Th] and lost with Two pairs : Aces and 9
+Seat 3: MathisKcr (big blind) showed [4d 5c] and won 104 with Flush Ace high
+
+

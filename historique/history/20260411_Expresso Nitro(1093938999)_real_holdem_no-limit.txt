@@ -1,0 +1,67 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698432224523976705-1-1775914160 - Holdem no limit (10/20) - 2026/04/11 13:29:20 UTC
+Table: 'Expresso Nitro(1093938999)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Salvatore30 (300)
+Seat 2: MathisKcr (300)
+Seat 3: RomRhumRun (300)
+*** ANTE/BLINDS ***
+RomRhumRun posts small blind 10
+Salvatore30 posts big blind 20
+Dealt to MathisKcr [5h 8c]
+*** PRE-FLOP *** 
+MathisKcr folds
+RomRhumRun folds
+Salvatore30 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Salvatore30 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698432224523976705-2-1775914167 - Holdem no limit (10/20) - 2026/04/11 13:29:27 UTC
+Table: 'Expresso Nitro(1093938999)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Salvatore30 (310)
+Seat 2: MathisKcr (300)
+Seat 3: RomRhumRun (290)
+*** ANTE/BLINDS ***
+Salvatore30 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2s 3d]
+*** PRE-FLOP *** 
+RomRhumRun folds
+Salvatore30 raises 40 to 60
+MathisKcr folds
+Salvatore30 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: Salvatore30 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698432224523976705-3-1775914176 - Holdem no limit (10/20) - 2026/04/11 13:29:36 UTC
+Table: 'Expresso Nitro(1093938999)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Salvatore30 (330)
+Seat 2: MathisKcr (280)
+Seat 3: RomRhumRun (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+RomRhumRun posts big blind 20
+Dealt to MathisKcr [Ac Kd]
+*** PRE-FLOP *** 
+Salvatore30 raises 40 to 60
+MathisKcr raises 220 to 280 and is all-in
+RomRhumRun raises 10 to 290 and is all-in
+Salvatore30 calls 230
+*** FLOP *** [Qc 5d 2s]
+*** TURN *** [Qc 5d 2s][Ts]
+*** RIVER *** [Qc 5d 2s Ts][3d]
+*** SHOW DOWN ***
+MathisKcr shows [Ac Kd] (High card : Ace)
+RomRhumRun shows [Jd Jc] (One pair : Jacks)
+Salvatore30 shows [5s 5c] (Trips of 5)
+Salvatore30 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [Qc 5d 2s Ts 3d]
+Seat 1: Salvatore30 (button) showed [5s 5c] and won 860 with Trips of 5
+Seat 2: MathisKcr (small blind) showed [Ac Kd] and lost with High card : Ace
+Seat 3: RomRhumRun (big blind) showed [Jd Jc] and lost with One pair : Jacks
+
+

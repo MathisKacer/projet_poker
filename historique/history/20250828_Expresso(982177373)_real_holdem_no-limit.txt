@@ -1,0 +1,28 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4218419695906193409-1-1756390227 - Holdem no limit (10/20) - 2025/08/28 14:10:27 UTC
+Table: 'Expresso(982177373)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DANIMAKIRNG (500)
+Seat 2: kastosak23 (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+DANIMAKIRNG posts big blind 20
+Dealt to MathisKcr [5c 5s]
+*** PRE-FLOP *** 
+kastosak23 raises 20 to 40
+MathisKcr raises 460 to 500 and is all-in
+DANIMAKIRNG folds
+kastosak23 calls 460 and is all-in
+*** FLOP *** [Ac Qc 9s]
+*** TURN *** [Ac Qc 9s][Ad]
+*** RIVER *** [Ac Qc 9s Ad][Kd]
+*** SHOW DOWN ***
+MathisKcr shows [5c 5s] (Two pairs : Aces and 5)
+kastosak23 shows [Kc Qh] (Two pairs : Aces and Kings)
+kastosak23 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [Ac Qc 9s Ad Kd]
+Seat 2: kastosak23 (button) showed [Kc Qh] and won 1020 with Two pairs : Aces and Kings
+Seat 3: MathisKcr (small blind) showed [5c 5s] and lost with Two pairs : Aces and 5
+
+

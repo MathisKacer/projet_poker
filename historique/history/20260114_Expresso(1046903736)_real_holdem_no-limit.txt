@@ -1,0 +1,72 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4496417308180217857-1-1768388358 - Holdem no limit (10/20) - 2026/01/14 10:59:18 UTC
+Table: 'Expresso(1046903736)#0' 3-max (real money) Seat #1 is the button
+Seat 1: krikri19 (500)
+Seat 2: MathisKcr (500)
+Seat 3: Rastapiks (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Rastapiks posts big blind 20
+Dealt to MathisKcr [3d Th]
+*** PRE-FLOP *** 
+krikri19 folds
+MathisKcr raises 20 to 40
+Rastapiks calls 20
+*** FLOP *** [Jc Qc 4s]
+MathisKcr bets 60
+Rastapiks folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Jc Qc 4s]
+Seat 2: MathisKcr (small blind) won 140
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4496417308180217857-2-1768388378 - Holdem no limit (10/20) - 2026/01/14 10:59:38 UTC
+Table: 'Expresso(1046903736)#0' 3-max (real money) Seat #2 is the button
+Seat 1: krikri19 (500)
+Seat 2: MathisKcr (540)
+Seat 3: Rastapiks (460)
+*** ANTE/BLINDS ***
+Rastapiks posts small blind 10
+krikri19 posts big blind 20
+Dealt to MathisKcr [8h Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Rastapiks raises 60 to 100
+krikri19 folds
+MathisKcr folds
+Rastapiks collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: Rastapiks (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4496417308180217857-3-1768388390 - Holdem no limit (10/20) - 2026/01/14 10:59:50 UTC
+Table: 'Expresso(1046903736)#0' 3-max (real money) Seat #3 is the button
+Seat 1: krikri19 (480)
+Seat 2: MathisKcr (500)
+Seat 3: Rastapiks (520)
+*** ANTE/BLINDS ***
+krikri19 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jc As]
+*** PRE-FLOP *** 
+Rastapiks calls 20
+krikri19 folds
+MathisKcr raises 40 to 60
+Rastapiks raises 460 to 520 and is all-in
+MathisKcr calls 440 and is all-in
+*** FLOP *** [4h 7h 9h]
+*** TURN *** [4h 7h 9h][Kh]
+*** RIVER *** [4h 7h 9h Kh][5h]
+*** SHOW DOWN ***
+MathisKcr shows [Jc As] (Flush King high)
+Rastapiks shows [Ah Qh] (Flush Ace high)
+Rastapiks collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [4h 7h 9h Kh 5h]
+Seat 2: MathisKcr (big blind) showed [Jc As] and lost with Flush King high
+Seat 3: Rastapiks (button) showed [Ah Qh] and won 1030 with Flush Ace high
+
+

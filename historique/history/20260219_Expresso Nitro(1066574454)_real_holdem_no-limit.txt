@@ -1,0 +1,162 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580902398679056385-1-1771526143 - Holdem no limit (10/20) - 2026/02/19 18:35:43 UTC
+Table: 'Expresso Nitro(1066574454)#0' 3-max (real money) Seat #2 is the button
+Seat 1: nothing196 (300)
+Seat 2: frmtachte (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+nothing196 posts big blind 20
+Dealt to MathisKcr [5h Kc]
+*** PRE-FLOP *** 
+frmtachte raises 280 to 300 and is all-in
+MathisKcr folds
+nothing196 folds
+frmtachte collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: frmtachte (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580902398679056385-2-1771526167 - Holdem no limit (10/20) - 2026/02/19 18:36:07 UTC
+Table: 'Expresso Nitro(1066574454)#0' 3-max (real money) Seat #3 is the button
+Seat 1: nothing196 (280)
+Seat 2: frmtachte (330)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+nothing196 posts small blind 10
+frmtachte posts big blind 20
+Dealt to MathisKcr [Qd 4h]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+nothing196 folds
+frmtachte checks
+*** FLOP *** [7s Kc 4c]
+frmtachte bets 20
+MathisKcr calls 20
+*** TURN *** [7s Kc 4c][Jh]
+frmtachte bets 20
+MathisKcr calls 20
+*** RIVER *** [7s Kc 4c Jh][Kd]
+frmtachte bets 46
+MathisKcr calls 46
+*** SHOW DOWN ***
+MathisKcr shows [Qd 4h] (Two pairs : Kings and 4)
+frmtachte shows [4d Kh] (Full of Kings and 4)
+frmtachte collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | No rake
+Board: [7s Kc 4c Jh Kd]
+Seat 2: frmtachte (big blind) showed [4d Kh] and won 222 with Full of Kings and 4
+Seat 3: MathisKcr (button) showed [Qd 4h] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4580902398679056385-3-1771526207 - Holdem no limit (15/30) - 2026/02/19 18:36:47 UTC
+Table: 'Expresso Nitro(1066574454)#0' 3-max (real money) Seat #1 is the button
+Seat 1: nothing196 (270)
+Seat 2: frmtachte (446)
+Seat 3: MathisKcr (184)
+*** ANTE/BLINDS ***
+frmtachte posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kh 5c]
+*** PRE-FLOP *** 
+nothing196 raises 240 to 270 and is all-in
+frmtachte folds
+MathisKcr folds
+nothing196 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 1: nothing196 (button) won 315
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4580902398679056385-4-1771526219 - Holdem no limit (15/30) - 2026/02/19 18:36:59 UTC
+Table: 'Expresso Nitro(1066574454)#0' 3-max (real money) Seat #2 is the button
+Seat 1: nothing196 (315)
+Seat 2: frmtachte (431)
+Seat 3: MathisKcr (154)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+nothing196 posts big blind 30
+Dealt to MathisKcr [Kd 2s]
+*** PRE-FLOP *** 
+frmtachte folds
+MathisKcr calls 15
+nothing196 checks
+*** FLOP *** [Kc 2h 9c]
+MathisKcr bets 30
+nothing196 calls 30
+*** TURN *** [Kc 2h 9c][Jc]
+MathisKcr bets 30
+nothing196 raises 225 to 255 and is all-in
+MathisKcr calls 64 and is all-in
+*** RIVER *** [Kc 2h 9c Jc][Ad]
+*** SHOW DOWN ***
+nothing196 shows [5d Kh] (One pair : Kings)
+MathisKcr shows [Kd 2s] (Two pairs : Kings and 2)
+MathisKcr collected 308 from main pot
+nothing196 collected 161 from side pot 1
+*** SUMMARY ***
+Total pot 469 | No rake
+Board: [Kc 2h 9c Jc Ad]
+Seat 1: nothing196 (big blind) showed [5d Kh] and won 161 with One pair : Kings
+Seat 3: MathisKcr (small blind) showed [Kd 2s] and won 308 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4580902398679056385-5-1771526257 - Holdem no limit (15/30) - 2026/02/19 18:37:37 UTC
+Table: 'Expresso Nitro(1066574454)#0' 3-max (real money) Seat #3 is the button
+Seat 1: nothing196 (161)
+Seat 2: frmtachte (431)
+Seat 3: MathisKcr (308)
+*** ANTE/BLINDS ***
+nothing196 posts small blind 15
+frmtachte posts big blind 30
+Dealt to MathisKcr [Qd 7h]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+nothing196 folds
+frmtachte checks
+*** FLOP *** [9s Qc Td]
+frmtachte checks
+MathisKcr checks
+*** TURN *** [9s Qc Td][8c]
+frmtachte checks
+MathisKcr bets 30
+frmtachte folds
+MathisKcr collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [9s Qc Td 8c]
+Seat 3: MathisKcr (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4580902398679056385-6-1771526292 - Holdem no limit (20/40) - 2026/02/19 18:38:12 UTC
+Table: 'Expresso Nitro(1066574454)#0' 3-max (real money) Seat #1 is the button
+Seat 1: nothing196 (146)
+Seat 2: frmtachte (401)
+Seat 3: MathisKcr (353)
+*** ANTE/BLINDS ***
+frmtachte posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Qs Th]
+*** PRE-FLOP *** 
+nothing196 raises 106 to 146 and is all-in
+frmtachte raises 106 to 252
+MathisKcr calls 212
+*** FLOP *** [8h Ks 5s]
+frmtachte bets 149 and is all-in
+MathisKcr calls 101 and is all-in
+*** TURN *** [8h Ks 5s][Td]
+*** RIVER *** [8h Ks 5s Td][3c]
+*** SHOW DOWN ***
+nothing196 shows [Kh Qd] (One pair : Kings)
+MathisKcr shows [Qs Th] (One pair : Tens)
+frmtachte shows [Ad As] (One pair : Aces)
+frmtachte collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h Ks 5s Td 3c]
+Seat 1: nothing196 (button) showed [Kh Qd] and lost with One pair : Kings
+Seat 2: frmtachte (small blind) showed [Ad As] and won 900 with One pair : Aces
+Seat 3: MathisKcr (big blind) showed [Qs Th] and lost with One pair : Tens
+
+

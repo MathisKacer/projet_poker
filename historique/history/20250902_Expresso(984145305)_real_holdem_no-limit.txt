@@ -1,0 +1,237 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226871899486945281-1-1756803996 - Holdem no limit (10/20) - 2025/09/02 09:06:36 UTC
+Table: 'Expresso(984145305)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pulvonium (500)
+Seat 2: MathisKcr (500)
+Seat 3: Fold_Renard (500)
+*** ANTE/BLINDS ***
+pulvonium posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4s 8s]
+*** PRE-FLOP *** 
+Fold_Renard folds
+pulvonium raises 480 to 500 and is all-in
+MathisKcr folds
+pulvonium collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 1: pulvonium (small blind) won 520
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226871899486945281-2-1756804004 - Holdem no limit (10/20) - 2025/09/02 09:06:44 UTC
+Table: 'Expresso(984145305)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pulvonium (520)
+Seat 2: MathisKcr (480)
+Seat 3: Fold_Renard (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Fold_Renard posts big blind 20
+Dealt to MathisKcr [8d 4s]
+*** PRE-FLOP *** 
+pulvonium raises 500 to 520 and is all-in
+MathisKcr folds
+Fold_Renard folds
+pulvonium collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 1: pulvonium (button) won 550
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226871899486945281-3-1756804012 - Holdem no limit (10/20) - 2025/09/02 09:06:52 UTC
+Table: 'Expresso(984145305)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pulvonium (550)
+Seat 2: MathisKcr (470)
+Seat 3: Fold_Renard (480)
+*** ANTE/BLINDS ***
+Fold_Renard posts small blind 10
+pulvonium posts big blind 20
+Dealt to MathisKcr [2h 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Fold_Renard folds
+pulvonium collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: pulvonium (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226871899486945281-4-1756804021 - Holdem no limit (10/20) - 2025/09/02 09:07:01 UTC
+Table: 'Expresso(984145305)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pulvonium (560)
+Seat 2: MathisKcr (470)
+Seat 3: Fold_Renard (470)
+*** ANTE/BLINDS ***
+pulvonium posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs Qc]
+*** PRE-FLOP *** 
+Fold_Renard calls 20
+pulvonium calls 10
+MathisKcr raises 40 to 60
+Fold_Renard calls 40
+pulvonium calls 40
+*** FLOP *** [Tc 5s Ts]
+pulvonium checks
+MathisKcr bets 80
+Fold_Renard calls 80
+pulvonium folds
+*** TURN *** [Tc 5s Ts][5d]
+MathisKcr bets 330 and is all-in
+Fold_Renard folds
+MathisKcr collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Tc 5s Ts 5d]
+Seat 2: MathisKcr (big blind) won 670
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226871899486945281-5-1756804068 - Holdem no limit (10/20) - 2025/09/02 09:07:48 UTC
+Table: 'Expresso(984145305)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pulvonium (500)
+Seat 2: MathisKcr (670)
+Seat 3: Fold_Renard (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Fold_Renard posts big blind 20
+Dealt to MathisKcr [Js Qs]
+*** PRE-FLOP *** 
+pulvonium folds
+MathisKcr raises 20 to 40
+Fold_Renard folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226871899486945281-6-1756804079 - Holdem no limit (10/20) - 2025/09/02 09:07:59 UTC
+Table: 'Expresso(984145305)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pulvonium (500)
+Seat 2: MathisKcr (690)
+Seat 3: Fold_Renard (310)
+*** ANTE/BLINDS ***
+Fold_Renard posts small blind 10
+pulvonium posts big blind 20
+Dealt to MathisKcr [Ts 2d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Fold_Renard raises 290 to 310 and is all-in
+pulvonium folds
+Fold_Renard collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Fold_Renard (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226871899486945281-7-1756804087 - Holdem no limit (15/30) - 2025/09/02 09:08:07 UTC
+Table: 'Expresso(984145305)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pulvonium (480)
+Seat 2: MathisKcr (690)
+Seat 3: Fold_Renard (330)
+*** ANTE/BLINDS ***
+pulvonium posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Js 6c]
+*** PRE-FLOP *** 
+Fold_Renard folds
+pulvonium calls 15
+MathisKcr checks
+*** FLOP *** [Kd 9c Ts]
+pulvonium checks
+MathisKcr bets 60
+pulvonium calls 60
+*** TURN *** [Kd 9c Ts][6h]
+pulvonium checks
+MathisKcr bets 90
+pulvonium calls 90
+*** RIVER *** [Kd 9c Ts 6h][7d]
+pulvonium bets 300 and is all-in
+MathisKcr folds
+pulvonium collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Kd 9c Ts 6h 7d]
+Seat 1: pulvonium (small blind) won 660
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226871899486945281-8-1756804122 - Holdem no limit (15/30) - 2025/09/02 09:08:42 UTC
+Table: 'Expresso(984145305)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pulvonium (660)
+Seat 2: MathisKcr (510)
+Seat 3: Fold_Renard (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Fold_Renard posts big blind 30
+Dealt to MathisKcr [9h 2h]
+*** PRE-FLOP *** 
+pulvonium folds
+MathisKcr calls 15
+Fold_Renard checks
+*** FLOP *** [5c 8s Ac]
+MathisKcr checks
+Fold_Renard checks
+*** TURN *** [5c 8s Ac][Kc]
+MathisKcr bets 60
+Fold_Renard folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5c 8s Ac Kc]
+Seat 2: MathisKcr (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226871899486945281-9-1756804138 - Holdem no limit (15/30) - 2025/09/02 09:08:58 UTC
+Table: 'Expresso(984145305)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pulvonium (660)
+Seat 2: MathisKcr (540)
+Seat 3: Fold_Renard (300)
+*** ANTE/BLINDS ***
+Fold_Renard posts small blind 15
+pulvonium posts big blind 30
+Dealt to MathisKcr [5c Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Fold_Renard raises 240 to 300 and is all-in
+pulvonium folds
+MathisKcr calls 240
+*** FLOP *** [4s 4d Jd]
+*** TURN *** [4s 4d Jd][7s]
+*** RIVER *** [4s 4d Jd 7s][2s]
+*** SHOW DOWN ***
+MathisKcr shows [5c Ac] (One pair : 4)
+Fold_Renard shows [3h 3c] (Two pairs : 4 and 3)
+Fold_Renard collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [4s 4d Jd 7s 2s]
+Seat 2: MathisKcr (button) showed [5c Ac] and lost with One pair : 4
+Seat 3: Fold_Renard (small blind) showed [3h 3c] and won 630 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226871899486945281-10-1756804157 - Holdem no limit (15/30) - 2025/09/02 09:09:17 UTC
+Table: 'Expresso(984145305)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pulvonium (630)
+Seat 2: MathisKcr (240)
+Seat 3: Fold_Renard (630)
+*** ANTE/BLINDS ***
+pulvonium posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jd Kc]
+*** PRE-FLOP *** 
+Fold_Renard folds
+pulvonium calls 15
+MathisKcr raises 210 to 240 and is all-in
+pulvonium calls 210
+*** FLOP *** [Ac 6c 5s]
+*** TURN *** [Ac 6c 5s][As]
+*** RIVER *** [Ac 6c 5s As][Tc]
+*** SHOW DOWN ***
+MathisKcr shows [Jd Kc] (One pair : Aces)
+pulvonium shows [2c Ah] (Trips of Aces)
+pulvonium collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ac 6c 5s As Tc]
+Seat 1: pulvonium (small blind) showed [2c Ah] and won 480 with Trips of Aces
+Seat 2: MathisKcr (big blind) showed [Jd Kc] and lost with One pair : Aces
+
+

@@ -1,0 +1,429 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4547781887224971265-1-1770382243 - Holdem no limit (10/20) - 2026/02/06 12:50:43 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lalala Lala (300)
+Seat 2: IH Striker (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+IH Striker posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7h Qh]
+*** PRE-FLOP *** 
+Lalala Lala calls 20
+IH Striker calls 10
+MathisKcr raises 40 to 60
+Lalala Lala calls 40
+IH Striker calls 40
+*** FLOP *** [8c 7s 3h]
+IH Striker checks
+MathisKcr bets 50
+Lalala Lala folds
+IH Striker raises 190 to 240 and is all-in
+MathisKcr folds
+IH Striker collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [8c 7s 3h]
+Seat 2: IH Striker (small blind) won 470
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4547781887224971265-2-1770382282 - Holdem no limit (10/20) - 2026/02/06 12:51:22 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lalala Lala (240)
+Seat 2: IH Striker (470)
+Seat 3: MathisKcr (190)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Lalala Lala posts big blind 20
+Dealt to MathisKcr [6s Ts]
+*** PRE-FLOP *** 
+IH Striker folds
+MathisKcr raises 20 to 40
+Lalala Lala calls 20
+*** FLOP *** [2s 5c 8s]
+MathisKcr bets 40
+Lalala Lala calls 40
+*** TURN *** [2s 5c 8s][As]
+MathisKcr bets 60
+Lalala Lala folds
+MathisKcr collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [2s 5c 8s As]
+Seat 3: MathisKcr (small blind) won 220
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4547781887224971265-3-1770382315 - Holdem no limit (15/30) - 2026/02/06 12:51:55 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lalala Lala (160)
+Seat 2: IH Striker (470)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Lalala Lala posts small blind 15
+IH Striker posts big blind 30
+Dealt to MathisKcr [5d 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lalala Lala calls 15
+IH Striker checks
+*** FLOP *** [6s 2d 5s]
+Lalala Lala checks
+IH Striker bets 30
+Lalala Lala calls 30
+*** TURN *** [6s 2d 5s][3c]
+Lalala Lala checks
+IH Striker bets 120
+Lalala Lala folds
+IH Striker collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [6s 2d 5s 3c]
+Seat 2: IH Striker (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4547781887224971265-4-1770382346 - Holdem no limit (15/30) - 2026/02/06 12:52:26 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lalala Lala (100)
+Seat 2: IH Striker (530)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+IH Striker posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2h 3c]
+*** PRE-FLOP *** 
+Lalala Lala calls 30
+IH Striker calls 15
+MathisKcr checks
+*** FLOP *** [Jd 4h Ts]
+IH Striker bets 30
+MathisKcr folds
+Lalala Lala folds
+IH Striker collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jd 4h Ts]
+Seat 2: IH Striker (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4547781887224971265-5-1770382371 - Holdem no limit (20/40) - 2026/02/06 12:52:51 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lalala Lala (70)
+Seat 2: IH Striker (590)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Lalala Lala posts big blind 40
+Dealt to MathisKcr [9c Kd]
+*** PRE-FLOP *** 
+IH Striker raises 550 to 590 and is all-in
+MathisKcr calls 220 and is all-in
+Lalala Lala calls 30 and is all-in
+*** FLOP *** [Kh 5s As]
+*** TURN *** [Kh 5s As][9d]
+*** RIVER *** [Kh 5s As 9d][7h]
+*** SHOW DOWN ***
+Lalala Lala shows [Td Qc] (High card : Ace)
+IH Striker shows [2c 2d] (One pair : 2)
+MathisKcr shows [9c Kd] (Two pairs : Kings and 9)
+MathisKcr collected 550 from main pot
+IH Striker collected 350 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kh 5s As 9d 7h]
+Seat 1: Lalala Lala (big blind) showed [Td Qc] and lost with High card : Ace
+Seat 2: IH Striker (button) showed [2c 2d] and won 350 with One pair : 2
+Seat 3: MathisKcr (small blind) showed [9c Kd] and won 550 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4547781887224971265-6-1770382393 - Holdem no limit (20/40) - 2026/02/06 12:53:13 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #2 is the button
+Seat 2: IH Striker (350)
+Seat 3: MathisKcr (550)
+*** ANTE/BLINDS ***
+IH Striker posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Tc 2c]
+*** PRE-FLOP *** 
+IH Striker folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4547781887224971265-7-1770382398 - Holdem no limit (20/40) - 2026/02/06 12:53:18 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #3 is the button
+Seat 2: IH Striker (330)
+Seat 3: MathisKcr (570)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+IH Striker posts big blind 40
+Dealt to MathisKcr [5h As]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 120
+IH Striker raises 210 to 330 and is all-in
+MathisKcr calls 210
+*** FLOP *** [7c Qs 2s]
+*** TURN *** [7c Qs 2s][Ks]
+*** RIVER *** [7c Qs 2s Ks][3h]
+*** SHOW DOWN ***
+MathisKcr shows [5h As] (High card : Ace)
+IH Striker shows [Jc Kh] (One pair : Kings)
+IH Striker collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [7c Qs 2s Ks 3h]
+Seat 2: IH Striker (big blind) showed [Jc Kh] and won 660 with One pair : Kings
+Seat 3: MathisKcr (small blind) (button) showed [5h As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4547781887224971265-8-1770382415 - Holdem no limit (20/40) - 2026/02/06 12:53:35 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #2 is the button
+Seat 2: IH Striker (660)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+IH Striker posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Th 7s]
+*** PRE-FLOP *** 
+IH Striker folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4547781887224971265-9-1770382420 - Holdem no limit (20/40) - 2026/02/06 12:53:40 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #3 is the button
+Seat 2: IH Striker (640)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+IH Striker posts big blind 40
+Dealt to MathisKcr [Td 7h]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+IH Striker folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: MathisKcr (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4547781887224971265-10-1770382430 - Holdem no limit (30/60) - 2026/02/06 12:53:50 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #2 is the button
+Seat 2: IH Striker (600)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+IH Striker posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Kc 6h]
+*** PRE-FLOP *** 
+IH Striker folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4547781887224971265-11-1770382435 - Holdem no limit (30/60) - 2026/02/06 12:53:55 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #3 is the button
+Seat 2: IH Striker (570)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+IH Striker posts big blind 60
+Dealt to MathisKcr [5h Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 270 to 330 and is all-in
+IH Striker folds
+MathisKcr collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 3: MathisKcr (small blind) (button) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4547781887224971265-12-1770382447 - Holdem no limit (30/60) - 2026/02/06 12:54:07 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #2 is the button
+Seat 2: IH Striker (510)
+Seat 3: MathisKcr (390)
+*** ANTE/BLINDS ***
+IH Striker posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [7c As]
+*** PRE-FLOP *** 
+IH Striker raises 450 to 510 and is all-in
+MathisKcr calls 330 and is all-in
+*** FLOP *** [Jc 8h 4c]
+*** TURN *** [Jc 8h 4c][Kh]
+*** RIVER *** [Jc 8h 4c Kh][2c]
+*** SHOW DOWN ***
+IH Striker shows [9d Tc] (High card : King)
+MathisKcr shows [7c As] (High card : Ace)
+MathisKcr collected 780 from main pot
+IH Striker collected 120 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jc 8h 4c Kh 2c]
+Seat 2: IH Striker (small blind) (button) showed [9d Tc] and won 120 with High card : King
+Seat 3: MathisKcr (big blind) showed [7c As] and won 780 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4547781887224971265-13-1770382458 - Holdem no limit (30/60) - 2026/02/06 12:54:18 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #3 is the button
+Seat 2: IH Striker (120)
+Seat 3: MathisKcr (780)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+IH Striker posts big blind 60
+Dealt to MathisKcr [8c Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 720 to 780 and is all-in
+IH Striker calls 60 and is all-in
+*** FLOP *** [Tc 2s 7d]
+*** TURN *** [Tc 2s 7d][2d]
+*** RIVER *** [Tc 2s 7d 2d][3c]
+*** SHOW DOWN ***
+IH Striker shows [As 8d] (One pair : 2)
+MathisKcr shows [8c Jh] (One pair : 2)
+MathisKcr collected 660 from side pot 1
+IH Striker collected 240 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 2s 7d 2d 3c]
+Seat 2: IH Striker (big blind) showed [As 8d] and won 240 with One pair : 2
+Seat 3: MathisKcr (small blind) (button) showed [8c Jh] and won 660 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4547781887224971265-14-1770382470 - Holdem no limit (30/60) - 2026/02/06 12:54:30 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #2 is the button
+Seat 2: IH Striker (240)
+Seat 3: MathisKcr (660)
+*** ANTE/BLINDS ***
+IH Striker posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Js 9d]
+*** PRE-FLOP *** 
+IH Striker raises 180 to 240 and is all-in
+MathisKcr calls 180
+*** FLOP *** [Ah 8h Qs]
+*** TURN *** [Ah 8h Qs][Kh]
+*** RIVER *** [Ah 8h Qs Kh][7s]
+*** SHOW DOWN ***
+MathisKcr shows [Js 9d] (High card : Ace)
+IH Striker shows [3c 3d] (One pair : 3)
+IH Striker collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Ah 8h Qs Kh 7s]
+Seat 2: IH Striker (small blind) (button) showed [3c 3d] and won 480 with One pair : 3
+Seat 3: MathisKcr (big blind) showed [Js 9d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4547781887224971265-15-1770382481 - Holdem no limit (40/80) - 2026/02/06 12:54:41 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #3 is the button
+Seat 2: IH Striker (480)
+Seat 3: MathisKcr (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+IH Striker posts big blind 80
+Dealt to MathisKcr [8d Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 340 to 420 and is all-in
+IH Striker folds
+MathisKcr collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 3: MathisKcr (small blind) (button) won 500
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4547781887224971265-16-1770382488 - Holdem no limit (40/80) - 2026/02/06 12:54:48 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #2 is the button
+Seat 2: IH Striker (400)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+IH Striker posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [6h Kd]
+*** PRE-FLOP *** 
+IH Striker raises 320 to 400 and is all-in
+MathisKcr calls 320
+*** FLOP *** [6d 8s Td]
+*** TURN *** [6d 8s Td][7h]
+*** RIVER *** [6d 8s Td 7h][Qh]
+*** SHOW DOWN ***
+MathisKcr shows [6h Kd] (One pair : 6)
+IH Striker shows [Th 9c] (Straight Ten high)
+IH Striker collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [6d 8s Td 7h Qh]
+Seat 2: IH Striker (small blind) (button) showed [Th 9c] and won 800 with Straight Ten high
+Seat 3: MathisKcr (big blind) showed [6h Kd] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4547781887224971265-17-1770382499 - Holdem no limit (40/80) - 2026/02/06 12:54:59 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #3 is the button
+Seat 2: IH Striker (800)
+Seat 3: MathisKcr (100)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+IH Striker posts big blind 80
+Dealt to MathisKcr [Ad 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 100 and is all-in
+IH Striker calls 20
+*** FLOP *** [6d 6c Kd]
+*** TURN *** [6d 6c Kd][2h]
+*** RIVER *** [6d 6c Kd 2h][5s]
+*** SHOW DOWN ***
+IH Striker shows [Qc 4s] (One pair : 6)
+MathisKcr shows [Ad 6s] (Trips of 6)
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [6d 6c Kd 2h 5s]
+Seat 2: IH Striker (big blind) showed [Qc 4s] and lost with One pair : 6
+Seat 3: MathisKcr (small blind) (button) showed [Ad 6s] and won 200 with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4547781887224971265-18-1770382512 - Holdem no limit (40/80) - 2026/02/06 12:55:12 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #2 is the button
+Seat 2: IH Striker (700)
+Seat 3: MathisKcr (200)
+*** ANTE/BLINDS ***
+IH Striker posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [7d 9s]
+*** PRE-FLOP *** 
+IH Striker folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4547781887224971265-19-1770382519 - Holdem no limit (40/80) - 2026/02/06 12:55:19 UTC
+Table: 'Expresso Nitro(1058862984)#0' 3-max (real money) Seat #3 is the button
+Seat 2: IH Striker (660)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+IH Striker posts big blind 80
+Dealt to MathisKcr [6s 8s]
+*** PRE-FLOP *** 
+MathisKcr raises 160 to 240 and is all-in
+IH Striker calls 160
+*** FLOP *** [9d 3d Kc]
+*** TURN *** [9d 3d Kc][2h]
+*** RIVER *** [9d 3d Kc 2h][5c]
+*** SHOW DOWN ***
+MathisKcr shows [6s 8s] (High card : King)
+IH Striker shows [Jd Kh] (One pair : Kings)
+IH Striker collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [9d 3d Kc 2h 5c]
+Seat 2: IH Striker (big blind) showed [Jd Kh] and won 480 with One pair : Kings
+Seat 3: MathisKcr (small blind) (button) showed [6s 8s] and lost with High card : King
+
+

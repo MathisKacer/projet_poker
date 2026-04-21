@@ -1,0 +1,62 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667991626633707521-1-1774775861 - Holdem no limit (10/20) - 2026/03/29 09:17:41 UTC
+Table: 'Expresso Nitro(1086851495)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DrEnigmo (300)
+Seat 2: MathisKcr (300)
+Seat 3: J.lecina9exh (300)
+*** ANTE/BLINDS ***
+J.lecina9exh posts small blind 10
+DrEnigmo posts big blind 20
+Dealt to MathisKcr [3c Jh]
+*** PRE-FLOP *** 
+MathisKcr folds
+J.lecina9exh raises 20 to 40
+DrEnigmo calls 20
+*** FLOP *** [7s Kd Tc]
+J.lecina9exh checks
+DrEnigmo checks
+*** TURN *** [7s Kd Tc][7h]
+J.lecina9exh checks
+DrEnigmo checks
+*** RIVER *** [7s Kd Tc 7h][Td]
+J.lecina9exh checks
+DrEnigmo checks
+*** SHOW DOWN ***
+DrEnigmo shows [9d 4s] (Two pairs : Tens and 7)
+J.lecina9exh shows [5d 4c] (Two pairs : Tens and 7)
+J.lecina9exh collected 40 from pot
+DrEnigmo collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [7s Kd Tc 7h Td]
+Seat 1: DrEnigmo (big blind) showed [9d 4s] and won 40 with Two pairs : Tens and 7
+Seat 3: J.lecina9exh (small blind) showed [5d 4c] and won 40 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667991626633707521-2-1774775891 - Holdem no limit (10/20) - 2026/03/29 09:18:11 UTC
+Table: 'Expresso Nitro(1086851495)#0' 3-max (real money) Seat #3 is the button
+Seat 1: DrEnigmo (300)
+Seat 2: MathisKcr (300)
+Seat 3: J.lecina9exh (300)
+*** ANTE/BLINDS ***
+DrEnigmo posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ah 7d]
+*** PRE-FLOP *** 
+J.lecina9exh calls 20
+DrEnigmo raises 280 to 300 and is all-in
+MathisKcr calls 280 and is all-in
+J.lecina9exh folds
+*** FLOP *** [8d 9c 9h]
+*** TURN *** [8d 9c 9h][Jd]
+*** RIVER *** [8d 9c 9h Jd][7s]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 7d] (Two pairs : 9 and 7)
+DrEnigmo shows [8h 4h] (Two pairs : 9 and 8)
+DrEnigmo collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8d 9c 9h Jd 7s]
+Seat 1: DrEnigmo (small blind) showed [8h 4h] and won 620 with Two pairs : 9 and 8
+Seat 2: MathisKcr (big blind) showed [Ah 7d] and lost with Two pairs : 9 and 7
+
+

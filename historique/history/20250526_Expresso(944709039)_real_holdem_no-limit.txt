@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4057494426740588545-1-1748250071 - Holdem no limit (10/20) - 2025/05/26 09:01:11 UTC
+Table: 'Expresso(944709039)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mamar37700 (500)
+Seat 2: MathisKcr (500)
+Seat 3: Anaia2023 (500)
+*** ANTE/BLINDS ***
+Anaia2023 posts small blind 10
+mamar37700 posts big blind 20
+Dealt to MathisKcr [Ac 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Anaia2023 calls 50
+mamar37700 calls 40
+*** FLOP *** [2h 2c Qs]
+Anaia2023 bets 440 and is all-in
+mamar37700 folds
+MathisKcr folds
+Anaia2023 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [2h 2c Qs]
+Seat 3: Anaia2023 (small blind) won 620
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4057494426740588545-2-1748250087 - Holdem no limit (10/20) - 2025/05/26 09:01:27 UTC
+Table: 'Expresso(944709039)#0' 3-max (real money) Seat #3 is the button
+Seat 1: mamar37700 (440)
+Seat 2: MathisKcr (440)
+Seat 3: Anaia2023 (620)
+*** ANTE/BLINDS ***
+mamar37700 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qc 2c]
+*** PRE-FLOP *** 
+Anaia2023 calls 20
+mamar37700 calls 10
+MathisKcr checks
+*** FLOP *** [Qs Ac 3c]
+mamar37700 checks
+MathisKcr bets 420 and is all-in
+Anaia2023 folds
+mamar37700 folds
+MathisKcr collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qs Ac 3c]
+Seat 2: MathisKcr (big blind) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4057494426740588545-3-1748250104 - Holdem no limit (10/20) - 2025/05/26 09:01:44 UTC
+Table: 'Expresso(944709039)#0' 3-max (real money) Seat #1 is the button
+Seat 1: mamar37700 (420)
+Seat 2: MathisKcr (480)
+Seat 3: Anaia2023 (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Anaia2023 posts big blind 20
+Dealt to MathisKcr [Ah Qh]
+*** PRE-FLOP *** 
+mamar37700 calls 20
+MathisKcr raises 40 to 60
+Anaia2023 calls 40
+mamar37700 calls 40
+*** FLOP *** [3d 4d Td]
+MathisKcr bets 90
+Anaia2023 folds
+mamar37700 raises 270 to 360 and is all-in
+MathisKcr folds
+mamar37700 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [3d 4d Td]
+Seat 1: mamar37700 (button) won 630
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4057494426740588545-4-1748250127 - Holdem no limit (10/20) - 2025/05/26 09:02:07 UTC
+Table: 'Expresso(944709039)#0' 3-max (real money) Seat #2 is the button
+Seat 1: mamar37700 (630)
+Seat 2: MathisKcr (330)
+Seat 3: Anaia2023 (540)
+*** ANTE/BLINDS ***
+Anaia2023 posts small blind 10
+mamar37700 posts big blind 20
+Dealt to MathisKcr [3h Th]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Anaia2023 calls 10
+mamar37700 checks
+*** FLOP *** [Kh 8c Tc]
+Anaia2023 bets 60
+mamar37700 folds
+MathisKcr raises 250 to 310 and is all-in
+Anaia2023 calls 250
+*** TURN *** [Kh 8c Tc][Qh]
+*** RIVER *** [Kh 8c Tc Qh][6d]
+*** SHOW DOWN ***
+MathisKcr shows [3h Th] (One pair : Tens)
+Anaia2023 shows [Ks 5s] (One pair : Kings)
+Anaia2023 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Kh 8c Tc Qh 6d]
+Seat 2: MathisKcr (button) showed [3h Th] and lost with One pair : Tens
+Seat 3: Anaia2023 (small blind) showed [Ks 5s] and won 680 with One pair : Kings
+
+

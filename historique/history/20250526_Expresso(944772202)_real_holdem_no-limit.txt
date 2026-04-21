@@ -1,0 +1,677 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4057765709759905793-1-1748265000 - Holdem no limit (10/20) - 2025/05/26 13:10:00 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Philo97315 (500)
+Seat 3: richie351971 (500)
+*** ANTE/BLINDS ***
+richie351971 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c 8h]
+*** PRE-FLOP *** 
+Philo97315 calls 20
+richie351971 calls 10
+MathisKcr checks
+*** FLOP *** [Kc Ah 8s]
+richie351971 checks
+MathisKcr checks
+Philo97315 checks
+*** TURN *** [Kc Ah 8s][2s]
+richie351971 checks
+MathisKcr checks
+Philo97315 checks
+*** RIVER *** [Kc Ah 8s 2s][7h]
+richie351971 checks
+MathisKcr bets 40
+Philo97315 folds
+richie351971 calls 40
+*** SHOW DOWN ***
+richie351971 shows [Qh 6s] (High card : Ace)
+MathisKcr shows [7c 8h] (Two pairs : 8 and 7)
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Kc Ah 8s 2s 7h]
+Seat 1: MathisKcr (big blind) showed [7c 8h] and won 140 with Two pairs : 8 and 7
+Seat 3: richie351971 (small blind) showed [Qh 6s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4057765709759905793-2-1748265042 - Holdem no limit (10/20) - 2025/05/26 13:10:42 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (580)
+Seat 2: Philo97315 (480)
+Seat 3: richie351971 (440)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Philo97315 posts big blind 20
+Dealt to MathisKcr [7d Kc]
+*** PRE-FLOP *** 
+richie351971 calls 20
+MathisKcr calls 10
+Philo97315 checks
+*** FLOP *** [Qh Qs 4s]
+MathisKcr checks
+Philo97315 checks
+richie351971 checks
+*** TURN *** [Qh Qs 4s][5c]
+MathisKcr checks
+Philo97315 checks
+richie351971 checks
+*** RIVER *** [Qh Qs 4s 5c][9d]
+MathisKcr checks
+Philo97315 checks
+richie351971 checks
+*** SHOW DOWN ***
+MathisKcr shows [7d Kc] (One pair : Queens)
+Philo97315 shows [8c Ts] (One pair : Queens)
+richie351971 shows [6d Ah] (One pair : Queens)
+richie351971 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qh Qs 4s 5c 9d]
+Seat 1: MathisKcr (small blind) showed [7d Kc] and lost with One pair : Queens
+Seat 2: Philo97315 (big blind) showed [8c Ts] and lost with One pair : Queens
+Seat 3: richie351971 (button) showed [6d Ah] and won 60 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4057765709759905793-3-1748265102 - Holdem no limit (15/30) - 2025/05/26 13:11:42 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (560)
+Seat 2: Philo97315 (460)
+Seat 3: richie351971 (480)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 15
+richie351971 posts big blind 30
+Dealt to MathisKcr [5c As]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Philo97315 folds
+richie351971 calls 30
+*** FLOP *** [Ks 2s 4c]
+richie351971 checks
+MathisKcr bets 45
+richie351971 folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ks 2s 4c]
+Seat 1: MathisKcr (button) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4057765709759905793-4-1748265131 - Holdem no limit (15/30) - 2025/05/26 13:12:11 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (635)
+Seat 2: Philo97315 (445)
+Seat 3: richie351971 (420)
+*** ANTE/BLINDS ***
+richie351971 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Tc 7c]
+*** PRE-FLOP *** 
+Philo97315 calls 30
+richie351971 calls 15
+MathisKcr checks
+*** FLOP *** [6c 8s Qh]
+richie351971 checks
+MathisKcr checks
+Philo97315 checks
+*** TURN *** [6c 8s Qh][Th]
+richie351971 checks
+MathisKcr bets 90
+Philo97315 folds
+richie351971 calls 90
+*** RIVER *** [6c 8s Qh Th][4d]
+richie351971 checks
+MathisKcr checks
+*** SHOW DOWN ***
+richie351971 shows [7s 6s] (One pair : 6)
+MathisKcr shows [Tc 7c] (One pair : Tens)
+MathisKcr collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [6c 8s Qh Th 4d]
+Seat 1: MathisKcr (big blind) showed [Tc 7c] and won 270 with One pair : Tens
+Seat 3: richie351971 (small blind) showed [7s 6s] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4057765709759905793-5-1748265161 - Holdem no limit (15/30) - 2025/05/26 13:12:41 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (785)
+Seat 2: Philo97315 (415)
+Seat 3: richie351971 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Philo97315 posts big blind 30
+Dealt to MathisKcr [Ah 3c]
+*** PRE-FLOP *** 
+richie351971 calls 30
+MathisKcr calls 15
+Philo97315 checks
+*** FLOP *** [7h 8s Td]
+MathisKcr checks
+Philo97315 bets 90
+richie351971 calls 90
+MathisKcr folds
+*** TURN *** [7h 8s Td][4s]
+Philo97315 bets 270
+richie351971 calls 180 and is all-in
+*** RIVER *** [7h 8s Td 4s][3d]
+*** SHOW DOWN ***
+richie351971 shows [5d 9d] (High card : Ten)
+Philo97315 shows [Kc Th] (One pair : Tens)
+Philo97315 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [7h 8s Td 4s 3d]
+Seat 2: Philo97315 (big blind) showed [Kc Th] and won 720 with One pair : Tens
+Seat 3: richie351971 (button) showed [5d 9d] and lost with High card : Ten
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4057765709759905793-6-1748265187 - Holdem no limit (20/40) - 2025/05/26 13:13:07 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (755)
+Seat 2: Philo97315 (745)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [8c Ac]
+*** PRE-FLOP *** 
+Philo97315 calls 20
+MathisKcr raises 60 to 100
+Philo97315 calls 60
+*** FLOP *** [Qh 2s 9h]
+MathisKcr checks
+Philo97315 checks
+*** TURN *** [Qh 2s 9h][9s]
+MathisKcr checks
+Philo97315 checks
+*** RIVER *** [Qh 2s 9h 9s][Tc]
+MathisKcr checks
+Philo97315 bets 200
+MathisKcr folds
+Philo97315 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Qh 2s 9h 9s Tc]
+Seat 2: Philo97315 (small blind) (button) won 400
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4057765709759905793-7-1748265212 - Holdem no limit (20/40) - 2025/05/26 13:13:32 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (655)
+Seat 2: Philo97315 (845)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Philo97315 posts big blind 40
+Dealt to MathisKcr [8d 6s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Philo97315 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Philo97315 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4057765709759905793-8-1748265216 - Holdem no limit (20/40) - 2025/05/26 13:13:36 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (635)
+Seat 2: Philo97315 (865)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Th 4c]
+*** PRE-FLOP *** 
+Philo97315 calls 20
+MathisKcr checks
+*** FLOP *** [2s Jd Kc]
+MathisKcr checks
+Philo97315 checks
+*** TURN *** [2s Jd Kc][5s]
+MathisKcr checks
+Philo97315 checks
+*** RIVER *** [2s Jd Kc 5s][8d]
+MathisKcr checks
+Philo97315 checks
+*** SHOW DOWN ***
+MathisKcr shows [Th 4c] (High card : King)
+Philo97315 shows [Ac 4h] (High card : Ace)
+Philo97315 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2s Jd Kc 5s 8d]
+Seat 1: MathisKcr (big blind) showed [Th 4c] and lost with High card : King
+Seat 2: Philo97315 (small blind) (button) showed [Ac 4h] and won 80 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4057765709759905793-9-1748265229 - Holdem no limit (20/40) - 2025/05/26 13:13:49 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (595)
+Seat 2: Philo97315 (905)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Philo97315 posts big blind 40
+Dealt to MathisKcr [2h Jd]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Philo97315 raises 80 to 120
+MathisKcr folds
+Philo97315 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: Philo97315 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4057765709759905793-10-1748265237 - Holdem no limit (20/40) - 2025/05/26 13:13:57 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (555)
+Seat 2: Philo97315 (945)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jh 3d]
+*** PRE-FLOP *** 
+Philo97315 calls 20
+MathisKcr checks
+*** FLOP *** [Js 2c 4d]
+MathisKcr checks
+Philo97315 checks
+*** TURN *** [Js 2c 4d][Qs]
+MathisKcr bets 60
+Philo97315 folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Js 2c 4d Qs]
+Seat 1: MathisKcr (big blind) won 140
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #4057765709759905793-11-1748265252 - Holdem no limit (20/40) - 2025/05/26 13:14:12 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (595)
+Seat 2: Philo97315 (905)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Philo97315 posts big blind 40
+Dealt to MathisKcr [4d 5d]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Philo97315 checks
+*** FLOP *** [8h 2d Js]
+Philo97315 checks
+MathisKcr checks
+*** TURN *** [8h 2d Js][8s]
+Philo97315 checks
+MathisKcr checks
+*** RIVER *** [8h 2d Js 8s][Qc]
+Philo97315 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [4d 5d] (One pair : 8)
+Philo97315 shows [2h Kd] (Two pairs : 8 and 2)
+Philo97315 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8h 2d Js 8s Qc]
+Seat 1: MathisKcr (small blind) (button) showed [4d 5d] and lost with One pair : 8
+Seat 2: Philo97315 (big blind) showed [2h Kd] and won 80 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4057765709759905793-12-1748265270 - Holdem no limit (30/60) - 2025/05/26 13:14:30 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (555)
+Seat 2: Philo97315 (945)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [9d 4s]
+*** PRE-FLOP *** 
+Philo97315 calls 30
+MathisKcr checks
+*** FLOP *** [Jh As 2c]
+MathisKcr checks
+Philo97315 checks
+*** TURN *** [Jh As 2c][Kc]
+MathisKcr checks
+Philo97315 checks
+*** RIVER *** [Jh As 2c Kc][2d]
+MathisKcr checks
+Philo97315 bets 120
+MathisKcr folds
+Philo97315 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jh As 2c Kc 2d]
+Seat 2: Philo97315 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4057765709759905793-13-1748265284 - Holdem no limit (30/60) - 2025/05/26 13:14:44 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (495)
+Seat 2: Philo97315 (1005)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Philo97315 posts big blind 60
+Dealt to MathisKcr [8h Qc]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Philo97315 checks
+*** FLOP *** [2h Ks As]
+Philo97315 checks
+MathisKcr checks
+*** TURN *** [2h Ks As][3s]
+Philo97315 checks
+MathisKcr bets 90
+Philo97315 folds
+MathisKcr collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [2h Ks As 3s]
+Seat 1: MathisKcr (small blind) (button) won 210
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4057765709759905793-14-1748265303 - Holdem no limit (30/60) - 2025/05/26 13:15:03 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (555)
+Seat 2: Philo97315 (945)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qd Ah]
+*** PRE-FLOP *** 
+Philo97315 calls 30
+MathisKcr raises 120 to 180
+Philo97315 calls 120
+*** FLOP *** [Ac 8c 9c]
+MathisKcr bets 180
+Philo97315 folds
+MathisKcr collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Ac 8c 9c]
+Seat 1: MathisKcr (big blind) won 540
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4057765709759905793-15-1748265320 - Holdem no limit (30/60) - 2025/05/26 13:15:20 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (735)
+Seat 2: Philo97315 (765)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Philo97315 posts big blind 60
+Dealt to MathisKcr [9h 5s]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Philo97315 raises 705 to 765 and is all-in
+MathisKcr folds
+Philo97315 collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Seat 2: Philo97315 (big blind) won 825
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4057765709759905793-16-1748265328 - Holdem no limit (30/60) - 2025/05/26 13:15:28 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (675)
+Seat 2: Philo97315 (825)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [4d Tc]
+*** PRE-FLOP *** 
+Philo97315 calls 30
+MathisKcr checks
+*** FLOP *** [Js 2s 6s]
+MathisKcr checks
+Philo97315 bets 120
+MathisKcr folds
+Philo97315 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Js 2s 6s]
+Seat 2: Philo97315 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4057765709759905793-17-1748265339 - Holdem no limit (30/60) - 2025/05/26 13:15:39 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (615)
+Seat 2: Philo97315 (885)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Philo97315 posts big blind 60
+Dealt to MathisKcr [2c 4s]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Philo97315 raises 120 to 180
+MathisKcr folds
+Philo97315 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 2: Philo97315 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #4057765709759905793-18-1748265348 - Holdem no limit (30/60) - 2025/05/26 13:15:48 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (555)
+Seat 2: Philo97315 (945)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [3s As]
+*** PRE-FLOP *** 
+Philo97315 calls 30
+MathisKcr checks
+*** FLOP *** [9s 2d 4d]
+MathisKcr checks
+Philo97315 checks
+*** TURN *** [9s 2d 4d][3d]
+MathisKcr checks
+Philo97315 checks
+*** RIVER *** [9s 2d 4d 3d][Jd]
+MathisKcr bets 180
+Philo97315 folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [9s 2d 4d 3d Jd]
+Seat 1: MathisKcr (big blind) won 300
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4057765709759905793-19-1748265368 - Holdem no limit (40/80) - 2025/05/26 13:16:08 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (615)
+Seat 2: Philo97315 (885)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Philo97315 posts big blind 80
+Dealt to MathisKcr [Qc 3d]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+Philo97315 checks
+*** FLOP *** [As 7s Kd]
+Philo97315 checks
+MathisKcr checks
+*** TURN *** [As 7s Kd][2d]
+Philo97315 bets 160
+MathisKcr folds
+Philo97315 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [As 7s Kd 2d]
+Seat 2: Philo97315 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4057765709759905793-20-1748265379 - Holdem no limit (40/80) - 2025/05/26 13:16:19 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (535)
+Seat 2: Philo97315 (965)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [9h 2c]
+*** PRE-FLOP *** 
+Philo97315 raises 160 to 240
+MathisKcr folds
+Philo97315 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Philo97315 (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4057765709759905793-21-1748265385 - Holdem no limit (40/80) - 2025/05/26 13:16:25 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (455)
+Seat 2: Philo97315 (1045)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Philo97315 posts big blind 80
+Dealt to MathisKcr [Jd 5c]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+Philo97315 raises 965 to 1045 and is all-in
+MathisKcr folds
+Philo97315 collected 1125 from pot
+*** SUMMARY ***
+Total pot 1125 | No rake
+Seat 2: Philo97315 (big blind) won 1125
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4057765709759905793-22-1748265394 - Holdem no limit (40/80) - 2025/05/26 13:16:34 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (375)
+Seat 2: Philo97315 (1125)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Qs Ah]
+*** PRE-FLOP *** 
+Philo97315 calls 40
+MathisKcr raises 80 to 160
+Philo97315 calls 80
+*** FLOP *** [Td 6s Ac]
+MathisKcr bets 160
+Philo97315 folds
+MathisKcr collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Td 6s Ac]
+Seat 1: MathisKcr (big blind) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4057765709759905793-23-1748265410 - Holdem no limit (40/80) - 2025/05/26 13:16:50 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (535)
+Seat 2: Philo97315 (965)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Philo97315 posts big blind 80
+Dealt to MathisKcr [Kc 4d]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+Philo97315 raises 160 to 240
+MathisKcr calls 160
+*** FLOP *** [6h 4h 2h]
+Philo97315 bets 725 and is all-in
+MathisKcr calls 295 and is all-in
+*** TURN *** [6h 4h 2h][3c]
+*** RIVER *** [6h 4h 2h 3c][Tc]
+*** SHOW DOWN ***
+MathisKcr shows [Kc 4d] (One pair : 4)
+Philo97315 shows [4c Qc] (One pair : 4)
+Philo97315 collected 430 from side pot 1
+MathisKcr collected 1070 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [6h 4h 2h 3c Tc]
+Seat 1: MathisKcr (small blind) (button) showed [Kc 4d] and won 1070 with One pair : 4
+Seat 2: Philo97315 (big blind) showed [4c Qc] and won 430 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4057765709759905793-24-1748265424 - Holdem no limit (40/80) - 2025/05/26 13:17:04 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (1070)
+Seat 2: Philo97315 (430)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [5h Js]
+*** PRE-FLOP *** 
+Philo97315 raises 350 to 430 and is all-in
+MathisKcr calls 350
+*** FLOP *** [9h 7d 5c]
+*** TURN *** [9h 7d 5c][Th]
+*** RIVER *** [9h 7d 5c Th][4s]
+*** SHOW DOWN ***
+MathisKcr shows [5h Js] (One pair : 5)
+Philo97315 shows [8c 8s] (One pair : 8)
+Philo97315 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [9h 7d 5c Th 4s]
+Seat 1: MathisKcr (big blind) showed [5h Js] and lost with One pair : 5
+Seat 2: Philo97315 (small blind) (button) showed [8c 8s] and won 860 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 5 - HandId: #4057765709759905793-25-1748265435 - Holdem no limit (40/80) - 2025/05/26 13:17:15 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (640)
+Seat 2: Philo97315 (860)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Philo97315 posts big blind 80
+Dealt to MathisKcr [8d 5h]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+Philo97315 checks
+*** FLOP *** [Ac 5d Jh]
+Philo97315 checks
+MathisKcr bets 560 and is all-in
+Philo97315 folds
+MathisKcr collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Ac 5d Jh]
+Seat 1: MathisKcr (small blind) (button) won 720
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 6 - HandId: #4057765709759905793-26-1748265451 - Holdem no limit (50/100) - 2025/05/26 13:17:31 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (720)
+Seat 2: Philo97315 (780)
+*** ANTE/BLINDS ***
+Philo97315 posts small blind 50
+MathisKcr posts big blind 100
+Dealt to MathisKcr [9h Ts]
+*** PRE-FLOP *** 
+Philo97315 calls 50
+MathisKcr raises 620 to 720 and is all-in
+Philo97315 folds
+MathisKcr collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Seat 1: MathisKcr (big blind) won 820
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 6 - HandId: #4057765709759905793-27-1748265463 - Holdem no limit (50/100) - 2025/05/26 13:17:43 UTC
+Table: 'Expresso(944772202)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (820)
+Seat 2: Philo97315 (680)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 50
+Philo97315 posts big blind 100
+Dealt to MathisKcr [9c Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 720 to 820 and is all-in
+Philo97315 calls 580 and is all-in
+*** FLOP *** [3c 8d Qs]
+*** TURN *** [3c 8d Qs][4s]
+*** RIVER *** [3c 8d Qs 4s][9s]
+*** SHOW DOWN ***
+Philo97315 shows [7s Ac] (High card : Ace)
+MathisKcr shows [9c Qh] (Two pairs : Queens and 9)
+MathisKcr collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [3c 8d Qs 4s 9s]
+Seat 1: MathisKcr (small blind) (button) showed [9c Qh] and won 1500 with Two pairs : Queens and 9
+Seat 2: Philo97315 (big blind) showed [7s Ac] and lost with High card : Ace
+
+

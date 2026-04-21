@@ -1,0 +1,281 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612665266675908609-1-1772826937 - Holdem no limit (10/20) - 2026/03/06 19:55:37 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #3 is the button
+Seat 1: DramaRiver (300)
+Seat 2: MathisKcr (300)
+Seat 3: -Hazderr- (300)
+*** ANTE/BLINDS ***
+DramaRiver posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 4s]
+*** PRE-FLOP *** 
+-Hazderr- calls 20
+DramaRiver calls 10
+MathisKcr raises 40 to 60
+-Hazderr- calls 40
+DramaRiver calls 40
+*** FLOP *** [6d 8h 8c]
+DramaRiver bets 117
+MathisKcr folds
+-Hazderr- folds
+DramaRiver collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [6d 8h 8c]
+Seat 1: DramaRiver (small blind) won 297
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612665266675908609-2-1772826958 - Holdem no limit (10/20) - 2026/03/06 19:55:58 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DramaRiver (420)
+Seat 2: MathisKcr (240)
+Seat 3: -Hazderr- (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+-Hazderr- posts big blind 20
+Dealt to MathisKcr [Qs 2d]
+*** PRE-FLOP *** 
+DramaRiver calls 20
+MathisKcr calls 10
+-Hazderr- checks
+*** FLOP *** [7s 3c 7h]
+MathisKcr checks
+-Hazderr- bets 60
+DramaRiver calls 60
+MathisKcr folds
+*** TURN *** [7s 3c 7h][Kd]
+-Hazderr- bets 160 and is all-in
+DramaRiver calls 160
+*** RIVER *** [7s 3c 7h Kd][2h]
+*** SHOW DOWN ***
+-Hazderr- shows [Tc 3s] (Two pairs : 7 and 3)
+DramaRiver shows [7c 8c] (Trips of 7)
+DramaRiver collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [7s 3c 7h Kd 2h]
+Seat 1: DramaRiver (button) showed [7c 8c] and won 500 with Trips of 7
+Seat 3: -Hazderr- (big blind) showed [Tc 3s] and lost with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612665266675908609-3-1772826986 - Holdem no limit (10/20) - 2026/03/06 19:56:26 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DramaRiver (680)
+Seat 2: MathisKcr (220)
+*** ANTE/BLINDS ***
+DramaRiver posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6d 4c]
+*** PRE-FLOP *** 
+DramaRiver calls 10
+MathisKcr checks
+*** FLOP *** [Ks 9d Ac]
+MathisKcr checks
+DramaRiver bets 20
+MathisKcr folds
+DramaRiver collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ks 9d Ac]
+Seat 1: DramaRiver (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4612665266675908609-4-1772826997 - Holdem no limit (15/30) - 2026/03/06 19:56:37 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DramaRiver (700)
+Seat 2: MathisKcr (200)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+DramaRiver posts big blind 30
+Dealt to MathisKcr [9h Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 170 to 200 and is all-in
+DramaRiver folds
+MathisKcr collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Seat 2: MathisKcr (small blind) (button) won 230
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4612665266675908609-5-1772827010 - Holdem no limit (15/30) - 2026/03/06 19:56:50 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DramaRiver (670)
+Seat 2: MathisKcr (230)
+*** ANTE/BLINDS ***
+DramaRiver posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2h 3c]
+*** PRE-FLOP *** 
+DramaRiver calls 15
+MathisKcr raises 200 to 230 and is all-in
+DramaRiver folds
+MathisKcr collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 2: MathisKcr (big blind) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4612665266675908609-6-1772827029 - Holdem no limit (15/30) - 2026/03/06 19:57:09 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DramaRiver (640)
+Seat 2: MathisKcr (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+DramaRiver posts big blind 30
+Dealt to MathisKcr [9h 7c]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+DramaRiver raises 60 to 90
+MathisKcr folds
+DramaRiver collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: DramaRiver (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4612665266675908609-7-1772827039 - Holdem no limit (15/30) - 2026/03/06 19:57:19 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DramaRiver (670)
+Seat 2: MathisKcr (230)
+*** ANTE/BLINDS ***
+DramaRiver posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2d 6h]
+*** PRE-FLOP *** 
+DramaRiver folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4612665266675908609-8-1772827045 - Holdem no limit (15/30) - 2026/03/06 19:57:25 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DramaRiver (655)
+Seat 2: MathisKcr (245)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+DramaRiver posts big blind 30
+Dealt to MathisKcr [As 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 215 to 245 and is all-in
+DramaRiver folds
+MathisKcr collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Seat 2: MathisKcr (small blind) (button) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4612665266675908609-9-1772827056 - Holdem no limit (20/40) - 2026/03/06 19:57:36 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DramaRiver (625)
+Seat 2: MathisKcr (275)
+*** ANTE/BLINDS ***
+DramaRiver posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ts Td]
+*** PRE-FLOP *** 
+DramaRiver calls 20
+MathisKcr raises 235 to 275 and is all-in
+DramaRiver folds
+MathisKcr collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 2: MathisKcr (big blind) won 315
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4612665266675908609-10-1772827075 - Holdem no limit (20/40) - 2026/03/06 19:57:55 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DramaRiver (585)
+Seat 2: MathisKcr (315)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+DramaRiver posts big blind 40
+Dealt to MathisKcr [4s 5c]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+DramaRiver checks
+*** FLOP *** [3h Tc 8d]
+DramaRiver checks
+MathisKcr bets 40
+DramaRiver folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3h Tc 8d]
+Seat 2: MathisKcr (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4612665266675908609-11-1772827092 - Holdem no limit (20/40) - 2026/03/06 19:58:12 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DramaRiver (545)
+Seat 2: MathisKcr (355)
+*** ANTE/BLINDS ***
+DramaRiver posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Qs 7d]
+*** PRE-FLOP *** 
+DramaRiver folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4612665266675908609-12-1772827099 - Holdem no limit (20/40) - 2026/03/06 19:58:19 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DramaRiver (525)
+Seat 2: MathisKcr (375)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+DramaRiver posts big blind 40
+Dealt to MathisKcr [Ks Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 335 to 375 and is all-in
+DramaRiver folds
+MathisKcr collected 415 from pot
+*** SUMMARY ***
+Total pot 415 | No rake
+Seat 2: MathisKcr (small blind) (button) won 415
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4612665266675908609-13-1772827110 - Holdem no limit (20/40) - 2026/03/06 19:58:30 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DramaRiver (485)
+Seat 2: MathisKcr (415)
+*** ANTE/BLINDS ***
+DramaRiver posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Th 9d]
+*** PRE-FLOP *** 
+DramaRiver folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4612665266675908609-14-1772827121 - Holdem no limit (30/60) - 2026/03/06 19:58:41 UTC
+Table: 'Expresso Nitro(1073969823)#0' 3-max (real money) Seat #2 is the button
+Seat 1: DramaRiver (465)
+Seat 2: MathisKcr (435)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+DramaRiver posts big blind 60
+Dealt to MathisKcr [Ac 5s]
+*** PRE-FLOP *** 
+MathisKcr raises 375 to 435 and is all-in
+DramaRiver calls 375
+*** FLOP *** [7h 4d Kh]
+*** TURN *** [7h 4d Kh][4c]
+*** RIVER *** [7h 4d Kh 4c][6d]
+*** SHOW DOWN ***
+MathisKcr shows [Ac 5s] (One pair : 4)
+DramaRiver shows [Th Ks] (Two pairs : Kings and 4)
+DramaRiver collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Board: [7h 4d Kh 4c 6d]
+Seat 1: DramaRiver (big blind) showed [Th Ks] and won 870 with Two pairs : Kings and 4
+Seat 2: MathisKcr (small blind) (button) showed [Ac 5s] and lost with One pair : 4
+
+

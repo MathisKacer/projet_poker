@@ -1,0 +1,140 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659519502994636801-1-1774432127 - Holdem no limit (10/20) - 2026/03/25 09:48:47 UTC
+Table: 'Expresso Nitro(1084878925)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: lainpou (300)
+Seat 3: Fish K1ller (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+lainpou posts big blind 20
+Dealt to MathisKcr [2c 3s]
+*** PRE-FLOP *** 
+Fish K1ller folds
+MathisKcr calls 10
+lainpou checks
+*** FLOP *** [Jd 7s 8c]
+MathisKcr bets 40
+lainpou calls 40
+*** TURN *** [Jd 7s 8c][Qd]
+MathisKcr checks
+lainpou checks
+*** RIVER *** [Jd 7s 8c Qd][4s]
+MathisKcr checks
+lainpou checks
+*** SHOW DOWN ***
+MathisKcr shows [2c 3s] (High card : Queen)
+lainpou shows [3c Th] (High card : Queen)
+lainpou collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jd 7s 8c Qd 4s]
+Seat 1: MathisKcr (small blind) showed [2c 3s] and lost with High card : Queen
+Seat 2: lainpou (big blind) showed [3c Th] and won 120 with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659519502994636801-2-1774432164 - Holdem no limit (10/20) - 2026/03/25 09:49:24 UTC
+Table: 'Expresso Nitro(1084878925)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (240)
+Seat 2: lainpou (360)
+Seat 3: Fish K1ller (300)
+*** ANTE/BLINDS ***
+lainpou posts small blind 10
+Fish K1ller posts big blind 20
+Dealt to MathisKcr [6s Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+lainpou folds
+Fish K1ller folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659519502994636801-3-1774432176 - Holdem no limit (10/20) - 2026/03/25 09:49:36 UTC
+Table: 'Expresso Nitro(1084878925)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (270)
+Seat 2: lainpou (350)
+Seat 3: Fish K1ller (280)
+*** ANTE/BLINDS ***
+Fish K1ller posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9h 5h]
+*** PRE-FLOP *** 
+lainpou calls 20
+Fish K1ller calls 10
+MathisKcr checks
+*** FLOP *** [Qc 3d Jc]
+Fish K1ller checks
+MathisKcr checks
+lainpou checks
+*** TURN *** [Qc 3d Jc][6c]
+Fish K1ller bets 40
+MathisKcr folds
+lainpou raises 290 to 330 and is all-in
+Fish K1ller calls 220 and is all-in
+*** RIVER *** [Qc 3d Jc 6c][2c]
+*** SHOW DOWN ***
+lainpou shows [Qd Ts] (One pair : Queens)
+Fish K1ller shows [Tc Qh] (Flush Queen high)
+Fish K1ller collected 580 from main pot
+lainpou collected 70 from side pot 1
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Qc 3d Jc 6c 2c]
+Seat 2: lainpou (button) showed [Qd Ts] and won 70 with One pair : Queens
+Seat 3: Fish K1ller (small blind) showed [Tc Qh] and won 580 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4659519502994636801-4-1774432222 - Holdem no limit (15/30) - 2026/03/25 09:50:22 UTC
+Table: 'Expresso Nitro(1084878925)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (250)
+Seat 2: lainpou (70)
+Seat 3: Fish K1ller (580)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+lainpou posts big blind 30
+Dealt to MathisKcr [9h Jh]
+*** PRE-FLOP *** 
+Fish K1ller folds
+MathisKcr raises 60 to 90
+lainpou calls 40 and is all-in
+*** FLOP *** [9c Ts 6h]
+*** TURN *** [9c Ts 6h][Js]
+*** RIVER *** [9c Ts 6h Js][2h]
+*** SHOW DOWN ***
+lainpou shows [8s 6c] (One pair : 6)
+MathisKcr shows [9h Jh] (Two pairs : Jacks and 9)
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [9c Ts 6h Js 2h]
+Seat 1: MathisKcr (small blind) showed [9h Jh] and won 160 with Two pairs : Jacks and 9
+Seat 2: lainpou (big blind) showed [8s 6c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4659519502994636801-5-1774432237 - Holdem no limit (15/30) - 2026/03/25 09:50:37 UTC
+Table: 'Expresso Nitro(1084878925)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (320)
+Seat 3: Fish K1ller (580)
+*** ANTE/BLINDS ***
+Fish K1ller posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kd Ah]
+*** PRE-FLOP *** 
+Fish K1ller raises 33 to 63
+MathisKcr raises 257 to 320 and is all-in
+Fish K1ller raises 260 to 580 and is all-in
+*** FLOP *** [5d 5c Qc]
+*** TURN *** [5d 5c Qc][3s]
+*** RIVER *** [5d 5c Qc 3s][8h]
+*** SHOW DOWN ***
+MathisKcr shows [Kd Ah] (One pair : 5)
+Fish K1ller shows [Kc Kh] (Two pairs : Kings and 5)
+Fish K1ller collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5d 5c Qc 3s 8h]
+Seat 1: MathisKcr (big blind) showed [Kd Ah] and lost with One pair : 5
+Seat 3: Fish K1ller (small blind) (button) showed [Kc Kh] and won 900 with Two pairs : Kings and 5
+
+

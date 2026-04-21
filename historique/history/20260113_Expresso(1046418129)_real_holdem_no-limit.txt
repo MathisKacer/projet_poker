@@ -1,0 +1,105 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494331641996509185-1-1768304477 - Holdem no limit (10/20) - 2026/01/13 11:41:17 UTC
+Table: 'Expresso(1046418129)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (500)
+Seat 2: the wild13 (500)
+Seat 3: lowind (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+the wild13 posts big blind 20
+Dealt to MathisKcr [3h 7h]
+*** PRE-FLOP *** 
+lowind raises 20 to 40
+MathisKcr calls 30
+the wild13 folds
+*** FLOP *** [Qc Ad 6c]
+MathisKcr checks
+lowind bets 20
+MathisKcr folds
+lowind collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qc Ad 6c]
+Seat 3: lowind (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494331641996509185-2-1768304501 - Holdem no limit (10/20) - 2026/01/13 11:41:41 UTC
+Table: 'Expresso(1046418129)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (460)
+Seat 2: the wild13 (480)
+Seat 3: lowind (560)
+*** ANTE/BLINDS ***
+the wild13 posts small blind 10
+lowind posts big blind 20
+Dealt to MathisKcr [Td Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 50
+the wild13 folds
+lowind calls 30
+*** FLOP *** [4c 2s 2d]
+lowind bets 20
+MathisKcr raises 40 to 60
+lowind raises 40 to 100
+MathisKcr calls 40
+*** TURN *** [4c 2s 2d][Qd]
+lowind bets 109
+MathisKcr folds
+lowind collected 419 from pot
+*** SUMMARY ***
+Total pot 419 | No rake
+Board: [4c 2s 2d Qd]
+Seat 3: lowind (big blind) won 419
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494331641996509185-3-1768304550 - Holdem no limit (10/20) - 2026/01/13 11:42:30 UTC
+Table: 'Expresso(1046418129)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (310)
+Seat 2: the wild13 (470)
+Seat 3: lowind (720)
+*** ANTE/BLINDS ***
+lowind posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2c 6d]
+*** PRE-FLOP *** 
+the wild13 calls 20
+lowind calls 10
+MathisKcr checks
+*** FLOP *** [9h 7s Kc]
+lowind checks
+MathisKcr bets 290 and is all-in
+the wild13 folds
+lowind folds
+MathisKcr collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [9h 7s Kc]
+Seat 1: MathisKcr (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4494331641996509185-4-1768304574 - Holdem no limit (15/30) - 2026/01/13 11:42:54 UTC
+Table: 'Expresso(1046418129)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (350)
+Seat 2: the wild13 (450)
+Seat 3: lowind (700)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+the wild13 posts big blind 30
+Dealt to MathisKcr [Js 4h]
+*** PRE-FLOP *** 
+lowind raises 30 to 60
+MathisKcr raises 290 to 350 and is all-in
+the wild13 folds
+lowind calls 290
+*** FLOP *** [Qs 6d 3d]
+*** TURN *** [Qs 6d 3d][9d]
+*** RIVER *** [Qs 6d 3d 9d][9s]
+*** SHOW DOWN ***
+MathisKcr shows [Js 4h] (One pair : 9)
+lowind shows [6s 5c] (Two pairs : 9 and 6)
+lowind collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [Qs 6d 3d 9d 9s]
+Seat 1: MathisKcr (small blind) showed [Js 4h] and lost with One pair : 9
+Seat 3: lowind (button) showed [6s 5c] and won 730 with Two pairs : 9 and 6
+
+

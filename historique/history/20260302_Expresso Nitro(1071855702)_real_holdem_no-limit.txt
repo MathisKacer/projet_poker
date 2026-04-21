@@ -1,0 +1,110 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603585186121121793-1-1772473438 - Holdem no limit (10/20) - 2026/03/02 17:43:58 UTC
+Table: 'Expresso Nitro(1071855702)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kagouu3 (300)
+Seat 2: UNDERrated85 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+UNDERrated85 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c 8c]
+*** PRE-FLOP *** 
+Kagouu3 raises 280 to 300 and is all-in
+UNDERrated85 calls 290 and is all-in
+MathisKcr folds
+*** FLOP *** [9h 2c 4h]
+*** TURN *** [9h 2c 4h][Td]
+*** RIVER *** [9h 2c 4h Td][6s]
+*** SHOW DOWN ***
+Kagouu3 shows [Js Ad] (High card : Ace)
+UNDERrated85 shows [9s 5c] (One pair : 9)
+UNDERrated85 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9h 2c 4h Td 6s]
+Seat 1: Kagouu3 (button) showed [Js Ad] and lost with High card : Ace
+Seat 2: UNDERrated85 (small blind) showed [9s 5c] and won 620 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603585186121121793-2-1772473454 - Holdem no limit (10/20) - 2026/03/02 17:44:14 UTC
+Table: 'Expresso Nitro(1071855702)#0' 3-max (real money) Seat #3 is the button
+Seat 2: UNDERrated85 (620)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+UNDERrated85 posts big blind 20
+Dealt to MathisKcr [Ac 8d]
+*** PRE-FLOP *** 
+MathisKcr raises 260 to 280 and is all-in
+UNDERrated85 calls 260
+*** FLOP *** [4h 7s Kh]
+*** TURN *** [4h 7s Kh][3d]
+*** RIVER *** [4h 7s Kh 3d][Qc]
+*** SHOW DOWN ***
+UNDERrated85 shows [9s 8s] (High card : King)
+MathisKcr shows [Ac 8d] (High card : Ace)
+MathisKcr collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [4h 7s Kh 3d Qc]
+Seat 2: UNDERrated85 (big blind) showed [9s 8s] and lost with High card : King
+Seat 3: MathisKcr (small blind) (button) showed [Ac 8d] and won 560 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603585186121121793-3-1772473466 - Holdem no limit (10/20) - 2026/03/02 17:44:26 UTC
+Table: 'Expresso Nitro(1071855702)#0' 3-max (real money) Seat #2 is the button
+Seat 2: UNDERrated85 (340)
+Seat 3: MathisKcr (560)
+*** ANTE/BLINDS ***
+UNDERrated85 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qc 7s]
+*** PRE-FLOP *** 
+UNDERrated85 raises 320 to 340 and is all-in
+MathisKcr folds
+UNDERrated85 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: UNDERrated85 (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603585186121121793-4-1772473474 - Holdem no limit (10/20) - 2026/03/02 17:44:34 UTC
+Table: 'Expresso Nitro(1071855702)#0' 3-max (real money) Seat #3 is the button
+Seat 2: UNDERrated85 (360)
+Seat 3: MathisKcr (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+UNDERrated85 posts big blind 20
+Dealt to MathisKcr [5d Tc]
+*** PRE-FLOP *** 
+MathisKcr folds
+UNDERrated85 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: UNDERrated85 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603585186121121793-5-1772473480 - Holdem no limit (10/20) - 2026/03/02 17:44:40 UTC
+Table: 'Expresso Nitro(1071855702)#0' 3-max (real money) Seat #2 is the button
+Seat 2: UNDERrated85 (370)
+Seat 3: MathisKcr (530)
+*** ANTE/BLINDS ***
+UNDERrated85 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c Ac]
+*** PRE-FLOP *** 
+UNDERrated85 raises 350 to 370 and is all-in
+MathisKcr calls 350
+*** FLOP *** [4s 7s Kh]
+*** TURN *** [4s 7s Kh][Qd]
+*** RIVER *** [4s 7s Kh Qd][7c]
+*** SHOW DOWN ***
+UNDERrated85 shows [3h Ts] (One pair : 7)
+MathisKcr shows [3c Ac] (One pair : 7)
+MathisKcr collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [4s 7s Kh Qd 7c]
+Seat 2: UNDERrated85 (small blind) (button) showed [3h Ts] and lost with One pair : 7
+Seat 3: MathisKcr (big blind) showed [3c Ac] and won 740 with One pair : 7
+
+

@@ -1,0 +1,217 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4539695855376007169-1-1770152884 - Holdem no limit (10/20) - 2026/02/03 21:08:04 UTC
+Table: 'Expresso Nitro(1056980308)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Enzo 2022 (300)
+Seat 2: yo69400 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Enzo 2022 posts small blind 10
+yo69400 posts big blind 20
+Dealt to MathisKcr [4d 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+Enzo 2022 folds
+yo69400 calls 280 and is all-in
+*** FLOP *** [5s 4h Ts]
+*** TURN *** [5s 4h Ts][5c]
+*** RIVER *** [5s 4h Ts 5c][Ah]
+*** SHOW DOWN ***
+yo69400 shows [Qh Js] (One pair : 5)
+MathisKcr shows [4d 5d] (Full of 5 and 4)
+MathisKcr collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [5s 4h Ts 5c Ah]
+Seat 2: yo69400 (big blind) showed [Qh Js] and lost with One pair : 5
+Seat 3: MathisKcr (button) showed [4d 5d] and won 610 with Full of 5 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4539695855376007169-2-1770152900 - Holdem no limit (10/20) - 2026/02/03 21:08:20 UTC
+Table: 'Expresso Nitro(1056980308)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Enzo 2022 (290)
+Seat 3: MathisKcr (610)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Enzo 2022 posts big blind 20
+Dealt to MathisKcr [9d 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Enzo 2022 calls 20
+*** FLOP *** [8s 8c Qd]
+Enzo 2022 checks
+MathisKcr bets 20
+Enzo 2022 calls 20
+*** TURN *** [8s 8c Qd][7s]
+Enzo 2022 checks
+MathisKcr bets 40
+Enzo 2022 calls 40
+*** RIVER *** [8s 8c Qd 7s][7h]
+Enzo 2022 checks
+MathisKcr bets 80
+Enzo 2022 raises 110 to 190 and is all-in
+MathisKcr calls 110
+*** SHOW DOWN ***
+Enzo 2022 shows [7c 8d] (Full of 8 and 7)
+MathisKcr shows [9d 8h] (Full of 8 and 7)
+MathisKcr collected 290 from pot
+Enzo 2022 collected 290 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [8s 8c Qd 7s 7h]
+Seat 1: Enzo 2022 (big blind) showed [7c 8d] and won 290 with Full of 8 and 7
+Seat 3: MathisKcr (small blind) (button) showed [9d 8h] and won 290 with Full of 8 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4539695855376007169-3-1770152933 - Holdem no limit (10/20) - 2026/02/03 21:08:53 UTC
+Table: 'Expresso Nitro(1056980308)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Enzo 2022 (290)
+Seat 3: MathisKcr (610)
+*** ANTE/BLINDS ***
+Enzo 2022 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6d 6h]
+*** PRE-FLOP *** 
+Enzo 2022 calls 10
+MathisKcr raises 590 to 610 and is all-in
+Enzo 2022 calls 270 and is all-in
+*** FLOP *** [Jh Jc Ks]
+*** TURN *** [Jh Jc Ks][6s]
+*** RIVER *** [Jh Jc Ks 6s][Jd]
+*** SHOW DOWN ***
+Enzo 2022 shows [8s Kc] (Full of Jacks and Kings)
+MathisKcr shows [6d 6h] (Full of Jacks and 6)
+MathisKcr collected 320 from side pot 1
+Enzo 2022 collected 580 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh Jc Ks 6s Jd]
+Seat 1: Enzo 2022 (small blind) (button) showed [8s Kc] and won 580 with Full of Jacks and Kings
+Seat 3: MathisKcr (big blind) showed [6d 6h] and won 320 with Full of Jacks and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4539695855376007169-4-1770152954 - Holdem no limit (15/30) - 2026/02/03 21:09:14 UTC
+Table: 'Expresso Nitro(1056980308)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Enzo 2022 (580)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Enzo 2022 posts big blind 30
+Dealt to MathisKcr [6h 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Enzo 2022 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Enzo 2022 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4539695855376007169-5-1770152960 - Holdem no limit (15/30) - 2026/02/03 21:09:20 UTC
+Table: 'Expresso Nitro(1056980308)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Enzo 2022 (595)
+Seat 3: MathisKcr (305)
+*** ANTE/BLINDS ***
+Enzo 2022 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7s Th]
+*** PRE-FLOP *** 
+Enzo 2022 calls 15
+MathisKcr checks
+*** FLOP *** [2s 9h 9s]
+MathisKcr checks
+Enzo 2022 checks
+*** TURN *** [2s 9h 9s][4h]
+MathisKcr bets 60
+Enzo 2022 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2s 9h 9s 4h]
+Seat 3: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4539695855376007169-6-1770152979 - Holdem no limit (15/30) - 2026/02/03 21:09:39 UTC
+Table: 'Expresso Nitro(1056980308)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Enzo 2022 (565)
+Seat 3: MathisKcr (335)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Enzo 2022 posts big blind 30
+Dealt to MathisKcr [Ad As]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Enzo 2022 calls 30
+*** FLOP *** [4d 3s Jh]
+Enzo 2022 checks
+MathisKcr bets 30
+Enzo 2022 calls 30
+*** TURN *** [4d 3s Jh][6s]
+Enzo 2022 checks
+MathisKcr bets 75
+Enzo 2022 calls 75
+*** RIVER *** [4d 3s Jh 6s][4c]
+Enzo 2022 checks
+MathisKcr bets 170 and is all-in
+Enzo 2022 calls 170
+*** SHOW DOWN ***
+Enzo 2022 shows [5h 3d] (Two pairs : 4 and 3)
+MathisKcr shows [Ad As] (Two pairs : Aces and 4)
+MathisKcr collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [4d 3s Jh 6s 4c]
+Seat 1: Enzo 2022 (big blind) showed [5h 3d] and lost with Two pairs : 4 and 3
+Seat 3: MathisKcr (small blind) (button) showed [Ad As] and won 670 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4539695855376007169-7-1770153013 - Holdem no limit (20/40) - 2026/02/03 21:10:13 UTC
+Table: 'Expresso Nitro(1056980308)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Enzo 2022 (230)
+Seat 3: MathisKcr (670)
+*** ANTE/BLINDS ***
+Enzo 2022 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [4d 6s]
+*** PRE-FLOP *** 
+Enzo 2022 calls 20
+MathisKcr checks
+*** FLOP *** [6h 9h 7c]
+MathisKcr bets 630 and is all-in
+Enzo 2022 calls 190 and is all-in
+*** TURN *** [6h 9h 7c][8h]
+*** RIVER *** [6h 9h 7c 8h][2h]
+*** SHOW DOWN ***
+Enzo 2022 shows [8s Jh] (Flush Jack high)
+MathisKcr shows [4d 6s] (One pair : 6)
+MathisKcr collected 440 from side pot 1
+Enzo 2022 collected 460 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6h 9h 7c 8h 2h]
+Seat 1: Enzo 2022 (small blind) (button) showed [8s Jh] and won 460 with Flush Jack high
+Seat 3: MathisKcr (big blind) showed [4d 6s] and won 440 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4539695855376007169-8-1770153029 - Holdem no limit (20/40) - 2026/02/03 21:10:29 UTC
+Table: 'Expresso Nitro(1056980308)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Enzo 2022 (460)
+Seat 3: MathisKcr (440)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Enzo 2022 posts big blind 40
+Dealt to MathisKcr [8c Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 400 to 440 and is all-in
+Enzo 2022 calls 400
+*** FLOP *** [7d Td Jh]
+*** TURN *** [7d Td Jh][Ah]
+*** RIVER *** [7d Td Jh Ah][6c]
+*** SHOW DOWN ***
+MathisKcr shows [8c Kd] (High card : Ace)
+Enzo 2022 shows [Tc Ac] (Two pairs : Aces and Tens)
+Enzo 2022 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [7d Td Jh Ah 6c]
+Seat 1: Enzo 2022 (big blind) showed [Tc Ac] and won 880 with Two pairs : Aces and Tens
+Seat 3: MathisKcr (small blind) (button) showed [8c Kd] and lost with High card : Ace
+
+

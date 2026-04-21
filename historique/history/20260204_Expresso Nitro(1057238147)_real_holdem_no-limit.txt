@@ -1,0 +1,233 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4540803265448640513-1-1770192060 - Holdem no limit (10/20) - 2026/02/04 08:01:00 UTC
+Table: 'Expresso Nitro(1057238147)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Scorpgre3874 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Niclife (300)
+*** ANTE/BLINDS ***
+Scorpgre3874 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c 2h]
+*** PRE-FLOP *** 
+Niclife calls 20
+Scorpgre3874 folds
+MathisKcr checks
+*** FLOP *** [6d Ad 5d]
+MathisKcr bets 20
+Niclife calls 20
+*** TURN *** [6d Ad 5d][Kc]
+MathisKcr checks
+Niclife checks
+*** RIVER *** [6d Ad 5d Kc][Qd]
+MathisKcr checks
+Niclife bets 31
+MathisKcr folds
+Niclife collected 121 from pot
+*** SUMMARY ***
+Total pot 121 | No rake
+Board: [6d Ad 5d Kc Qd]
+Seat 3: Niclife (button) won 121
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4540803265448640513-2-1770192083 - Holdem no limit (10/20) - 2026/02/04 08:01:23 UTC
+Table: 'Expresso Nitro(1057238147)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scorpgre3874 (290)
+Seat 2: MathisKcr (260)
+Seat 3: Niclife (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Niclife posts big blind 20
+Dealt to MathisKcr [3h Kc]
+*** PRE-FLOP *** 
+Scorpgre3874 raises 50 to 70
+MathisKcr calls 60
+Niclife calls 50
+*** FLOP *** [7h 6s 6d]
+MathisKcr checks
+Niclife checks
+Scorpgre3874 bets 220 and is all-in
+MathisKcr folds
+Niclife folds
+Scorpgre3874 collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Board: [7h 6s 6d]
+Seat 1: Scorpgre3874 (button) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4540803265448640513-3-1770192106 - Holdem no limit (10/20) - 2026/02/04 08:01:46 UTC
+Table: 'Expresso Nitro(1057238147)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Scorpgre3874 (430)
+Seat 2: MathisKcr (190)
+Seat 3: Niclife (280)
+*** ANTE/BLINDS ***
+Niclife posts small blind 10
+Scorpgre3874 posts big blind 20
+Dealt to MathisKcr [Kd 4d]
+*** PRE-FLOP *** 
+MathisKcr raises 170 to 190 and is all-in
+Niclife folds
+Scorpgre3874 folds
+MathisKcr collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Seat 2: MathisKcr (button) won 220
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4540803265448640513-4-1770192116 - Holdem no limit (10/20) - 2026/02/04 08:01:56 UTC
+Table: 'Expresso Nitro(1057238147)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Scorpgre3874 (410)
+Seat 2: MathisKcr (220)
+Seat 3: Niclife (270)
+*** ANTE/BLINDS ***
+Scorpgre3874 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d Qd]
+*** PRE-FLOP *** 
+Niclife calls 20
+Scorpgre3874 raises 20 to 40
+MathisKcr folds
+Niclife calls 20
+*** FLOP *** [6h Jd Td]
+Scorpgre3874 checks
+Niclife checks
+*** TURN *** [6h Jd Td][5d]
+Scorpgre3874 bets 20
+Niclife calls 20
+*** RIVER *** [6h Jd Td 5d][Ts]
+Scorpgre3874 checks
+Niclife checks
+*** SHOW DOWN ***
+Scorpgre3874 shows [3c Kc] (One pair : Tens)
+Niclife shows [Kd 6c] (Two pairs : Tens and 6)
+Niclife collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6h Jd Td 5d Ts]
+Seat 1: Scorpgre3874 (small blind) showed [3c Kc] and lost with One pair : Tens
+Seat 3: Niclife (button) showed [Kd 6c] and won 140 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540803265448640513-5-1770192134 - Holdem no limit (15/30) - 2026/02/04 08:02:14 UTC
+Table: 'Expresso Nitro(1057238147)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scorpgre3874 (350)
+Seat 2: MathisKcr (200)
+Seat 3: Niclife (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Niclife posts big blind 30
+Dealt to MathisKcr [4c 6c]
+*** PRE-FLOP *** 
+Scorpgre3874 raises 30 to 60
+MathisKcr folds
+Niclife folds
+Scorpgre3874 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 1: Scorpgre3874 (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540803265448640513-6-1770192141 - Holdem no limit (15/30) - 2026/02/04 08:02:21 UTC
+Table: 'Expresso Nitro(1057238147)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Scorpgre3874 (395)
+Seat 2: MathisKcr (185)
+Seat 3: Niclife (320)
+*** ANTE/BLINDS ***
+Niclife posts small blind 15
+Scorpgre3874 posts big blind 30
+Dealt to MathisKcr [9h Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 155 to 185 and is all-in
+Niclife folds
+Scorpgre3874 calls 155
+*** FLOP *** [Tc Kd 3d]
+*** TURN *** [Tc Kd 3d][7h]
+*** RIVER *** [Tc Kd 3d 7h][Ah]
+*** SHOW DOWN ***
+Scorpgre3874 shows [5c 9c] (High card : Ace)
+MathisKcr shows [9h Qh] (High card : Ace)
+MathisKcr collected 385 from pot
+*** SUMMARY ***
+Total pot 385 | No rake
+Board: [Tc Kd 3d 7h Ah]
+Seat 1: Scorpgre3874 (big blind) showed [5c 9c] and lost with High card : Ace
+Seat 2: MathisKcr (button) showed [9h Qh] and won 385 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540803265448640513-7-1770192157 - Holdem no limit (15/30) - 2026/02/04 08:02:37 UTC
+Table: 'Expresso Nitro(1057238147)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Scorpgre3874 (210)
+Seat 2: MathisKcr (385)
+Seat 3: Niclife (305)
+*** ANTE/BLINDS ***
+Scorpgre3874 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5c 2h]
+*** PRE-FLOP *** 
+Niclife calls 30
+Scorpgre3874 raises 180 to 210 and is all-in
+MathisKcr folds
+Niclife folds
+Scorpgre3874 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 1: Scorpgre3874 (small blind) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540803265448640513-8-1770192168 - Holdem no limit (15/30) - 2026/02/04 08:02:48 UTC
+Table: 'Expresso Nitro(1057238147)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Scorpgre3874 (270)
+Seat 2: MathisKcr (355)
+Seat 3: Niclife (275)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Niclife posts big blind 30
+Dealt to MathisKcr [6c Tc]
+*** PRE-FLOP *** 
+Scorpgre3874 raises 75 to 105
+MathisKcr raises 250 to 355 and is all-in
+Niclife folds
+Scorpgre3874 calls 165 and is all-in
+*** FLOP *** [Ac Th 3d]
+*** TURN *** [Ac Th 3d][5s]
+*** RIVER *** [Ac Th 3d 5s][9h]
+*** SHOW DOWN ***
+Scorpgre3874 shows [Qd 6d] (High card : Ace)
+MathisKcr shows [6c Tc] (One pair : Tens)
+MathisKcr collected 655 from pot
+*** SUMMARY ***
+Total pot 655 | No rake
+Board: [Ac Th 3d 5s 9h]
+Seat 1: Scorpgre3874 (button) showed [Qd 6d] and lost with High card : Ace
+Seat 2: MathisKcr (small blind) showed [6c Tc] and won 655 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4540803265448640513-9-1770192185 - Holdem no limit (20/40) - 2026/02/04 08:03:05 UTC
+Table: 'Expresso Nitro(1057238147)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (655)
+Seat 3: Niclife (245)
+*** ANTE/BLINDS ***
+Niclife posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ac Ah]
+*** PRE-FLOP *** 
+Niclife calls 20
+MathisKcr raises 40 to 80
+Niclife calls 40
+*** FLOP *** [9d Jc 9s]
+MathisKcr bets 80
+Niclife calls 80
+*** TURN *** [9d Jc 9s][Kd]
+MathisKcr bets 495 and is all-in
+Niclife calls 85 and is all-in
+*** RIVER *** [9d Jc 9s Kd][2c]
+*** SHOW DOWN ***
+Niclife shows [8c Qh] (One pair : 9)
+MathisKcr shows [Ac Ah] (Two pairs : Aces and 9)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d Jc 9s Kd 2c]
+Seat 2: MathisKcr (big blind) showed [Ac Ah] and won 900 with Two pairs : Aces and 9
+Seat 3: Niclife (small blind) (button) showed [8c Qh] and lost with One pair : 9
+
+

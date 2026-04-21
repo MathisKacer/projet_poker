@@ -1,0 +1,78 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4705728901513478145-1-1776190896 - Holdem no limit (10/20) - 2026/04/14 18:21:36 UTC
+Table: 'Expresso Nitro(1095637889)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: acaaam75 (300)
+Seat 3: Don Houdini (300)
+*** ANTE/BLINDS ***
+acaaam75 posts small blind 10
+Don Houdini posts big blind 20
+Dealt to MathisKcr [9s 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+acaaam75 folds
+Don Houdini calls 20
+*** FLOP *** [7h Ks 7d]
+Don Houdini bets 20
+MathisKcr folds
+Don Houdini collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [7h Ks 7d]
+Seat 3: Don Houdini (big blind) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4705728901513478145-2-1776190912 - Holdem no limit (10/20) - 2026/04/14 18:21:52 UTC
+Table: 'Expresso Nitro(1095637889)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (260)
+Seat 2: acaaam75 (290)
+Seat 3: Don Houdini (350)
+*** ANTE/BLINDS ***
+Don Houdini posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8d 6c]
+*** PRE-FLOP *** 
+acaaam75 folds
+Don Houdini raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [9c Kh 4h]
+Don Houdini bets 20
+MathisKcr folds
+Don Houdini collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [9c Kh 4h]
+Seat 3: Don Houdini (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4705728901513478145-3-1776190930 - Holdem no limit (10/20) - 2026/04/14 18:22:10 UTC
+Table: 'Expresso Nitro(1095637889)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (220)
+Seat 2: acaaam75 (290)
+Seat 3: Don Houdini (390)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+acaaam75 posts big blind 20
+Dealt to MathisKcr [Jd 8h]
+*** PRE-FLOP *** 
+Don Houdini calls 20
+MathisKcr raises 200 to 220 and is all-in
+acaaam75 calls 200
+Don Houdini calls 200
+*** FLOP *** [Ts 2s 7c]
+acaaam75 bets 70 and is all-in
+Don Houdini calls 70
+*** TURN *** [Ts 2s 7c][5c]
+*** RIVER *** [Ts 2s 7c 5c][5d]
+*** SHOW DOWN ***
+MathisKcr shows [Jd 8h] (One pair : 5)
+Don Houdini shows [Jh 6h] (One pair : 5)
+acaaam75 shows [Ad Ac] (Two pairs : Aces and 5)
+acaaam75 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Ts 2s 7c 5c 5d]
+Seat 1: MathisKcr (small blind) showed [Jd 8h] and lost with One pair : 5
+Seat 2: acaaam75 (big blind) showed [Ad Ac] and won 800 with Two pairs : Aces and 5
+Seat 3: Don Houdini (button) showed [Jh 6h] and lost with One pair : 5
+
+

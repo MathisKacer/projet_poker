@@ -1,0 +1,538 @@
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-1-1775934930 - Holdem no limit (3/10/20) - 2026/04/11 19:15:30 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #2 is the button
+Seat 1: Soldat 61383 (500, 1€ bounty)
+Seat 2: NAIKA_AS (500, 1€ bounty)
+Seat 3: MathisKcr (500, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts small blind 10
+Soldat 61383 posts big blind 20
+Dealt to MathisKcr [5h 6s]
+*** PRE-FLOP *** 
+NAIKA_AS raises 20 to 40
+MathisKcr folds
+Soldat 61383 folds
+NAIKA_AS collected 79 from pot
+*** SUMMARY ***
+Total pot 79 | No rake
+Seat 2: NAIKA_AS (button) won 79
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-2-1775935018 - Holdem no limit (3/10/20) - 2026/04/11 19:16:58 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #3 is the button
+Seat 1: Soldat 61383 (477, 1€ bounty)
+Seat 2: NAIKA_AS (536, 1€ bounty)
+Seat 3: MathisKcr (487, 1€ bounty)
+*** ANTE/BLINDS ***
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts small blind 10
+NAIKA_AS posts big blind 20
+Dealt to MathisKcr [Ad 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Soldat 61383 folds
+NAIKA_AS folds
+MathisKcr collected 79 from pot
+*** SUMMARY ***
+Total pot 79 | No rake
+Seat 3: MathisKcr (button) won 79
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-3-1775935025 - Holdem no limit (3/10/20) - 2026/04/11 19:17:05 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #1 is the button
+Seat 1: Soldat 61383 (464, 1€ bounty)
+Seat 2: NAIKA_AS (513, 1€ bounty)
+Seat 3: MathisKcr (523, 1€ bounty)
+*** ANTE/BLINDS ***
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Js 2c]
+*** PRE-FLOP *** 
+Soldat 61383 folds
+NAIKA_AS calls 10
+MathisKcr checks
+*** FLOP *** [9c 8c Qs]
+NAIKA_AS checks
+MathisKcr checks
+*** TURN *** [9c 8c Qs][Qd]
+NAIKA_AS checks
+MathisKcr bets 40
+NAIKA_AS calls 40
+*** RIVER *** [9c 8c Qs Qd][8h]
+NAIKA_AS checks
+MathisKcr bets 84
+NAIKA_AS raises 366 to 450 and is all-in
+MathisKcr folds
+NAIKA_AS collected 663 from pot
+*** SUMMARY ***
+Total pot 663 | No rake
+Board: [9c 8c Qs Qd 8h]
+Seat 2: NAIKA_AS (small blind) won 663
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-4-1775935066 - Holdem no limit (3/10/20) - 2026/04/11 19:17:46 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #2 is the button
+Seat 1: Soldat 61383 (461, 1€ bounty)
+Seat 2: NAIKA_AS (663, 1€ bounty)
+Seat 3: MathisKcr (376, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts small blind 10
+Soldat 61383 posts big blind 20
+Dealt to MathisKcr [Td Jc]
+*** PRE-FLOP *** 
+NAIKA_AS folds
+MathisKcr raises 20 to 40
+Soldat 61383 folds
+MathisKcr collected 69 from pot
+*** SUMMARY ***
+Total pot 69 | No rake
+Seat 3: MathisKcr (small blind) won 69
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-5-1775935076 - Holdem no limit (3/10/20) - 2026/04/11 19:17:56 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #3 is the button
+Seat 1: Soldat 61383 (438, 1€ bounty)
+Seat 2: NAIKA_AS (660, 1€ bounty)
+Seat 3: MathisKcr (402, 1€ bounty)
+*** ANTE/BLINDS ***
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts small blind 10
+NAIKA_AS posts big blind 20
+Dealt to MathisKcr [Qh 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Soldat 61383 folds
+NAIKA_AS collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | No rake
+Seat 2: NAIKA_AS (big blind) won 39
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-6-1775935083 - Holdem no limit (3/10/20) - 2026/04/11 19:18:03 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #1 is the button
+Seat 1: Soldat 61383 (425, 1€ bounty)
+Seat 2: NAIKA_AS (676, 1€ bounty)
+Seat 3: MathisKcr (399, 1€ bounty)
+*** ANTE/BLINDS ***
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4c 2d]
+*** PRE-FLOP *** 
+Soldat 61383 folds
+NAIKA_AS raises 40 to 60
+MathisKcr folds
+NAIKA_AS collected 89 from pot
+*** SUMMARY ***
+Total pot 89 | No rake
+Seat 2: NAIKA_AS (small blind) won 89
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-7-1775935097 - Holdem no limit (3/10/20) - 2026/04/11 19:18:17 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #2 is the button
+Seat 1: Soldat 61383 (422, 1€ bounty)
+Seat 2: NAIKA_AS (702, 1€ bounty)
+Seat 3: MathisKcr (376, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts small blind 10
+Soldat 61383 posts big blind 20
+Dealt to MathisKcr [2c Td]
+*** PRE-FLOP *** 
+NAIKA_AS folds
+MathisKcr folds
+Soldat 61383 collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | No rake
+Seat 1: Soldat 61383 (big blind) won 39
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-8-1775935107 - Holdem no limit (3/10/20) - 2026/04/11 19:18:27 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #3 is the button
+Seat 1: Soldat 61383 (438, 1€ bounty)
+Seat 2: NAIKA_AS (699, 1€ bounty)
+Seat 3: MathisKcr (363, 1€ bounty)
+*** ANTE/BLINDS ***
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts small blind 10
+NAIKA_AS posts big blind 20
+Dealt to MathisKcr [9d As]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Soldat 61383 calls 30
+NAIKA_AS folds
+*** FLOP *** [6h 7d 5c]
+Soldat 61383 bets 30
+MathisKcr calls 30
+*** TURN *** [6h 7d 5c][Jc]
+Soldat 61383 bets 59
+MathisKcr folds
+Soldat 61383 collected 228 from pot
+*** SUMMARY ***
+Total pot 228 | No rake
+Board: [6h 7d 5c Jc]
+Seat 1: Soldat 61383 (small blind) won 228
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-9-1775935133 - Holdem no limit (3/10/20) - 2026/04/11 19:18:53 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #1 is the button
+Seat 1: Soldat 61383 (534, 1€ bounty)
+Seat 2: NAIKA_AS (676, 1€ bounty)
+Seat 3: MathisKcr (290, 1€ bounty)
+*** ANTE/BLINDS ***
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s 5c]
+*** PRE-FLOP *** 
+Soldat 61383 calls 20
+NAIKA_AS folds
+MathisKcr checks
+*** FLOP *** [Ks 7h Jd]
+MathisKcr checks
+Soldat 61383 bets 20
+MathisKcr folds
+Soldat 61383 collected 79 from pot
+*** SUMMARY ***
+Total pot 79 | No rake
+Board: [Ks 7h Jd]
+Seat 1: Soldat 61383 (button) won 79
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-10-1775935173 - Holdem no limit (3/10/20) - 2026/04/11 19:19:33 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #2 is the button
+Seat 1: Soldat 61383 (570, 1€ bounty)
+Seat 2: NAIKA_AS (663, 1€ bounty)
+Seat 3: MathisKcr (267, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts small blind 10
+Soldat 61383 posts big blind 20
+Dealt to MathisKcr [2d 5h]
+*** PRE-FLOP *** 
+NAIKA_AS calls 20
+MathisKcr folds
+Soldat 61383 checks
+*** FLOP *** [Jh Qh 3d]
+Soldat 61383 checks
+NAIKA_AS bets 20
+Soldat 61383 calls 20
+*** TURN *** [Jh Qh 3d][Qd]
+Soldat 61383 checks
+NAIKA_AS checks
+*** RIVER *** [Jh Qh 3d Qd][8d]
+Soldat 61383 bets 35
+NAIKA_AS raises 90 to 125
+Soldat 61383 folds
+NAIKA_AS collected 259 from pot
+*** SUMMARY ***
+Total pot 259 | No rake
+Board: [Jh Qh 3d Qd 8d]
+Seat 2: NAIKA_AS (button) won 259
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-11-1775935215 - Holdem no limit (3/10/20) - 2026/04/11 19:20:15 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #3 is the button
+Seat 1: Soldat 61383 (492, 1€ bounty)
+Seat 2: NAIKA_AS (754, 1€ bounty)
+Seat 3: MathisKcr (254, 1€ bounty)
+*** ANTE/BLINDS ***
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts small blind 10
+NAIKA_AS posts big blind 20
+Dealt to MathisKcr [As Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 231 to 251 and is all-in
+Soldat 61383 folds
+NAIKA_AS folds
+MathisKcr collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 3: MathisKcr (button) won 290
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-12-1775935229 - Holdem no limit (3/10/20) - 2026/04/11 19:20:29 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #1 is the button
+Seat 1: Soldat 61383 (479, 1€ bounty)
+Seat 2: NAIKA_AS (731, 1€ bounty)
+Seat 3: MathisKcr (290, 1€ bounty)
+*** ANTE/BLINDS ***
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7h 9c]
+*** PRE-FLOP *** 
+Soldat 61383 folds
+NAIKA_AS folds
+MathisKcr collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | No rake
+Seat 3: MathisKcr (big blind) won 39
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-13-1775935242 - Holdem no limit (3/10/20) - 2026/04/11 19:20:42 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #2 is the button
+Seat 1: Soldat 61383 (476, 1€ bounty)
+Seat 2: NAIKA_AS (718, 1€ bounty)
+Seat 3: MathisKcr (306, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts small blind 10
+Soldat 61383 posts big blind 20
+Dealt to MathisKcr [8s Tc]
+*** PRE-FLOP *** 
+NAIKA_AS raises 20 to 40
+MathisKcr folds
+Soldat 61383 calls 20
+*** FLOP *** [Jd Qc 5s]
+Soldat 61383 checks
+NAIKA_AS bets 35
+Soldat 61383 folds
+NAIKA_AS collected 134 from pot
+*** SUMMARY ***
+Total pot 134 | No rake
+Board: [Jd Qc 5s]
+Seat 2: NAIKA_AS (button) won 134
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-14-1775935262 - Holdem no limit (3/10/20) - 2026/04/11 19:21:02 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #3 is the button
+Seat 1: Soldat 61383 (433, 1€ bounty)
+Seat 2: NAIKA_AS (774, 1€ bounty)
+Seat 3: MathisKcr (293, 1€ bounty)
+*** ANTE/BLINDS ***
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts small blind 10
+NAIKA_AS posts big blind 20
+Dealt to MathisKcr [Kd Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Soldat 61383 folds
+NAIKA_AS folds
+MathisKcr collected 79 from pot
+*** SUMMARY ***
+Total pot 79 | No rake
+Seat 3: MathisKcr (button) won 79
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-15-1775935281 - Holdem no limit (3/10/20) - 2026/04/11 19:21:21 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #1 is the button
+Seat 1: Soldat 61383 (420, 1€ bounty)
+Seat 2: NAIKA_AS (751, 1€ bounty)
+Seat 3: MathisKcr (329, 1€ bounty)
+*** ANTE/BLINDS ***
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2s Kc]
+*** PRE-FLOP *** 
+Soldat 61383 calls 20
+NAIKA_AS raises 728 to 748 and is all-in
+MathisKcr folds
+Soldat 61383 calls 397 and is all-in
+*** FLOP *** [Jc 9s 9c]
+*** TURN *** [Jc 9s 9c][4s]
+*** RIVER *** [Jc 9s 9c 4s][7h]
+*** SHOW DOWN ***
+Soldat 61383 shows [Kh Ks] (Two pairs : Kings and 9)
+NAIKA_AS shows [7c Ac] (Two pairs : 9 and 7)
+NAIKA_AS collected 331 from side pot 1
+Soldat 61383 collected 863 from main pot
+*** SUMMARY ***
+Total pot 1194 | No rake
+Board: [Jc 9s 9c 4s 7h]
+Seat 1: Soldat 61383 (button) showed [Kh Ks] and won 863 with Two pairs : Kings and 9
+Seat 2: NAIKA_AS (small blind) showed [7c Ac] and won 331 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-16-1775935302 - Holdem no limit (3/10/20) - 2026/04/11 19:21:42 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #2 is the button
+Seat 1: Soldat 61383 (863, 1€ bounty)
+Seat 2: NAIKA_AS (331, 1€ bounty)
+Seat 3: MathisKcr (306, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts small blind 10
+Soldat 61383 posts big blind 20
+Dealt to MathisKcr [8c Qc]
+*** PRE-FLOP *** 
+NAIKA_AS folds
+MathisKcr raises 283 to 303 and is all-in
+Soldat 61383 folds
+MathisKcr collected 332 from pot
+*** SUMMARY ***
+Total pot 332 | No rake
+Seat 3: MathisKcr (small blind) won 332
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-17-1775935332 - Holdem no limit (3/10/20) - 2026/04/11 19:22:12 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #3 is the button
+Seat 1: Soldat 61383 (840, 1€ bounty)
+Seat 2: NAIKA_AS (328, 1€ bounty)
+Seat 3: MathisKcr (332, 1€ bounty)
+*** ANTE/BLINDS ***
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts small blind 10
+NAIKA_AS posts big blind 20
+Dealt to MathisKcr [Kh 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Soldat 61383 calls 30
+NAIKA_AS calls 20
+*** FLOP *** [7c 4d Qh]
+Soldat 61383 checks
+NAIKA_AS checks
+MathisKcr checks
+*** TURN *** [7c 4d Qh][3h]
+Soldat 61383 checks
+NAIKA_AS bets 45
+MathisKcr raises 244 to 289 and is all-in
+Soldat 61383 folds
+NAIKA_AS calls 240 and is all-in
+*** RIVER *** [7c 4d Qh 3h][7h]
+*** SHOW DOWN ***
+NAIKA_AS shows [9c Qc] (Two pairs : Queens and 7)
+MathisKcr shows [Kh 3s] (Two pairs : 7 and 3)
+MathisKcr collected 4 from side pot 1
+NAIKA_AS collected 699 from main pot
+*** SUMMARY ***
+Total pot 703 | No rake
+Board: [7c 4d Qh 3h 7h]
+Seat 2: NAIKA_AS (big blind) showed [9c Qc] and won 699 with Two pairs : Queens and 7
+Seat 3: MathisKcr (button) showed [Kh 3s] and won 4 with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-18-1775935392 - Holdem no limit (3/10/20) - 2026/04/11 19:23:12 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #1 is the button
+Seat 1: Soldat 61383 (797, 1€ bounty)
+Seat 2: NAIKA_AS (699, 1€ bounty)
+Seat 3: MathisKcr (4, 1€ bounty)
+*** ANTE/BLINDS ***
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts small blind 10
+MathisKcr posts big blind 1 and is all-in
+Dealt to MathisKcr [Jh 4h]
+*** PRE-FLOP *** 
+Soldat 61383 raises 50 to 60
+NAIKA_AS calls 50
+*** FLOP *** [4d 5c 5h]
+NAIKA_AS checks
+Soldat 61383 bets 130
+NAIKA_AS folds
+*** TURN *** [4d 5c 5h][2c]
+*** RIVER *** [4d 5c 5h 2c][Td]
+*** SHOW DOWN ***
+Soldat 61383 shows [7h 8c] (One pair : 5)
+MathisKcr shows [Jh 4h] (Two pairs : 5 and 4)
+MathisKcr collected 12 from main pot
+Soldat 61383 collected 248 from side pot 1
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [4d 5c 5h 2c Td]
+Seat 1: Soldat 61383 (button) showed [7h 8c] and won 248 with One pair : 5
+Seat 3: MathisKcr (big blind) showed [Jh 4h] and won 12 with Two pairs : 5 and 4
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-19-1775935413 - Holdem no limit (3/10/20) - 2026/04/11 19:23:33 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #2 is the button
+Seat 1: Soldat 61383 (852, 1€ bounty)
+Seat 2: NAIKA_AS (636, 1€ bounty)
+Seat 3: MathisKcr (12, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts small blind 9 and is all-in
+Soldat 61383 posts big blind 20
+Dealt to MathisKcr [Jh 5h]
+*** PRE-FLOP *** 
+NAIKA_AS raises 613 to 633 and is all-in
+Soldat 61383 folds
+*** FLOP *** [2c 8c 5d]
+*** TURN *** [2c 8c 5d][Tc]
+*** RIVER *** [2c 8c 5d Tc][Kh]
+*** SHOW DOWN ***
+NAIKA_AS shows [Qs Jd] (High card : King)
+MathisKcr shows [Jh 5h] (One pair : 5)
+MathisKcr collected 36 from main pot
+NAIKA_AS collected 635 from side pot 1
+*** SUMMARY ***
+Total pot 671 | No rake
+Board: [2c 8c 5d Tc Kh]
+Seat 2: NAIKA_AS (button) showed [Qs Jd] and won 635 with High card : King
+Seat 3: MathisKcr (small blind) showed [Jh 5h] and won 36 with One pair : 5
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627970966750756966-20-1775935425 - Holdem no limit (3/10/20) - 2026/04/11 19:23:45 UTC
+Table: 'TRIDENT SPACE KO(1077533459)#0101' 3-max (real money) Seat #3 is the button
+Seat 1: Soldat 61383 (829, 1€ bounty)
+Seat 2: NAIKA_AS (635, 1€ bounty)
+Seat 3: MathisKcr (36, 1€ bounty)
+*** ANTE/BLINDS ***
+Soldat 61383 posts ante 3
+NAIKA_AS posts ante 3
+MathisKcr posts ante 3
+Soldat 61383 posts small blind 10
+NAIKA_AS posts big blind 20
+Dealt to MathisKcr [2d Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 13 to 33 and is all-in
+Soldat 61383 calls 23
+NAIKA_AS calls 13
+*** FLOP *** [7s 4s Ts]
+Soldat 61383 bets 70
+NAIKA_AS calls 70
+*** TURN *** [7s 4s Ts][4c]
+Soldat 61383 checks
+NAIKA_AS bets 529 and is all-in
+Soldat 61383 folds
+*** RIVER *** [7s 4s Ts 4c][4h]
+*** SHOW DOWN ***
+MathisKcr shows [2d Kh] (Trips of 4)
+NAIKA_AS shows [9s 4d] (Quads of 4)
+NAIKA_AS collected 777 from pot
+*** SUMMARY ***
+Total pot 777 | No rake
+Board: [7s 4s Ts 4c 4h]
+Seat 2: NAIKA_AS (big blind) showed [9s 4d] and won 777 with Quads of 4
+Seat 3: MathisKcr (button) showed [2d Kh] and lost with Trips of 4
+
+

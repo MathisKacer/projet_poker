@@ -1,0 +1,86 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580807565801160705-1-1771523449 - Holdem no limit (10/20) - 2026/02/19 17:50:49 UTC
+Table: 'Expresso Nitro(1066552374)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jones31 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Saponker (300)
+*** ANTE/BLINDS ***
+Saponker posts small blind 10
+jones31 posts big blind 20
+Dealt to MathisKcr [2c Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Saponker folds
+jones31 folds
+MathisKcr collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: MathisKcr (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580807565801160705-2-1771523459 - Holdem no limit (10/20) - 2026/02/19 17:50:59 UTC
+Table: 'Expresso Nitro(1066552374)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jones31 (280)
+Seat 2: MathisKcr (330)
+Seat 3: Saponker (290)
+*** ANTE/BLINDS ***
+jones31 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jc 6h]
+*** PRE-FLOP *** 
+Saponker folds
+jones31 raises 260 to 280 and is all-in
+MathisKcr folds
+jones31 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: jones31 (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580807565801160705-3-1771523469 - Holdem no limit (10/20) - 2026/02/19 17:51:09 UTC
+Table: 'Expresso Nitro(1066552374)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jones31 (300)
+Seat 2: MathisKcr (310)
+Seat 3: Saponker (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Saponker posts big blind 20
+Dealt to MathisKcr [Th 2h]
+*** PRE-FLOP *** 
+jones31 folds
+MathisKcr raises 20 to 40
+Saponker raises 250 to 290 and is all-in
+MathisKcr folds
+Saponker collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Saponker (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580807565801160705-4-1771523486 - Holdem no limit (10/20) - 2026/02/19 17:51:26 UTC
+Table: 'Expresso Nitro(1066552374)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jones31 (300)
+Seat 2: MathisKcr (270)
+Seat 3: Saponker (330)
+*** ANTE/BLINDS ***
+Saponker posts small blind 10
+jones31 posts big blind 20
+Dealt to MathisKcr [7c 7d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Saponker folds
+jones31 raises 260 to 300 and is all-in
+MathisKcr calls 230 and is all-in
+*** FLOP *** [Ac Td Tc]
+*** TURN *** [Ac Td Tc][Jd]
+*** RIVER *** [Ac Td Tc Jd][3h]
+*** SHOW DOWN ***
+MathisKcr shows [7c 7d] (Two pairs : Tens and 7)
+jones31 shows [9h As] (Two pairs : Aces and Tens)
+jones31 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Ac Td Tc Jd 3h]
+Seat 1: jones31 (big blind) showed [9h As] and won 580 with Two pairs : Aces and Tens
+Seat 2: MathisKcr (button) showed [7c 7d] and lost with Two pairs : Tens and 7
+
+

@@ -1,0 +1,161 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601461943268540417-1-1772389526 - Holdem no limit (10/20) - 2026/03/01 18:25:26 UTC
+Table: 'Expresso Nitro(1071361346)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Rixpie (300)
+Seat 3: Aymanon4-9 (300)
+*** ANTE/BLINDS ***
+Aymanon4-9 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d 8s]
+*** PRE-FLOP *** 
+Rixpie folds
+Aymanon4-9 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601461943268540417-2-1772389535 - Holdem no limit (10/20) - 2026/03/01 18:25:35 UTC
+Table: 'Expresso Nitro(1071361346)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (310)
+Seat 2: Rixpie (300)
+Seat 3: Aymanon4-9 (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Rixpie posts big blind 20
+Dealt to MathisKcr [9c Qh]
+*** PRE-FLOP *** 
+Aymanon4-9 calls 20
+MathisKcr raises 20 to 40
+Rixpie folds
+Aymanon4-9 calls 20
+*** FLOP *** [2h Td Ad]
+MathisKcr bets 35
+Aymanon4-9 calls 35
+*** TURN *** [2h Td Ad][5d]
+MathisKcr checks
+Aymanon4-9 checks
+*** RIVER *** [2h Td Ad 5d][Tc]
+MathisKcr checks
+Aymanon4-9 bets 170
+MathisKcr folds
+Aymanon4-9 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [2h Td Ad 5d Tc]
+Seat 3: Aymanon4-9 (button) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601461943268540417-3-1772389563 - Holdem no limit (10/20) - 2026/03/01 18:26:03 UTC
+Table: 'Expresso Nitro(1071361346)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (235)
+Seat 2: Rixpie (280)
+Seat 3: Aymanon4-9 (385)
+*** ANTE/BLINDS ***
+Rixpie posts small blind 10
+Aymanon4-9 posts big blind 20
+Dealt to MathisKcr [Kh Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Rixpie calls 30
+Aymanon4-9 calls 20
+*** FLOP *** [As Ts Ks]
+Rixpie checks
+Aymanon4-9 checks
+MathisKcr bets 42
+Rixpie calls 42
+Aymanon4-9 calls 42
+*** TURN *** [As Ts Ks][Td]
+Rixpie bets 20
+Aymanon4-9 folds
+MathisKcr raises 133 to 153 and is all-in
+Rixpie calls 133
+*** RIVER *** [As Ts Ks Td][7c]
+*** SHOW DOWN ***
+Rixpie shows [3s Ac] (Two pairs : Aces and Tens)
+MathisKcr shows [Kh Kc] (Full of Kings and Tens)
+MathisKcr collected 552 from pot
+*** SUMMARY ***
+Total pot 552 | No rake
+Board: [As Ts Ks Td 7c]
+Seat 1: MathisKcr (button) showed [Kh Kc] and won 552 with Full of Kings and Tens
+Seat 2: Rixpie (small blind) showed [3s Ac] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601461943268540417-4-1772389592 - Holdem no limit (15/30) - 2026/03/01 18:26:32 UTC
+Table: 'Expresso Nitro(1071361346)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (552)
+Seat 2: Rixpie (45)
+Seat 3: Aymanon4-9 (303)
+*** ANTE/BLINDS ***
+Aymanon4-9 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4d 7s]
+*** PRE-FLOP *** 
+Rixpie folds
+Aymanon4-9 calls 15
+MathisKcr checks
+*** FLOP *** [4c 2c Qh]
+Aymanon4-9 checks
+MathisKcr bets 39
+Aymanon4-9 calls 39
+*** TURN *** [4c 2c Qh][2h]
+Aymanon4-9 checks
+MathisKcr bets 90
+Aymanon4-9 folds
+MathisKcr collected 228 from pot
+*** SUMMARY ***
+Total pot 228 | No rake
+Board: [4c 2c Qh 2h]
+Seat 1: MathisKcr (big blind) won 228
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601461943268540417-5-1772389619 - Holdem no limit (15/30) - 2026/03/01 18:26:59 UTC
+Table: 'Expresso Nitro(1071361346)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (621)
+Seat 2: Rixpie (45)
+Seat 3: Aymanon4-9 (234)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Rixpie posts big blind 30
+Dealt to MathisKcr [5s 2h]
+*** PRE-FLOP *** 
+Aymanon4-9 folds
+MathisKcr folds
+Rixpie collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Rixpie (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601461943268540417-6-1772389625 - Holdem no limit (15/30) - 2026/03/01 18:27:05 UTC
+Table: 'Expresso Nitro(1071361346)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (606)
+Seat 2: Rixpie (60)
+Seat 3: Aymanon4-9 (234)
+*** ANTE/BLINDS ***
+Rixpie posts small blind 15
+Aymanon4-9 posts big blind 30
+Dealt to MathisKcr [Kd Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Rixpie calls 45 and is all-in
+Aymanon4-9 raises 174 to 234 and is all-in
+MathisKcr calls 174
+*** FLOP *** [5c Th As]
+*** TURN *** [5c Th As][9s]
+*** RIVER *** [5c Th As 9s][Qd]
+*** SHOW DOWN ***
+Rixpie shows [4c 4h] (One pair : 4)
+Aymanon4-9 shows [Qs Jh] (One pair : Queens)
+MathisKcr shows [Kd Jd] (Straight Ace high)
+MathisKcr collected 528 from pot
+*** SUMMARY ***
+Total pot 528 | No rake
+Board: [5c Th As 9s Qd]
+Seat 1: MathisKcr (button) showed [Kd Jd] and won 528 with Straight Ace high
+Seat 2: Rixpie (small blind) showed [4c 4h] and lost with One pair : 4
+Seat 3: Aymanon4-9 (big blind) showed [Qs Jh] and lost with One pair : Queens
+
+

@@ -1,0 +1,151 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558561993144926209-1-1770720633 - Holdem no limit (10/20) - 2026/02/10 10:50:33 UTC
+Table: 'Expresso Nitro(1061372923)#0' 3-max (real money) Seat #2 is the button
+Seat 1: XSurprise (300)
+Seat 2: MathisKcr (300)
+Seat 3: GIPSY QUEEN (300)
+*** ANTE/BLINDS ***
+GIPSY QUEEN posts small blind 10
+XSurprise posts big blind 20
+Dealt to MathisKcr [3c 9c]
+*** PRE-FLOP *** 
+MathisKcr folds
+GIPSY QUEEN folds
+XSurprise collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: XSurprise (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558561993144926209-2-1770720645 - Holdem no limit (10/20) - 2026/02/10 10:50:45 UTC
+Table: 'Expresso Nitro(1061372923)#0' 3-max (real money) Seat #3 is the button
+Seat 1: XSurprise (310)
+Seat 2: MathisKcr (300)
+Seat 3: GIPSY QUEEN (290)
+*** ANTE/BLINDS ***
+XSurprise posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ah Kh]
+*** PRE-FLOP *** 
+GIPSY QUEEN folds
+XSurprise calls 10
+MathisKcr raises 40 to 60
+XSurprise folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: MathisKcr (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4558561993144926209-3-1770720685 - Holdem no limit (10/20) - 2026/02/10 10:51:25 UTC
+Table: 'Expresso Nitro(1061372923)#0' 3-max (real money) Seat #1 is the button
+Seat 1: XSurprise (290)
+Seat 2: MathisKcr (320)
+Seat 3: GIPSY QUEEN (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+GIPSY QUEEN posts big blind 20
+Dealt to MathisKcr [6h 7h]
+*** PRE-FLOP *** 
+XSurprise raises 50 to 70
+MathisKcr folds
+GIPSY QUEEN calls 50
+*** FLOP *** [5s Qs 2d]
+GIPSY QUEEN checks
+XSurprise bets 40
+GIPSY QUEEN calls 40
+*** TURN *** [5s Qs 2d][Jh]
+GIPSY QUEEN checks
+XSurprise checks
+*** RIVER *** [5s Qs 2d Jh][Td]
+GIPSY QUEEN checks
+XSurprise bets 70
+GIPSY QUEEN folds
+XSurprise collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [5s Qs 2d Jh Td]
+Seat 1: XSurprise (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4558561993144926209-4-1770720748 - Holdem no limit (15/30) - 2026/02/10 10:52:28 UTC
+Table: 'Expresso Nitro(1061372923)#0' 3-max (real money) Seat #2 is the button
+Seat 1: XSurprise (410)
+Seat 2: MathisKcr (310)
+Seat 3: GIPSY QUEEN (180)
+*** ANTE/BLINDS ***
+GIPSY QUEEN posts small blind 15
+XSurprise posts big blind 30
+Dealt to MathisKcr [Ac 2h]
+*** PRE-FLOP *** 
+MathisKcr raises 45 to 75
+GIPSY QUEEN folds
+XSurprise raises 335 to 410 and is all-in
+MathisKcr calls 235 and is all-in
+*** FLOP *** [9s 2s 8h]
+*** TURN *** [9s 2s 8h][Js]
+*** RIVER *** [9s 2s 8h Js][Jh]
+*** SHOW DOWN ***
+XSurprise shows [Qc Ah] (One pair : Jacks)
+MathisKcr shows [Ac 2h] (Two pairs : Jacks and 2)
+MathisKcr collected 635 from main pot
+XSurprise collected 100 from side pot 1
+*** SUMMARY ***
+Total pot 735 | No rake
+Board: [9s 2s 8h Js Jh]
+Seat 1: XSurprise (big blind) showed [Qc Ah] and won 100 with One pair : Jacks
+Seat 2: MathisKcr (button) showed [Ac 2h] and won 635 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4558561993144926209-5-1770720776 - Holdem no limit (20/40) - 2026/02/10 10:52:56 UTC
+Table: 'Expresso Nitro(1061372923)#0' 3-max (real money) Seat #3 is the button
+Seat 1: XSurprise (100)
+Seat 2: MathisKcr (635)
+Seat 3: GIPSY QUEEN (165)
+*** ANTE/BLINDS ***
+XSurprise posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Th 8c]
+*** PRE-FLOP *** 
+GIPSY QUEEN calls 40
+XSurprise folds
+MathisKcr checks
+*** FLOP *** [7s 3h 4d]
+MathisKcr bets 595 and is all-in
+GIPSY QUEEN folds
+MathisKcr collected 695 from pot
+*** SUMMARY ***
+Total pot 695 | No rake
+Board: [7s 3h 4d]
+Seat 2: MathisKcr (big blind) won 695
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4558561993144926209-6-1770720804 - Holdem no limit (20/40) - 2026/02/10 10:53:24 UTC
+Table: 'Expresso Nitro(1061372923)#0' 3-max (real money) Seat #1 is the button
+Seat 1: XSurprise (80)
+Seat 2: MathisKcr (695)
+Seat 3: GIPSY QUEEN (125)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+GIPSY QUEEN posts big blind 40
+Dealt to MathisKcr [Jh 2h]
+*** PRE-FLOP *** 
+XSurprise raises 40 to 80 and is all-in
+MathisKcr calls 60
+GIPSY QUEEN raises 45 to 125 and is all-in
+MathisKcr calls 45
+*** FLOP *** [6d 8c Kc]
+*** TURN *** [6d 8c Kc][Jd]
+*** RIVER *** [6d 8c Kc Jd][7s]
+*** SHOW DOWN ***
+XSurprise shows [5s 3s] (High card : King)
+GIPSY QUEEN shows [5h 7h] (One pair : 7)
+MathisKcr shows [Jh 2h] (One pair : Jacks)
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [6d 8c Kc Jd 7s]
+Seat 1: XSurprise (button) showed [5s 3s] and lost with High card : King
+Seat 2: MathisKcr (small blind) showed [Jh 2h] and won 330 with One pair : Jacks
+Seat 3: GIPSY QUEEN (big blind) showed [5h 7h] and lost with One pair : 7
+
+

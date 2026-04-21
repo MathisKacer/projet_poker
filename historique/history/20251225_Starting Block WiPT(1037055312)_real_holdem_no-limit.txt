@@ -1,0 +1,481 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4454118649183076353-1-1766692783 - Holdem no limit (10/20) - 2025/12/25 19:59:43 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #3 is the button
+Seat 1: danyzf750 (1500)
+Seat 2: Sa mnrv (1500)
+Seat 3: BaTaZ (1500)
+Seat 4: MathisKcr (1500)
+Seat 5: jos2914 (1500)
+Seat 6: Marvelous971 (1500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+jos2914 posts big blind 20
+Dealt to MathisKcr [8c 4s]
+*** PRE-FLOP *** 
+Marvelous971 raises 1480 to 1500 and is all-in
+danyzf750 folds
+Sa mnrv calls 1500 and is all-in
+BaTaZ folds
+MathisKcr folds
+jos2914 folds
+*** FLOP *** [Th Js Jh]
+*** TURN *** [Th Js Jh][Jd]
+*** RIVER *** [Th Js Jh Jd][Qh]
+*** SHOW DOWN ***
+Marvelous971 shows [Ah 6s] (Trips of Jacks)
+Sa mnrv shows [Qd Jc] (Quads of Jacks)
+Sa mnrv collected 3030 from pot
+*** SUMMARY ***
+Total pot 3030 | No rake
+Board: [Th Js Jh Jd Qh]
+Seat 2: Sa mnrv showed [Qd Jc] and won 3030 with Quads of Jacks
+Seat 6: Marvelous971 showed [Ah 6s] and lost with Trips of Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4454118649183076353-2-1766692823 - Holdem no limit (10/20) - 2025/12/25 20:00:23 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #4 is the button
+Seat 1: danyzf750 (1500)
+Seat 2: Sa mnrv (3030)
+Seat 3: BaTaZ (1500)
+Seat 4: MathisKcr (1490)
+Seat 5: jos2914 (1480)
+*** ANTE/BLINDS ***
+jos2914 posts small blind 10
+danyzf750 posts big blind 20
+Dealt to MathisKcr [3c Qs]
+*** PRE-FLOP *** 
+Sa mnrv folds
+BaTaZ raises 30 to 50
+MathisKcr folds
+jos2914 calls 40
+danyzf750 folds
+*** FLOP *** [2c 7h Js]
+jos2914 checks
+BaTaZ bets 42
+jos2914 folds
+BaTaZ collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [2c 7h Js]
+Seat 3: BaTaZ won 162
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4454118649183076353-3-1766692845 - Holdem no limit (10/20) - 2025/12/25 20:00:45 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #5 is the button
+Seat 1: danyzf750 (1480)
+Seat 2: Sa mnrv (3030)
+Seat 3: BaTaZ (1570)
+Seat 4: MathisKcr (1490)
+Seat 5: jos2914 (1430)
+*** ANTE/BLINDS ***
+danyzf750 posts small blind 10
+Sa mnrv posts big blind 20
+Dealt to MathisKcr [Kh 2d]
+*** PRE-FLOP *** 
+BaTaZ raises 30 to 50
+MathisKcr folds
+jos2914 folds
+danyzf750 folds
+Sa mnrv calls 30
+*** FLOP *** [Qd 6d Ad]
+Sa mnrv bets 55
+BaTaZ calls 55
+*** TURN *** [Qd 6d Ad][5s]
+Sa mnrv bets 20
+BaTaZ raises 78 to 98
+Sa mnrv calls 78
+*** RIVER *** [Qd 6d Ad 5s][6h]
+Sa mnrv checks
+BaTaZ bets 416
+Sa mnrv folds
+BaTaZ collected 832 from pot
+*** SUMMARY ***
+Total pot 832 | No rake
+Board: [Qd 6d Ad 5s 6h]
+Seat 3: BaTaZ won 832
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4454118649183076353-4-1766692892 - Holdem no limit (15/30) - 2025/12/25 20:01:32 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #1 is the button
+Seat 1: danyzf750 (1470)
+Seat 2: Sa mnrv (2827)
+Seat 3: BaTaZ (1783)
+Seat 4: MathisKcr (1490)
+Seat 5: jos2914 (1430)
+*** ANTE/BLINDS ***
+Sa mnrv posts small blind 15
+BaTaZ posts big blind 30
+Dealt to MathisKcr [Ks Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+jos2914 folds
+danyzf750 calls 60
+Sa mnrv calls 45
+BaTaZ calls 30
+*** FLOP *** [7c 4h Th]
+Sa mnrv bets 30
+BaTaZ calls 30
+MathisKcr raises 30 to 60
+danyzf750 folds
+Sa mnrv calls 30
+BaTaZ calls 30
+*** TURN *** [7c 4h Th][2h]
+Sa mnrv checks
+BaTaZ checks
+MathisKcr bets 60
+Sa mnrv calls 60
+BaTaZ folds
+*** RIVER *** [7c 4h Th 2h][Qd]
+Sa mnrv checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Ks Qh] (One pair : Queens)
+Sa mnrv shows [Ah 5h] (Flush Ace high)
+Sa mnrv collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [7c 4h Th 2h Qd]
+Seat 2: Sa mnrv (small blind) showed [Ah 5h] and won 540 with Flush Ace high
+Seat 4: MathisKcr showed [Ks Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4454118649183076353-5-1766692939 - Holdem no limit (15/30) - 2025/12/25 20:02:19 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #2 is the button
+Seat 1: danyzf750 (1410)
+Seat 2: Sa mnrv (3187)
+Seat 3: BaTaZ (1663)
+Seat 4: MathisKcr (1310)
+Seat 5: jos2914 (1430)
+*** ANTE/BLINDS ***
+BaTaZ posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Tc 5h]
+*** PRE-FLOP *** 
+jos2914 folds
+danyzf750 raises 1380 to 1410 and is all-in
+Sa mnrv folds
+BaTaZ folds
+MathisKcr folds
+danyzf750 collected 1455 from pot
+*** SUMMARY ***
+Total pot 1455 | No rake
+Seat 1: danyzf750 won 1455
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4454118649183076353-6-1766692954 - Holdem no limit (15/30) - 2025/12/25 20:02:34 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #3 is the button
+Seat 1: danyzf750 (1455)
+Seat 2: Sa mnrv (3187)
+Seat 3: BaTaZ (1648)
+Seat 4: MathisKcr (1280)
+Seat 5: jos2914 (1430)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+jos2914 posts big blind 30
+Dealt to MathisKcr [4d Tc]
+*** PRE-FLOP *** 
+danyzf750 folds
+Sa mnrv calls 30
+BaTaZ raises 60 to 90
+MathisKcr folds
+jos2914 folds
+Sa mnrv calls 60
+*** FLOP *** [Ks 5d Kh]
+Sa mnrv checks
+BaTaZ bets 146
+Sa mnrv folds
+BaTaZ collected 371 from pot
+*** SUMMARY ***
+Total pot 371 | No rake
+Board: [Ks 5d Kh]
+Seat 3: BaTaZ (button) won 371
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4454118649183076353-7-1766692985 - Holdem no limit (20/40) - 2025/12/25 20:03:05 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #4 is the button
+Seat 1: danyzf750 (1455)
+Seat 2: Sa mnrv (3097)
+Seat 3: BaTaZ (1783)
+Seat 4: MathisKcr (1265)
+Seat 5: jos2914 (1400)
+*** ANTE/BLINDS ***
+jos2914 posts small blind 20
+danyzf750 posts big blind 40
+Dealt to MathisKcr [3d 9d]
+*** PRE-FLOP *** 
+Sa mnrv folds
+BaTaZ folds
+MathisKcr folds
+jos2914 raises 40 to 80
+danyzf750 calls 40
+*** FLOP *** [As 5d 7h]
+jos2914 bets 104
+danyzf750 raises 104 to 208
+jos2914 raises 1112 to 1320 and is all-in
+danyzf750 calls 1112
+*** TURN *** [As 5d 7h][7c]
+*** RIVER *** [As 5d 7h 7c][Ts]
+*** SHOW DOWN ***
+danyzf750 shows [Ac 3h] (Two pairs : Aces and 7)
+jos2914 shows [Qd Ah] (Two pairs : Aces and 7)
+jos2914 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Board: [As 5d 7h 7c Ts]
+Seat 1: danyzf750 (big blind) showed [Ac 3h] and lost with Two pairs : Aces and 7
+Seat 5: jos2914 (small blind) showed [Qd Ah] and won 2800 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4454118649183076353-8-1766693012 - Holdem no limit (20/40) - 2025/12/25 20:03:32 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #5 is the button
+Seat 1: danyzf750 (55)
+Seat 2: Sa mnrv (3097)
+Seat 3: BaTaZ (1783)
+Seat 4: MathisKcr (1265)
+Seat 5: jos2914 (2800)
+*** ANTE/BLINDS ***
+danyzf750 posts small blind 20
+Sa mnrv posts big blind 40
+Dealt to MathisKcr [Jh Ts]
+*** PRE-FLOP *** 
+BaTaZ folds
+MathisKcr raises 40 to 80
+jos2914 calls 80
+danyzf750 calls 35 and is all-in
+Sa mnrv calls 40
+*** FLOP *** [4h Qh 9h]
+Sa mnrv bets 40
+MathisKcr raises 80 to 120
+jos2914 folds
+Sa mnrv calls 80
+*** TURN *** [4h Qh 9h][8h]
+Sa mnrv checks
+MathisKcr bets 120
+Sa mnrv calls 120
+*** RIVER *** [4h Qh 9h 8h][9s]
+Sa mnrv checks
+MathisKcr checks
+*** SHOW DOWN ***
+danyzf750 shows [3s 2s] (One pair : 9)
+MathisKcr shows [Jh Ts] (Flush Queen high)
+Sa mnrv shows [9c Qc] (Full of 9 and Queens)
+Sa mnrv collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | No rake
+Board: [4h Qh 9h 8h 9s]
+Seat 1: danyzf750 (small blind) showed [3s 2s] and lost with One pair : 9
+Seat 2: Sa mnrv (big blind) showed [9c Qc] and won 775 with Full of 9 and Queens
+Seat 4: MathisKcr showed [Jh Ts] and lost with Flush Queen high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4454118649183076353-9-1766693062 - Holdem no limit (30/60) - 2025/12/25 20:04:22 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #1 is the button
+Seat 2: Sa mnrv (3552)
+Seat 3: BaTaZ (1783)
+Seat 4: MathisKcr (945)
+Seat 5: jos2914 (2720)
+*** ANTE/BLINDS ***
+Sa mnrv posts small blind 30
+BaTaZ posts big blind 60
+Dealt to MathisKcr [Ks Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+jos2914 folds
+Sa mnrv folds
+BaTaZ calls 60
+*** FLOP *** [Kc Ac 7c]
+BaTaZ checks
+MathisKcr bets 120
+BaTaZ calls 120
+*** TURN *** [Kc Ac 7c][Td]
+BaTaZ bets 332
+MathisKcr raises 332 to 664
+BaTaZ raises 879 to 1543 and is all-in
+MathisKcr calls 41 and is all-in
+*** RIVER *** [Kc Ac 7c Td][As]
+*** SHOW DOWN ***
+BaTaZ shows [6d Ad] (Trips of Aces)
+MathisKcr shows [Ks Ah] (Full of Aces and Kings)
+MathisKcr collected 1920 from main pot
+BaTaZ collected 838 from side pot 1
+*** SUMMARY ***
+Total pot 2758 | No rake
+Board: [Kc Ac 7c Td As]
+Seat 3: BaTaZ (big blind) showed [6d Ad] and won 838 with Trips of Aces
+Seat 4: MathisKcr showed [Ks Ah] and won 1920 with Full of Aces and Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4454118649183076353-10-1766693098 - Holdem no limit (30/60) - 2025/12/25 20:04:58 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Sa mnrv (3522)
+Seat 3: BaTaZ (838)
+Seat 4: MathisKcr (1920)
+Seat 5: jos2914 (2720)
+*** ANTE/BLINDS ***
+BaTaZ posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [5c 6c]
+*** PRE-FLOP *** 
+jos2914 folds
+Sa mnrv folds
+BaTaZ raises 90 to 150
+MathisKcr calls 90
+*** FLOP *** [Jd Qh 8d]
+BaTaZ checks
+MathisKcr checks
+*** TURN *** [Jd Qh 8d][6d]
+BaTaZ bets 105
+MathisKcr calls 105
+*** RIVER *** [Jd Qh 8d 6d][Tc]
+BaTaZ bets 583 and is all-in
+MathisKcr folds
+BaTaZ collected 1093 from pot
+*** SUMMARY ***
+Total pot 1093 | No rake
+Board: [Jd Qh 8d 6d Tc]
+Seat 3: BaTaZ (small blind) won 1093
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4454118649183076353-11-1766693130 - Holdem no limit (30/60) - 2025/12/25 20:05:30 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Sa mnrv (3522)
+Seat 3: BaTaZ (1093)
+Seat 4: MathisKcr (1665)
+Seat 5: jos2914 (2720)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+jos2914 posts big blind 60
+Dealt to MathisKcr [7h 4c]
+*** PRE-FLOP *** 
+Sa mnrv calls 60
+BaTaZ calls 60
+MathisKcr calls 30
+jos2914 checks
+*** FLOP *** [9h Qd 8s]
+MathisKcr checks
+jos2914 checks
+Sa mnrv bets 120
+BaTaZ calls 120
+MathisKcr folds
+jos2914 calls 120
+*** TURN *** [9h Qd 8s][2h]
+jos2914 checks
+Sa mnrv checks
+BaTaZ checks
+*** RIVER *** [9h Qd 8s 2h][7s]
+jos2914 checks
+Sa mnrv bets 300
+BaTaZ folds
+jos2914 folds
+Sa mnrv collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9h Qd 8s 2h 7s]
+Seat 2: Sa mnrv won 900
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4454118649183076353-12-1766693192 - Holdem no limit (40/80) - 2025/12/25 20:06:32 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Sa mnrv (3942)
+Seat 3: BaTaZ (913)
+Seat 4: MathisKcr (1605)
+Seat 5: jos2914 (2540)
+*** ANTE/BLINDS ***
+jos2914 posts small blind 40
+Sa mnrv posts big blind 80
+Dealt to MathisKcr [8d Qc]
+*** PRE-FLOP *** 
+BaTaZ folds
+MathisKcr raises 80 to 160
+jos2914 calls 120
+Sa mnrv calls 80
+*** FLOP *** [Qd 9c Td]
+jos2914 checks
+Sa mnrv checks
+MathisKcr bets 160
+jos2914 folds
+Sa mnrv calls 160
+*** TURN *** [Qd 9c Td][Ks]
+Sa mnrv checks
+MathisKcr bets 160
+Sa mnrv calls 160
+*** RIVER *** [Qd 9c Td Ks][2h]
+Sa mnrv bets 560
+MathisKcr calls 560
+*** SHOW DOWN ***
+MathisKcr shows [8d Qc] (One pair : Queens)
+Sa mnrv shows [5h Jc] (Straight King high)
+Sa mnrv collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | No rake
+Board: [Qd 9c Td Ks 2h]
+Seat 2: Sa mnrv (big blind) showed [5h Jc] and won 2240 with Straight King high
+Seat 4: MathisKcr (button) showed [8d Qc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4454118649183076353-13-1766693242 - Holdem no limit (60/120) - 2025/12/25 20:07:22 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Sa mnrv (5142)
+Seat 3: BaTaZ (913)
+Seat 4: MathisKcr (565)
+Seat 5: jos2914 (2380)
+*** ANTE/BLINDS ***
+Sa mnrv posts small blind 60
+BaTaZ posts big blind 120
+Dealt to MathisKcr [5h 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+jos2914 folds
+Sa mnrv calls 60
+BaTaZ checks
+*** FLOP *** [9d Ts Td]
+Sa mnrv bets 120
+BaTaZ raises 673 to 793 and is all-in
+Sa mnrv calls 673
+*** TURN *** [9d Ts Td][6s]
+*** RIVER *** [9d Ts Td 6s][8c]
+*** SHOW DOWN ***
+Sa mnrv shows [Ad 8d] (Two pairs : Tens and 8)
+BaTaZ shows [4h 9c] (Two pairs : Tens and 9)
+BaTaZ collected 1826 from pot
+*** SUMMARY ***
+Total pot 1826 | No rake
+Board: [9d Ts Td 6s 8c]
+Seat 2: Sa mnrv (small blind) showed [Ad 8d] and lost with Two pairs : Tens and 8
+Seat 3: BaTaZ (big blind) showed [4h 9c] and won 1826 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4454118649183076353-14-1766693272 - Holdem no limit (60/120) - 2025/12/25 20:07:52 UTC
+Table: 'Starting Block WiPT(1037055312)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Sa mnrv (4229)
+Seat 3: BaTaZ (1826)
+Seat 4: MathisKcr (565)
+Seat 5: jos2914 (2380)
+*** ANTE/BLINDS ***
+BaTaZ posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [Jc 8d]
+*** PRE-FLOP *** 
+jos2914 raises 180 to 300
+Sa mnrv folds
+BaTaZ calls 240
+MathisKcr raises 265 to 565 and is all-in
+jos2914 calls 265
+BaTaZ calls 265
+*** FLOP *** [Ts 7h 6h]
+BaTaZ bets 1261 and is all-in
+jos2914 calls 1261
+*** TURN *** [Ts 7h 6h][2d]
+*** RIVER *** [Ts 7h 6h 2d][4s]
+*** SHOW DOWN ***
+BaTaZ shows [Kh 3h] (High card : King)
+MathisKcr shows [Jc 8d] (High card : Jack)
+jos2914 shows [Qc As] (High card : Ace)
+jos2914 collected 4217 from pot
+*** SUMMARY ***
+Total pot 4217 | No rake
+Board: [Ts 7h 6h 2d 4s]
+Seat 3: BaTaZ (small blind) showed [Kh 3h] and lost with High card : King
+Seat 4: MathisKcr (big blind) showed [Jc 8d] and lost with High card : Jack
+Seat 5: jos2914 showed [Qc As] and won 4217 with High card : Ace
+
+

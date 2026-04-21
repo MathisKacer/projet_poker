@@ -1,0 +1,389 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #3959423895123001345-1-1743180858 - Holdem no limit (10/20) - 2025/03/28 16:54:18 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Prayade (500)
+Seat 2: MathisKcr (500)
+Seat 3: popoletta (500)
+*** ANTE/BLINDS ***
+popoletta posts small blind 10
+Prayade posts big blind 20
+Dealt to MathisKcr [3d 6s]
+*** PRE-FLOP *** 
+MathisKcr folds
+popoletta raises 480 to 500 and is all-in
+Prayade folds
+popoletta collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 3: popoletta (small blind) won 520
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #3959423895123001345-2-1743180865 - Holdem no limit (10/20) - 2025/03/28 16:54:25 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Prayade (480)
+Seat 2: MathisKcr (500)
+Seat 3: popoletta (520)
+*** ANTE/BLINDS ***
+Prayade posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4d 8h]
+*** PRE-FLOP *** 
+popoletta calls 20
+Prayade folds
+MathisKcr checks
+*** FLOP *** [Ts Qc 5d]
+MathisKcr checks
+popoletta bets 50
+MathisKcr folds
+popoletta collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Ts Qc 5d]
+Seat 3: popoletta (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #3959423895123001345-3-1743180884 - Holdem no limit (10/20) - 2025/03/28 16:54:44 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Prayade (470)
+Seat 2: MathisKcr (480)
+Seat 3: popoletta (550)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+popoletta posts big blind 20
+Dealt to MathisKcr [Tc 9h]
+*** PRE-FLOP *** 
+Prayade folds
+MathisKcr calls 10
+popoletta raises 162 to 182
+MathisKcr folds
+popoletta collected 202 from pot
+*** SUMMARY ***
+Total pot 202 | No rake
+Seat 3: popoletta (big blind) won 202
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #3959423895123001345-4-1743180901 - Holdem no limit (10/20) - 2025/03/28 16:55:01 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Prayade (470)
+Seat 2: MathisKcr (460)
+Seat 3: popoletta (570)
+*** ANTE/BLINDS ***
+popoletta posts small blind 10
+Prayade posts big blind 20
+Dealt to MathisKcr [Th As]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+popoletta folds
+Prayade folds
+MathisKcr collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: MathisKcr (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #3959423895123001345-5-1743180915 - Holdem no limit (10/20) - 2025/03/28 16:55:15 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Prayade (450)
+Seat 2: MathisKcr (490)
+Seat 3: popoletta (560)
+*** ANTE/BLINDS ***
+Prayade posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c Th]
+*** PRE-FLOP *** 
+popoletta raises 540 to 560 and is all-in
+Prayade folds
+MathisKcr folds
+popoletta collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Seat 3: popoletta (button) won 590
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #3959423895123001345-6-1743180928 - Holdem no limit (10/20) - 2025/03/28 16:55:28 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Prayade (440)
+Seat 2: MathisKcr (470)
+Seat 3: popoletta (590)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+popoletta posts big blind 20
+Dealt to MathisKcr [Td Qc]
+*** PRE-FLOP *** 
+Prayade folds
+MathisKcr calls 10
+popoletta checks
+*** FLOP *** [9d 5c 6h]
+MathisKcr checks
+popoletta checks
+*** TURN *** [9d 5c 6h][Qh]
+MathisKcr checks
+popoletta checks
+*** RIVER *** [9d 5c 6h Qh][Kc]
+MathisKcr bets 60
+popoletta raises 60 to 120
+MathisKcr calls 60
+*** SHOW DOWN ***
+MathisKcr shows [Td Qc] (One pair : Queens)
+popoletta shows [4d Ks] (One pair : Kings)
+popoletta collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [9d 5c 6h Qh Kc]
+Seat 2: MathisKcr (small blind) showed [Td Qc] and lost with One pair : Queens
+Seat 3: popoletta (big blind) showed [4d Ks] and won 280 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #3959423895123001345-7-1743180953 - Holdem no limit (15/30) - 2025/03/28 16:55:53 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Prayade (440)
+Seat 2: MathisKcr (330)
+Seat 3: popoletta (730)
+*** ANTE/BLINDS ***
+popoletta posts small blind 15
+Prayade posts big blind 30
+Dealt to MathisKcr [Kc 5h]
+*** PRE-FLOP *** 
+MathisKcr raises 300 to 330 and is all-in
+popoletta folds
+Prayade folds
+MathisKcr collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Seat 2: MathisKcr (button) won 375
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #3959423895123001345-8-1743180968 - Holdem no limit (15/30) - 2025/03/28 16:56:08 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Prayade (410)
+Seat 2: MathisKcr (375)
+Seat 3: popoletta (715)
+*** ANTE/BLINDS ***
+Prayade posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3c 7c]
+*** PRE-FLOP *** 
+popoletta calls 30
+Prayade folds
+MathisKcr checks
+*** FLOP *** [3d Js Qc]
+MathisKcr checks
+popoletta checks
+*** TURN *** [3d Js Qc][Ac]
+MathisKcr checks
+popoletta checks
+*** RIVER *** [3d Js Qc Ac][3h]
+MathisKcr bets 60
+popoletta folds
+MathisKcr collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [3d Js Qc Ac 3h]
+Seat 2: MathisKcr (big blind) won 135
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #3959423895123001345-9-1743181000 - Holdem no limit (15/30) - 2025/03/28 16:56:40 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Prayade (395)
+Seat 2: MathisKcr (420)
+Seat 3: popoletta (685)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+popoletta posts big blind 30
+Dealt to MathisKcr [2s 3h]
+*** PRE-FLOP *** 
+Prayade folds
+MathisKcr calls 15
+popoletta raises 252 to 282
+MathisKcr folds
+popoletta collected 312 from pot
+*** SUMMARY ***
+Total pot 312 | No rake
+Seat 3: popoletta (big blind) won 312
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #3959423895123001345-10-1743181013 - Holdem no limit (15/30) - 2025/03/28 16:56:53 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Prayade (395)
+Seat 2: MathisKcr (390)
+Seat 3: popoletta (715)
+*** ANTE/BLINDS ***
+popoletta posts small blind 15
+Prayade posts big blind 30
+Dealt to MathisKcr [7d 9s]
+*** PRE-FLOP *** 
+MathisKcr folds
+popoletta calls 15
+Prayade checks
+*** FLOP *** [4s 3s 2h]
+popoletta checks
+Prayade checks
+*** TURN *** [4s 3s 2h][5h]
+popoletta checks
+Prayade checks
+*** RIVER *** [4s 3s 2h 5h][7c]
+popoletta checks
+Prayade checks
+*** SHOW DOWN ***
+popoletta shows [8c 4h] (One pair : 4)
+Prayade shows [4d Qs] (One pair : 4)
+Prayade collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [4s 3s 2h 5h 7c]
+Seat 1: Prayade (big blind) showed [4d Qs] and won 60 with One pair : 4
+Seat 3: popoletta (small blind) showed [8c 4h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #3959423895123001345-11-1743181039 - Holdem no limit (20/40) - 2025/03/28 16:57:19 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Prayade (425)
+Seat 2: MathisKcr (390)
+Seat 3: popoletta (685)
+*** ANTE/BLINDS ***
+Prayade posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9d 8h]
+*** PRE-FLOP *** 
+popoletta calls 40
+Prayade folds
+MathisKcr checks
+*** FLOP *** [Jd Kh Qh]
+MathisKcr checks
+popoletta checks
+*** TURN *** [Jd Kh Qh][4h]
+MathisKcr checks
+popoletta checks
+*** RIVER *** [Jd Kh Qh 4h][As]
+MathisKcr checks
+popoletta checks
+*** SHOW DOWN ***
+popoletta shows [7s 6s] (High card : Ace)
+MathisKcr shows [9d 8h] (High card : Ace)
+MathisKcr collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Jd Kh Qh 4h As]
+Seat 2: MathisKcr (big blind) showed [9d 8h] and won 100 with High card : Ace
+Seat 3: popoletta (button) showed [7s 6s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #3959423895123001345-12-1743181059 - Holdem no limit (20/40) - 2025/03/28 16:57:39 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Prayade (405)
+Seat 2: MathisKcr (450)
+Seat 3: popoletta (645)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+popoletta posts big blind 40
+Dealt to MathisKcr [4s 2s]
+*** PRE-FLOP *** 
+Prayade folds
+MathisKcr folds
+popoletta collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: popoletta (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #3959423895123001345-13-1743181066 - Holdem no limit (20/40) - 2025/03/28 16:57:46 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Prayade (405)
+Seat 2: MathisKcr (430)
+Seat 3: popoletta (665)
+*** ANTE/BLINDS ***
+popoletta posts small blind 20
+Prayade posts big blind 40
+Dealt to MathisKcr [2d 9h]
+*** PRE-FLOP *** 
+MathisKcr folds
+popoletta raises 80 to 120
+Prayade folds
+popoletta collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: popoletta (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 3 - HandId: #3959423895123001345-14-1743181082 - Holdem no limit (20/40) - 2025/03/28 16:58:02 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Prayade (365)
+Seat 2: MathisKcr (430)
+Seat 3: popoletta (705)
+*** ANTE/BLINDS ***
+Prayade posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5s 2h]
+*** PRE-FLOP *** 
+popoletta calls 40
+Prayade folds
+MathisKcr checks
+*** FLOP *** [Jc 7h Kh]
+MathisKcr checks
+popoletta checks
+*** TURN *** [Jc 7h Kh][Ac]
+MathisKcr checks
+popoletta checks
+*** RIVER *** [Jc 7h Kh Ac][Ad]
+MathisKcr checks
+popoletta checks
+*** SHOW DOWN ***
+MathisKcr shows [5s 2h] (One pair : Aces)
+popoletta shows [7s 3s] (Two pairs : Aces and 7)
+popoletta collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Jc 7h Kh Ac Ad]
+Seat 2: MathisKcr (big blind) showed [5s 2h] and lost with One pair : Aces
+Seat 3: popoletta (button) showed [7s 3s] and won 100 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #3959423895123001345-15-1743181127 - Holdem no limit (30/60) - 2025/03/28 16:58:47 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Prayade (345)
+Seat 2: MathisKcr (390)
+Seat 3: popoletta (765)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+popoletta posts big blind 60
+Dealt to MathisKcr [Jc 6s]
+*** PRE-FLOP *** 
+Prayade folds
+MathisKcr calls 30
+popoletta raises 270 to 330
+MathisKcr folds
+popoletta collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 3: popoletta (big blind) won 390
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 4 - HandId: #3959423895123001345-16-1743181160 - Holdem no limit (30/60) - 2025/03/28 16:59:20 UTC
+Table: 'Expresso(921875214)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Prayade (345)
+Seat 2: MathisKcr (330)
+Seat 3: popoletta (825)
+*** ANTE/BLINDS ***
+popoletta posts small blind 30
+Prayade posts big blind 60
+Dealt to MathisKcr [As Th]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+popoletta calls 90
+Prayade folds
+*** FLOP *** [6c 5d Kc]
+popoletta checks
+MathisKcr bets 210 and is all-in
+popoletta calls 210
+*** TURN *** [6c 5d Kc][9c]
+*** RIVER *** [6c 5d Kc 9c][5c]
+*** SHOW DOWN ***
+MathisKcr shows [As Th] (One pair : 5)
+popoletta shows [Jc 6h] (Flush King high)
+popoletta collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [6c 5d Kc 9c 5c]
+Seat 2: MathisKcr (button) showed [As Th] and lost with One pair : 5
+Seat 3: popoletta (small blind) showed [Jc 6h] and won 720 with Flush King high
+
+

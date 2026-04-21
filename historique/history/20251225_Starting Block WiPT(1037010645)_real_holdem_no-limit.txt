@@ -1,0 +1,97 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4453926805878865921-1-1766686480 - Holdem no limit (10/20) - 2025/12/25 18:14:40 UTC
+Table: 'Starting Block WiPT(1037010645)#0' 6-max (real money) Seat #1 is the button
+Seat 1: LeKenz42 (1500)
+Seat 2: ColdPalmer93 (1500)
+Seat 3: FAROOK69 (1500)
+Seat 4: Flou.Gambas8 (1500)
+Seat 5: ShirAASe (1500)
+Seat 6: MathisKcr (1500)
+*** ANTE/BLINDS ***
+ColdPalmer93 posts small blind 10
+FAROOK69 posts big blind 20
+Dealt to MathisKcr [4d 6d]
+*** PRE-FLOP *** 
+Flou.Gambas8 calls 20
+ShirAASe folds
+MathisKcr folds
+LeKenz42 raises 1480 to 1500 and is all-in
+ColdPalmer93 calls 1490 and is all-in
+FAROOK69 folds
+Flou.Gambas8 folds
+*** FLOP *** [Qd 7s 2s]
+*** TURN *** [Qd 7s 2s][9c]
+*** RIVER *** [Qd 7s 2s 9c][As]
+*** SHOW DOWN ***
+LeKenz42 shows [Td Kh] (High card : Ace)
+ColdPalmer93 shows [9d Th] (One pair : 9)
+ColdPalmer93 collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [Qd 7s 2s 9c As]
+Seat 1: LeKenz42 (button) showed [Td Kh] and lost with High card : Ace
+Seat 2: ColdPalmer93 (small blind) showed [9d Th] and won 3040 with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4453926805878865921-2-1766686514 - Holdem no limit (10/20) - 2025/12/25 18:15:14 UTC
+Table: 'Starting Block WiPT(1037010645)#0' 6-max (real money) Seat #2 is the button
+Seat 2: ColdPalmer93 (3040)
+Seat 3: FAROOK69 (1480)
+Seat 4: Flou.Gambas8 (1480)
+Seat 5: ShirAASe (1500)
+Seat 6: MathisKcr (1500)
+*** ANTE/BLINDS ***
+FAROOK69 posts small blind 10
+Flou.Gambas8 posts big blind 20
+Dealt to MathisKcr [5d 5h]
+*** PRE-FLOP *** 
+ShirAASe folds
+MathisKcr raises 1480 to 1500 and is all-in
+ColdPalmer93 folds
+FAROOK69 folds
+Flou.Gambas8 folds
+MathisKcr collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 6: MathisKcr won 1530
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4453926805878865921-3-1766686536 - Holdem no limit (10/20) - 2025/12/25 18:15:36 UTC
+Table: 'Starting Block WiPT(1037010645)#0' 6-max (real money) Seat #3 is the button
+Seat 2: ColdPalmer93 (3040)
+Seat 3: FAROOK69 (1470)
+Seat 4: Flou.Gambas8 (1460)
+Seat 5: ShirAASe (1500)
+Seat 6: MathisKcr (1530)
+*** ANTE/BLINDS ***
+Flou.Gambas8 posts small blind 10
+ShirAASe posts big blind 20
+Dealt to MathisKcr [Js Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+ColdPalmer93 raises 110 to 150
+FAROOK69 calls 150
+Flou.Gambas8 calls 140
+ShirAASe calls 130
+MathisKcr raises 1380 to 1530 and is all-in
+ColdPalmer93 calls 1380
+FAROOK69 calls 1320 and is all-in
+Flou.Gambas8 folds
+ShirAASe calls 1350 and is all-in
+*** FLOP *** [6s 3d Tc]
+*** TURN *** [6s 3d Tc][7d]
+*** RIVER *** [6s 3d Tc 7d][4s]
+*** SHOW DOWN ***
+FAROOK69 shows [2h 2d] (One pair : 2)
+ShirAASe shows [9h Kd] (High card : King)
+MathisKcr shows [Js Ad] (High card : Ace)
+ColdPalmer93 shows [Qs 6d] (One pair : 6)
+ColdPalmer93 collected 6180 from pot
+*** SUMMARY ***
+Total pot 6180 | No rake
+Board: [6s 3d Tc 7d 4s]
+Seat 2: ColdPalmer93 showed [Qs 6d] and won 6180 with One pair : 6
+Seat 3: FAROOK69 (button) showed [2h 2d] and lost with One pair : 2
+Seat 5: ShirAASe (big blind) showed [9h Kd] and lost with High card : King
+Seat 6: MathisKcr showed [Js Ad] and lost with High card : Ace
+
+

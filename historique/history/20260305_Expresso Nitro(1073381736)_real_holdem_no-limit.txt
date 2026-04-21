@@ -1,0 +1,259 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4610139452243705857-1-1772729477 - Holdem no limit (10/20) - 2026/03/05 16:51:17 UTC
+Table: 'Expresso Nitro(1073381736)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: tontonragnar (300)
+Seat 3: Cutcut11 (300)
+*** ANTE/BLINDS ***
+tontonragnar posts small blind 10
+Cutcut11 posts big blind 20
+Dealt to MathisKcr [3h 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+tontonragnar calls 10
+Cutcut11 checks
+*** FLOP *** [5d 4c Ac]
+tontonragnar checks
+Cutcut11 checks
+*** TURN *** [5d 4c Ac][7s]
+tontonragnar bets 20
+Cutcut11 folds
+tontonragnar collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [5d 4c Ac 7s]
+Seat 2: tontonragnar (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4610139452243705857-2-1772729491 - Holdem no limit (10/20) - 2026/03/05 16:51:31 UTC
+Table: 'Expresso Nitro(1073381736)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: tontonragnar (320)
+Seat 3: Cutcut11 (280)
+*** ANTE/BLINDS ***
+Cutcut11 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7h 3h]
+*** PRE-FLOP *** 
+tontonragnar calls 20
+Cutcut11 folds
+MathisKcr checks
+*** FLOP *** [4h 5c 4c]
+MathisKcr bets 25
+tontonragnar raises 275 to 300 and is all-in
+MathisKcr folds
+tontonragnar collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [4h 5c 4c]
+Seat 2: tontonragnar (button) won 375
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4610139452243705857-3-1772729503 - Holdem no limit (10/20) - 2026/03/05 16:51:43 UTC
+Table: 'Expresso Nitro(1073381736)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (255)
+Seat 2: tontonragnar (375)
+Seat 3: Cutcut11 (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+tontonragnar posts big blind 20
+Dealt to MathisKcr [Ts 7s]
+*** PRE-FLOP *** 
+Cutcut11 calls 20
+MathisKcr calls 10
+tontonragnar raises 355 to 375 and is all-in
+Cutcut11 folds
+MathisKcr folds
+tontonragnar collected 415 from pot
+*** SUMMARY ***
+Total pot 415 | No rake
+Seat 2: tontonragnar (big blind) won 415
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4610139452243705857-4-1772729531 - Holdem no limit (10/20) - 2026/03/05 16:52:11 UTC
+Table: 'Expresso Nitro(1073381736)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (235)
+Seat 2: tontonragnar (415)
+Seat 3: Cutcut11 (250)
+*** ANTE/BLINDS ***
+tontonragnar posts small blind 10
+Cutcut11 posts big blind 20
+Dealt to MathisKcr [6d 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+tontonragnar raises 395 to 415 and is all-in
+Cutcut11 calls 230 and is all-in
+*** FLOP *** [9c 8c 5s]
+*** TURN *** [9c 8c 5s][6s]
+*** RIVER *** [9c 8c 5s 6s][3d]
+*** SHOW DOWN ***
+Cutcut11 shows [Kd 9d] (One pair : 9)
+tontonragnar shows [Qs 7d] (Straight 9 high)
+tontonragnar collected 665 from pot
+*** SUMMARY ***
+Total pot 665 | No rake
+Board: [9c 8c 5s 6s 3d]
+Seat 2: tontonragnar (small blind) showed [Qs 7d] and won 665 with Straight 9 high
+Seat 3: Cutcut11 (big blind) showed [Kd 9d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4610139452243705857-5-1772729545 - Holdem no limit (15/30) - 2026/03/05 16:52:25 UTC
+Table: 'Expresso Nitro(1073381736)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (235)
+Seat 2: tontonragnar (665)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+tontonragnar posts big blind 30
+Dealt to MathisKcr [5s Ts]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+tontonragnar checks
+*** FLOP *** [Td 5h 4h]
+tontonragnar bets 30
+MathisKcr raises 60 to 90
+tontonragnar calls 60
+*** TURN *** [Td 5h 4h][3s]
+tontonragnar bets 30
+MathisKcr raises 85 to 115 and is all-in
+tontonragnar calls 85
+*** RIVER *** [Td 5h 4h 3s][7s]
+*** SHOW DOWN ***
+tontonragnar shows [7d Jc] (One pair : 7)
+MathisKcr shows [5s Ts] (Two pairs : Tens and 5)
+MathisKcr collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [Td 5h 4h 3s 7s]
+Seat 1: MathisKcr (small blind) (button) showed [5s Ts] and won 470 with Two pairs : Tens and 5
+Seat 2: tontonragnar (big blind) showed [7d Jc] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4610139452243705857-6-1772729568 - Holdem no limit (15/30) - 2026/03/05 16:52:48 UTC
+Table: 'Expresso Nitro(1073381736)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (470)
+Seat 2: tontonragnar (430)
+*** ANTE/BLINDS ***
+tontonragnar posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3d 5s]
+*** PRE-FLOP *** 
+tontonragnar calls 15
+MathisKcr checks
+*** FLOP *** [Kc Tc 4c]
+MathisKcr checks
+tontonragnar bets 60
+MathisKcr folds
+tontonragnar collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Kc Tc 4c]
+Seat 2: tontonragnar (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4610139452243705857-7-1772729579 - Holdem no limit (15/30) - 2026/03/05 16:52:59 UTC
+Table: 'Expresso Nitro(1073381736)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (440)
+Seat 2: tontonragnar (460)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+tontonragnar posts big blind 30
+Dealt to MathisKcr [4c 3d]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+tontonragnar raises 430 to 460 and is all-in
+MathisKcr folds
+tontonragnar collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Seat 2: tontonragnar (big blind) won 490
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4610139452243705857-8-1772729589 - Holdem no limit (15/30) - 2026/03/05 16:53:09 UTC
+Table: 'Expresso Nitro(1073381736)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (410)
+Seat 2: tontonragnar (490)
+*** ANTE/BLINDS ***
+tontonragnar posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3d 9d]
+*** PRE-FLOP *** 
+tontonragnar calls 15
+MathisKcr checks
+*** FLOP *** [7d Kd Qd]
+MathisKcr checks
+tontonragnar checks
+*** TURN *** [7d Kd Qd][Ks]
+MathisKcr bets 30
+tontonragnar folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [7d Kd Qd Ks]
+Seat 1: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4610139452243705857-9-1772729605 - Holdem no limit (20/40) - 2026/03/05 16:53:25 UTC
+Table: 'Expresso Nitro(1073381736)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (440)
+Seat 2: tontonragnar (460)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+tontonragnar posts big blind 40
+Dealt to MathisKcr [5c 7c]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+tontonragnar checks
+*** FLOP *** [Kc 5s Qs]
+tontonragnar bets 420 and is all-in
+MathisKcr folds
+tontonragnar collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Kc 5s Qs]
+Seat 2: tontonragnar (big blind) won 500
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4610139452243705857-10-1772729615 - Holdem no limit (20/40) - 2026/03/05 16:53:35 UTC
+Table: 'Expresso Nitro(1073381736)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (400)
+Seat 2: tontonragnar (500)
+*** ANTE/BLINDS ***
+tontonragnar posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3s 4h]
+*** PRE-FLOP *** 
+tontonragnar raises 460 to 500 and is all-in
+MathisKcr folds
+tontonragnar collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 2: tontonragnar (small blind) (button) won 540
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4610139452243705857-11-1772729620 - Holdem no limit (20/40) - 2026/03/05 16:53:40 UTC
+Table: 'Expresso Nitro(1073381736)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (360)
+Seat 2: tontonragnar (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+tontonragnar posts big blind 40
+Dealt to MathisKcr [As Th]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+tontonragnar calls 40
+*** FLOP *** [7c Qd Kc]
+tontonragnar bets 160
+MathisKcr raises 120 to 280 and is all-in
+tontonragnar calls 120
+*** TURN *** [7c Qd Kc][Ks]
+*** RIVER *** [7c Qd Kc Ks][2s]
+*** SHOW DOWN ***
+MathisKcr shows [As Th] (One pair : Kings)
+tontonragnar shows [2d Qc] (Two pairs : Kings and Queens)
+tontonragnar collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [7c Qd Kc Ks 2s]
+Seat 1: MathisKcr (small blind) (button) showed [As Th] and lost with One pair : Kings
+Seat 2: tontonragnar (big blind) showed [2d Qc] and won 720 with Two pairs : Kings and Queens
+
+

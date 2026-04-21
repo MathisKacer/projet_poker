@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4599048815893282817-1-1772289260 - Holdem no limit (10/20) - 2026/02/28 14:34:20 UTC
+Table: 'Expresso Nitro(1070799496)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: BoBi_78 (300)
+Seat 3: YT-Joker (300)
+*** ANTE/BLINDS ***
+BoBi_78 posts small blind 10
+YT-Joker posts big blind 20
+Dealt to MathisKcr [4h Tc]
+*** PRE-FLOP *** 
+MathisKcr folds
+BoBi_78 folds
+YT-Joker collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: YT-Joker (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4599048815893282817-2-1772289271 - Holdem no limit (10/20) - 2026/02/28 14:34:31 UTC
+Table: 'Expresso Nitro(1070799496)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: BoBi_78 (290)
+Seat 3: YT-Joker (310)
+*** ANTE/BLINDS ***
+YT-Joker posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c 4s]
+*** PRE-FLOP *** 
+BoBi_78 calls 20
+YT-Joker calls 10
+MathisKcr checks
+*** FLOP *** [Tc Th 7s]
+YT-Joker checks
+MathisKcr bets 40
+BoBi_78 folds
+YT-Joker calls 40
+*** TURN *** [Tc Th 7s][2s]
+YT-Joker checks
+MathisKcr bets 80
+YT-Joker raises 170 to 250 and is all-in
+MathisKcr calls 160 and is all-in
+*** RIVER *** [Tc Th 7s 2s][3d]
+*** SHOW DOWN ***
+MathisKcr shows [7c 4s] (Two pairs : Tens and 7)
+YT-Joker shows [Ts 9d] (Trips of Tens)
+YT-Joker collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Tc Th 7s 2s 3d]
+Seat 1: MathisKcr (big blind) showed [7c 4s] and lost with Two pairs : Tens and 7
+Seat 3: YT-Joker (small blind) showed [Ts 9d] and won 630 with Trips of Tens
+
+

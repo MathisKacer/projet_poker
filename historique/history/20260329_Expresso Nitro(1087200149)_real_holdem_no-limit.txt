@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669489084161327105-1-1774824806 - Holdem no limit (10/20) - 2026/03/29 22:53:26 UTC
+Table: 'Expresso Nitro(1087200149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Loutre_91719 (300)
+Seat 2: Dav.1975 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Loutre_91719 posts small blind 10
+Dav.1975 posts big blind 20
+Dealt to MathisKcr [Kd 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Loutre_91719 folds
+Dav.1975 calls 20
+*** FLOP *** [3d 6h Kh]
+Dav.1975 checks
+MathisKcr bets 32
+Dav.1975 folds
+MathisKcr collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | No rake
+Board: [3d 6h Kh]
+Seat 3: MathisKcr (button) won 122
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669489084161327105-2-1774824820 - Holdem no limit (10/20) - 2026/03/29 22:53:40 UTC
+Table: 'Expresso Nitro(1087200149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Loutre_91719 (290)
+Seat 2: Dav.1975 (260)
+Seat 3: MathisKcr (350)
+*** ANTE/BLINDS ***
+Dav.1975 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2c Js]
+*** PRE-FLOP *** 
+Loutre_91719 raises 270 to 290 and is all-in
+Dav.1975 calls 250 and is all-in
+MathisKcr folds
+*** FLOP *** [3s 5c 3c]
+*** TURN *** [3s 5c 3c][3h]
+*** RIVER *** [3s 5c 3c 3h][4h]
+*** SHOW DOWN ***
+Dav.1975 shows [Qd Ts] (Trips of 3)
+Loutre_91719 shows [8s Ac] (Trips of 3)
+Loutre_91719 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [3s 5c 3c 3h 4h]
+Seat 1: Loutre_91719 (button) showed [8s Ac] and won 570 with Trips of 3
+Seat 2: Dav.1975 (small blind) showed [Qd Ts] and lost with Trips of 3
+
+

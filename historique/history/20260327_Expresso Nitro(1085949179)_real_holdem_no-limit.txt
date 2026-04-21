@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664116208923049985-1-1774619902 - Holdem no limit (10/20) - 2026/03/27 13:58:22 UTC
+Table: 'Expresso Nitro(1085949179)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tonysama06 (300)
+Seat 2: MathisKcr (300)
+Seat 3: thomas210638 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+thomas210638 posts big blind 20
+Dealt to MathisKcr [5s 9h]
+*** PRE-FLOP *** 
+Tonysama06 raises 280 to 300 and is all-in
+MathisKcr folds
+thomas210638 folds
+Tonysama06 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Tonysama06 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664116208923049985-2-1774619910 - Holdem no limit (10/20) - 2026/03/27 13:58:30 UTC
+Table: 'Expresso Nitro(1085949179)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tonysama06 (330)
+Seat 2: MathisKcr (290)
+Seat 3: thomas210638 (280)
+*** ANTE/BLINDS ***
+thomas210638 posts small blind 10
+Tonysama06 posts big blind 20
+Dealt to MathisKcr [6d Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+thomas210638 calls 30
+Tonysama06 raises 290 to 330 and is all-in
+MathisKcr calls 250 and is all-in
+thomas210638 calls 240 and is all-in
+*** FLOP *** [7d 8d 3c]
+*** TURN *** [7d 8d 3c][4h]
+*** RIVER *** [7d 8d 3c 4h][3h]
+*** SHOW DOWN ***
+MathisKcr shows [6d Kc] (One pair : 3)
+Tonysama06 shows [Ad Qs] (One pair : 3)
+thomas210638 shows [Tc 8c] (Two pairs : 8 and 3)
+thomas210638 collected 840 from main pot
+Tonysama06 collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 8d 3c 4h 3h]
+Seat 1: Tonysama06 (big blind) showed [Ad Qs] and won 60 with One pair : 3
+Seat 2: MathisKcr (button) showed [6d Kc] and lost with One pair : 3
+Seat 3: thomas210638 (small blind) showed [Tc 8c] and won 840 with Two pairs : 8 and 3
+
+

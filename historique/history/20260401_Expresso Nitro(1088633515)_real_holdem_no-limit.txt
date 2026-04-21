@@ -1,0 +1,215 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675645344254525441-1-1775066758 - Holdem no limit (10/20) - 2026/04/01 18:05:58 UTC
+Table: 'Expresso Nitro(1088633515)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Puerro665462 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Suarezzz86 (300)
+*** ANTE/BLINDS ***
+Suarezzz86 posts small blind 10
+Puerro665462 posts big blind 20
+Dealt to MathisKcr [2h 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Suarezzz86 calls 10
+Puerro665462 checks
+*** FLOP *** [2d Ad Jh]
+Suarezzz86 checks
+Puerro665462 checks
+*** TURN *** [2d Ad Jh][7s]
+Suarezzz86 checks
+Puerro665462 checks
+*** RIVER *** [2d Ad Jh 7s][Qh]
+Suarezzz86 checks
+Puerro665462 bets 280 and is all-in
+Suarezzz86 folds
+Puerro665462 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [2d Ad Jh 7s Qh]
+Seat 1: Puerro665462 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675645344254525441-2-1775066784 - Holdem no limit (10/20) - 2026/04/01 18:06:24 UTC
+Table: 'Expresso Nitro(1088633515)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Puerro665462 (320)
+Seat 2: MathisKcr (300)
+Seat 3: Suarezzz86 (280)
+*** ANTE/BLINDS ***
+Puerro665462 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8c Qh]
+*** PRE-FLOP *** 
+Suarezzz86 calls 20
+Puerro665462 calls 10
+MathisKcr raises 280 to 300 and is all-in
+Suarezzz86 folds
+Puerro665462 calls 280
+*** FLOP *** [4h Ks 5c]
+*** TURN *** [4h Ks 5c][Jh]
+*** RIVER *** [4h Ks 5c Jh][Qd]
+*** SHOW DOWN ***
+Puerro665462 shows [8h As] (High card : Ace)
+MathisKcr shows [8c Qh] (One pair : Queens)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [4h Ks 5c Jh Qd]
+Seat 1: Puerro665462 (small blind) showed [8h As] and lost with High card : Ace
+Seat 2: MathisKcr (big blind) showed [8c Qh] and won 620 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675645344254525441-3-1775066809 - Holdem no limit (10/20) - 2026/04/01 18:06:49 UTC
+Table: 'Expresso Nitro(1088633515)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Puerro665462 (20)
+Seat 2: MathisKcr (620)
+Seat 3: Suarezzz86 (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Suarezzz86 posts big blind 20
+Dealt to MathisKcr [8h 4s]
+*** PRE-FLOP *** 
+Puerro665462 calls 20 and is all-in
+MathisKcr folds
+*** FLOP *** [6s 7h 2c]
+*** TURN *** [6s 7h 2c][8d]
+*** RIVER *** [6s 7h 2c 8d][3h]
+*** SHOW DOWN ***
+Puerro665462 shows [5h 5d] (One pair : 5)
+Suarezzz86 shows [Ts Tc] (One pair : Tens)
+Suarezzz86 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [6s 7h 2c 8d 3h]
+Seat 1: Puerro665462 (button) showed [5h 5d] and lost with One pair : 5
+Seat 3: Suarezzz86 (big blind) showed [Ts Tc] and won 50 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675645344254525441-4-1775066821 - Holdem no limit (15/30) - 2026/04/01 18:07:01 UTC
+Table: 'Expresso Nitro(1088633515)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (610)
+Seat 3: Suarezzz86 (290)
+*** ANTE/BLINDS ***
+Suarezzz86 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2d Ah]
+*** PRE-FLOP *** 
+Suarezzz86 calls 15
+MathisKcr raises 580 to 610 and is all-in
+Suarezzz86 folds
+MathisKcr collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Seat 2: MathisKcr (big blind) won 640
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675645344254525441-5-1775066832 - Holdem no limit (15/30) - 2026/04/01 18:07:12 UTC
+Table: 'Expresso Nitro(1088633515)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (640)
+Seat 3: Suarezzz86 (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Suarezzz86 posts big blind 30
+Dealt to MathisKcr [3c 6s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Suarezzz86 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Suarezzz86 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675645344254525441-6-1775066836 - Holdem no limit (15/30) - 2026/04/01 18:07:16 UTC
+Table: 'Expresso Nitro(1088633515)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (625)
+Seat 3: Suarezzz86 (275)
+*** ANTE/BLINDS ***
+Suarezzz86 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5h Qd]
+*** PRE-FLOP *** 
+Suarezzz86 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675645344254525441-7-1775066841 - Holdem no limit (15/30) - 2026/04/01 18:07:21 UTC
+Table: 'Expresso Nitro(1088633515)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (640)
+Seat 3: Suarezzz86 (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Suarezzz86 posts big blind 30
+Dealt to MathisKcr [3c 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Suarezzz86 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Suarezzz86 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675645344254525441-8-1775066845 - Holdem no limit (15/30) - 2026/04/01 18:07:25 UTC
+Table: 'Expresso Nitro(1088633515)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (625)
+Seat 3: Suarezzz86 (275)
+*** ANTE/BLINDS ***
+Suarezzz86 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Th 6h]
+*** PRE-FLOP *** 
+Suarezzz86 calls 15
+MathisKcr checks
+*** FLOP *** [6d Ad 8h]
+MathisKcr bets 45
+Suarezzz86 raises 200 to 245 and is all-in
+MathisKcr folds
+Suarezzz86 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [6d Ad 8h]
+Seat 3: Suarezzz86 (small blind) (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675645344254525441-9-1775066870 - Holdem no limit (15/30) - 2026/04/01 18:07:50 UTC
+Table: 'Expresso Nitro(1088633515)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (550)
+Seat 3: Suarezzz86 (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Suarezzz86 posts big blind 30
+Dealt to MathisKcr [7h 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Suarezzz86 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Suarezzz86 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675645344254525441-10-1775066874 - Holdem no limit (15/30) - 2026/04/01 18:07:54 UTC
+Table: 'Expresso Nitro(1088633515)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (535)
+Seat 3: Suarezzz86 (365)
+*** ANTE/BLINDS ***
+Suarezzz86 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ts Ah]
+*** PRE-FLOP *** 
+Suarezzz86 calls 15
+MathisKcr raises 505 to 535 and is all-in
+Suarezzz86 calls 335 and is all-in
+*** FLOP *** [Qd Kd 9s]
+*** TURN *** [Qd Kd 9s][Js]
+*** RIVER *** [Qd Kd 9s Js][9h]
+*** SHOW DOWN ***
+Suarezzz86 shows [Ad Ac] (Two pairs : Aces and 9)
+MathisKcr shows [Ts Ah] (Straight Ace high)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd Kd 9s Js 9h]
+Seat 2: MathisKcr (big blind) showed [Ts Ah] and won 900 with Straight Ace high
+Seat 3: Suarezzz86 (small blind) (button) showed [Ad Ac] and lost with Two pairs : Aces and 9
+
+

@@ -1,0 +1,178 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698446917607096321-1-1775914655 - Holdem no limit (10/20) - 2026/04/11 13:37:35 UTC
+Table: 'Expresso Nitro(1093942420)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Lasdosa (300)
+Seat 3: Jeton.Nul128 (300)
+*** ANTE/BLINDS ***
+Jeton.Nul128 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qc 3d]
+*** PRE-FLOP *** 
+Lasdosa calls 20
+Jeton.Nul128 raises 20 to 40
+MathisKcr folds
+Lasdosa calls 20
+*** FLOP *** [6d As 4s]
+Jeton.Nul128 bets 20
+Lasdosa calls 20
+*** TURN *** [6d As 4s][Js]
+Jeton.Nul128 bets 20
+Lasdosa raises 50 to 70
+Jeton.Nul128 calls 50
+*** RIVER *** [6d As 4s Js][5d]
+Jeton.Nul128 checks
+Lasdosa checks
+*** SHOW DOWN ***
+Jeton.Nul128 shows [Ks Tc] (High card : Ace)
+Lasdosa shows [6h 9h] (One pair : 6)
+Lasdosa collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [6d As 4s Js 5d]
+Seat 2: Lasdosa (button) showed [6h 9h] and won 280 with One pair : 6
+Seat 3: Jeton.Nul128 (small blind) showed [Ks Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4698446917607096321-2-1775914690 - Holdem no limit (10/20) - 2026/04/11 13:38:10 UTC
+Table: 'Expresso Nitro(1093942420)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Lasdosa (450)
+Seat 3: Jeton.Nul128 (170)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Lasdosa posts big blind 20
+Dealt to MathisKcr [6d 4s]
+*** PRE-FLOP *** 
+Jeton.Nul128 raises 150 to 170 and is all-in
+MathisKcr folds
+Lasdosa folds
+Jeton.Nul128 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 3: Jeton.Nul128 (button) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4698446917607096321-3-1775914713 - Holdem no limit (15/30) - 2026/04/11 13:38:33 UTC
+Table: 'Expresso Nitro(1093942420)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: Lasdosa (430)
+Seat 3: Jeton.Nul128 (200)
+*** ANTE/BLINDS ***
+Lasdosa posts small blind 15
+Jeton.Nul128 posts big blind 30
+Dealt to MathisKcr [Qh 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Lasdosa folds
+Jeton.Nul128 calls 30
+*** FLOP *** [5c Kc 6h]
+Jeton.Nul128 checks
+MathisKcr checks
+*** TURN *** [5c Kc 6h][2s]
+Jeton.Nul128 checks
+MathisKcr checks
+*** RIVER *** [5c Kc 6h 2s][Ac]
+Jeton.Nul128 checks
+MathisKcr bets 210 and is all-in
+Jeton.Nul128 calls 140 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [Qh 8c] (High card : Ace)
+Jeton.Nul128 shows [Jc 4c] (Flush Ace high)
+Jeton.Nul128 collected 415 from main pot
+MathisKcr collected 70 from side pot 1
+*** SUMMARY ***
+Total pot 485 | No rake
+Board: [5c Kc 6h 2s Ac]
+Seat 1: MathisKcr (button) showed [Qh 8c] and won 70 with High card : Ace
+Seat 3: Jeton.Nul128 (big blind) showed [Jc 4c] and won 415 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4698446917607096321-4-1775914755 - Holdem no limit (15/30) - 2026/04/11 13:39:15 UTC
+Table: 'Expresso Nitro(1093942420)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (70)
+Seat 2: Lasdosa (415)
+Seat 3: Jeton.Nul128 (415)
+*** ANTE/BLINDS ***
+Jeton.Nul128 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2h 9s]
+*** PRE-FLOP *** 
+Lasdosa folds
+Jeton.Nul128 calls 15
+MathisKcr checks
+*** FLOP *** [Th Qd Jc]
+Jeton.Nul128 checks
+MathisKcr bets 30
+Jeton.Nul128 calls 30
+*** TURN *** [Th Qd Jc][Ah]
+Jeton.Nul128 checks
+MathisKcr checks
+*** RIVER *** [Th Qd Jc Ah][7s]
+Jeton.Nul128 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [2h 9s] (High card : Ace)
+Jeton.Nul128 shows [8d Kh] (Straight Ace high)
+Jeton.Nul128 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Th Qd Jc Ah 7s]
+Seat 1: MathisKcr (big blind) showed [2h 9s] and lost with High card : Ace
+Seat 3: Jeton.Nul128 (small blind) showed [8d Kh] and won 120 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4698446917607096321-5-1775914780 - Holdem no limit (20/40) - 2026/04/11 13:39:40 UTC
+Table: 'Expresso Nitro(1093942420)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (10)
+Seat 2: Lasdosa (415)
+Seat 3: Jeton.Nul128 (475)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10 and is all-in
+Lasdosa posts big blind 40
+Dealt to MathisKcr [3s 2d]
+*** PRE-FLOP *** 
+Jeton.Nul128 calls 40
+Lasdosa raises 375 to 415 and is all-in
+Jeton.Nul128 folds
+*** FLOP *** [3d Th 2h]
+*** TURN *** [3d Th 2h][Qd]
+*** RIVER *** [3d Th 2h Qd][2c]
+*** SHOW DOWN ***
+MathisKcr shows [3s 2d] (Full of 2 and 3)
+Lasdosa shows [Jc 9h] (One pair : 2)
+Lasdosa collected 435 from side pot 1
+MathisKcr collected 30 from main pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Board: [3d Th 2h Qd 2c]
+Seat 1: MathisKcr (small blind) showed [3s 2d] and won 30 with Full of 2 and 3
+Seat 2: Lasdosa (big blind) showed [Jc 9h] and won 435 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4698446917607096321-6-1775914793 - Holdem no limit (20/40) - 2026/04/11 13:39:53 UTC
+Table: 'Expresso Nitro(1093942420)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (30)
+Seat 2: Lasdosa (435)
+Seat 3: Jeton.Nul128 (435)
+*** ANTE/BLINDS ***
+Lasdosa posts small blind 20
+Jeton.Nul128 posts big blind 40
+Dealt to MathisKcr [5s Kh]
+*** PRE-FLOP *** 
+MathisKcr calls 30 and is all-in
+Lasdosa raises 395 to 435 and is all-in
+Jeton.Nul128 folds
+*** FLOP *** [9d 4h Qd]
+*** TURN *** [9d 4h Qd][Qs]
+*** RIVER *** [9d 4h Qd Qs][7s]
+*** SHOW DOWN ***
+MathisKcr shows [5s Kh] (One pair : Queens)
+Lasdosa shows [Qc Ad] (Trips of Queens)
+Lasdosa collected 505 from pot
+*** SUMMARY ***
+Total pot 505 | No rake
+Board: [9d 4h Qd Qs 7s]
+Seat 1: MathisKcr (button) showed [5s Kh] and lost with One pair : Queens
+Seat 2: Lasdosa (small blind) showed [Qc Ad] and won 505 with Trips of Queens
+
+

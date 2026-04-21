@@ -1,0 +1,271 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601447387624374273-1-1772389082 - Holdem no limit (10/20) - 2026/03/01 18:18:02 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Shove toi (300)
+Seat 3: aymerick79 (300)
+*** ANTE/BLINDS ***
+aymerick79 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5c 9s]
+*** PRE-FLOP *** 
+Shove toi folds
+aymerick79 raises 280 to 300 and is all-in
+MathisKcr folds
+aymerick79 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: aymerick79 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601447387624374273-2-1772389090 - Holdem no limit (10/20) - 2026/03/01 18:18:10 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Shove toi (300)
+Seat 3: aymerick79 (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Shove toi posts big blind 20
+Dealt to MathisKcr [6d Th]
+*** PRE-FLOP *** 
+aymerick79 calls 20
+MathisKcr calls 10
+Shove toi raises 280 to 300 and is all-in
+aymerick79 folds
+MathisKcr folds
+Shove toi collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: Shove toi (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601447387624374273-3-1772389110 - Holdem no limit (10/20) - 2026/03/01 18:18:30 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (260)
+Seat 2: Shove toi (340)
+Seat 3: aymerick79 (300)
+*** ANTE/BLINDS ***
+Shove toi posts small blind 10
+aymerick79 posts big blind 20
+Dealt to MathisKcr [Qd 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Shove toi calls 10
+aymerick79 raises 280 to 300 and is all-in
+Shove toi folds
+aymerick79 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: aymerick79 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601447387624374273-4-1772389119 - Holdem no limit (10/20) - 2026/03/01 18:18:39 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (260)
+Seat 2: Shove toi (320)
+Seat 3: aymerick79 (320)
+*** ANTE/BLINDS ***
+aymerick79 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s Js]
+*** PRE-FLOP *** 
+Shove toi raises 300 to 320 and is all-in
+aymerick79 folds
+MathisKcr folds
+Shove toi collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 2: Shove toi (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601447387624374273-5-1772389130 - Holdem no limit (10/20) - 2026/03/01 18:18:50 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (240)
+Seat 2: Shove toi (350)
+Seat 3: aymerick79 (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Shove toi posts big blind 20
+Dealt to MathisKcr [9c 6s]
+*** PRE-FLOP *** 
+aymerick79 folds
+MathisKcr calls 10
+Shove toi raises 330 to 350 and is all-in
+MathisKcr folds
+Shove toi collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 2: Shove toi (big blind) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601447387624374273-6-1772389147 - Holdem no limit (15/30) - 2026/03/01 18:19:07 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (220)
+Seat 2: Shove toi (370)
+Seat 3: aymerick79 (310)
+*** ANTE/BLINDS ***
+Shove toi posts small blind 15
+aymerick79 posts big blind 30
+Dealt to MathisKcr [Ks 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 190 to 220 and is all-in
+Shove toi folds
+aymerick79 calls 190
+*** FLOP *** [7s 9d 8h]
+*** TURN *** [7s 9d 8h][2c]
+*** RIVER *** [7s 9d 8h 2c][4s]
+*** SHOW DOWN ***
+aymerick79 shows [Js 6s] (High card : Jack)
+MathisKcr shows [Ks 3s] (High card : King)
+MathisKcr collected 455 from pot
+*** SUMMARY ***
+Total pot 455 | No rake
+Board: [7s 9d 8h 2c 4s]
+Seat 1: MathisKcr (button) showed [Ks 3s] and won 455 with High card : King
+Seat 3: aymerick79 (big blind) showed [Js 6s] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601447387624374273-7-1772389161 - Holdem no limit (15/30) - 2026/03/01 18:19:21 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (455)
+Seat 2: Shove toi (355)
+Seat 3: aymerick79 (90)
+*** ANTE/BLINDS ***
+aymerick79 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ks 9c]
+*** PRE-FLOP *** 
+Shove toi raises 325 to 355 and is all-in
+aymerick79 calls 75 and is all-in
+MathisKcr folds
+*** FLOP *** [7d Jd Tc]
+*** TURN *** [7d Jd Tc][6c]
+*** RIVER *** [7d Jd Tc 6c][6h]
+*** SHOW DOWN ***
+Shove toi shows [3h 3d] (Two pairs : 6 and 3)
+aymerick79 shows [Js Ac] (Two pairs : Jacks and 6)
+aymerick79 collected 210 from main pot
+Shove toi collected 265 from side pot 1
+*** SUMMARY ***
+Total pot 475 | No rake
+Board: [7d Jd Tc 6c 6h]
+Seat 2: Shove toi (button) showed [3h 3d] and won 265 with Two pairs : 6 and 3
+Seat 3: aymerick79 (small blind) showed [Js Ac] and won 210 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601447387624374273-8-1772389175 - Holdem no limit (15/30) - 2026/03/01 18:19:35 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (425)
+Seat 2: Shove toi (265)
+Seat 3: aymerick79 (210)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Shove toi posts big blind 30
+Dealt to MathisKcr [Js 4s]
+*** PRE-FLOP *** 
+aymerick79 raises 180 to 210 and is all-in
+MathisKcr folds
+Shove toi folds
+aymerick79 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Seat 3: aymerick79 (button) won 255
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601447387624374273-9-1772389184 - Holdem no limit (15/30) - 2026/03/01 18:19:44 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (410)
+Seat 2: Shove toi (235)
+Seat 3: aymerick79 (255)
+*** ANTE/BLINDS ***
+Shove toi posts small blind 15
+aymerick79 posts big blind 30
+Dealt to MathisKcr [Jh Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 380 to 410 and is all-in
+Shove toi folds
+aymerick79 calls 225 and is all-in
+*** FLOP *** [Ts 7h 3s]
+*** TURN *** [Ts 7h 3s][3h]
+*** RIVER *** [Ts 7h 3s 3h][Ad]
+*** SHOW DOWN ***
+MathisKcr shows [Jh Kd] (One pair : 3)
+aymerick79 shows [As 8d] (Two pairs : Aces and 3)
+aymerick79 collected 525 from main pot
+MathisKcr collected 155 from side pot 1
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Ts 7h 3s 3h Ad]
+Seat 1: MathisKcr (button) showed [Jh Kd] and won 155 with One pair : 3
+Seat 3: aymerick79 (big blind) showed [As 8d] and won 525 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601447387624374273-10-1772389198 - Holdem no limit (15/30) - 2026/03/01 18:19:58 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (155)
+Seat 2: Shove toi (220)
+Seat 3: aymerick79 (525)
+*** ANTE/BLINDS ***
+aymerick79 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qd 7h]
+*** PRE-FLOP *** 
+Shove toi raises 190 to 220 and is all-in
+aymerick79 calls 205
+MathisKcr folds
+*** FLOP *** [4s 2h Kc]
+*** TURN *** [4s 2h Kc][2s]
+*** RIVER *** [4s 2h Kc 2s][Js]
+*** SHOW DOWN ***
+Shove toi shows [Kd 6c] (Two pairs : Kings and 2)
+aymerick79 shows [Ks 9s] (Flush King high)
+aymerick79 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [4s 2h Kc 2s Js]
+Seat 2: Shove toi (button) showed [Kd 6c] and lost with Two pairs : Kings and 2
+Seat 3: aymerick79 (small blind) showed [Ks 9s] and won 470 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4601447387624374273-11-1772389212 - Holdem no limit (20/40) - 2026/03/01 18:20:12 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (125)
+Seat 3: aymerick79 (775)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+aymerick79 posts big blind 40
+Dealt to MathisKcr [Tc Td]
+*** PRE-FLOP *** 
+MathisKcr raises 85 to 125 and is all-in
+aymerick79 folds
+MathisKcr collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Seat 1: MathisKcr (small blind) (button) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4601447387624374273-12-1772389221 - Holdem no limit (20/40) - 2026/03/01 18:20:21 UTC
+Table: 'Expresso Nitro(1071357957)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (165)
+Seat 3: aymerick79 (735)
+*** ANTE/BLINDS ***
+aymerick79 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6c Qc]
+*** PRE-FLOP *** 
+aymerick79 raises 80 to 120
+MathisKcr raises 45 to 165 and is all-in
+aymerick79 calls 45
+*** FLOP *** [4h Ks Js]
+*** TURN *** [4h Ks Js][7h]
+*** RIVER *** [4h Ks Js 7h][3s]
+*** SHOW DOWN ***
+MathisKcr shows [6c Qc] (High card : King)
+aymerick79 shows [Kc Kd] (Trips of Kings)
+aymerick79 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [4h Ks Js 7h 3s]
+Seat 1: MathisKcr (big blind) showed [6c Qc] and lost with High card : King
+Seat 3: aymerick79 (small blind) (button) showed [Kc Kd] and won 330 with Trips of Kings
+
+

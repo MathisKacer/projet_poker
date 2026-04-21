@@ -1,0 +1,291 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4540907130642759681-1-1770195533 - Holdem no limit (10/20) - 2026/02/04 08:58:53 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: maroccinos (300)
+Seat 2: carolyne79 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+carolyne79 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3h 2h]
+*** PRE-FLOP *** 
+maroccinos calls 20
+carolyne79 folds
+MathisKcr checks
+*** FLOP *** [4s 5s 8c]
+MathisKcr bets 280 and is all-in
+maroccinos calls 280 and is all-in
+*** TURN *** [4s 5s 8c][6d]
+*** RIVER *** [4s 5s 8c 6d][7h]
+*** SHOW DOWN ***
+maroccinos shows [8s Jd] (Straight 8 high)
+MathisKcr shows [3h 2h] (Straight 8 high)
+MathisKcr collected 305 from pot
+maroccinos collected 305 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [4s 5s 8c 6d 7h]
+Seat 1: maroccinos (button) showed [8s Jd] and won 305 with Straight 8 high
+Seat 3: MathisKcr (big blind) showed [3h 2h] and won 305 with Straight 8 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4540907130642759681-2-1770195550 - Holdem no limit (10/20) - 2026/02/04 08:59:10 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: maroccinos (305)
+Seat 2: carolyne79 (290)
+Seat 3: MathisKcr (305)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+maroccinos posts big blind 20
+Dealt to MathisKcr [Jh 9s]
+*** PRE-FLOP *** 
+carolyne79 folds
+MathisKcr raises 285 to 305 and is all-in
+maroccinos folds
+MathisKcr collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 3: MathisKcr (small blind) won 325
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4540907130642759681-3-1770195558 - Holdem no limit (10/20) - 2026/02/04 08:59:18 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: maroccinos (285)
+Seat 2: carolyne79 (290)
+Seat 3: MathisKcr (325)
+*** ANTE/BLINDS ***
+maroccinos posts small blind 10
+carolyne79 posts big blind 20
+Dealt to MathisKcr [As Qd]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+maroccinos calls 50
+carolyne79 calls 40
+*** FLOP *** [8s 9d Ks]
+maroccinos checks
+carolyne79 bets 63
+MathisKcr calls 63
+maroccinos folds
+*** TURN *** [8s 9d Ks][8c]
+carolyne79 bets 107
+MathisKcr folds
+carolyne79 collected 413 from pot
+*** SUMMARY ***
+Total pot 413 | No rake
+Board: [8s 9d Ks 8c]
+Seat 2: carolyne79 (big blind) won 413
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4540907130642759681-4-1770195579 - Holdem no limit (10/20) - 2026/02/04 08:59:39 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: maroccinos (225)
+Seat 2: carolyne79 (473)
+Seat 3: MathisKcr (202)
+*** ANTE/BLINDS ***
+carolyne79 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5d 7h]
+*** PRE-FLOP *** 
+maroccinos raises 205 to 225 and is all-in
+carolyne79 calls 215
+MathisKcr folds
+*** FLOP *** [Jd 2d 3s]
+*** TURN *** [Jd 2d 3s][6d]
+*** RIVER *** [Jd 2d 3s 6d][Qs]
+*** SHOW DOWN ***
+carolyne79 shows [2h Kh] (One pair : 2)
+maroccinos shows [4s 4c] (One pair : 4)
+maroccinos collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [Jd 2d 3s 6d Qs]
+Seat 1: maroccinos (button) showed [4s 4c] and won 470 with One pair : 4
+Seat 2: carolyne79 (small blind) showed [2h Kh] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540907130642759681-5-1770195592 - Holdem no limit (15/30) - 2026/02/04 08:59:52 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: maroccinos (470)
+Seat 2: carolyne79 (248)
+Seat 3: MathisKcr (182)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+maroccinos posts big blind 30
+Dealt to MathisKcr [Kh 4h]
+*** PRE-FLOP *** 
+carolyne79 folds
+MathisKcr raises 152 to 182 and is all-in
+maroccinos folds
+MathisKcr collected 212 from pot
+*** SUMMARY ***
+Total pot 212 | No rake
+Seat 3: MathisKcr (small blind) won 212
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540907130642759681-6-1770195599 - Holdem no limit (15/30) - 2026/02/04 08:59:59 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: maroccinos (440)
+Seat 2: carolyne79 (248)
+Seat 3: MathisKcr (212)
+*** ANTE/BLINDS ***
+maroccinos posts small blind 15
+carolyne79 posts big blind 30
+Dealt to MathisKcr [Tc 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+maroccinos calls 15
+carolyne79 raises 218 to 248 and is all-in
+maroccinos folds
+carolyne79 collected 278 from pot
+*** SUMMARY ***
+Total pot 278 | No rake
+Seat 2: carolyne79 (big blind) won 278
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540907130642759681-7-1770195607 - Holdem no limit (15/30) - 2026/02/04 09:00:07 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: maroccinos (410)
+Seat 2: carolyne79 (278)
+Seat 3: MathisKcr (212)
+*** ANTE/BLINDS ***
+carolyne79 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6s 9h]
+*** PRE-FLOP *** 
+maroccinos raises 380 to 410 and is all-in
+carolyne79 folds
+MathisKcr folds
+maroccinos collected 455 from pot
+*** SUMMARY ***
+Total pot 455 | No rake
+Seat 1: maroccinos (button) won 455
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540907130642759681-8-1770195613 - Holdem no limit (15/30) - 2026/02/04 09:00:13 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: maroccinos (455)
+Seat 2: carolyne79 (263)
+Seat 3: MathisKcr (182)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+maroccinos posts big blind 30
+Dealt to MathisKcr [9s 8h]
+*** PRE-FLOP *** 
+carolyne79 folds
+MathisKcr raises 152 to 182 and is all-in
+maroccinos folds
+MathisKcr collected 212 from pot
+*** SUMMARY ***
+Total pot 212 | No rake
+Seat 3: MathisKcr (small blind) won 212
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540907130642759681-9-1770195621 - Holdem no limit (15/30) - 2026/02/04 09:00:21 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: maroccinos (425)
+Seat 2: carolyne79 (263)
+Seat 3: MathisKcr (212)
+*** ANTE/BLINDS ***
+maroccinos posts small blind 15
+carolyne79 posts big blind 30
+Dealt to MathisKcr [9h Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 182 to 212 and is all-in
+maroccinos folds
+carolyne79 folds
+MathisKcr collected 257 from pot
+*** SUMMARY ***
+Total pot 257 | No rake
+Seat 3: MathisKcr (button) won 257
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540907130642759681-10-1770195628 - Holdem no limit (15/30) - 2026/02/04 09:00:28 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #1 is the button
+Seat 1: maroccinos (410)
+Seat 2: carolyne79 (233)
+Seat 3: MathisKcr (257)
+*** ANTE/BLINDS ***
+carolyne79 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3h 7d]
+*** PRE-FLOP *** 
+maroccinos folds
+carolyne79 calls 15
+MathisKcr raises 227 to 257 and is all-in
+carolyne79 calls 203 and is all-in
+*** FLOP *** [Jd 4c 7s]
+*** TURN *** [Jd 4c 7s][Tc]
+*** RIVER *** [Jd 4c 7s Tc][Kh]
+*** SHOW DOWN ***
+carolyne79 shows [6s Kc] (One pair : Kings)
+MathisKcr shows [3h 7d] (One pair : 7)
+MathisKcr collected 24 from side pot 1
+carolyne79 collected 466 from main pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [Jd 4c 7s Tc Kh]
+Seat 2: carolyne79 (small blind) showed [6s Kc] and won 466 with One pair : Kings
+Seat 3: MathisKcr (big blind) showed [3h 7d] and won 24 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540907130642759681-11-1770195644 - Holdem no limit (15/30) - 2026/02/04 09:00:44 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #2 is the button
+Seat 1: maroccinos (410)
+Seat 2: carolyne79 (466)
+Seat 3: MathisKcr (24)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+maroccinos posts big blind 30
+Dealt to MathisKcr [5s 2h]
+*** PRE-FLOP *** 
+carolyne79 folds
+MathisKcr calls 9 and is all-in
+*** FLOP *** [Ks 2d 7h]
+*** TURN *** [Ks 2d 7h][5c]
+*** RIVER *** [Ks 2d 7h 5c][Ad]
+*** SHOW DOWN ***
+maroccinos shows [Qc 8d] (High card : Ace)
+MathisKcr shows [5s 2h] (Two pairs : 5 and 2)
+MathisKcr collected 48 from main pot
+maroccinos collected 6 from side pot 1
+*** SUMMARY ***
+Total pot 54 | No rake
+Board: [Ks 2d 7h 5c Ad]
+Seat 1: maroccinos (big blind) showed [Qc 8d] and won 6 with High card : Ace
+Seat 3: MathisKcr (small blind) showed [5s 2h] and won 48 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4540907130642759681-12-1770195656 - Holdem no limit (20/40) - 2026/02/04 09:00:56 UTC
+Table: 'Expresso Nitro(1057262330)#0' 3-max (real money) Seat #3 is the button
+Seat 1: maroccinos (386)
+Seat 2: carolyne79 (466)
+Seat 3: MathisKcr (48)
+*** ANTE/BLINDS ***
+maroccinos posts small blind 20
+carolyne79 posts big blind 40
+Dealt to MathisKcr [Ah 3d]
+*** PRE-FLOP *** 
+MathisKcr raises 8 to 48 and is all-in
+maroccinos calls 28
+carolyne79 calls 8
+*** FLOP *** [8h Qh 5d]
+maroccinos checks
+carolyne79 checks
+*** TURN *** [8h Qh 5d][9d]
+maroccinos checks
+carolyne79 checks
+*** RIVER *** [8h Qh 5d 9d][Jd]
+maroccinos bets 144
+carolyne79 calls 144
+*** SHOW DOWN ***
+maroccinos shows [Kc Qs] (One pair : Queens)
+MathisKcr shows [Ah 3d] (High card : Ace)
+carolyne79 shows [Ac Tc] (Straight Queen high)
+carolyne79 collected 432 from pot
+*** SUMMARY ***
+Total pot 432 | No rake
+Board: [8h Qh 5d 9d Jd]
+Seat 1: maroccinos (small blind) showed [Kc Qs] and lost with One pair : Queens
+Seat 2: carolyne79 (big blind) showed [Ac Tc] and won 432 with Straight Queen high
+Seat 3: MathisKcr (button) showed [Ah 3d] and lost with High card : Ace
+
+

@@ -1,0 +1,159 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664629002248388609-1-1774636492 - Holdem no limit (10/20) - 2026/03/27 18:34:52 UTC
+Table: 'Expresso Nitro(1086068573)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Id incorrect (300)
+Seat 2: 10cristian10 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Id incorrect posts big blind 20
+Dealt to MathisKcr [5s 3d]
+*** PRE-FLOP *** 
+10cristian10 folds
+MathisKcr folds
+Id incorrect collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Id incorrect (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664629002248388609-2-1774636499 - Holdem no limit (10/20) - 2026/03/27 18:34:59 UTC
+Table: 'Expresso Nitro(1086068573)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Id incorrect (310)
+Seat 2: 10cristian10 (300)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Id incorrect posts small blind 10
+10cristian10 posts big blind 20
+Dealt to MathisKcr [3h Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Id incorrect folds
+10cristian10 calls 20
+*** FLOP *** [7d Jh 4s]
+10cristian10 checks
+MathisKcr bets 32
+10cristian10 calls 32
+*** TURN *** [7d Jh 4s][9h]
+10cristian10 bets 20
+MathisKcr raises 119 to 139
+10cristian10 calls 119
+*** RIVER *** [7d Jh 4s 9h][7s]
+10cristian10 checks
+MathisKcr checks
+*** SHOW DOWN ***
+10cristian10 shows [8h 9c] (Two pairs : 9 and 7)
+MathisKcr shows [3h Jc] (Two pairs : Jacks and 7)
+MathisKcr collected 432 from pot
+*** SUMMARY ***
+Total pot 432 | No rake
+Board: [7d Jh 4s 9h 7s]
+Seat 2: 10cristian10 (big blind) showed [8h 9c] and lost with Two pairs : 9 and 7
+Seat 3: MathisKcr (button) showed [3h Jc] and won 432 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664629002248388609-3-1774636545 - Holdem no limit (10/20) - 2026/03/27 18:35:45 UTC
+Table: 'Expresso Nitro(1086068573)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Id incorrect (300)
+Seat 2: 10cristian10 (89)
+Seat 3: MathisKcr (511)
+*** ANTE/BLINDS ***
+10cristian10 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d 8h]
+*** PRE-FLOP *** 
+Id incorrect folds
+10cristian10 calls 10
+MathisKcr checks
+*** FLOP *** [Qh 9d 7d]
+10cristian10 checks
+MathisKcr checks
+*** TURN *** [Qh 9d 7d][2h]
+10cristian10 checks
+MathisKcr checks
+*** RIVER *** [Qh 9d 7d 2h][9c]
+10cristian10 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [3d 8h] (One pair : 9)
+10cristian10 shows [Jc 6s] (One pair : 9)
+10cristian10 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Qh 9d 7d 2h 9c]
+Seat 2: 10cristian10 (small blind) showed [Jc 6s] and won 40 with One pair : 9
+Seat 3: MathisKcr (big blind) showed [3d 8h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4664629002248388609-4-1774636583 - Holdem no limit (15/30) - 2026/03/27 18:36:23 UTC
+Table: 'Expresso Nitro(1086068573)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Id incorrect (300)
+Seat 2: 10cristian10 (109)
+Seat 3: MathisKcr (491)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Id incorrect posts big blind 30
+Dealt to MathisKcr [5h 2d]
+*** PRE-FLOP *** 
+10cristian10 folds
+MathisKcr folds
+Id incorrect collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Id incorrect (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4664629002248388609-5-1774636592 - Holdem no limit (15/30) - 2026/03/27 18:36:32 UTC
+Table: 'Expresso Nitro(1086068573)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Id incorrect (315)
+Seat 2: 10cristian10 (109)
+Seat 3: MathisKcr (476)
+*** ANTE/BLINDS ***
+Id incorrect posts small blind 15
+10cristian10 posts big blind 30
+Dealt to MathisKcr [Qh Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Id incorrect raises 255 to 315 and is all-in
+10cristian10 calls 79 and is all-in
+MathisKcr calls 255
+*** FLOP *** [5c 4c Td]
+*** TURN *** [5c 4c Td][Tc]
+*** RIVER *** [5c 4c Td Tc][2d]
+*** SHOW DOWN ***
+10cristian10 shows [Qs Js] (One pair : Tens)
+MathisKcr shows [Qh Qc] (Two pairs : Queens and Tens)
+Id incorrect shows [Th As] (Trips of Tens)
+Id incorrect collected 739 from pot
+*** SUMMARY ***
+Total pot 739 | No rake
+Board: [5c 4c Td Tc 2d]
+Seat 1: Id incorrect (small blind) showed [Th As] and won 739 with Trips of Tens
+Seat 2: 10cristian10 (big blind) showed [Qs Js] and lost with One pair : Tens
+Seat 3: MathisKcr (button) showed [Qh Qc] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4664629002248388609-6-1774636607 - Holdem no limit (15/30) - 2026/03/27 18:36:47 UTC
+Table: 'Expresso Nitro(1086068573)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Id incorrect (739)
+Seat 3: MathisKcr (161)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Id incorrect posts big blind 30
+Dealt to MathisKcr [5c Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 131 to 161 and is all-in
+Id incorrect calls 131
+*** FLOP *** [9c 9s 7d]
+*** TURN *** [9c 9s 7d][6h]
+*** RIVER *** [9c 9s 7d 6h][5h]
+*** SHOW DOWN ***
+MathisKcr shows [5c Kh] (Two pairs : 9 and 5)
+Id incorrect shows [6d 6c] (Full of 6 and 9)
+Id incorrect collected 322 from pot
+*** SUMMARY ***
+Total pot 322 | No rake
+Board: [9c 9s 7d 6h 5h]
+Seat 1: Id incorrect (big blind) showed [6d 6c] and won 322 with Full of 6 and 9
+Seat 3: MathisKcr (small blind) (button) showed [5c Kh] and lost with Two pairs : 9 and 5
+
+

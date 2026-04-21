@@ -1,0 +1,337 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4653714575521218561-1-1774209143 - Holdem no limit (10/20) - 2026/03/22 19:52:23 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #3 is the button
+Seat 1: louaga05 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Amnadita1976 (300)
+*** ANTE/BLINDS ***
+louaga05 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Js 7d]
+*** PRE-FLOP *** 
+Amnadita1976 calls 20
+louaga05 calls 10
+MathisKcr checks
+*** FLOP *** [5c 2c 6h]
+louaga05 checks
+MathisKcr bets 21
+Amnadita1976 folds
+louaga05 folds
+MathisKcr collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [5c 2c 6h]
+Seat 2: MathisKcr (big blind) won 81
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4653714575521218561-2-1774209189 - Holdem no limit (10/20) - 2026/03/22 19:53:09 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #1 is the button
+Seat 1: louaga05 (280)
+Seat 2: MathisKcr (340)
+Seat 3: Amnadita1976 (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Amnadita1976 posts big blind 20
+Dealt to MathisKcr [Tc 8c]
+*** PRE-FLOP *** 
+louaga05 calls 20
+MathisKcr calls 10
+Amnadita1976 checks
+*** FLOP *** [9c Kc 5h]
+MathisKcr bets 21
+Amnadita1976 folds
+louaga05 folds
+MathisKcr collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [9c Kc 5h]
+Seat 2: MathisKcr (small blind) won 81
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4653714575521218561-3-1774209216 - Holdem no limit (15/30) - 2026/03/22 19:53:36 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #2 is the button
+Seat 1: louaga05 (260)
+Seat 2: MathisKcr (380)
+Seat 3: Amnadita1976 (260)
+*** ANTE/BLINDS ***
+Amnadita1976 posts small blind 15
+louaga05 posts big blind 30
+Dealt to MathisKcr [7h 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Amnadita1976 raises 60 to 90
+louaga05 calls 60
+*** FLOP *** [8h Th Qh]
+Amnadita1976 bets 170 and is all-in
+louaga05 calls 170 and is all-in
+*** TURN *** [8h Th Qh][Ah]
+*** RIVER *** [8h Th Qh Ah][7c]
+*** SHOW DOWN ***
+louaga05 shows [7s 9s] (One pair : 7)
+Amnadita1976 shows [Jc Kc] (Straight Ace high)
+Amnadita1976 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [8h Th Qh Ah 7c]
+Seat 1: louaga05 (big blind) showed [7s 9s] and lost with One pair : 7
+Seat 3: Amnadita1976 (small blind) showed [Jc Kc] and won 520 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4653714575521218561-4-1774209235 - Holdem no limit (15/30) - 2026/03/22 19:53:55 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (380)
+Seat 3: Amnadita1976 (520)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Amnadita1976 posts big blind 30
+Dealt to MathisKcr [Qd Qs]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+Amnadita1976 checks
+*** FLOP *** [3c 7h Th]
+Amnadita1976 checks
+MathisKcr bets 30
+Amnadita1976 raises 120 to 150
+MathisKcr raises 200 to 350 and is all-in
+Amnadita1976 raises 140 to 490 and is all-in
+*** TURN *** [3c 7h Th][7d]
+*** RIVER *** [3c 7h Th 7d][9c]
+*** SHOW DOWN ***
+MathisKcr shows [Qd Qs] (Two pairs : Queens and 7)
+Amnadita1976 shows [9d 8h] (Two pairs : 9 and 7)
+Amnadita1976 collected 140 from side pot 1
+MathisKcr collected 760 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3c 7h Th 7d 9c]
+Seat 2: MathisKcr (small blind) (button) showed [Qd Qs] and won 760 with Two pairs : Queens and 7
+Seat 3: Amnadita1976 (big blind) showed [9d 8h] and won 140 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4653714575521218561-5-1774209261 - Holdem no limit (15/30) - 2026/03/22 19:54:21 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (760)
+Seat 3: Amnadita1976 (140)
+*** ANTE/BLINDS ***
+Amnadita1976 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ks 8s]
+*** PRE-FLOP *** 
+Amnadita1976 raises 110 to 140 and is all-in
+MathisKcr calls 110
+*** FLOP *** [3h 7d 5d]
+*** TURN *** [3h 7d 5d][8h]
+*** RIVER *** [3h 7d 5d 8h][4d]
+*** SHOW DOWN ***
+MathisKcr shows [Ks 8s] (One pair : 8)
+Amnadita1976 shows [Ac 2h] (Straight 5 high)
+Amnadita1976 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [3h 7d 5d 8h 4d]
+Seat 2: MathisKcr (big blind) showed [Ks 8s] and lost with One pair : 8
+Seat 3: Amnadita1976 (small blind) (button) showed [Ac 2h] and won 280 with Straight 5 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4653714575521218561-6-1774209273 - Holdem no limit (20/40) - 2026/03/22 19:54:33 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (620)
+Seat 3: Amnadita1976 (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Amnadita1976 posts big blind 40
+Dealt to MathisKcr [3c Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 580 to 620 and is all-in
+Amnadita1976 calls 240 and is all-in
+*** FLOP *** [Jh Qc 8h]
+*** TURN *** [Jh Qc 8h][Ah]
+*** RIVER *** [Jh Qc 8h Ah][Ad]
+*** SHOW DOWN ***
+MathisKcr shows [3c Kc] (One pair : Aces)
+Amnadita1976 shows [As 8d] (Full of Aces and 8)
+Amnadita1976 collected 560 from main pot
+MathisKcr collected 340 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh Qc 8h Ah Ad]
+Seat 2: MathisKcr (small blind) (button) showed [3c Kc] and won 340 with One pair : Aces
+Seat 3: Amnadita1976 (big blind) showed [As 8d] and won 560 with Full of Aces and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4653714575521218561-7-1774209286 - Holdem no limit (20/40) - 2026/03/22 19:54:46 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (340)
+Seat 3: Amnadita1976 (560)
+*** ANTE/BLINDS ***
+Amnadita1976 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jd Qh]
+*** PRE-FLOP *** 
+Amnadita1976 raises 520 to 560 and is all-in
+MathisKcr calls 300 and is all-in
+*** FLOP *** [Ks 4d Qs]
+*** TURN *** [Ks 4d Qs][7s]
+*** RIVER *** [Ks 4d Qs 7s][4c]
+*** SHOW DOWN ***
+MathisKcr shows [Jd Qh] (Two pairs : Queens and 4)
+Amnadita1976 shows [Qc 8s] (Two pairs : Queens and 4)
+Amnadita1976 collected 560 from side pot 1
+MathisKcr collected 340 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ks 4d Qs 7s 4c]
+Seat 2: MathisKcr (big blind) showed [Jd Qh] and won 340 with Two pairs : Queens and 4
+Seat 3: Amnadita1976 (small blind) (button) showed [Qc 8s] and won 560 with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4653714575521218561-8-1774209301 - Holdem no limit (20/40) - 2026/03/22 19:55:01 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (340)
+Seat 3: Amnadita1976 (560)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Amnadita1976 posts big blind 40
+Dealt to MathisKcr [Ad 3d]
+*** PRE-FLOP *** 
+MathisKcr raises 300 to 340 and is all-in
+Amnadita1976 folds
+MathisKcr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 2: MathisKcr (small blind) (button) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4653714575521218561-9-1774209309 - Holdem no limit (20/40) - 2026/03/22 19:55:09 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (380)
+Seat 3: Amnadita1976 (520)
+*** ANTE/BLINDS ***
+Amnadita1976 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6s 7c]
+*** PRE-FLOP *** 
+Amnadita1976 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4653714575521218561-10-1774209315 - Holdem no limit (20/40) - 2026/03/22 19:55:15 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (400)
+Seat 3: Amnadita1976 (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Amnadita1976 posts big blind 40
+Dealt to MathisKcr [8c 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Amnadita1976 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Amnadita1976 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4653714575521218561-11-1774209322 - Holdem no limit (30/60) - 2026/03/22 19:55:22 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (380)
+Seat 3: Amnadita1976 (520)
+*** ANTE/BLINDS ***
+Amnadita1976 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [2c 8c]
+*** PRE-FLOP *** 
+Amnadita1976 raises 460 to 520 and is all-in
+MathisKcr folds
+Amnadita1976 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 3: Amnadita1976 (small blind) (button) won 580
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4653714575521218561-12-1774209331 - Holdem no limit (30/60) - 2026/03/22 19:55:31 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (320)
+Seat 3: Amnadita1976 (580)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Amnadita1976 posts big blind 60
+Dealt to MathisKcr [Js 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 260 to 320 and is all-in
+Amnadita1976 folds
+MathisKcr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 2: MathisKcr (small blind) (button) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4653714575521218561-13-1774209339 - Holdem no limit (30/60) - 2026/03/22 19:55:39 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (380)
+Seat 3: Amnadita1976 (520)
+*** ANTE/BLINDS ***
+Amnadita1976 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [4c Kc]
+*** PRE-FLOP *** 
+Amnadita1976 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4653714575521218561-14-1774209345 - Holdem no limit (30/60) - 2026/03/22 19:55:45 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (410)
+Seat 3: Amnadita1976 (490)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Amnadita1976 posts big blind 60
+Dealt to MathisKcr [Ah Ac]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Amnadita1976 raises 430 to 490 and is all-in
+MathisKcr calls 350 and is all-in
+*** FLOP *** [Jd 9h 9c]
+*** TURN *** [Jd 9h 9c][7h]
+*** RIVER *** [Jd 9h 9c 7h][8c]
+*** SHOW DOWN ***
+MathisKcr shows [Ah Ac] (Two pairs : Aces and 9)
+Amnadita1976 shows [Qs Kc] (One pair : 9)
+Amnadita1976 collected 80 from side pot 1
+MathisKcr collected 820 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jd 9h 9c 7h 8c]
+Seat 2: MathisKcr (small blind) (button) showed [Ah Ac] and won 820 with Two pairs : Aces and 9
+Seat 3: Amnadita1976 (big blind) showed [Qs Kc] and won 80 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4653714575521218561-15-1774209361 - Holdem no limit (30/60) - 2026/03/22 19:56:01 UTC
+Table: 'Expresso Nitro(1083527360)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (820)
+Seat 3: Amnadita1976 (80)
+*** ANTE/BLINDS ***
+Amnadita1976 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ad Kc]
+*** PRE-FLOP *** 
+Amnadita1976 raises 20 to 80 and is all-in
+MathisKcr calls 20
+*** FLOP *** [5d Qh 5c]
+*** TURN *** [5d Qh 5c][Kh]
+*** RIVER *** [5d Qh 5c Kh][3d]
+*** SHOW DOWN ***
+Amnadita1976 shows [6h Th] (One pair : 5)
+MathisKcr shows [Ad Kc] (Two pairs : Kings and 5)
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [5d Qh 5c Kh 3d]
+Seat 2: MathisKcr (big blind) showed [Ad Kc] and won 160 with Two pairs : Kings and 5
+Seat 3: Amnadita1976 (small blind) (button) showed [6h Th] and lost with One pair : 5
+
+

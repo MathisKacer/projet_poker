@@ -1,0 +1,1242 @@
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-1-1771627510 - Holdem no limit (25/100/200) - 2026/02/20 22:45:10 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #2 is the button
+Seat 1: Divind95 (20000, 0.25€ bounty)
+Seat 2: totox41 (20000, 0.25€ bounty)
+Seat 3: Bigas_ (20000, 0.25€ bounty)
+Seat 4: MathisKcr (20000, 0.25€ bounty)
+Seat 5: Larapta93140 (20000, 0.25€ bounty)
+Seat 6: Mental2Pro (20000, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Bigas_ posts ante 25
+MathisKcr posts ante 25
+Divind95 posts ante 25
+totox41 posts ante 25
+Larapta93140 posts ante 25
+Mental2Pro posts ante 25
+Bigas_ posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [7h 8d]
+*** PRE-FLOP *** 
+Larapta93140 calls 200
+Mental2Pro calls 200
+Divind95 raises 400 to 600
+totox41 folds
+Bigas_ folds
+MathisKcr folds
+Larapta93140 calls 400
+Mental2Pro calls 400
+*** FLOP *** [Js Qc 6s]
+Larapta93140 checks
+Mental2Pro checks
+Divind95 bets 1125
+Larapta93140 folds
+Mental2Pro folds
+Divind95 collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | No rake
+Board: [Js Qc 6s]
+Seat 1: Divind95 won 3375
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-2-1771627617 - Holdem no limit (25/100/200) - 2026/02/20 22:46:57 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #3 is the button
+Seat 1: Divind95 (21625, 0.25€ bounty)
+Seat 2: totox41 (19975, 0.25€ bounty)
+Seat 3: Bigas_ (19875, 0.25€ bounty)
+Seat 4: MathisKcr (19775, 0.25€ bounty)
+Seat 5: Larapta93140 (19375, 0.25€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+Larapta93140 posts ante 25
+Divind95 posts ante 25
+totox41 posts ante 25
+Bigas_ posts ante 25
+MathisKcr posts small blind 100
+Larapta93140 posts big blind 200
+Dealt to MathisKcr [9c 5h]
+*** PRE-FLOP *** 
+Divind95 raises 400 to 600
+totox41 folds
+Bigas_ folds
+MathisKcr folds
+Larapta93140 calls 400
+*** FLOP *** [Ad 3s 9s]
+Larapta93140 checks
+Divind95 bets 713
+Larapta93140 calls 713
+*** TURN *** [Ad 3s 9s][6d]
+Larapta93140 checks
+Divind95 bets 1426
+Larapta93140 calls 1426
+*** RIVER *** [Ad 3s 9s 6d][5d]
+Larapta93140 checks
+Divind95 checks
+*** SHOW DOWN ***
+Larapta93140 shows [Td Th] (One pair : Tens)
+Divind95 shows [7c Ah] (One pair : Aces)
+Divind95 collected 5703 from pot
+*** SUMMARY ***
+Total pot 5703 | No rake
+Board: [Ad 3s 9s 6d 5d]
+Seat 1: Divind95 showed [7c Ah] and won 5703 with One pair : Aces
+Seat 5: Larapta93140 (big blind) showed [Td Th] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-3-1771627641 - Holdem no limit (25/100/200) - 2026/02/20 22:47:21 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #4 is the button
+Seat 1: Divind95 (24564, 0.25€ bounty)
+Seat 2: totox41 (19950, 0.25€ bounty)
+Seat 3: Bigas_ (19850, 0.25€ bounty)
+Seat 4: MathisKcr (19650, 0.25€ bounty)
+Seat 5: Larapta93140 (16611, 0.25€ bounty)
+Seat 6: CazaBarcazas (20000, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Larapta93140 posts ante 25
+CazaBarcazas posts ante 25
+Divind95 posts ante 25
+totox41 posts ante 25
+Bigas_ posts ante 25
+MathisKcr posts ante 25
+Larapta93140 posts small blind 100
+CazaBarcazas posts big blind 200
+Dealt to MathisKcr [Qs 5s]
+*** PRE-FLOP *** 
+Divind95 raises 400 to 600
+totox41 raises 1200 to 1800
+Bigas_ folds
+MathisKcr folds
+Larapta93140 raises 4550 to 6350
+CazaBarcazas folds
+Divind95 folds
+totox41 raises 13575 to 19925 and is all-in
+Larapta93140 calls 10236 and is all-in
+*** FLOP *** [3h 5c 4c]
+*** TURN *** [3h 5c 4c][6c]
+*** RIVER *** [3h 5c 4c 6c][2h]
+*** SHOW DOWN ***
+totox41 shows [Kh As] (Straight 6 high)
+Larapta93140 shows [Kd Qd] (Straight 6 high)
+Larapta93140 collected 17061 from main pot
+totox41 collected 20400 from side pot 1
+*** SUMMARY ***
+Total pot 37461 | No rake
+Board: [3h 5c 4c 6c 2h]
+Seat 2: totox41 showed [Kh As] and won 20400 with Straight 6 high
+Seat 5: Larapta93140 (small blind) showed [Kd Qd] and won 17061 with Straight 6 high
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-4-1771627681 - Holdem no limit (25/100/200) - 2026/02/20 22:48:01 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #5 is the button
+Seat 1: Divind95 (23939, 0.25€ bounty)
+Seat 2: totox41 (20400, 0.25€ bounty)
+Seat 3: Bigas_ (19825, 0.25€ bounty)
+Seat 4: MathisKcr (19625, 0.25€ bounty)
+Seat 5: Larapta93140 (17061, 0.25€ bounty)
+Seat 6: CazaBarcazas (19775, 0.25€ bounty)
+*** ANTE/BLINDS ***
+CazaBarcazas posts ante 25
+Divind95 posts ante 25
+totox41 posts ante 25
+Bigas_ posts ante 25
+MathisKcr posts ante 25
+Larapta93140 posts ante 25
+CazaBarcazas posts small blind 100
+Divind95 posts big blind 200
+Dealt to MathisKcr [6d 3h]
+*** PRE-FLOP *** 
+totox41 raises 400 to 600
+Bigas_ folds
+MathisKcr folds
+Larapta93140 calls 600
+CazaBarcazas calls 500
+Divind95 calls 400
+*** FLOP *** [Ad Qc 6s]
+CazaBarcazas checks
+Divind95 bets 1275
+totox41 calls 1275
+Larapta93140 calls 1275
+CazaBarcazas folds
+*** TURN *** [Ad Qc 6s][Jc]
+Divind95 bets 3188
+totox41 folds
+Larapta93140 calls 3188
+*** RIVER *** [Ad Qc 6s Jc][7s]
+Divind95 checks
+Larapta93140 checks
+*** SHOW DOWN ***
+Larapta93140 shows [9c Qh] (One pair : Queens)
+Divind95 shows [Th Ac] (One pair : Aces)
+Divind95 collected 12751 from pot
+*** SUMMARY ***
+Total pot 12751 | No rake
+Board: [Ad Qc 6s Jc 7s]
+Seat 1: Divind95 (big blind) showed [Th Ac] and won 12751 with One pair : Aces
+Seat 5: Larapta93140 (button) showed [9c Qh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-5-1771627761 - Holdem no limit (25/100/200) - 2026/02/20 22:49:21 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #6 is the button
+Seat 1: Divind95 (31602, 0.25€ bounty)
+Seat 2: totox41 (18500, 0.25€ bounty)
+Seat 3: Bigas_ (19800, 0.25€ bounty)
+Seat 4: MathisKcr (19600, 0.25€ bounty)
+Seat 5: Larapta93140 (11973, 0.25€ bounty)
+Seat 6: CazaBarcazas (19150, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Divind95 posts ante 25
+totox41 posts ante 25
+Bigas_ posts ante 25
+MathisKcr posts ante 25
+Larapta93140 posts ante 25
+CazaBarcazas posts ante 25
+Divind95 posts small blind 100
+totox41 posts big blind 200
+Dealt to MathisKcr [Ks Ac]
+*** PRE-FLOP *** 
+Bigas_ folds
+MathisKcr raises 200 to 400
+Larapta93140 calls 400
+CazaBarcazas calls 400
+Divind95 folds
+totox41 raises 18075 to 18475 and is all-in
+MathisKcr raises 1100 to 19575 and is all-in
+Larapta93140 folds
+CazaBarcazas folds
+*** FLOP *** [9h Qs 5d]
+*** TURN *** [9h Qs 5d][5s]
+*** RIVER *** [9h Qs 5d 5s][7c]
+*** SHOW DOWN ***
+totox41 shows [Qh Qd] (Full of Queens and 5)
+MathisKcr shows [Ks Ac] (One pair : 5)
+MathisKcr collected 1100 from side pot 1
+totox41 collected 38000 from main pot
+*** SUMMARY ***
+Total pot 39100 | No rake
+Board: [9h Qs 5d 5s 7c]
+Seat 2: totox41 (big blind) showed [Qh Qd] and won 38000 with Full of Queens and 5
+Seat 4: MathisKcr showed [Ks Ac] and won 1100 with One pair : 5
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-6-1771627842 - Holdem no limit (25/100/200) - 2026/02/20 22:50:42 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #1 is the button
+Seat 1: Divind95 (31477, 0.25€ bounty)
+Seat 2: totox41 (38000, 0.25€ bounty)
+Seat 3: Bigas_ (19775, 0.25€ bounty)
+Seat 4: MathisKcr (1100, 0.25€ bounty)
+Seat 5: Larapta93140 (11548, 0.25€ bounty)
+Seat 6: CazaBarcazas (18725, 0.25€ bounty)
+*** ANTE/BLINDS ***
+totox41 posts ante 25
+Bigas_ posts ante 25
+Divind95 posts ante 25
+MathisKcr posts ante 25
+Larapta93140 posts ante 25
+CazaBarcazas posts ante 25
+totox41 posts small blind 100
+Bigas_ posts big blind 200
+Dealt to MathisKcr [2d 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Larapta93140 folds
+CazaBarcazas raises 300 to 500
+Divind95 folds
+totox41 folds
+Bigas_ folds
+CazaBarcazas collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 6: CazaBarcazas won 950
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-7-1771627859 - Holdem no limit (25/100/200) - 2026/02/20 22:50:59 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #2 is the button
+Seat 1: Divind95 (31452, 0.25€ bounty)
+Seat 2: totox41 (37875, 0.25€ bounty)
+Seat 3: Bigas_ (19550, 0.25€ bounty)
+Seat 4: MathisKcr (1075, 0.25€ bounty)
+Seat 6: CazaBarcazas (19150, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Bigas_ posts ante 25
+MathisKcr posts ante 25
+Divind95 posts ante 25
+totox41 posts ante 25
+CazaBarcazas posts ante 25
+Bigas_ posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [5d 5h]
+*** PRE-FLOP *** 
+CazaBarcazas raises 300 to 500
+Divind95 folds
+totox41 calls 500
+Bigas_ folds
+MathisKcr raises 550 to 1050 and is all-in
+CazaBarcazas raises 3150 to 4200
+totox41 calls 3700
+*** FLOP *** [5c 2s Ks]
+CazaBarcazas checks
+totox41 checks
+*** TURN *** [5c 2s Ks][Jh]
+CazaBarcazas bets 5638
+totox41 folds
+*** RIVER *** [5c 2s Ks Jh][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [5d 5h] (Full of 5 and Kings)
+CazaBarcazas shows [Ac 8c] (One pair : Kings)
+CazaBarcazas collected 11938 from side pot 1
+MathisKcr collected 3375 from main pot
+*** SUMMARY ***
+Total pot 15313 | No rake
+Board: [5c 2s Ks Jh Kc]
+Seat 4: MathisKcr (big blind) showed [5d 5h] and won 3375 with Full of 5 and Kings
+Seat 6: CazaBarcazas showed [Ac 8c] and won 11938 with One pair : Kings
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-8-1771627920 - Holdem no limit (25/100/200) - 2026/02/20 22:52:00 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #3 is the button
+Seat 1: Divind95 (31427, 0.25€ bounty)
+Seat 2: totox41 (33650, 0.25€ bounty)
+Seat 3: Bigas_ (19425, 0.25€ bounty)
+Seat 4: MathisKcr (3375, 0.25€ bounty)
+Seat 5: Jylu (20000, 0.25€ bounty)
+Seat 6: CazaBarcazas (21225, 0.25€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+Jylu posts ante 25
+Divind95 posts ante 25
+totox41 posts ante 25
+Bigas_ posts ante 25
+CazaBarcazas posts ante 25
+MathisKcr posts small blind 100
+Jylu posts big blind 200
+Dealt to MathisKcr [Jd As]
+*** PRE-FLOP *** 
+CazaBarcazas folds
+Divind95 folds
+totox41 folds
+Bigas_ raises 200 to 400
+MathisKcr raises 600 to 1000
+Jylu folds
+Bigas_ raises 18400 to 19400 and is all-in
+MathisKcr calls 2350 and is all-in
+*** FLOP *** [3h 9c Kh]
+*** TURN *** [3h 9c Kh][Jc]
+*** RIVER *** [3h 9c Kh Jc][2s]
+*** SHOW DOWN ***
+Bigas_ shows [Tc Ad] (High card : Ace)
+MathisKcr shows [Jd As] (One pair : Jacks)
+MathisKcr collected 7050 from main pot
+Bigas_ collected 16050 from side pot 1
+*** SUMMARY ***
+Total pot 23100 | No rake
+Board: [3h 9c Kh Jc 2s]
+Seat 3: Bigas_ (button) showed [Tc Ad] and won 16050 with High card : Ace
+Seat 4: MathisKcr (small blind) showed [Jd As] and won 7050 with One pair : Jacks
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-9-1771627967 - Holdem no limit (25/100/200) - 2026/02/20 22:52:47 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #4 is the button
+Seat 1: Divind95 (31402, 0.25€ bounty)
+Seat 2: totox41 (33625, 0.25€ bounty)
+Seat 3: Bigas_ (16050, 0.25€ bounty)
+Seat 4: MathisKcr (7050, 0.25€ bounty)
+Seat 5: Jylu (19775, 0.25€ bounty)
+Seat 6: CazaBarcazas (21200, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Jylu posts ante 25
+CazaBarcazas posts ante 25
+Divind95 posts ante 25
+totox41 posts ante 25
+Bigas_ posts ante 25
+MathisKcr posts ante 25
+Jylu posts small blind 100
+CazaBarcazas posts big blind 200
+Dealt to MathisKcr [Ad Jd]
+*** PRE-FLOP *** 
+Divind95 folds
+totox41 folds
+Bigas_ calls 200
+MathisKcr raises 200 to 400
+Jylu folds
+CazaBarcazas calls 200
+Bigas_ calls 200
+*** FLOP *** [7h 6h As]
+CazaBarcazas checks
+Bigas_ checks
+MathisKcr bets 500
+CazaBarcazas folds
+Bigas_ folds
+MathisKcr collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [7h 6h As]
+Seat 4: MathisKcr (button) won 1950
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-10-1771628018 - Holdem no limit (25/100/200) - 2026/02/20 22:53:38 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #5 is the button
+Seat 1: Divind95 (31377, 0.25€ bounty)
+Seat 2: totox41 (33600, 0.25€ bounty)
+Seat 3: Bigas_ (15625, 0.25€ bounty)
+Seat 4: MathisKcr (8075, 0.25€ bounty)
+Seat 5: Jylu (19650, 0.25€ bounty)
+Seat 6: CazaBarcazas (20775, 0.25€ bounty)
+*** ANTE/BLINDS ***
+CazaBarcazas posts ante 25
+Divind95 posts ante 25
+totox41 posts ante 25
+Bigas_ posts ante 25
+MathisKcr posts ante 25
+Jylu posts ante 25
+CazaBarcazas posts small blind 100
+Divind95 posts big blind 200
+Dealt to MathisKcr [Tc Kc]
+*** PRE-FLOP *** 
+totox41 calls 200
+Bigas_ calls 200
+MathisKcr raises 200 to 400
+Jylu folds
+CazaBarcazas folds
+Divind95 calls 200
+totox41 calls 200
+Bigas_ calls 200
+*** FLOP *** [3d 5h Ah]
+Divind95 checks
+totox41 bets 463
+Bigas_ folds
+MathisKcr calls 463
+Divind95 folds
+*** TURN *** [3d 5h Ah][Qs]
+totox41 checks
+MathisKcr checks
+*** RIVER *** [3d 5h Ah Qs][5c]
+totox41 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Tc Kc] (One pair : 5)
+totox41 shows [3h Kh] (Two pairs : 5 and 3)
+totox41 collected 2776 from pot
+*** SUMMARY ***
+Total pot 2776 | No rake
+Board: [3d 5h Ah Qs 5c]
+Seat 2: totox41 showed [3h Kh] and won 2776 with Two pairs : 5 and 3
+Seat 4: MathisKcr showed [Tc Kc] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-11-1771628460 - Holdem no limit (25/100/200) - 2026/02/20 23:01:00 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #6 is the button
+Seat 1: Divind95 (30952, 0.25€ bounty)
+Seat 2: totox41 (35488, 0.25€ bounty)
+Seat 3: Bigas_ (15200, 0.25€ bounty)
+Seat 4: MathisKcr (7187, 0.25€ bounty)
+Seat 5: Jylu (19625, 0.25€ bounty)
+Seat 6: CazaBarcazas (20650, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Divind95 posts ante 25
+totox41 posts ante 25
+Bigas_ posts ante 25
+MathisKcr posts ante 25
+Jylu posts ante 25
+CazaBarcazas posts ante 25
+Divind95 posts small blind 100
+totox41 posts big blind 200
+Dealt to MathisKcr [Tc 5s]
+*** PRE-FLOP *** 
+Bigas_ raises 600 to 800
+MathisKcr folds
+Jylu folds
+CazaBarcazas folds
+Divind95 calls 700
+totox41 folds
+*** FLOP *** [Qc 2d Th]
+Divind95 bets 975
+Bigas_ raises 3625 to 4600
+Divind95 calls 3625
+*** TURN *** [Qc 2d Th][Ts]
+Divind95 bets 5575
+Bigas_ raises 4200 to 9775 and is all-in
+Divind95 folds
+Bigas_ collected 26500 from pot
+*** SUMMARY ***
+Total pot 26500 | No rake
+Board: [Qc 2d Th Ts]
+Seat 3: Bigas_ won 26500
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-12-1771628515 - Holdem no limit (25/100/200) - 2026/02/20 23:01:55 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #1 is the button
+Seat 1: Divind95 (19952, 0.25€ bounty)
+Seat 2: totox41 (35263, 0.25€ bounty)
+Seat 3: Bigas_ (26500, 0.25€ bounty)
+Seat 4: MathisKcr (7162, 0.25€ bounty)
+Seat 5: Jylu (19600, 0.25€ bounty)
+Seat 6: CazaBarcazas (20625, 0.25€ bounty)
+*** ANTE/BLINDS ***
+totox41 posts ante 25
+Bigas_ posts ante 25
+Divind95 posts ante 25
+MathisKcr posts ante 25
+Jylu posts ante 25
+CazaBarcazas posts ante 25
+totox41 posts small blind 100
+Bigas_ posts big blind 200
+Dealt to MathisKcr [2d 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Jylu folds
+CazaBarcazas folds
+Divind95 raises 300 to 500
+totox41 folds
+Bigas_ calls 300
+*** FLOP *** [Kh 8c 7h]
+Bigas_ bets 600
+Divind95 folds
+Bigas_ collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | No rake
+Board: [Kh 8c 7h]
+Seat 3: Bigas_ (big blind) won 1850
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-13-1771628567 - Holdem no limit (25/100/200) - 2026/02/20 23:02:47 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #2 is the button
+Seat 1: Divind95 (19427, 0.25€ bounty)
+Seat 2: totox41 (35138, 0.25€ bounty)
+Seat 3: Bigas_ (27225, 0.25€ bounty)
+Seat 4: MathisKcr (7137, 0.25€ bounty)
+Seat 5: Jylu (19575, 0.25€ bounty)
+Seat 6: CazaBarcazas (20600, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Bigas_ posts ante 25
+MathisKcr posts ante 25
+Divind95 posts ante 25
+totox41 posts ante 25
+Jylu posts ante 25
+CazaBarcazas posts ante 25
+Bigas_ posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [Kh Qc]
+*** PRE-FLOP *** 
+Jylu raises 200 to 400
+CazaBarcazas calls 400
+Divind95 calls 400
+totox41 raises 800 to 1200
+Bigas_ calls 1100
+MathisKcr calls 1000
+Jylu calls 800
+CazaBarcazas folds
+Divind95 folds
+*** FLOP *** [Ac 8h Qd]
+Bigas_ checks
+MathisKcr bets 1438
+Jylu calls 1438
+totox41 folds
+Bigas_ folds
+*** TURN *** [Ac 8h Qd][2d]
+MathisKcr bets 4474 and is all-in
+Jylu folds
+MathisKcr collected 13100 from pot
+*** SUMMARY ***
+Total pot 13100 | No rake
+Board: [Ac 8h Qd 2d]
+Seat 4: MathisKcr (big blind) won 13100
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-14-1771628667 - Holdem no limit (25/100/200) - 2026/02/20 23:04:27 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #3 is the button
+Seat 1: Divind95 (19002, 0.25€ bounty)
+Seat 2: totox41 (33913, 0.25€ bounty)
+Seat 3: Bigas_ (26000, 0.25€ bounty)
+Seat 4: MathisKcr (13100, 0.25€ bounty)
+Seat 5: Jylu (16912, 0.25€ bounty)
+Seat 6: CazaBarcazas (20175, 0.25€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+Jylu posts ante 25
+Divind95 posts ante 25
+totox41 posts ante 25
+Bigas_ posts ante 25
+CazaBarcazas posts ante 25
+MathisKcr posts small blind 100
+Jylu posts big blind 200
+Dealt to MathisKcr [Td Ks]
+*** PRE-FLOP *** 
+CazaBarcazas folds
+Divind95 folds
+totox41 folds
+Bigas_ calls 200
+MathisKcr raises 200 to 400
+Jylu calls 200
+Bigas_ calls 200
+*** FLOP *** [Ah 9c Kh]
+MathisKcr bets 473
+Jylu folds
+Bigas_ folds
+MathisKcr collected 1823 from pot
+*** SUMMARY ***
+Total pot 1823 | No rake
+Board: [Ah 9c Kh]
+Seat 4: MathisKcr (small blind) won 1823
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4512010049509392389-15-1771628710 - Holdem no limit (25/100/200) - 2026/02/20 23:05:10 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #4 is the button
+Seat 1: Divind95 (18977, 0.25€ bounty)
+Seat 2: totox41 (33888, 0.25€ bounty)
+Seat 3: Bigas_ (25575, 0.25€ bounty)
+Seat 4: MathisKcr (14025, 0.25€ bounty)
+Seat 5: Jylu (16487, 0.25€ bounty)
+Seat 6: CazaBarcazas (20150, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Jylu posts ante 25
+CazaBarcazas posts ante 25
+Divind95 posts ante 25
+totox41 posts ante 25
+Bigas_ posts ante 25
+MathisKcr posts ante 25
+Jylu posts small blind 100
+CazaBarcazas posts big blind 200
+Dealt to MathisKcr [7h 6h]
+*** PRE-FLOP *** 
+Divind95 raises 400 to 600
+totox41 folds
+Bigas_ calls 600
+MathisKcr folds
+Jylu calls 500
+CazaBarcazas folds
+*** FLOP *** [5c 6c Ac]
+Jylu bets 1075
+Divind95 folds
+Bigas_ calls 1075
+*** TURN *** [5c 6c Ac][7s]
+Jylu bets 2150
+Bigas_ calls 2150
+*** RIVER *** [5c 6c Ac 7s][6d]
+Jylu checks
+Bigas_ bets 21725 and is all-in
+Jylu calls 12637 and is all-in
+*** SHOW DOWN ***
+Bigas_ shows [Qc Td] (One pair : 6)
+Jylu shows [5s As] (Two pairs : Aces and 6)
+Jylu collected 33874 from main pot
+Bigas_ collected 9088 from side pot 1
+*** SUMMARY ***
+Total pot 42962 | No rake
+Board: [5c 6c Ac 7s 6d]
+Seat 3: Bigas_ showed [Qc Td] and won 9088 with One pair : 6
+Seat 5: Jylu (small blind) showed [5s As] and won 33874 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #4512010049509392389-16-1771628767 - Holdem no limit (30/125/250) - 2026/02/20 23:06:07 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #5 is the button
+Seat 1: Divind95 (18352, 0.25€ bounty)
+Seat 2: totox41 (33863, 0.25€ bounty)
+Seat 3: Bigas_ (9088, 0.25€ bounty)
+Seat 4: MathisKcr (14000, 0.25€ bounty)
+Seat 5: Jylu (33874, 0.25€ bounty)
+Seat 6: CazaBarcazas (19925, 0.25€ bounty)
+*** ANTE/BLINDS ***
+CazaBarcazas posts ante 30
+Divind95 posts ante 30
+totox41 posts ante 30
+Bigas_ posts ante 30
+MathisKcr posts ante 30
+Jylu posts ante 30
+CazaBarcazas posts small blind 125
+Divind95 posts big blind 250
+Dealt to MathisKcr [8s 3h]
+*** PRE-FLOP *** 
+totox41 folds
+Bigas_ calls 250
+MathisKcr folds
+Jylu folds
+CazaBarcazas raises 1250 to 1500
+Divind95 folds
+Bigas_ folds
+CazaBarcazas collected 2180 from pot
+*** SUMMARY ***
+Total pot 2180 | No rake
+Seat 6: CazaBarcazas (small blind) won 2180
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #4512010049509392389-18-1771628896 - Holdem no limit (30/125/250) - 2026/02/20 23:08:16 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #1 is the button
+Seat 1: Divind95 (17917, 0.25€ bounty)
+Seat 2: totox41 (34733, 0.25€ bounty)
+Seat 3: Bigas_ (8778, 0.25€ bounty)
+Seat 4: MathisKcr (13940, 0.25€ bounty)
+Seat 5: Jylu (33189, 0.25€ bounty)
+Seat 6: CazaBarcazas (20545, 0.25€ bounty)
+*** ANTE/BLINDS ***
+totox41 posts ante 30
+Bigas_ posts ante 30
+Divind95 posts ante 30
+MathisKcr posts ante 30
+Jylu posts ante 30
+CazaBarcazas posts ante 30
+totox41 posts small blind 125
+Bigas_ posts big blind 250
+Dealt to MathisKcr [5c 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Jylu raises 500 to 750
+CazaBarcazas folds
+Divind95 calls 750
+totox41 folds
+Bigas_ raises 7998 to 8748 and is all-in
+Jylu raises 7998 to 16746
+Divind95 raises 1141 to 17887 and is all-in
+Jylu calls 1141
+*** FLOP *** [2h 8h 8s]
+*** TURN *** [2h 8h 8s][3h]
+*** RIVER *** [2h 8h 8s 3h][Ts]
+*** SHOW DOWN ***
+Jylu shows [6d Ad] (One pair : 8)
+Divind95 shows [Ac Ks] (One pair : 8)
+Bigas_ shows [As Kh] (One pair : 8)
+Bigas_ collected 13275 from main pot
+Divind95 collected 31552 from side pot 1
+*** SUMMARY ***
+Total pot 44827 | No rake
+Board: [2h 8h 8s 3h Ts]
+Seat 1: Divind95 (button) showed [Ac Ks] and won 31552 with One pair : 8
+Seat 3: Bigas_ (big blind) showed [As Kh] and won 13275 with One pair : 8
+Seat 5: Jylu showed [6d Ad] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #4512010049509392389-19-1771628976 - Holdem no limit (35/150/300) - 2026/02/20 23:09:36 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #2 is the button
+Seat 1: Divind95 (31552, 0.25€ bounty)
+Seat 2: totox41 (34578, 0.25€ bounty)
+Seat 3: Bigas_ (13275, 0.25€ bounty)
+Seat 4: MathisKcr (13910, 0.25€ bounty)
+Seat 5: Jylu (15272, 0.25€ bounty)
+Seat 6: CazaBarcazas (20515, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Bigas_ posts ante 35
+MathisKcr posts ante 35
+Divind95 posts ante 35
+totox41 posts ante 35
+Jylu posts ante 35
+CazaBarcazas posts ante 35
+Bigas_ posts small blind 150
+MathisKcr posts big blind 300
+Dealt to MathisKcr [Kc 8h]
+*** PRE-FLOP *** 
+Jylu raises 300 to 600
+CazaBarcazas calls 600
+Divind95 calls 600
+totox41 folds
+Bigas_ folds
+MathisKcr calls 300
+*** FLOP *** [Js 6h 6c]
+MathisKcr checks
+Jylu checks
+CazaBarcazas checks
+Divind95 bets 1380
+MathisKcr folds
+Jylu folds
+CazaBarcazas folds
+Divind95 collected 4140 from pot
+*** SUMMARY ***
+Total pot 4140 | No rake
+Board: [Js 6h 6c]
+Seat 1: Divind95 won 4140
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #4512010049509392389-20-1771629046 - Holdem no limit (35/150/300) - 2026/02/20 23:10:46 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #3 is the button
+Seat 1: Divind95 (33677, 0.25€ bounty)
+Seat 2: totox41 (34543, 0.25€ bounty)
+Seat 3: Bigas_ (13090, 0.25€ bounty)
+Seat 4: MathisKcr (13275, 0.25€ bounty)
+Seat 5: Jylu (14637, 0.25€ bounty)
+Seat 6: CazaBarcazas (19880, 0.25€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 35
+Jylu posts ante 35
+Divind95 posts ante 35
+totox41 posts ante 35
+Bigas_ posts ante 35
+CazaBarcazas posts ante 35
+MathisKcr posts small blind 150
+Jylu posts big blind 300
+Dealt to MathisKcr [6h 7c]
+*** PRE-FLOP *** 
+CazaBarcazas folds
+Divind95 raises 450 to 750
+totox41 folds
+Bigas_ calls 750
+MathisKcr folds
+Jylu calls 450
+*** FLOP *** [Ac 5c Ks]
+Jylu checks
+Divind95 checks
+Bigas_ bets 900
+Jylu calls 900
+Divind95 folds
+*** TURN *** [Ac 5c Ks][Td]
+Jylu checks
+Bigas_ bets 1500
+Jylu folds
+Bigas_ collected 5910 from pot
+*** SUMMARY ***
+Total pot 5910 | No rake
+Board: [Ac 5c Ks Td]
+Seat 3: Bigas_ (button) won 5910
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #4512010049509392389-21-1771629121 - Holdem no limit (40/175/350) - 2026/02/20 23:12:01 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #4 is the button
+Seat 1: Divind95 (32892, 0.25€ bounty)
+Seat 2: totox41 (34508, 0.25€ bounty)
+Seat 3: Bigas_ (15815, 0.25€ bounty)
+Seat 4: MathisKcr (13090, 0.25€ bounty)
+Seat 5: Jylu (12952, 0.25€ bounty)
+Seat 6: CazaBarcazas (19845, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Jylu posts ante 40
+CazaBarcazas posts ante 40
+Divind95 posts ante 40
+totox41 posts ante 40
+Bigas_ posts ante 40
+MathisKcr posts ante 40
+Jylu posts small blind 175
+CazaBarcazas posts big blind 350
+Dealt to MathisKcr [3h 4s]
+*** PRE-FLOP *** 
+Divind95 folds
+totox41 raises 700 to 1050
+Bigas_ folds
+MathisKcr folds
+Jylu raises 1575 to 2625
+CazaBarcazas folds
+totox41 calls 1575
+*** FLOP *** [6c 9h 2h]
+Jylu bets 2044
+totox41 raises 9928 to 11972
+Jylu calls 8243 and is all-in
+*** TURN *** [6c 9h 2h][2d]
+*** RIVER *** [6c 9h 2h 2d][7c]
+*** SHOW DOWN ***
+totox41 shows [9s Qs] (Two pairs : 9 and 2)
+Jylu shows [Kd Kc] (Two pairs : Kings and 2)
+Jylu collected 26414 from main pot
+totox41 collected 1685 from side pot 1
+*** SUMMARY ***
+Total pot 28099 | No rake
+Board: [6c 9h 2h 2d 7c]
+Seat 2: totox41 showed [9s Qs] and won 1685 with Two pairs : 9 and 2
+Seat 5: Jylu (small blind) showed [Kd Kc] and won 26414 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #4512010049509392389-22-1771629189 - Holdem no limit (40/175/350) - 2026/02/20 23:13:09 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #5 is the button
+Seat 1: Divind95 (32852, 0.25€ bounty)
+Seat 2: totox41 (21556, 0.25€ bounty)
+Seat 3: Bigas_ (15775, 0.25€ bounty)
+Seat 4: MathisKcr (13050, 0.25€ bounty)
+Seat 5: Jylu (26414, 0.25€ bounty)
+Seat 6: CazaBarcazas (19455, 0.25€ bounty)
+*** ANTE/BLINDS ***
+CazaBarcazas posts ante 40
+Divind95 posts ante 40
+totox41 posts ante 40
+Bigas_ posts ante 40
+MathisKcr posts ante 40
+Jylu posts ante 40
+CazaBarcazas posts small blind 175
+Divind95 posts big blind 350
+Dealt to MathisKcr [Jd 8c]
+*** PRE-FLOP *** 
+totox41 folds
+Bigas_ calls 350
+MathisKcr raises 350 to 700
+Jylu folds
+CazaBarcazas folds
+Divind95 calls 350
+Bigas_ calls 350
+*** FLOP *** [Jc 2d 8d]
+Divind95 checks
+Bigas_ checks
+MathisKcr bets 1225
+Divind95 folds
+Bigas_ folds
+MathisKcr collected 3740 from pot
+*** SUMMARY ***
+Total pot 3740 | No rake
+Board: [Jc 2d 8d]
+Seat 4: MathisKcr won 3740
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #4512010049509392389-23-1771629286 - Holdem no limit (40/175/350) - 2026/02/20 23:14:46 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #6 is the button
+Seat 1: Divind95 (32112, 0.25€ bounty)
+Seat 2: totox41 (21516, 0.25€ bounty)
+Seat 3: Bigas_ (15035, 0.25€ bounty)
+Seat 4: MathisKcr (14825, 0.25€ bounty)
+Seat 5: Jylu (26374, 0.25€ bounty)
+Seat 6: CazaBarcazas (19240, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Divind95 posts ante 40
+totox41 posts ante 40
+Bigas_ posts ante 40
+MathisKcr posts ante 40
+Jylu posts ante 40
+CazaBarcazas posts ante 40
+Divind95 posts small blind 175
+totox41 posts big blind 350
+Dealt to MathisKcr [3h 6s]
+*** PRE-FLOP *** 
+Bigas_ folds
+MathisKcr folds
+Jylu raises 700 to 1050
+CazaBarcazas folds
+Divind95 calls 875
+totox41 folds
+*** FLOP *** [5c 8h 9d]
+Divind95 checks
+Jylu checks
+*** TURN *** [5c 8h 9d][2d]
+Divind95 checks
+Jylu checks
+*** RIVER *** [5c 8h 9d 2d][4d]
+Divind95 checks
+Jylu checks
+*** SHOW DOWN ***
+Divind95 shows [Jc Td] (High card : Jack)
+Jylu shows [Qh Kd] (High card : King)
+Jylu collected 2690 from pot
+*** SUMMARY ***
+Total pot 2690 | No rake
+Board: [5c 8h 9d 2d 4d]
+Seat 1: Divind95 (small blind) showed [Jc Td] and lost with High card : Jack
+Seat 5: Jylu showed [Qh Kd] and won 2690 with High card : King
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #4512010049509392389-24-1771629363 - Holdem no limit (50/200/400) - 2026/02/20 23:16:03 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #1 is the button
+Seat 1: Divind95 (31022, 0.25€ bounty)
+Seat 2: totox41 (21126, 0.25€ bounty)
+Seat 3: Bigas_ (14995, 0.25€ bounty)
+Seat 4: MathisKcr (14785, 0.25€ bounty)
+Seat 5: Jylu (27974, 0.25€ bounty)
+Seat 6: CazaBarcazas (19200, 0.25€ bounty)
+*** ANTE/BLINDS ***
+totox41 posts ante 50
+Bigas_ posts ante 50
+Divind95 posts ante 50
+MathisKcr posts ante 50
+Jylu posts ante 50
+CazaBarcazas posts ante 50
+totox41 posts small blind 200
+Bigas_ posts big blind 400
+Dealt to MathisKcr [9h 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Jylu folds
+CazaBarcazas folds
+Divind95 raises 600 to 1000
+totox41 folds
+Bigas_ folds
+Divind95 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 1: Divind95 (button) won 1900
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #4512010049509392389-25-1771629404 - Holdem no limit (50/200/400) - 2026/02/20 23:16:44 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #2 is the button
+Seat 1: Divind95 (31872, 0.25€ bounty)
+Seat 2: totox41 (20876, 0.25€ bounty)
+Seat 3: Bigas_ (14545, 0.25€ bounty)
+Seat 4: MathisKcr (14735, 0.25€ bounty)
+Seat 5: Jylu (27924, 0.25€ bounty)
+Seat 6: CazaBarcazas (19150, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Bigas_ posts ante 50
+MathisKcr posts ante 50
+Divind95 posts ante 50
+totox41 posts ante 50
+Jylu posts ante 50
+CazaBarcazas posts ante 50
+Bigas_ posts small blind 200
+MathisKcr posts big blind 400
+Dealt to MathisKcr [Js 7d]
+*** PRE-FLOP *** 
+Jylu raises 800 to 1200
+CazaBarcazas folds
+Divind95 raises 2400 to 3600
+totox41 folds
+Bigas_ folds
+MathisKcr folds
+Jylu folds
+Divind95 collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | No rake
+Seat 1: Divind95 won 5700
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #4512010049509392389-26-1771629436 - Holdem no limit (50/200/400) - 2026/02/20 23:17:16 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #3 is the button
+Seat 1: Divind95 (33922, 0.25€ bounty)
+Seat 2: totox41 (20826, 0.25€ bounty)
+Seat 3: Bigas_ (14295, 0.25€ bounty)
+Seat 4: MathisKcr (14285, 0.25€ bounty)
+Seat 5: Jylu (26674, 0.25€ bounty)
+Seat 6: CazaBarcazas (19100, 0.25€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 50
+Jylu posts ante 50
+Divind95 posts ante 50
+totox41 posts ante 50
+Bigas_ posts ante 50
+CazaBarcazas posts ante 50
+MathisKcr posts small blind 200
+Jylu posts big blind 400
+Dealt to MathisKcr [Kd 8d]
+*** PRE-FLOP *** 
+CazaBarcazas folds
+Divind95 folds
+totox41 folds
+Bigas_ folds
+MathisKcr raises 400 to 800
+Jylu folds
+MathisKcr collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 4: MathisKcr (small blind) won 1500
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #4512010049509392389-27-1771629461 - Holdem no limit (50/200/400) - 2026/02/20 23:17:41 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #4 is the button
+Seat 1: Divind95 (33872, 0.25€ bounty)
+Seat 2: totox41 (20776, 0.25€ bounty)
+Seat 3: Bigas_ (14245, 0.25€ bounty)
+Seat 4: MathisKcr (14935, 0.25€ bounty)
+Seat 5: Jylu (26224, 0.25€ bounty)
+Seat 6: CazaBarcazas (19050, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Jylu posts ante 50
+CazaBarcazas posts ante 50
+Divind95 posts ante 50
+totox41 posts ante 50
+Bigas_ posts ante 50
+MathisKcr posts ante 50
+Jylu posts small blind 200
+CazaBarcazas posts big blind 400
+Dealt to MathisKcr [5d 8s]
+*** PRE-FLOP *** 
+Divind95 folds
+totox41 folds
+Bigas_ raises 1200 to 1600
+MathisKcr folds
+Jylu folds
+CazaBarcazas calls 1200
+*** FLOP *** [4h 4c 5c]
+CazaBarcazas checks
+Bigas_ bets 1600
+CazaBarcazas calls 1600
+*** TURN *** [4h 4c 5c][9s]
+CazaBarcazas checks
+Bigas_ bets 2400
+CazaBarcazas folds
+Bigas_ collected 9300 from pot
+*** SUMMARY ***
+Total pot 9300 | No rake
+Board: [4h 4c 5c 9s]
+Seat 3: Bigas_ won 9300
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #4512010049509392389-28-1771629519 - Holdem no limit (60/250/500) - 2026/02/20 23:18:39 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #5 is the button
+Seat 1: Divind95 (33822, 0.25€ bounty)
+Seat 2: totox41 (20726, 0.25€ bounty)
+Seat 3: Bigas_ (17895, 0.25€ bounty)
+Seat 4: MathisKcr (14885, 0.25€ bounty)
+Seat 5: Jylu (25974, 0.25€ bounty)
+Seat 6: CazaBarcazas (15800, 0.25€ bounty)
+*** ANTE/BLINDS ***
+CazaBarcazas posts ante 60
+Divind95 posts ante 60
+totox41 posts ante 60
+Bigas_ posts ante 60
+MathisKcr posts ante 60
+Jylu posts ante 60
+CazaBarcazas posts small blind 250
+Divind95 posts big blind 500
+Dealt to MathisKcr [5h Jc]
+*** PRE-FLOP *** 
+totox41 calls 500
+Bigas_ calls 500
+MathisKcr raises 500 to 1000
+Jylu folds
+CazaBarcazas calls 750
+Divind95 calls 500
+totox41 calls 500
+Bigas_ calls 500
+*** FLOP *** [9h 5s 8c]
+CazaBarcazas checks
+Divind95 checks
+totox41 checks
+Bigas_ bets 1750
+MathisKcr calls 1750
+CazaBarcazas calls 1750
+Divind95 folds
+totox41 folds
+*** TURN *** [9h 5s 8c][Kc]
+CazaBarcazas checks
+Bigas_ checks
+MathisKcr bets 5305
+CazaBarcazas folds
+Bigas_ calls 5305
+*** RIVER *** [9h 5s 8c Kc][Qd]
+Bigas_ checks
+MathisKcr bets 6770 and is all-in
+Bigas_ folds
+MathisKcr collected 27990 from pot
+*** SUMMARY ***
+Total pot 27990 | No rake
+Board: [9h 5s 8c Kc Qd]
+Seat 4: MathisKcr won 27990
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #4512010049509392389-29-1771629648 - Holdem no limit (60/250/500) - 2026/02/20 23:20:48 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #6 is the button
+Seat 1: Divind95 (32762, 0.25€ bounty)
+Seat 2: totox41 (19666, 0.25€ bounty)
+Seat 3: Bigas_ (9780, 0.25€ bounty)
+Seat 4: MathisKcr (27990, 0.25€ bounty)
+Seat 5: Jylu (25914, 0.25€ bounty)
+Seat 6: CazaBarcazas (12990, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Divind95 posts ante 60
+totox41 posts ante 60
+Bigas_ posts ante 60
+MathisKcr posts ante 60
+Jylu posts ante 60
+CazaBarcazas posts ante 60
+Divind95 posts small blind 250
+totox41 posts big blind 500
+Dealt to MathisKcr [As Qh]
+*** PRE-FLOP *** 
+Bigas_ folds
+MathisKcr raises 500 to 1000
+Jylu calls 1000
+CazaBarcazas folds
+Divind95 folds
+totox41 calls 500
+*** FLOP *** [Kd 4h 9s]
+totox41 checks
+MathisKcr checks
+Jylu bets 1264
+totox41 folds
+MathisKcr calls 1264
+*** TURN *** [Kd 4h 9s][Ks]
+MathisKcr checks
+Jylu bets 2148
+MathisKcr calls 2148
+*** RIVER *** [Kd 4h 9s Ks][Jd]
+MathisKcr checks
+Jylu checks
+*** SHOW DOWN ***
+MathisKcr shows [As Qh] (One pair : Kings)
+Jylu shows [4s Ac] (Two pairs : Kings and 4)
+Jylu collected 10434 from pot
+*** SUMMARY ***
+Total pot 10434 | No rake
+Board: [Kd 4h 9s Ks Jd]
+Seat 4: MathisKcr showed [As Qh] and lost with One pair : Kings
+Seat 5: Jylu showed [4s Ac] and won 10434 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #4512010049509392389-30-1771629747 - Holdem no limit (70/300/600) - 2026/02/20 23:22:27 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #1 is the button
+Seat 1: Divind95 (32452, 0.25€ bounty)
+Seat 2: totox41 (18606, 0.25€ bounty)
+Seat 3: Bigas_ (9720, 0.25€ bounty)
+Seat 4: MathisKcr (23518, 0.25€ bounty)
+Seat 5: Jylu (31876, 0.25€ bounty)
+Seat 6: CazaBarcazas (12930, 0.25€ bounty)
+*** ANTE/BLINDS ***
+totox41 posts ante 70
+Bigas_ posts ante 70
+Divind95 posts ante 70
+MathisKcr posts ante 70
+Jylu posts ante 70
+CazaBarcazas posts ante 70
+totox41 posts small blind 300
+Bigas_ posts big blind 600
+Dealt to MathisKcr [2c Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 600 to 1200
+Jylu calls 1200
+CazaBarcazas folds
+Divind95 calls 1200
+totox41 calls 900
+Bigas_ calls 600
+*** FLOP *** [Td Ts Qs]
+totox41 checks
+Bigas_ checks
+MathisKcr checks
+Jylu bets 2247
+Divind95 calls 2247
+totox41 calls 2247
+Bigas_ folds
+MathisKcr folds
+*** TURN *** [Td Ts Qs][Jh]
+totox41 checks
+Jylu bets 4606
+Divind95 calls 4606
+totox41 folds
+*** RIVER *** [Td Ts Qs Jh][Kh]
+Jylu checks
+Divind95 bets 11187
+Jylu folds
+Divind95 collected 33560 from pot
+*** SUMMARY ***
+Total pot 33560 | No rake
+Board: [Td Ts Qs Jh Kh]
+Seat 1: Divind95 (button) won 33560
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #4512010049509392389-31-1771629846 - Holdem no limit (80/350/700) - 2026/02/20 23:24:06 UTC
+Table: 'SPACE KO(1050534204)#0004' 6-max (real money) Seat #2 is the button
+Seat 1: Divind95 (46702, 0.25€ bounty)
+Seat 2: totox41 (15089, 0.25€ bounty)
+Seat 3: Bigas_ (8450, 0.25€ bounty)
+Seat 4: MathisKcr (22248, 0.25€ bounty)
+Seat 5: Jylu (23753, 0.25€ bounty)
+Seat 6: CazaBarcazas (12860, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Bigas_ posts ante 80
+MathisKcr posts ante 80
+Divind95 posts ante 80
+totox41 posts ante 80
+Jylu posts ante 80
+CazaBarcazas posts ante 80
+Bigas_ posts small blind 350
+MathisKcr posts big blind 700
+Dealt to MathisKcr [Ks Th]
+*** PRE-FLOP *** 
+Jylu raises 1400 to 2100
+CazaBarcazas folds
+Divind95 folds
+totox41 folds
+Bigas_ folds
+MathisKcr raises 4200 to 6300
+Jylu raises 17373 to 23673 and is all-in
+MathisKcr calls 15868 and is all-in
+*** FLOP *** [Ts Qd Js]
+*** TURN *** [Ts Qd Js][Jd]
+*** RIVER *** [Ts Qd Js Jd][9d]
+*** SHOW DOWN ***
+MathisKcr shows [Ks Th] (Straight King high)
+Jylu shows [Kh As] (Straight Ace high)
+Jylu collected 46671 from pot
+*** SUMMARY ***
+Total pot 46671 | No rake
+Board: [Ts Qd Js Jd 9d]
+Seat 4: MathisKcr (big blind) showed [Ks Th] and lost with Straight King high
+Seat 5: Jylu showed [Kh As] and won 46671 with Straight Ace high
+
+

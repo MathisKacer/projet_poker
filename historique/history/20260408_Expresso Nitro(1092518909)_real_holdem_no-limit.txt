@@ -1,0 +1,305 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4692332984416600065-1-1775682143 - Holdem no limit (10/20) - 2026/04/08 21:02:23 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CeliaFish064 (300)
+Seat 2: Balla97620 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+CeliaFish064 posts small blind 10
+Balla97620 posts big blind 20
+Dealt to MathisKcr [8h 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+CeliaFish064 calls 10
+Balla97620 raises 40 to 60
+CeliaFish064 folds
+Balla97620 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: Balla97620 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4692332984416600065-2-1775682153 - Holdem no limit (10/20) - 2026/04/08 21:02:33 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CeliaFish064 (280)
+Seat 2: Balla97620 (320)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Balla97620 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9h 5d]
+*** PRE-FLOP *** 
+CeliaFish064 calls 20
+Balla97620 raises 60 to 80
+MathisKcr folds
+CeliaFish064 raises 200 to 280 and is all-in
+Balla97620 calls 200
+*** FLOP *** [5h 8c 6d]
+*** TURN *** [5h 8c 6d][2h]
+*** RIVER *** [5h 8c 6d 2h][Kh]
+*** SHOW DOWN ***
+Balla97620 shows [Jh Qd] (High card : King)
+CeliaFish064 shows [As 7s] (High card : Ace)
+CeliaFish064 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5h 8c 6d 2h Kh]
+Seat 1: CeliaFish064 (button) showed [As 7s] and won 580 with High card : Ace
+Seat 2: Balla97620 (small blind) showed [Jh Qd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4692332984416600065-3-1775682176 - Holdem no limit (10/20) - 2026/04/08 21:02:56 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CeliaFish064 (580)
+Seat 2: Balla97620 (40)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+CeliaFish064 posts big blind 20
+Dealt to MathisKcr [Qd 6h]
+*** PRE-FLOP *** 
+Balla97620 raises 20 to 40 and is all-in
+MathisKcr raises 240 to 280 and is all-in
+CeliaFish064 folds
+*** FLOP *** [Td Jh Qc]
+*** TURN *** [Td Jh Qc][Tc]
+*** RIVER *** [Td Jh Qc Tc][2h]
+*** SHOW DOWN ***
+Balla97620 shows [Jc 4s] (Two pairs : Jacks and Tens)
+MathisKcr shows [Qd 6h] (Two pairs : Queens and Tens)
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Td Jh Qc Tc 2h]
+Seat 2: Balla97620 (button) showed [Jc 4s] and lost with Two pairs : Jacks and Tens
+Seat 3: MathisKcr (small blind) showed [Qd 6h] and won 340 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4692332984416600065-4-1775682194 - Holdem no limit (10/20) - 2026/04/08 21:03:14 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CeliaFish064 (560)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+CeliaFish064 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3h 5d]
+*** PRE-FLOP *** 
+CeliaFish064 calls 10
+MathisKcr checks
+*** FLOP *** [Tc Kd 7s]
+MathisKcr checks
+CeliaFish064 checks
+*** TURN *** [Tc Kd 7s][Ac]
+MathisKcr checks
+CeliaFish064 bets 20
+MathisKcr folds
+CeliaFish064 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Tc Kd 7s Ac]
+Seat 1: CeliaFish064 (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4692332984416600065-5-1775682221 - Holdem no limit (15/30) - 2026/04/08 21:03:41 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CeliaFish064 (580)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+CeliaFish064 posts big blind 30
+Dealt to MathisKcr [4c Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 290 to 320 and is all-in
+CeliaFish064 folds
+MathisKcr collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: MathisKcr (small blind) (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4692332984416600065-6-1775682228 - Holdem no limit (15/30) - 2026/04/08 21:03:48 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CeliaFish064 (550)
+Seat 3: MathisKcr (350)
+*** ANTE/BLINDS ***
+CeliaFish064 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Td 4c]
+*** PRE-FLOP *** 
+CeliaFish064 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4692332984416600065-7-1775682233 - Holdem no limit (15/30) - 2026/04/08 21:03:53 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CeliaFish064 (535)
+Seat 3: MathisKcr (365)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+CeliaFish064 posts big blind 30
+Dealt to MathisKcr [5c 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+CeliaFish064 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: CeliaFish064 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4692332984416600065-8-1775682240 - Holdem no limit (15/30) - 2026/04/08 21:04:00 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CeliaFish064 (550)
+Seat 3: MathisKcr (350)
+*** ANTE/BLINDS ***
+CeliaFish064 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6s 4d]
+*** PRE-FLOP *** 
+CeliaFish064 raises 60 to 90
+MathisKcr folds
+CeliaFish064 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: CeliaFish064 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4692332984416600065-9-1775682248 - Holdem no limit (15/30) - 2026/04/08 21:04:08 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CeliaFish064 (580)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+CeliaFish064 posts big blind 30
+Dealt to MathisKcr [Th 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+CeliaFish064 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: CeliaFish064 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4692332984416600065-10-1775682256 - Holdem no limit (15/30) - 2026/04/08 21:04:16 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CeliaFish064 (595)
+Seat 3: MathisKcr (305)
+*** ANTE/BLINDS ***
+CeliaFish064 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4s 7h]
+*** PRE-FLOP *** 
+CeliaFish064 calls 15
+MathisKcr checks
+*** FLOP *** [Ah 5h 9c]
+MathisKcr checks
+CeliaFish064 checks
+*** TURN *** [Ah 5h 9c][3d]
+MathisKcr checks
+CeliaFish064 checks
+*** RIVER *** [Ah 5h 9c 3d][Qd]
+MathisKcr checks
+CeliaFish064 checks
+*** SHOW DOWN ***
+MathisKcr shows [4s 7h] (High card : Ace)
+CeliaFish064 shows [Kd 8s] (High card : Ace)
+CeliaFish064 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ah 5h 9c 3d Qd]
+Seat 1: CeliaFish064 (small blind) (button) showed [Kd 8s] and won 60 with High card : Ace
+Seat 3: MathisKcr (big blind) showed [4s 7h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4692332984416600065-11-1775682278 - Holdem no limit (20/40) - 2026/04/08 21:04:38 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CeliaFish064 (625)
+Seat 3: MathisKcr (275)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+CeliaFish064 posts big blind 40
+Dealt to MathisKcr [7s 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 235 to 275 and is all-in
+CeliaFish064 folds
+MathisKcr collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 3: MathisKcr (small blind) (button) won 315
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4692332984416600065-12-1775682286 - Holdem no limit (20/40) - 2026/04/08 21:04:46 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CeliaFish064 (585)
+Seat 3: MathisKcr (315)
+*** ANTE/BLINDS ***
+CeliaFish064 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3c Tc]
+*** PRE-FLOP *** 
+CeliaFish064 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4692332984416600065-13-1775682290 - Holdem no limit (20/40) - 2026/04/08 21:04:50 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CeliaFish064 (565)
+Seat 3: MathisKcr (335)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+CeliaFish064 posts big blind 40
+Dealt to MathisKcr [9s 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 295 to 335 and is all-in
+CeliaFish064 folds
+MathisKcr collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Seat 3: MathisKcr (small blind) (button) won 375
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4692332984416600065-14-1775682309 - Holdem no limit (20/40) - 2026/04/08 21:05:09 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CeliaFish064 (525)
+Seat 3: MathisKcr (375)
+*** ANTE/BLINDS ***
+CeliaFish064 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Td Kh]
+*** PRE-FLOP *** 
+CeliaFish064 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4692332984416600065-15-1775682314 - Holdem no limit (20/40) - 2026/04/08 21:05:14 UTC
+Table: 'Expresso Nitro(1092518909)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CeliaFish064 (505)
+Seat 3: MathisKcr (395)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+CeliaFish064 posts big blind 40
+Dealt to MathisKcr [4h 4c]
+*** PRE-FLOP *** 
+MathisKcr raises 355 to 395 and is all-in
+CeliaFish064 calls 355
+*** FLOP *** [Ks 2h Ts]
+*** TURN *** [Ks 2h Ts][5c]
+*** RIVER *** [Ks 2h Ts 5c][2c]
+*** SHOW DOWN ***
+MathisKcr shows [4h 4c] (Two pairs : 4 and 2)
+CeliaFish064 shows [Kh Jh] (Two pairs : Kings and 2)
+CeliaFish064 collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [Ks 2h Ts 5c 2c]
+Seat 1: CeliaFish064 (big blind) showed [Kh Jh] and won 790 with Two pairs : Kings and 2
+Seat 3: MathisKcr (small blind) (button) showed [4h 4c] and lost with Two pairs : 4 and 2
+
+

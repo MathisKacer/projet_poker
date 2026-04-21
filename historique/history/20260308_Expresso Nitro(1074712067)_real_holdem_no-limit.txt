@@ -1,0 +1,384 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4615853180381560833-1-1772967173 - Holdem no limit (10/20) - 2026/03/08 10:52:53 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Toniopix (300)
+Seat 3: Mavalpa (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Toniopix posts big blind 20
+Dealt to MathisKcr [Qc 3c]
+*** PRE-FLOP *** 
+Mavalpa calls 20
+MathisKcr calls 10
+Toniopix checks
+*** FLOP *** [Kd 6d 5c]
+MathisKcr checks
+Toniopix bets 39
+Mavalpa calls 39
+MathisKcr folds
+*** TURN *** [Kd 6d 5c][5s]
+Toniopix checks
+Mavalpa checks
+*** RIVER *** [Kd 6d 5c 5s][5h]
+Toniopix checks
+Mavalpa checks
+*** SHOW DOWN ***
+Toniopix shows [Th Qh] (Trips of 5)
+Mavalpa shows [Qd Td] (Trips of 5)
+Mavalpa collected 69 from pot
+Toniopix collected 69 from pot
+*** SUMMARY ***
+Total pot 138 | No rake
+Board: [Kd 6d 5c 5s 5h]
+Seat 2: Toniopix (big blind) showed [Th Qh] and won 69 with Trips of 5
+Seat 3: Mavalpa (button) showed [Qd Td] and won 69 with Trips of 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4615853180381560833-2-1772967190 - Holdem no limit (10/20) - 2026/03/08 10:53:10 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Toniopix (310)
+Seat 3: Mavalpa (310)
+*** ANTE/BLINDS ***
+Toniopix posts small blind 10
+Mavalpa posts big blind 20
+Dealt to MathisKcr [3h 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Toniopix calls 10
+Mavalpa checks
+*** FLOP *** [Ts Jc Jh]
+Toniopix bets 26
+Mavalpa folds
+Toniopix collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Ts Jc Jh]
+Seat 2: Toniopix (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4615853180381560833-3-1772967200 - Holdem no limit (10/20) - 2026/03/08 10:53:20 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Toniopix (330)
+Seat 3: Mavalpa (290)
+*** ANTE/BLINDS ***
+Mavalpa posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 2c]
+*** PRE-FLOP *** 
+Toniopix calls 20
+Mavalpa folds
+MathisKcr checks
+*** FLOP *** [7d Ac 3h]
+MathisKcr checks
+Toniopix bets 33
+MathisKcr folds
+Toniopix collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [7d Ac 3h]
+Seat 2: Toniopix (button) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4615853180381560833-4-1772967211 - Holdem no limit (10/20) - 2026/03/08 10:53:31 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (260)
+Seat 2: Toniopix (360)
+Seat 3: Mavalpa (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Toniopix posts big blind 20
+Dealt to MathisKcr [Ks 3h]
+*** PRE-FLOP *** 
+Mavalpa raises 20 to 40
+MathisKcr folds
+Toniopix calls 20
+*** FLOP *** [3s Qs 8d]
+Toniopix bets 31
+Mavalpa calls 31
+*** TURN *** [3s Qs 8d][Jh]
+Toniopix checks
+Mavalpa checks
+*** RIVER *** [3s Qs 8d Jh][4s]
+Toniopix checks
+Mavalpa bets 99
+Toniopix folds
+Mavalpa collected 251 from pot
+*** SUMMARY ***
+Total pot 251 | No rake
+Board: [3s Qs 8d Jh 4s]
+Seat 3: Mavalpa (button) won 251
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4615853180381560833-5-1772967256 - Holdem no limit (15/30) - 2026/03/08 10:54:16 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (250)
+Seat 2: Toniopix (289)
+Seat 3: Mavalpa (361)
+*** ANTE/BLINDS ***
+Toniopix posts small blind 15
+Mavalpa posts big blind 30
+Dealt to MathisKcr [3s Kd]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Toniopix calls 15
+Mavalpa checks
+*** FLOP *** [4d Ad Jh]
+Toniopix checks
+Mavalpa checks
+MathisKcr checks
+*** TURN *** [4d Ad Jh][Jc]
+Toniopix checks
+Mavalpa checks
+MathisKcr checks
+*** RIVER *** [4d Ad Jh Jc][8d]
+Toniopix checks
+Mavalpa checks
+MathisKcr bets 60
+Toniopix folds
+Mavalpa folds
+MathisKcr collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [4d Ad Jh Jc 8d]
+Seat 1: MathisKcr (button) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4615853180381560833-6-1772967319 - Holdem no limit (20/40) - 2026/03/08 10:55:19 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (310)
+Seat 2: Toniopix (259)
+Seat 3: Mavalpa (331)
+*** ANTE/BLINDS ***
+Mavalpa posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kh Qc]
+*** PRE-FLOP *** 
+Toniopix folds
+Mavalpa calls 20
+MathisKcr raises 270 to 310 and is all-in
+Mavalpa folds
+MathisKcr collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: MathisKcr (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4615853180381560833-7-1772967340 - Holdem no limit (20/40) - 2026/03/08 10:55:40 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (350)
+Seat 2: Toniopix (259)
+Seat 3: Mavalpa (291)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Toniopix posts big blind 40
+Dealt to MathisKcr [2s 5h]
+*** PRE-FLOP *** 
+Mavalpa folds
+MathisKcr calls 20
+Toniopix checks
+*** FLOP *** [Tc Ac Kd]
+MathisKcr checks
+Toniopix checks
+*** TURN *** [Tc Ac Kd][Kh]
+MathisKcr checks
+Toniopix checks
+*** RIVER *** [Tc Ac Kd Kh][9d]
+MathisKcr checks
+Toniopix checks
+*** SHOW DOWN ***
+MathisKcr shows [2s 5h] (One pair : Kings)
+Toniopix shows [Jd 8s] (One pair : Kings)
+Toniopix collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Tc Ac Kd Kh 9d]
+Seat 1: MathisKcr (small blind) showed [2s 5h] and lost with One pair : Kings
+Seat 2: Toniopix (big blind) showed [Jd 8s] and won 80 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4615853180381560833-8-1772967391 - Holdem no limit (30/60) - 2026/03/08 10:56:31 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (310)
+Seat 2: Toniopix (299)
+Seat 3: Mavalpa (291)
+*** ANTE/BLINDS ***
+Toniopix posts small blind 30
+Mavalpa posts big blind 60
+Dealt to MathisKcr [Qd 7c]
+*** PRE-FLOP *** 
+MathisKcr calls 60
+Toniopix raises 239 to 299 and is all-in
+Mavalpa folds
+MathisKcr folds
+Toniopix collected 419 from pot
+*** SUMMARY ***
+Total pot 419 | No rake
+Seat 2: Toniopix (small blind) won 419
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4615853180381560833-9-1772967403 - Holdem no limit (30/60) - 2026/03/08 10:56:43 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (250)
+Seat 2: Toniopix (419)
+Seat 3: Mavalpa (231)
+*** ANTE/BLINDS ***
+Mavalpa posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [As 6d]
+*** PRE-FLOP *** 
+Toniopix folds
+Mavalpa folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4615853180381560833-10-1772967420 - Holdem no limit (40/80) - 2026/03/08 10:57:00 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Toniopix (419)
+Seat 3: Mavalpa (201)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Toniopix posts big blind 80
+Dealt to MathisKcr [9h Qs]
+*** PRE-FLOP *** 
+Mavalpa folds
+MathisKcr raises 200 to 280 and is all-in
+Toniopix folds
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: MathisKcr (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4615853180381560833-11-1772967437 - Holdem no limit (40/80) - 2026/03/08 10:57:17 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (360)
+Seat 2: Toniopix (339)
+Seat 3: Mavalpa (201)
+*** ANTE/BLINDS ***
+Toniopix posts small blind 40
+Mavalpa posts big blind 80
+Dealt to MathisKcr [3c 6s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Toniopix folds
+Mavalpa collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Mavalpa (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4615853180381560833-12-1772967453 - Holdem no limit (40/80) - 2026/03/08 10:57:33 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (360)
+Seat 2: Toniopix (299)
+Seat 3: Mavalpa (241)
+*** ANTE/BLINDS ***
+Mavalpa posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Ad 5s]
+*** PRE-FLOP *** 
+Toniopix calls 80
+Mavalpa folds
+MathisKcr raises 280 to 360 and is all-in
+Toniopix folds
+MathisKcr collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 1: MathisKcr (big blind) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4615853180381560833-13-1772967474 - Holdem no limit (50/100) - 2026/03/08 10:57:54 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (480)
+Seat 2: Toniopix (219)
+Seat 3: Mavalpa (201)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 50
+Toniopix posts big blind 100
+Dealt to MathisKcr [5s 2s]
+*** PRE-FLOP *** 
+Mavalpa folds
+MathisKcr raises 100 to 200
+Toniopix folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: MathisKcr (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4615853180381560833-14-1772967489 - Holdem no limit (50/100) - 2026/03/08 10:58:09 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (580)
+Seat 2: Toniopix (119)
+Seat 3: Mavalpa (201)
+*** ANTE/BLINDS ***
+Toniopix posts small blind 50
+Mavalpa posts big blind 100
+Dealt to MathisKcr [2d 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Toniopix folds
+Mavalpa collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: Mavalpa (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4615853180381560833-15-1772967500 - Holdem no limit (50/100) - 2026/03/08 10:58:20 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (580)
+Seat 2: Toniopix (69)
+Seat 3: Mavalpa (251)
+*** ANTE/BLINDS ***
+Mavalpa posts small blind 50
+MathisKcr posts big blind 100
+Dealt to MathisKcr [Tc Kc]
+*** PRE-FLOP *** 
+Toniopix folds
+Mavalpa calls 50
+MathisKcr raises 480 to 580 and is all-in
+Mavalpa calls 151 and is all-in
+*** FLOP *** [3h Kd Qs]
+*** TURN *** [3h Kd Qs][6s]
+*** RIVER *** [3h Kd Qs 6s][Jc]
+*** SHOW DOWN ***
+Mavalpa shows [2d Ad] (High card : Ace)
+MathisKcr shows [Tc Kc] (One pair : Kings)
+MathisKcr collected 831 from pot
+*** SUMMARY ***
+Total pot 831 | No rake
+Board: [3h Kd Qs 6s Jc]
+Seat 1: MathisKcr (big blind) showed [Tc Kc] and won 831 with One pair : Kings
+Seat 3: Mavalpa (small blind) showed [2d Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4615853180381560833-16-1772967517 - Holdem no limit (50/100) - 2026/03/08 10:58:37 UTC
+Table: 'Expresso Nitro(1074712067)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (831)
+Seat 2: Toniopix (69)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 50
+Toniopix posts big blind 69 and is all-in
+Dealt to MathisKcr [5s Qd]
+*** PRE-FLOP *** 
+MathisKcr calls 50
+*** FLOP *** [4s 3d Jd]
+*** TURN *** [4s 3d Jd][2s]
+*** RIVER *** [4s 3d Jd 2s][7h]
+*** SHOW DOWN ***
+Toniopix shows [8h 9d] (High card : Jack)
+MathisKcr shows [5s Qd] (High card : Queen)
+MathisKcr collected 169 from pot
+*** SUMMARY ***
+Total pot 169 | No rake
+Board: [4s 3d Jd 2s 7h]
+Seat 1: MathisKcr (small blind) (button) showed [5s Qd] and won 169 with High card : Queen
+Seat 2: Toniopix (big blind) showed [8h 9d] and lost with High card : Jack
+
+

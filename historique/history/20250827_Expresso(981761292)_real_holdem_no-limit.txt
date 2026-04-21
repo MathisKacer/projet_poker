@@ -1,0 +1,205 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4216632641618706433-1-1756299008 - Holdem no limit (10/20) - 2025/08/27 12:50:08 UTC
+Table: 'Expresso(981761292)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ndiaye khali (500)
+Seat 2: Apodo10 (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Apodo10 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9d 4h]
+*** PRE-FLOP *** 
+Ndiaye khali folds
+Apodo10 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4216632641618706433-2-1756299020 - Holdem no limit (10/20) - 2025/08/27 12:50:20 UTC
+Table: 'Expresso(981761292)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ndiaye khali (500)
+Seat 2: Apodo10 (490)
+Seat 3: MathisKcr (510)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Ndiaye khali posts big blind 20
+Dealt to MathisKcr [9h Jd]
+*** PRE-FLOP *** 
+Apodo10 folds
+MathisKcr calls 10
+Ndiaye khali raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [Qd Ad 6s]
+MathisKcr checks
+Ndiaye khali bets 20
+MathisKcr folds
+Ndiaye khali shows [Ah 6h] (Two pairs : Aces and 6)
+Ndiaye khali collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Qd Ad 6s]
+Seat 1: Ndiaye khali (big blind) showed [Ah 6h] and won 100 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4216632641618706433-3-1756299040 - Holdem no limit (10/20) - 2025/08/27 12:50:40 UTC
+Table: 'Expresso(981761292)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ndiaye khali (540)
+Seat 2: Apodo10 (490)
+Seat 3: MathisKcr (470)
+*** ANTE/BLINDS ***
+Ndiaye khali posts small blind 10
+Apodo10 posts big blind 20
+Dealt to MathisKcr [Qc 4d]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Ndiaye khali calls 10
+Apodo10 checks
+*** FLOP *** [8s 5h 2s]
+Ndiaye khali checks
+Apodo10 bets 20
+MathisKcr calls 20
+Ndiaye khali folds
+*** TURN *** [8s 5h 2s][9d]
+Apodo10 checks
+MathisKcr checks
+*** RIVER *** [8s 5h 2s 9d][3d]
+Apodo10 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Qc 4d] (High card : Queen)
+Apodo10 shows [2c Ad] (One pair : 2)
+Apodo10 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [8s 5h 2s 9d 3d]
+Seat 2: Apodo10 (big blind) showed [2c Ad] and won 100 with One pair : 2
+Seat 3: MathisKcr (button) showed [Qc 4d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4216632641618706433-4-1756299083 - Holdem no limit (10/20) - 2025/08/27 12:51:23 UTC
+Table: 'Expresso(981761292)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ndiaye khali (520)
+Seat 2: Apodo10 (550)
+Seat 3: MathisKcr (430)
+*** ANTE/BLINDS ***
+Apodo10 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jh 8s]
+*** PRE-FLOP *** 
+Ndiaye khali calls 20
+Apodo10 folds
+MathisKcr raises 20 to 40
+Ndiaye khali calls 20
+*** FLOP *** [Tc 9d Jc]
+MathisKcr bets 40
+Ndiaye khali calls 40
+*** TURN *** [Tc 9d Jc][Ah]
+MathisKcr checks
+Ndiaye khali bets 59
+MathisKcr calls 59
+*** RIVER *** [Tc 9d Jc Ah][As]
+MathisKcr checks
+Ndiaye khali checks
+*** SHOW DOWN ***
+Ndiaye khali shows [9h 3d] (Two pairs : Aces and 9)
+MathisKcr shows [Jh 8s] (Two pairs : Aces and Jacks)
+MathisKcr collected 288 from pot
+*** SUMMARY ***
+Total pot 288 | No rake
+Board: [Tc 9d Jc Ah As]
+Seat 1: Ndiaye khali (button) showed [9h 3d] and lost with Two pairs : Aces and 9
+Seat 3: MathisKcr (big blind) showed [Jh 8s] and won 288 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4216632641618706433-5-1756299158 - Holdem no limit (15/30) - 2025/08/27 12:52:38 UTC
+Table: 'Expresso(981761292)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Ndiaye khali (381)
+Seat 2: Apodo10 (540)
+Seat 3: MathisKcr (579)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Ndiaye khali posts big blind 30
+Dealt to MathisKcr [9h 6d]
+*** PRE-FLOP *** 
+Apodo10 raises 30 to 60
+MathisKcr calls 45
+Ndiaye khali raises 30 to 90
+Apodo10 calls 30
+MathisKcr calls 30
+*** FLOP *** [4h 7h Qc]
+MathisKcr checks
+Ndiaye khali bets 30
+Apodo10 raises 30 to 60
+MathisKcr calls 60
+Ndiaye khali folds
+*** TURN *** [4h 7h Qc][7s]
+MathisKcr checks
+Apodo10 bets 336
+MathisKcr folds
+Apodo10 collected 756 from pot
+*** SUMMARY ***
+Total pot 756 | No rake
+Board: [4h 7h Qc 7s]
+Seat 2: Apodo10 (button) won 756
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4216632641618706433-6-1756299212 - Holdem no limit (20/40) - 2025/08/27 12:53:32 UTC
+Table: 'Expresso(981761292)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Ndiaye khali (261)
+Seat 2: Apodo10 (810)
+Seat 3: MathisKcr (429)
+*** ANTE/BLINDS ***
+Ndiaye khali posts small blind 20
+Apodo10 posts big blind 40
+Dealt to MathisKcr [Td Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Ndiaye khali folds
+Apodo10 calls 40
+*** FLOP *** [Ac 8s Ts]
+Apodo10 checks
+MathisKcr bets 40
+Apodo10 calls 40
+*** TURN *** [Ac 8s Ts][8c]
+Apodo10 checks
+MathisKcr bets 120
+Apodo10 folds
+MathisKcr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Ac 8s Ts 8c]
+Seat 3: MathisKcr (button) won 380
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4216632641618706433-7-1756299254 - Holdem no limit (20/40) - 2025/08/27 12:54:14 UTC
+Table: 'Expresso(981761292)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Ndiaye khali (241)
+Seat 2: Apodo10 (690)
+Seat 3: MathisKcr (569)
+*** ANTE/BLINDS ***
+Apodo10 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jh 9h]
+*** PRE-FLOP *** 
+Ndiaye khali calls 40
+Apodo10 raises 40 to 80
+MathisKcr raises 40 to 120
+Ndiaye khali folds
+Apodo10 calls 40
+*** FLOP *** [Tc 2h 8d]
+Apodo10 bets 570 and is all-in
+MathisKcr calls 449 and is all-in
+*** TURN *** [Tc 2h 8d][Kc]
+*** RIVER *** [Tc 2h 8d Kc][4c]
+*** SHOW DOWN ***
+MathisKcr shows [Jh 9h] (High card : King)
+Apodo10 shows [3s Th] (One pair : Tens)
+Apodo10 collected 1299 from pot
+*** SUMMARY ***
+Total pot 1299 | No rake
+Board: [Tc 2h 8d Kc 4c]
+Seat 2: Apodo10 (small blind) showed [3s Th] and won 1299 with One pair : Tens
+Seat 3: MathisKcr (big blind) showed [Jh 9h] and lost with High card : King
+
+

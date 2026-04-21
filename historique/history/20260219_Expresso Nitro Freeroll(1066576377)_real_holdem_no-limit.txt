@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4580910657901166593-1-1771526369 - Holdem no limit (10/20) - 2026/02/19 18:39:29 UTC
+Table: 'Expresso Nitro Freeroll(1066576377)#0' 3-max (real money) Seat #3 is the button
+Seat 1: grcc31 (300)
+Seat 2: MathisKcr (300)
+Seat 3: SerialBiTeur (300)
+*** ANTE/BLINDS ***
+grcc31 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 9d]
+*** PRE-FLOP *** 
+SerialBiTeur folds
+grcc31 raises 280 to 300 and is all-in
+MathisKcr folds
+grcc31 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: grcc31 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4580910657901166593-2-1771526385 - Holdem no limit (10/20) - 2026/02/19 18:39:45 UTC
+Table: 'Expresso Nitro Freeroll(1066576377)#0' 3-max (real money) Seat #1 is the button
+Seat 1: grcc31 (320)
+Seat 2: MathisKcr (280)
+Seat 3: SerialBiTeur (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+SerialBiTeur posts big blind 20
+Dealt to MathisKcr [Jh Qd]
+*** PRE-FLOP *** 
+grcc31 raises 300 to 320 and is all-in
+MathisKcr calls 270 and is all-in
+SerialBiTeur folds
+*** FLOP *** [5d 9s 8h]
+*** TURN *** [5d 9s 8h][Ad]
+*** RIVER *** [5d 9s 8h Ad][7s]
+*** SHOW DOWN ***
+MathisKcr shows [Jh Qd] (High card : Ace)
+grcc31 shows [Ah 6h] (Straight 9 high)
+grcc31 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [5d 9s 8h Ad 7s]
+Seat 1: grcc31 (button) showed [Ah 6h] and won 620 with Straight 9 high
+Seat 2: MathisKcr (small blind) showed [Jh Qd] and lost with High card : Ace
+
+

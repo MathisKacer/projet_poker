@@ -1,0 +1,153 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659531348514439169-1-1774432950 - Holdem no limit (10/20) - 2026/03/25 10:02:30 UTC
+Table: 'Expresso Nitro(1084881683)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sayok (300)
+Seat 2: MathisKcr (300)
+Seat 3: Fouine.68738 (300)
+*** ANTE/BLINDS ***
+Sayok posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5s 6s]
+*** PRE-FLOP *** 
+Fouine.68738 raises 20 to 40
+Sayok folds
+MathisKcr calls 20
+*** FLOP *** [Jd Ac 2h]
+MathisKcr checks
+Fouine.68738 bets 31
+MathisKcr folds
+Fouine.68738 collected 121 from pot
+*** SUMMARY ***
+Total pot 121 | No rake
+Board: [Jd Ac 2h]
+Seat 3: Fouine.68738 (button) won 121
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659531348514439169-2-1774432975 - Holdem no limit (10/20) - 2026/03/25 10:02:55 UTC
+Table: 'Expresso Nitro(1084881683)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Sayok (290)
+Seat 2: MathisKcr (260)
+Seat 3: Fouine.68738 (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Fouine.68738 posts big blind 20
+Dealt to MathisKcr [Ks 8s]
+*** PRE-FLOP *** 
+Sayok raises 270 to 290 and is all-in
+MathisKcr calls 250 and is all-in
+Fouine.68738 folds
+*** FLOP *** [4d 9h Kh]
+*** TURN *** [4d 9h Kh][7c]
+*** RIVER *** [4d 9h Kh 7c][Jc]
+*** SHOW DOWN ***
+Sayok shows [Ah 3s] (High card : Ace)
+MathisKcr shows [Ks 8s] (One pair : Kings)
+MathisKcr collected 540 from main pot
+Sayok collected 30 from side pot 1
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [4d 9h Kh 7c Jc]
+Seat 1: Sayok (button) showed [Ah 3s] and won 30 with High card : Ace
+Seat 2: MathisKcr (small blind) showed [Ks 8s] and won 540 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659531348514439169-3-1774432993 - Holdem no limit (10/20) - 2026/03/25 10:03:13 UTC
+Table: 'Expresso Nitro(1084881683)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Sayok (30)
+Seat 2: MathisKcr (540)
+Seat 3: Fouine.68738 (330)
+*** ANTE/BLINDS ***
+Fouine.68738 posts small blind 10
+Sayok posts big blind 20
+Dealt to MathisKcr [Tc 7s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Fouine.68738 raises 310 to 330 and is all-in
+Sayok calls 10 and is all-in
+*** FLOP *** [Qh 7c 6h]
+*** TURN *** [Qh 7c 6h][9d]
+*** RIVER *** [Qh 7c 6h 9d][Jc]
+*** SHOW DOWN ***
+Sayok shows [8d Jh] (One pair : Jacks)
+Fouine.68738 shows [3c 3d] (One pair : 3)
+Fouine.68738 collected 300 from side pot 1
+Sayok collected 60 from main pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qh 7c 6h 9d Jc]
+Seat 1: Sayok (big blind) showed [8d Jh] and won 60 with One pair : Jacks
+Seat 3: Fouine.68738 (small blind) showed [3c 3d] and won 300 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4659531348514439169-4-1774433018 - Holdem no limit (15/30) - 2026/03/25 10:03:38 UTC
+Table: 'Expresso Nitro(1084881683)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Sayok (60)
+Seat 2: MathisKcr (540)
+Seat 3: Fouine.68738 (300)
+*** ANTE/BLINDS ***
+Sayok posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ts 3c]
+*** PRE-FLOP *** 
+Fouine.68738 raises 270 to 300 and is all-in
+Sayok calls 45 and is all-in
+MathisKcr folds
+*** FLOP *** [Kh 6s 6c]
+*** TURN *** [Kh 6s 6c][8h]
+*** RIVER *** [Kh 6s 6c 8h][2d]
+*** SHOW DOWN ***
+Sayok shows [Kc 4c] (Two pairs : Kings and 6)
+Fouine.68738 shows [Ah 6h] (Trips of 6)
+Fouine.68738 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [Kh 6s 6c 8h 2d]
+Seat 1: Sayok (small blind) showed [Kc 4c] and lost with Two pairs : Kings and 6
+Seat 3: Fouine.68738 (button) showed [Ah 6h] and won 390 with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4659531348514439169-5-1774433043 - Holdem no limit (15/30) - 2026/03/25 10:04:03 UTC
+Table: 'Expresso Nitro(1084881683)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (510)
+Seat 3: Fouine.68738 (390)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Fouine.68738 posts big blind 30
+Dealt to MathisKcr [Qh 8d]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Fouine.68738 raises 120 to 180
+MathisKcr folds
+Fouine.68738 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: Fouine.68738 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4659531348514439169-6-1774433057 - Holdem no limit (15/30) - 2026/03/25 10:04:17 UTC
+Table: 'Expresso Nitro(1084881683)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (450)
+Seat 3: Fouine.68738 (450)
+*** ANTE/BLINDS ***
+Fouine.68738 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7d 6s]
+*** PRE-FLOP *** 
+Fouine.68738 raises 45 to 75
+MathisKcr calls 45
+*** FLOP *** [6d Jd 9d]
+MathisKcr bets 90
+Fouine.68738 raises 285 to 375 and is all-in
+MathisKcr calls 285 and is all-in
+*** TURN *** [6d Jd 9d][Js]
+*** RIVER *** [6d Jd 9d Js][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [7d 6s] (Two pairs : Jacks and 6)
+Fouine.68738 shows [Ah As] (Two pairs : Aces and Jacks)
+Fouine.68738 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d Jd 9d Js Kc]
+Seat 2: MathisKcr (big blind) showed [7d 6s] and lost with Two pairs : Jacks and 6
+Seat 3: Fouine.68738 (small blind) (button) showed [Ah As] and won 900 with Two pairs : Aces and Jacks
+
+

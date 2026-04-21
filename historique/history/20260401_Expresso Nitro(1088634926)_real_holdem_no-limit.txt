@@ -1,0 +1,431 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675651404453380097-1-1775066924 - Holdem no limit (10/20) - 2026/04/01 18:08:44 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Anonamyne (300)
+Seat 2: Robin_Hood_ (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Anonamyne posts big blind 20
+Dealt to MathisKcr [Th 5d]
+*** PRE-FLOP *** 
+Robin_Hood_ folds
+MathisKcr folds
+Anonamyne collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Anonamyne (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675651404453380097-2-1775066932 - Holdem no limit (10/20) - 2026/04/01 18:08:52 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Anonamyne (310)
+Seat 2: Robin_Hood_ (300)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Anonamyne posts small blind 10
+Robin_Hood_ posts big blind 20
+Dealt to MathisKcr [2h Ts]
+*** PRE-FLOP *** 
+MathisKcr folds
+Anonamyne calls 10
+Robin_Hood_ raises 20 to 40
+Anonamyne calls 20
+*** FLOP *** [9d Js 4d]
+Anonamyne checks
+Robin_Hood_ bets 28
+Anonamyne raises 242 to 270 and is all-in
+Robin_Hood_ folds
+Anonamyne collected 378 from pot
+*** SUMMARY ***
+Total pot 378 | No rake
+Board: [9d Js 4d]
+Seat 1: Anonamyne (small blind) won 378
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675651404453380097-3-1775066956 - Holdem no limit (10/20) - 2026/04/01 18:09:16 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Anonamyne (378)
+Seat 2: Robin_Hood_ (232)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Robin_Hood_ posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7d 4d]
+*** PRE-FLOP *** 
+Anonamyne calls 20
+Robin_Hood_ folds
+MathisKcr checks
+*** FLOP *** [Kh 2c Kd]
+MathisKcr checks
+Anonamyne checks
+*** TURN *** [Kh 2c Kd][Js]
+MathisKcr checks
+Anonamyne checks
+*** RIVER *** [Kh 2c Kd Js][Td]
+MathisKcr checks
+Anonamyne checks
+*** SHOW DOWN ***
+MathisKcr shows [7d 4d] (One pair : Kings)
+Anonamyne shows [3c 8s] (One pair : Kings)
+Anonamyne collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Kh 2c Kd Js Td]
+Seat 1: Anonamyne (button) showed [3c 8s] and won 50 with One pair : Kings
+Seat 3: MathisKcr (big blind) showed [7d 4d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675651404453380097-4-1775066994 - Holdem no limit (15/30) - 2026/04/01 18:09:54 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Anonamyne (408)
+Seat 2: Robin_Hood_ (222)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Anonamyne posts big blind 30
+Dealt to MathisKcr [2h 3c]
+*** PRE-FLOP *** 
+Robin_Hood_ folds
+MathisKcr folds
+Anonamyne collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Anonamyne (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675651404453380097-5-1775066999 - Holdem no limit (15/30) - 2026/04/01 18:09:59 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Anonamyne (423)
+Seat 2: Robin_Hood_ (222)
+Seat 3: MathisKcr (255)
+*** ANTE/BLINDS ***
+Anonamyne posts small blind 15
+Robin_Hood_ posts big blind 30
+Dealt to MathisKcr [4h Tc]
+*** PRE-FLOP *** 
+MathisKcr folds
+Anonamyne calls 15
+Robin_Hood_ checks
+*** FLOP *** [Jd 8s 3c]
+Anonamyne checks
+Robin_Hood_ checks
+*** TURN *** [Jd 8s 3c][8c]
+Anonamyne checks
+Robin_Hood_ checks
+*** RIVER *** [Jd 8s 3c 8c][7d]
+Anonamyne checks
+Robin_Hood_ checks
+*** SHOW DOWN ***
+Robin_Hood_ shows [Ts 6d] (One pair : 8)
+Anonamyne shows [3s 2d] (Two pairs : 8 and 3)
+Anonamyne collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Jd 8s 3c 8c 7d]
+Seat 1: Anonamyne (small blind) showed [3s 2d] and won 60 with Two pairs : 8 and 3
+Seat 2: Robin_Hood_ (big blind) showed [Ts 6d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675651404453380097-6-1775067013 - Holdem no limit (15/30) - 2026/04/01 18:10:13 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Anonamyne (453)
+Seat 2: Robin_Hood_ (192)
+Seat 3: MathisKcr (255)
+*** ANTE/BLINDS ***
+Robin_Hood_ posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5c 6d]
+*** PRE-FLOP *** 
+Anonamyne calls 30
+Robin_Hood_ folds
+MathisKcr checks
+*** FLOP *** [3d Qc 4s]
+MathisKcr bets 60
+Anonamyne folds
+MathisKcr collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [3d Qc 4s]
+Seat 3: MathisKcr (big blind) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675651404453380097-7-1775067034 - Holdem no limit (15/30) - 2026/04/01 18:10:34 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Anonamyne (423)
+Seat 2: Robin_Hood_ (177)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Anonamyne posts big blind 30
+Dealt to MathisKcr [8d 5d]
+*** PRE-FLOP *** 
+Robin_Hood_ folds
+MathisKcr raises 270 to 300 and is all-in
+Anonamyne folds
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: MathisKcr (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4675651404453380097-8-1775067045 - Holdem no limit (20/40) - 2026/04/01 18:10:45 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Anonamyne (393)
+Seat 2: Robin_Hood_ (177)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+Anonamyne posts small blind 20
+Robin_Hood_ posts big blind 40
+Dealt to MathisKcr [7c 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Anonamyne calls 20
+Robin_Hood_ raises 137 to 177 and is all-in
+Anonamyne folds
+Robin_Hood_ collected 217 from pot
+*** SUMMARY ***
+Total pot 217 | No rake
+Seat 2: Robin_Hood_ (big blind) won 217
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4675651404453380097-9-1775067057 - Holdem no limit (20/40) - 2026/04/01 18:10:57 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Anonamyne (353)
+Seat 2: Robin_Hood_ (217)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+Robin_Hood_ posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kc 2h]
+*** PRE-FLOP *** 
+Anonamyne raises 40 to 80
+Robin_Hood_ raises 137 to 217 and is all-in
+MathisKcr folds
+Anonamyne calls 137
+*** FLOP *** [Ac 9h 4h]
+*** TURN *** [Ac 9h 4h][4s]
+*** RIVER *** [Ac 9h 4h 4s][5d]
+*** SHOW DOWN ***
+Anonamyne shows [8d 8c] (Two pairs : 8 and 4)
+Robin_Hood_ shows [4c 4d] (Quads of 4)
+Robin_Hood_ collected 474 from pot
+*** SUMMARY ***
+Total pot 474 | No rake
+Board: [Ac 9h 4h 4s 5d]
+Seat 1: Anonamyne (button) showed [8d 8c] and lost with Two pairs : 8 and 4
+Seat 2: Robin_Hood_ (small blind) showed [4c 4d] and won 474 with Quads of 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4675651404453380097-10-1775067076 - Holdem no limit (20/40) - 2026/04/01 18:11:16 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Anonamyne (136)
+Seat 2: Robin_Hood_ (474)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Anonamyne posts big blind 40
+Dealt to MathisKcr [9c 9h]
+*** PRE-FLOP *** 
+Robin_Hood_ raises 434 to 474 and is all-in
+MathisKcr calls 270 and is all-in
+Anonamyne folds
+*** FLOP *** [3s 6c 7d]
+*** TURN *** [3s 6c 7d][9d]
+*** RIVER *** [3s 6c 7d 9d][7h]
+*** SHOW DOWN ***
+Robin_Hood_ shows [Qh Qs] (Two pairs : Queens and 7)
+MathisKcr shows [9c 9h] (Full of 9 and 7)
+MathisKcr collected 620 from main pot
+Robin_Hood_ collected 184 from side pot 1
+*** SUMMARY ***
+Total pot 804 | No rake
+Board: [3s 6c 7d 9d 7h]
+Seat 2: Robin_Hood_ (button) showed [Qh Qs] and won 184 with Two pairs : Queens and 7
+Seat 3: MathisKcr (small blind) showed [9c 9h] and won 620 with Full of 9 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4675651404453380097-11-1775067090 - Holdem no limit (20/40) - 2026/04/01 18:11:30 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Anonamyne (96)
+Seat 2: Robin_Hood_ (184)
+Seat 3: MathisKcr (620)
+*** ANTE/BLINDS ***
+Anonamyne posts small blind 20
+Robin_Hood_ posts big blind 40
+Dealt to MathisKcr [Jh Tc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Anonamyne raises 16 to 96 and is all-in
+Robin_Hood_ folds
+MathisKcr calls 16
+*** FLOP *** [7s 7c 5s]
+*** TURN *** [7s 7c 5s][5c]
+*** RIVER *** [7s 7c 5s 5c][3h]
+*** SHOW DOWN ***
+MathisKcr shows [Jh Tc] (Two pairs : 7 and 5)
+Anonamyne shows [Qs Kc] (Two pairs : 7 and 5)
+Anonamyne collected 232 from pot
+*** SUMMARY ***
+Total pot 232 | No rake
+Board: [7s 7c 5s 5c 3h]
+Seat 1: Anonamyne (small blind) showed [Qs Kc] and won 232 with Two pairs : 7 and 5
+Seat 3: MathisKcr (button) showed [Jh Tc] and lost with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675651404453380097-12-1775067108 - Holdem no limit (30/60) - 2026/04/01 18:11:48 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Anonamyne (232)
+Seat 2: Robin_Hood_ (144)
+Seat 3: MathisKcr (524)
+*** ANTE/BLINDS ***
+Robin_Hood_ posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qh 7d]
+*** PRE-FLOP *** 
+Anonamyne folds
+Robin_Hood_ raises 84 to 144 and is all-in
+MathisKcr calls 84
+*** FLOP *** [8h Kh 2d]
+*** TURN *** [8h Kh 2d][6c]
+*** RIVER *** [8h Kh 2d 6c][Qd]
+*** SHOW DOWN ***
+MathisKcr shows [Qh 7d] (One pair : Queens)
+Robin_Hood_ shows [Ac Qs] (One pair : Queens)
+Robin_Hood_ collected 288 from pot
+*** SUMMARY ***
+Total pot 288 | No rake
+Board: [8h Kh 2d 6c Qd]
+Seat 2: Robin_Hood_ (small blind) showed [Ac Qs] and won 288 with One pair : Queens
+Seat 3: MathisKcr (big blind) showed [Qh 7d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675651404453380097-13-1775067123 - Holdem no limit (30/60) - 2026/04/01 18:12:03 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Anonamyne (232)
+Seat 2: Robin_Hood_ (288)
+Seat 3: MathisKcr (380)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Anonamyne posts big blind 60
+Dealt to MathisKcr [6s 7h]
+*** PRE-FLOP *** 
+Robin_Hood_ folds
+MathisKcr folds
+Anonamyne collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Anonamyne (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675651404453380097-14-1775067129 - Holdem no limit (30/60) - 2026/04/01 18:12:09 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Anonamyne (262)
+Seat 2: Robin_Hood_ (288)
+Seat 3: MathisKcr (350)
+*** ANTE/BLINDS ***
+Anonamyne posts small blind 30
+Robin_Hood_ posts big blind 60
+Dealt to MathisKcr [4d 3d]
+*** PRE-FLOP *** 
+MathisKcr raises 290 to 350 and is all-in
+Anonamyne folds
+Robin_Hood_ calls 228 and is all-in
+*** FLOP *** [5c 6h Qd]
+*** TURN *** [5c 6h Qd][3c]
+*** RIVER *** [5c 6h Qd 3c][7s]
+*** SHOW DOWN ***
+Robin_Hood_ shows [Tc As] (High card : Ace)
+MathisKcr shows [4d 3d] (Straight 7 high)
+MathisKcr collected 668 from pot
+*** SUMMARY ***
+Total pot 668 | No rake
+Board: [5c 6h Qd 3c 7s]
+Seat 2: Robin_Hood_ (big blind) showed [Tc As] and lost with High card : Ace
+Seat 3: MathisKcr (button) showed [4d 3d] and won 668 with Straight 7 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675651404453380097-15-1775067143 - Holdem no limit (30/60) - 2026/04/01 18:12:23 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Anonamyne (232)
+Seat 3: MathisKcr (668)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Anonamyne posts big blind 60
+Dealt to MathisKcr [2c 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Anonamyne collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Anonamyne (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675651404453380097-16-1775067147 - Holdem no limit (30/60) - 2026/04/01 18:12:27 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Anonamyne (262)
+Seat 3: MathisKcr (638)
+*** ANTE/BLINDS ***
+Anonamyne posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [4c 4s]
+*** PRE-FLOP *** 
+Anonamyne raises 60 to 120
+MathisKcr raises 518 to 638 and is all-in
+Anonamyne calls 142 and is all-in
+*** FLOP *** [9s 2h 5h]
+*** TURN *** [9s 2h 5h][Js]
+*** RIVER *** [9s 2h 5h Js][6c]
+*** SHOW DOWN ***
+Anonamyne shows [Ts Jd] (One pair : Jacks)
+MathisKcr shows [4c 4s] (One pair : 4)
+MathisKcr collected 376 from side pot 1
+Anonamyne collected 524 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s 2h 5h Js 6c]
+Seat 1: Anonamyne (small blind) (button) showed [Ts Jd] and won 524 with One pair : Jacks
+Seat 3: MathisKcr (big blind) showed [4c 4s] and won 376 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675651404453380097-17-1775067160 - Holdem no limit (30/60) - 2026/04/01 18:12:40 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Anonamyne (524)
+Seat 3: MathisKcr (376)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Anonamyne posts big blind 60
+Dealt to MathisKcr [9h 5d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Anonamyne collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Anonamyne (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4675651404453380097-18-1775067165 - Holdem no limit (40/80) - 2026/04/01 18:12:45 UTC
+Table: 'Expresso Nitro(1088634926)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Anonamyne (554)
+Seat 3: MathisKcr (346)
+*** ANTE/BLINDS ***
+Anonamyne posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Tc Kh]
+*** PRE-FLOP *** 
+Anonamyne calls 40
+MathisKcr raises 266 to 346 and is all-in
+Anonamyne calls 266
+*** FLOP *** [Th Ah 5s]
+*** TURN *** [Th Ah 5s][Qd]
+*** RIVER *** [Th Ah 5s Qd][2h]
+*** SHOW DOWN ***
+MathisKcr shows [Tc Kh] (One pair : Tens)
+Anonamyne shows [Ad 9d] (One pair : Aces)
+Anonamyne collected 692 from pot
+*** SUMMARY ***
+Total pot 692 | No rake
+Board: [Th Ah 5s Qd 2h]
+Seat 1: Anonamyne (small blind) (button) showed [Ad 9d] and won 692 with One pair : Aces
+Seat 3: MathisKcr (big blind) showed [Tc Kh] and lost with One pair : Tens
+
+

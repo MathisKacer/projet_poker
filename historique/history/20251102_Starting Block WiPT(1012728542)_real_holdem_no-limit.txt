@@ -1,0 +1,589 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4349635967615762433-1-1762102674 - Holdem no limit (10/20) - 2025/11/02 16:57:54 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (1500)
+Seat 2: Hyene 821686 (1500)
+Seat 3: Hakopopi (1500)
+Seat 4: Jbl12 (1500)
+Seat 5: lucascity (1500)
+Seat 6: Lga75 (1500)
+*** ANTE/BLINDS ***
+Jbl12 posts small blind 10
+lucascity posts big blind 20
+Dealt to MathisKcr [4c Th]
+*** PRE-FLOP *** 
+Lga75 calls 20
+MathisKcr folds
+Hyene 821686 calls 20
+Hakopopi folds
+Jbl12 calls 10
+lucascity checks
+*** FLOP *** [9d 3h 2s]
+Jbl12 checks
+lucascity bets 64
+Lga75 folds
+Hyene 821686 raises 1416 to 1480 and is all-in
+Jbl12 folds
+lucascity calls 1416 and is all-in
+*** TURN *** [9d 3h 2s][8s]
+*** RIVER *** [9d 3h 2s 8s][Qc]
+*** SHOW DOWN ***
+Hyene 821686 shows [9h 7c] (One pair : 9)
+lucascity shows [9s Kh] (One pair : 9)
+lucascity collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | No rake
+Board: [9d 3h 2s 8s Qc]
+Seat 2: Hyene 821686 showed [9h 7c] and lost with One pair : 9
+Seat 5: lucascity (big blind) showed [9s Kh] and won 3040 with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4349635967615762433-2-1762102702 - Holdem no limit (10/20) - 2025/11/02 16:58:22 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (1500)
+Seat 3: Hakopopi (1500)
+Seat 4: Jbl12 (1480)
+Seat 5: lucascity (3040)
+Seat 6: Lga75 (1480)
+*** ANTE/BLINDS ***
+lucascity posts small blind 10
+Lga75 posts big blind 20
+Dealt to MathisKcr [4s 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Hakopopi raises 20 to 40
+Jbl12 calls 40
+lucascity calls 30
+Lga75 calls 20
+*** FLOP *** [8c Ks Td]
+lucascity checks
+Lga75 checks
+Hakopopi bets 56
+Jbl12 folds
+lucascity folds
+Lga75 calls 56
+*** TURN *** [8c Ks Td][9h]
+Lga75 checks
+Hakopopi bets 95
+Lga75 calls 95
+*** RIVER *** [8c Ks Td 9h][Kh]
+Lga75 checks
+Hakopopi bets 300
+Lga75 folds
+Hakopopi collected 762 from pot
+*** SUMMARY ***
+Total pot 762 | No rake
+Board: [8c Ks Td 9h Kh]
+Seat 3: Hakopopi won 762
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4349635967615762433-3-1762102750 - Holdem no limit (10/20) - 2025/11/02 16:59:10 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (1500)
+Seat 3: Hakopopi (1771)
+Seat 4: Jbl12 (1440)
+Seat 5: lucascity (3000)
+Seat 6: Lga75 (1289)
+*** ANTE/BLINDS ***
+Lga75 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th 5d]
+*** PRE-FLOP *** 
+Hakopopi folds
+Jbl12 folds
+lucascity folds
+Lga75 calls 10
+MathisKcr checks
+*** FLOP *** [Kh 8s 2s]
+Lga75 checks
+MathisKcr bets 60
+Lga75 folds
+MathisKcr collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Kh 8s 2s]
+Seat 1: MathisKcr (big blind) won 100
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4349635967615762433-4-1762102772 - Holdem no limit (15/30) - 2025/11/02 16:59:32 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (1520)
+Seat 3: Hakopopi (1771)
+Seat 4: Jbl12 (1440)
+Seat 5: lucascity (3000)
+Seat 6: Lga75 (1269)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Hakopopi posts big blind 30
+Dealt to MathisKcr [Jd 3h]
+*** PRE-FLOP *** 
+Jbl12 folds
+lucascity folds
+Lga75 raises 30 to 60
+MathisKcr folds
+Hakopopi calls 30
+*** FLOP *** [3c Th 4c]
+Hakopopi checks
+Lga75 checks
+*** TURN *** [3c Th 4c][Td]
+Hakopopi checks
+Lga75 bets 47
+Hakopopi raises 47 to 94
+Lga75 calls 47
+*** RIVER *** [3c Th 4c Td][Kh]
+Hakopopi bets 113
+Lga75 calls 113
+*** SHOW DOWN ***
+Hakopopi shows [9h 9d] (Two pairs : Tens and 9)
+Lga75 shows [Jc Jh] (Two pairs : Jacks and Tens)
+Lga75 collected 549 from pot
+*** SUMMARY ***
+Total pot 549 | No rake
+Board: [3c Th 4c Td Kh]
+Seat 3: Hakopopi (big blind) showed [9h 9d] and lost with Two pairs : Tens and 9
+Seat 6: Lga75 (button) showed [Jc Jh] and won 549 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4349635967615762433-5-1762102811 - Holdem no limit (15/30) - 2025/11/02 17:00:11 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1505)
+Seat 3: Hakopopi (1504)
+Seat 4: Jbl12 (1440)
+Seat 5: lucascity (3000)
+Seat 6: Lga75 (1551)
+*** ANTE/BLINDS ***
+Hakopopi posts small blind 15
+Jbl12 posts big blind 30
+Dealt to MathisKcr [8d 8s]
+*** PRE-FLOP *** 
+lucascity folds
+Lga75 folds
+MathisKcr raises 60 to 90
+Hakopopi folds
+Jbl12 calls 60
+*** FLOP *** [8c 4d 8h]
+Jbl12 checks
+MathisKcr checks
+*** TURN *** [8c 4d 8h][Kd]
+Jbl12 checks
+MathisKcr bets 68
+Jbl12 raises 191 to 259
+MathisKcr raises 191 to 450
+Jbl12 calls 191
+*** RIVER *** [8c 4d 8h Kd][Jh]
+Jbl12 checks
+MathisKcr bets 383
+Jbl12 calls 383
+*** SHOW DOWN ***
+Jbl12 shows [4h Kh] (Two pairs : Kings and 8)
+MathisKcr shows [8d 8s] (Quads of 8)
+MathisKcr collected 1861 from pot
+*** SUMMARY ***
+Total pot 1861 | No rake
+Board: [8c 4d 8h Kd Jh]
+Seat 1: MathisKcr (button) showed [8d 8s] and won 1861 with Quads of 8
+Seat 4: Jbl12 (big blind) showed [4h Kh] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4349635967615762433-6-1762102864 - Holdem no limit (20/40) - 2025/11/02 17:01:04 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (2443)
+Seat 3: Hakopopi (1489)
+Seat 4: Jbl12 (517)
+Seat 5: lucascity (3000)
+Seat 6: Lga75 (1551)
+*** ANTE/BLINDS ***
+Jbl12 posts small blind 20
+lucascity posts big blind 40
+Dealt to MathisKcr [As 2c]
+*** PRE-FLOP *** 
+Lga75 calls 40
+MathisKcr calls 40
+Hakopopi raises 40 to 80
+Jbl12 raises 437 to 517 and is all-in
+lucascity raises 2483 to 3000 and is all-in
+Lga75 calls 1511 and is all-in
+MathisKcr folds
+Hakopopi folds
+*** FLOP *** [Jc Qh 4d]
+*** TURN *** [Jc Qh 4d][3h]
+*** RIVER *** [Jc Qh 4d 3h][9d]
+*** SHOW DOWN ***
+Jbl12 shows [Th Td] (One pair : Tens)
+lucascity shows [Ks Ac] (High card : Ace)
+Lga75 shows [Ts Qs] (One pair : Queens)
+Lga75 collected 3739 from main pot
+lucascity collected 1449 from side pot 1
+*** SUMMARY ***
+Total pot 5188 | No rake
+Board: [Jc Qh 4d 3h 9d]
+Seat 4: Jbl12 (small blind) showed [Th Td] and lost with One pair : Tens
+Seat 5: lucascity (big blind) showed [Ks Ac] and won 1449 with High card : Ace
+Seat 6: Lga75 showed [Ts Qs] and won 3739 with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4349635967615762433-7-1762102903 - Holdem no limit (20/40) - 2025/11/02 17:01:43 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (2403)
+Seat 3: Hakopopi (1409)
+Seat 5: lucascity (1449)
+Seat 6: Lga75 (3739)
+*** ANTE/BLINDS ***
+lucascity posts small blind 20
+Lga75 posts big blind 40
+Dealt to MathisKcr [2c 2d]
+*** PRE-FLOP *** 
+MathisKcr raises 2363 to 2403 and is all-in
+Hakopopi folds
+lucascity calls 1429 and is all-in
+Lga75 folds
+*** FLOP *** [4c 7h Ts]
+*** TURN *** [4c 7h Ts][Ac]
+*** RIVER *** [4c 7h Ts Ac][8s]
+*** SHOW DOWN ***
+MathisKcr shows [2c 2d] (One pair : 2)
+lucascity shows [5h Ad] (One pair : Aces)
+lucascity collected 2938 from main pot
+MathisKcr collected 954 from side pot 1
+*** SUMMARY ***
+Total pot 3892 | No rake
+Board: [4c 7h Ts Ac 8s]
+Seat 1: MathisKcr showed [2c 2d] and won 954 with One pair : 2
+Seat 5: lucascity (small blind) showed [5h Ad] and won 2938 with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4349635967615762433-8-1762102920 - Holdem no limit (20/40) - 2025/11/02 17:02:00 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (954)
+Seat 3: Hakopopi (1409)
+Seat 5: lucascity (2938)
+Seat 6: Lga75 (3699)
+*** ANTE/BLINDS ***
+Lga75 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3s 5s]
+*** PRE-FLOP *** 
+Hakopopi folds
+lucascity raises 80 to 120
+Lga75 calls 100
+MathisKcr folds
+*** FLOP *** [7d 7c Qc]
+Lga75 bets 3579 and is all-in
+lucascity folds
+Lga75 collected 3859 from pot
+*** SUMMARY ***
+Total pot 3859 | No rake
+Board: [7d 7c Qc]
+Seat 6: Lga75 (small blind) won 3859
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4349635967615762433-9-1762102947 - Holdem no limit (30/60) - 2025/11/02 17:02:27 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (914)
+Seat 3: Hakopopi (1409)
+Seat 5: lucascity (2818)
+Seat 6: Lga75 (3859)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Hakopopi posts big blind 60
+Dealt to MathisKcr [6s Ad]
+*** PRE-FLOP *** 
+lucascity folds
+Lga75 folds
+MathisKcr raises 60 to 120
+Hakopopi folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: MathisKcr (small blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4349635967615762433-10-1762102970 - Holdem no limit (30/60) - 2025/11/02 17:02:50 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (974)
+Seat 3: Hakopopi (1349)
+Seat 5: lucascity (2818)
+Seat 6: Lga75 (3859)
+*** ANTE/BLINDS ***
+Hakopopi posts small blind 30
+lucascity posts big blind 60
+Dealt to MathisKcr [7s Tc]
+*** PRE-FLOP *** 
+Lga75 folds
+MathisKcr calls 60
+Hakopopi folds
+lucascity checks
+*** FLOP *** [5d Th Jh]
+lucascity checks
+MathisKcr bets 98
+lucascity calls 98
+*** TURN *** [5d Th Jh][Ks]
+lucascity checks
+MathisKcr bets 346
+lucascity raises 2314 to 2660 and is all-in
+MathisKcr folds
+lucascity collected 3352 from pot
+*** SUMMARY ***
+Total pot 3352 | No rake
+Board: [5d Th Jh Ks]
+Seat 5: lucascity (big blind) won 3352
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4349635967615762433-11-1762103009 - Holdem no limit (30/60) - 2025/11/02 17:03:29 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (470)
+Seat 3: Hakopopi (1319)
+Seat 5: lucascity (3352)
+Seat 6: Lga75 (3859)
+*** ANTE/BLINDS ***
+lucascity posts small blind 30
+Lga75 posts big blind 60
+Dealt to MathisKcr [Tc 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Hakopopi raises 150 to 210
+lucascity folds
+Lga75 folds
+Hakopopi collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: Hakopopi (button) won 300
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4349635967615762433-12-1762103022 - Holdem no limit (30/60) - 2025/11/02 17:03:42 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (470)
+Seat 3: Hakopopi (1409)
+Seat 5: lucascity (3322)
+Seat 6: Lga75 (3799)
+*** ANTE/BLINDS ***
+Lga75 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qd 3c]
+*** PRE-FLOP *** 
+Hakopopi folds
+lucascity raises 120 to 180
+Lga75 raises 3619 to 3799 and is all-in
+MathisKcr folds
+lucascity folds
+Lga75 collected 4039 from pot
+*** SUMMARY ***
+Total pot 4039 | No rake
+Seat 6: Lga75 (small blind) won 4039
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4349635967615762433-13-1762103046 - Holdem no limit (40/80) - 2025/11/02 17:04:06 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (410)
+Seat 3: Hakopopi (1409)
+Seat 5: lucascity (3142)
+Seat 6: Lga75 (4039)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Hakopopi posts big blind 80
+Dealt to MathisKcr [3d 6h]
+*** PRE-FLOP *** 
+lucascity raises 160 to 240
+Lga75 folds
+MathisKcr folds
+Hakopopi calls 160
+*** FLOP *** [7h Td As]
+Hakopopi checks
+lucascity bets 130
+Hakopopi calls 130
+*** TURN *** [7h Td As][4h]
+Hakopopi checks
+lucascity bets 195
+Hakopopi calls 195
+*** RIVER *** [7h Td As 4h][8d]
+Hakopopi checks
+lucascity bets 293
+Hakopopi folds
+lucascity collected 1463 from pot
+*** SUMMARY ***
+Total pot 1463 | No rake
+Board: [7h Td As 4h 8d]
+Seat 5: lucascity won 1463
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4349635967615762433-14-1762103096 - Holdem no limit (40/80) - 2025/11/02 17:04:56 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (370)
+Seat 3: Hakopopi (844)
+Seat 5: lucascity (3747)
+Seat 6: Lga75 (4039)
+*** ANTE/BLINDS ***
+Hakopopi posts small blind 40
+lucascity posts big blind 80
+Dealt to MathisKcr [4c 5d]
+*** PRE-FLOP *** 
+Lga75 calls 80
+MathisKcr folds
+Hakopopi calls 40
+lucascity raises 3667 to 3747 and is all-in
+Lga75 raises 292 to 4039 and is all-in
+Hakopopi folds
+*** FLOP *** [9c Kc 6s]
+*** TURN *** [9c Kc 6s][9h]
+*** RIVER *** [9c Kc 6s 9h][4h]
+*** SHOW DOWN ***
+lucascity shows [Ac 3c] (One pair : 9)
+Lga75 shows [8h 8d] (Two pairs : 9 and 8)
+Lga75 collected 7866 from pot
+*** SUMMARY ***
+Total pot 7866 | No rake
+Board: [9c Kc 6s 9h 4h]
+Seat 5: lucascity (big blind) showed [Ac 3c] and lost with One pair : 9
+Seat 6: Lga75 showed [8h 8d] and won 7866 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4349635967615762433-15-1762103128 - Holdem no limit (60/120) - 2025/11/02 17:05:28 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (370)
+Seat 3: Hakopopi (764)
+Seat 6: Lga75 (7866)
+*** ANTE/BLINDS ***
+Lga75 posts big blind 120
+Dealt to MathisKcr [Qc 6s]
+*** PRE-FLOP *** 
+MathisKcr calls 120
+Hakopopi folds
+Lga75 raises 7746 to 7866 and is all-in
+MathisKcr calls 250 and is all-in
+*** FLOP *** [8h 9h 2d]
+*** TURN *** [8h 9h 2d][Qd]
+*** RIVER *** [8h 9h 2d Qd][5h]
+*** SHOW DOWN ***
+MathisKcr shows [Qc 6s] (One pair : Queens)
+Lga75 shows [Jd Kc] (High card : King)
+Lga75 collected 7496 from side pot 1
+MathisKcr collected 740 from main pot
+*** SUMMARY ***
+Total pot 8236 | No rake
+Board: [8h 9h 2d Qd 5h]
+Seat 1: MathisKcr showed [Qc 6s] and won 740 with One pair : Queens
+Seat 6: Lga75 (big blind) showed [Jd Kc] and won 7496 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4349635967615762433-16-1762103151 - Holdem no limit (60/120) - 2025/11/02 17:05:51 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (740)
+Seat 3: Hakopopi (764)
+Seat 6: Lga75 (7496)
+*** ANTE/BLINDS ***
+Lga75 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [Kd Tc]
+*** PRE-FLOP *** 
+Hakopopi folds
+Lga75 calls 60
+MathisKcr raises 620 to 740 and is all-in
+Lga75 folds
+MathisKcr collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Seat 1: MathisKcr (big blind) won 860
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4349635967615762433-17-1762103165 - Holdem no limit (60/120) - 2025/11/02 17:06:05 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (860)
+Seat 3: Hakopopi (764)
+Seat 6: Lga75 (7376)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 60
+Hakopopi posts big blind 120
+Dealt to MathisKcr [8s 8h]
+*** PRE-FLOP *** 
+Lga75 folds
+MathisKcr raises 120 to 240
+Hakopopi folds
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: MathisKcr (small blind) won 360
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4349635967615762433-18-1762103177 - Holdem no limit (60/120) - 2025/11/02 17:06:17 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (980)
+Seat 3: Hakopopi (644)
+Seat 6: Lga75 (7376)
+*** ANTE/BLINDS ***
+Hakopopi posts small blind 60
+Lga75 posts big blind 120
+Dealt to MathisKcr [8h Kd]
+*** PRE-FLOP *** 
+MathisKcr calls 120
+Hakopopi folds
+Lga75 checks
+*** FLOP *** [7c Kh As]
+Lga75 checks
+MathisKcr bets 300
+Lga75 folds
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7c Kh As]
+Seat 1: MathisKcr (button) won 600
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4349635967615762433-19-1762103202 - Holdem no limit (60/120) - 2025/11/02 17:06:42 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (1160)
+Seat 3: Hakopopi (584)
+Seat 6: Lga75 (7256)
+*** ANTE/BLINDS ***
+Lga75 posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [7c Qd]
+*** PRE-FLOP *** 
+Hakopopi raises 464 to 584 and is all-in
+Lga75 calls 524
+MathisKcr folds
+*** FLOP *** [4s 4c 3h]
+*** TURN *** [4s 4c 3h][4h]
+*** RIVER *** [4s 4c 3h 4h][8h]
+*** SHOW DOWN ***
+Lga75 shows [Ts Js] (Trips of 4)
+Hakopopi shows [Kh Tc] (Trips of 4)
+Hakopopi collected 1288 from pot
+*** SUMMARY ***
+Total pot 1288 | No rake
+Board: [4s 4c 3h 4h 8h]
+Seat 3: Hakopopi (button) showed [Kh Tc] and won 1288 with Trips of 4
+Seat 6: Lga75 (small blind) showed [Ts Js] and lost with Trips of 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #4349635967615762433-20-1762103215 - Holdem no limit (10/60/120) - 2025/11/02 17:06:55 UTC
+Table: 'Starting Block WiPT(1012728542)#0' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (1040)
+Seat 3: Hakopopi (1288)
+Seat 6: Lga75 (6672)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 10
+Hakopopi posts ante 10
+Lga75 posts ante 10
+MathisKcr posts small blind 60
+Hakopopi posts big blind 120
+Dealt to MathisKcr [Ad 3c]
+*** PRE-FLOP *** 
+Lga75 raises 120 to 240
+MathisKcr raises 790 to 1030 and is all-in
+Hakopopi raises 248 to 1278 and is all-in
+Lga75 raises 5384 to 6662 and is all-in
+*** FLOP *** [5d 2c 5s]
+*** TURN *** [5d 2c 5s][7d]
+*** RIVER *** [5d 2c 5s 7d][6d]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 3c] (One pair : 5)
+Hakopopi shows [Tc Qh] (One pair : 5)
+Lga75 shows [Kd Ac] (One pair : 5)
+Lga75 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Board: [5d 2c 5s 7d 6d]
+Seat 1: MathisKcr (small blind) showed [Ad 3c] and lost with One pair : 5
+Seat 3: Hakopopi (big blind) showed [Tc Qh] and lost with One pair : 5
+Seat 6: Lga75 (button) showed [Kd Ac] and won 9000 with One pair : 5
+
+

@@ -1,0 +1,70 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671396268684083201-1-1774902014 - Holdem no limit (10/20) - 2026/03/30 20:20:14 UTC
+Table: 'Expresso Nitro(1087644200)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kahlsse76 (300)
+Seat 2: MathisKcr (300)
+Seat 3: OVNI 40 (300)
+*** ANTE/BLINDS ***
+OVNI 40 posts small blind 10
+Kahlsse76 posts big blind 20
+Dealt to MathisKcr [8c Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+OVNI 40 calls 30
+Kahlsse76 calls 20
+*** FLOP *** [8s Qd Jc]
+OVNI 40 checks
+Kahlsse76 bets 42
+MathisKcr calls 42
+OVNI 40 calls 42
+*** TURN *** [8s Qd Jc][Ad]
+OVNI 40 checks
+Kahlsse76 checks
+MathisKcr checks
+*** RIVER *** [8s Qd Jc Ad][Ac]
+OVNI 40 checks
+Kahlsse76 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [8c Ks] (Two pairs : Aces and 8)
+OVNI 40 shows [Js 7h] (Two pairs : Aces and Jacks)
+Kahlsse76 shows [Th Qs] (Two pairs : Aces and Queens)
+Kahlsse76 collected 246 from pot
+*** SUMMARY ***
+Total pot 246 | No rake
+Board: [8s Qd Jc Ad Ac]
+Seat 1: Kahlsse76 (big blind) showed [Th Qs] and won 246 with Two pairs : Aces and Queens
+Seat 2: MathisKcr (button) showed [8c Ks] and lost with Two pairs : Aces and 8
+Seat 3: OVNI 40 (small blind) showed [Js 7h] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4671396268684083201-2-1774902095 - Holdem no limit (15/30) - 2026/03/30 20:21:35 UTC
+Table: 'Expresso Nitro(1087644200)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kahlsse76 (464)
+Seat 2: MathisKcr (218)
+Seat 3: OVNI 40 (218)
+*** ANTE/BLINDS ***
+Kahlsse76 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ac Td]
+*** PRE-FLOP *** 
+OVNI 40 calls 30
+Kahlsse76 raises 30 to 60
+MathisKcr raises 158 to 218 and is all-in
+OVNI 40 calls 188 and is all-in
+Kahlsse76 raises 246 to 464 and is all-in
+*** FLOP *** [Ts Jc 5d]
+*** TURN *** [Ts Jc 5d][8d]
+*** RIVER *** [Ts Jc 5d 8d][8h]
+*** SHOW DOWN ***
+MathisKcr shows [Ac Td] (Two pairs : Tens and 8)
+OVNI 40 shows [Kd 4d] (One pair : 8)
+Kahlsse76 shows [Jd Js] (Full of Jacks and 8)
+Kahlsse76 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ts Jc 5d 8d 8h]
+Seat 1: Kahlsse76 (small blind) showed [Jd Js] and won 900 with Full of Jacks and 8
+Seat 2: MathisKcr (big blind) showed [Ac Td] and lost with Two pairs : Tens and 8
+Seat 3: OVNI 40 (button) showed [Kd 4d] and lost with One pair : 8
+
+

@@ -1,0 +1,258 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603575823092416513-1-1772473190 - Holdem no limit (10/20) - 2026/03/02 17:39:50 UTC
+Table: 'Expresso Nitro(1071853522)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Christjp (300)
+Seat 2: MathisKcr (300)
+Seat 3: Ekios (300)
+*** ANTE/BLINDS ***
+Christjp posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8d 9h]
+*** PRE-FLOP *** 
+Ekios raises 20 to 40
+Christjp calls 30
+MathisKcr calls 20
+*** FLOP *** [6c Ah 7h]
+Christjp checks
+MathisKcr checks
+Ekios checks
+*** TURN *** [6c Ah 7h][4h]
+Christjp checks
+MathisKcr bets 42
+Ekios folds
+Christjp folds
+MathisKcr collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [6c Ah 7h 4h]
+Seat 2: MathisKcr (big blind) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603575823092416513-2-1772473219 - Holdem no limit (10/20) - 2026/03/02 17:40:19 UTC
+Table: 'Expresso Nitro(1071853522)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Christjp (260)
+Seat 2: MathisKcr (380)
+Seat 3: Ekios (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Ekios posts big blind 20
+Dealt to MathisKcr [7c Ks]
+*** PRE-FLOP *** 
+Christjp calls 20
+MathisKcr raises 20 to 40
+Ekios folds
+Christjp calls 20
+*** FLOP *** [6c Qs Kd]
+MathisKcr bets 40
+Christjp folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6c Qs Kd]
+Seat 2: MathisKcr (small blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603575823092416513-3-1772473235 - Holdem no limit (10/20) - 2026/03/02 17:40:35 UTC
+Table: 'Expresso Nitro(1071853522)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Christjp (220)
+Seat 2: MathisKcr (440)
+Seat 3: Ekios (240)
+*** ANTE/BLINDS ***
+Ekios posts small blind 10
+Christjp posts big blind 20
+Dealt to MathisKcr [9s 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Ekios raises 20 to 40
+Christjp calls 20
+*** FLOP *** [Qs Ac 4s]
+Ekios bets 30
+Christjp calls 30
+*** TURN *** [Qs Ac 4s][Td]
+Ekios bets 49
+Christjp calls 49
+*** RIVER *** [Qs Ac 4s Td][Jh]
+Ekios bets 121 and is all-in
+Christjp calls 101 and is all-in
+*** SHOW DOWN ***
+Christjp shows [7s Ad] (One pair : Aces)
+Ekios shows [9h Ah] (One pair : Aces)
+Ekios collected 240 from side pot 1
+Christjp collected 220 from main pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [Qs Ac 4s Td Jh]
+Seat 1: Christjp (big blind) showed [7s Ad] and won 220 with One pair : Aces
+Seat 3: Ekios (small blind) showed [9h Ah] and won 240 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4603575823092416513-4-1772473266 - Holdem no limit (15/30) - 2026/03/02 17:41:06 UTC
+Table: 'Expresso Nitro(1071853522)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Christjp (220)
+Seat 2: MathisKcr (440)
+Seat 3: Ekios (240)
+*** ANTE/BLINDS ***
+Christjp posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad Kd]
+*** PRE-FLOP *** 
+Ekios calls 30
+Christjp calls 15
+MathisKcr raises 410 to 440 and is all-in
+Ekios folds
+Christjp folds
+MathisKcr collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 2: MathisKcr (big blind) won 500
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4603575823092416513-5-1772473277 - Holdem no limit (15/30) - 2026/03/02 17:41:17 UTC
+Table: 'Expresso Nitro(1071853522)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Christjp (190)
+Seat 2: MathisKcr (500)
+Seat 3: Ekios (210)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Ekios posts big blind 30
+Dealt to MathisKcr [8h 5c]
+*** PRE-FLOP *** 
+Christjp folds
+MathisKcr calls 15
+Ekios checks
+*** FLOP *** [3d 6c 7h]
+MathisKcr bets 60
+Ekios raises 120 to 180 and is all-in
+MathisKcr calls 120
+*** TURN *** [3d 6c 7h][Th]
+*** RIVER *** [3d 6c 7h Th][6d]
+*** SHOW DOWN ***
+MathisKcr shows [8h 5c] (One pair : 6)
+Ekios shows [4d Kh] (One pair : 6)
+Ekios collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [3d 6c 7h Th 6d]
+Seat 2: MathisKcr (small blind) showed [8h 5c] and lost with One pair : 6
+Seat 3: Ekios (big blind) showed [4d Kh] and won 420 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4603575823092416513-6-1772473297 - Holdem no limit (15/30) - 2026/03/02 17:41:37 UTC
+Table: 'Expresso Nitro(1071853522)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Christjp (190)
+Seat 2: MathisKcr (290)
+Seat 3: Ekios (420)
+*** ANTE/BLINDS ***
+Ekios posts small blind 15
+Christjp posts big blind 30
+Dealt to MathisKcr [8d Jd]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Ekios folds
+Christjp raises 160 to 190 and is all-in
+MathisKcr folds
+Christjp collected 235 from pot
+*** SUMMARY ***
+Total pot 235 | No rake
+Seat 1: Christjp (big blind) won 235
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4603575823092416513-7-1772473307 - Holdem no limit (15/30) - 2026/03/02 17:41:47 UTC
+Table: 'Expresso Nitro(1071853522)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Christjp (235)
+Seat 2: MathisKcr (260)
+Seat 3: Ekios (405)
+*** ANTE/BLINDS ***
+Christjp posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad 9d]
+*** PRE-FLOP *** 
+Ekios folds
+Christjp raises 205 to 235 and is all-in
+MathisKcr calls 205
+*** FLOP *** [Th 5c 6h]
+*** TURN *** [Th 5c 6h][2h]
+*** RIVER *** [Th 5c 6h 2h][3h]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 9d] (High card : Ace)
+Christjp shows [Ah 7h] (Flush Ace high)
+Christjp collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [Th 5c 6h 2h 3h]
+Seat 1: Christjp (small blind) showed [Ah 7h] and won 470 with Flush Ace high
+Seat 2: MathisKcr (big blind) showed [Ad 9d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4603575823092416513-8-1772473321 - Holdem no limit (20/40) - 2026/03/02 17:42:01 UTC
+Table: 'Expresso Nitro(1071853522)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Christjp (470)
+Seat 2: MathisKcr (25)
+Seat 3: Ekios (405)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Ekios posts big blind 40
+Dealt to MathisKcr [6s Ah]
+*** PRE-FLOP *** 
+Christjp raises 100 to 140
+MathisKcr calls 5 and is all-in
+Ekios folds
+*** FLOP *** [Qh Jd Kc]
+*** TURN *** [Qh Jd Kc][9s]
+*** RIVER *** [Qh Jd Kc 9s][Th]
+*** SHOW DOWN ***
+Christjp shows [Ts Kh] (Straight King high)
+MathisKcr shows [6s Ah] (Straight Ace high)
+MathisKcr collected 75 from main pot
+Christjp collected 130 from side pot 1
+*** SUMMARY ***
+Total pot 205 | No rake
+Board: [Qh Jd Kc 9s Th]
+Seat 1: Christjp (button) showed [Ts Kh] and won 130 with Straight King high
+Seat 2: MathisKcr (small blind) showed [6s Ah] and won 75 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4603575823092416513-9-1772473334 - Holdem no limit (20/40) - 2026/03/02 17:42:14 UTC
+Table: 'Expresso Nitro(1071853522)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Christjp (460)
+Seat 2: MathisKcr (75)
+Seat 3: Ekios (365)
+*** ANTE/BLINDS ***
+Ekios posts small blind 20
+Christjp posts big blind 40
+Dealt to MathisKcr [7h 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Ekios folds
+Christjp collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Christjp (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4603575823092416513-10-1772473338 - Holdem no limit (20/40) - 2026/03/02 17:42:18 UTC
+Table: 'Expresso Nitro(1071853522)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Christjp (480)
+Seat 2: MathisKcr (75)
+Seat 3: Ekios (345)
+*** ANTE/BLINDS ***
+Christjp posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5d 2s]
+*** PRE-FLOP *** 
+Ekios folds
+Christjp raises 40 to 80
+MathisKcr calls 35 and is all-in
+*** FLOP *** [5s 6s 8d]
+*** TURN *** [5s 6s 8d][3h]
+*** RIVER *** [5s 6s 8d 3h][2d]
+*** SHOW DOWN ***
+MathisKcr shows [5d 2s] (Two pairs : 5 and 2)
+Christjp shows [4c Qh] (Straight 6 high)
+Christjp collected 155 from pot
+*** SUMMARY ***
+Total pot 155 | No rake
+Board: [5s 6s 8d 3h 2d]
+Seat 1: Christjp (small blind) showed [4c Qh] and won 155 with Straight 6 high
+Seat 2: MathisKcr (big blind) showed [5d 2s] and lost with Two pairs : 5 and 2
+
+

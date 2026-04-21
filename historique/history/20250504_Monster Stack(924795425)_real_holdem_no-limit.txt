@@ -1,0 +1,1463 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-1-1746352878 - Holdem no limit (120/500/1000) - 2025/05/04 10:01:18 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (100000)
+Seat 3: yodaMW (99880)
+Seat 5: wolf44360 (100000)
+*** ANTE/BLINDS ***
+wolf44360 posts ante 120
+MathisKcr posts ante 120
+yodaMW posts ante 120
+wolf44360 posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [5h Jc]
+*** PRE-FLOP *** 
+yodaMW raises 1000 to 2000
+wolf44360 folds
+MathisKcr calls 1000
+*** FLOP *** [Jd Th 7c]
+MathisKcr bets 3159
+yodaMW calls 3159
+*** TURN *** [Jd Th 7c][3s]
+MathisKcr bets 7266
+yodaMW calls 7266
+*** RIVER *** [Jd Th 7c 3s][4s]
+MathisKcr checks
+yodaMW checks
+*** SHOW DOWN ***
+yodaMW shows [Kc Qh] (High card : King)
+MathisKcr shows [5h Jc] (One pair : Jacks)
+MathisKcr collected 25710 from pot
+*** SUMMARY ***
+Total pot 25710 | No rake
+Board: [Jd Th 7c 3s 4s]
+Seat 2: MathisKcr (big blind) showed [5h Jc] and won 25710 with One pair : Jacks
+Seat 3: yodaMW (button) showed [Kc Qh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-2-1746352993 - Holdem no limit (120/500/1000) - 2025/05/04 10:03:13 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #5 is the button
+Seat 1: HelloJack (100000)
+Seat 2: MathisKcr (113165)
+Seat 3: yodaMW (87335)
+Seat 5: wolf44360 (99380)
+Seat 6: Apo Calypso (99880)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+yodaMW posts ante 120
+wolf44360 posts ante 120
+MathisKcr posts small blind 500
+yodaMW posts big blind 1000
+Dealt to MathisKcr [Qc Ts]
+*** PRE-FLOP *** 
+wolf44360 folds
+MathisKcr raises 2000 to 3000
+yodaMW folds
+MathisKcr collected 4360 from pot
+*** SUMMARY ***
+Total pot 4360 | No rake
+Seat 2: MathisKcr (small blind) won 4360
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-3-1746353013 - Holdem no limit (120/500/1000) - 2025/05/04 10:03:33 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #2 is the button
+Seat 1: HelloJack (100000)
+Seat 2: MathisKcr (114405)
+Seat 3: yodaMW (86215)
+Seat 5: wolf44360 (99260)
+Seat 6: Apo Calypso (99880)
+*** ANTE/BLINDS ***
+yodaMW posts ante 120
+wolf44360 posts ante 120
+HelloJack posts ante 120
+MathisKcr posts ante 120
+Apo Calypso posts ante 120
+yodaMW posts small blind 500
+wolf44360 posts big blind 1000
+Dealt to MathisKcr [Tc Qc]
+*** PRE-FLOP *** 
+Apo Calypso raises 1300 to 2300
+HelloJack folds
+MathisKcr calls 2300
+yodaMW folds
+wolf44360 folds
+*** FLOP *** [Ts Kh 5d]
+Apo Calypso checks
+MathisKcr bets 4355
+Apo Calypso folds
+MathisKcr collected 11055 from pot
+*** SUMMARY ***
+Total pot 11055 | No rake
+Board: [Ts Kh 5d]
+Seat 2: MathisKcr (button) won 11055
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-4-1746353057 - Holdem no limit (120/500/1000) - 2025/05/04 10:04:17 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #3 is the button
+Seat 1: HelloJack (99880)
+Seat 2: MathisKcr (118685)
+Seat 3: yodaMW (85595)
+Seat 4: IlIkIuaL (100000)
+Seat 5: wolf44360 (98140)
+Seat 6: Apo Calypso (97460)
+*** ANTE/BLINDS ***
+wolf44360 posts ante 120
+Apo Calypso posts ante 120
+HelloJack posts ante 120
+MathisKcr posts ante 120
+yodaMW posts ante 120
+wolf44360 posts small blind 500
+Apo Calypso posts big blind 1000
+Dealt to MathisKcr [8c 2s]
+*** PRE-FLOP *** 
+HelloJack raises 1500 to 2500
+MathisKcr folds
+yodaMW folds
+wolf44360 folds
+Apo Calypso folds
+HelloJack collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 1: HelloJack won 4600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-5-1746353078 - Holdem no limit (120/500/1000) - 2025/05/04 10:04:38 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #5 is the button
+Seat 1: HelloJack (101860)
+Seat 2: MathisKcr (118565)
+Seat 3: yodaMW (85475)
+Seat 4: IlIkIuaL (100000)
+Seat 5: wolf44360 (97520)
+Seat 6: Apo Calypso (96340)
+*** ANTE/BLINDS ***
+Apo Calypso posts ante 120
+HelloJack posts ante 120
+MathisKcr posts ante 120
+yodaMW posts ante 120
+IlIkIuaL posts ante 120
+wolf44360 posts ante 120
+Apo Calypso posts small blind 500
+HelloJack posts big blind 1000
+Dealt to MathisKcr [6d Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 1000 to 2000
+yodaMW folds
+IlIkIuaL folds
+wolf44360 folds
+Apo Calypso folds
+HelloJack calls 1000
+*** FLOP *** [5d Td Jc]
+HelloJack checks
+MathisKcr bets 3000
+HelloJack folds
+MathisKcr collected 8220 from pot
+*** SUMMARY ***
+Total pot 8220 | No rake
+Board: [5d Td Jc]
+Seat 2: MathisKcr won 8220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-6-1746353112 - Holdem no limit (120/500/1000) - 2025/05/04 10:05:12 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #6 is the button
+Seat 1: HelloJack (99740)
+Seat 2: MathisKcr (121665)
+Seat 3: yodaMW (85355)
+Seat 4: IlIkIuaL (99880)
+Seat 5: wolf44360 (97400)
+Seat 6: Apo Calypso (95720)
+*** ANTE/BLINDS ***
+HelloJack posts ante 120
+MathisKcr posts ante 120
+yodaMW posts ante 120
+IlIkIuaL posts ante 120
+wolf44360 posts ante 120
+Apo Calypso posts ante 120
+HelloJack posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [5c Tc]
+*** PRE-FLOP *** 
+yodaMW folds
+IlIkIuaL folds
+wolf44360 folds
+Apo Calypso folds
+HelloJack calls 500
+MathisKcr checks
+*** FLOP *** [6c 7c 3d]
+HelloJack checks
+MathisKcr bets 2000
+HelloJack calls 2000
+*** TURN *** [6c 7c 3d][4c]
+HelloJack checks
+MathisKcr bets 3000
+HelloJack calls 3000
+*** RIVER *** [6c 7c 3d 4c][2s]
+HelloJack checks
+MathisKcr bets 8268
+HelloJack folds
+MathisKcr collected 20988 from pot
+*** SUMMARY ***
+Total pot 20988 | No rake
+Board: [6c 7c 3d 4c 2s]
+Seat 2: MathisKcr (big blind) won 20988
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-7-1746353186 - Holdem no limit (120/500/1000) - 2025/05/04 10:06:26 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #1 is the button
+Seat 1: HelloJack (93620)
+Seat 2: MathisKcr (128265)
+Seat 3: yodaMW (85235)
+Seat 4: IlIkIuaL (99760)
+Seat 5: wolf44360 (97280)
+Seat 6: Apo Calypso (95600)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+yodaMW posts ante 120
+HelloJack posts ante 120
+IlIkIuaL posts ante 120
+wolf44360 posts ante 120
+Apo Calypso posts ante 120
+MathisKcr posts small blind 500
+yodaMW posts big blind 1000
+Dealt to MathisKcr [2s Jd]
+*** PRE-FLOP *** 
+IlIkIuaL folds
+wolf44360 folds
+Apo Calypso folds
+HelloJack folds
+MathisKcr calls 500
+yodaMW raises 2000 to 3000
+MathisKcr calls 2000
+*** FLOP *** [Ks Jh Tc]
+MathisKcr checks
+yodaMW bets 2852
+MathisKcr calls 2852
+*** TURN *** [Ks Jh Tc][9c]
+MathisKcr checks
+yodaMW checks
+*** RIVER *** [Ks Jh Tc 9c][5s]
+MathisKcr checks
+yodaMW checks
+*** SHOW DOWN ***
+MathisKcr shows [2s Jd] (One pair : Jacks)
+yodaMW shows [4c Kc] (One pair : Kings)
+yodaMW collected 12424 from pot
+*** SUMMARY ***
+Total pot 12424 | No rake
+Board: [Ks Jh Tc 9c 5s]
+Seat 2: MathisKcr (small blind) showed [2s Jd] and lost with One pair : Jacks
+Seat 3: yodaMW (big blind) showed [4c Kc] and won 12424 with One pair : Kings
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-8-1746353228 - Holdem no limit (120/500/1000) - 2025/05/04 10:07:08 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #2 is the button
+Seat 1: HelloJack (93500)
+Seat 2: MathisKcr (122293)
+Seat 3: yodaMW (91687)
+Seat 4: IlIkIuaL (99640)
+Seat 6: Apo Calypso (95480)
+*** ANTE/BLINDS ***
+yodaMW posts ante 120
+IlIkIuaL posts ante 120
+HelloJack posts ante 120
+MathisKcr posts ante 120
+Apo Calypso posts ante 120
+yodaMW posts small blind 500
+IlIkIuaL posts big blind 1000
+Dealt to MathisKcr [Qh 8s]
+*** PRE-FLOP *** 
+Apo Calypso folds
+HelloJack folds
+MathisKcr raises 1000 to 2000
+yodaMW folds
+IlIkIuaL calls 1000
+*** FLOP *** [5c 6c Ks]
+IlIkIuaL checks
+MathisKcr bets 2032
+IlIkIuaL calls 2032
+*** TURN *** [5c 6c Ks][9h]
+IlIkIuaL checks
+MathisKcr checks
+*** RIVER *** [5c 6c Ks 9h][7h]
+IlIkIuaL bets 95488 and is all-in
+MathisKcr calls 95488
+*** SHOW DOWN ***
+MathisKcr shows [Qh 8s] (Straight 9 high)
+IlIkIuaL shows [8h 4c] (Straight 9 high)
+IlIkIuaL collected 100070 from pot
+MathisKcr collected 100070 from pot
+*** SUMMARY ***
+Total pot 200140 | No rake
+Board: [5c 6c Ks 9h 7h]
+Seat 2: MathisKcr (button) showed [Qh 8s] and won 100070 with Straight 9 high
+Seat 4: IlIkIuaL (big blind) showed [8h 4c] and won 100070 with Straight 9 high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-9-1746353282 - Holdem no limit (120/500/1000) - 2025/05/04 10:08:02 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #3 is the button
+Seat 1: HelloJack (93380)
+Seat 2: MathisKcr (122723)
+Seat 3: yodaMW (91067)
+Seat 4: IlIkIuaL (100070)
+Seat 5: Full-AJA-89 (100000)
+Seat 6: Apo Calypso (95360)
+*** ANTE/BLINDS ***
+IlIkIuaL posts ante 120
+Full-AJA-89 posts ante 120
+HelloJack posts ante 120
+MathisKcr posts ante 120
+yodaMW posts ante 120
+Apo Calypso posts ante 120
+IlIkIuaL posts small blind 500
+Full-AJA-89 posts big blind 1000
+Dealt to MathisKcr [Ts Kd]
+*** PRE-FLOP *** 
+Apo Calypso raises 1300 to 2300
+HelloJack calls 2300
+MathisKcr calls 2300
+yodaMW folds
+IlIkIuaL calls 1800
+Full-AJA-89 folds
+*** FLOP *** [3c 4s 9h]
+IlIkIuaL checks
+Apo Calypso bets 3494
+HelloJack folds
+MathisKcr calls 3494
+IlIkIuaL folds
+*** TURN *** [3c 4s 9h][8c]
+Apo Calypso bets 12177
+MathisKcr folds
+Apo Calypso collected 30085 from pot
+*** SUMMARY ***
+Total pot 30085 | No rake
+Board: [3c 4s 9h 8c]
+Seat 6: Apo Calypso won 30085
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-10-1746353336 - Holdem no limit (120/500/1000) - 2025/05/04 10:08:56 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #4 is the button
+Seat 1: HelloJack (90960)
+Seat 2: MathisKcr (116809)
+Seat 3: yodaMW (90947)
+Seat 4: IlIkIuaL (97650)
+Seat 5: Full-AJA-89 (98880)
+Seat 6: Apo Calypso (107354)
+*** ANTE/BLINDS ***
+Full-AJA-89 posts ante 120
+Apo Calypso posts ante 120
+HelloJack posts ante 120
+MathisKcr posts ante 120
+yodaMW posts ante 120
+IlIkIuaL posts ante 120
+Full-AJA-89 posts small blind 500
+Apo Calypso posts big blind 1000
+Dealt to MathisKcr [8h 4d]
+*** PRE-FLOP *** 
+HelloJack folds
+MathisKcr folds
+yodaMW folds
+IlIkIuaL raises 1100 to 2100
+Full-AJA-89 folds
+Apo Calypso folds
+IlIkIuaL collected 4320 from pot
+*** SUMMARY ***
+Total pot 4320 | No rake
+Seat 4: IlIkIuaL (button) won 4320
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-11-1746353365 - Holdem no limit (120/500/1000) - 2025/05/04 10:09:25 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #5 is the button
+Seat 1: HelloJack (90840)
+Seat 2: MathisKcr (116689)
+Seat 3: yodaMW (90827)
+Seat 4: IlIkIuaL (99750)
+Seat 5: Full-AJA-89 (98260)
+Seat 6: Apo Calypso (106234)
+*** ANTE/BLINDS ***
+Apo Calypso posts ante 120
+HelloJack posts ante 120
+MathisKcr posts ante 120
+yodaMW posts ante 120
+IlIkIuaL posts ante 120
+Full-AJA-89 posts ante 120
+Apo Calypso posts small blind 500
+HelloJack posts big blind 1000
+Dealt to MathisKcr [8d 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+yodaMW folds
+IlIkIuaL folds
+Full-AJA-89 folds
+Apo Calypso calls 500
+HelloJack checks
+*** FLOP *** [3d Ac 2c]
+Apo Calypso checks
+HelloJack checks
+*** TURN *** [3d Ac 2c][Kd]
+Apo Calypso checks
+HelloJack bets 1000
+Apo Calypso calls 1000
+*** RIVER *** [3d Ac 2c Kd][As]
+Apo Calypso checks
+HelloJack bets 3115
+Apo Calypso folds
+HelloJack collected 7835 from pot
+*** SUMMARY ***
+Total pot 7835 | No rake
+Board: [3d Ac 2c Kd As]
+Seat 1: HelloJack (big blind) won 7835
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-12-1746353451 - Holdem no limit (120/500/1000) - 2025/05/04 10:10:51 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #6 is the button
+Seat 1: HelloJack (93440)
+Seat 2: MathisKcr (116569)
+Seat 3: yodaMW (90707)
+Seat 4: IlIkIuaL (99630)
+Seat 5: Full-AJA-89 (98140)
+Seat 6: Apo Calypso (104114)
+*** ANTE/BLINDS ***
+HelloJack posts ante 120
+MathisKcr posts ante 120
+yodaMW posts ante 120
+IlIkIuaL posts ante 120
+Full-AJA-89 posts ante 120
+Apo Calypso posts ante 120
+HelloJack posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [4d 4s]
+*** PRE-FLOP *** 
+yodaMW folds
+IlIkIuaL folds
+Full-AJA-89 folds
+Apo Calypso folds
+HelloJack raises 2500 to 3500
+MathisKcr calls 2500
+*** FLOP *** [Qc As 7c]
+HelloJack checks
+MathisKcr bets 3860
+HelloJack calls 3860
+*** TURN *** [Qc As 7c][6d]
+HelloJack checks
+MathisKcr checks
+*** RIVER *** [Qc As 7c 6d][Td]
+HelloJack checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [4d 4s] (One pair : 4)
+HelloJack shows [2h Qd] (One pair : Queens)
+HelloJack collected 15440 from pot
+*** SUMMARY ***
+Total pot 15440 | No rake
+Board: [Qc As 7c 6d Td]
+Seat 1: HelloJack (small blind) showed [2h Qd] and won 15440 with One pair : Queens
+Seat 2: MathisKcr (big blind) showed [4d 4s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-13-1746353506 - Holdem no limit (120/500/1000) - 2025/05/04 10:11:46 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #1 is the button
+Seat 1: HelloJack (101400)
+Seat 2: MathisKcr (109089)
+Seat 3: yodaMW (90587)
+Seat 4: IlIkIuaL (99510)
+Seat 5: Full-AJA-89 (98020)
+Seat 6: Apo Calypso (103994)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+yodaMW posts ante 120
+HelloJack posts ante 120
+IlIkIuaL posts ante 120
+Full-AJA-89 posts ante 120
+Apo Calypso posts ante 120
+MathisKcr posts small blind 500
+yodaMW posts big blind 1000
+Dealt to MathisKcr [7h Jd]
+*** PRE-FLOP *** 
+IlIkIuaL folds
+Full-AJA-89 folds
+Apo Calypso folds
+HelloJack folds
+MathisKcr calls 500
+yodaMW checks
+*** FLOP *** [9h Qs 3d]
+MathisKcr bets 1360
+yodaMW folds
+MathisKcr collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | No rake
+Board: [9h Qs 3d]
+Seat 2: MathisKcr (small blind) won 4080
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-14-1746353548 - Holdem no limit (120/500/1000) - 2025/05/04 10:12:28 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #2 is the button
+Seat 1: HelloJack (101280)
+Seat 2: MathisKcr (110689)
+Seat 3: yodaMW (89467)
+Seat 4: IlIkIuaL (99390)
+Seat 5: Full-AJA-89 (97900)
+Seat 6: Apo Calypso (103874)
+*** ANTE/BLINDS ***
+yodaMW posts ante 120
+IlIkIuaL posts ante 120
+HelloJack posts ante 120
+MathisKcr posts ante 120
+Full-AJA-89 posts ante 120
+Apo Calypso posts ante 120
+yodaMW posts small blind 500
+IlIkIuaL posts big blind 1000
+Dealt to MathisKcr [8d Jc]
+*** PRE-FLOP *** 
+Full-AJA-89 folds
+Apo Calypso raises 1300 to 2300
+HelloJack folds
+MathisKcr calls 2300
+yodaMW folds
+IlIkIuaL raises 8200 to 10500
+Apo Calypso folds
+MathisKcr folds
+IlIkIuaL collected 16320 from pot
+*** SUMMARY ***
+Total pot 16320 | No rake
+Seat 4: IlIkIuaL (big blind) won 16320
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-15-1746353601 - Holdem no limit (120/500/1000) - 2025/05/04 10:13:21 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #3 is the button
+Seat 1: HelloJack (101160)
+Seat 2: MathisKcr (108269)
+Seat 3: yodaMW (88847)
+Seat 4: IlIkIuaL (105090)
+Seat 5: Full-AJA-89 (97780)
+Seat 6: Apo Calypso (101454)
+*** ANTE/BLINDS ***
+IlIkIuaL posts ante 120
+Full-AJA-89 posts ante 120
+HelloJack posts ante 120
+MathisKcr posts ante 120
+yodaMW posts ante 120
+Apo Calypso posts ante 120
+IlIkIuaL posts small blind 500
+Full-AJA-89 posts big blind 1000
+Dealt to MathisKcr [Jc Jh]
+*** PRE-FLOP *** 
+Apo Calypso folds
+HelloJack folds
+MathisKcr raises 2000 to 3000
+yodaMW folds
+IlIkIuaL folds
+Full-AJA-89 calls 2000
+*** FLOP *** [Th Kh Ad]
+Full-AJA-89 checks
+MathisKcr bets 3610
+Full-AJA-89 calls 3610
+*** TURN *** [Th Kh Ad][Qd]
+Full-AJA-89 bets 6998
+MathisKcr calls 6998
+*** RIVER *** [Th Kh Ad Qd][8s]
+Full-AJA-89 bets 14796
+MathisKcr calls 14796
+*** SHOW DOWN ***
+Full-AJA-89 shows [5h 7h] (High card : Ace)
+MathisKcr shows [Jc Jh] (Straight Ace high)
+MathisKcr collected 58028 from pot
+*** SUMMARY ***
+Total pot 58028 | No rake
+Board: [Th Kh Ad Qd 8s]
+Seat 2: MathisKcr showed [Jc Jh] and won 58028 with Straight Ace high
+Seat 5: Full-AJA-89 (big blind) showed [5h 7h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420806-16-1746353668 - Holdem no limit (120/500/1000) - 2025/05/04 10:14:28 UTC
+Table: 'Monster Stack(924795425)#005' 6-max (real money) Seat #4 is the button
+Seat 1: HelloJack (101040)
+Seat 2: MathisKcr (137773)
+Seat 3: yodaMW (88727)
+Seat 4: IlIkIuaL (104470)
+Seat 5: Full-AJA-89 (69256)
+Seat 6: Apo Calypso (101334)
+*** ANTE/BLINDS ***
+Full-AJA-89 posts ante 120
+Apo Calypso posts ante 120
+HelloJack posts ante 120
+MathisKcr posts ante 120
+yodaMW posts ante 120
+IlIkIuaL posts ante 120
+Full-AJA-89 posts small blind 500
+Apo Calypso posts big blind 1000
+Dealt to MathisKcr [9d Kd]
+*** PRE-FLOP *** 
+HelloJack folds
+MathisKcr raises 1000 to 2000
+yodaMW folds
+IlIkIuaL calls 2000
+Full-AJA-89 folds
+Apo Calypso folds
+*** FLOP *** [3c 2d 8s]
+MathisKcr bets 3110
+IlIkIuaL raises 6998 to 10108
+MathisKcr calls 6998
+*** TURN *** [3c 2d 8s][Jd]
+MathisKcr checks
+IlIkIuaL bets 92242 and is all-in
+MathisKcr folds
+IlIkIuaL collected 118678 from pot
+*** SUMMARY ***
+Total pot 118678 | No rake
+Board: [3c 2d 8s Jd]
+Seat 4: IlIkIuaL (button) won 118678
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420809-1-1746353718 - Holdem no limit (120/500/1000) - 2025/05/04 10:15:18 UTC
+Table: 'Monster Stack(924795425)#008' 6-max (real money) Seat #3 is the button
+Seat 1: mumumumu24 (102587)
+Seat 3: baron 94 (100000)
+Seat 6: MathisKcr (125545)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+mumumumu24 posts ante 120
+baron 94 posts ante 120
+MathisKcr posts small blind 500
+mumumumu24 posts big blind 1000
+Dealt to MathisKcr [7c 6s]
+*** PRE-FLOP *** 
+baron 94 folds
+MathisKcr calls 500
+mumumumu24 raises 2360 to 3360
+MathisKcr calls 2360
+*** FLOP *** [Ac 2h 3s]
+MathisKcr checks
+mumumumu24 bets 4602
+MathisKcr folds
+mumumumu24 collected 11682 from pot
+*** SUMMARY ***
+Total pot 11682 | No rake
+Board: [Ac 2h 3s]
+Seat 1: mumumumu24 (big blind) won 11682
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420809-2-1746353736 - Holdem no limit (120/500/1000) - 2025/05/04 10:15:36 UTC
+Table: 'Monster Stack(924795425)#008' 6-max (real money) Seat #6 is the button
+Seat 1: mumumumu24 (106187)
+Seat 3: baron 94 (99880)
+Seat 4: BM Matador45 (123925)
+Seat 5: CubaNQQs (103120)
+Seat 6: MathisKcr (122065)
+*** ANTE/BLINDS ***
+mumumumu24 posts ante 120
+baron 94 posts ante 120
+BM Matador45 posts ante 120
+CubaNQQs posts ante 120
+MathisKcr posts ante 120
+mumumumu24 posts small blind 500
+baron 94 posts big blind 1000
+Dealt to MathisKcr [6h Qs]
+*** PRE-FLOP *** 
+BM Matador45 calls 1000
+CubaNQQs folds
+MathisKcr calls 1000
+mumumumu24 folds
+baron 94 checks
+*** FLOP *** [Qd 5h Tc]
+baron 94 checks
+BM Matador45 checks
+MathisKcr bets 2050
+baron 94 folds
+BM Matador45 folds
+MathisKcr collected 6150 from pot
+*** SUMMARY ***
+Total pot 6150 | No rake
+Board: [Qd 5h Tc]
+Seat 6: MathisKcr (button) won 6150
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420809-3-1746353782 - Holdem no limit (120/500/1000) - 2025/05/04 10:16:22 UTC
+Table: 'Monster Stack(924795425)#008' 6-max (real money) Seat #1 is the button
+Seat 1: mumumumu24 (105567)
+Seat 3: baron 94 (98760)
+Seat 4: BM Matador45 (122805)
+Seat 5: CubaNQQs (103000)
+Seat 6: MathisKcr (125045)
+*** ANTE/BLINDS ***
+baron 94 posts ante 120
+BM Matador45 posts ante 120
+mumumumu24 posts ante 120
+CubaNQQs posts ante 120
+MathisKcr posts ante 120
+baron 94 posts small blind 500
+BM Matador45 posts big blind 1000
+Dealt to MathisKcr [Jh 9c]
+*** PRE-FLOP *** 
+CubaNQQs folds
+MathisKcr raises 1000 to 2000
+mumumumu24 calls 2000
+baron 94 calls 1500
+BM Matador45 folds
+*** FLOP *** [3h 9d Td]
+baron 94 checks
+MathisKcr bets 2660
+mumumumu24 folds
+baron 94 calls 2660
+*** TURN *** [3h 9d Td][5c]
+baron 94 checks
+MathisKcr bets 4522
+baron 94 calls 4522
+*** RIVER *** [3h 9d Td 5c][5d]
+baron 94 checks
+MathisKcr checks
+*** SHOW DOWN ***
+baron 94 shows [Ad 2s] (One pair : 5)
+MathisKcr shows [Jh 9c] (Two pairs : 9 and 5)
+MathisKcr collected 21964 from pot
+*** SUMMARY ***
+Total pot 21964 | No rake
+Board: [3h 9d Td 5c 5d]
+Seat 3: baron 94 (small blind) showed [Ad 2s] and lost with One pair : 5
+Seat 6: MathisKcr showed [Jh 9c] and won 21964 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420809-4-1746353823 - Holdem no limit (120/500/1000) - 2025/05/04 10:17:03 UTC
+Table: 'Monster Stack(924795425)#008' 6-max (real money) Seat #3 is the button
+Seat 1: mumumumu24 (103447)
+Seat 3: baron 94 (89458)
+Seat 4: BM Matador45 (121685)
+Seat 5: CubaNQQs (102880)
+Seat 6: MathisKcr (137707)
+*** ANTE/BLINDS ***
+BM Matador45 posts ante 120
+CubaNQQs posts ante 120
+mumumumu24 posts ante 120
+baron 94 posts ante 120
+MathisKcr posts ante 120
+BM Matador45 posts small blind 500
+CubaNQQs posts big blind 1000
+Dealt to MathisKcr [5h 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+mumumumu24 raises 3100 to 4100
+baron 94 folds
+BM Matador45 folds
+CubaNQQs folds
+mumumumu24 collected 6200 from pot
+*** SUMMARY ***
+Total pot 6200 | No rake
+Seat 1: mumumumu24 won 6200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420809-5-1746353850 - Holdem no limit (120/500/1000) - 2025/05/04 10:17:30 UTC
+Table: 'Monster Stack(924795425)#008' 6-max (real money) Seat #4 is the button
+Seat 1: mumumumu24 (105427)
+Seat 3: baron 94 (89338)
+Seat 4: BM Matador45 (121065)
+Seat 5: CubaNQQs (101760)
+Seat 6: MathisKcr (137587)
+*** ANTE/BLINDS ***
+CubaNQQs posts ante 120
+MathisKcr posts ante 120
+mumumumu24 posts ante 120
+baron 94 posts ante 120
+BM Matador45 posts ante 120
+CubaNQQs posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [Qd 6d]
+*** PRE-FLOP *** 
+mumumumu24 folds
+baron 94 raises 1000 to 2000
+BM Matador45 folds
+CubaNQQs folds
+MathisKcr raises 1000 to 3000
+baron 94 calls 1000
+*** FLOP *** [9c Th 7c]
+MathisKcr checks
+baron 94 bets 7100
+MathisKcr calls 7100
+*** TURN *** [9c Th 7c][Jc]
+MathisKcr checks
+baron 94 bets 7455
+MathisKcr calls 7455
+*** RIVER *** [9c Th 7c Jc][Kd]
+MathisKcr checks
+baron 94 checks
+*** SHOW DOWN ***
+baron 94 shows [As Tc] (One pair : Tens)
+MathisKcr shows [Qd 6d] (Straight King high)
+MathisKcr collected 36210 from pot
+*** SUMMARY ***
+Total pot 36210 | No rake
+Board: [9c Th 7c Jc Kd]
+Seat 3: baron 94 showed [As Tc] and lost with One pair : Tens
+Seat 6: MathisKcr (big blind) showed [Qd 6d] and won 36210 with Straight King high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420809-6-1746353907 - Holdem no limit (120/500/1000) - 2025/05/04 10:18:27 UTC
+Table: 'Monster Stack(924795425)#008' 6-max (real money) Seat #5 is the button
+Seat 1: mumumumu24 (105307)
+Seat 2: ad2504 (100000)
+Seat 3: baron 94 (71663)
+Seat 4: BM Matador45 (120945)
+Seat 5: CubaNQQs (101140)
+Seat 6: MathisKcr (156122)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+mumumumu24 posts ante 120
+ad2504 posts ante 120
+baron 94 posts ante 120
+BM Matador45 posts ante 120
+CubaNQQs posts ante 120
+MathisKcr posts small blind 500
+mumumumu24 posts big blind 1000
+Dealt to MathisKcr [Ks 2c]
+*** PRE-FLOP *** 
+ad2504 calls 1000
+baron 94 folds
+BM Matador45 calls 1000
+CubaNQQs folds
+MathisKcr calls 500
+mumumumu24 checks
+*** FLOP *** [2h 9c 7s]
+MathisKcr checks
+mumumumu24 checks
+ad2504 bets 3068
+BM Matador45 raises 5983 to 9051
+MathisKcr folds
+mumumumu24 folds
+ad2504 calls 5983
+*** TURN *** [2h 9c 7s][6s]
+ad2504 checks
+BM Matador45 bets 22822
+ad2504 folds
+BM Matador45 collected 45644 from pot
+*** SUMMARY ***
+Total pot 45644 | No rake
+Board: [2h 9c 7s 6s]
+Seat 4: BM Matador45 won 45644
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420809-7-1746353987 - Holdem no limit (120/500/1000) - 2025/05/04 10:19:47 UTC
+Table: 'Monster Stack(924795425)#008' 6-max (real money) Seat #6 is the button
+Seat 1: mumumumu24 (104187)
+Seat 2: ad2504 (89829)
+Seat 3: baron 94 (71543)
+Seat 4: BM Matador45 (133596)
+Seat 5: CubaNQQs (101020)
+Seat 6: MathisKcr (155002)
+*** ANTE/BLINDS ***
+mumumumu24 posts ante 120
+ad2504 posts ante 120
+baron 94 posts ante 120
+BM Matador45 posts ante 120
+CubaNQQs posts ante 120
+MathisKcr posts ante 120
+mumumumu24 posts small blind 500
+ad2504 posts big blind 1000
+Dealt to MathisKcr [Qd Ts]
+*** PRE-FLOP *** 
+baron 94 raises 1500 to 2500
+BM Matador45 calls 2500
+CubaNQQs folds
+MathisKcr raises 1500 to 4000
+mumumumu24 calls 3500
+ad2504 folds
+baron 94 calls 1500
+BM Matador45 calls 1500
+*** FLOP *** [5c 9c 7s]
+mumumumu24 checks
+baron 94 bets 6202
+BM Matador45 folds
+MathisKcr calls 6202
+mumumumu24 raises 93865 to 100067 and is all-in
+baron 94 folds
+MathisKcr folds
+mumumumu24 collected 130191 from pot
+*** SUMMARY ***
+Total pot 130191 | No rake
+Board: [5c 9c 7s]
+Seat 1: mumumumu24 (small blind) won 130191
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420809-8-1746354033 - Holdem no limit (120/500/1000) - 2025/05/04 10:20:33 UTC
+Table: 'Monster Stack(924795425)#008' 6-max (real money) Seat #1 is the button
+Seat 1: mumumumu24 (130191)
+Seat 2: ad2504 (88709)
+Seat 3: baron 94 (61221)
+Seat 4: BM Matador45 (129476)
+Seat 5: CubaNQQs (100900)
+Seat 6: MathisKcr (144680)
+*** ANTE/BLINDS ***
+ad2504 posts ante 120
+baron 94 posts ante 120
+mumumumu24 posts ante 120
+BM Matador45 posts ante 120
+CubaNQQs posts ante 120
+MathisKcr posts ante 120
+ad2504 posts small blind 500
+baron 94 posts big blind 1000
+Dealt to MathisKcr [7c 4h]
+*** PRE-FLOP *** 
+BM Matador45 calls 1000
+CubaNQQs raises 2500 to 3500
+MathisKcr folds
+mumumumu24 folds
+ad2504 calls 3000
+baron 94 raises 7000 to 10500
+BM Matador45 folds
+CubaNQQs folds
+ad2504 calls 7000
+*** FLOP *** [Jc 3s Kd]
+ad2504 checks
+baron 94 bets 50601 and is all-in
+ad2504 folds
+baron 94 collected 76821 from pot
+*** SUMMARY ***
+Total pot 76821 | No rake
+Board: [Jc 3s Kd]
+Seat 3: baron 94 (big blind) won 76821
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420809-9-1746354083 - Holdem no limit (120/500/1000) - 2025/05/04 10:21:23 UTC
+Table: 'Monster Stack(924795425)#008' 6-max (real money) Seat #2 is the button
+Seat 1: mumumumu24 (130071)
+Seat 2: ad2504 (78089)
+Seat 3: baron 94 (76821)
+Seat 4: BM Matador45 (128356)
+Seat 5: CubaNQQs (97280)
+Seat 6: MathisKcr (144560)
+*** ANTE/BLINDS ***
+baron 94 posts ante 120
+BM Matador45 posts ante 120
+mumumumu24 posts ante 120
+ad2504 posts ante 120
+CubaNQQs posts ante 120
+MathisKcr posts ante 120
+baron 94 posts small blind 500
+BM Matador45 posts big blind 1000
+Dealt to MathisKcr [2d Ah]
+*** PRE-FLOP *** 
+CubaNQQs folds
+MathisKcr calls 1000
+mumumumu24 folds
+ad2504 folds
+baron 94 raises 1000 to 2000
+BM Matador45 calls 1000
+MathisKcr calls 1000
+*** FLOP *** [Kd 7s 7h]
+baron 94 bets 4368
+BM Matador45 folds
+MathisKcr folds
+baron 94 collected 11088 from pot
+*** SUMMARY ***
+Total pot 11088 | No rake
+Board: [Kd 7s 7h]
+Seat 3: baron 94 (small blind) won 11088
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-2-1746354119 - Holdem no limit (120/500/1000) - 2025/05/04 10:21:59 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #3 is the button
+Seat 1: Darkmide (101730)
+Seat 2: GB18 (440780)
+Seat 3: francescoco (80759)
+Seat 5: zayanis (96020)
+Seat 6: MathisKcr (142440)
+*** ANTE/BLINDS ***
+zayanis posts ante 120
+MathisKcr posts ante 120
+Darkmide posts ante 120
+GB18 posts ante 120
+francescoco posts ante 120
+zayanis posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [Jd 4s]
+*** PRE-FLOP *** 
+Darkmide folds
+GB18 calls 1000
+francescoco raises 1500 to 2500
+zayanis calls 2000
+MathisKcr calls 1500
+GB18 calls 1500
+*** FLOP *** [2h 6d Ks]
+zayanis checks
+MathisKcr checks
+GB18 checks
+francescoco bets 10600
+zayanis calls 10600
+MathisKcr folds
+GB18 folds
+*** TURN *** [2h 6d Ks][3d]
+zayanis checks
+francescoco bets 20670
+zayanis calls 20670
+*** RIVER *** [2h 6d Ks 3d][7c]
+zayanis checks
+francescoco checks
+*** SHOW DOWN ***
+zayanis shows [Kd Jh] (One pair : Kings)
+francescoco shows [Qs Kh] (One pair : Kings)
+francescoco collected 73140 from pot
+*** SUMMARY ***
+Total pot 73140 | No rake
+Board: [2h 6d Ks 3d 7c]
+Seat 3: francescoco (button) showed [Qs Kh] and won 73140 with One pair : Kings
+Seat 5: zayanis (small blind) showed [Kd Jh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-3-1746354195 - Holdem no limit (120/500/1000) - 2025/05/04 10:23:15 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #5 is the button
+Seat 1: Darkmide (101610)
+Seat 2: GB18 (438160)
+Seat 3: francescoco (120009)
+Seat 5: zayanis (62130)
+Seat 6: MathisKcr (139820)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Darkmide posts ante 120
+GB18 posts ante 120
+francescoco posts ante 120
+zayanis posts ante 120
+MathisKcr posts small blind 500
+Darkmide posts big blind 1000
+Dealt to MathisKcr [Jc 3h]
+*** PRE-FLOP *** 
+GB18 calls 1000
+francescoco calls 1000
+zayanis calls 1000
+MathisKcr calls 500
+Darkmide checks
+*** FLOP *** [Js 8s 6d]
+MathisKcr bets 2800
+Darkmide calls 2800
+GB18 folds
+francescoco folds
+zayanis folds
+*** TURN *** [Js 8s 6d][2h]
+MathisKcr bets 5600
+Darkmide folds
+MathisKcr collected 16800 from pot
+*** SUMMARY ***
+Total pot 16800 | No rake
+Board: [Js 8s 6d 2h]
+Seat 6: MathisKcr (small blind) won 16800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-4-1746354273 - Holdem no limit (120/500/1000) - 2025/05/04 10:24:33 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #6 is the button
+Seat 1: Darkmide (97690)
+Seat 2: GB18 (437040)
+Seat 3: francescoco (118889)
+Seat 4: Gpa1rOn (100000)
+Seat 5: zayanis (61010)
+Seat 6: MathisKcr (147100)
+*** ANTE/BLINDS ***
+Darkmide posts ante 120
+GB18 posts ante 120
+francescoco posts ante 120
+Gpa1rOn posts ante 120
+zayanis posts ante 120
+MathisKcr posts ante 120
+Darkmide posts small blind 500
+GB18 posts big blind 1000
+Dealt to MathisKcr [7d 2h]
+*** PRE-FLOP *** 
+francescoco calls 1000
+Gpa1rOn calls 1000
+zayanis folds
+MathisKcr calls 1000
+Darkmide folds
+GB18 checks
+*** FLOP *** [8d 6h 8s]
+GB18 checks
+francescoco checks
+Gpa1rOn checks
+MathisKcr checks
+*** TURN *** [8d 6h 8s][4d]
+GB18 bets 3393
+francescoco folds
+Gpa1rOn folds
+MathisKcr folds
+GB18 collected 8613 from pot
+*** SUMMARY ***
+Total pot 8613 | No rake
+Board: [8d 6h 8s 4d]
+Seat 2: GB18 (big blind) won 8613
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-5-1746354317 - Holdem no limit (120/500/1000) - 2025/05/04 10:25:17 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #1 is the button
+Seat 1: Darkmide (97070)
+Seat 2: GB18 (441140)
+Seat 3: francescoco (117769)
+Seat 4: Gpa1rOn (98880)
+Seat 5: zayanis (60890)
+Seat 6: MathisKcr (145980)
+*** ANTE/BLINDS ***
+GB18 posts ante 120
+francescoco posts ante 120
+Darkmide posts ante 120
+Gpa1rOn posts ante 120
+zayanis posts ante 120
+MathisKcr posts ante 120
+GB18 posts small blind 500
+francescoco posts big blind 1000
+Dealt to MathisKcr [6d 4d]
+*** PRE-FLOP *** 
+Gpa1rOn folds
+zayanis folds
+MathisKcr folds
+Darkmide folds
+GB18 folds
+francescoco collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 3: francescoco (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-6-1746354342 - Holdem no limit (120/500/1000) - 2025/05/04 10:25:42 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #2 is the button
+Seat 1: Darkmide (96950)
+Seat 2: GB18 (440520)
+Seat 3: francescoco (118869)
+Seat 4: Gpa1rOn (98760)
+Seat 5: zayanis (60770)
+Seat 6: MathisKcr (145860)
+*** ANTE/BLINDS ***
+francescoco posts ante 120
+Gpa1rOn posts ante 120
+Darkmide posts ante 120
+GB18 posts ante 120
+zayanis posts ante 120
+MathisKcr posts ante 120
+francescoco posts small blind 500
+Gpa1rOn posts big blind 1000
+Dealt to MathisKcr [3c 6h]
+*** PRE-FLOP *** 
+zayanis raises 1000 to 2000
+MathisKcr folds
+Darkmide folds
+GB18 calls 2000
+francescoco calls 1500
+Gpa1rOn folds
+*** FLOP *** [5s Jc 3d]
+francescoco checks
+zayanis bets 2702
+GB18 folds
+francescoco folds
+zayanis collected 10422 from pot
+*** SUMMARY ***
+Total pot 10422 | No rake
+Board: [5s Jc 3d]
+Seat 5: zayanis won 10422
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-7-1746354409 - Holdem no limit (120/500/1000) - 2025/05/04 10:26:49 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #3 is the button
+Seat 1: Darkmide (96830)
+Seat 2: GB18 (438400)
+Seat 3: francescoco (116749)
+Seat 4: Gpa1rOn (97640)
+Seat 5: zayanis (66370)
+Seat 6: MathisKcr (145740)
+*** ANTE/BLINDS ***
+Gpa1rOn posts ante 120
+zayanis posts ante 120
+Darkmide posts ante 120
+GB18 posts ante 120
+francescoco posts ante 120
+MathisKcr posts ante 120
+Gpa1rOn posts small blind 500
+zayanis posts big blind 1000
+Dealt to MathisKcr [Jh 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 1000 to 2000
+Darkmide calls 2000
+GB18 calls 2000
+francescoco folds
+Gpa1rOn folds
+zayanis calls 1000
+*** FLOP *** [Ah 8c Qs]
+zayanis checks
+MathisKcr bets 3227
+Darkmide calls 3227
+GB18 calls 3227
+zayanis folds
+*** TURN *** [Ah 8c Qs][5s]
+MathisKcr checks
+Darkmide checks
+GB18 bets 6615
+MathisKcr folds
+Darkmide calls 6615
+*** RIVER *** [Ah 8c Qs 5s][Th]
+Darkmide checks
+GB18 checks
+*** SHOW DOWN ***
+GB18 shows [Ac 9c] (One pair : Aces)
+Darkmide shows [Tc As] (Two pairs : Aces and Tens)
+Darkmide collected 32131 from pot
+*** SUMMARY ***
+Total pot 32131 | No rake
+Board: [Ah 8c Qs 5s Th]
+Seat 1: Darkmide showed [Tc As] and won 32131 with Two pairs : Aces and Tens
+Seat 2: GB18 showed [Ac 9c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-8-1746354472 - Holdem no limit (120/500/1000) - 2025/05/04 10:27:52 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #4 is the button
+Seat 1: Darkmide (116999)
+Seat 2: GB18 (426438)
+Seat 3: francescoco (116629)
+Seat 4: Gpa1rOn (97020)
+Seat 5: zayanis (64250)
+Seat 6: MathisKcr (140393)
+*** ANTE/BLINDS ***
+zayanis posts ante 120
+MathisKcr posts ante 120
+Darkmide posts ante 120
+GB18 posts ante 120
+francescoco posts ante 120
+Gpa1rOn posts ante 120
+zayanis posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [7c 7s]
+*** PRE-FLOP *** 
+Darkmide folds
+GB18 raises 3220 to 4220
+francescoco folds
+Gpa1rOn calls 4220
+zayanis folds
+MathisKcr calls 3220
+*** FLOP *** [Tc 9c Th]
+MathisKcr checks
+GB18 bets 4858
+Gpa1rOn calls 4858
+MathisKcr calls 4858
+*** TURN *** [Tc 9c Th][3s]
+MathisKcr checks
+GB18 checks
+Gpa1rOn checks
+*** RIVER *** [Tc 9c Th 3s][3d]
+MathisKcr checks
+GB18 bets 9959
+Gpa1rOn folds
+MathisKcr calls 9959
+*** SHOW DOWN ***
+MathisKcr shows [7c 7s] (Two pairs : Tens and 7)
+GB18 shows [9s Jd] (Two pairs : Tens and 9)
+GB18 collected 48372 from pot
+*** SUMMARY ***
+Total pot 48372 | No rake
+Board: [Tc 9c Th 3s 3d]
+Seat 2: GB18 showed [9s Jd] and won 48372 with Two pairs : Tens and 9
+Seat 6: MathisKcr (big blind) showed [7c 7s] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-9-1746354530 - Holdem no limit (120/500/1000) - 2025/05/04 10:28:50 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #5 is the button
+Seat 1: Darkmide (116879)
+Seat 2: GB18 (455653)
+Seat 3: francescoco (116509)
+Seat 4: Gpa1rOn (87822)
+Seat 5: zayanis (63630)
+Seat 6: MathisKcr (121236)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Darkmide posts ante 120
+GB18 posts ante 120
+francescoco posts ante 120
+Gpa1rOn posts ante 120
+zayanis posts ante 120
+MathisKcr posts small blind 500
+Darkmide posts big blind 1000
+Dealt to MathisKcr [3h Jh]
+*** PRE-FLOP *** 
+GB18 folds
+francescoco folds
+Gpa1rOn folds
+zayanis folds
+MathisKcr calls 500
+Darkmide checks
+*** FLOP *** [8d 9s 5d]
+MathisKcr bets 1360
+Darkmide folds
+MathisKcr collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | No rake
+Board: [8d 9s 5d]
+Seat 6: MathisKcr (small blind) won 4080
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-10-1746354587 - Holdem no limit (120/500/1000) - 2025/05/04 10:29:47 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #6 is the button
+Seat 1: Darkmide (115759)
+Seat 2: GB18 (455533)
+Seat 3: francescoco (116389)
+Seat 4: Gpa1rOn (87702)
+Seat 5: zayanis (63510)
+Seat 6: MathisKcr (122836)
+*** ANTE/BLINDS ***
+Darkmide posts ante 120
+GB18 posts ante 120
+francescoco posts ante 120
+Gpa1rOn posts ante 120
+zayanis posts ante 120
+MathisKcr posts ante 120
+Darkmide posts small blind 500
+GB18 posts big blind 1000
+Dealt to MathisKcr [3s Ks]
+*** PRE-FLOP *** 
+francescoco calls 1000
+Gpa1rOn folds
+zayanis folds
+MathisKcr raises 1000 to 2000
+Darkmide folds
+GB18 calls 1000
+francescoco calls 1000
+*** FLOP *** [4s 8c 8h]
+GB18 checks
+francescoco checks
+MathisKcr checks
+*** TURN *** [4s 8c 8h][8d]
+GB18 bets 2527
+francescoco calls 2527
+MathisKcr calls 2527
+*** RIVER *** [4s 8c 8h 8d][9h]
+GB18 bets 5180
+francescoco raises 5439 to 10619
+MathisKcr folds
+GB18 folds
+francescoco collected 30600 from pot
+*** SUMMARY ***
+Total pot 30600 | No rake
+Board: [4s 8c 8h 8d 9h]
+Seat 3: francescoco won 30600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-11-1746354627 - Holdem no limit (120/500/1000) - 2025/05/04 10:30:27 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #1 is the button
+Seat 1: Darkmide (115139)
+Seat 2: GB18 (445706)
+Seat 3: francescoco (131723)
+Seat 4: Gpa1rOn (87582)
+Seat 5: zayanis (63390)
+Seat 6: MathisKcr (118189)
+*** ANTE/BLINDS ***
+GB18 posts ante 120
+francescoco posts ante 120
+Darkmide posts ante 120
+Gpa1rOn posts ante 120
+zayanis posts ante 120
+MathisKcr posts ante 120
+GB18 posts small blind 500
+francescoco posts big blind 1000
+Dealt to MathisKcr [Jd 6s]
+*** PRE-FLOP *** 
+Gpa1rOn calls 1000
+zayanis folds
+MathisKcr folds
+Darkmide folds
+GB18 folds
+francescoco checks
+*** FLOP *** [7c 7h Qh]
+francescoco checks
+Gpa1rOn checks
+*** TURN *** [7c 7h Qh][Tc]
+francescoco checks
+Gpa1rOn checks
+*** RIVER *** [7c 7h Qh Tc][Kc]
+francescoco checks
+Gpa1rOn checks
+*** SHOW DOWN ***
+francescoco shows [6h 5c] (One pair : 7)
+Gpa1rOn shows [As 8d] (One pair : 7)
+Gpa1rOn collected 3220 from pot
+*** SUMMARY ***
+Total pot 3220 | No rake
+Board: [7c 7h Qh Tc Kc]
+Seat 3: francescoco (big blind) showed [6h 5c] and lost with One pair : 7
+Seat 4: Gpa1rOn showed [As 8d] and won 3220 with One pair : 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-12-1746354675 - Holdem no limit (120/500/1000) - 2025/05/04 10:31:15 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #2 is the button
+Seat 1: Darkmide (115019)
+Seat 2: GB18 (445086)
+Seat 3: francescoco (130603)
+Seat 4: Gpa1rOn (89682)
+Seat 5: zayanis (63270)
+Seat 6: MathisKcr (118069)
+*** ANTE/BLINDS ***
+francescoco posts ante 120
+Gpa1rOn posts ante 120
+Darkmide posts ante 120
+GB18 posts ante 120
+zayanis posts ante 120
+MathisKcr posts ante 120
+francescoco posts small blind 500
+Gpa1rOn posts big blind 1000
+Dealt to MathisKcr [Qh 9s]
+*** PRE-FLOP *** 
+zayanis folds
+MathisKcr raises 2000 to 3000
+Darkmide folds
+GB18 calls 3000
+francescoco folds
+Gpa1rOn calls 2000
+*** FLOP *** [2d 5h 2s]
+Gpa1rOn checks
+MathisKcr checks
+GB18 bets 3577
+Gpa1rOn folds
+MathisKcr calls 3577
+*** TURN *** [2d 5h 2s][Ah]
+MathisKcr checks
+GB18 bets 6081
+MathisKcr folds
+GB18 collected 23455 from pot
+*** SUMMARY ***
+Total pot 23455 | No rake
+Board: [2d 5h 2s Ah]
+Seat 2: GB18 (button) won 23455
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3971966105865420810-13-1746354734 - Holdem no limit (120/500/1000) - 2025/05/04 10:32:14 UTC
+Table: 'Monster Stack(924795425)#009' 6-max (real money) Seat #3 is the button
+Seat 1: Darkmide (114899)
+Seat 2: GB18 (455763)
+Seat 3: francescoco (129983)
+Seat 4: Gpa1rOn (86562)
+Seat 5: zayanis (63150)
+Seat 6: MathisKcr (111372)
+*** ANTE/BLINDS ***
+Gpa1rOn posts ante 120
+zayanis posts ante 120
+Darkmide posts ante 120
+GB18 posts ante 120
+francescoco posts ante 120
+MathisKcr posts ante 120
+Gpa1rOn posts small blind 500
+zayanis posts big blind 1000
+Dealt to MathisKcr [Ac Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 2000 to 3000
+Darkmide folds
+GB18 calls 3000
+francescoco calls 3000
+Gpa1rOn folds
+zayanis calls 2000
+*** FLOP *** [Ts 7h 5d]
+zayanis checks
+MathisKcr bets 6610
+GB18 calls 6610
+francescoco folds
+zayanis folds
+*** TURN *** [Ts 7h 5d][7d]
+MathisKcr bets 9254
+GB18 raises 436779 to 446033 and is all-in
+MathisKcr calls 92388 and is all-in
+*** RIVER *** [Ts 7h 5d 7d][Ks]
+*** SHOW DOWN ***
+MathisKcr shows [Ac Qs] (One pair : 7)
+GB18 shows [6d 7c] (Trips of 7)
+GB18 collected 574115 from pot
+*** SUMMARY ***
+Total pot 574115 | No rake
+Board: [Ts 7h 5d 7d Ks]
+Seat 2: GB18 showed [6d 7c] and won 574115 with Trips of 7
+Seat 6: MathisKcr showed [Ac Qs] and lost with One pair : 7
+
+

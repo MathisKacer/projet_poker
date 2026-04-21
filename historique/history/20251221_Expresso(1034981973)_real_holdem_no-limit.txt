@@ -1,0 +1,39 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445213725984555009-1-1766312701 - Holdem no limit (10/20) - 2025/12/21 10:25:01 UTC
+Table: 'Expresso(1034981973)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Margotte _29 (500)
+Seat 2: MathisKcr (500)
+Seat 3: SoonyPoker (500)
+*** ANTE/BLINDS ***
+Margotte _29 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6d Jd]
+*** PRE-FLOP *** 
+SoonyPoker raises 30 to 50
+Margotte _29 calls 40
+MathisKcr calls 30
+*** FLOP *** [Qs Th 9c]
+Margotte _29 checks
+MathisKcr bets 40
+SoonyPoker calls 40
+Margotte _29 calls 40
+*** TURN *** [Qs Th 9c][9s]
+Margotte _29 checks
+MathisKcr checks
+SoonyPoker bets 176
+Margotte _29 folds
+MathisKcr calls 176
+*** RIVER *** [Qs Th 9c 9s][Ac]
+MathisKcr checks
+SoonyPoker bets 234 and is all-in
+MathisKcr calls 234 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [6d Jd] (One pair : 9)
+SoonyPoker shows [3s Kc] (One pair : 9)
+SoonyPoker collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | No rake
+Board: [Qs Th 9c 9s Ac]
+Seat 2: MathisKcr (big blind) showed [6d Jd] and lost with One pair : 9
+Seat 3: SoonyPoker (button) showed [3s Kc] and won 1090 with One pair : 9
+
+

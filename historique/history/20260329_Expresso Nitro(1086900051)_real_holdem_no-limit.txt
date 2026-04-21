@@ -1,0 +1,154 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668200173065732097-1-1774784367 - Holdem no limit (10/20) - 2026/03/29 11:39:27 UTC
+Table: 'Expresso Nitro(1086900051)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cuje (300)
+Seat 2: PAT-rio-TE (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+PAT-rio-TE posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Tc 8s]
+*** PRE-FLOP *** 
+Cuje folds
+PAT-rio-TE calls 10
+MathisKcr checks
+*** FLOP *** [Kd 4c 9c]
+PAT-rio-TE checks
+MathisKcr checks
+*** TURN *** [Kd 4c 9c][2c]
+PAT-rio-TE bets 40
+MathisKcr calls 40
+*** RIVER *** [Kd 4c 9c 2c][4h]
+PAT-rio-TE bets 120
+MathisKcr folds
+PAT-rio-TE collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Kd 4c 9c 2c 4h]
+Seat 2: PAT-rio-TE (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668200173065732097-2-1774784385 - Holdem no limit (10/20) - 2026/03/29 11:39:45 UTC
+Table: 'Expresso Nitro(1086900051)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cuje (300)
+Seat 2: PAT-rio-TE (360)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Cuje posts big blind 20
+Dealt to MathisKcr [5c Qd]
+*** PRE-FLOP *** 
+PAT-rio-TE raises 20 to 40
+MathisKcr folds
+Cuje calls 20
+*** FLOP *** [Ks 8h 9s]
+Cuje checks
+PAT-rio-TE bets 59
+Cuje folds
+PAT-rio-TE collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [Ks 8h 9s]
+Seat 2: PAT-rio-TE (button) won 149
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668200173065732097-3-1774784398 - Holdem no limit (10/20) - 2026/03/29 11:39:58 UTC
+Table: 'Expresso Nitro(1086900051)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cuje (260)
+Seat 2: PAT-rio-TE (410)
+Seat 3: MathisKcr (230)
+*** ANTE/BLINDS ***
+Cuje posts small blind 10
+PAT-rio-TE posts big blind 20
+Dealt to MathisKcr [7c Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Cuje calls 30
+PAT-rio-TE calls 20
+*** FLOP *** [Th 9h Ad]
+Cuje bets 78
+PAT-rio-TE calls 78
+MathisKcr raises 112 to 190 and is all-in
+Cuje folds
+PAT-rio-TE calls 112
+*** TURN *** [Th 9h Ad][5h]
+*** RIVER *** [Th 9h Ad 5h][5s]
+*** SHOW DOWN ***
+PAT-rio-TE shows [8d 7s] (One pair : 5)
+MathisKcr shows [7c Ac] (Two pairs : Aces and 5)
+MathisKcr collected 578 from pot
+*** SUMMARY ***
+Total pot 578 | No rake
+Board: [Th 9h Ad 5h 5s]
+Seat 2: PAT-rio-TE (big blind) showed [8d 7s] and lost with One pair : 5
+Seat 3: MathisKcr (button) showed [7c Ac] and won 578 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668200173065732097-4-1774784423 - Holdem no limit (10/20) - 2026/03/29 11:40:23 UTC
+Table: 'Expresso Nitro(1086900051)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cuje (142)
+Seat 2: PAT-rio-TE (180)
+Seat 3: MathisKcr (578)
+*** ANTE/BLINDS ***
+PAT-rio-TE posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d Ks]
+*** PRE-FLOP *** 
+Cuje raises 122 to 142 and is all-in
+PAT-rio-TE raises 38 to 180 and is all-in
+MathisKcr folds
+*** FLOP *** [6d Qd 6s]
+*** TURN *** [6d Qd 6s][9s]
+*** RIVER *** [6d Qd 6s 9s][3s]
+*** SHOW DOWN ***
+Cuje shows [Kh Th] (One pair : 6)
+PAT-rio-TE shows [Ad Kd] (One pair : 6)
+PAT-rio-TE collected 342 from pot
+*** SUMMARY ***
+Total pot 342 | No rake
+Board: [6d Qd 6s 9s 3s]
+Seat 1: Cuje (button) showed [Kh Th] and lost with One pair : 6
+Seat 2: PAT-rio-TE (small blind) showed [Ad Kd] and won 342 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668200173065732097-5-1774784438 - Holdem no limit (15/30) - 2026/03/29 11:40:38 UTC
+Table: 'Expresso Nitro(1086900051)#0' 3-max (real money) Seat #3 is the button
+Seat 2: PAT-rio-TE (342)
+Seat 3: MathisKcr (558)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+PAT-rio-TE posts big blind 30
+Dealt to MathisKcr [7c 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+PAT-rio-TE collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: PAT-rio-TE (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668200173065732097-6-1774784448 - Holdem no limit (15/30) - 2026/03/29 11:40:48 UTC
+Table: 'Expresso Nitro(1086900051)#0' 3-max (real money) Seat #2 is the button
+Seat 2: PAT-rio-TE (357)
+Seat 3: MathisKcr (543)
+*** ANTE/BLINDS ***
+PAT-rio-TE posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ac Jd]
+*** PRE-FLOP *** 
+PAT-rio-TE raises 30 to 60
+MathisKcr raises 483 to 543 and is all-in
+PAT-rio-TE calls 297 and is all-in
+*** FLOP *** [2d Ts 8d]
+*** TURN *** [2d Ts 8d][Qc]
+*** RIVER *** [2d Ts 8d Qc][8h]
+*** SHOW DOWN ***
+PAT-rio-TE shows [9c 7s] (One pair : 8)
+MathisKcr shows [Ac Jd] (One pair : 8)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d Ts 8d Qc 8h]
+Seat 2: PAT-rio-TE (small blind) (button) showed [9c 7s] and lost with One pair : 8
+Seat 3: MathisKcr (big blind) showed [Ac Jd] and won 900 with One pair : 8
+
+

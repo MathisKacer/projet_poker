@@ -1,0 +1,35 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4444356776929787905-1-1766265177 - Holdem no limit (10/20) - 2025/12/20 21:12:57 UTC
+Table: 'Expresso(1034782449)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pale22738973 (500)
+Seat 2: MathisKcr (500)
+Seat 3: Monty30 (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Monty30 posts big blind 20
+Dealt to MathisKcr [Ts 9c]
+*** PRE-FLOP *** 
+Pale22738973 folds
+MathisKcr raises 20 to 40
+Monty30 calls 20
+*** FLOP *** [7h Th 6c]
+MathisKcr bets 40
+Monty30 calls 40
+*** TURN *** [7h Th 6c][2d]
+MathisKcr bets 60
+Monty30 calls 60
+*** RIVER *** [7h Th 6c 2d][6h]
+MathisKcr checks
+Monty30 bets 280
+MathisKcr raises 80 to 360 and is all-in
+Monty30 calls 80 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [Ts 9c] (Two pairs : Tens and 6)
+Monty30 shows [Qh 5h] (Flush Queen high)
+Monty30 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [7h Th 6c 2d 6h]
+Seat 2: MathisKcr (small blind) showed [Ts 9c] and lost with Two pairs : Tens and 6
+Seat 3: Monty30 (big blind) showed [Qh 5h] and won 1000 with Flush Queen high
+
+

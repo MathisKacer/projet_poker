@@ -1,0 +1,119 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668042513406230529-1-1774778035 - Holdem no limit (10/20) - 2026/03/29 09:53:55 UTC
+Table: 'Expresso Nitro(1086863343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Crow69005 (300)
+Seat 2: Flavinat0r (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Flavinat0r posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7d 5d]
+*** PRE-FLOP *** 
+Crow69005 folds
+Flavinat0r calls 10
+MathisKcr checks
+*** FLOP *** [Js 5c 9c]
+Flavinat0r checks
+MathisKcr bets 30
+Flavinat0r folds
+MathisKcr collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Js 5c 9c]
+Seat 3: MathisKcr (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668042513406230529-2-1774778071 - Holdem no limit (10/20) - 2026/03/29 09:54:31 UTC
+Table: 'Expresso Nitro(1086863343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Crow69005 (300)
+Seat 2: Flavinat0r (280)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Crow69005 posts big blind 20
+Dealt to MathisKcr [2s 8s]
+*** PRE-FLOP *** 
+Flavinat0r folds
+MathisKcr folds
+Crow69005 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Crow69005 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668042513406230529-3-1774778076 - Holdem no limit (10/20) - 2026/03/29 09:54:36 UTC
+Table: 'Expresso Nitro(1086863343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Crow69005 (310)
+Seat 2: Flavinat0r (280)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+Crow69005 posts small blind 10
+Flavinat0r posts big blind 20
+Dealt to MathisKcr [Qd 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Crow69005 folds
+Flavinat0r collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Flavinat0r (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668042513406230529-4-1774778086 - Holdem no limit (10/20) - 2026/03/29 09:54:46 UTC
+Table: 'Expresso Nitro(1086863343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Crow69005 (300)
+Seat 2: Flavinat0r (290)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+Flavinat0r posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9h Tc]
+*** PRE-FLOP *** 
+Crow69005 folds
+Flavinat0r calls 10
+MathisKcr checks
+*** FLOP *** [7d 4h 9c]
+Flavinat0r bets 20
+MathisKcr calls 20
+*** TURN *** [7d 4h 9c][Qh]
+Flavinat0r bets 40
+MathisKcr raises 230 to 270 and is all-in
+Flavinat0r calls 210 and is all-in
+*** RIVER *** [7d 4h 9c Qh][Ks]
+*** SHOW DOWN ***
+Flavinat0r shows [7s 9s] (Two pairs : 9 and 7)
+MathisKcr shows [9h Tc] (One pair : 9)
+MathisKcr collected 20 from side pot 1
+Flavinat0r collected 580 from main pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7d 4h 9c Qh Ks]
+Seat 2: Flavinat0r (small blind) showed [7s 9s] and won 580 with Two pairs : 9 and 7
+Seat 3: MathisKcr (big blind) showed [9h Tc] and won 20 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668042513406230529-5-1774778144 - Holdem no limit (15/30) - 2026/03/29 09:55:44 UTC
+Table: 'Expresso Nitro(1086863343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Crow69005 (300)
+Seat 2: Flavinat0r (580)
+Seat 3: MathisKcr (20)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Crow69005 posts big blind 30
+Dealt to MathisKcr [3c 5h]
+*** PRE-FLOP *** 
+Flavinat0r folds
+MathisKcr calls 5 and is all-in
+*** FLOP *** [5d 2c 8s]
+*** TURN *** [5d 2c 8s][2d]
+*** RIVER *** [5d 2c 8s 2d][Js]
+*** SHOW DOWN ***
+MathisKcr shows [3c 5h] (Two pairs : 5 and 2)
+Crow69005 shows [9h Jc] (Two pairs : Jacks and 2)
+Crow69005 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [5d 2c 8s 2d Js]
+Seat 1: Crow69005 (big blind) showed [9h Jc] and won 50 with Two pairs : Jacks and 2
+Seat 3: MathisKcr (small blind) showed [3c 5h] and lost with Two pairs : 5 and 2
+
+

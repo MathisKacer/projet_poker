@@ -1,0 +1,367 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614494308563681281-1-1772904982 - Holdem no limit (10/20) - 2026/03/07 17:36:22 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Wu Masaro M (300)
+Seat 3: Criskiri (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Wu Masaro M posts big blind 20
+Dealt to MathisKcr [7d Ad]
+*** PRE-FLOP *** 
+Criskiri folds
+MathisKcr raises 40 to 60
+Wu Masaro M folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: MathisKcr (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614494308563681281-2-1772905004 - Holdem no limit (10/20) - 2026/03/07 17:36:44 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (320)
+Seat 2: Wu Masaro M (280)
+Seat 3: Criskiri (300)
+*** ANTE/BLINDS ***
+Wu Masaro M posts small blind 10
+Criskiri posts big blind 20
+Dealt to MathisKcr [6c 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Wu Masaro M raises 20 to 40
+Criskiri folds
+Wu Masaro M collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Wu Masaro M (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614494308563681281-3-1772905024 - Holdem no limit (10/20) - 2026/03/07 17:37:04 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (320)
+Seat 2: Wu Masaro M (300)
+Seat 3: Criskiri (280)
+*** ANTE/BLINDS ***
+Criskiri posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4s Td]
+*** PRE-FLOP *** 
+Wu Masaro M folds
+Criskiri folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614494308563681281-4-1772905030 - Holdem no limit (10/20) - 2026/03/07 17:37:10 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (330)
+Seat 2: Wu Masaro M (300)
+Seat 3: Criskiri (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Wu Masaro M posts big blind 20
+Dealt to MathisKcr [Jd 8d]
+*** PRE-FLOP *** 
+Criskiri folds
+MathisKcr raises 40 to 60
+Wu Masaro M calls 40
+*** FLOP *** [4d Ks 2d]
+MathisKcr bets 42
+Wu Masaro M folds
+MathisKcr collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [4d Ks 2d]
+Seat 1: MathisKcr (small blind) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4614494308563681281-5-1772905054 - Holdem no limit (15/30) - 2026/03/07 17:37:34 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (390)
+Seat 2: Wu Masaro M (240)
+Seat 3: Criskiri (270)
+*** ANTE/BLINDS ***
+Wu Masaro M posts small blind 15
+Criskiri posts big blind 30
+Dealt to MathisKcr [6s 5d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Wu Masaro M folds
+Criskiri collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Criskiri (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4614494308563681281-6-1772905060 - Holdem no limit (15/30) - 2026/03/07 17:37:40 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (390)
+Seat 2: Wu Masaro M (225)
+Seat 3: Criskiri (285)
+*** ANTE/BLINDS ***
+Criskiri posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jc Kc]
+*** PRE-FLOP *** 
+Wu Masaro M raises 195 to 225 and is all-in
+Criskiri folds
+MathisKcr calls 195
+*** FLOP *** [Td Qh Th]
+*** TURN *** [Td Qh Th][Ac]
+*** RIVER *** [Td Qh Th Ac][Js]
+*** SHOW DOWN ***
+MathisKcr shows [Jc Kc] (Straight Ace high)
+Wu Masaro M shows [Jh Kh] (Straight Ace high)
+Wu Masaro M collected 233 from pot
+MathisKcr collected 232 from pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Board: [Td Qh Th Ac Js]
+Seat 1: MathisKcr (big blind) showed [Jc Kc] and won 232 with Straight Ace high
+Seat 2: Wu Masaro M (button) showed [Jh Kh] and won 233 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4614494308563681281-7-1772905076 - Holdem no limit (15/30) - 2026/03/07 17:37:56 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (397)
+Seat 2: Wu Masaro M (233)
+Seat 3: Criskiri (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Wu Masaro M posts big blind 30
+Dealt to MathisKcr [3s Js]
+*** PRE-FLOP *** 
+Criskiri folds
+MathisKcr calls 15
+Wu Masaro M checks
+*** FLOP *** [9h Td 6s]
+MathisKcr bets 60
+Wu Masaro M folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9h Td 6s]
+Seat 1: MathisKcr (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4614494308563681281-8-1772905093 - Holdem no limit (15/30) - 2026/03/07 17:38:13 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (427)
+Seat 2: Wu Masaro M (203)
+Seat 3: Criskiri (270)
+*** ANTE/BLINDS ***
+Wu Masaro M posts small blind 15
+Criskiri posts big blind 30
+Dealt to MathisKcr [6c 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Wu Masaro M raises 173 to 203 and is all-in
+Criskiri folds
+Wu Masaro M collected 233 from pot
+*** SUMMARY ***
+Total pot 233 | No rake
+Seat 2: Wu Masaro M (small blind) won 233
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614494308563681281-9-1772905108 - Holdem no limit (20/40) - 2026/03/07 17:38:28 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (427)
+Seat 2: Wu Masaro M (233)
+Seat 3: Criskiri (240)
+*** ANTE/BLINDS ***
+Criskiri posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6s 9c]
+*** PRE-FLOP *** 
+Wu Masaro M folds
+Criskiri folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614494308563681281-10-1772905114 - Holdem no limit (20/40) - 2026/03/07 17:38:34 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (447)
+Seat 2: Wu Masaro M (233)
+Seat 3: Criskiri (220)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Wu Masaro M posts big blind 40
+Dealt to MathisKcr [7d Ad]
+*** PRE-FLOP *** 
+Criskiri folds
+MathisKcr raises 407 to 447 and is all-in
+Wu Masaro M calls 193 and is all-in
+*** FLOP *** [3d Ts Kd]
+*** TURN *** [3d Ts Kd][2d]
+*** RIVER *** [3d Ts Kd 2d][Qc]
+*** SHOW DOWN ***
+Wu Masaro M shows [7s As] (High card : Ace)
+MathisKcr shows [7d Ad] (Flush Ace high)
+MathisKcr collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [3d Ts Kd 2d Qc]
+Seat 1: MathisKcr (small blind) showed [7d Ad] and won 680 with Flush Ace high
+Seat 2: Wu Masaro M (big blind) showed [7s As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614494308563681281-11-1772905135 - Holdem no limit (20/40) - 2026/03/07 17:38:55 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (680)
+Seat 3: Criskiri (220)
+*** ANTE/BLINDS ***
+Criskiri posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kh 4h]
+*** PRE-FLOP *** 
+Criskiri raises 180 to 220 and is all-in
+MathisKcr folds
+Criskiri collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 3: Criskiri (small blind) (button) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614494308563681281-12-1772905145 - Holdem no limit (20/40) - 2026/03/07 17:39:05 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (640)
+Seat 3: Criskiri (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Criskiri posts big blind 40
+Dealt to MathisKcr [Ts 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Criskiri collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Criskiri (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614494308563681281-13-1772905152 - Holdem no limit (20/40) - 2026/03/07 17:39:12 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (620)
+Seat 3: Criskiri (280)
+*** ANTE/BLINDS ***
+Criskiri posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [2d 9s]
+*** PRE-FLOP *** 
+Criskiri folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614494308563681281-14-1772905163 - Holdem no limit (30/60) - 2026/03/07 17:39:23 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (640)
+Seat 3: Criskiri (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Criskiri posts big blind 60
+Dealt to MathisKcr [7d 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 580 to 640 and is all-in
+Criskiri folds
+MathisKcr collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 1: MathisKcr (small blind) (button) won 700
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614494308563681281-15-1772905174 - Holdem no limit (30/60) - 2026/03/07 17:39:34 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (700)
+Seat 3: Criskiri (200)
+*** ANTE/BLINDS ***
+Criskiri posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qs 4s]
+*** PRE-FLOP *** 
+Criskiri raises 140 to 200 and is all-in
+MathisKcr folds
+Criskiri collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 3: Criskiri (small blind) (button) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614494308563681281-16-1772905182 - Holdem no limit (30/60) - 2026/03/07 17:39:42 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (640)
+Seat 3: Criskiri (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Criskiri posts big blind 60
+Dealt to MathisKcr [Th 5h]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Criskiri checks
+*** FLOP *** [Kh 4c 9s]
+Criskiri checks
+MathisKcr checks
+*** TURN *** [Kh 4c 9s][2d]
+Criskiri checks
+MathisKcr checks
+*** RIVER *** [Kh 4c 9s 2d][Tc]
+Criskiri checks
+MathisKcr bets 580 and is all-in
+Criskiri folds
+MathisKcr collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [Kh 4c 9s 2d Tc]
+Seat 1: MathisKcr (small blind) (button) won 700
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4614494308563681281-17-1772905227 - Holdem no limit (40/80) - 2026/03/07 17:40:27 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (700)
+Seat 3: Criskiri (200)
+*** ANTE/BLINDS ***
+Criskiri posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Ad Qc]
+*** PRE-FLOP *** 
+Criskiri folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4614494308563681281-18-1772905234 - Holdem no limit (40/80) - 2026/03/07 17:40:34 UTC
+Table: 'Expresso Nitro(1074395680)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (740)
+Seat 3: Criskiri (160)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Criskiri posts big blind 80
+Dealt to MathisKcr [5c 8s]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+Criskiri checks
+*** FLOP *** [6s 7s 9d]
+Criskiri checks
+MathisKcr bets 80
+Criskiri calls 80 and is all-in
+*** TURN *** [6s 7s 9d][Tc]
+*** RIVER *** [6s 7s 9d Tc][Qc]
+*** SHOW DOWN ***
+Criskiri shows [2h Kd] (High card : King)
+MathisKcr shows [5c 8s] (Straight Ten high)
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [6s 7s 9d Tc Qc]
+Seat 1: MathisKcr (small blind) (button) showed [5c 8s] and won 320 with Straight Ten high
+Seat 3: Criskiri (big blind) showed [2h Kd] and lost with High card : King
+
+

@@ -1,0 +1,124 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677017247003181057-1-1775118784 - Holdem no limit (10/20) - 2026/04/02 08:33:04 UTC
+Table: 'Expresso Nitro(1088952936)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AceAce2A (300)
+Seat 2: poudrAKnon (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+poudrAKnon posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kc Ad]
+*** PRE-FLOP *** 
+AceAce2A raises 40 to 60
+poudrAKnon folds
+MathisKcr raises 240 to 300 and is all-in
+AceAce2A calls 240 and is all-in
+*** FLOP *** [8c Qc Ks]
+*** TURN *** [8c Qc Ks][4h]
+*** RIVER *** [8c Qc Ks 4h][3h]
+*** SHOW DOWN ***
+AceAce2A shows [Kd Th] (One pair : Kings)
+MathisKcr shows [Kc Ad] (One pair : Kings)
+MathisKcr collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [8c Qc Ks 4h 3h]
+Seat 1: AceAce2A (button) showed [Kd Th] and lost with One pair : Kings
+Seat 3: MathisKcr (big blind) showed [Kc Ad] and won 610 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677017247003181057-2-1775118804 - Holdem no limit (10/20) - 2026/04/02 08:33:24 UTC
+Table: 'Expresso Nitro(1088952936)#0' 3-max (real money) Seat #3 is the button
+Seat 2: poudrAKnon (290)
+Seat 3: MathisKcr (610)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+poudrAKnon posts big blind 20
+Dealt to MathisKcr [6h Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 590 to 610 and is all-in
+poudrAKnon folds
+MathisKcr collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 3: MathisKcr (small blind) (button) won 630
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677017247003181057-3-1775118814 - Holdem no limit (10/20) - 2026/04/02 08:33:34 UTC
+Table: 'Expresso Nitro(1088952936)#0' 3-max (real money) Seat #2 is the button
+Seat 2: poudrAKnon (270)
+Seat 3: MathisKcr (630)
+*** ANTE/BLINDS ***
+poudrAKnon posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 2c]
+*** PRE-FLOP *** 
+poudrAKnon raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [5d 4c 9h]
+MathisKcr checks
+poudrAKnon bets 52
+MathisKcr folds
+poudrAKnon collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [5d 4c 9h]
+Seat 2: poudrAKnon (small blind) (button) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677017247003181057-4-1775118841 - Holdem no limit (10/20) - 2026/04/02 08:34:01 UTC
+Table: 'Expresso Nitro(1088952936)#0' 3-max (real money) Seat #3 is the button
+Seat 2: poudrAKnon (310)
+Seat 3: MathisKcr (590)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+poudrAKnon posts big blind 20
+Dealt to MathisKcr [3c 8c]
+*** PRE-FLOP *** 
+MathisKcr folds
+poudrAKnon collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: poudrAKnon (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677017247003181057-5-1775118859 - Holdem no limit (15/30) - 2026/04/02 08:34:19 UTC
+Table: 'Expresso Nitro(1088952936)#0' 3-max (real money) Seat #2 is the button
+Seat 2: poudrAKnon (320)
+Seat 3: MathisKcr (580)
+*** ANTE/BLINDS ***
+poudrAKnon posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qh 6d]
+*** PRE-FLOP *** 
+poudrAKnon folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677017247003181057-6-1775118864 - Holdem no limit (15/30) - 2026/04/02 08:34:24 UTC
+Table: 'Expresso Nitro(1088952936)#0' 3-max (real money) Seat #3 is the button
+Seat 2: poudrAKnon (305)
+Seat 3: MathisKcr (595)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+poudrAKnon posts big blind 30
+Dealt to MathisKcr [As 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 565 to 595 and is all-in
+poudrAKnon calls 275 and is all-in
+*** FLOP *** [8h 9d 8s]
+*** TURN *** [8h 9d 8s][9c]
+*** RIVER *** [8h 9d 8s 9c][5h]
+*** SHOW DOWN ***
+poudrAKnon shows [Kd Js] (Two pairs : 9 and 8)
+MathisKcr shows [As 3s] (Two pairs : 9 and 8)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h 9d 8s 9c 5h]
+Seat 2: poudrAKnon (big blind) showed [Kd Js] and lost with Two pairs : 9 and 8
+Seat 3: MathisKcr (small blind) (button) showed [As 3s] and won 900 with Two pairs : 9 and 8
+
+

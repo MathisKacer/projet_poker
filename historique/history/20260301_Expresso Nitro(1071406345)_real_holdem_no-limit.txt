@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601655212501893121-1-1772395328 - Holdem no limit (10/20) - 2026/03/01 20:02:08 UTC
+Table: 'Expresso Nitro(1071406345)#0' 3-max (real money) Seat #3 is the button
+Seat 1: zzdomino (300)
+Seat 2: Copsy30 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+zzdomino posts small blind 10
+Copsy30 posts big blind 20
+Dealt to MathisKcr [4h 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+zzdomino raises 280 to 300 and is all-in
+Copsy30 folds
+zzdomino collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: zzdomino (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601655212501893121-2-1772395338 - Holdem no limit (10/20) - 2026/03/01 20:02:18 UTC
+Table: 'Expresso Nitro(1071406345)#0' 3-max (real money) Seat #1 is the button
+Seat 1: zzdomino (320)
+Seat 2: Copsy30 (280)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Copsy30 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd Kc]
+*** PRE-FLOP *** 
+zzdomino raises 300 to 320 and is all-in
+Copsy30 folds
+MathisKcr calls 280 and is all-in
+*** FLOP *** [3c 5s Ad]
+*** TURN *** [3c 5s Ad][Jc]
+*** RIVER *** [3c 5s Ad Jc][4h]
+*** SHOW DOWN ***
+MathisKcr shows [Kd Kc] (One pair : Kings)
+zzdomino shows [2c Ah] (Straight 5 high)
+zzdomino collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [3c 5s Ad Jc 4h]
+Seat 1: zzdomino (button) showed [2c Ah] and won 630 with Straight 5 high
+Seat 3: MathisKcr (big blind) showed [Kd Kc] and lost with One pair : Kings
+
+

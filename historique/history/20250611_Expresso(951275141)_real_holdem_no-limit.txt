@@ -1,0 +1,532 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4085695620092788737-1-1749675620 - Holdem no limit (10/20) - 2025/06/11 21:00:20 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #1 is the button
+Seat 1: doryphore27 (500)
+Seat 2: MathisKcr (500)
+Seat 3: 91Bill911 (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+91Bill911 posts big blind 20
+Dealt to MathisKcr [Ts 2s]
+*** PRE-FLOP *** 
+doryphore27 calls 20
+MathisKcr calls 10
+91Bill911 checks
+*** FLOP *** [7s 9h Jc]
+MathisKcr bets 40
+91Bill911 calls 40
+doryphore27 folds
+*** TURN *** [7s 9h Jc][Kc]
+MathisKcr checks
+91Bill911 bets 91
+MathisKcr calls 91
+*** RIVER *** [7s 9h Jc Kc][5h]
+MathisKcr checks
+91Bill911 bets 322
+MathisKcr folds
+91Bill911 collected 644 from pot
+*** SUMMARY ***
+Total pot 644 | No rake
+Board: [7s 9h Jc Kc 5h]
+Seat 3: 91Bill911 (big blind) won 644
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4085695620092788737-2-1749675654 - Holdem no limit (10/20) - 2025/06/11 21:00:54 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #2 is the button
+Seat 1: doryphore27 (480)
+Seat 2: MathisKcr (349)
+Seat 3: 91Bill911 (671)
+*** ANTE/BLINDS ***
+91Bill911 posts small blind 10
+doryphore27 posts big blind 20
+Dealt to MathisKcr [8s 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+91Bill911 folds
+doryphore27 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: doryphore27 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4085695620092788737-3-1749675660 - Holdem no limit (10/20) - 2025/06/11 21:01:00 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #3 is the button
+Seat 1: doryphore27 (490)
+Seat 2: MathisKcr (349)
+Seat 3: 91Bill911 (661)
+*** ANTE/BLINDS ***
+doryphore27 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d Jd]
+*** PRE-FLOP *** 
+91Bill911 folds
+doryphore27 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4085695620092788737-4-1749675680 - Holdem no limit (10/20) - 2025/06/11 21:01:20 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #1 is the button
+Seat 1: doryphore27 (480)
+Seat 2: MathisKcr (359)
+Seat 3: 91Bill911 (661)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+91Bill911 posts big blind 20
+Dealt to MathisKcr [Th 4c]
+*** PRE-FLOP *** 
+doryphore27 folds
+MathisKcr calls 10
+91Bill911 checks
+*** FLOP *** [5s 2c Qh]
+MathisKcr checks
+91Bill911 checks
+*** TURN *** [5s 2c Qh][7d]
+MathisKcr checks
+91Bill911 bets 26
+MathisKcr folds
+91Bill911 collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [5s 2c Qh 7d]
+Seat 3: 91Bill911 (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4085695620092788737-5-1749675701 - Holdem no limit (10/20) - 2025/06/11 21:01:41 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #2 is the button
+Seat 1: doryphore27 (480)
+Seat 2: MathisKcr (339)
+Seat 3: 91Bill911 (681)
+*** ANTE/BLINDS ***
+91Bill911 posts small blind 10
+doryphore27 posts big blind 20
+Dealt to MathisKcr [6d Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+91Bill911 calls 30
+doryphore27 calls 20
+*** FLOP *** [3h 5h 2h]
+91Bill911 checks
+doryphore27 bets 20
+MathisKcr calls 20
+91Bill911 folds
+*** TURN *** [3h 5h 2h][5s]
+doryphore27 checks
+MathisKcr checks
+*** RIVER *** [3h 5h 2h 5s][2c]
+doryphore27 checks
+MathisKcr checks
+*** SHOW DOWN ***
+doryphore27 shows [Td 9h] (Two pairs : 5 and 2)
+MathisKcr shows [6d Ks] (Two pairs : 5 and 2)
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [3h 5h 2h 5s 2c]
+Seat 1: doryphore27 (big blind) showed [Td 9h] and lost with Two pairs : 5 and 2
+Seat 2: MathisKcr (button) showed [6d Ks] and won 160 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4085695620092788737-6-1749675746 - Holdem no limit (15/30) - 2025/06/11 21:02:26 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #3 is the button
+Seat 1: doryphore27 (420)
+Seat 2: MathisKcr (439)
+Seat 3: 91Bill911 (641)
+*** ANTE/BLINDS ***
+doryphore27 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7d 6d]
+*** PRE-FLOP *** 
+91Bill911 calls 30
+doryphore27 calls 15
+MathisKcr checks
+*** FLOP *** [3d 8h 4s]
+doryphore27 checks
+MathisKcr bets 60
+91Bill911 calls 60
+doryphore27 folds
+*** TURN *** [3d 8h 4s][Ah]
+MathisKcr checks
+91Bill911 checks
+*** RIVER *** [3d 8h 4s Ah][3c]
+MathisKcr checks
+91Bill911 bets 137
+MathisKcr folds
+91Bill911 collected 347 from pot
+*** SUMMARY ***
+Total pot 347 | No rake
+Board: [3d 8h 4s Ah 3c]
+Seat 3: 91Bill911 (button) won 347
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4085695620092788737-7-1749675789 - Holdem no limit (15/30) - 2025/06/11 21:03:09 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #1 is the button
+Seat 1: doryphore27 (390)
+Seat 2: MathisKcr (349)
+Seat 3: 91Bill911 (761)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+91Bill911 posts big blind 30
+Dealt to MathisKcr [Th 9d]
+*** PRE-FLOP *** 
+doryphore27 folds
+MathisKcr calls 15
+91Bill911 checks
+*** FLOP *** [Ad 5s Qh]
+MathisKcr checks
+91Bill911 checks
+*** TURN *** [Ad 5s Qh][6d]
+MathisKcr checks
+91Bill911 checks
+*** RIVER *** [Ad 5s Qh 6d][6s]
+MathisKcr checks
+91Bill911 checks
+*** SHOW DOWN ***
+MathisKcr shows [Th 9d] (One pair : 6)
+91Bill911 shows [7s 5h] (Two pairs : 6 and 5)
+91Bill911 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ad 5s Qh 6d 6s]
+Seat 2: MathisKcr (small blind) showed [Th 9d] and lost with One pair : 6
+Seat 3: 91Bill911 (big blind) showed [7s 5h] and won 60 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4085695620092788737-8-1749675813 - Holdem no limit (20/40) - 2025/06/11 21:03:33 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #2 is the button
+Seat 1: doryphore27 (390)
+Seat 2: MathisKcr (319)
+Seat 3: 91Bill911 (791)
+*** ANTE/BLINDS ***
+91Bill911 posts small blind 20
+doryphore27 posts big blind 40
+Dealt to MathisKcr [7h 2d]
+*** PRE-FLOP *** 
+MathisKcr folds
+91Bill911 calls 20
+doryphore27 checks
+*** FLOP *** [3h Tc 8h]
+91Bill911 checks
+doryphore27 bets 40
+91Bill911 folds
+doryphore27 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3h Tc 8h]
+Seat 1: doryphore27 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4085695620092788737-9-1749675835 - Holdem no limit (20/40) - 2025/06/11 21:03:55 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #3 is the button
+Seat 1: doryphore27 (430)
+Seat 2: MathisKcr (319)
+Seat 3: 91Bill911 (751)
+*** ANTE/BLINDS ***
+doryphore27 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7d Jc]
+*** PRE-FLOP *** 
+91Bill911 calls 40
+doryphore27 calls 20
+MathisKcr checks
+*** FLOP *** [Kd 5c 9s]
+doryphore27 checks
+MathisKcr checks
+91Bill911 checks
+*** TURN *** [Kd 5c 9s][4h]
+doryphore27 checks
+MathisKcr checks
+91Bill911 checks
+*** RIVER *** [Kd 5c 9s 4h][4s]
+doryphore27 checks
+MathisKcr checks
+91Bill911 bets 42
+doryphore27 folds
+MathisKcr folds
+91Bill911 collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [Kd 5c 9s 4h 4s]
+Seat 3: 91Bill911 (button) won 162
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4085695620092788737-10-1749675873 - Holdem no limit (20/40) - 2025/06/11 21:04:33 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #1 is the button
+Seat 1: doryphore27 (390)
+Seat 2: MathisKcr (279)
+Seat 3: 91Bill911 (831)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+91Bill911 posts big blind 40
+Dealt to MathisKcr [3c 9c]
+*** PRE-FLOP *** 
+doryphore27 folds
+MathisKcr calls 20
+91Bill911 checks
+*** FLOP *** [2c 8d Qh]
+MathisKcr checks
+91Bill911 checks
+*** TURN *** [2c 8d Qh][4c]
+MathisKcr checks
+91Bill911 checks
+*** RIVER *** [2c 8d Qh 4c][Qs]
+MathisKcr checks
+91Bill911 checks
+*** SHOW DOWN ***
+MathisKcr shows [3c 9c] (One pair : Queens)
+91Bill911 shows [2h Jd] (Two pairs : Queens and 2)
+91Bill911 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [2c 8d Qh 4c Qs]
+Seat 2: MathisKcr (small blind) showed [3c 9c] and lost with One pair : Queens
+Seat 3: 91Bill911 (big blind) showed [2h Jd] and won 80 with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4085695620092788737-11-1749675915 - Holdem no limit (30/60) - 2025/06/11 21:05:15 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #2 is the button
+Seat 1: doryphore27 (390)
+Seat 2: MathisKcr (239)
+Seat 3: 91Bill911 (871)
+*** ANTE/BLINDS ***
+91Bill911 posts small blind 30
+doryphore27 posts big blind 60
+Dealt to MathisKcr [7d Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 179 to 239 and is all-in
+91Bill911 folds
+doryphore27 folds
+MathisKcr collected 329 from pot
+*** SUMMARY ***
+Total pot 329 | No rake
+Seat 2: MathisKcr (button) won 329
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4085695620092788737-12-1749675926 - Holdem no limit (30/60) - 2025/06/11 21:05:26 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #3 is the button
+Seat 1: doryphore27 (330)
+Seat 2: MathisKcr (329)
+Seat 3: 91Bill911 (841)
+*** ANTE/BLINDS ***
+doryphore27 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Kc Kd]
+*** PRE-FLOP *** 
+91Bill911 folds
+doryphore27 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4085695620092788737-13-1749675934 - Holdem no limit (30/60) - 2025/06/11 21:05:34 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #1 is the button
+Seat 1: doryphore27 (300)
+Seat 2: MathisKcr (359)
+Seat 3: 91Bill911 (841)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+91Bill911 posts big blind 60
+Dealt to MathisKcr [6c Jc]
+*** PRE-FLOP *** 
+doryphore27 folds
+MathisKcr calls 30
+91Bill911 checks
+*** FLOP *** [2h 7h 4d]
+MathisKcr checks
+91Bill911 checks
+*** TURN *** [2h 7h 4d][3c]
+MathisKcr checks
+91Bill911 bets 78
+MathisKcr folds
+91Bill911 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [2h 7h 4d 3c]
+Seat 3: 91Bill911 (big blind) won 198
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4085695620092788737-14-1749675953 - Holdem no limit (30/60) - 2025/06/11 21:05:53 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #2 is the button
+Seat 1: doryphore27 (300)
+Seat 2: MathisKcr (299)
+Seat 3: 91Bill911 (901)
+*** ANTE/BLINDS ***
+91Bill911 posts small blind 30
+doryphore27 posts big blind 60
+Dealt to MathisKcr [Qc 3s]
+*** PRE-FLOP *** 
+MathisKcr calls 60
+91Bill911 raises 60 to 120
+doryphore27 folds
+MathisKcr calls 60
+*** FLOP *** [4c Jh 8c]
+91Bill911 checks
+MathisKcr checks
+*** TURN *** [4c Jh 8c][9h]
+91Bill911 checks
+MathisKcr checks
+*** RIVER *** [4c Jh 8c 9h][3d]
+91Bill911 checks
+MathisKcr bets 120
+91Bill911 folds
+MathisKcr collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [4c Jh 8c 9h 3d]
+Seat 2: MathisKcr (button) won 420
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4085695620092788737-15-1749675996 - Holdem no limit (40/80) - 2025/06/11 21:06:36 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #3 is the button
+Seat 1: doryphore27 (240)
+Seat 2: MathisKcr (479)
+Seat 3: 91Bill911 (781)
+*** ANTE/BLINDS ***
+doryphore27 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Js 4s]
+*** PRE-FLOP *** 
+91Bill911 folds
+doryphore27 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4085695620092788737-16-1749676008 - Holdem no limit (40/80) - 2025/06/11 21:06:48 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #1 is the button
+Seat 1: doryphore27 (200)
+Seat 2: MathisKcr (519)
+Seat 3: 91Bill911 (781)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+91Bill911 posts big blind 80
+Dealt to MathisKcr [Ac 9s]
+*** PRE-FLOP *** 
+doryphore27 calls 80
+MathisKcr raises 120 to 200
+91Bill911 folds
+doryphore27 calls 120 and is all-in
+*** FLOP *** [7d 6h Th]
+*** TURN *** [7d 6h Th][5d]
+*** RIVER *** [7d 6h Th 5d][Kh]
+*** SHOW DOWN ***
+MathisKcr shows [Ac 9s] (High card : Ace)
+doryphore27 shows [Ks 6d] (Two pairs : Kings and 6)
+doryphore27 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [7d 6h Th 5d Kh]
+Seat 1: doryphore27 (button) showed [Ks 6d] and won 480 with Two pairs : Kings and 6
+Seat 2: MathisKcr (small blind) showed [Ac 9s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4085695620092788737-17-1749676031 - Holdem no limit (40/80) - 2025/06/11 21:07:11 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #2 is the button
+Seat 1: doryphore27 (480)
+Seat 2: MathisKcr (319)
+Seat 3: 91Bill911 (701)
+*** ANTE/BLINDS ***
+91Bill911 posts small blind 40
+doryphore27 posts big blind 80
+Dealt to MathisKcr [7h 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+91Bill911 folds
+doryphore27 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: doryphore27 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4085695620092788737-18-1749676039 - Holdem no limit (40/80) - 2025/06/11 21:07:19 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #3 is the button
+Seat 1: doryphore27 (520)
+Seat 2: MathisKcr (319)
+Seat 3: 91Bill911 (661)
+*** ANTE/BLINDS ***
+doryphore27 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Td 9s]
+*** PRE-FLOP *** 
+91Bill911 folds
+doryphore27 calls 40
+MathisKcr checks
+*** FLOP *** [Js Ah Ad]
+doryphore27 checks
+MathisKcr checks
+*** TURN *** [Js Ah Ad][Kc]
+doryphore27 bets 80
+MathisKcr folds
+doryphore27 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Js Ah Ad Kc]
+Seat 1: doryphore27 (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 6 - HandId: #4085695620092788737-19-1749676068 - Holdem no limit (50/100) - 2025/06/11 21:07:48 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #1 is the button
+Seat 1: doryphore27 (600)
+Seat 2: MathisKcr (239)
+Seat 3: 91Bill911 (661)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 50
+91Bill911 posts big blind 100
+Dealt to MathisKcr [9h Jd]
+*** PRE-FLOP *** 
+doryphore27 folds
+MathisKcr calls 50
+91Bill911 checks
+*** FLOP *** [Kd 2d Tc]
+MathisKcr checks
+91Bill911 checks
+*** TURN *** [Kd 2d Tc][8s]
+MathisKcr checks
+91Bill911 checks
+*** RIVER *** [Kd 2d Tc 8s][Qs]
+MathisKcr bets 139 and is all-in
+91Bill911 folds
+MathisKcr collected 339 from pot
+*** SUMMARY ***
+Total pot 339 | No rake
+Board: [Kd 2d Tc 8s Qs]
+Seat 2: MathisKcr (small blind) won 339
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 6 - HandId: #4085695620092788737-20-1749676108 - Holdem no limit (50/100) - 2025/06/11 21:08:28 UTC
+Table: 'Expresso(951275141)#0' 3-max (real money) Seat #2 is the button
+Seat 1: doryphore27 (600)
+Seat 2: MathisKcr (339)
+Seat 3: 91Bill911 (561)
+*** ANTE/BLINDS ***
+91Bill911 posts small blind 50
+doryphore27 posts big blind 100
+Dealt to MathisKcr [Kd 6c]
+*** PRE-FLOP *** 
+MathisKcr calls 100
+91Bill911 calls 50
+doryphore27 checks
+*** FLOP *** [4h 6d 5s]
+91Bill911 bets 100
+doryphore27 folds
+MathisKcr raises 100 to 200
+91Bill911 raises 261 to 461 and is all-in
+MathisKcr calls 39 and is all-in
+*** TURN *** [4h 6d 5s][9c]
+*** RIVER *** [4h 6d 5s 9c][Td]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 6c] (One pair : 6)
+91Bill911 shows [7s 7h] (One pair : 7)
+91Bill911 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [4h 6d 5s 9c Td]
+Seat 2: MathisKcr (button) showed [Kd 6c] and lost with One pair : 6
+Seat 3: 91Bill911 (small blind) showed [7s 7h] and won 1000 with One pair : 7
+
+

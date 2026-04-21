@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670904915835486209-1-1774889999 - Holdem no limit (10/20) - 2026/03/30 16:59:59 UTC
+Table: 'Expresso Nitro(1087529798)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Craquebille (300)
+Seat 3: JYBoss127762 (300)
+*** ANTE/BLINDS ***
+Craquebille posts small blind 10
+JYBoss127762 posts big blind 20
+Dealt to MathisKcr [3h Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Craquebille calls 30
+JYBoss127762 raises 260 to 300 and is all-in
+MathisKcr folds
+Craquebille folds
+JYBoss127762 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: JYBoss127762 (big blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670904915835486209-2-1774890014 - Holdem no limit (10/20) - 2026/03/30 17:00:14 UTC
+Table: 'Expresso Nitro(1087529798)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (260)
+Seat 2: Craquebille (260)
+Seat 3: JYBoss127762 (380)
+*** ANTE/BLINDS ***
+JYBoss127762 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As Td]
+*** PRE-FLOP *** 
+Craquebille calls 20
+JYBoss127762 raises 360 to 380 and is all-in
+MathisKcr calls 240 and is all-in
+Craquebille calls 240 and is all-in
+*** FLOP *** [4s 3d 2c]
+*** TURN *** [4s 3d 2c][9h]
+*** RIVER *** [4s 3d 2c 9h][4d]
+*** SHOW DOWN ***
+MathisKcr shows [As Td] (One pair : 4)
+Craquebille shows [Kd Ts] (One pair : 4)
+JYBoss127762 shows [Qh 2s] (Two pairs : 4 and 2)
+JYBoss127762 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 3d 2c 9h 4d]
+Seat 1: MathisKcr (big blind) showed [As Td] and lost with One pair : 4
+Seat 2: Craquebille (button) showed [Kd Ts] and lost with One pair : 4
+Seat 3: JYBoss127762 (small blind) showed [Qh 2s] and won 900 with Two pairs : 4 and 2
+
+

@@ -1,0 +1,74 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679531400599175169-1-1775210889 - Holdem no limit (10/20) - 2026/04/03 10:08:09 UTC
+Table: 'Expresso Nitro(1089538308)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jarodinio02 (300)
+Seat 2: MathisKcr (300)
+Seat 3: MD-Ghost6573 (300)
+*** ANTE/BLINDS ***
+MD-Ghost6573 posts small blind 10
+Jarodinio02 posts big blind 20
+Dealt to MathisKcr [5s 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+MD-Ghost6573 calls 10
+Jarodinio02 checks
+*** FLOP *** [4s 6d 9c]
+MD-Ghost6573 bets 26
+Jarodinio02 folds
+MD-Ghost6573 collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [4s 6d 9c]
+Seat 3: MD-Ghost6573 (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679531400599175169-2-1775210909 - Holdem no limit (10/20) - 2026/04/03 10:08:29 UTC
+Table: 'Expresso Nitro(1089538308)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Jarodinio02 (280)
+Seat 2: MathisKcr (300)
+Seat 3: MD-Ghost6573 (320)
+*** ANTE/BLINDS ***
+Jarodinio02 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd Ac]
+*** PRE-FLOP *** 
+MD-Ghost6573 raises 20 to 40
+Jarodinio02 calls 30
+MathisKcr raises 260 to 300 and is all-in
+MD-Ghost6573 folds
+Jarodinio02 folds
+MathisKcr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 2: MathisKcr (big blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679531400599175169-3-1775210941 - Holdem no limit (10/20) - 2026/04/03 10:09:01 UTC
+Table: 'Expresso Nitro(1089538308)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jarodinio02 (240)
+Seat 2: MathisKcr (380)
+Seat 3: MD-Ghost6573 (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+MD-Ghost6573 posts big blind 20
+Dealt to MathisKcr [9h As]
+*** PRE-FLOP *** 
+Jarodinio02 calls 20
+MathisKcr raises 360 to 380 and is all-in
+MD-Ghost6573 calls 260 and is all-in
+Jarodinio02 calls 220 and is all-in
+*** FLOP *** [5s Ah 3h]
+*** TURN *** [5s Ah 3h][Jd]
+*** RIVER *** [5s Ah 3h Jd][2c]
+*** SHOW DOWN ***
+Jarodinio02 shows [Jc Tc] (One pair : Jacks)
+MD-Ghost6573 shows [7h Kh] (High card : Ace)
+MathisKcr shows [9h As] (One pair : Aces)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s Ah 3h Jd 2c]
+Seat 1: Jarodinio02 (button) showed [Jc Tc] and lost with One pair : Jacks
+Seat 2: MathisKcr (small blind) showed [9h As] and won 900 with One pair : Aces
+Seat 3: MD-Ghost6573 (big blind) showed [7h Kh] and lost with High card : Ace
+
+

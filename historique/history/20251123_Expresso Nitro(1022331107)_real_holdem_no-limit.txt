@@ -1,0 +1,188 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4390878670248476673-1-1763931577 - Holdem no limit (10/20) - 2025/11/23 20:59:37 UTC
+Table: 'Expresso Nitro(1022331107)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tounewwww (300)
+Seat 2: MathisKcr (300)
+Seat 3: spliit22 (300)
+*** ANTE/BLINDS ***
+spliit22 posts small blind 10
+Tounewwww posts big blind 20
+Dealt to MathisKcr [8c 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+spliit22 raises 40 to 60
+Tounewwww calls 40
+*** FLOP *** [9h Jc Ks]
+spliit22 bets 120
+Tounewwww folds
+spliit22 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9h Jc Ks]
+Seat 3: spliit22 (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4390878670248476673-2-1763931588 - Holdem no limit (10/20) - 2025/11/23 20:59:48 UTC
+Table: 'Expresso Nitro(1022331107)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Tounewwww (240)
+Seat 2: MathisKcr (300)
+Seat 3: spliit22 (360)
+*** ANTE/BLINDS ***
+Tounewwww posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8d Qs]
+*** PRE-FLOP *** 
+spliit22 raises 340 to 360 and is all-in
+Tounewwww folds
+MathisKcr folds
+spliit22 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Seat 3: spliit22 (button) won 390
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4390878670248476673-3-1763931599 - Holdem no limit (10/20) - 2025/11/23 20:59:59 UTC
+Table: 'Expresso Nitro(1022331107)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tounewwww (230)
+Seat 2: MathisKcr (280)
+Seat 3: spliit22 (390)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+spliit22 posts big blind 20
+Dealt to MathisKcr [7d Ac]
+*** PRE-FLOP *** 
+Tounewwww folds
+MathisKcr raises 40 to 60
+spliit22 raises 330 to 390 and is all-in
+MathisKcr calls 220 and is all-in
+*** FLOP *** [4c 5h 4h]
+*** TURN *** [4c 5h 4h][Qd]
+*** RIVER *** [4c 5h 4h Qd][Kd]
+*** SHOW DOWN ***
+MathisKcr shows [7d Ac] (One pair : 4)
+spliit22 shows [8d 6c] (One pair : 4)
+spliit22 collected 110 from side pot 1
+MathisKcr collected 560 from main pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [4c 5h 4h Qd Kd]
+Seat 2: MathisKcr (small blind) showed [7d Ac] and won 560 with One pair : 4
+Seat 3: spliit22 (big blind) showed [8d 6c] and won 110 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4390878670248476673-4-1763931622 - Holdem no limit (10/20) - 2025/11/23 21:00:22 UTC
+Table: 'Expresso Nitro(1022331107)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tounewwww (230)
+Seat 2: MathisKcr (560)
+Seat 3: spliit22 (110)
+*** ANTE/BLINDS ***
+spliit22 posts small blind 10
+Tounewwww posts big blind 20
+Dealt to MathisKcr [5h 6s]
+*** PRE-FLOP *** 
+MathisKcr folds
+spliit22 raises 90 to 110 and is all-in
+Tounewwww calls 90
+*** FLOP *** [3c 8d Ad]
+*** TURN *** [3c 8d Ad][7d]
+*** RIVER *** [3c 8d Ad 7d][4d]
+*** SHOW DOWN ***
+spliit22 shows [Kc 6c] (High card : Ace)
+Tounewwww shows [Ah 9h] (One pair : Aces)
+Tounewwww collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [3c 8d Ad 7d 4d]
+Seat 1: Tounewwww (big blind) showed [Ah 9h] and won 220 with One pair : Aces
+Seat 3: spliit22 (small blind) showed [Kc 6c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4390878670248476673-5-1763931642 - Holdem no limit (15/30) - 2025/11/23 21:00:42 UTC
+Table: 'Expresso Nitro(1022331107)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tounewwww (340)
+Seat 2: MathisKcr (560)
+*** ANTE/BLINDS ***
+Tounewwww posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kc Tc]
+*** PRE-FLOP *** 
+Tounewwww raises 310 to 340 and is all-in
+MathisKcr calls 310
+*** FLOP *** [6c 8h 3h]
+*** TURN *** [6c 8h 3h][2s]
+*** RIVER *** [6c 8h 3h 2s][5s]
+*** SHOW DOWN ***
+MathisKcr shows [Kc Tc] (High card : King)
+Tounewwww shows [Ks Ac] (High card : Ace)
+Tounewwww collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [6c 8h 3h 2s 5s]
+Seat 1: Tounewwww (small blind) (button) showed [Ks Ac] and won 680 with High card : Ace
+Seat 2: MathisKcr (big blind) showed [Kc Tc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4390878670248476673-6-1763931655 - Holdem no limit (15/30) - 2025/11/23 21:00:55 UTC
+Table: 'Expresso Nitro(1022331107)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tounewwww (680)
+Seat 2: MathisKcr (220)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Tounewwww posts big blind 30
+Dealt to MathisKcr [7c 8d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Tounewwww collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Tounewwww (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4390878670248476673-7-1763931660 - Holdem no limit (15/30) - 2025/11/23 21:01:00 UTC
+Table: 'Expresso Nitro(1022331107)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tounewwww (695)
+Seat 2: MathisKcr (205)
+*** ANTE/BLINDS ***
+Tounewwww posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9s Kc]
+*** PRE-FLOP *** 
+Tounewwww calls 15
+MathisKcr raises 60 to 90
+Tounewwww calls 60
+*** FLOP *** [3s As Ah]
+MathisKcr bets 115 and is all-in
+Tounewwww folds
+MathisKcr collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Board: [3s As Ah]
+Seat 2: MathisKcr (big blind) won 295
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4390878670248476673-8-1763931676 - Holdem no limit (15/30) - 2025/11/23 21:01:16 UTC
+Table: 'Expresso Nitro(1022331107)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tounewwww (605)
+Seat 2: MathisKcr (295)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Tounewwww posts big blind 30
+Dealt to MathisKcr [Kh Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 90
+Tounewwww calls 60
+*** FLOP *** [7d Tc Kd]
+Tounewwww bets 515 and is all-in
+MathisKcr calls 205 and is all-in
+*** TURN *** [7d Tc Kd][6c]
+*** RIVER *** [7d Tc Kd 6c][8s]
+*** SHOW DOWN ***
+MathisKcr shows [Kh Jd] (One pair : Kings)
+Tounewwww shows [Td 6d] (Two pairs : Tens and 6)
+Tounewwww collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d Tc Kd 6c 8s]
+Seat 1: Tounewwww (big blind) showed [Td 6d] and won 900 with Two pairs : Tens and 6
+Seat 2: MathisKcr (small blind) (button) showed [Kh Jd] and lost with One pair : Kings
+
+

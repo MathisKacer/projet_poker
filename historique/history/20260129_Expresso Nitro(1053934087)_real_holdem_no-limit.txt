@@ -1,0 +1,129 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4526612435804618753-1-1769684833 - Holdem no limit (10/20) - 2026/01/29 11:07:13 UTC
+Table: 'Expresso Nitro(1053934087)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Jnr19 (300)
+Seat 3: -Soi-Discret (300)
+*** ANTE/BLINDS ***
+-Soi-Discret posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4d 3d]
+*** PRE-FLOP *** 
+Jnr19 calls 20
+-Soi-Discret calls 10
+MathisKcr checks
+*** FLOP *** [As Ad Kc]
+-Soi-Discret checks
+MathisKcr checks
+Jnr19 bets 40
+-Soi-Discret folds
+MathisKcr folds
+Jnr19 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [As Ad Kc]
+Seat 2: Jnr19 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4526612435804618753-2-1769684881 - Holdem no limit (10/20) - 2026/01/29 11:08:01 UTC
+Table: 'Expresso Nitro(1053934087)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Jnr19 (340)
+Seat 3: -Soi-Discret (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Jnr19 posts big blind 20
+Dealt to MathisKcr [2h Qc]
+*** PRE-FLOP *** 
+-Soi-Discret calls 20
+MathisKcr calls 10
+Jnr19 checks
+*** FLOP *** [7s Jh Kh]
+MathisKcr checks
+Jnr19 checks
+-Soi-Discret bets 21
+MathisKcr folds
+Jnr19 calls 21
+*** TURN *** [7s Jh Kh][8s]
+Jnr19 checks
+-Soi-Discret checks
+*** RIVER *** [7s Jh Kh 8s][9d]
+Jnr19 checks
+-Soi-Discret bets 66
+Jnr19 calls 66
+*** SHOW DOWN ***
+-Soi-Discret shows [6h 3c] (High card : King)
+Jnr19 shows [Td 7d] (Straight Jack high)
+Jnr19 collected 234 from pot
+*** SUMMARY ***
+Total pot 234 | No rake
+Board: [7s Jh Kh 8s 9d]
+Seat 2: Jnr19 (big blind) showed [Td 7d] and won 234 with Straight Jack high
+Seat 3: -Soi-Discret (button) showed [6h 3c] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4526612435804618753-3-1769684923 - Holdem no limit (15/30) - 2026/01/29 11:08:43 UTC
+Table: 'Expresso Nitro(1053934087)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (260)
+Seat 2: Jnr19 (467)
+Seat 3: -Soi-Discret (173)
+*** ANTE/BLINDS ***
+Jnr19 posts small blind 15
+-Soi-Discret posts big blind 30
+Dealt to MathisKcr [Js Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Jnr19 raises 30 to 90
+-Soi-Discret calls 60
+MathisKcr raises 170 to 260 and is all-in
+Jnr19 calls 170
+-Soi-Discret calls 83 and is all-in
+*** FLOP *** [3c 8c Qh]
+*** TURN *** [3c 8c Qh][8s]
+*** RIVER *** [3c 8c Qh 8s][4c]
+*** SHOW DOWN ***
+Jnr19 shows [9h Th] (One pair : 8)
+MathisKcr shows [Js Jc] (Two pairs : Jacks and 8)
+-Soi-Discret shows [8h 7d] (Trips of 8)
+-Soi-Discret collected 519 from main pot
+MathisKcr collected 174 from side pot 1
+*** SUMMARY ***
+Total pot 693 | No rake
+Board: [3c 8c Qh 8s 4c]
+Seat 1: MathisKcr (button) showed [Js Jc] and won 174 with Two pairs : Jacks and 8
+Seat 2: Jnr19 (small blind) showed [9h Th] and lost with One pair : 8
+Seat 3: -Soi-Discret (big blind) showed [8h 7d] and won 519 with Trips of 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4526612435804618753-4-1769684968 - Holdem no limit (20/40) - 2026/01/29 11:09:28 UTC
+Table: 'Expresso Nitro(1053934087)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (174)
+Seat 2: Jnr19 (207)
+Seat 3: -Soi-Discret (519)
+*** ANTE/BLINDS ***
+-Soi-Discret posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jc Qc]
+*** PRE-FLOP *** 
+Jnr19 calls 40
+-Soi-Discret calls 20
+MathisKcr raises 134 to 174 and is all-in
+Jnr19 calls 134
+-Soi-Discret calls 134
+*** FLOP *** [3d 6s 9c]
+-Soi-Discret bets 345 and is all-in
+Jnr19 calls 33 and is all-in
+*** TURN *** [3d 6s 9c][5s]
+*** RIVER *** [3d 6s 9c 5s][7c]
+*** SHOW DOWN ***
+MathisKcr shows [Jc Qc] (High card : Queen)
+Jnr19 shows [Js Td] (High card : Jack)
+-Soi-Discret shows [6d 3c] (Two pairs : 6 and 3)
+-Soi-Discret collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 6s 9c 5s 7c]
+Seat 1: MathisKcr (big blind) showed [Jc Qc] and lost with High card : Queen
+Seat 2: Jnr19 (button) showed [Js Td] and lost with High card : Jack
+Seat 3: -Soi-Discret (small blind) showed [6d 3c] and won 900 with Two pairs : 6 and 3
+
+

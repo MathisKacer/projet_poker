@@ -1,0 +1,304 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675024678530580481-1-1775048855 - Holdem no limit (10/20) - 2026/04/01 13:07:35 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LilianBled (300)
+Seat 2: MathisKcr (300)
+Seat 3: GsPaghettO (300)
+*** ANTE/BLINDS ***
+LilianBled posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jh 3d]
+*** PRE-FLOP *** 
+GsPaghettO raises 20 to 40
+LilianBled calls 30
+MathisKcr folds
+*** FLOP *** [6s 2s Tc]
+LilianBled checks
+GsPaghettO checks
+*** TURN *** [6s 2s Tc][4d]
+LilianBled checks
+GsPaghettO checks
+*** RIVER *** [6s 2s Tc 4d][Qs]
+LilianBled bets 100
+GsPaghettO folds
+LilianBled shows [Qh 5s] (One pair : Queens)
+LilianBled collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [6s 2s Tc 4d Qs]
+Seat 1: LilianBled (small blind) showed [Qh 5s] and won 200 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675024678530580481-2-1775048917 - Holdem no limit (15/30) - 2026/04/01 13:08:37 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LilianBled (360)
+Seat 2: MathisKcr (280)
+Seat 3: GsPaghettO (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+GsPaghettO posts big blind 30
+Dealt to MathisKcr [2s Kd]
+*** PRE-FLOP *** 
+LilianBled folds
+MathisKcr raises 250 to 280 and is all-in
+GsPaghettO folds
+MathisKcr collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: MathisKcr (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675024678530580481-3-1775048957 - Holdem no limit (15/30) - 2026/04/01 13:09:17 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LilianBled (360)
+Seat 2: MathisKcr (310)
+Seat 3: GsPaghettO (230)
+*** ANTE/BLINDS ***
+GsPaghettO posts small blind 15
+LilianBled posts big blind 30
+Dealt to MathisKcr [2s 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+GsPaghettO folds
+LilianBled collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: LilianBled (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675024678530580481-4-1775048969 - Holdem no limit (15/30) - 2026/04/01 13:09:29 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LilianBled (375)
+Seat 2: MathisKcr (310)
+Seat 3: GsPaghettO (215)
+*** ANTE/BLINDS ***
+LilianBled posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4d 6d]
+*** PRE-FLOP *** 
+GsPaghettO folds
+LilianBled calls 15
+MathisKcr checks
+*** FLOP *** [Ah Qd 7h]
+LilianBled checks
+MathisKcr checks
+*** TURN *** [Ah Qd 7h][9d]
+LilianBled checks
+MathisKcr checks
+*** RIVER *** [Ah Qd 7h 9d][4c]
+LilianBled checks
+MathisKcr bets 60
+LilianBled folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ah Qd 7h 9d 4c]
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4675024678530580481-5-1775049016 - Holdem no limit (20/40) - 2026/04/01 13:10:16 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LilianBled (345)
+Seat 2: MathisKcr (340)
+Seat 3: GsPaghettO (215)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+GsPaghettO posts big blind 40
+Dealt to MathisKcr [7c 3c]
+*** PRE-FLOP *** 
+LilianBled calls 40
+MathisKcr folds
+GsPaghettO checks
+*** FLOP *** [3d 2d Jc]
+GsPaghettO checks
+LilianBled checks
+*** TURN *** [3d 2d Jc][Jh]
+GsPaghettO checks
+LilianBled bets 305 and is all-in
+GsPaghettO folds
+LilianBled shows [Td Tc] (Two pairs : Jacks and Tens)
+LilianBled collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [3d 2d Jc Jh]
+Seat 1: LilianBled (button) showed [Td Tc] and won 405 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675024678530580481-6-1775049040 - Holdem no limit (30/60) - 2026/04/01 13:10:40 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LilianBled (405)
+Seat 2: MathisKcr (320)
+Seat 3: GsPaghettO (175)
+*** ANTE/BLINDS ***
+GsPaghettO posts small blind 30
+LilianBled posts big blind 60
+Dealt to MathisKcr [3h Ts]
+*** PRE-FLOP *** 
+MathisKcr folds
+GsPaghettO raises 115 to 175 and is all-in
+LilianBled folds
+GsPaghettO collected 235 from pot
+*** SUMMARY ***
+Total pot 235 | No rake
+Seat 3: GsPaghettO (small blind) won 235
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675024678530580481-7-1775049054 - Holdem no limit (30/60) - 2026/04/01 13:10:54 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LilianBled (345)
+Seat 2: MathisKcr (320)
+Seat 3: GsPaghettO (235)
+*** ANTE/BLINDS ***
+LilianBled posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ks Ah]
+*** PRE-FLOP *** 
+GsPaghettO folds
+LilianBled calls 30
+MathisKcr raises 260 to 320 and is all-in
+LilianBled calls 260
+*** FLOP *** [3h Ts 9d]
+*** TURN *** [3h Ts 9d][Ad]
+*** RIVER *** [3h Ts 9d Ad][4h]
+*** SHOW DOWN ***
+LilianBled shows [Qs Th] (One pair : Tens)
+MathisKcr shows [Ks Ah] (One pair : Aces)
+MathisKcr collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [3h Ts 9d Ad 4h]
+Seat 1: LilianBled (small blind) showed [Qs Th] and lost with One pair : Tens
+Seat 2: MathisKcr (big blind) showed [Ks Ah] and won 640 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675024678530580481-8-1775049078 - Holdem no limit (30/60) - 2026/04/01 13:11:18 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LilianBled (25)
+Seat 2: MathisKcr (640)
+Seat 3: GsPaghettO (235)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+GsPaghettO posts big blind 60
+Dealt to MathisKcr [7h 5s]
+*** PRE-FLOP *** 
+LilianBled calls 25 and is all-in
+MathisKcr folds
+*** FLOP *** [Ah Ts 3h]
+*** TURN *** [Ah Ts 3h][2s]
+*** RIVER *** [Ah Ts 3h 2s][4h]
+*** SHOW DOWN ***
+LilianBled shows [6s Qd] (High card : Ace)
+GsPaghettO shows [4s Ac] (Two pairs : Aces and 4)
+GsPaghettO collected 115 from pot
+*** SUMMARY ***
+Total pot 115 | No rake
+Board: [Ah Ts 3h 2s 4h]
+Seat 1: LilianBled (button) showed [6s Qd] and lost with High card : Ace
+Seat 3: GsPaghettO (big blind) showed [4s Ac] and won 115 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675024678530580481-9-1775049091 - Holdem no limit (30/60) - 2026/04/01 13:11:31 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (610)
+Seat 3: GsPaghettO (290)
+*** ANTE/BLINDS ***
+GsPaghettO posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [7s 6h]
+*** PRE-FLOP *** 
+GsPaghettO raises 230 to 290 and is all-in
+MathisKcr folds
+GsPaghettO collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: GsPaghettO (small blind) (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4675024678530580481-10-1775049107 - Holdem no limit (40/80) - 2026/04/01 13:11:47 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (550)
+Seat 3: GsPaghettO (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+GsPaghettO posts big blind 80
+Dealt to MathisKcr [9s 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+GsPaghettO collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: GsPaghettO (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4675024678530580481-11-1775049112 - Holdem no limit (40/80) - 2026/04/01 13:11:52 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (510)
+Seat 3: GsPaghettO (390)
+*** ANTE/BLINDS ***
+GsPaghettO posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [6c Kh]
+*** PRE-FLOP *** 
+GsPaghettO folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4675024678530580481-12-1775049120 - Holdem no limit (40/80) - 2026/04/01 13:12:00 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (550)
+Seat 3: GsPaghettO (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+GsPaghettO posts big blind 80
+Dealt to MathisKcr [5s 9s]
+*** PRE-FLOP *** 
+MathisKcr folds
+GsPaghettO collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: GsPaghettO (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4675024678530580481-13-1775049125 - Holdem no limit (40/80) - 2026/04/01 13:12:05 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (510)
+Seat 3: GsPaghettO (390)
+*** ANTE/BLINDS ***
+GsPaghettO posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Jh 3h]
+*** PRE-FLOP *** 
+GsPaghettO folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4675024678530580481-14-1775049131 - Holdem no limit (40/80) - 2026/04/01 13:12:11 UTC
+Table: 'Expresso Nitro(1088489005)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (550)
+Seat 3: GsPaghettO (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+GsPaghettO posts big blind 80
+Dealt to MathisKcr [Tc As]
+*** PRE-FLOP *** 
+MathisKcr raises 470 to 550 and is all-in
+GsPaghettO calls 270 and is all-in
+*** FLOP *** [4s 7c 8c]
+*** TURN *** [4s 7c 8c][Kc]
+*** RIVER *** [4s 7c 8c Kc][4c]
+*** SHOW DOWN ***
+GsPaghettO shows [6d 6c] (Flush King high)
+MathisKcr shows [Tc As] (Flush King high)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 7c 8c Kc 4c]
+Seat 2: MathisKcr (small blind) (button) showed [Tc As] and won 900 with Flush King high
+Seat 3: GsPaghettO (big blind) showed [6d 6c] and lost with Flush King high
+
+

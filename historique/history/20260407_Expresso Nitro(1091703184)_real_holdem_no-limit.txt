@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688829472219070465-1-1775567942 - Holdem no limit (10/20) - 2026/04/07 13:19:02 UTC
+Table: 'Expresso Nitro(1091703184)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JFChasseur83 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Zumillo (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Zumillo posts big blind 20
+Dealt to MathisKcr [6h 7s]
+*** PRE-FLOP *** 
+JFChasseur83 calls 20
+MathisKcr folds
+Zumillo raises 40 to 60
+JFChasseur83 calls 40
+*** FLOP *** [4d Qc 6d]
+Zumillo checks
+JFChasseur83 checks
+*** TURN *** [4d Qc 6d][4s]
+Zumillo bets 46
+JFChasseur83 folds
+Zumillo collected 176 from pot
+*** SUMMARY ***
+Total pot 176 | No rake
+Board: [4d Qc 6d 4s]
+Seat 3: Zumillo (big blind) won 176
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688829472219070465-2-1775567984 - Holdem no limit (10/20) - 2026/04/07 13:19:44 UTC
+Table: 'Expresso Nitro(1091703184)#0' 3-max (real money) Seat #2 is the button
+Seat 1: JFChasseur83 (240)
+Seat 2: MathisKcr (290)
+Seat 3: Zumillo (370)
+*** ANTE/BLINDS ***
+Zumillo posts small blind 10
+JFChasseur83 posts big blind 20
+Dealt to MathisKcr [3h Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Zumillo folds
+JFChasseur83 raises 60 to 100
+MathisKcr raises 190 to 290 and is all-in
+JFChasseur83 calls 140 and is all-in
+*** FLOP *** [Qh 9h 2d]
+*** TURN *** [Qh 9h 2d][6h]
+*** RIVER *** [Qh 9h 2d 6h][5h]
+*** SHOW DOWN ***
+JFChasseur83 shows [Jc Js] (One pair : Jacks)
+MathisKcr shows [3h Ks] (Flush Queen high)
+MathisKcr collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Qh 9h 2d 6h 5h]
+Seat 1: JFChasseur83 (big blind) showed [Jc Js] and lost with One pair : Jacks
+Seat 2: MathisKcr (button) showed [3h Ks] and won 540 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688829472219070465-3-1775568011 - Holdem no limit (15/30) - 2026/04/07 13:20:11 UTC
+Table: 'Expresso Nitro(1091703184)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (540)
+Seat 3: Zumillo (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Zumillo posts big blind 30
+Dealt to MathisKcr [6h 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Zumillo collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Zumillo (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4688829472219070465-4-1775568018 - Holdem no limit (15/30) - 2026/04/07 13:20:18 UTC
+Table: 'Expresso Nitro(1091703184)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (525)
+Seat 3: Zumillo (375)
+*** ANTE/BLINDS ***
+Zumillo posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3d Qc]
+*** PRE-FLOP *** 
+Zumillo calls 15
+MathisKcr checks
+*** FLOP *** [Ts 9s 4d]
+MathisKcr checks
+Zumillo checks
+*** TURN *** [Ts 9s 4d][Qs]
+MathisKcr bets 495 and is all-in
+Zumillo calls 345 and is all-in
+*** RIVER *** [Ts 9s 4d Qs][3c]
+*** SHOW DOWN ***
+Zumillo shows [Qh 2h] (One pair : Queens)
+MathisKcr shows [3d Qc] (Two pairs : Queens and 3)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ts 9s 4d Qs 3c]
+Seat 2: MathisKcr (big blind) showed [3d Qc] and won 900 with Two pairs : Queens and 3
+Seat 3: Zumillo (small blind) (button) showed [Qh 2h] and lost with One pair : Queens
+
+

@@ -1,0 +1,241 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606400026082541569-1-1772570825 - Holdem no limit (10/20) - 2026/03/03 20:47:05 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: JD_Matador78 (300)
+Seat 3: samhera (300)
+*** ANTE/BLINDS ***
+samhera posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jh 4c]
+*** PRE-FLOP *** 
+JD_Matador78 calls 20
+samhera folds
+MathisKcr checks
+*** FLOP *** [8s 2c 4d]
+MathisKcr bets 40
+JD_Matador78 calls 40
+*** TURN *** [8s 2c 4d][5s]
+MathisKcr checks
+JD_Matador78 checks
+*** RIVER *** [8s 2c 4d 5s][Th]
+MathisKcr checks
+JD_Matador78 checks
+*** SHOW DOWN ***
+JD_Matador78 shows [9s Js] (High card : Jack)
+MathisKcr shows [Jh 4c] (One pair : 4)
+MathisKcr collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [8s 2c 4d 5s Th]
+Seat 1: MathisKcr (big blind) showed [Jh 4c] and won 130 with One pair : 4
+Seat 2: JD_Matador78 (button) showed [9s Js] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606400026082541569-2-1772570866 - Holdem no limit (10/20) - 2026/03/03 20:47:46 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (370)
+Seat 2: JD_Matador78 (240)
+Seat 3: samhera (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+JD_Matador78 posts big blind 20
+Dealt to MathisKcr [Qs 8h]
+*** PRE-FLOP *** 
+samhera raises 270 to 290 and is all-in
+MathisKcr folds
+JD_Matador78 folds
+samhera collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: samhera (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606400026082541569-3-1772570879 - Holdem no limit (10/20) - 2026/03/03 20:47:59 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (360)
+Seat 2: JD_Matador78 (220)
+Seat 3: samhera (320)
+*** ANTE/BLINDS ***
+JD_Matador78 posts small blind 10
+samhera posts big blind 20
+Dealt to MathisKcr [8c 8d]
+*** PRE-FLOP *** 
+MathisKcr raises 340 to 360 and is all-in
+JD_Matador78 folds
+samhera calls 300 and is all-in
+*** FLOP *** [Kc 3c 2s]
+*** TURN *** [Kc 3c 2s][2d]
+*** RIVER *** [Kc 3c 2s 2d][Qs]
+*** SHOW DOWN ***
+samhera shows [4d 4h] (Two pairs : 4 and 2)
+MathisKcr shows [8c 8d] (Two pairs : 8 and 2)
+MathisKcr collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [Kc 3c 2s 2d Qs]
+Seat 1: MathisKcr (button) showed [8c 8d] and won 690 with Two pairs : 8 and 2
+Seat 3: samhera (big blind) showed [4d 4h] and lost with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606400026082541569-4-1772570894 - Holdem no limit (15/30) - 2026/03/03 20:48:14 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (690)
+Seat 2: JD_Matador78 (210)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+JD_Matador78 posts big blind 30
+Dealt to MathisKcr [6c 7s]
+*** PRE-FLOP *** 
+MathisKcr folds
+JD_Matador78 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: JD_Matador78 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606400026082541569-5-1772570898 - Holdem no limit (15/30) - 2026/03/03 20:48:18 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (675)
+Seat 2: JD_Matador78 (225)
+*** ANTE/BLINDS ***
+JD_Matador78 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5c Qh]
+*** PRE-FLOP *** 
+JD_Matador78 raises 195 to 225 and is all-in
+MathisKcr folds
+JD_Matador78 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Seat 2: JD_Matador78 (small blind) (button) won 255
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606400026082541569-6-1772570904 - Holdem no limit (15/30) - 2026/03/03 20:48:24 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (645)
+Seat 2: JD_Matador78 (255)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+JD_Matador78 posts big blind 30
+Dealt to MathisKcr [4c Qd]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+JD_Matador78 raises 225 to 255 and is all-in
+MathisKcr folds
+JD_Matador78 collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Seat 2: JD_Matador78 (big blind) won 285
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606400026082541569-7-1772570914 - Holdem no limit (15/30) - 2026/03/03 20:48:34 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (615)
+Seat 2: JD_Matador78 (285)
+*** ANTE/BLINDS ***
+JD_Matador78 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Tc 9s]
+*** PRE-FLOP *** 
+JD_Matador78 raises 255 to 285 and is all-in
+MathisKcr folds
+JD_Matador78 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 2: JD_Matador78 (small blind) (button) won 315
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606400026082541569-8-1772570919 - Holdem no limit (15/30) - 2026/03/03 20:48:39 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (585)
+Seat 2: JD_Matador78 (315)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+JD_Matador78 posts big blind 30
+Dealt to MathisKcr [Ac 4h]
+*** PRE-FLOP *** 
+MathisKcr raises 555 to 585 and is all-in
+JD_Matador78 folds
+MathisKcr collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Seat 1: MathisKcr (small blind) (button) won 615
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606400026082541569-9-1772570926 - Holdem no limit (15/30) - 2026/03/03 20:48:46 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (615)
+Seat 2: JD_Matador78 (285)
+*** ANTE/BLINDS ***
+JD_Matador78 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6c 3h]
+*** PRE-FLOP *** 
+JD_Matador78 raises 255 to 285 and is all-in
+MathisKcr folds
+JD_Matador78 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Seat 2: JD_Matador78 (small blind) (button) won 315
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606400026082541569-10-1772570931 - Holdem no limit (15/30) - 2026/03/03 20:48:51 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (585)
+Seat 2: JD_Matador78 (315)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+JD_Matador78 posts big blind 30
+Dealt to MathisKcr [6d 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+JD_Matador78 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: JD_Matador78 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606400026082541569-11-1772570935 - Holdem no limit (15/30) - 2026/03/03 20:48:55 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (570)
+Seat 2: JD_Matador78 (330)
+*** ANTE/BLINDS ***
+JD_Matador78 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9h Kh]
+*** PRE-FLOP *** 
+JD_Matador78 calls 15
+MathisKcr raises 540 to 570 and is all-in
+JD_Matador78 folds
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 1: MathisKcr (big blind) won 600
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4606400026082541569-12-1772570943 - Holdem no limit (20/40) - 2026/03/03 20:49:03 UTC
+Table: 'Expresso Nitro(1072511083)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (600)
+Seat 2: JD_Matador78 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+JD_Matador78 posts big blind 40
+Dealt to MathisKcr [Th Ac]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+JD_Matador78 raises 260 to 300 and is all-in
+MathisKcr calls 260
+*** FLOP *** [7s Kd 5s]
+*** TURN *** [7s Kd 5s][5d]
+*** RIVER *** [7s Kd 5s 5d][3s]
+*** SHOW DOWN ***
+JD_Matador78 shows [9d Qs] (One pair : 5)
+MathisKcr shows [Th Ac] (One pair : 5)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7s Kd 5s 5d 3s]
+Seat 1: MathisKcr (small blind) (button) showed [Th Ac] and won 600 with One pair : 5
+Seat 2: JD_Matador78 (big blind) showed [9d Qs] and lost with One pair : 5
+
+

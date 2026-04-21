@@ -1,0 +1,49 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4598685195372068865-1-1772274557 - Holdem no limit (10/20) - 2026/02/28 10:29:17 UTC
+Table: 'Expresso Nitro(1070714834)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Loulou.59 (300)
+Seat 3: El_moignon57 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Loulou.59 posts big blind 20
+Dealt to MathisKcr [Ks 4s]
+*** PRE-FLOP *** 
+El_moignon57 calls 20
+MathisKcr raises 20 to 40
+Loulou.59 raises 260 to 300 and is all-in
+El_moignon57 folds
+MathisKcr folds
+Loulou.59 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: Loulou.59 (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4598685195372068865-2-1772274571 - Holdem no limit (10/20) - 2026/02/28 10:29:31 UTC
+Table: 'Expresso Nitro(1070714834)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (260)
+Seat 2: Loulou.59 (360)
+Seat 3: El_moignon57 (280)
+*** ANTE/BLINDS ***
+Loulou.59 posts small blind 10
+El_moignon57 posts big blind 20
+Dealt to MathisKcr [2d As]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Loulou.59 raises 320 to 360 and is all-in
+El_moignon57 folds
+MathisKcr calls 220 and is all-in
+*** FLOP *** [3d Td 4c]
+*** TURN *** [3d Td 4c][6s]
+*** RIVER *** [3d Td 4c 6s][Jh]
+*** SHOW DOWN ***
+MathisKcr shows [2d As] (High card : Ace)
+Loulou.59 shows [3s Qs] (One pair : 3)
+Loulou.59 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [3d Td 4c 6s Jh]
+Seat 1: MathisKcr (button) showed [2d As] and lost with High card : Ace
+Seat 2: Loulou.59 (small blind) showed [3s Qs] and won 640 with One pair : 3
+
+

@@ -1,0 +1,64 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612313526034235393-1-1772815409 - Holdem no limit (10/20) - 2026/03/06 16:43:29 UTC
+Table: 'Expresso Nitro(1073887927)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Babass3349 (300)
+Seat 3: StackAnovice (300)
+*** ANTE/BLINDS ***
+StackAnovice posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c Ts]
+*** PRE-FLOP *** 
+Babass3349 calls 20
+StackAnovice raises 60 to 80
+MathisKcr folds
+Babass3349 calls 60
+*** FLOP *** [5h 4h 2d]
+StackAnovice bets 220 and is all-in
+Babass3349 calls 220 and is all-in
+*** TURN *** [5h 4h 2d][Qs]
+*** RIVER *** [5h 4h 2d Qs][Qh]
+*** SHOW DOWN ***
+StackAnovice shows [2c Ac] (Two pairs : Queens and 2)
+Babass3349 shows [Ah Qd] (Trips of Queens)
+Babass3349 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [5h 4h 2d Qs Qh]
+Seat 2: Babass3349 (button) showed [Ah Qd] and won 620 with Trips of Queens
+Seat 3: StackAnovice (small blind) showed [2c Ac] and lost with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612313526034235393-2-1772815444 - Holdem no limit (10/20) - 2026/03/06 16:44:04 UTC
+Table: 'Expresso Nitro(1073887927)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Babass3349 (620)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Babass3349 posts big blind 20
+Dealt to MathisKcr [7c 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Babass3349 calls 20
+*** FLOP *** [7s 5d 5h]
+Babass3349 checks
+MathisKcr bets 28
+Babass3349 calls 28
+*** TURN *** [7s 5d 5h][Qh]
+Babass3349 checks
+MathisKcr bets 68
+Babass3349 calls 68
+*** RIVER *** [7s 5d 5h Qh][Ac]
+Babass3349 checks
+MathisKcr bets 144 and is all-in
+Babass3349 calls 144
+*** SHOW DOWN ***
+MathisKcr shows [7c 8c] (Two pairs : 7 and 5)
+Babass3349 shows [5c 4d] (Trips of 5)
+Babass3349 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [7s 5d 5h Qh Ac]
+Seat 1: MathisKcr (small blind) (button) showed [7c 8c] and lost with Two pairs : 7 and 5
+Seat 2: Babass3349 (big blind) showed [5c 4d] and won 560 with Trips of 5
+
+

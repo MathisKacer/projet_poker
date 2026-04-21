@@ -1,0 +1,123 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4252626559208259585-1-1757939325 - Holdem no limit (10/20) - 2025/09/15 12:28:45 UTC
+Table: 'Expresso(990141779)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Massa009 (500)
+Seat 2: LoJaUiDeS (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Massa009 posts big blind 20
+Dealt to MathisKcr [Tc Qd]
+*** PRE-FLOP *** 
+LoJaUiDeS folds
+MathisKcr raises 20 to 40
+Massa009 calls 20
+*** FLOP *** [5d 3h Kd]
+MathisKcr checks
+Massa009 bets 80
+MathisKcr raises 80 to 160
+Massa009 raises 300 to 460 and is all-in
+MathisKcr calls 300 and is all-in
+*** TURN *** [5d 3h Kd][2d]
+*** RIVER *** [5d 3h Kd 2d][3d]
+*** SHOW DOWN ***
+Massa009 shows [9s Kc] (Two pairs : Kings and 3)
+MathisKcr shows [Tc Qd] (Flush King high)
+MathisKcr collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [5d 3h Kd 2d 3d]
+Seat 1: Massa009 (big blind) showed [9s Kc] and lost with Two pairs : Kings and 3
+Seat 3: MathisKcr (small blind) showed [Tc Qd] and won 1000 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4252626559208259585-2-1757939361 - Holdem no limit (10/20) - 2025/09/15 12:29:21 UTC
+Table: 'Expresso(990141779)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LoJaUiDeS (500)
+Seat 3: MathisKcr (1000)
+*** ANTE/BLINDS ***
+LoJaUiDeS posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7d 4c]
+*** PRE-FLOP *** 
+LoJaUiDeS raises 480 to 500 and is all-in
+MathisKcr folds
+LoJaUiDeS collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 2: LoJaUiDeS (small blind) (button) won 520
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4252626559208259585-3-1757939368 - Holdem no limit (10/20) - 2025/09/15 12:29:28 UTC
+Table: 'Expresso(990141779)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LoJaUiDeS (520)
+Seat 3: MathisKcr (980)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+LoJaUiDeS posts big blind 20
+Dealt to MathisKcr [Kd Th]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+LoJaUiDeS folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: MathisKcr (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4252626559208259585-4-1757939381 - Holdem no limit (10/20) - 2025/09/15 12:29:41 UTC
+Table: 'Expresso(990141779)#0' 3-max (real money) Seat #2 is the button
+Seat 2: LoJaUiDeS (500)
+Seat 3: MathisKcr (1000)
+*** ANTE/BLINDS ***
+LoJaUiDeS posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2s Qd]
+*** PRE-FLOP *** 
+LoJaUiDeS calls 10
+MathisKcr checks
+*** FLOP *** [Tc 4h Js]
+MathisKcr bets 40
+LoJaUiDeS calls 40
+*** TURN *** [Tc 4h Js][Qs]
+MathisKcr bets 80
+LoJaUiDeS calls 80
+*** RIVER *** [Tc 4h Js Qs][Kd]
+MathisKcr checks
+LoJaUiDeS bets 360 and is all-in
+MathisKcr folds
+LoJaUiDeS collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Tc 4h Js Qs Kd]
+Seat 2: LoJaUiDeS (small blind) (button) won 640
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4252626559208259585-5-1757939419 - Holdem no limit (15/30) - 2025/09/15 12:30:19 UTC
+Table: 'Expresso(990141779)#0' 3-max (real money) Seat #3 is the button
+Seat 2: LoJaUiDeS (640)
+Seat 3: MathisKcr (860)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+LoJaUiDeS posts big blind 30
+Dealt to MathisKcr [Qs 4s]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+LoJaUiDeS calls 30
+*** FLOP *** [5h Qh 4c]
+LoJaUiDeS checks
+MathisKcr bets 60
+LoJaUiDeS raises 520 to 580 and is all-in
+MathisKcr calls 520
+*** TURN *** [5h Qh 4c][Kc]
+*** RIVER *** [5h Qh 4c Kc][Jc]
+*** SHOW DOWN ***
+LoJaUiDeS shows [6c 7d] (High card : King)
+MathisKcr shows [Qs 4s] (Two pairs : Queens and 4)
+MathisKcr collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | No rake
+Board: [5h Qh 4c Kc Jc]
+Seat 2: LoJaUiDeS (big blind) showed [6c 7d] and lost with High card : King
+Seat 3: MathisKcr (small blind) (button) showed [Qs 4s] and won 1280 with Two pairs : Queens and 4
+
+

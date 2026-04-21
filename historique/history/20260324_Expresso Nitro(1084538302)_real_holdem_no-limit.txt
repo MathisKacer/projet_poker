@@ -1,0 +1,129 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4658056538349371393-1-1774369573 - Holdem no limit (10/20) - 2026/03/24 16:26:13 UTC
+Table: 'Expresso Nitro(1084538302)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Louna725 (300)
+Seat 2: MathisKcr (300)
+Seat 3: AAjohn87 (300)
+*** ANTE/BLINDS ***
+AAjohn87 posts small blind 10
+Louna725 posts big blind 20
+Dealt to MathisKcr [6d Td]
+*** PRE-FLOP *** 
+MathisKcr folds
+AAjohn87 folds
+Louna725 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Louna725 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4658056538349371393-2-1774369582 - Holdem no limit (10/20) - 2026/03/24 16:26:22 UTC
+Table: 'Expresso Nitro(1084538302)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Louna725 (310)
+Seat 2: MathisKcr (300)
+Seat 3: AAjohn87 (290)
+*** ANTE/BLINDS ***
+Louna725 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ah 9c]
+*** PRE-FLOP *** 
+AAjohn87 folds
+Louna725 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4658056538349371393-3-1774369592 - Holdem no limit (10/20) - 2026/03/24 16:26:32 UTC
+Table: 'Expresso Nitro(1084538302)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Louna725 (300)
+Seat 2: MathisKcr (310)
+Seat 3: AAjohn87 (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+AAjohn87 posts big blind 20
+Dealt to MathisKcr [8h Ad]
+*** PRE-FLOP *** 
+Louna725 raises 50 to 70
+MathisKcr calls 60
+AAjohn87 folds
+*** FLOP *** [3h Ts 4c]
+MathisKcr bets 56
+Louna725 calls 56
+*** TURN *** [3h Ts 4c][2s]
+MathisKcr checks
+Louna725 bets 95
+MathisKcr folds
+Louna725 collected 367 from pot
+*** SUMMARY ***
+Total pot 367 | No rake
+Board: [3h Ts 4c 2s]
+Seat 1: Louna725 (button) won 367
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4658056538349371393-4-1774369624 - Holdem no limit (10/20) - 2026/03/24 16:27:04 UTC
+Table: 'Expresso Nitro(1084538302)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Louna725 (446)
+Seat 2: MathisKcr (184)
+Seat 3: AAjohn87 (270)
+*** ANTE/BLINDS ***
+AAjohn87 posts small blind 10
+Louna725 posts big blind 20
+Dealt to MathisKcr [Qs Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 164 to 184 and is all-in
+AAjohn87 folds
+Louna725 folds
+MathisKcr collected 214 from pot
+*** SUMMARY ***
+Total pot 214 | No rake
+Seat 2: MathisKcr (button) won 214
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4658056538349371393-5-1774369632 - Holdem no limit (15/30) - 2026/03/24 16:27:12 UTC
+Table: 'Expresso Nitro(1084538302)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Louna725 (426)
+Seat 2: MathisKcr (214)
+Seat 3: AAjohn87 (260)
+*** ANTE/BLINDS ***
+Louna725 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Td 4h]
+*** PRE-FLOP *** 
+AAjohn87 folds
+Louna725 raises 396 to 426 and is all-in
+MathisKcr folds
+Louna725 collected 456 from pot
+*** SUMMARY ***
+Total pot 456 | No rake
+Seat 1: Louna725 (small blind) won 456
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4658056538349371393-6-1774369640 - Holdem no limit (15/30) - 2026/03/24 16:27:20 UTC
+Table: 'Expresso Nitro(1084538302)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Louna725 (456)
+Seat 2: MathisKcr (184)
+Seat 3: AAjohn87 (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+AAjohn87 posts big blind 30
+Dealt to MathisKcr [Tc Ac]
+*** PRE-FLOP *** 
+Louna725 calls 30
+MathisKcr raises 154 to 184 and is all-in
+AAjohn87 folds
+Louna725 calls 154
+*** FLOP *** [4s 7d 9s]
+*** TURN *** [4s 7d 9s][6s]
+*** RIVER *** [4s 7d 9s 6s][5d]
+*** SHOW DOWN ***
+MathisKcr shows [Tc Ac] (High card : Ace)
+Louna725 shows [Td 9d] (One pair : 9)
+Louna725 collected 398 from pot
+*** SUMMARY ***
+Total pot 398 | No rake
+Board: [4s 7d 9s 6s 5d]
+Seat 1: Louna725 (button) showed [Td 9d] and won 398 with One pair : 9
+Seat 2: MathisKcr (small blind) showed [Tc Ac] and lost with High card : Ace
+
+

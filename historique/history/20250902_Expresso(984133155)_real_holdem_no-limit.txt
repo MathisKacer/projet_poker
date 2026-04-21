@@ -1,0 +1,374 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226819715634298881-1-1756801379 - Holdem no limit (10/20) - 2025/09/02 08:22:59 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Sacoche29217 (500)
+Seat 3: giniaux69 (500)
+*** ANTE/BLINDS ***
+giniaux69 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As Tc]
+*** PRE-FLOP *** 
+Sacoche29217 calls 20
+giniaux69 raises 30 to 50
+MathisKcr raises 30 to 80
+Sacoche29217 folds
+giniaux69 calls 30
+*** FLOP *** [4c 5c 2h]
+giniaux69 checks
+MathisKcr bets 100
+giniaux69 folds
+MathisKcr collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [4c 5c 2h]
+Seat 1: MathisKcr (big blind) won 280
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226819715634298881-2-1756801418 - Holdem no limit (10/20) - 2025/09/02 08:23:38 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (600)
+Seat 2: Sacoche29217 (480)
+Seat 3: giniaux69 (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Sacoche29217 posts big blind 20
+Dealt to MathisKcr [Ac Jc]
+*** PRE-FLOP *** 
+giniaux69 folds
+MathisKcr raises 20 to 40
+Sacoche29217 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226819715634298881-3-1756801431 - Holdem no limit (10/20) - 2025/09/02 08:23:51 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (620)
+Seat 2: Sacoche29217 (460)
+Seat 3: giniaux69 (420)
+*** ANTE/BLINDS ***
+Sacoche29217 posts small blind 10
+giniaux69 posts big blind 20
+Dealt to MathisKcr [7s 2d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sacoche29217 folds
+giniaux69 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: giniaux69 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226819715634298881-4-1756801463 - Holdem no limit (10/20) - 2025/09/02 08:24:23 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (620)
+Seat 2: Sacoche29217 (450)
+Seat 3: giniaux69 (430)
+*** ANTE/BLINDS ***
+giniaux69 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9s Kd]
+*** PRE-FLOP *** 
+Sacoche29217 folds
+giniaux69 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226819715634298881-5-1756801478 - Holdem no limit (15/30) - 2025/09/02 08:24:38 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (630)
+Seat 2: Sacoche29217 (450)
+Seat 3: giniaux69 (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Sacoche29217 posts big blind 30
+Dealt to MathisKcr [Jd Ts]
+*** PRE-FLOP *** 
+giniaux69 raises 45 to 75
+MathisKcr calls 60
+Sacoche29217 calls 45
+*** FLOP *** [3c 2h Kc]
+MathisKcr checks
+Sacoche29217 checks
+giniaux69 bets 105
+MathisKcr calls 105
+Sacoche29217 folds
+*** TURN *** [3c 2h Kc][8d]
+MathisKcr checks
+giniaux69 checks
+*** RIVER *** [3c 2h Kc 8d][8h]
+MathisKcr checks
+giniaux69 checks
+*** SHOW DOWN ***
+MathisKcr shows [Jd Ts] (One pair : 8)
+giniaux69 shows [Ad 3s] (Two pairs : 8 and 3)
+giniaux69 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Board: [3c 2h Kc 8d 8h]
+Seat 1: MathisKcr (small blind) showed [Jd Ts] and lost with One pair : 8
+Seat 3: giniaux69 (button) showed [Ad 3s] and won 435 with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226819715634298881-6-1756801513 - Holdem no limit (15/30) - 2025/09/02 08:25:13 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (450)
+Seat 2: Sacoche29217 (375)
+Seat 3: giniaux69 (675)
+*** ANTE/BLINDS ***
+Sacoche29217 posts small blind 15
+giniaux69 posts big blind 30
+Dealt to MathisKcr [9h 8c]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Sacoche29217 calls 15
+giniaux69 checks
+*** FLOP *** [5s As Td]
+Sacoche29217 checks
+giniaux69 checks
+MathisKcr checks
+*** TURN *** [5s As Td][Jd]
+Sacoche29217 checks
+giniaux69 checks
+MathisKcr bets 60
+Sacoche29217 folds
+giniaux69 folds
+MathisKcr collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [5s As Td Jd]
+Seat 1: MathisKcr (button) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4226819715634298881-7-1756801576 - Holdem no limit (20/40) - 2025/09/02 08:26:16 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (510)
+Seat 2: Sacoche29217 (345)
+Seat 3: giniaux69 (645)
+*** ANTE/BLINDS ***
+giniaux69 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ad 4c]
+*** PRE-FLOP *** 
+Sacoche29217 calls 40
+giniaux69 calls 20
+MathisKcr raises 40 to 80
+Sacoche29217 calls 40
+giniaux69 calls 40
+*** FLOP *** [Th 2c 5c]
+giniaux69 checks
+MathisKcr bets 80
+Sacoche29217 calls 80
+giniaux69 folds
+*** TURN *** [Th 2c 5c][Jd]
+MathisKcr checks
+Sacoche29217 bets 185 and is all-in
+MathisKcr folds
+Sacoche29217 collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Board: [Th 2c 5c Jd]
+Seat 2: Sacoche29217 (button) won 585
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4226819715634298881-8-1756801645 - Holdem no limit (20/40) - 2025/09/02 08:27:25 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (350)
+Seat 2: Sacoche29217 (585)
+Seat 3: giniaux69 (565)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Sacoche29217 posts big blind 40
+Dealt to MathisKcr [2h 3h]
+*** PRE-FLOP *** 
+giniaux69 raises 60 to 100
+MathisKcr calls 80
+Sacoche29217 folds
+*** FLOP *** [3d As Th]
+MathisKcr bets 250 and is all-in
+giniaux69 folds
+MathisKcr collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [3d As Th]
+Seat 1: MathisKcr (small blind) won 490
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4226819715634298881-9-1756801669 - Holdem no limit (30/60) - 2025/09/02 08:27:49 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (490)
+Seat 2: Sacoche29217 (545)
+Seat 3: giniaux69 (465)
+*** ANTE/BLINDS ***
+Sacoche29217 posts small blind 30
+giniaux69 posts big blind 60
+Dealt to MathisKcr [9d 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sacoche29217 calls 30
+giniaux69 raises 150 to 210
+Sacoche29217 folds
+giniaux69 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 3: giniaux69 (big blind) won 270
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4226819715634298881-10-1756801682 - Holdem no limit (30/60) - 2025/09/02 08:28:02 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (490)
+Seat 2: Sacoche29217 (485)
+Seat 3: giniaux69 (525)
+*** ANTE/BLINDS ***
+giniaux69 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [4h 6c]
+*** PRE-FLOP *** 
+Sacoche29217 folds
+giniaux69 raises 60 to 120
+MathisKcr calls 60
+*** FLOP *** [6h 7c Jc]
+giniaux69 checks
+MathisKcr bets 370 and is all-in
+giniaux69 folds
+MathisKcr collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [6h 7c Jc]
+Seat 1: MathisKcr (big blind) won 610
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4226819715634298881-11-1756801708 - Holdem no limit (30/60) - 2025/09/02 08:28:28 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (610)
+Seat 2: Sacoche29217 (485)
+Seat 3: giniaux69 (405)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Sacoche29217 posts big blind 60
+Dealt to MathisKcr [9d 6s]
+*** PRE-FLOP *** 
+giniaux69 folds
+MathisKcr calls 30
+Sacoche29217 checks
+*** FLOP *** [8h 7c 7h]
+MathisKcr bets 120
+Sacoche29217 folds
+MathisKcr collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8h 7c 7h]
+Seat 1: MathisKcr (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4226819715634298881-12-1756801737 - Holdem no limit (40/80) - 2025/09/02 08:28:57 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (670)
+Seat 2: Sacoche29217 (425)
+Seat 3: giniaux69 (405)
+*** ANTE/BLINDS ***
+Sacoche29217 posts small blind 40
+giniaux69 posts big blind 80
+Dealt to MathisKcr [4s 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sacoche29217 calls 40
+giniaux69 checks
+*** FLOP *** [Qh Ks 2s]
+Sacoche29217 bets 80
+giniaux69 calls 80
+*** TURN *** [Qh Ks 2s][Js]
+Sacoche29217 checks
+giniaux69 checks
+*** RIVER *** [Qh Ks 2s Js][9h]
+Sacoche29217 checks
+giniaux69 checks
+*** SHOW DOWN ***
+Sacoche29217 shows [Qd 8c] (One pair : Queens)
+giniaux69 shows [4h Qc] (One pair : Queens)
+giniaux69 collected 160 from pot
+Sacoche29217 collected 160 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Qh Ks 2s Js 9h]
+Seat 2: Sacoche29217 (small blind) showed [Qd 8c] and won 160 with One pair : Queens
+Seat 3: giniaux69 (big blind) showed [4h Qc] and won 160 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4226819715634298881-13-1756801780 - Holdem no limit (40/80) - 2025/09/02 08:29:40 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (670)
+Seat 2: Sacoche29217 (425)
+Seat 3: giniaux69 (405)
+*** ANTE/BLINDS ***
+giniaux69 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Qd Ac]
+*** PRE-FLOP *** 
+Sacoche29217 calls 80
+giniaux69 raises 120 to 200
+MathisKcr raises 470 to 670 and is all-in
+Sacoche29217 folds
+giniaux69 calls 205 and is all-in
+*** FLOP *** [5s 9h Qc]
+*** TURN *** [5s 9h Qc][Ad]
+*** RIVER *** [5s 9h Qc Ad][Qh]
+*** SHOW DOWN ***
+giniaux69 shows [9c 6c] (Two pairs : Queens and 9)
+MathisKcr shows [Qd Ac] (Full of Queens and Aces)
+MathisKcr collected 1155 from pot
+*** SUMMARY ***
+Total pot 1155 | No rake
+Board: [5s 9h Qc Ad Qh]
+Seat 1: MathisKcr (big blind) showed [Qd Ac] and won 1155 with Full of Queens and Aces
+Seat 3: giniaux69 (small blind) showed [9c 6c] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4226819715634298881-14-1756801807 - Holdem no limit (40/80) - 2025/09/02 08:30:07 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1155)
+Seat 2: Sacoche29217 (345)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Sacoche29217 posts big blind 80
+Dealt to MathisKcr [5s 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sacoche29217 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Sacoche29217 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4226819715634298881-15-1756801812 - Holdem no limit (40/80) - 2025/09/02 08:30:12 UTC
+Table: 'Expresso(984133155)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (1115)
+Seat 2: Sacoche29217 (385)
+*** ANTE/BLINDS ***
+Sacoche29217 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Jh Kd]
+*** PRE-FLOP *** 
+Sacoche29217 calls 40
+MathisKcr raises 160 to 240
+Sacoche29217 raises 145 to 385 and is all-in
+MathisKcr calls 145
+*** FLOP *** [8d Jc As]
+*** TURN *** [8d Jc As][6h]
+*** RIVER *** [8d Jc As 6h][Ac]
+*** SHOW DOWN ***
+Sacoche29217 shows [Ks Qd] (One pair : Aces)
+MathisKcr shows [Jh Kd] (Two pairs : Aces and Jacks)
+MathisKcr collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Board: [8d Jc As 6h Ac]
+Seat 1: MathisKcr (big blind) showed [Jh Kd] and won 770 with Two pairs : Aces and Jacks
+Seat 2: Sacoche29217 (small blind) (button) showed [Ks Qd] and lost with One pair : Aces
+
+

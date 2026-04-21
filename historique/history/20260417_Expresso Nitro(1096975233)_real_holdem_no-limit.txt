@@ -1,0 +1,109 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4711472750256979969-1-1776415646 - Holdem no limit (10/20) - 2026/04/17 08:47:26 UTC
+Table: 'Expresso Nitro(1096975233)#0' 3-max (real money) Seat #1 is the button
+Seat 1: xni10 (300)
+Seat 2: whiskos (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+whiskos posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th 3c]
+*** PRE-FLOP *** 
+xni10 folds
+whiskos folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4711472750256979969-2-1776415652 - Holdem no limit (10/20) - 2026/04/17 08:47:32 UTC
+Table: 'Expresso Nitro(1096975233)#0' 3-max (real money) Seat #2 is the button
+Seat 1: xni10 (300)
+Seat 2: whiskos (290)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+xni10 posts big blind 20
+Dealt to MathisKcr [Kd 6h]
+*** PRE-FLOP *** 
+whiskos folds
+MathisKcr raises 290 to 310 and is all-in
+xni10 calls 280 and is all-in
+*** FLOP *** [Js 3h 3c]
+*** TURN *** [Js 3h 3c][7h]
+*** RIVER *** [Js 3h 3c 7h][4d]
+*** SHOW DOWN ***
+xni10 shows [Kc Ad] (One pair : 3)
+MathisKcr shows [Kd 6h] (One pair : 3)
+MathisKcr collected 10 from side pot 1
+xni10 collected 600 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Js 3h 3c 7h 4d]
+Seat 1: xni10 (big blind) showed [Kc Ad] and won 600 with One pair : 3
+Seat 3: MathisKcr (small blind) showed [Kd 6h] and won 10 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4711472750256979969-3-1776415673 - Holdem no limit (10/20) - 2026/04/17 08:47:53 UTC
+Table: 'Expresso Nitro(1096975233)#0' 3-max (real money) Seat #3 is the button
+Seat 1: xni10 (600)
+Seat 2: whiskos (290)
+Seat 3: MathisKcr (10)
+*** ANTE/BLINDS ***
+xni10 posts small blind 10
+whiskos posts big blind 20
+Dealt to MathisKcr [7d 8h]
+*** PRE-FLOP *** 
+MathisKcr calls 10 and is all-in
+xni10 calls 10
+whiskos checks
+*** FLOP *** [Kc 5c 8d]
+xni10 bets 20
+whiskos folds
+*** TURN *** [Kc 5c 8d][7c]
+*** RIVER *** [Kc 5c 8d 7c][Ts]
+*** SHOW DOWN ***
+xni10 shows [Kd 4h] (One pair : Kings)
+MathisKcr shows [7d 8h] (Two pairs : 8 and 7)
+MathisKcr collected 30 from main pot
+xni10 collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Kc 5c 8d 7c Ts]
+Seat 1: xni10 (small blind) showed [Kd 4h] and won 40 with One pair : Kings
+Seat 3: MathisKcr (button) showed [7d 8h] and won 30 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4711472750256979969-4-1776415694 - Holdem no limit (10/20) - 2026/04/17 08:48:14 UTC
+Table: 'Expresso Nitro(1096975233)#0' 3-max (real money) Seat #1 is the button
+Seat 1: xni10 (600)
+Seat 2: whiskos (270)
+Seat 3: MathisKcr (30)
+*** ANTE/BLINDS ***
+whiskos posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th Jd]
+*** PRE-FLOP *** 
+xni10 raises 30 to 50
+whiskos calls 40
+MathisKcr calls 10 and is all-in
+*** FLOP *** [Kc Tc Kh]
+whiskos checks
+xni10 bets 550 and is all-in
+whiskos calls 220 and is all-in
+*** TURN *** [Kc Tc Kh][2d]
+*** RIVER *** [Kc Tc Kh 2d][4h]
+*** SHOW DOWN ***
+MathisKcr shows [Th Jd] (Two pairs : Kings and Tens)
+xni10 shows [8d Ad] (One pair : Kings)
+whiskos shows [7c Ks] (Trips of Kings)
+whiskos collected 570 from main pot
+xni10 collected 330 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kc Tc Kh 2d 4h]
+Seat 1: xni10 (button) showed [8d Ad] and won 330 with One pair : Kings
+Seat 2: whiskos (small blind) showed [7c Ks] and won 570 with Trips of Kings
+Seat 3: MathisKcr (big blind) showed [Th Jd] and lost with Two pairs : Kings and Tens
+
+

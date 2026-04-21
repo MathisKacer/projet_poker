@@ -1,0 +1,472 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677136140287868929-1-1775123678 - Holdem no limit (10/20) - 2026/04/02 09:54:38 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lievre 51554 (300)
+Seat 2: T0per Harley (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Lievre 51554 posts big blind 20
+Dealt to MathisKcr [Qh 4s]
+*** PRE-FLOP *** 
+T0per Harley folds
+MathisKcr folds
+Lievre 51554 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Lievre 51554 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677136140287868929-2-1775123696 - Holdem no limit (10/20) - 2026/04/02 09:54:56 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lievre 51554 (310)
+Seat 2: T0per Harley (300)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Lievre 51554 posts small blind 10
+T0per Harley posts big blind 20
+Dealt to MathisKcr [7s 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lievre 51554 calls 10
+T0per Harley checks
+*** FLOP *** [Qs 6c Kd]
+Lievre 51554 bets 20
+T0per Harley raises 30 to 50
+Lievre 51554 calls 30
+*** TURN *** [Qs 6c Kd][Ad]
+Lievre 51554 checks
+T0per Harley bets 140
+Lievre 51554 calls 140
+*** RIVER *** [Qs 6c Kd Ad][6s]
+Lievre 51554 checks
+T0per Harley bets 90 and is all-in
+Lievre 51554 calls 90
+*** SHOW DOWN ***
+Lievre 51554 shows [Kc 9s] (Two pairs : Kings and 6)
+T0per Harley shows [Ks 2d] (Two pairs : Kings and 6)
+T0per Harley collected 300 from pot
+Lievre 51554 collected 300 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Qs 6c Kd Ad 6s]
+Seat 1: Lievre 51554 (small blind) showed [Kc 9s] and won 300 with Two pairs : Kings and 6
+Seat 2: T0per Harley (big blind) showed [Ks 2d] and won 300 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677136140287868929-3-1775123739 - Holdem no limit (15/30) - 2026/04/02 09:55:39 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lievre 51554 (310)
+Seat 2: T0per Harley (300)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+T0per Harley posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3c 2d]
+*** PRE-FLOP *** 
+Lievre 51554 raises 280 to 310 and is all-in
+T0per Harley folds
+MathisKcr folds
+Lievre 51554 collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | No rake
+Seat 1: Lievre 51554 (button) won 355
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677136140287868929-4-1775123745 - Holdem no limit (15/30) - 2026/04/02 09:55:45 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lievre 51554 (355)
+Seat 2: T0per Harley (285)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Lievre 51554 posts big blind 30
+Dealt to MathisKcr [9h 6d]
+*** PRE-FLOP *** 
+T0per Harley folds
+MathisKcr folds
+Lievre 51554 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Lievre 51554 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677136140287868929-5-1775123752 - Holdem no limit (15/30) - 2026/04/02 09:55:52 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lievre 51554 (370)
+Seat 2: T0per Harley (285)
+Seat 3: MathisKcr (245)
+*** ANTE/BLINDS ***
+Lievre 51554 posts small blind 15
+T0per Harley posts big blind 30
+Dealt to MathisKcr [2d 8d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lievre 51554 calls 15
+T0per Harley checks
+*** FLOP *** [7c 3c 9h]
+Lievre 51554 checks
+T0per Harley checks
+*** TURN *** [7c 3c 9h][Th]
+Lievre 51554 checks
+T0per Harley checks
+*** RIVER *** [7c 3c 9h Th][8h]
+Lievre 51554 checks
+T0per Harley checks
+*** SHOW DOWN ***
+Lievre 51554 shows [Ac Qd] (High card : Ace)
+T0per Harley shows [3h 5s] (One pair : 3)
+T0per Harley collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7c 3c 9h Th 8h]
+Seat 1: Lievre 51554 (small blind) showed [Ac Qd] and lost with High card : Ace
+Seat 2: T0per Harley (big blind) showed [3h 5s] and won 60 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677136140287868929-6-1775123789 - Holdem no limit (15/30) - 2026/04/02 09:56:29 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lievre 51554 (340)
+Seat 2: T0per Harley (315)
+Seat 3: MathisKcr (245)
+*** ANTE/BLINDS ***
+T0per Harley posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kd 4s]
+*** PRE-FLOP *** 
+Lievre 51554 calls 30
+T0per Harley folds
+MathisKcr checks
+*** FLOP *** [6h 2d Ks]
+MathisKcr bets 49
+Lievre 51554 calls 49
+*** TURN *** [6h 2d Ks][2c]
+MathisKcr bets 166 and is all-in
+Lievre 51554 calls 166
+*** RIVER *** [6h 2d Ks 2c][Ad]
+*** SHOW DOWN ***
+Lievre 51554 shows [Qs 5s] (One pair : 2)
+MathisKcr shows [Kd 4s] (Two pairs : Kings and 2)
+MathisKcr collected 505 from pot
+*** SUMMARY ***
+Total pot 505 | No rake
+Board: [6h 2d Ks 2c Ad]
+Seat 1: Lievre 51554 (button) showed [Qs 5s] and lost with One pair : 2
+Seat 3: MathisKcr (big blind) showed [Kd 4s] and won 505 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4677136140287868929-7-1775123828 - Holdem no limit (20/40) - 2026/04/02 09:57:08 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lievre 51554 (95)
+Seat 2: T0per Harley (300)
+Seat 3: MathisKcr (505)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Lievre 51554 posts big blind 40
+Dealt to MathisKcr [9d Ts]
+*** PRE-FLOP *** 
+T0per Harley folds
+MathisKcr folds
+Lievre 51554 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Lievre 51554 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4677136140287868929-8-1775123838 - Holdem no limit (20/40) - 2026/04/02 09:57:18 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lievre 51554 (115)
+Seat 2: T0per Harley (300)
+Seat 3: MathisKcr (485)
+*** ANTE/BLINDS ***
+Lievre 51554 posts small blind 20
+T0per Harley posts big blind 40
+Dealt to MathisKcr [Kc 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 445 to 485 and is all-in
+Lievre 51554 folds
+T0per Harley folds
+MathisKcr collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | No rake
+Seat 3: MathisKcr (button) won 545
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4677136140287868929-9-1775123852 - Holdem no limit (20/40) - 2026/04/02 09:57:32 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lievre 51554 (95)
+Seat 2: T0per Harley (260)
+Seat 3: MathisKcr (545)
+*** ANTE/BLINDS ***
+T0per Harley posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6s 3d]
+*** PRE-FLOP *** 
+Lievre 51554 folds
+T0per Harley folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4677136140287868929-10-1775123860 - Holdem no limit (30/60) - 2026/04/02 09:57:40 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lievre 51554 (95)
+Seat 2: T0per Harley (240)
+Seat 3: MathisKcr (565)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Lievre 51554 posts big blind 60
+Dealt to MathisKcr [9d Jc]
+*** PRE-FLOP *** 
+T0per Harley raises 180 to 240 and is all-in
+MathisKcr raises 325 to 565 and is all-in
+Lievre 51554 folds
+*** FLOP *** [8s 6h Tc]
+*** TURN *** [8s 6h Tc][3s]
+*** RIVER *** [8s 6h Tc 3s][Ts]
+*** SHOW DOWN ***
+T0per Harley shows [Kh 9s] (One pair : Tens)
+MathisKcr shows [9d Jc] (One pair : Tens)
+MathisKcr collected 325 from side pot 1
+T0per Harley collected 540 from main pot
+*** SUMMARY ***
+Total pot 865 | No rake
+Board: [8s 6h Tc 3s Ts]
+Seat 2: T0per Harley (button) showed [Kh 9s] and won 540 with One pair : Tens
+Seat 3: MathisKcr (small blind) showed [9d Jc] and won 325 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4677136140287868929-11-1775123876 - Holdem no limit (30/60) - 2026/04/02 09:57:56 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lievre 51554 (35)
+Seat 2: T0per Harley (540)
+Seat 3: MathisKcr (325)
+*** ANTE/BLINDS ***
+Lievre 51554 posts small blind 30
+T0per Harley posts big blind 60
+Dealt to MathisKcr [Kh 8d]
+*** PRE-FLOP *** 
+MathisKcr raises 265 to 325 and is all-in
+Lievre 51554 calls 5 and is all-in
+T0per Harley folds
+*** FLOP *** [6c Kd 3s]
+*** TURN *** [6c Kd 3s][Jc]
+*** RIVER *** [6c Kd 3s Jc][Qd]
+*** SHOW DOWN ***
+Lievre 51554 shows [Td 9h] (Straight King high)
+MathisKcr shows [Kh 8d] (One pair : Kings)
+MathisKcr collected 315 from side pot 1
+Lievre 51554 collected 105 from main pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [6c Kd 3s Jc Qd]
+Seat 1: Lievre 51554 (small blind) showed [Td 9h] and won 105 with Straight King high
+Seat 3: MathisKcr (button) showed [Kh 8d] and won 315 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4677136140287868929-12-1775123895 - Holdem no limit (30/60) - 2026/04/02 09:58:15 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lievre 51554 (105)
+Seat 2: T0per Harley (480)
+Seat 3: MathisKcr (315)
+*** ANTE/BLINDS ***
+T0per Harley posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qh 4c]
+*** PRE-FLOP *** 
+Lievre 51554 calls 60
+T0per Harley folds
+MathisKcr checks
+*** FLOP *** [2c 4h Qd]
+MathisKcr checks
+Lievre 51554 checks
+*** TURN *** [2c 4h Qd][Jc]
+MathisKcr bets 98
+Lievre 51554 folds
+MathisKcr collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [2c 4h Qd Jc]
+Seat 3: MathisKcr (big blind) won 248
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4677136140287868929-13-1775123914 - Holdem no limit (30/60) - 2026/04/02 09:58:34 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lievre 51554 (45)
+Seat 2: T0per Harley (450)
+Seat 3: MathisKcr (405)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Lievre 51554 posts big blind 45 and is all-in
+Dealt to MathisKcr [Ad 7s]
+*** PRE-FLOP *** 
+T0per Harley folds
+MathisKcr calls 30
+*** FLOP *** [9s 4c 3c]
+*** TURN *** [9s 4c 3c][Td]
+*** RIVER *** [9s 4c 3c Td][Js]
+*** SHOW DOWN ***
+Lievre 51554 shows [5d 9c] (One pair : 9)
+MathisKcr shows [Ad 7s] (High card : Ace)
+MathisKcr collected 15 from side pot 1
+Lievre 51554 collected 90 from main pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [9s 4c 3c Td Js]
+Seat 1: Lievre 51554 (big blind) showed [5d 9c] and won 90 with One pair : 9
+Seat 3: MathisKcr (small blind) showed [Ad 7s] and won 15 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4677136140287868929-14-1775123934 - Holdem no limit (40/80) - 2026/04/02 09:58:54 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lievre 51554 (90)
+Seat 2: T0per Harley (450)
+Seat 3: MathisKcr (360)
+*** ANTE/BLINDS ***
+Lievre 51554 posts small blind 40
+T0per Harley posts big blind 80
+Dealt to MathisKcr [6s Th]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lievre 51554 raises 10 to 90 and is all-in
+T0per Harley calls 10
+*** FLOP *** [4s 8s Jc]
+*** TURN *** [4s 8s Jc][5h]
+*** RIVER *** [4s 8s Jc 5h][9s]
+*** SHOW DOWN ***
+T0per Harley shows [Qc 6h] (High card : Queen)
+Lievre 51554 shows [3c 9c] (One pair : 9)
+Lievre 51554 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [4s 8s Jc 5h 9s]
+Seat 1: Lievre 51554 (small blind) showed [3c 9c] and won 180 with One pair : 9
+Seat 2: T0per Harley (big blind) showed [Qc 6h] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4677136140287868929-15-1775123958 - Holdem no limit (40/80) - 2026/04/02 09:59:18 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lievre 51554 (180)
+Seat 2: T0per Harley (360)
+Seat 3: MathisKcr (360)
+*** ANTE/BLINDS ***
+T0per Harley posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [4s 5h]
+*** PRE-FLOP *** 
+Lievre 51554 folds
+T0per Harley raises 280 to 360 and is all-in
+MathisKcr folds
+T0per Harley collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 2: T0per Harley (small blind) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4677136140287868929-16-1775123975 - Holdem no limit (40/80) - 2026/04/02 09:59:35 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Lievre 51554 (180)
+Seat 2: T0per Harley (440)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Lievre 51554 posts big blind 80
+Dealt to MathisKcr [9c Td]
+*** PRE-FLOP *** 
+T0per Harley folds
+MathisKcr folds
+Lievre 51554 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Lievre 51554 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4677136140287868929-17-1775123981 - Holdem no limit (50/100) - 2026/04/02 09:59:41 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Lievre 51554 (220)
+Seat 2: T0per Harley (440)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+Lievre 51554 posts small blind 50
+T0per Harley posts big blind 100
+Dealt to MathisKcr [9c 7d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lievre 51554 calls 50
+T0per Harley raises 340 to 440 and is all-in
+Lievre 51554 folds
+T0per Harley collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 2: T0per Harley (big blind) won 540
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4677136140287868929-18-1775123996 - Holdem no limit (50/100) - 2026/04/02 09:59:56 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Lievre 51554 (120)
+Seat 2: T0per Harley (540)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+T0per Harley posts small blind 50
+MathisKcr posts big blind 100
+Dealt to MathisKcr [Qh 9s]
+*** PRE-FLOP *** 
+Lievre 51554 raises 20 to 120 and is all-in
+T0per Harley folds
+MathisKcr calls 20
+*** FLOP *** [Qs Jh 9h]
+*** TURN *** [Qs Jh 9h][4s]
+*** RIVER *** [Qs Jh 9h 4s][7s]
+*** SHOW DOWN ***
+Lievre 51554 shows [Tc 4c] (One pair : 4)
+MathisKcr shows [Qh 9s] (Two pairs : Queens and 9)
+MathisKcr collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Board: [Qs Jh 9h 4s 7s]
+Seat 1: Lievre 51554 (button) showed [Tc 4c] and lost with One pair : 4
+Seat 3: MathisKcr (big blind) showed [Qh 9s] and won 290 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4677136140287868929-19-1775124018 - Holdem no limit (50/100) - 2026/04/02 10:00:18 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #3 is the button
+Seat 2: T0per Harley (490)
+Seat 3: MathisKcr (410)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 50
+T0per Harley posts big blind 100
+Dealt to MathisKcr [2h 8d]
+*** PRE-FLOP *** 
+MathisKcr folds
+T0per Harley collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: T0per Harley (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4677136140287868929-20-1775124026 - Holdem no limit (50/100) - 2026/04/02 10:00:26 UTC
+Table: 'Expresso Nitro(1088980618)#0' 3-max (real money) Seat #2 is the button
+Seat 2: T0per Harley (540)
+Seat 3: MathisKcr (360)
+*** ANTE/BLINDS ***
+T0per Harley posts small blind 50
+MathisKcr posts big blind 100
+Dealt to MathisKcr [6c Kh]
+*** PRE-FLOP *** 
+T0per Harley raises 300 to 400
+MathisKcr calls 260 and is all-in
+*** FLOP *** [8s Qc 9d]
+*** TURN *** [8s Qc 9d][5d]
+*** RIVER *** [8s Qc 9d 5d][Tc]
+*** SHOW DOWN ***
+MathisKcr shows [6c Kh] (High card : King)
+T0per Harley shows [2d 2c] (One pair : 2)
+T0per Harley collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [8s Qc 9d 5d Tc]
+Seat 2: T0per Harley (small blind) (button) showed [2d 2c] and won 760 with One pair : 2
+Seat 3: MathisKcr (big blind) showed [6c Kh] and lost with High card : King
+
+

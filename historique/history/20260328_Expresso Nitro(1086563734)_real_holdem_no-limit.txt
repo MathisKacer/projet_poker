@@ -1,0 +1,88 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666755702549643265-1-1774720889 - Holdem no limit (10/20) - 2026/03/28 18:01:29 UTC
+Table: 'Expresso Nitro(1086563734)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: NOmelastiran (300)
+Seat 3: MkT30 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+NOmelastiran posts big blind 20
+Dealt to MathisKcr [Jd Ad]
+*** PRE-FLOP *** 
+MkT30 calls 20
+MathisKcr raises 280 to 300 and is all-in
+NOmelastiran folds
+MkT30 folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: MathisKcr (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666755702549643265-2-1774720903 - Holdem no limit (10/20) - 2026/03/28 18:01:43 UTC
+Table: 'Expresso Nitro(1086563734)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (340)
+Seat 2: NOmelastiran (280)
+Seat 3: MkT30 (280)
+*** ANTE/BLINDS ***
+NOmelastiran posts small blind 10
+MkT30 posts big blind 20
+Dealt to MathisKcr [7s Jc]
+*** PRE-FLOP *** 
+MathisKcr folds
+NOmelastiran raises 20 to 40
+MkT30 raises 240 to 280 and is all-in
+NOmelastiran folds
+MkT30 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: MkT30 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666755702549643265-3-1774720914 - Holdem no limit (10/20) - 2026/03/28 18:01:54 UTC
+Table: 'Expresso Nitro(1086563734)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (340)
+Seat 2: NOmelastiran (240)
+Seat 3: MkT30 (320)
+*** ANTE/BLINDS ***
+MkT30 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd 9d]
+*** PRE-FLOP *** 
+NOmelastiran folds
+MkT30 raises 300 to 320 and is all-in
+MathisKcr folds
+MkT30 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: MkT30 (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666755702549643265-4-1774720922 - Holdem no limit (10/20) - 2026/03/28 18:02:02 UTC
+Table: 'Expresso Nitro(1086563734)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (320)
+Seat 2: NOmelastiran (240)
+Seat 3: MkT30 (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+NOmelastiran posts big blind 20
+Dealt to MathisKcr [Ad 3d]
+*** PRE-FLOP *** 
+MkT30 raises 320 to 340 and is all-in
+MathisKcr calls 310 and is all-in
+NOmelastiran calls 220 and is all-in
+*** FLOP *** [2c Qh Jh]
+*** TURN *** [2c Qh Jh][7h]
+*** RIVER *** [2c Qh Jh 7h][Qc]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 3d] (One pair : Queens)
+NOmelastiran shows [8d Ks] (One pair : Queens)
+MkT30 shows [9c 7c] (Two pairs : Queens and 7)
+MkT30 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2c Qh Jh 7h Qc]
+Seat 1: MathisKcr (small blind) showed [Ad 3d] and lost with One pair : Queens
+Seat 2: NOmelastiran (big blind) showed [8d Ks] and lost with One pair : Queens
+Seat 3: MkT30 (button) showed [9c 7c] and won 900 with Two pairs : Queens and 7
+
+

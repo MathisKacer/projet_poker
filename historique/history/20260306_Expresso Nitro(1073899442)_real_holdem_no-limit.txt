@@ -1,0 +1,159 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612362982582648833-1-1772817003 - Holdem no limit (10/20) - 2026/03/06 17:10:03 UTC
+Table: 'Expresso Nitro(1073899442)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: F3max (300)
+Seat 3: Cabeza.llena (300)
+*** ANTE/BLINDS ***
+F3max posts small blind 10
+Cabeza.llena posts big blind 20
+Dealt to MathisKcr [6c Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+F3max folds
+Cabeza.llena calls 40
+*** FLOP *** [6h 3d Ah]
+Cabeza.llena bets 130
+MathisKcr folds
+Cabeza.llena collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [6h 3d Ah]
+Seat 3: Cabeza.llena (big blind) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612362982582648833-2-1772817017 - Holdem no limit (10/20) - 2026/03/06 17:10:17 UTC
+Table: 'Expresso Nitro(1073899442)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (240)
+Seat 2: F3max (290)
+Seat 3: Cabeza.llena (370)
+*** ANTE/BLINDS ***
+Cabeza.llena posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s 3c]
+*** PRE-FLOP *** 
+F3max calls 20
+Cabeza.llena calls 10
+MathisKcr checks
+*** FLOP *** [7d 3h Qd]
+Cabeza.llena checks
+MathisKcr bets 21
+F3max folds
+Cabeza.llena folds
+MathisKcr collected 81 from pot
+*** SUMMARY ***
+Total pot 81 | No rake
+Board: [7d 3h Qd]
+Seat 1: MathisKcr (big blind) won 81
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612362982582648833-3-1772817035 - Holdem no limit (10/20) - 2026/03/06 17:10:35 UTC
+Table: 'Expresso Nitro(1073899442)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: F3max (270)
+Seat 3: Cabeza.llena (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+F3max posts big blind 20
+Dealt to MathisKcr [Kh Jd]
+*** PRE-FLOP *** 
+Cabeza.llena folds
+MathisKcr raises 40 to 60
+F3max folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: MathisKcr (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612362982582648833-4-1772817045 - Holdem no limit (10/20) - 2026/03/06 17:10:45 UTC
+Table: 'Expresso Nitro(1073899442)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: F3max (250)
+Seat 3: Cabeza.llena (350)
+*** ANTE/BLINDS ***
+F3max posts small blind 10
+Cabeza.llena posts big blind 20
+Dealt to MathisKcr [3h 4h]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+F3max calls 50
+Cabeza.llena folds
+*** FLOP *** [Qc 4d 9s]
+F3max checks
+MathisKcr bets 49
+F3max calls 49
+*** TURN *** [Qc 4d 9s][7d]
+F3max checks
+MathisKcr bets 119
+F3max calls 119
+*** RIVER *** [Qc 4d 9s 7d][Js]
+F3max checks
+MathisKcr checks
+*** SHOW DOWN ***
+F3max shows [Kh 2s] (High card : King)
+MathisKcr shows [3h 4h] (One pair : 4)
+MathisKcr collected 476 from pot
+*** SUMMARY ***
+Total pot 476 | No rake
+Board: [Qc 4d 9s 7d Js]
+Seat 1: MathisKcr (button) showed [3h 4h] and won 476 with One pair : 4
+Seat 2: F3max (small blind) showed [Kh 2s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4612362982582648833-5-1772817075 - Holdem no limit (15/30) - 2026/03/06 17:11:15 UTC
+Table: 'Expresso Nitro(1073899442)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (548)
+Seat 2: F3max (22)
+Seat 3: Cabeza.llena (330)
+*** ANTE/BLINDS ***
+Cabeza.llena posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4s 7s]
+*** PRE-FLOP *** 
+F3max calls 22 and is all-in
+Cabeza.llena folds
+*** FLOP *** [5h Th 2h]
+*** TURN *** [5h Th 2h][Qc]
+*** RIVER *** [5h Th 2h Qc][2c]
+*** SHOW DOWN ***
+MathisKcr shows [4s 7s] (One pair : 2)
+F3max shows [9d Js] (One pair : 2)
+F3max collected 59 from main pot
+MathisKcr collected 8 from side pot 1
+*** SUMMARY ***
+Total pot 67 | No rake
+Board: [5h Th 2h Qc 2c]
+Seat 1: MathisKcr (big blind) showed [4s 7s] and won 8 with One pair : 2
+Seat 2: F3max (button) showed [9d Js] and won 59 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4612362982582648833-6-1772817087 - Holdem no limit (15/30) - 2026/03/06 17:11:27 UTC
+Table: 'Expresso Nitro(1073899442)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (526)
+Seat 2: F3max (59)
+Seat 3: Cabeza.llena (315)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+F3max posts big blind 30
+Dealt to MathisKcr [Jh As]
+*** PRE-FLOP *** 
+Cabeza.llena raises 75 to 105
+MathisKcr raises 421 to 526 and is all-in
+F3max calls 29 and is all-in
+Cabeza.llena calls 210 and is all-in
+*** FLOP *** [7c 6d 7s]
+*** TURN *** [7c 6d 7s][4s]
+*** RIVER *** [7c 6d 7s 4s][5c]
+*** SHOW DOWN ***
+F3max shows [Qs Kd] (One pair : 7)
+Cabeza.llena shows [Kc Js] (One pair : 7)
+MathisKcr shows [Jh As] (One pair : 7)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7c 6d 7s 4s 5c]
+Seat 1: MathisKcr (small blind) showed [Jh As] and won 900 with One pair : 7
+Seat 2: F3max (big blind) showed [Qs Kd] and lost with One pair : 7
+Seat 3: Cabeza.llena (button) showed [Kc Js] and lost with One pair : 7
+
+

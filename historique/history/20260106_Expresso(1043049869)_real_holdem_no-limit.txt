@@ -1,0 +1,378 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4479865075452084225-1-1767733654 - Holdem no limit (10/20) - 2026/01/06 21:07:34 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Knela (500)
+Seat 2: MathisKcr (500)
+Seat 3: Tomver67 (500)
+*** ANTE/BLINDS ***
+Knela posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 7s]
+*** PRE-FLOP *** 
+Tomver67 calls 20
+Knela raises 20 to 40
+MathisKcr raises 460 to 500 and is all-in
+Tomver67 folds
+Knela calls 460 and is all-in
+*** FLOP *** [Qs 8h 4d]
+*** TURN *** [Qs 8h 4d][6d]
+*** RIVER *** [Qs 8h 4d 6d][5s]
+*** SHOW DOWN ***
+Knela shows [As Ac] (One pair : Aces)
+MathisKcr shows [Ad 7s] (Straight 8 high)
+MathisKcr collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [Qs 8h 4d 6d 5s]
+Seat 1: Knela (small blind) showed [As Ac] and lost with One pair : Aces
+Seat 2: MathisKcr (big blind) showed [Ad 7s] and won 1020 with Straight 8 high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4479865075452084225-2-1767733671 - Holdem no limit (10/20) - 2026/01/06 21:07:51 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (1020)
+Seat 3: Tomver67 (480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Tomver67 posts big blind 20
+Dealt to MathisKcr [3s 3c]
+*** PRE-FLOP *** 
+MathisKcr raises 1000 to 1020 and is all-in
+Tomver67 folds
+MathisKcr collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Seat 2: MathisKcr (small blind) (button) won 1040
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4479865075452084225-3-1767733679 - Holdem no limit (10/20) - 2026/01/06 21:07:59 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (1040)
+Seat 3: Tomver67 (460)
+*** ANTE/BLINDS ***
+Tomver67 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kh 3c]
+*** PRE-FLOP *** 
+Tomver67 calls 10
+MathisKcr raises 20 to 40
+Tomver67 calls 20
+*** FLOP *** [8h 8s Th]
+MathisKcr bets 50
+Tomver67 folds
+MathisKcr collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [8h 8s Th]
+Seat 2: MathisKcr (big blind) won 130
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4479865075452084225-4-1767733693 - Holdem no limit (10/20) - 2026/01/06 21:08:13 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (1080)
+Seat 3: Tomver67 (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Tomver67 posts big blind 20
+Dealt to MathisKcr [7c 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Tomver67 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4479865075452084225-5-1767733703 - Holdem no limit (10/20) - 2026/01/06 21:08:23 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (1100)
+Seat 3: Tomver67 (400)
+*** ANTE/BLINDS ***
+Tomver67 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ac Jd]
+*** PRE-FLOP *** 
+Tomver67 calls 10
+MathisKcr raises 20 to 40
+Tomver67 raises 80 to 120
+MathisKcr raises 980 to 1100 and is all-in
+Tomver67 calls 280 and is all-in
+*** FLOP *** [6h 8d 3c]
+*** TURN *** [6h 8d 3c][Th]
+*** RIVER *** [6h 8d 3c Th][2h]
+*** SHOW DOWN ***
+MathisKcr shows [Ac Jd] (High card : Ace)
+Tomver67 shows [Qd Qs] (One pair : Queens)
+Tomver67 collected 800 from main pot
+MathisKcr collected 700 from side pot 1
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [6h 8d 3c Th 2h]
+Seat 2: MathisKcr (big blind) showed [Ac Jd] and won 700 with High card : Ace
+Seat 3: Tomver67 (small blind) (button) showed [Qd Qs] and won 800 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4479865075452084225-6-1767733722 - Holdem no limit (10/20) - 2026/01/06 21:08:42 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (700)
+Seat 3: Tomver67 (800)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Tomver67 posts big blind 20
+Dealt to MathisKcr [Js Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 680 to 700 and is all-in
+Tomver67 folds
+MathisKcr collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 2: MathisKcr (small blind) (button) won 720
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4479865075452084225-7-1767733729 - Holdem no limit (10/20) - 2026/01/06 21:08:49 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (720)
+Seat 3: Tomver67 (780)
+*** ANTE/BLINDS ***
+Tomver67 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7s 8d]
+*** PRE-FLOP *** 
+Tomver67 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4479865075452084225-8-1767733741 - Holdem no limit (15/30) - 2026/01/06 21:09:01 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (730)
+Seat 3: Tomver67 (770)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Tomver67 posts big blind 30
+Dealt to MathisKcr [9d 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Tomver67 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4479865075452084225-9-1767733750 - Holdem no limit (15/30) - 2026/01/06 21:09:10 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (760)
+Seat 3: Tomver67 (740)
+*** ANTE/BLINDS ***
+Tomver67 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2c Jd]
+*** PRE-FLOP *** 
+Tomver67 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4479865075452084225-10-1767733755 - Holdem no limit (15/30) - 2026/01/06 21:09:15 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (775)
+Seat 3: Tomver67 (725)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Tomver67 posts big blind 30
+Dealt to MathisKcr [2h Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 745 to 775 and is all-in
+Tomver67 folds
+MathisKcr collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | No rake
+Seat 2: MathisKcr (small blind) (button) won 805
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4479865075452084225-11-1767733764 - Holdem no limit (15/30) - 2026/01/06 21:09:24 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (805)
+Seat 3: Tomver67 (695)
+*** ANTE/BLINDS ***
+Tomver67 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3h 2d]
+*** PRE-FLOP *** 
+Tomver67 calls 15
+MathisKcr checks
+*** FLOP *** [4d Qc 4s]
+MathisKcr checks
+Tomver67 bets 30
+MathisKcr folds
+Tomver67 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [4d Qc 4s]
+Seat 3: Tomver67 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4479865075452084225-12-1767733779 - Holdem no limit (15/30) - 2026/01/06 21:09:39 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (775)
+Seat 3: Tomver67 (725)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Tomver67 posts big blind 30
+Dealt to MathisKcr [6d 4h]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Tomver67 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4479865075452084225-13-1767733789 - Holdem no limit (15/30) - 2026/01/06 21:09:49 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (805)
+Seat 3: Tomver67 (695)
+*** ANTE/BLINDS ***
+Tomver67 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jd Ts]
+*** PRE-FLOP *** 
+Tomver67 calls 15
+MathisKcr raises 30 to 60
+Tomver67 calls 30
+*** FLOP *** [Ac 6h Tc]
+MathisKcr bets 90
+Tomver67 calls 90
+*** TURN *** [Ac 6h Tc][Kh]
+MathisKcr checks
+Tomver67 bets 150
+MathisKcr calls 150
+*** RIVER *** [Ac 6h Tc Kh][Ad]
+MathisKcr checks
+Tomver67 checks
+*** SHOW DOWN ***
+Tomver67 shows [5c 4c] (One pair : Aces)
+MathisKcr shows [Jd Ts] (Two pairs : Aces and Tens)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ac 6h Tc Kh Ad]
+Seat 2: MathisKcr (big blind) showed [Jd Ts] and won 600 with Two pairs : Aces and Tens
+Seat 3: Tomver67 (small blind) (button) showed [5c 4c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4479865075452084225-14-1767733811 - Holdem no limit (15/30) - 2026/01/06 21:10:11 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (1105)
+Seat 3: Tomver67 (395)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Tomver67 posts big blind 30
+Dealt to MathisKcr [Kh 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Tomver67 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4479865075452084225-15-1767733819 - Holdem no limit (15/30) - 2026/01/06 21:10:19 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (1135)
+Seat 3: Tomver67 (365)
+*** ANTE/BLINDS ***
+Tomver67 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jh 2d]
+*** PRE-FLOP *** 
+Tomver67 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4479865075452084225-16-1767733823 - Holdem no limit (15/30) - 2026/01/06 21:10:23 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (1150)
+Seat 3: Tomver67 (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Tomver67 posts big blind 30
+Dealt to MathisKcr [Td 8s]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+Tomver67 raises 320 to 350 and is all-in
+MathisKcr folds
+Tomver67 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: Tomver67 (big blind) won 380
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4479865075452084225-17-1767733834 - Holdem no limit (20/40) - 2026/01/06 21:10:34 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (1120)
+Seat 3: Tomver67 (380)
+*** ANTE/BLINDS ***
+Tomver67 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9h Qh]
+*** PRE-FLOP *** 
+Tomver67 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4479865075452084225-18-1767733839 - Holdem no limit (20/40) - 2026/01/06 21:10:39 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (1140)
+Seat 3: Tomver67 (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Tomver67 posts big blind 40
+Dealt to MathisKcr [7c 4s]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Tomver67 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: MathisKcr (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4479865075452084225-19-1767733847 - Holdem no limit (20/40) - 2026/01/06 21:10:47 UTC
+Table: 'Expresso(1043049869)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (1180)
+Seat 3: Tomver67 (320)
+*** ANTE/BLINDS ***
+Tomver67 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [2s 2h]
+*** PRE-FLOP *** 
+Tomver67 raises 280 to 320 and is all-in
+MathisKcr calls 280
+*** FLOP *** [7c 5h Ad]
+*** TURN *** [7c 5h Ad][3d]
+*** RIVER *** [7c 5h Ad 3d][Qs]
+*** SHOW DOWN ***
+Tomver67 shows [Td 8h] (High card : Ace)
+MathisKcr shows [2s 2h] (One pair : 2)
+MathisKcr collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [7c 5h Ad 3d Qs]
+Seat 2: MathisKcr (big blind) showed [2s 2h] and won 640 with One pair : 2
+Seat 3: Tomver67 (small blind) (button) showed [Td 8h] and lost with High card : Ace
+
+

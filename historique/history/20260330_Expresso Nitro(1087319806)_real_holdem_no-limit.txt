@@ -1,0 +1,159 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670003007063064577-1-1774858464 - Holdem no limit (10/20) - 2026/03/30 08:14:24 UTC
+Table: 'Expresso Nitro(1087319806)#0' 3-max (real money) Seat #2 is the button
+Seat 1: loiseauzarb (300)
+Seat 2: tchoc (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+loiseauzarb posts big blind 20
+Dealt to MathisKcr [Qh Ac]
+*** PRE-FLOP *** 
+tchoc folds
+MathisKcr raises 280 to 300 and is all-in
+loiseauzarb folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: MathisKcr (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670003007063064577-2-1774858472 - Holdem no limit (10/20) - 2026/03/30 08:14:32 UTC
+Table: 'Expresso Nitro(1087319806)#0' 3-max (real money) Seat #3 is the button
+Seat 1: loiseauzarb (280)
+Seat 2: tchoc (300)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+loiseauzarb posts small blind 10
+tchoc posts big blind 20
+Dealt to MathisKcr [9s 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+loiseauzarb calls 10
+tchoc raises 280 to 300 and is all-in
+loiseauzarb calls 260 and is all-in
+*** FLOP *** [4s 5h 9h]
+*** TURN *** [4s 5h 9h][7h]
+*** RIVER *** [4s 5h 9h 7h][Jd]
+*** SHOW DOWN ***
+loiseauzarb shows [6h 6d] (One pair : 6)
+tchoc shows [Ac 2h] (High card : Ace)
+tchoc collected 20 from side pot 1
+loiseauzarb collected 560 from main pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [4s 5h 9h 7h Jd]
+Seat 1: loiseauzarb (small blind) showed [6h 6d] and won 560 with One pair : 6
+Seat 2: tchoc (big blind) showed [Ac 2h] and won 20 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670003007063064577-3-1774858493 - Holdem no limit (10/20) - 2026/03/30 08:14:53 UTC
+Table: 'Expresso Nitro(1087319806)#0' 3-max (real money) Seat #1 is the button
+Seat 1: loiseauzarb (560)
+Seat 2: tchoc (20)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+tchoc posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7d 3c]
+*** PRE-FLOP *** 
+loiseauzarb calls 20
+tchoc calls 10 and is all-in
+MathisKcr checks
+*** FLOP *** [6s Th Qh]
+MathisKcr checks
+loiseauzarb bets 20
+MathisKcr folds
+*** TURN *** [6s Th Qh][8s]
+*** RIVER *** [6s Th Qh 8s][7c]
+*** SHOW DOWN ***
+loiseauzarb shows [2d Tc] (One pair : Tens)
+tchoc shows [9c 4h] (Straight Ten high)
+tchoc collected 60 from main pot
+loiseauzarb collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [6s Th Qh 8s 7c]
+Seat 1: loiseauzarb (button) showed [2d Tc] and won 20 with One pair : Tens
+Seat 2: tchoc (small blind) showed [9c 4h] and won 60 with Straight Ten high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670003007063064577-4-1774858522 - Holdem no limit (15/30) - 2026/03/30 08:15:22 UTC
+Table: 'Expresso Nitro(1087319806)#0' 3-max (real money) Seat #2 is the button
+Seat 1: loiseauzarb (540)
+Seat 2: tchoc (60)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+loiseauzarb posts big blind 30
+Dealt to MathisKcr [9s 2h]
+*** PRE-FLOP *** 
+tchoc raises 30 to 60 and is all-in
+MathisKcr folds
+loiseauzarb calls 30
+*** FLOP *** [6c Kc Qh]
+*** TURN *** [6c Kc Qh][3s]
+*** RIVER *** [6c Kc Qh 3s][Kh]
+*** SHOW DOWN ***
+loiseauzarb shows [9c 4s] (One pair : Kings)
+tchoc shows [Js Tc] (One pair : Kings)
+tchoc collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [6c Kc Qh 3s Kh]
+Seat 1: loiseauzarb (big blind) showed [9c 4s] and lost with One pair : Kings
+Seat 2: tchoc (button) showed [Js Tc] and won 135 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670003007063064577-5-1774858541 - Holdem no limit (15/30) - 2026/03/30 08:15:41 UTC
+Table: 'Expresso Nitro(1087319806)#0' 3-max (real money) Seat #3 is the button
+Seat 1: loiseauzarb (480)
+Seat 2: tchoc (135)
+Seat 3: MathisKcr (285)
+*** ANTE/BLINDS ***
+loiseauzarb posts small blind 15
+tchoc posts big blind 30
+Dealt to MathisKcr [9c 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+loiseauzarb raises 30 to 60
+tchoc raises 75 to 135 and is all-in
+loiseauzarb calls 75
+*** FLOP *** [3c 3h Kd]
+*** TURN *** [3c 3h Kd][Qd]
+*** RIVER *** [3c 3h Kd Qd][3d]
+*** SHOW DOWN ***
+tchoc shows [Ts 9s] (Trips of 3)
+loiseauzarb shows [5c 5d] (Full of 3 and 5)
+loiseauzarb collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [3c 3h Kd Qd 3d]
+Seat 1: loiseauzarb (small blind) showed [5c 5d] and won 270 with Full of 3 and 5
+Seat 2: tchoc (big blind) showed [Ts 9s] and lost with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670003007063064577-6-1774858560 - Holdem no limit (15/30) - 2026/03/30 08:16:00 UTC
+Table: 'Expresso Nitro(1087319806)#0' 3-max (real money) Seat #3 is the button
+Seat 1: loiseauzarb (615)
+Seat 3: MathisKcr (285)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+loiseauzarb posts big blind 30
+Dealt to MathisKcr [8s Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 255 to 285 and is all-in
+loiseauzarb calls 255
+*** FLOP *** [9c 2h Th]
+*** TURN *** [9c 2h Th][2d]
+*** RIVER *** [9c 2h Th 2d][5c]
+*** SHOW DOWN ***
+MathisKcr shows [8s Ah] (One pair : 2)
+loiseauzarb shows [Qs Ac] (One pair : 2)
+loiseauzarb collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [9c 2h Th 2d 5c]
+Seat 1: loiseauzarb (big blind) showed [Qs Ac] and won 570 with One pair : 2
+Seat 3: MathisKcr (small blind) (button) showed [8s Ah] and lost with One pair : 2
+
+

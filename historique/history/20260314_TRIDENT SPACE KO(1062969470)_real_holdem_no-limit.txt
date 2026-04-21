@@ -1,0 +1,206 @@
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4565419110296453189-1-1773524710 - Holdem no limit (3/10/20) - 2026/03/14 21:45:10 UTC
+Table: 'TRIDENT SPACE KO(1062969470)#0068' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500, 0.25€ bounty)
+Seat 2: KKarfull (500, 0.25€ bounty)
+Seat 3: DOUBLE6 (500, 0.25€ bounty)
+*** ANTE/BLINDS ***
+DOUBLE6 posts ante 3
+MathisKcr posts ante 3
+KKarfull posts ante 3
+DOUBLE6 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Td 4h]
+*** PRE-FLOP *** 
+KKarfull folds
+DOUBLE6 folds
+MathisKcr collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | No rake
+Seat 1: MathisKcr (big blind) won 39
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4565419110296453189-2-1773524755 - Holdem no limit (3/10/20) - 2026/03/14 21:45:55 UTC
+Table: 'TRIDENT SPACE KO(1062969470)#0068' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (516, 0.25€ bounty)
+Seat 2: KKarfull (497, 0.25€ bounty)
+Seat 3: DOUBLE6 (487, 0.25€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+KKarfull posts ante 3
+DOUBLE6 posts ante 3
+MathisKcr posts small blind 10
+KKarfull posts big blind 20
+Dealt to MathisKcr [4s 3c]
+*** PRE-FLOP *** 
+DOUBLE6 folds
+MathisKcr calls 10
+KKarfull checks
+*** FLOP *** [Ah 3h 2s]
+MathisKcr bets 20
+KKarfull calls 20
+*** TURN *** [Ah 3h 2s][8c]
+MathisKcr bets 40
+KKarfull calls 40
+*** RIVER *** [Ah 3h 2s 8c][9s]
+MathisKcr checks
+KKarfull checks
+*** SHOW DOWN ***
+MathisKcr shows [4s 3c] (One pair : 3)
+KKarfull shows [3s Td] (One pair : 3)
+KKarfull collected 169 from pot
+*** SUMMARY ***
+Total pot 169 | No rake
+Board: [Ah 3h 2s 8c 9s]
+Seat 1: MathisKcr (small blind) showed [4s 3c] and lost with One pair : 3
+Seat 2: KKarfull (big blind) showed [3s Td] and won 169 with One pair : 3
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4565419110296453189-3-1773524779 - Holdem no limit (3/10/20) - 2026/03/14 21:46:19 UTC
+Table: 'TRIDENT SPACE KO(1062969470)#0068' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (433, 0.25€ bounty)
+Seat 2: KKarfull (583, 0.25€ bounty)
+Seat 3: DOUBLE6 (484, 0.25€ bounty)
+*** ANTE/BLINDS ***
+KKarfull posts ante 3
+DOUBLE6 posts ante 3
+MathisKcr posts ante 3
+KKarfull posts small blind 10
+DOUBLE6 posts big blind 20
+Dealt to MathisKcr [6s 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+KKarfull calls 10
+DOUBLE6 checks
+*** FLOP *** [Tc 6d 8d]
+KKarfull bets 50
+DOUBLE6 calls 50
+*** TURN *** [Tc 6d 8d][Ac]
+KKarfull checks
+DOUBLE6 bets 97
+KKarfull calls 97
+*** RIVER *** [Tc 6d 8d Ac][5s]
+KKarfull checks
+DOUBLE6 checks
+*** SHOW DOWN ***
+DOUBLE6 shows [Qh Td] (One pair : Tens)
+KKarfull shows [Kc Th] (One pair : Tens)
+KKarfull collected 343 from pot
+*** SUMMARY ***
+Total pot 343 | No rake
+Board: [Tc 6d 8d Ac 5s]
+Seat 2: KKarfull (small blind) showed [Kc Th] and won 343 with One pair : Tens
+Seat 3: DOUBLE6 (big blind) showed [Qh Td] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4565419110296453189-4-1773524815 - Holdem no limit (3/10/20) - 2026/03/14 21:46:55 UTC
+Table: 'TRIDENT SPACE KO(1062969470)#0068' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (430, 0.25€ bounty)
+Seat 2: KKarfull (756, 0.25€ bounty)
+Seat 3: DOUBLE6 (314, 0.25€ bounty)
+*** ANTE/BLINDS ***
+DOUBLE6 posts ante 3
+MathisKcr posts ante 3
+KKarfull posts ante 3
+DOUBLE6 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7s 8d]
+*** PRE-FLOP *** 
+KKarfull folds
+DOUBLE6 raises 291 to 311 and is all-in
+MathisKcr folds
+DOUBLE6 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: DOUBLE6 (small blind) won 340
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4565419110296453189-5-1773524829 - Holdem no limit (3/10/20) - 2026/03/14 21:47:09 UTC
+Table: 'TRIDENT SPACE KO(1062969470)#0068' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (407, 0.25€ bounty)
+Seat 2: KKarfull (753, 0.25€ bounty)
+Seat 3: DOUBLE6 (340, 0.25€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+KKarfull posts ante 3
+DOUBLE6 posts ante 3
+MathisKcr posts small blind 10
+KKarfull posts big blind 20
+Dealt to MathisKcr [Qd Ks]
+*** PRE-FLOP *** 
+DOUBLE6 calls 20
+MathisKcr raises 40 to 60
+KKarfull folds
+DOUBLE6 calls 40
+*** FLOP *** [3s 7d 3d]
+MathisKcr checks
+DOUBLE6 bets 149
+MathisKcr folds
+DOUBLE6 collected 298 from pot
+*** SUMMARY ***
+Total pot 298 | No rake
+Board: [3s 7d 3d]
+Seat 3: DOUBLE6 (button) won 298
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4565419110296453189-6-1773524852 - Holdem no limit (3/10/20) - 2026/03/14 21:47:32 UTC
+Table: 'TRIDENT SPACE KO(1062969470)#0068' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (344, 0.25€ bounty)
+Seat 2: KKarfull (730, 0.25€ bounty)
+Seat 3: DOUBLE6 (426, 0.25€ bounty)
+*** ANTE/BLINDS ***
+KKarfull posts ante 3
+DOUBLE6 posts ante 3
+MathisKcr posts ante 3
+KKarfull posts small blind 10
+DOUBLE6 posts big blind 20
+Dealt to MathisKcr [4d Th]
+*** PRE-FLOP *** 
+MathisKcr folds
+KKarfull calls 10
+DOUBLE6 raises 403 to 423 and is all-in
+KKarfull folds
+DOUBLE6 collected 452 from pot
+*** SUMMARY ***
+Total pot 452 | No rake
+Seat 3: DOUBLE6 (big blind) won 452
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4565419110296453189-7-1773524877 - Holdem no limit (3/10/20) - 2026/03/14 21:47:57 UTC
+Table: 'TRIDENT SPACE KO(1062969470)#0068' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (341, 0.25€ bounty)
+Seat 2: KKarfull (707, 0.25€ bounty)
+Seat 3: DOUBLE6 (452, 0.25€ bounty)
+*** ANTE/BLINDS ***
+DOUBLE6 posts ante 3
+MathisKcr posts ante 3
+KKarfull posts ante 3
+DOUBLE6 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ah 8s]
+*** PRE-FLOP *** 
+KKarfull folds
+DOUBLE6 calls 10
+MathisKcr raises 40 to 60
+DOUBLE6 calls 40
+*** FLOP *** [4s 6c Ks]
+DOUBLE6 checks
+MathisKcr bets 45
+DOUBLE6 calls 45
+*** TURN *** [4s 6c Ks][Js]
+DOUBLE6 checks
+MathisKcr bets 110
+DOUBLE6 raises 110 to 220
+MathisKcr raises 13 to 233 and is all-in
+DOUBLE6 calls 13
+*** RIVER *** [4s 6c Ks Js][2d]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 8s] (High card : Ace)
+DOUBLE6 shows [3d Kh] (One pair : Kings)
+DOUBLE6 collected 685 from pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Board: [4s 6c Ks Js 2d]
+Seat 1: MathisKcr (big blind) showed [Ah 8s] and lost with High card : Ace
+Seat 3: DOUBLE6 (small blind) showed [3d Kh] and won 685 with One pair : Kings
+
+

@@ -1,0 +1,283 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4252616302826356737-1-1757938897 - Holdem no limit (10/20) - 2025/09/15 12:21:37 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shpilevoy (500)
+Seat 2: boulespunk (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Shpilevoy posts small blind 10
+boulespunk posts big blind 20
+Dealt to MathisKcr [3d Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Shpilevoy calls 30
+boulespunk raises 20 to 60
+MathisKcr calls 20
+Shpilevoy calls 20
+*** FLOP *** [8c 4h 5h]
+Shpilevoy checks
+boulespunk bets 20
+MathisKcr calls 20
+Shpilevoy calls 20
+*** TURN *** [8c 4h 5h][7s]
+Shpilevoy checks
+boulespunk bets 420 and is all-in
+MathisKcr folds
+Shpilevoy calls 420 and is all-in
+*** RIVER *** [8c 4h 5h 7s][5d]
+*** SHOW DOWN ***
+Shpilevoy shows [As 6h] (Straight 8 high)
+boulespunk shows [Qs 6s] (Straight 8 high)
+boulespunk collected 540 from pot
+Shpilevoy collected 540 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [8c 4h 5h 7s 5d]
+Seat 1: Shpilevoy (small blind) showed [As 6h] and won 540 with Straight 8 high
+Seat 2: boulespunk (big blind) showed [Qs 6s] and won 540 with Straight 8 high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4252616302826356737-2-1757938937 - Holdem no limit (10/20) - 2025/09/15 12:22:17 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shpilevoy (540)
+Seat 2: boulespunk (540)
+Seat 3: MathisKcr (420)
+*** ANTE/BLINDS ***
+boulespunk posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qh Qs]
+*** PRE-FLOP *** 
+Shpilevoy raises 20 to 40
+boulespunk folds
+MathisKcr raises 20 to 60
+Shpilevoy raises 480 to 540 and is all-in
+MathisKcr calls 360 and is all-in
+*** FLOP *** [Js 2s 2d]
+*** TURN *** [Js 2s 2d][5d]
+*** RIVER *** [Js 2s 2d 5d][8c]
+*** SHOW DOWN ***
+Shpilevoy shows [7s 7c] (Two pairs : 7 and 2)
+MathisKcr shows [Qh Qs] (Two pairs : Queens and 2)
+MathisKcr collected 850 from main pot
+Shpilevoy collected 120 from side pot 1
+*** SUMMARY ***
+Total pot 970 | No rake
+Board: [Js 2s 2d 5d 8c]
+Seat 1: Shpilevoy (button) showed [7s 7c] and won 120 with Two pairs : 7 and 2
+Seat 3: MathisKcr (big blind) showed [Qh Qs] and won 850 with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4252616302826356737-3-1757938962 - Holdem no limit (10/20) - 2025/09/15 12:22:42 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shpilevoy (120)
+Seat 2: boulespunk (530)
+Seat 3: MathisKcr (850)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Shpilevoy posts big blind 20
+Dealt to MathisKcr [3d 8c]
+*** PRE-FLOP *** 
+boulespunk folds
+MathisKcr calls 10
+Shpilevoy raises 100 to 120 and is all-in
+MathisKcr folds
+Shpilevoy collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: Shpilevoy (big blind) won 140
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4252616302826356737-4-1757938978 - Holdem no limit (10/20) - 2025/09/15 12:22:58 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shpilevoy (140)
+Seat 2: boulespunk (530)
+Seat 3: MathisKcr (830)
+*** ANTE/BLINDS ***
+Shpilevoy posts small blind 10
+boulespunk posts big blind 20
+Dealt to MathisKcr [Qd Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Shpilevoy raises 80 to 140 and is all-in
+boulespunk folds
+MathisKcr calls 80
+*** FLOP *** [9d Ts 9c]
+*** TURN *** [9d Ts 9c][2d]
+*** RIVER *** [9d Ts 9c 2d][4s]
+*** SHOW DOWN ***
+MathisKcr shows [Qd Jc] (One pair : 9)
+Shpilevoy shows [As 2h] (Two pairs : 9 and 2)
+Shpilevoy collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [9d Ts 9c 2d 4s]
+Seat 1: Shpilevoy (small blind) showed [As 2h] and won 300 with Two pairs : 9 and 2
+Seat 3: MathisKcr (button) showed [Qd Jc] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4252616302826356737-5-1757939003 - Holdem no limit (15/30) - 2025/09/15 12:23:23 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shpilevoy (300)
+Seat 2: boulespunk (510)
+Seat 3: MathisKcr (690)
+*** ANTE/BLINDS ***
+boulespunk posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9h 5h]
+*** PRE-FLOP *** 
+Shpilevoy raises 270 to 300 and is all-in
+boulespunk folds
+MathisKcr folds
+Shpilevoy collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 1: Shpilevoy (button) won 345
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4252616302826356737-6-1757939043 - Holdem no limit (15/30) - 2025/09/15 12:24:03 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shpilevoy (345)
+Seat 2: boulespunk (495)
+Seat 3: MathisKcr (660)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Shpilevoy posts big blind 30
+Dealt to MathisKcr [Tc Qc]
+*** PRE-FLOP *** 
+boulespunk raises 30 to 60
+MathisKcr folds
+Shpilevoy folds
+boulespunk collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: boulespunk (button) won 105
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4252616302826356737-7-1757939062 - Holdem no limit (15/30) - 2025/09/15 12:24:22 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shpilevoy (315)
+Seat 2: boulespunk (540)
+Seat 3: MathisKcr (645)
+*** ANTE/BLINDS ***
+Shpilevoy posts small blind 15
+boulespunk posts big blind 30
+Dealt to MathisKcr [4c 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Shpilevoy raises 285 to 315 and is all-in
+boulespunk folds
+Shpilevoy collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Seat 1: Shpilevoy (small blind) won 345
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4252616302826356737-8-1757939077 - Holdem no limit (20/40) - 2025/09/15 12:24:37 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shpilevoy (345)
+Seat 2: boulespunk (510)
+Seat 3: MathisKcr (645)
+*** ANTE/BLINDS ***
+boulespunk posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6c Ah]
+*** PRE-FLOP *** 
+Shpilevoy folds
+boulespunk raises 470 to 510 and is all-in
+MathisKcr folds
+boulespunk collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Seat 2: boulespunk (small blind) won 550
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4252616302826356737-9-1757939092 - Holdem no limit (20/40) - 2025/09/15 12:24:52 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Shpilevoy (345)
+Seat 2: boulespunk (550)
+Seat 3: MathisKcr (605)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Shpilevoy posts big blind 40
+Dealt to MathisKcr [Kd Qh]
+*** PRE-FLOP *** 
+boulespunk folds
+MathisKcr folds
+Shpilevoy collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Shpilevoy (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4252616302826356737-10-1757939104 - Holdem no limit (20/40) - 2025/09/15 12:25:04 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Shpilevoy (365)
+Seat 2: boulespunk (550)
+Seat 3: MathisKcr (585)
+*** ANTE/BLINDS ***
+Shpilevoy posts small blind 20
+boulespunk posts big blind 40
+Dealt to MathisKcr [2s 8c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Shpilevoy raises 325 to 365 and is all-in
+boulespunk calls 325
+*** FLOP *** [6h 8d 3h]
+*** TURN *** [6h 8d 3h][Td]
+*** RIVER *** [6h 8d 3h Td][Tc]
+*** SHOW DOWN ***
+Shpilevoy shows [Qs 7s] (One pair : Tens)
+boulespunk shows [As 3s] (Two pairs : Tens and 3)
+boulespunk collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [6h 8d 3h Td Tc]
+Seat 1: Shpilevoy (small blind) showed [Qs 7s] and lost with One pair : Tens
+Seat 2: boulespunk (big blind) showed [As 3s] and won 730 with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4252616302826356737-11-1757939122 - Holdem no limit (20/40) - 2025/09/15 12:25:22 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #2 is the button
+Seat 2: boulespunk (915)
+Seat 3: MathisKcr (585)
+*** ANTE/BLINDS ***
+boulespunk posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kh 8h]
+*** PRE-FLOP *** 
+boulespunk calls 20
+MathisKcr raises 80 to 120
+boulespunk folds
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 3: MathisKcr (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4252616302826356737-12-1757939139 - Holdem no limit (20/40) - 2025/09/15 12:25:39 UTC
+Table: 'Expresso(990139391)#0' 3-max (real money) Seat #3 is the button
+Seat 2: boulespunk (875)
+Seat 3: MathisKcr (625)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+boulespunk posts big blind 40
+Dealt to MathisKcr [5s Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 120
+boulespunk calls 80
+*** FLOP *** [2h 6s 3d]
+boulespunk bets 40
+MathisKcr raises 465 to 505 and is all-in
+boulespunk calls 465
+*** TURN *** [2h 6s 3d][9h]
+*** RIVER *** [2h 6s 3d 9h][Ks]
+*** SHOW DOWN ***
+MathisKcr shows [5s Ad] (High card : Ace)
+boulespunk shows [Js 2s] (One pair : 2)
+boulespunk collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Board: [2h 6s 3d 9h Ks]
+Seat 2: boulespunk (big blind) showed [Js 2s] and won 1250 with One pair : 2
+Seat 3: MathisKcr (small blind) (button) showed [5s Ad] and lost with High card : Ace
+
+

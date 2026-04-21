@@ -1,0 +1,75 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668469617839046657-1-1774794912 - Holdem no limit (10/20) - 2026/03/29 14:35:12 UTC
+Table: 'Expresso Nitro(1086962786)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CatCurry14 (300)
+Seat 2: POUPA4 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+CatCurry14 posts big blind 20
+Dealt to MathisKcr [Qd As]
+*** PRE-FLOP *** 
+POUPA4 calls 20
+MathisKcr raises 280 to 300 and is all-in
+CatCurry14 folds
+POUPA4 folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: MathisKcr (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668469617839046657-2-1774794922 - Holdem no limit (10/20) - 2026/03/29 14:35:22 UTC
+Table: 'Expresso Nitro(1086962786)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CatCurry14 (280)
+Seat 2: POUPA4 (280)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+CatCurry14 posts small blind 10
+POUPA4 posts big blind 20
+Dealt to MathisKcr [Qs Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+CatCurry14 folds
+POUPA4 calls 20
+*** FLOP *** [Tc 2s Td]
+POUPA4 checks
+MathisKcr bets 32
+POUPA4 folds
+MathisKcr collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | No rake
+Board: [Tc 2s Td]
+Seat 3: MathisKcr (button) won 122
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668469617839046657-3-1774794945 - Holdem no limit (10/20) - 2026/03/29 14:35:45 UTC
+Table: 'Expresso Nitro(1086962786)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CatCurry14 (270)
+Seat 2: POUPA4 (240)
+Seat 3: MathisKcr (390)
+*** ANTE/BLINDS ***
+POUPA4 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qd Qs]
+*** PRE-FLOP *** 
+CatCurry14 raises 20 to 40
+POUPA4 calls 30
+MathisKcr raises 350 to 390 and is all-in
+CatCurry14 calls 230 and is all-in
+POUPA4 calls 200 and is all-in
+*** FLOP *** [4c Jc Jd]
+*** TURN *** [4c Jc Jd][Kd]
+*** RIVER *** [4c Jc Jd Kd][8h]
+*** SHOW DOWN ***
+CatCurry14 shows [Qh Ah] (One pair : Jacks)
+POUPA4 shows [4h 5h] (Two pairs : Jacks and 4)
+MathisKcr shows [Qd Qs] (Two pairs : Queens and Jacks)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c Jc Jd Kd 8h]
+Seat 1: CatCurry14 (button) showed [Qh Ah] and lost with One pair : Jacks
+Seat 2: POUPA4 (small blind) showed [4h 5h] and lost with Two pairs : Jacks and 4
+Seat 3: MathisKcr (big blind) showed [Qd Qs] and won 900 with Two pairs : Queens and Jacks
+
+

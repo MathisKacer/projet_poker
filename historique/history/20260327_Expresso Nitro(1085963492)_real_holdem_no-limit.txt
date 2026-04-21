@@ -1,0 +1,54 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664177682789957633-1-1774622004 - Holdem no limit (10/20) - 2026/03/27 14:33:24 UTC
+Table: 'Expresso Nitro(1085963492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: crevette.12 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Orca-2229417 (300)
+*** ANTE/BLINDS ***
+crevette.12 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4h Jh]
+*** PRE-FLOP *** 
+Orca-2229417 folds
+crevette.12 calls 10
+MathisKcr checks
+*** FLOP *** [5c 6h Th]
+crevette.12 checks
+MathisKcr bets 40
+crevette.12 folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [5c 6h Th]
+Seat 2: MathisKcr (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664177682789957633-2-1774622019 - Holdem no limit (10/20) - 2026/03/27 14:33:39 UTC
+Table: 'Expresso Nitro(1085963492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: crevette.12 (280)
+Seat 2: MathisKcr (320)
+Seat 3: Orca-2229417 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Orca-2229417 posts big blind 20
+Dealt to MathisKcr [5h 9h]
+*** PRE-FLOP *** 
+crevette.12 calls 20
+MathisKcr raises 300 to 320 and is all-in
+Orca-2229417 calls 280 and is all-in
+crevette.12 calls 260 and is all-in
+*** FLOP *** [8d Jh 2s]
+*** TURN *** [8d Jh 2s][Qh]
+*** RIVER *** [8d Jh 2s Qh][4h]
+*** SHOW DOWN ***
+crevette.12 shows [Kh Td] (High card : King)
+Orca-2229417 shows [6s 6d] (One pair : 6)
+MathisKcr shows [5h 9h] (Flush Queen high)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8d Jh 2s Qh 4h]
+Seat 1: crevette.12 (button) showed [Kh Td] and lost with High card : King
+Seat 2: MathisKcr (small blind) showed [5h 9h] and won 900 with Flush Queen high
+Seat 3: Orca-2229417 (big blind) showed [6s 6d] and lost with One pair : 6
+
+

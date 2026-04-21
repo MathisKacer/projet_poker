@@ -1,0 +1,177 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4547378778774437889-1-1770370173 - Holdem no limit (10/20) - 2026/02/06 09:29:33 UTC
+Table: 'Expresso Nitro(1058769128)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AgsPortugal (300)
+Seat 2: KeyZen17 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+KeyZen17 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd Ts]
+*** PRE-FLOP *** 
+AgsPortugal folds
+KeyZen17 calls 10
+MathisKcr raises 40 to 60
+KeyZen17 calls 40
+*** FLOP *** [4h 4s Ad]
+KeyZen17 bets 20
+MathisKcr calls 20
+*** TURN *** [4h 4s Ad][2h]
+KeyZen17 bets 20
+MathisKcr calls 20
+*** RIVER *** [4h 4s Ad 2h][5s]
+KeyZen17 bets 20
+MathisKcr calls 20
+*** SHOW DOWN ***
+MathisKcr shows [Kd Ts] (One pair : 4)
+KeyZen17 shows [As 6d] (Two pairs : Aces and 4)
+KeyZen17 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [4h 4s Ad 2h 5s]
+Seat 2: KeyZen17 (small blind) showed [As 6d] and won 240 with Two pairs : Aces and 4
+Seat 3: MathisKcr (big blind) showed [Kd Ts] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4547378778774437889-2-1770370191 - Holdem no limit (10/20) - 2026/02/06 09:29:51 UTC
+Table: 'Expresso Nitro(1058769128)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AgsPortugal (300)
+Seat 2: KeyZen17 (420)
+Seat 3: MathisKcr (180)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+AgsPortugal posts big blind 20
+Dealt to MathisKcr [7s Kd]
+*** PRE-FLOP *** 
+KeyZen17 folds
+MathisKcr raises 160 to 180 and is all-in
+AgsPortugal folds
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 3: MathisKcr (small blind) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4547378778774437889-3-1770370199 - Holdem no limit (10/20) - 2026/02/06 09:29:59 UTC
+Table: 'Expresso Nitro(1058769128)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AgsPortugal (280)
+Seat 2: KeyZen17 (420)
+Seat 3: MathisKcr (200)
+*** ANTE/BLINDS ***
+AgsPortugal posts small blind 10
+KeyZen17 posts big blind 20
+Dealt to MathisKcr [Kh Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+AgsPortugal folds
+KeyZen17 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4547378778774437889-4-1770370209 - Holdem no limit (10/20) - 2026/02/06 09:30:09 UTC
+Table: 'Expresso Nitro(1058769128)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AgsPortugal (270)
+Seat 2: KeyZen17 (400)
+Seat 3: MathisKcr (230)
+*** ANTE/BLINDS ***
+KeyZen17 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5d Ks]
+*** PRE-FLOP *** 
+AgsPortugal calls 20
+KeyZen17 calls 10
+MathisKcr checks
+*** FLOP *** [8d 2h 8s]
+KeyZen17 checks
+MathisKcr checks
+AgsPortugal checks
+*** TURN *** [8d 2h 8s][6c]
+KeyZen17 checks
+MathisKcr bets 40
+AgsPortugal calls 40
+KeyZen17 folds
+*** RIVER *** [8d 2h 8s 6c][Qc]
+MathisKcr checks
+AgsPortugal bets 140
+MathisKcr folds
+AgsPortugal collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [8d 2h 8s 6c Qc]
+Seat 1: AgsPortugal (button) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4547378778774437889-5-1770370236 - Holdem no limit (15/30) - 2026/02/06 09:30:36 UTC
+Table: 'Expresso Nitro(1058769128)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AgsPortugal (350)
+Seat 2: KeyZen17 (380)
+Seat 3: MathisKcr (170)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+AgsPortugal posts big blind 30
+Dealt to MathisKcr [2h Kh]
+*** PRE-FLOP *** 
+KeyZen17 folds
+MathisKcr raises 140 to 170 and is all-in
+AgsPortugal folds
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 3: MathisKcr (small blind) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4547378778774437889-6-1770370247 - Holdem no limit (15/30) - 2026/02/06 09:30:47 UTC
+Table: 'Expresso Nitro(1058769128)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AgsPortugal (320)
+Seat 2: KeyZen17 (380)
+Seat 3: MathisKcr (200)
+*** ANTE/BLINDS ***
+AgsPortugal posts small blind 15
+KeyZen17 posts big blind 30
+Dealt to MathisKcr [8c 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+AgsPortugal folds
+KeyZen17 calls 30
+*** FLOP *** [8s Jc Qd]
+KeyZen17 checks
+MathisKcr bets 60
+KeyZen17 folds
+MathisKcr collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [8s Jc Qd]
+Seat 3: MathisKcr (button) won 195
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4547378778774437889-7-1770370271 - Holdem no limit (15/30) - 2026/02/06 09:31:11 UTC
+Table: 'Expresso Nitro(1058769128)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AgsPortugal (305)
+Seat 2: KeyZen17 (320)
+Seat 3: MathisKcr (275)
+*** ANTE/BLINDS ***
+KeyZen17 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ac Qs]
+*** PRE-FLOP *** 
+AgsPortugal raises 90 to 120
+KeyZen17 calls 105
+MathisKcr raises 155 to 275 and is all-in
+AgsPortugal raises 30 to 305 and is all-in
+KeyZen17 folds
+*** FLOP *** [9h 6d 7d]
+*** TURN *** [9h 6d 7d][2d]
+*** RIVER *** [9h 6d 7d 2d][Jc]
+*** SHOW DOWN ***
+MathisKcr shows [Ac Qs] (High card : Ace)
+AgsPortugal shows [7h 7c] (Trips of 7)
+AgsPortugal collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [9h 6d 7d 2d Jc]
+Seat 1: AgsPortugal (button) showed [7h 7c] and won 700 with Trips of 7
+Seat 3: MathisKcr (big blind) showed [Ac Qs] and lost with High card : Ace
+
+

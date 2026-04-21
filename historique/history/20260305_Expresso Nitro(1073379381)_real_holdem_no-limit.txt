@@ -1,0 +1,120 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4610129337595723777-1-1772728870 - Holdem no limit (10/20) - 2026/03/05 16:41:10 UTC
+Table: 'Expresso Nitro(1073379381)#0' 3-max (real money) Seat #1 is the button
+Seat 1: belule31 (300)
+Seat 2: MathisKcr (300)
+Seat 3: pothuaud98 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+pothuaud98 posts big blind 20
+Dealt to MathisKcr [Td Qc]
+*** PRE-FLOP *** 
+belule31 raises 40 to 60
+MathisKcr calls 50
+pothuaud98 folds
+*** FLOP *** [Jd 3c 3h]
+MathisKcr checks
+belule31 bets 91
+MathisKcr folds
+belule31 collected 231 from pot
+*** SUMMARY ***
+Total pot 231 | No rake
+Board: [Jd 3c 3h]
+Seat 1: belule31 (button) won 231
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4610129337595723777-2-1772728891 - Holdem no limit (10/20) - 2026/03/05 16:41:31 UTC
+Table: 'Expresso Nitro(1073379381)#0' 3-max (real money) Seat #2 is the button
+Seat 1: belule31 (380)
+Seat 2: MathisKcr (240)
+Seat 3: pothuaud98 (280)
+*** ANTE/BLINDS ***
+pothuaud98 posts small blind 10
+belule31 posts big blind 20
+Dealt to MathisKcr [9c 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+pothuaud98 folds
+belule31 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: belule31 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4610129337595723777-3-1772728896 - Holdem no limit (10/20) - 2026/03/05 16:41:36 UTC
+Table: 'Expresso Nitro(1073379381)#0' 3-max (real money) Seat #3 is the button
+Seat 1: belule31 (390)
+Seat 2: MathisKcr (240)
+Seat 3: pothuaud98 (270)
+*** ANTE/BLINDS ***
+belule31 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6c 5d]
+*** PRE-FLOP *** 
+pothuaud98 folds
+belule31 calls 10
+MathisKcr checks
+*** FLOP *** [5h Th Kd]
+belule31 checks
+MathisKcr bets 20
+belule31 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [5h Th Kd]
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4610129337595723777-4-1772728911 - Holdem no limit (10/20) - 2026/03/05 16:41:51 UTC
+Table: 'Expresso Nitro(1073379381)#0' 3-max (real money) Seat #1 is the button
+Seat 1: belule31 (370)
+Seat 2: MathisKcr (260)
+Seat 3: pothuaud98 (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+pothuaud98 posts big blind 20
+Dealt to MathisKcr [7h Ac]
+*** PRE-FLOP *** 
+belule31 calls 20
+MathisKcr raises 240 to 260 and is all-in
+pothuaud98 folds
+belule31 folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: MathisKcr (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4610129337595723777-5-1772728926 - Holdem no limit (10/20) - 2026/03/05 16:42:06 UTC
+Table: 'Expresso Nitro(1073379381)#0' 3-max (real money) Seat #2 is the button
+Seat 1: belule31 (350)
+Seat 2: MathisKcr (300)
+Seat 3: pothuaud98 (250)
+*** ANTE/BLINDS ***
+pothuaud98 posts small blind 10
+belule31 posts big blind 20
+Dealt to MathisKcr [6s 7c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+pothuaud98 folds
+belule31 calls 20
+*** FLOP *** [7d Ts 3h]
+belule31 checks
+MathisKcr bets 32
+belule31 calls 32
+*** TURN *** [7d Ts 3h][5c]
+belule31 checks
+MathisKcr bets 77
+belule31 raises 173 to 250
+MathisKcr calls 151 and is all-in
+*** RIVER *** [7d Ts 3h 5c][Jh]
+*** SHOW DOWN ***
+MathisKcr shows [6s 7c] (One pair : 7)
+belule31 shows [4d 6h] (Straight 7 high)
+belule31 collected 632 from pot
+*** SUMMARY ***
+Total pot 632 | No rake
+Board: [7d Ts 3h 5c Jh]
+Seat 1: belule31 (big blind) showed [4d 6h] and won 632 with Straight 7 high
+Seat 2: MathisKcr (button) showed [6s 7c] and lost with One pair : 7
+
+

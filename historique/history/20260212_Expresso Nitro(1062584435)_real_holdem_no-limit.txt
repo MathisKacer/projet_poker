@@ -1,0 +1,115 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4563765397563637761-1-1770894526 - Holdem no limit (10/20) - 2026/02/12 11:08:46 UTC
+Table: 'Expresso Nitro(1062584435)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: STONEKILLER (300)
+Seat 3: rogerm34 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+STONEKILLER posts big blind 20
+Dealt to MathisKcr [6h 4h]
+*** PRE-FLOP *** 
+rogerm34 raises 20 to 40
+MathisKcr calls 30
+STONEKILLER calls 20
+*** FLOP *** [Kd 2d 3d]
+MathisKcr checks
+STONEKILLER bets 60
+rogerm34 raises 200 to 260 and is all-in
+MathisKcr folds
+STONEKILLER folds
+rogerm34 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [Kd 2d 3d]
+Seat 3: rogerm34 (button) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4563765397563637761-2-1770894551 - Holdem no limit (10/20) - 2026/02/12 11:09:11 UTC
+Table: 'Expresso Nitro(1062584435)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (260)
+Seat 2: STONEKILLER (200)
+Seat 3: rogerm34 (440)
+*** ANTE/BLINDS ***
+STONEKILLER posts small blind 10
+rogerm34 posts big blind 20
+Dealt to MathisKcr [8c 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+STONEKILLER calls 10
+rogerm34 checks
+*** FLOP *** [Tc 7d 7h]
+STONEKILLER bets 40
+rogerm34 calls 40
+*** TURN *** [Tc 7d 7h][9s]
+STONEKILLER bets 140 and is all-in
+rogerm34 folds
+STONEKILLER collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [Tc 7d 7h 9s]
+Seat 2: STONEKILLER (small blind) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4563765397563637761-3-1770894590 - Holdem no limit (15/30) - 2026/02/12 11:09:50 UTC
+Table: 'Expresso Nitro(1062584435)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (260)
+Seat 2: STONEKILLER (260)
+Seat 3: rogerm34 (380)
+*** ANTE/BLINDS ***
+rogerm34 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qh Kc]
+*** PRE-FLOP *** 
+STONEKILLER calls 30
+rogerm34 raises 30 to 60
+MathisKcr raises 30 to 90
+STONEKILLER calls 60
+rogerm34 calls 30
+*** FLOP *** [Qs 2s Kh]
+rogerm34 checks
+MathisKcr bets 68
+STONEKILLER calls 68
+rogerm34 raises 68 to 136
+MathisKcr raises 34 to 170 and is all-in
+STONEKILLER calls 102 and is all-in
+rogerm34 calls 34
+*** TURN *** [Qs 2s Kh][Qc]
+*** RIVER *** [Qs 2s Kh Qc][Ts]
+*** SHOW DOWN ***
+STONEKILLER shows [2h 2c] (Full of 2 and Queens)
+rogerm34 shows [Td Ac] (Two pairs : Queens and Tens)
+MathisKcr shows [Qh Kc] (Full of Queens and Kings)
+MathisKcr collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [Qs 2s Kh Qc Ts]
+Seat 1: MathisKcr (big blind) showed [Qh Kc] and won 780 with Full of Queens and Kings
+Seat 2: STONEKILLER (button) showed [2h 2c] and lost with Full of 2 and Queens
+Seat 3: rogerm34 (small blind) showed [Td Ac] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4563765397563637761-4-1770894622 - Holdem no limit (15/30) - 2026/02/12 11:10:22 UTC
+Table: 'Expresso Nitro(1062584435)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (780)
+Seat 3: rogerm34 (120)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+rogerm34 posts big blind 30
+Dealt to MathisKcr [Jh 9h]
+*** PRE-FLOP *** 
+MathisKcr raises 750 to 780 and is all-in
+rogerm34 calls 90 and is all-in
+*** FLOP *** [8h 7d 7c]
+*** TURN *** [8h 7d 7c][9d]
+*** RIVER *** [8h 7d 7c 9d][Th]
+*** SHOW DOWN ***
+rogerm34 shows [Td 4d] (Two pairs : Tens and 7)
+MathisKcr shows [Jh 9h] (Straight Jack high)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8h 7d 7c 9d Th]
+Seat 1: MathisKcr (small blind) (button) showed [Jh 9h] and won 900 with Straight Jack high
+Seat 3: rogerm34 (big blind) showed [Td 4d] and lost with Two pairs : Tens and 7
+
+

@@ -1,0 +1,142 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677126571100733441-1-1775123257 - Holdem no limit (10/20) - 2026/04/02 09:47:37 UTC
+Table: 'Expresso Nitro(1088978390)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: stevez13 (300)
+Seat 3: Tibo2BesAK (300)
+*** ANTE/BLINDS ***
+Tibo2BesAK posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d Ts]
+*** PRE-FLOP *** 
+stevez13 folds
+Tibo2BesAK raises 20 to 40
+MathisKcr folds
+Tibo2BesAK collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Tibo2BesAK (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677126571100733441-2-1775123265 - Holdem no limit (10/20) - 2026/04/02 09:47:45 UTC
+Table: 'Expresso Nitro(1088978390)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: stevez13 (300)
+Seat 3: Tibo2BesAK (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+stevez13 posts big blind 20
+Dealt to MathisKcr [Ac Ks]
+*** PRE-FLOP *** 
+Tibo2BesAK folds
+MathisKcr raises 260 to 280 and is all-in
+stevez13 folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: MathisKcr (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677126571100733441-3-1775123276 - Holdem no limit (10/20) - 2026/04/02 09:47:56 UTC
+Table: 'Expresso Nitro(1088978390)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: stevez13 (280)
+Seat 3: Tibo2BesAK (320)
+*** ANTE/BLINDS ***
+stevez13 posts small blind 10
+Tibo2BesAK posts big blind 20
+Dealt to MathisKcr [Js 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+stevez13 calls 10
+Tibo2BesAK checks
+*** FLOP *** [3c Qs Qc]
+stevez13 checks
+Tibo2BesAK checks
+*** TURN *** [3c Qs Qc][Tc]
+stevez13 checks
+Tibo2BesAK checks
+*** RIVER *** [3c Qs Qc Tc][4s]
+stevez13 checks
+Tibo2BesAK checks
+*** SHOW DOWN ***
+stevez13 shows [7h 8d] (One pair : Queens)
+Tibo2BesAK shows [9s 8h] (One pair : Queens)
+Tibo2BesAK collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [3c Qs Qc Tc 4s]
+Seat 2: stevez13 (small blind) showed [7h 8d] and lost with One pair : Queens
+Seat 3: Tibo2BesAK (big blind) showed [9s 8h] and won 40 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677126571100733441-4-1775123304 - Holdem no limit (10/20) - 2026/04/02 09:48:24 UTC
+Table: 'Expresso Nitro(1088978390)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: stevez13 (260)
+Seat 3: Tibo2BesAK (340)
+*** ANTE/BLINDS ***
+Tibo2BesAK posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3h 8s]
+*** PRE-FLOP *** 
+stevez13 raises 50 to 70
+Tibo2BesAK raises 270 to 340 and is all-in
+MathisKcr folds
+stevez13 calls 190 and is all-in
+*** FLOP *** [Qd 4d 3s]
+*** TURN *** [Qd 4d 3s][4s]
+*** RIVER *** [Qd 4d 3s 4s][2h]
+*** SHOW DOWN ***
+stevez13 shows [6s Kd] (One pair : 4)
+Tibo2BesAK shows [As 3c] (Two pairs : 4 and 3)
+Tibo2BesAK collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Qd 4d 3s 4s 2h]
+Seat 2: stevez13 (button) showed [6s Kd] and lost with One pair : 4
+Seat 3: Tibo2BesAK (small blind) showed [As 3c] and won 620 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677126571100733441-5-1775123320 - Holdem no limit (15/30) - 2026/04/02 09:48:40 UTC
+Table: 'Expresso Nitro(1088978390)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (280)
+Seat 3: Tibo2BesAK (620)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Tibo2BesAK posts big blind 30
+Dealt to MathisKcr [Js 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 250 to 280 and is all-in
+Tibo2BesAK folds
+MathisKcr collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 1: MathisKcr (small blind) (button) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677126571100733441-6-1775123330 - Holdem no limit (15/30) - 2026/04/02 09:48:50 UTC
+Table: 'Expresso Nitro(1088978390)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (310)
+Seat 3: Tibo2BesAK (590)
+*** ANTE/BLINDS ***
+Tibo2BesAK posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qs Ts]
+*** PRE-FLOP *** 
+Tibo2BesAK raises 30 to 60
+MathisKcr raises 250 to 310 and is all-in
+Tibo2BesAK calls 250
+*** FLOP *** [9s 9c 6c]
+*** TURN *** [9s 9c 6c][3d]
+*** RIVER *** [9s 9c 6c 3d][4h]
+*** SHOW DOWN ***
+MathisKcr shows [Qs Ts] (One pair : 9)
+Tibo2BesAK shows [Ks 3c] (Two pairs : 9 and 3)
+Tibo2BesAK collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9s 9c 6c 3d 4h]
+Seat 1: MathisKcr (big blind) showed [Qs Ts] and lost with One pair : 9
+Seat 3: Tibo2BesAK (small blind) (button) showed [Ks 3c] and won 620 with Two pairs : 9 and 3
+
+

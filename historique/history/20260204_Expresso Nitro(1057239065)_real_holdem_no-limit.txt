@@ -1,0 +1,177 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4540807208228618241-1-1770192235 - Holdem no limit (10/20) - 2026/02/04 08:03:55 UTC
+Table: 'Expresso Nitro(1057239065)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Clelya86 (300)
+Seat 3: Kams3838 (300)
+*** ANTE/BLINDS ***
+Kams3838 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Tc 4h]
+*** PRE-FLOP *** 
+Clelya86 calls 20
+Kams3838 calls 10
+MathisKcr checks
+*** FLOP *** [5h 7c 8d]
+Kams3838 checks
+MathisKcr bets 40
+Clelya86 calls 40
+Kams3838 folds
+*** TURN *** [5h 7c 8d][7h]
+MathisKcr checks
+Clelya86 checks
+*** RIVER *** [5h 7c 8d 7h][9c]
+MathisKcr bets 240 and is all-in
+Clelya86 folds
+MathisKcr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [5h 7c 8d 7h 9c]
+Seat 1: MathisKcr (big blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4540807208228618241-2-1770192266 - Holdem no limit (10/20) - 2026/02/04 08:04:26 UTC
+Table: 'Expresso Nitro(1057239065)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (380)
+Seat 2: Clelya86 (240)
+Seat 3: Kams3838 (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Clelya86 posts big blind 20
+Dealt to MathisKcr [3d 7d]
+*** PRE-FLOP *** 
+Kams3838 calls 20
+MathisKcr calls 10
+Clelya86 checks
+*** FLOP *** [Ks 9d Ah]
+MathisKcr checks
+Clelya86 bets 60
+Kams3838 calls 60
+MathisKcr folds
+*** TURN *** [Ks 9d Ah][4d]
+Clelya86 checks
+Kams3838 bets 180
+Clelya86 folds
+Kams3838 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Ks 9d Ah 4d]
+Seat 3: Kams3838 (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4540807208228618241-3-1770192287 - Holdem no limit (10/20) - 2026/02/04 08:04:47 UTC
+Table: 'Expresso Nitro(1057239065)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (360)
+Seat 2: Clelya86 (160)
+Seat 3: Kams3838 (380)
+*** ANTE/BLINDS ***
+Clelya86 posts small blind 10
+Kams3838 posts big blind 20
+Dealt to MathisKcr [2h Tc]
+*** PRE-FLOP *** 
+MathisKcr folds
+Clelya86 calls 10
+Kams3838 raises 40 to 60
+Clelya86 calls 40
+*** FLOP *** [Qd 6c Qs]
+Clelya86 checks
+Kams3838 bets 78
+Clelya86 folds
+Kams3838 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [Qd 6c Qs]
+Seat 3: Kams3838 (big blind) won 198
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540807208228618241-4-1770192301 - Holdem no limit (15/30) - 2026/02/04 08:05:01 UTC
+Table: 'Expresso Nitro(1057239065)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (360)
+Seat 2: Clelya86 (100)
+Seat 3: Kams3838 (440)
+*** ANTE/BLINDS ***
+Kams3838 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2h 3s]
+*** PRE-FLOP *** 
+Clelya86 raises 70 to 100 and is all-in
+Kams3838 folds
+MathisKcr calls 70
+*** FLOP *** [9s 5h Qd]
+*** TURN *** [9s 5h Qd][Ks]
+*** RIVER *** [9s 5h Qd Ks][Tc]
+*** SHOW DOWN ***
+MathisKcr shows [2h 3s] (High card : King)
+Clelya86 shows [Kc 7d] (One pair : Kings)
+Clelya86 collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | No rake
+Board: [9s 5h Qd Ks Tc]
+Seat 1: MathisKcr (big blind) showed [2h 3s] and lost with High card : King
+Seat 2: Clelya86 (button) showed [Kc 7d] and won 215 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540807208228618241-5-1770192314 - Holdem no limit (15/30) - 2026/02/04 08:05:14 UTC
+Table: 'Expresso Nitro(1057239065)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (260)
+Seat 2: Clelya86 (215)
+Seat 3: Kams3838 (425)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Clelya86 posts big blind 30
+Dealt to MathisKcr [2c 3s]
+*** PRE-FLOP *** 
+Kams3838 folds
+MathisKcr raises 60 to 90
+Clelya86 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540807208228618241-6-1770192324 - Holdem no limit (15/30) - 2026/02/04 08:05:24 UTC
+Table: 'Expresso Nitro(1057239065)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: Clelya86 (185)
+Seat 3: Kams3838 (425)
+*** ANTE/BLINDS ***
+Clelya86 posts small blind 15
+Kams3838 posts big blind 30
+Dealt to MathisKcr [9h 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Clelya86 raises 155 to 185 and is all-in
+Kams3838 folds
+Clelya86 collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | No rake
+Seat 2: Clelya86 (small blind) won 215
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4540807208228618241-7-1770192331 - Holdem no limit (15/30) - 2026/02/04 08:05:31 UTC
+Table: 'Expresso Nitro(1057239065)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (290)
+Seat 2: Clelya86 (215)
+Seat 3: Kams3838 (395)
+*** ANTE/BLINDS ***
+Kams3838 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jh 8c]
+*** PRE-FLOP *** 
+Clelya86 folds
+Kams3838 raises 365 to 395 and is all-in
+MathisKcr calls 260 and is all-in
+*** FLOP *** [6s 3d Jd]
+*** TURN *** [6s 3d Jd][4d]
+*** RIVER *** [6s 3d Jd 4d][8d]
+*** SHOW DOWN ***
+MathisKcr shows [Jh 8c] (Two pairs : Jacks and 8)
+Kams3838 shows [Td Tc] (Flush Jack high)
+Kams3838 collected 685 from pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Board: [6s 3d Jd 4d 8d]
+Seat 1: MathisKcr (big blind) showed [Jh 8c] and lost with Two pairs : Jacks and 8
+Seat 3: Kams3838 (small blind) showed [Td Tc] and won 685 with Flush Jack high
+
+

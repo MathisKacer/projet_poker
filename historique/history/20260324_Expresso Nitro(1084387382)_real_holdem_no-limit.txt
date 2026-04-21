@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657408341885059073-1-1774344169 - Holdem no limit (10/20) - 2026/03/24 09:22:49 UTC
+Table: 'Expresso Nitro(1084387382)#0' 3-max (real money) Seat #1 is the button
+Seat 1: puizznt 797 (300)
+Seat 2: cd_afc (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+cd_afc posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3s 5h]
+*** PRE-FLOP *** 
+puizznt 797 raises 280 to 300 and is all-in
+cd_afc folds
+MathisKcr folds
+puizznt 797 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: puizznt 797 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657408341885059073-2-1774344177 - Holdem no limit (10/20) - 2026/03/24 09:22:57 UTC
+Table: 'Expresso Nitro(1084387382)#0' 3-max (real money) Seat #2 is the button
+Seat 1: puizznt 797 (330)
+Seat 2: cd_afc (290)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+puizznt 797 posts big blind 20
+Dealt to MathisKcr [4c Ks]
+*** PRE-FLOP *** 
+cd_afc calls 20
+MathisKcr raises 40 to 60
+puizznt 797 raises 40 to 100
+cd_afc calls 80
+MathisKcr calls 40
+*** FLOP *** [Ts 6s 3s]
+MathisKcr bets 180 and is all-in
+puizznt 797 raises 50 to 230 and is all-in
+cd_afc folds
+*** TURN *** [Ts 6s 3s][Ad]
+*** RIVER *** [Ts 6s 3s Ad][6h]
+*** SHOW DOWN ***
+MathisKcr shows [4c Ks] (One pair : 6)
+puizznt 797 shows [Qc Qd] (Two pairs : Queens and 6)
+puizznt 797 collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [Ts 6s 3s Ad 6h]
+Seat 1: puizznt 797 (big blind) showed [Qc Qd] and won 710 with Two pairs : Queens and 6
+Seat 3: MathisKcr (small blind) showed [4c Ks] and lost with One pair : 6
+
+

@@ -1,0 +1,270 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4694244304992862209-1-1775757441 - Holdem no limit (10/20) - 2026/04/09 17:57:21 UTC
+Table: 'Expresso Nitro(1092963923)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Juju34725 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Lapologne80 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Lapologne80 posts big blind 20
+Dealt to MathisKcr [Tc 3d]
+*** PRE-FLOP *** 
+Juju34725 calls 20
+MathisKcr folds
+Lapologne80 checks
+*** FLOP *** [3h 7c 4s]
+Lapologne80 checks
+Juju34725 bets 33
+Lapologne80 folds
+Juju34725 collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [3h 7c 4s]
+Seat 1: Juju34725 (button) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4694244304992862209-2-1775757463 - Holdem no limit (10/20) - 2026/04/09 17:57:43 UTC
+Table: 'Expresso Nitro(1092963923)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Juju34725 (330)
+Seat 2: MathisKcr (290)
+Seat 3: Lapologne80 (280)
+*** ANTE/BLINDS ***
+Lapologne80 posts small blind 10
+Juju34725 posts big blind 20
+Dealt to MathisKcr [As 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Lapologne80 folds
+Juju34725 calls 20
+*** FLOP *** [Ah 6s Kd]
+Juju34725 checks
+MathisKcr bets 32
+Juju34725 calls 32
+*** TURN *** [Ah 6s Kd][2s]
+Juju34725 checks
+MathisKcr bets 77
+Juju34725 folds
+MathisKcr collected 231 from pot
+*** SUMMARY ***
+Total pot 231 | No rake
+Board: [Ah 6s Kd 2s]
+Seat 2: MathisKcr (button) won 231
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4694244304992862209-3-1775757488 - Holdem no limit (10/20) - 2026/04/09 17:58:08 UTC
+Table: 'Expresso Nitro(1092963923)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Juju34725 (258)
+Seat 2: MathisKcr (372)
+Seat 3: Lapologne80 (270)
+*** ANTE/BLINDS ***
+Juju34725 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2h 5s]
+*** PRE-FLOP *** 
+Lapologne80 raises 20 to 40
+Juju34725 calls 30
+MathisKcr folds
+*** FLOP *** [Js Kd Qd]
+Juju34725 checks
+Lapologne80 checks
+*** TURN *** [Js Kd Qd][7d]
+Juju34725 checks
+Lapologne80 bets 65
+Juju34725 calls 65
+*** RIVER *** [Js Kd Qd 7d][9d]
+Juju34725 bets 81
+Lapologne80 folds
+Juju34725 collected 311 from pot
+*** SUMMARY ***
+Total pot 311 | No rake
+Board: [Js Kd Qd 7d 9d]
+Seat 1: Juju34725 (small blind) won 311
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4694244304992862209-4-1775757525 - Holdem no limit (15/30) - 2026/04/09 17:58:45 UTC
+Table: 'Expresso Nitro(1092963923)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Juju34725 (383)
+Seat 2: MathisKcr (352)
+Seat 3: Lapologne80 (165)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Lapologne80 posts big blind 30
+Dealt to MathisKcr [As 6d]
+*** PRE-FLOP *** 
+Juju34725 calls 30
+MathisKcr raises 322 to 352 and is all-in
+Lapologne80 folds
+Juju34725 folds
+MathisKcr collected 412 from pot
+*** SUMMARY ***
+Total pot 412 | No rake
+Seat 2: MathisKcr (small blind) won 412
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4694244304992862209-5-1775757558 - Holdem no limit (20/40) - 2026/04/09 17:59:18 UTC
+Table: 'Expresso Nitro(1092963923)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Juju34725 (353)
+Seat 2: MathisKcr (412)
+Seat 3: Lapologne80 (135)
+*** ANTE/BLINDS ***
+Lapologne80 posts small blind 20
+Juju34725 posts big blind 40
+Dealt to MathisKcr [8h Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Lapologne80 folds
+Juju34725 calls 40
+*** FLOP *** [4s Qs 5c]
+Juju34725 checks
+MathisKcr checks
+*** TURN *** [4s Qs 5c][8d]
+Juju34725 checks
+MathisKcr bets 80
+Juju34725 calls 80
+*** RIVER *** [4s Qs 5c 8d][6d]
+Juju34725 checks
+MathisKcr checks
+*** SHOW DOWN ***
+Juju34725 shows [2s Jc] (High card : Queen)
+MathisKcr shows [8h Kd] (One pair : 8)
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [4s Qs 5c 8d 6d]
+Seat 1: Juju34725 (big blind) showed [2s Jc] and lost with High card : Queen
+Seat 2: MathisKcr (button) showed [8h Kd] and won 340 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4694244304992862209-6-1775757577 - Holdem no limit (20/40) - 2026/04/09 17:59:37 UTC
+Table: 'Expresso Nitro(1092963923)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Juju34725 (193)
+Seat 2: MathisKcr (592)
+Seat 3: Lapologne80 (115)
+*** ANTE/BLINDS ***
+Juju34725 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ks 9s]
+*** PRE-FLOP *** 
+Lapologne80 folds
+Juju34725 raises 153 to 193 and is all-in
+MathisKcr calls 153
+*** FLOP *** [3c Ac 8h]
+*** TURN *** [3c Ac 8h][7s]
+*** RIVER *** [3c Ac 8h 7s][Qh]
+*** SHOW DOWN ***
+MathisKcr shows [Ks 9s] (High card : Ace)
+Juju34725 shows [Jd Jc] (One pair : Jacks)
+Juju34725 collected 386 from pot
+*** SUMMARY ***
+Total pot 386 | No rake
+Board: [3c Ac 8h 7s Qh]
+Seat 1: Juju34725 (small blind) showed [Jd Jc] and won 386 with One pair : Jacks
+Seat 2: MathisKcr (big blind) showed [Ks 9s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4694244304992862209-7-1775757594 - Holdem no limit (20/40) - 2026/04/09 17:59:54 UTC
+Table: 'Expresso Nitro(1092963923)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Juju34725 (386)
+Seat 2: MathisKcr (399)
+Seat 3: Lapologne80 (115)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Lapologne80 posts big blind 40
+Dealt to MathisKcr [8h Js]
+*** PRE-FLOP *** 
+Juju34725 calls 40
+MathisKcr folds
+Lapologne80 checks
+*** FLOP *** [7d As 5s]
+Lapologne80 checks
+Juju34725 bets 100
+Lapologne80 folds
+Juju34725 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [7d As 5s]
+Seat 1: Juju34725 (button) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4694244304992862209-8-1775757617 - Holdem no limit (20/40) - 2026/04/09 18:00:17 UTC
+Table: 'Expresso Nitro(1092963923)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Juju34725 (446)
+Seat 2: MathisKcr (379)
+Seat 3: Lapologne80 (75)
+*** ANTE/BLINDS ***
+Lapologne80 posts small blind 20
+Juju34725 posts big blind 40
+Dealt to MathisKcr [Kd Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 339 to 379 and is all-in
+Lapologne80 folds
+Juju34725 calls 339
+*** FLOP *** [3d 4h 9c]
+*** TURN *** [3d 4h 9c][4d]
+*** RIVER *** [3d 4h 9c 4d][As]
+*** SHOW DOWN ***
+Juju34725 shows [Ks 8c] (One pair : 4)
+MathisKcr shows [Kd Jc] (One pair : 4)
+MathisKcr collected 778 from pot
+*** SUMMARY ***
+Total pot 778 | No rake
+Board: [3d 4h 9c 4d As]
+Seat 1: Juju34725 (big blind) showed [Ks 8c] and lost with One pair : 4
+Seat 2: MathisKcr (button) showed [Kd Jc] and won 778 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4694244304992862209-9-1775757638 - Holdem no limit (30/60) - 2026/04/09 18:00:38 UTC
+Table: 'Expresso Nitro(1092963923)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Juju34725 (67)
+Seat 2: MathisKcr (778)
+Seat 3: Lapologne80 (55)
+*** ANTE/BLINDS ***
+Juju34725 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Jd Qc]
+*** PRE-FLOP *** 
+Lapologne80 calls 55 and is all-in
+Juju34725 calls 30
+MathisKcr raises 718 to 778 and is all-in
+Juju34725 calls 7 and is all-in
+*** FLOP *** [4h 9d 8s]
+*** TURN *** [4h 9d 8s][3d]
+*** RIVER *** [4h 9d 8s 3d][6h]
+*** SHOW DOWN ***
+Lapologne80 shows [5h 3s] (One pair : 3)
+Juju34725 shows [7s 8c] (One pair : 8)
+MathisKcr shows [Jd Qc] (High card : Queen)
+MathisKcr collected 711 from side pot 1
+Juju34725 collected 189 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4h 9d 8s 3d 6h]
+Seat 1: Juju34725 (small blind) showed [7s 8c] and won 189 with One pair : 8
+Seat 2: MathisKcr (big blind) showed [Jd Qc] and won 711 with High card : Queen
+Seat 3: Lapologne80 (button) showed [5h 3s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4694244304992862209-10-1775757654 - Holdem no limit (30/60) - 2026/04/09 18:00:54 UTC
+Table: 'Expresso Nitro(1092963923)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Juju34725 (189)
+Seat 2: MathisKcr (711)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Juju34725 posts big blind 60
+Dealt to MathisKcr [9h Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 651 to 711 and is all-in
+Juju34725 calls 129 and is all-in
+*** FLOP *** [4d Js 7h]
+*** TURN *** [4d Js 7h][Ac]
+*** RIVER *** [4d Js 7h Ac][Qs]
+*** SHOW DOWN ***
+Juju34725 shows [9d Kc] (High card : Ace)
+MathisKcr shows [9h Jd] (One pair : Jacks)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d Js 7h Ac Qs]
+Seat 1: Juju34725 (big blind) showed [9d Kc] and lost with High card : Ace
+Seat 2: MathisKcr (small blind) (button) showed [9h Jd] and won 900 with One pair : Jacks
+
+

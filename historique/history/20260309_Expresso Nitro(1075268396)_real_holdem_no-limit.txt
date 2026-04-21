@@ -1,0 +1,229 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4618242595242377217-1-1773064929 - Holdem no limit (10/20) - 2026/03/09 14:02:09 UTC
+Table: 'Expresso Nitro(1075268396)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Perpe (300)
+Seat 2: smd040784 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+smd040784 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7d 8d]
+*** PRE-FLOP *** 
+Perpe calls 20
+smd040784 calls 10
+MathisKcr checks
+*** FLOP *** [8s 9c 8c]
+smd040784 bets 39
+MathisKcr raises 39 to 78
+Perpe folds
+smd040784 folds
+MathisKcr collected 177 from pot
+*** SUMMARY ***
+Total pot 177 | No rake
+Board: [8s 9c 8c]
+Seat 3: MathisKcr (big blind) won 177
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4618242595242377217-2-1773064949 - Holdem no limit (10/20) - 2026/03/09 14:02:29 UTC
+Table: 'Expresso Nitro(1075268396)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Perpe (280)
+Seat 2: smd040784 (241)
+Seat 3: MathisKcr (379)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Perpe posts big blind 20
+Dealt to MathisKcr [7s Tc]
+*** PRE-FLOP *** 
+smd040784 folds
+MathisKcr calls 10
+Perpe checks
+*** FLOP *** [Td 8c 5d]
+MathisKcr bets 26
+Perpe folds
+MathisKcr collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Td 8c 5d]
+Seat 3: MathisKcr (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4618242595242377217-3-1773064971 - Holdem no limit (10/20) - 2026/03/09 14:02:51 UTC
+Table: 'Expresso Nitro(1075268396)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Perpe (260)
+Seat 2: smd040784 (241)
+Seat 3: MathisKcr (399)
+*** ANTE/BLINDS ***
+Perpe posts small blind 10
+smd040784 posts big blind 20
+Dealt to MathisKcr [7d Qc]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Perpe folds
+smd040784 checks
+*** FLOP *** [8c Ah 2d]
+smd040784 checks
+MathisKcr checks
+*** TURN *** [8c Ah 2d][Jc]
+smd040784 bets 20
+MathisKcr folds
+smd040784 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [8c Ah 2d Jc]
+Seat 2: smd040784 (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4618242595242377217-4-1773064997 - Holdem no limit (15/30) - 2026/03/09 14:03:17 UTC
+Table: 'Expresso Nitro(1075268396)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Perpe (250)
+Seat 2: smd040784 (271)
+Seat 3: MathisKcr (379)
+*** ANTE/BLINDS ***
+smd040784 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Tc 6s]
+*** PRE-FLOP *** 
+Perpe calls 30
+smd040784 calls 15
+MathisKcr checks
+*** FLOP *** [5c Ad 2c]
+smd040784 checks
+MathisKcr checks
+Perpe bets 30
+smd040784 calls 30
+MathisKcr folds
+*** TURN *** [5c Ad 2c][Kh]
+smd040784 checks
+Perpe bets 30
+smd040784 calls 30
+*** RIVER *** [5c Ad 2c Kh][7s]
+smd040784 bets 30
+Perpe raises 130 to 160 and is all-in
+smd040784 calls 130
+*** SHOW DOWN ***
+smd040784 shows [Ac 3s] (One pair : Aces)
+Perpe shows [2d Ks] (Two pairs : Kings and 2)
+Perpe collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [5c Ad 2c Kh 7s]
+Seat 1: Perpe (button) showed [2d Ks] and won 530 with Two pairs : Kings and 2
+Seat 2: smd040784 (small blind) showed [Ac 3s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4618242595242377217-5-1773065087 - Holdem no limit (20/40) - 2026/03/09 14:04:47 UTC
+Table: 'Expresso Nitro(1075268396)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Perpe (530)
+Seat 2: smd040784 (21)
+Seat 3: MathisKcr (349)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Perpe posts big blind 40
+Dealt to MathisKcr [6s 7c]
+*** PRE-FLOP *** 
+smd040784 calls 21 and is all-in
+MathisKcr calls 20
+Perpe raises 490 to 530 and is all-in
+MathisKcr folds
+*** FLOP *** [4d 4c 2c]
+*** TURN *** [4d 4c 2c][Ad]
+*** RIVER *** [4d 4c 2c Ad][5c]
+*** SHOW DOWN ***
+Perpe shows [Td Ts] (Two pairs : Tens and 4)
+smd040784 shows [7d Ah] (Two pairs : Aces and 4)
+smd040784 collected 63 from main pot
+Perpe collected 528 from side pot 1
+*** SUMMARY ***
+Total pot 591 | No rake
+Board: [4d 4c 2c Ad 5c]
+Seat 1: Perpe (big blind) showed [Td Ts] and won 528 with Two pairs : Tens and 4
+Seat 2: smd040784 (button) showed [7d Ah] and won 63 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4618242595242377217-6-1773065112 - Holdem no limit (30/60) - 2026/03/09 14:05:12 UTC
+Table: 'Expresso Nitro(1075268396)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Perpe (528)
+Seat 2: smd040784 (63)
+Seat 3: MathisKcr (309)
+*** ANTE/BLINDS ***
+Perpe posts small blind 30
+smd040784 posts big blind 60
+Dealt to MathisKcr [8c As]
+*** PRE-FLOP *** 
+MathisKcr raises 249 to 309 and is all-in
+Perpe folds
+smd040784 calls 3 and is all-in
+*** FLOP *** [8s 6h 4c]
+*** TURN *** [8s 6h 4c][Qh]
+*** RIVER *** [8s 6h 4c Qh][5h]
+*** SHOW DOWN ***
+smd040784 shows [Qs 6s] (Two pairs : Queens and 6)
+MathisKcr shows [8c As] (One pair : 8)
+MathisKcr collected 246 from side pot 1
+smd040784 collected 156 from main pot
+*** SUMMARY ***
+Total pot 402 | No rake
+Board: [8s 6h 4c Qh 5h]
+Seat 2: smd040784 (big blind) showed [Qs 6s] and won 156 with Two pairs : Queens and 6
+Seat 3: MathisKcr (button) showed [8c As] and won 246 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4618242595242377217-7-1773065124 - Holdem no limit (30/60) - 2026/03/09 14:05:24 UTC
+Table: 'Expresso Nitro(1075268396)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Perpe (498)
+Seat 2: smd040784 (156)
+Seat 3: MathisKcr (246)
+*** ANTE/BLINDS ***
+smd040784 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [9d Qc]
+*** PRE-FLOP *** 
+Perpe raises 60 to 120
+smd040784 raises 36 to 156 and is all-in
+MathisKcr calls 96
+Perpe calls 36
+*** FLOP *** [Tc 5s 7s]
+MathisKcr checks
+Perpe bets 342 and is all-in
+MathisKcr folds
+*** TURN *** [Tc 5s 7s][Qd]
+*** RIVER *** [Tc 5s 7s Qd][6d]
+*** SHOW DOWN ***
+Perpe shows [Jd Ts] (One pair : Tens)
+smd040784 shows [Kd Kc] (One pair : Kings)
+smd040784 collected 468 from main pot
+Perpe collected 342 from side pot 1
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [Tc 5s 7s Qd 6d]
+Seat 1: Perpe (button) showed [Jd Ts] and won 342 with One pair : Tens
+Seat 2: smd040784 (small blind) showed [Kd Kc] and won 468 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4618242595242377217-8-1773065152 - Holdem no limit (30/60) - 2026/03/09 14:05:52 UTC
+Table: 'Expresso Nitro(1075268396)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Perpe (342)
+Seat 2: smd040784 (468)
+Seat 3: MathisKcr (90)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Perpe posts big blind 60
+Dealt to MathisKcr [4s Qc]
+*** PRE-FLOP *** 
+smd040784 calls 60
+MathisKcr raises 30 to 90 and is all-in
+Perpe raises 252 to 342 and is all-in
+smd040784 folds
+*** FLOP *** [3s 8s 2d]
+*** TURN *** [3s 8s 2d][2h]
+*** RIVER *** [3s 8s 2d 2h][6c]
+*** SHOW DOWN ***
+MathisKcr shows [4s Qc] (One pair : 2)
+Perpe shows [Th Tc] (Two pairs : Tens and 2)
+Perpe collected 492 from pot
+*** SUMMARY ***
+Total pot 492 | No rake
+Board: [3s 8s 2d 2h 6c]
+Seat 1: Perpe (big blind) showed [Th Tc] and won 492 with Two pairs : Tens and 2
+Seat 3: MathisKcr (small blind) showed [4s Qc] and lost with One pair : 2
+
+

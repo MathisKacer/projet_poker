@@ -1,0 +1,99 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667978617177767937-1-1774775285 - Holdem no limit (10/20) - 2026/03/29 09:08:05 UTC
+Table: 'Expresso Nitro(1086848466)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Martin_25000 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Opmas (300)
+*** ANTE/BLINDS ***
+Opmas posts small blind 10
+Martin_25000 posts big blind 20
+Dealt to MathisKcr [7h 7c]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+Opmas folds
+Martin_25000 folds
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: MathisKcr (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667978617177767937-2-1774775299 - Holdem no limit (10/20) - 2026/03/29 09:08:19 UTC
+Table: 'Expresso Nitro(1086848466)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Martin_25000 (280)
+Seat 2: MathisKcr (330)
+Seat 3: Opmas (290)
+*** ANTE/BLINDS ***
+Martin_25000 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ah 8h]
+*** PRE-FLOP *** 
+Opmas folds
+Martin_25000 raises 20 to 40
+MathisKcr raises 290 to 330 and is all-in
+Martin_25000 calls 240 and is all-in
+*** FLOP *** [5d Js 9h]
+*** TURN *** [5d Js 9h][Ts]
+*** RIVER *** [5d Js 9h Ts][Kc]
+*** SHOW DOWN ***
+Martin_25000 shows [Kd Ad] (One pair : Kings)
+MathisKcr shows [Ah 8h] (High card : Ace)
+MathisKcr collected 50 from side pot 1
+Martin_25000 collected 560 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [5d Js 9h Ts Kc]
+Seat 1: Martin_25000 (small blind) showed [Kd Ad] and won 560 with One pair : Kings
+Seat 2: MathisKcr (big blind) showed [Ah 8h] and won 50 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667978617177767937-3-1774775315 - Holdem no limit (10/20) - 2026/03/29 09:08:35 UTC
+Table: 'Expresso Nitro(1086848466)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Martin_25000 (560)
+Seat 2: MathisKcr (50)
+Seat 3: Opmas (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Opmas posts big blind 20
+Dealt to MathisKcr [8d 5s]
+*** PRE-FLOP *** 
+Martin_25000 calls 20
+MathisKcr folds
+Opmas checks
+*** FLOP *** [Ks 7h Kd]
+Opmas checks
+Martin_25000 bets 50
+Opmas folds
+Martin_25000 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Ks 7h Kd]
+Seat 1: Martin_25000 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667978617177767937-4-1774775328 - Holdem no limit (10/20) - 2026/03/29 09:08:48 UTC
+Table: 'Expresso Nitro(1086848466)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Martin_25000 (590)
+Seat 2: MathisKcr (40)
+Seat 3: Opmas (270)
+*** ANTE/BLINDS ***
+Opmas posts small blind 10
+Martin_25000 posts big blind 20
+Dealt to MathisKcr [3h 4h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40 and is all-in
+Opmas folds
+Martin_25000 calls 20
+*** FLOP *** [8d Ac 8c]
+*** TURN *** [8d Ac 8c][As]
+*** RIVER *** [8d Ac 8c As][3s]
+*** SHOW DOWN ***
+MathisKcr shows [3h 4h] (Two pairs : Aces and 8)
+Martin_25000 shows [5c 3d] (Two pairs : Aces and 8)
+Martin_25000 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [8d Ac 8c As 3s]
+Seat 1: Martin_25000 (big blind) showed [5c 3d] and won 90 with Two pairs : Aces and 8
+Seat 2: MathisKcr (button) showed [3h 4h] and lost with Two pairs : Aces and 8
+
+

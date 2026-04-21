@@ -1,0 +1,530 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4485315461965152257-1-1767949388 - Holdem no limit (10/20) - 2026/01/09 09:03:08 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (500)
+Seat 2: lapinini (500)
+Seat 3: albacece (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+lapinini posts big blind 20
+Dealt to MathisKcr [Jc 4c]
+*** PRE-FLOP *** 
+albacece calls 20
+MathisKcr raises 20 to 40
+lapinini calls 20
+albacece calls 20
+*** FLOP *** [7s 6d 9c]
+MathisKcr checks
+lapinini checks
+albacece checks
+*** TURN *** [7s 6d 9c][9d]
+MathisKcr checks
+lapinini checks
+albacece checks
+*** RIVER *** [7s 6d 9c 9d][8s]
+MathisKcr checks
+lapinini checks
+albacece bets 42
+MathisKcr folds
+lapinini folds
+albacece collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [7s 6d 9c 9d 8s]
+Seat 3: albacece (button) won 162
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4485315461965152257-2-1767949425 - Holdem no limit (10/20) - 2026/01/09 09:03:45 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (460)
+Seat 2: lapinini (460)
+Seat 3: albacece (580)
+*** ANTE/BLINDS ***
+lapinini posts small blind 10
+albacece posts big blind 20
+Dealt to MathisKcr [5s 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 440 to 460 and is all-in
+lapinini folds
+albacece folds
+MathisKcr collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Seat 1: MathisKcr (button) won 490
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4485315461965152257-3-1767949438 - Holdem no limit (10/20) - 2026/01/09 09:03:58 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (490)
+Seat 2: lapinini (450)
+Seat 3: albacece (560)
+*** ANTE/BLINDS ***
+albacece posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kc Ad]
+*** PRE-FLOP *** 
+lapinini calls 20
+albacece calls 10
+MathisKcr raises 20 to 40
+lapinini calls 20
+albacece calls 20
+*** FLOP *** [7d 2s 6d]
+albacece checks
+MathisKcr bets 40
+lapinini calls 40
+albacece calls 40
+*** TURN *** [7d 2s 6d][9d]
+albacece checks
+MathisKcr bets 40
+lapinini calls 40
+albacece calls 40
+*** RIVER *** [7d 2s 6d 9d][9c]
+albacece checks
+MathisKcr checks
+lapinini bets 234
+albacece folds
+MathisKcr folds
+lapinini collected 594 from pot
+*** SUMMARY ***
+Total pot 594 | No rake
+Board: [7d 2s 6d 9d 9c]
+Seat 2: lapinini (button) won 594
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4485315461965152257-4-1767949483 - Holdem no limit (15/30) - 2026/01/09 09:04:43 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (370)
+Seat 2: lapinini (690)
+Seat 3: albacece (440)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+lapinini posts big blind 30
+Dealt to MathisKcr [Kc 4d]
+*** PRE-FLOP *** 
+albacece folds
+MathisKcr calls 15
+lapinini checks
+*** FLOP *** [6d 7h 2d]
+MathisKcr checks
+lapinini bets 30
+MathisKcr calls 30
+*** TURN *** [6d 7h 2d][3s]
+MathisKcr checks
+lapinini bets 30
+MathisKcr calls 30
+*** RIVER *** [6d 7h 2d 3s][7s]
+MathisKcr checks
+lapinini bets 117
+MathisKcr folds
+lapinini collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [6d 7h 2d 3s 7s]
+Seat 2: lapinini (big blind) won 297
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4485315461965152257-5-1767949512 - Holdem no limit (15/30) - 2026/01/09 09:05:12 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (280)
+Seat 2: lapinini (780)
+Seat 3: albacece (440)
+*** ANTE/BLINDS ***
+lapinini posts small blind 15
+albacece posts big blind 30
+Dealt to MathisKcr [9c Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+lapinini calls 45
+albacece folds
+*** FLOP *** [Td Kc 2d]
+lapinini checks
+MathisKcr bets 30
+lapinini calls 30
+*** TURN *** [Td Kc 2d][Qs]
+lapinini checks
+MathisKcr bets 45
+lapinini calls 45
+*** RIVER *** [Td Kc 2d Qs][3c]
+lapinini checks
+MathisKcr bets 75
+lapinini calls 75
+*** SHOW DOWN ***
+lapinini shows [6c Ac] (High card : Ace)
+MathisKcr shows [9c Qh] (One pair : Queens)
+MathisKcr collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [Td Kc 2d Qs 3c]
+Seat 1: MathisKcr (button) showed [9c Qh] and won 450 with One pair : Queens
+Seat 2: lapinini (small blind) showed [6c Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4485315461965152257-6-1767949548 - Holdem no limit (15/30) - 2026/01/09 09:05:48 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (520)
+Seat 2: lapinini (570)
+Seat 3: albacece (410)
+*** ANTE/BLINDS ***
+albacece posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9s Jh]
+*** PRE-FLOP *** 
+lapinini calls 30
+albacece folds
+MathisKcr raises 30 to 60
+lapinini calls 30
+*** FLOP *** [5h 9h 6d]
+MathisKcr bets 60
+lapinini calls 60
+*** TURN *** [5h 9h 6d][2d]
+MathisKcr bets 75
+lapinini folds
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [5h 9h 6d 2d]
+Seat 1: MathisKcr (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4485315461965152257-7-1767949581 - Holdem no limit (20/40) - 2026/01/09 09:06:21 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (655)
+Seat 2: lapinini (450)
+Seat 3: albacece (395)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+lapinini posts big blind 40
+Dealt to MathisKcr [2h Jh]
+*** PRE-FLOP *** 
+albacece folds
+MathisKcr raises 40 to 80
+lapinini folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4485315461965152257-8-1767949594 - Holdem no limit (20/40) - 2026/01/09 09:06:34 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (695)
+Seat 2: lapinini (410)
+Seat 3: albacece (395)
+*** ANTE/BLINDS ***
+lapinini posts small blind 20
+albacece posts big blind 40
+Dealt to MathisKcr [7h 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+lapinini calls 20
+albacece checks
+*** FLOP *** [8s 7c Tc]
+lapinini checks
+albacece checks
+*** TURN *** [8s 7c Tc][Ks]
+lapinini checks
+albacece checks
+*** RIVER *** [8s 7c Tc Ks][5d]
+lapinini bets 52
+albacece calls 52
+*** SHOW DOWN ***
+lapinini shows [As 5c] (One pair : 5)
+albacece shows [6h 6s] (One pair : 6)
+albacece collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | No rake
+Board: [8s 7c Tc Ks 5d]
+Seat 2: lapinini (small blind) showed [As 5c] and lost with One pair : 5
+Seat 3: albacece (big blind) showed [6h 6s] and won 184 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4485315461965152257-9-1767949619 - Holdem no limit (20/40) - 2026/01/09 09:06:59 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (695)
+Seat 2: lapinini (318)
+Seat 3: albacece (487)
+*** ANTE/BLINDS ***
+albacece posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5d 5s]
+*** PRE-FLOP *** 
+lapinini calls 40
+albacece calls 20
+MathisKcr raises 655 to 695 and is all-in
+lapinini folds
+albacece calls 447 and is all-in
+*** FLOP *** [8s Tc 2c]
+*** TURN *** [8s Tc 2c][Qs]
+*** RIVER *** [8s Tc 2c Qs][Qh]
+*** SHOW DOWN ***
+albacece shows [As Kc] (One pair : Queens)
+MathisKcr shows [5d 5s] (Two pairs : Queens and 5)
+MathisKcr collected 1222 from pot
+*** SUMMARY ***
+Total pot 1222 | No rake
+Board: [8s Tc 2c Qs Qh]
+Seat 1: MathisKcr (big blind) showed [5d 5s] and won 1222 with Two pairs : Queens and 5
+Seat 3: albacece (small blind) showed [As Kc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4485315461965152257-10-1767949639 - Holdem no limit (20/40) - 2026/01/09 09:07:19 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1222)
+Seat 2: lapinini (278)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+lapinini posts big blind 40
+Dealt to MathisKcr [2c 8s]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+lapinini checks
+*** FLOP *** [2d Qd 4d]
+lapinini checks
+MathisKcr bets 40
+lapinini folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2d Qd 4d]
+Seat 1: MathisKcr (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4485315461965152257-11-1767949659 - Holdem no limit (30/60) - 2026/01/09 09:07:39 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (1262)
+Seat 2: lapinini (238)
+*** ANTE/BLINDS ***
+lapinini posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qs 8c]
+*** PRE-FLOP *** 
+lapinini folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4485315461965152257-12-1767949667 - Holdem no limit (30/60) - 2026/01/09 09:07:47 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1292)
+Seat 2: lapinini (208)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+lapinini posts big blind 60
+Dealt to MathisKcr [Qc 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+lapinini calls 60
+*** FLOP *** [7s 7c 3h]
+lapinini bets 88 and is all-in
+MathisKcr calls 88
+*** TURN *** [7s 7c 3h][3s]
+*** RIVER *** [7s 7c 3h 3s][3d]
+*** SHOW DOWN ***
+MathisKcr shows [Qc 6c] (Full of 3 and 7)
+lapinini shows [Ts 9h] (Full of 3 and 7)
+lapinini collected 208 from pot
+MathisKcr collected 208 from pot
+*** SUMMARY ***
+Total pot 416 | No rake
+Board: [7s 7c 3h 3s 3d]
+Seat 1: MathisKcr (small blind) (button) showed [Qc 6c] and won 208 with Full of 3 and 7
+Seat 2: lapinini (big blind) showed [Ts 9h] and won 208 with Full of 3 and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4485315461965152257-13-1767949687 - Holdem no limit (30/60) - 2026/01/09 09:08:07 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (1292)
+Seat 2: lapinini (208)
+*** ANTE/BLINDS ***
+lapinini posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ah 3d]
+*** PRE-FLOP *** 
+lapinini calls 30
+MathisKcr raises 60 to 120
+lapinini raises 60 to 180
+MathisKcr raises 60 to 240
+lapinini calls 28 and is all-in
+*** FLOP *** [Js 6s As]
+*** TURN *** [Js 6s As][8s]
+*** RIVER *** [Js 6s As 8s][5d]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 3d] (One pair : Aces)
+lapinini shows [Ad 9c] (One pair : Aces)
+lapinini collected 416 from main pot
+MathisKcr collected 32 from side pot 1
+*** SUMMARY ***
+Total pot 448 | No rake
+Board: [Js 6s As 8s 5d]
+Seat 1: MathisKcr (big blind) showed [Ah 3d] and won 32 with One pair : Aces
+Seat 2: lapinini (small blind) (button) showed [Ad 9c] and won 416 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4485315461965152257-14-1767949708 - Holdem no limit (30/60) - 2026/01/09 09:08:28 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1084)
+Seat 2: lapinini (416)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+lapinini posts big blind 60
+Dealt to MathisKcr [9s Tc]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+lapinini calls 60
+*** FLOP *** [Ah Ks 2d]
+lapinini bets 156
+MathisKcr folds
+lapinini collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [Ah Ks 2d]
+Seat 2: lapinini (big blind) won 396
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4485315461965152257-15-1767949724 - Holdem no limit (30/60) - 2026/01/09 09:08:44 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (964)
+Seat 2: lapinini (536)
+*** ANTE/BLINDS ***
+lapinini posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [3c 8d]
+*** PRE-FLOP *** 
+lapinini calls 30
+MathisKcr checks
+*** FLOP *** [6c Jd 8h]
+MathisKcr bets 120
+lapinini folds
+MathisKcr collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [6c Jd 8h]
+Seat 1: MathisKcr (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4485315461965152257-16-1767949741 - Holdem no limit (30/60) - 2026/01/09 09:09:01 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1024)
+Seat 2: lapinini (476)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+lapinini posts big blind 60
+Dealt to MathisKcr [4h 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+lapinini calls 60
+*** FLOP *** [Th Ts 4d]
+lapinini bets 356 and is all-in
+MathisKcr folds
+lapinini collected 596 from pot
+*** SUMMARY ***
+Total pot 596 | No rake
+Board: [Th Ts 4d]
+Seat 2: lapinini (big blind) won 596
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4485315461965152257-17-1767949766 - Holdem no limit (40/80) - 2026/01/09 09:09:26 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (904)
+Seat 2: lapinini (596)
+*** ANTE/BLINDS ***
+lapinini posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Td 7d]
+*** PRE-FLOP *** 
+lapinini folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4485315461965152257-18-1767949773 - Holdem no limit (40/80) - 2026/01/09 09:09:33 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (944)
+Seat 2: lapinini (556)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+lapinini posts big blind 80
+Dealt to MathisKcr [Tc 3c]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 160
+lapinini calls 80
+*** FLOP *** [Qd 9c 8s]
+lapinini bets 320
+MathisKcr raises 320 to 640
+lapinini calls 76 and is all-in
+*** TURN *** [Qd 9c 8s][5s]
+*** RIVER *** [Qd 9c 8s 5s][7s]
+*** SHOW DOWN ***
+MathisKcr shows [Tc 3c] (High card : Queen)
+lapinini shows [Qc 8d] (Two pairs : Queens and 8)
+lapinini collected 1112 from main pot
+MathisKcr collected 244 from side pot 1
+*** SUMMARY ***
+Total pot 1356 | No rake
+Board: [Qd 9c 8s 5s 7s]
+Seat 1: MathisKcr (small blind) (button) showed [Tc 3c] and won 244 with High card : Queen
+Seat 2: lapinini (big blind) showed [Qc 8d] and won 1112 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4485315461965152257-19-1767949795 - Holdem no limit (40/80) - 2026/01/09 09:09:55 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (388)
+Seat 2: lapinini (1112)
+*** ANTE/BLINDS ***
+lapinini posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Qc 7s]
+*** PRE-FLOP *** 
+lapinini folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4485315461965152257-20-1767949801 - Holdem no limit (40/80) - 2026/01/09 09:10:01 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (428)
+Seat 2: lapinini (1072)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+lapinini posts big blind 80
+Dealt to MathisKcr [Qc 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 348 to 428 and is all-in
+lapinini folds
+MathisKcr collected 508 from pot
+*** SUMMARY ***
+Total pot 508 | No rake
+Seat 1: MathisKcr (small blind) (button) won 508
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4485315461965152257-21-1767949810 - Holdem no limit (40/80) - 2026/01/09 09:10:10 UTC
+Table: 'Expresso(1044318886)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (508)
+Seat 2: lapinini (992)
+*** ANTE/BLINDS ***
+lapinini posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [6h Jd]
+*** PRE-FLOP *** 
+lapinini calls 40
+MathisKcr raises 428 to 508 and is all-in
+lapinini calls 428
+*** FLOP *** [9d Kd 5h]
+*** TURN *** [9d Kd 5h][2d]
+*** RIVER *** [9d Kd 5h 2d][3h]
+*** SHOW DOWN ***
+MathisKcr shows [6h Jd] (High card : King)
+lapinini shows [Kc Qc] (One pair : Kings)
+lapinini collected 1016 from pot
+*** SUMMARY ***
+Total pot 1016 | No rake
+Board: [9d Kd 5h 2d 3h]
+Seat 1: MathisKcr (big blind) showed [6h Jd] and lost with High card : King
+Seat 2: lapinini (small blind) (button) showed [Kc Qc] and won 1016 with One pair : Kings
+
+

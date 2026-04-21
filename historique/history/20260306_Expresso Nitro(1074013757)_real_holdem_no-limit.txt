@@ -1,0 +1,164 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612853961769091073-1-1772832642 - Holdem no limit (10/20) - 2026/03/06 21:30:42 UTC
+Table: 'Expresso Nitro(1074013757)#0' 3-max (real money) Seat #3 is the button
+Seat 1: La_Naine (300)
+Seat 2: MathisKcr (300)
+Seat 3: Elisa1303 (300)
+*** ANTE/BLINDS ***
+La_Naine posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7h Qc]
+*** PRE-FLOP *** 
+Elisa1303 calls 20
+La_Naine raises 280 to 300 and is all-in
+MathisKcr folds
+Elisa1303 folds
+La_Naine collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: La_Naine (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612853961769091073-2-1772832652 - Holdem no limit (10/20) - 2026/03/06 21:30:52 UTC
+Table: 'Expresso Nitro(1074013757)#0' 3-max (real money) Seat #1 is the button
+Seat 1: La_Naine (340)
+Seat 2: MathisKcr (280)
+Seat 3: Elisa1303 (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Elisa1303 posts big blind 20
+Dealt to MathisKcr [7d 8h]
+*** PRE-FLOP *** 
+La_Naine raises 320 to 340 and is all-in
+MathisKcr folds
+Elisa1303 folds
+La_Naine collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 1: La_Naine (button) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612853961769091073-3-1772832659 - Holdem no limit (10/20) - 2026/03/06 21:30:59 UTC
+Table: 'Expresso Nitro(1074013757)#0' 3-max (real money) Seat #2 is the button
+Seat 1: La_Naine (370)
+Seat 2: MathisKcr (270)
+Seat 3: Elisa1303 (260)
+*** ANTE/BLINDS ***
+Elisa1303 posts small blind 10
+La_Naine posts big blind 20
+Dealt to MathisKcr [4h As]
+*** PRE-FLOP *** 
+MathisKcr raises 250 to 270 and is all-in
+Elisa1303 calls 250 and is all-in
+La_Naine folds
+*** FLOP *** [Kc 8d 8c]
+*** TURN *** [Kc 8d 8c][2c]
+*** RIVER *** [Kc 8d 8c 2c][6c]
+*** SHOW DOWN ***
+MathisKcr shows [4h As] (One pair : 8)
+Elisa1303 shows [Ad Ac] (Flush Ace high)
+Elisa1303 collected 540 from main pot
+MathisKcr collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Kc 8d 8c 2c 6c]
+Seat 2: MathisKcr (button) showed [4h As] and won 10 with One pair : 8
+Seat 3: Elisa1303 (small blind) showed [Ad Ac] and won 540 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612853961769091073-4-1772832672 - Holdem no limit (10/20) - 2026/03/06 21:31:12 UTC
+Table: 'Expresso Nitro(1074013757)#0' 3-max (real money) Seat #3 is the button
+Seat 1: La_Naine (350)
+Seat 2: MathisKcr (10)
+Seat 3: Elisa1303 (540)
+*** ANTE/BLINDS ***
+La_Naine posts small blind 10
+MathisKcr posts big blind 10 and is all-in
+Dealt to MathisKcr [8c Ad]
+*** PRE-FLOP *** 
+Elisa1303 folds
+*** FLOP *** [2h Jd 9h]
+*** TURN *** [2h Jd 9h][9s]
+*** RIVER *** [2h Jd 9h 9s][Qc]
+*** SHOW DOWN ***
+La_Naine shows [4c Ts] (One pair : 9)
+MathisKcr shows [8c Ad] (One pair : 9)
+MathisKcr collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | No rake
+Board: [2h Jd 9h 9s Qc]
+Seat 1: La_Naine (small blind) showed [4c Ts] and lost with One pair : 9
+Seat 2: MathisKcr (big blind) showed [8c Ad] and won 20 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612853961769091073-5-1772832683 - Holdem no limit (10/20) - 2026/03/06 21:31:23 UTC
+Table: 'Expresso Nitro(1074013757)#0' 3-max (real money) Seat #1 is the button
+Seat 1: La_Naine (340)
+Seat 2: MathisKcr (20)
+Seat 3: Elisa1303 (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Elisa1303 posts big blind 20
+Dealt to MathisKcr [Jd 6d]
+*** PRE-FLOP *** 
+La_Naine calls 20
+MathisKcr calls 10 and is all-in
+Elisa1303 checks
+*** FLOP *** [Qh Qs Qc]
+Elisa1303 checks
+La_Naine checks
+*** TURN *** [Qh Qs Qc][Jh]
+Elisa1303 checks
+La_Naine checks
+*** RIVER *** [Qh Qs Qc Jh][2s]
+Elisa1303 bets 20
+La_Naine calls 20
+*** SHOW DOWN ***
+Elisa1303 shows [7d 6s] (Trips of Queens)
+La_Naine shows [Kh 8s] (Trips of Queens)
+MathisKcr shows [Jd 6d] (Full of Queens and Jacks)
+MathisKcr collected 60 from main pot
+La_Naine collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Qh Qs Qc Jh 2s]
+Seat 1: La_Naine (button) showed [Kh 8s] and won 40 with Trips of Queens
+Seat 2: MathisKcr (small blind) showed [Jd 6d] and won 60 with Full of Queens and Jacks
+Seat 3: Elisa1303 (big blind) showed [7d 6s] and lost with Trips of Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4612853961769091073-6-1772832704 - Holdem no limit (15/30) - 2026/03/06 21:31:44 UTC
+Table: 'Expresso Nitro(1074013757)#0' 3-max (real money) Seat #2 is the button
+Seat 1: La_Naine (340)
+Seat 2: MathisKcr (60)
+Seat 3: Elisa1303 (500)
+*** ANTE/BLINDS ***
+Elisa1303 posts small blind 15
+La_Naine posts big blind 30
+Dealt to MathisKcr [Kh Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60 and is all-in
+Elisa1303 calls 45
+La_Naine calls 30
+*** FLOP *** [7s 7c Ks]
+Elisa1303 checks
+La_Naine checks
+*** TURN *** [7s 7c Ks][8c]
+Elisa1303 checks
+La_Naine bets 30
+Elisa1303 calls 30
+*** RIVER *** [7s 7c Ks 8c][8h]
+Elisa1303 checks
+La_Naine checks
+*** SHOW DOWN ***
+MathisKcr shows [Kh Ad] (Two pairs : Kings and 8)
+Elisa1303 shows [2c 2d] (Two pairs : 8 and 7)
+La_Naine shows [7d 6d] (Full of 7 and 8)
+La_Naine collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7s 7c Ks 8c 8h]
+Seat 1: La_Naine (big blind) showed [7d 6d] and won 240 with Full of 7 and 8
+Seat 2: MathisKcr (button) showed [Kh Ad] and lost with Two pairs : Kings and 8
+Seat 3: Elisa1303 (small blind) showed [2c 2d] and lost with Two pairs : 8 and 7
+
+

@@ -1,0 +1,340 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614359493835227137-1-1772900056 - Holdem no limit (10/20) - 2026/03/07 16:14:16 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: NS_Mage34113 (300)
+Seat 3: Yvesec (300)
+*** ANTE/BLINDS ***
+Yvesec posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7s 6h]
+*** PRE-FLOP *** 
+NS_Mage34113 calls 20
+Yvesec raises 20 to 40
+MathisKcr folds
+NS_Mage34113 calls 20
+*** FLOP *** [Td 2h Ah]
+Yvesec bets 65
+NS_Mage34113 folds
+Yvesec collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [Td 2h Ah]
+Seat 3: Yvesec (small blind) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614359493835227137-2-1772900082 - Holdem no limit (10/20) - 2026/03/07 16:14:42 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: NS_Mage34113 (260)
+Seat 3: Yvesec (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+NS_Mage34113 posts big blind 20
+Dealt to MathisKcr [Jh 4s]
+*** PRE-FLOP *** 
+Yvesec raises 20 to 40
+MathisKcr folds
+NS_Mage34113 calls 20
+*** FLOP *** [9d 9h 6s]
+NS_Mage34113 checks
+Yvesec bets 90
+NS_Mage34113 raises 130 to 220 and is all-in
+Yvesec raises 100 to 320 and is all-in
+*** TURN *** [9d 9h 6s][4c]
+*** RIVER *** [9d 9h 6s 4c][Th]
+*** SHOW DOWN ***
+NS_Mage34113 shows [5c 6h] (Two pairs : 9 and 6)
+Yvesec shows [6d Qs] (Two pairs : 9 and 6)
+Yvesec collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [9d 9h 6s 4c Th]
+Seat 2: NS_Mage34113 (big blind) showed [5c 6h] and lost with Two pairs : 9 and 6
+Seat 3: Yvesec (button) showed [6d Qs] and won 630 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614359493835227137-3-1772900103 - Holdem no limit (10/20) - 2026/03/07 16:15:03 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (270)
+Seat 3: Yvesec (630)
+*** ANTE/BLINDS ***
+Yvesec posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9h 6c]
+*** PRE-FLOP *** 
+Yvesec calls 10
+MathisKcr checks
+*** FLOP *** [6d 8d 7c]
+MathisKcr bets 40
+Yvesec raises 40 to 80
+MathisKcr raises 170 to 250 and is all-in
+Yvesec raises 360 to 610 and is all-in
+*** TURN *** [6d 8d 7c][Ts]
+*** RIVER *** [6d 8d 7c Ts][2s]
+*** SHOW DOWN ***
+MathisKcr shows [9h 6c] (Straight Ten high)
+Yvesec shows [6s 2c] (Two pairs : 6 and 2)
+Yvesec collected 360 from side pot 1
+MathisKcr collected 540 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 8d 7c Ts 2s]
+Seat 1: MathisKcr (big blind) showed [9h 6c] and won 540 with Straight Ten high
+Seat 3: Yvesec (small blind) (button) showed [6s 2c] and won 360 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4614359493835227137-4-1772900134 - Holdem no limit (15/30) - 2026/03/07 16:15:34 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (540)
+Seat 3: Yvesec (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Yvesec posts big blind 30
+Dealt to MathisKcr [7d 9s]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+Yvesec raises 45 to 75
+MathisKcr folds
+Yvesec collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: Yvesec (big blind) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4614359493835227137-5-1772900161 - Holdem no limit (15/30) - 2026/03/07 16:16:01 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (510)
+Seat 3: Yvesec (390)
+*** ANTE/BLINDS ***
+Yvesec posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4s Ad]
+*** PRE-FLOP *** 
+Yvesec raises 30 to 60
+MathisKcr raises 450 to 510 and is all-in
+Yvesec calls 330 and is all-in
+*** FLOP *** [9d 3s Kd]
+*** TURN *** [9d 3s Kd][9s]
+*** RIVER *** [9d 3s Kd 9s][Jd]
+*** SHOW DOWN ***
+MathisKcr shows [4s Ad] (One pair : 9)
+Yvesec shows [6c Jh] (Two pairs : Jacks and 9)
+Yvesec collected 780 from main pot
+MathisKcr collected 120 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d 3s Kd 9s Jd]
+Seat 1: MathisKcr (big blind) showed [4s Ad] and won 120 with One pair : 9
+Seat 3: Yvesec (small blind) (button) showed [6c Jh] and won 780 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614359493835227137-6-1772900178 - Holdem no limit (20/40) - 2026/03/07 16:16:18 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (120)
+Seat 3: Yvesec (780)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Yvesec posts big blind 40
+Dealt to MathisKcr [As Ac]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Yvesec raises 740 to 780 and is all-in
+MathisKcr calls 80 and is all-in
+*** FLOP *** [5s Kh 7h]
+*** TURN *** [5s Kh 7h][Ad]
+*** RIVER *** [5s Kh 7h Ad][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [As Ac] (Full of Aces and Kings)
+Yvesec shows [8d Js] (One pair : Kings)
+Yvesec collected 660 from side pot 1
+MathisKcr collected 240 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s Kh 7h Ad Kc]
+Seat 1: MathisKcr (small blind) (button) showed [As Ac] and won 240 with Full of Aces and Kings
+Seat 3: Yvesec (big blind) showed [8d Js] and won 660 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614359493835227137-7-1772900197 - Holdem no limit (20/40) - 2026/03/07 16:16:37 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (240)
+Seat 3: Yvesec (660)
+*** ANTE/BLINDS ***
+Yvesec posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9d 3s]
+*** PRE-FLOP *** 
+Yvesec raises 40 to 80
+MathisKcr folds
+Yvesec collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Yvesec (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614359493835227137-8-1772900208 - Holdem no limit (20/40) - 2026/03/07 16:16:48 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (200)
+Seat 3: Yvesec (700)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Yvesec posts big blind 40
+Dealt to MathisKcr [2c 6c]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Yvesec checks
+*** FLOP *** [Kd 5s 2d]
+Yvesec checks
+MathisKcr bets 160 and is all-in
+Yvesec folds
+MathisKcr collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Kd 5s 2d]
+Seat 1: MathisKcr (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4614359493835227137-9-1772900227 - Holdem no limit (20/40) - 2026/03/07 16:17:07 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (240)
+Seat 3: Yvesec (660)
+*** ANTE/BLINDS ***
+Yvesec posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7h Ks]
+*** PRE-FLOP *** 
+Yvesec calls 20
+MathisKcr raises 200 to 240 and is all-in
+Yvesec calls 200
+*** FLOP *** [8s 3s Kd]
+*** TURN *** [8s 3s Kd][3c]
+*** RIVER *** [8s 3s Kd 3c][Qc]
+*** SHOW DOWN ***
+Yvesec shows [Th 9s] (One pair : 3)
+MathisKcr shows [7h Ks] (Two pairs : Kings and 3)
+MathisKcr collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [8s 3s Kd 3c Qc]
+Seat 1: MathisKcr (big blind) showed [7h Ks] and won 480 with Two pairs : Kings and 3
+Seat 3: Yvesec (small blind) (button) showed [Th 9s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614359493835227137-10-1772900246 - Holdem no limit (30/60) - 2026/03/07 16:17:26 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (480)
+Seat 3: Yvesec (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Yvesec posts big blind 60
+Dealt to MathisKcr [6h 9h]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Yvesec raises 360 to 420 and is all-in
+MathisKcr folds
+Yvesec collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 3: Yvesec (big blind) won 480
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614359493835227137-11-1772900256 - Holdem no limit (30/60) - 2026/03/07 16:17:36 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (420)
+Seat 3: Yvesec (480)
+*** ANTE/BLINDS ***
+Yvesec posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [4d 4c]
+*** PRE-FLOP *** 
+Yvesec raises 60 to 120
+MathisKcr raises 300 to 420 and is all-in
+Yvesec calls 300
+*** FLOP *** [3s Tc 2d]
+*** TURN *** [3s Tc 2d][5s]
+*** RIVER *** [3s Tc 2d 5s][2s]
+*** SHOW DOWN ***
+Yvesec shows [Jh Ac] (One pair : 2)
+MathisKcr shows [4d 4c] (Two pairs : 4 and 2)
+MathisKcr collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [3s Tc 2d 5s 2s]
+Seat 1: MathisKcr (big blind) showed [4d 4c] and won 840 with Two pairs : 4 and 2
+Seat 3: Yvesec (small blind) (button) showed [Jh Ac] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614359493835227137-12-1772900272 - Holdem no limit (30/60) - 2026/03/07 16:17:52 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (840)
+Seat 3: Yvesec (60)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Yvesec posts big blind 60 and is all-in
+Dealt to MathisKcr [9h 4s]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+*** FLOP *** [3c 8h 8s]
+*** TURN *** [3c 8h 8s][Kh]
+*** RIVER *** [3c 8h 8s Kh][4d]
+*** SHOW DOWN ***
+MathisKcr shows [9h 4s] (Two pairs : 8 and 4)
+Yvesec shows [Jh 4c] (Two pairs : 8 and 4)
+Yvesec collected 60 from pot
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [3c 8h 8s Kh 4d]
+Seat 1: MathisKcr (small blind) (button) showed [9h 4s] and won 60 with Two pairs : 8 and 4
+Seat 3: Yvesec (big blind) showed [Jh 4c] and won 60 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4614359493835227137-13-1772900282 - Holdem no limit (30/60) - 2026/03/07 16:18:02 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (840)
+Seat 3: Yvesec (60)
+*** ANTE/BLINDS ***
+Yvesec posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [6c 4c]
+*** PRE-FLOP *** 
+Yvesec calls 30 and is all-in
+*** FLOP *** [4d 4s 9c]
+*** TURN *** [4d 4s 9c][Ad]
+*** RIVER *** [4d 4s 9c Ad][Tc]
+*** SHOW DOWN ***
+MathisKcr shows [6c 4c] (Trips of 4)
+Yvesec shows [7c 4h] (Trips of 4)
+Yvesec collected 60 from pot
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4d 4s 9c Ad Tc]
+Seat 1: MathisKcr (big blind) showed [6c 4c] and won 60 with Trips of 4
+Seat 3: Yvesec (small blind) (button) showed [7c 4h] and won 60 with Trips of 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4614359493835227137-14-1772900294 - Holdem no limit (40/80) - 2026/03/07 16:18:14 UTC
+Table: 'Expresso Nitro(1074364291)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (840)
+Seat 3: Yvesec (60)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Yvesec posts big blind 60 and is all-in
+Dealt to MathisKcr [3h Kh]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+*** FLOP *** [4c 8s Ac]
+*** TURN *** [4c 8s Ac][Kd]
+*** RIVER *** [4c 8s Ac Kd][5c]
+*** SHOW DOWN ***
+Yvesec shows [Qs 5s] (One pair : 5)
+MathisKcr shows [3h Kh] (One pair : Kings)
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [4c 8s Ac Kd 5c]
+Seat 1: MathisKcr (small blind) (button) showed [3h Kh] and won 140 with One pair : Kings
+Seat 3: Yvesec (big blind) showed [Qs 5s] and lost with One pair : 5
+
+

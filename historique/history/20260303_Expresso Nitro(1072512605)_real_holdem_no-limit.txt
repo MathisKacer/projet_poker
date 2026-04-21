@@ -1,0 +1,71 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606406563022766081-1-1772571024 - Holdem no limit (10/20) - 2026/03/03 20:50:24 UTC
+Table: 'Expresso Nitro(1072512605)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tartare29 (300)
+Seat 2: MathisKcr (300)
+Seat 3: guztell (300)
+*** ANTE/BLINDS ***
+guztell posts small blind 10
+tartare29 posts big blind 20
+Dealt to MathisKcr [Ah 5h]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+guztell folds
+tartare29 calls 280 and is all-in
+*** FLOP *** [Js Jh Qd]
+*** TURN *** [Js Jh Qd][8c]
+*** RIVER *** [Js Jh Qd 8c][6c]
+*** SHOW DOWN ***
+tartare29 shows [3c Ks] (One pair : Jacks)
+MathisKcr shows [Ah 5h] (One pair : Jacks)
+MathisKcr collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Js Jh Qd 8c 6c]
+Seat 1: tartare29 (big blind) showed [3c Ks] and lost with One pair : Jacks
+Seat 2: MathisKcr (button) showed [Ah 5h] and won 610 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606406563022766081-2-1772571045 - Holdem no limit (10/20) - 2026/03/03 20:50:45 UTC
+Table: 'Expresso Nitro(1072512605)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (610)
+Seat 3: guztell (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+guztell posts big blind 20
+Dealt to MathisKcr [8d Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+guztell folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606406563022766081-3-1772571053 - Holdem no limit (10/20) - 2026/03/03 20:50:53 UTC
+Table: 'Expresso Nitro(1072512605)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (630)
+Seat 3: guztell (270)
+*** ANTE/BLINDS ***
+guztell posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2h Ac]
+*** PRE-FLOP *** 
+guztell calls 10
+MathisKcr raises 20 to 40
+guztell raises 230 to 270 and is all-in
+MathisKcr calls 230
+*** FLOP *** [3s 9d 6h]
+*** TURN *** [3s 9d 6h][6c]
+*** RIVER *** [3s 9d 6h 6c][9s]
+*** SHOW DOWN ***
+guztell shows [4d Kc] (Two pairs : 9 and 6)
+MathisKcr shows [2h Ac] (Two pairs : 9 and 6)
+MathisKcr collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [3s 9d 6h 6c 9s]
+Seat 2: MathisKcr (big blind) showed [2h Ac] and won 540 with Two pairs : 9 and 6
+Seat 3: guztell (small blind) (button) showed [4d Kc] and lost with Two pairs : 9 and 6
+
+

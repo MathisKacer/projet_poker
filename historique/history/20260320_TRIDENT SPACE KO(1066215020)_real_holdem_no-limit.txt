@@ -1,0 +1,93 @@
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4579358641403985980-61-1773999131 - Holdem no limit (4/17/35) - 2026/03/20 09:32:11 UTC
+Table: 'TRIDENT SPACE KO(1066215020)#0059' 3-max (real money) Seat #1 is the button
+Seat 1: DooDyBoy (4000, 2.16€ bounty)
+Seat 2: MathisKcr (500, 0.50€ bounty)
+*** ANTE/BLINDS ***
+DooDyBoy posts ante 4
+MathisKcr posts ante 4
+DooDyBoy posts small blind 17
+MathisKcr posts big blind 35
+Dealt to MathisKcr [4s 2c]
+*** PRE-FLOP *** 
+DooDyBoy calls 18
+MathisKcr checks
+*** FLOP *** [Ac 5d 9s]
+MathisKcr checks
+DooDyBoy checks
+*** TURN *** [Ac 5d 9s][3h]
+MathisKcr bets 69
+DooDyBoy folds
+MathisKcr collected 147 from pot
+*** SUMMARY ***
+Total pot 147 | No rake
+Board: [Ac 5d 9s 3h]
+Seat 2: MathisKcr (big blind) won 147
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4579358641403985980-62-1773999161 - Holdem no limit (5/20/40) - 2026/03/20 09:32:41 UTC
+Table: 'TRIDENT SPACE KO(1066215020)#0059' 3-max (real money) Seat #1 is the button
+Seat 1: DooDyBoy (3961, 2.16€ bounty)
+Seat 2: MathisKcr (539, 0.50€ bounty)
+Seat 3: fcgb74 (500, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 5
+fcgb74 posts ante 5
+DooDyBoy posts ante 5
+MathisKcr posts small blind 20
+fcgb74 posts big blind 40
+Dealt to MathisKcr [As Qh]
+*** PRE-FLOP *** 
+DooDyBoy folds
+MathisKcr raises 494 to 534 and is all-in
+fcgb74 calls 455 and is all-in
+*** FLOP *** [Td 3s 8c]
+*** TURN *** [Td 3s 8c][3c]
+*** RIVER *** [Td 3s 8c 3c][Ks]
+*** SHOW DOWN ***
+MathisKcr shows [As Qh] (One pair : 3)
+fcgb74 shows [Kc Kh] (Full of Kings and 3)
+fcgb74 collected 1005 from main pot
+MathisKcr collected 39 from side pot 1
+*** SUMMARY ***
+Total pot 1044 | No rake
+Board: [Td 3s 8c 3c Ks]
+Seat 2: MathisKcr (small blind) showed [As Qh] and won 39 with One pair : 3
+Seat 3: fcgb74 (big blind) showed [Kc Kh] and won 1005 with Full of Kings and 3
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4579358641403985980-63-1773999178 - Holdem no limit (5/20/40) - 2026/03/20 09:32:58 UTC
+Table: 'TRIDENT SPACE KO(1066215020)#0059' 3-max (real money) Seat #2 is the button
+Seat 1: DooDyBoy (3956, 2.16€ bounty)
+Seat 2: MathisKcr (39, 0.50€ bounty)
+Seat 3: fcgb74 (1005, 0.50€ bounty)
+*** ANTE/BLINDS ***
+fcgb74 posts ante 5
+DooDyBoy posts ante 5
+MathisKcr posts ante 5
+fcgb74 posts small blind 20
+DooDyBoy posts big blind 40
+Dealt to MathisKcr [8c Ts]
+*** PRE-FLOP *** 
+MathisKcr calls 34 and is all-in
+fcgb74 calls 20
+DooDyBoy checks
+*** FLOP *** [4h Ad 3s]
+fcgb74 bets 45
+DooDyBoy raises 127 to 172
+fcgb74 calls 127
+*** TURN *** [4h Ad 3s][4d]
+fcgb74 checks
+DooDyBoy bets 186
+fcgb74 folds
+*** RIVER *** [4h Ad 3s 4d][Js]
+*** SHOW DOWN ***
+MathisKcr shows [8c Ts] (One pair : 4)
+DooDyBoy shows [Jh 4c] (Full of 4 and Jacks)
+DooDyBoy collected 659 from pot
+*** SUMMARY ***
+Total pot 659 | No rake
+Board: [4h Ad 3s 4d Js]
+Seat 1: DooDyBoy (big blind) showed [Jh 4c] and won 659 with Full of 4 and Jacks
+Seat 2: MathisKcr (button) showed [8c Ts] and lost with One pair : 4
+
+

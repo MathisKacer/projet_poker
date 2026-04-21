@@ -1,0 +1,62 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614492027936047105-1-1772904900 - Holdem no limit (10/20) - 2026/03/07 17:35:00 UTC
+Table: 'Expresso Nitro(1074395149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: GERVYA (300)
+Seat 2: Noopie76480 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+GERVYA posts big blind 20
+Dealt to MathisKcr [As 7c]
+*** PRE-FLOP *** 
+Noopie76480 calls 20
+MathisKcr raises 40 to 60
+GERVYA folds
+Noopie76480 calls 40
+*** FLOP *** [9s Ts 5c]
+MathisKcr checks
+Noopie76480 checks
+*** TURN *** [9s Ts 5c][Js]
+MathisKcr checks
+Noopie76480 bets 20
+MathisKcr calls 20
+*** RIVER *** [9s Ts 5c Js][Kd]
+MathisKcr checks
+Noopie76480 bets 117
+MathisKcr folds
+Noopie76480 collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [9s Ts 5c Js Kd]
+Seat 2: Noopie76480 (button) won 297
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614492027936047105-2-1772904929 - Holdem no limit (10/20) - 2026/03/07 17:35:29 UTC
+Table: 'Expresso Nitro(1074395149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: GERVYA (280)
+Seat 2: Noopie76480 (400)
+Seat 3: MathisKcr (220)
+*** ANTE/BLINDS ***
+GERVYA posts small blind 10
+Noopie76480 posts big blind 20
+Dealt to MathisKcr [9h Ts]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+GERVYA folds
+Noopie76480 checks
+*** FLOP *** [9d 4s Kc]
+Noopie76480 bets 50
+MathisKcr raises 150 to 200 and is all-in
+Noopie76480 calls 150
+*** TURN *** [9d 4s Kc][Th]
+*** RIVER *** [9d 4s Kc Th][Ah]
+*** SHOW DOWN ***
+MathisKcr shows [9h Ts] (Two pairs : Tens and 9)
+Noopie76480 shows [4c Kd] (Two pairs : Kings and 4)
+Noopie76480 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [9d 4s Kc Th Ah]
+Seat 2: Noopie76480 (big blind) showed [4c Kd] and won 450 with Two pairs : Kings and 4
+Seat 3: MathisKcr (button) showed [9h Ts] and lost with Two pairs : Tens and 9
+
+

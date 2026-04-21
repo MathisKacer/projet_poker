@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4498767668903411713-1-1768485271 - Holdem no limit (10/20) - 2026/01/15 13:54:31 UTC
+Table: 'Expresso Nitro Freeroll(1047450972)#0' 3-max (real money) Seat #2 is the button
+Seat 1: oscar adri-2 (300)
+Seat 2: Angerome25 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+oscar adri-2 posts big blind 20
+Dealt to MathisKcr [Kd Ac]
+*** PRE-FLOP *** 
+Angerome25 folds
+MathisKcr raises 280 to 300 and is all-in
+oscar adri-2 calls 280 and is all-in
+*** FLOP *** [5h 8h 6d]
+*** TURN *** [5h 8h 6d][Kh]
+*** RIVER *** [5h 8h 6d Kh][Ad]
+*** SHOW DOWN ***
+oscar adri-2 shows [8d Ts] (One pair : 8)
+MathisKcr shows [Kd Ac] (Two pairs : Aces and Kings)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [5h 8h 6d Kh Ad]
+Seat 1: oscar adri-2 (big blind) showed [8d Ts] and lost with One pair : 8
+Seat 3: MathisKcr (small blind) showed [Kd Ac] and won 600 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #4498767668903411713-2-1768485285 - Holdem no limit (10/20) - 2026/01/15 13:54:45 UTC
+Table: 'Expresso Nitro Freeroll(1047450972)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Angerome25 (300)
+Seat 3: MathisKcr (600)
+*** ANTE/BLINDS ***
+Angerome25 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As Ks]
+*** PRE-FLOP *** 
+Angerome25 calls 10
+MathisKcr raises 580 to 600 and is all-in
+Angerome25 calls 280 and is all-in
+*** FLOP *** [Ts Qs 4h]
+*** TURN *** [Ts Qs 4h][Ah]
+*** RIVER *** [Ts Qs 4h Ah][7s]
+*** SHOW DOWN ***
+Angerome25 shows [9s Ad] (One pair : Aces)
+MathisKcr shows [As Ks] (Flush Ace high)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ts Qs 4h Ah 7s]
+Seat 2: Angerome25 (small blind) (button) showed [9s Ad] and lost with One pair : Aces
+Seat 3: MathisKcr (big blind) showed [As Ks] and won 900 with Flush Ace high
+
+

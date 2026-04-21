@@ -1,0 +1,317 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666835623301087233-1-1774723584 - Holdem no limit (10/20) - 2026/03/28 18:46:24 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Solene3117 (300)
+Seat 2: 800KtasVu (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Solene3117 posts big blind 20
+Dealt to MathisKcr [9s Qh]
+*** PRE-FLOP *** 
+800KtasVu folds
+MathisKcr raises 280 to 300 and is all-in
+Solene3117 folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: MathisKcr (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666835623301087233-2-1774723597 - Holdem no limit (10/20) - 2026/03/28 18:46:37 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Solene3117 (280)
+Seat 2: 800KtasVu (300)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+Solene3117 posts small blind 10
+800KtasVu posts big blind 20
+Dealt to MathisKcr [4d 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Solene3117 raises 20 to 40
+800KtasVu calls 20
+*** FLOP *** [4h 2s Jd]
+Solene3117 checks
+800KtasVu checks
+*** TURN *** [4h 2s Jd][8d]
+Solene3117 checks
+800KtasVu checks
+*** RIVER *** [4h 2s Jd 8d][9h]
+Solene3117 checks
+800KtasVu checks
+*** SHOW DOWN ***
+Solene3117 shows [Ad Tc] (High card : Ace)
+800KtasVu shows [2h Ac] (One pair : 2)
+800KtasVu collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [4h 2s Jd 8d 9h]
+Seat 1: Solene3117 (small blind) showed [Ad Tc] and lost with High card : Ace
+Seat 2: 800KtasVu (big blind) showed [2h Ac] and won 80 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666835623301087233-3-1774723627 - Holdem no limit (10/20) - 2026/03/28 18:47:07 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Solene3117 (240)
+Seat 2: 800KtasVu (340)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+800KtasVu posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qc 3s]
+*** PRE-FLOP *** 
+Solene3117 folds
+800KtasVu calls 10
+MathisKcr checks
+*** FLOP *** [7s Js 4d]
+800KtasVu bets 40
+MathisKcr folds
+800KtasVu collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [7s Js 4d]
+Seat 2: 800KtasVu (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666835623301087233-4-1774723643 - Holdem no limit (15/30) - 2026/03/28 18:47:23 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Solene3117 (240)
+Seat 2: 800KtasVu (360)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Solene3117 posts big blind 30
+Dealt to MathisKcr [6s 5s]
+*** PRE-FLOP *** 
+800KtasVu folds
+MathisKcr raises 270 to 300 and is all-in
+Solene3117 folds
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: MathisKcr (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666835623301087233-5-1774723653 - Holdem no limit (15/30) - 2026/03/28 18:47:33 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Solene3117 (210)
+Seat 2: 800KtasVu (360)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+Solene3117 posts small blind 15
+800KtasVu posts big blind 30
+Dealt to MathisKcr [7c 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Solene3117 calls 15
+800KtasVu checks
+*** FLOP *** [Jd Ks Ac]
+Solene3117 checks
+800KtasVu bets 30
+Solene3117 folds
+800KtasVu collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Jd Ks Ac]
+Seat 2: 800KtasVu (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666835623301087233-6-1774723671 - Holdem no limit (15/30) - 2026/03/28 18:47:51 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Solene3117 (180)
+Seat 2: 800KtasVu (390)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+800KtasVu posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4h Kd]
+*** PRE-FLOP *** 
+Solene3117 folds
+800KtasVu folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666835623301087233-7-1774723679 - Holdem no limit (15/30) - 2026/03/28 18:47:59 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Solene3117 (180)
+Seat 2: 800KtasVu (375)
+Seat 3: MathisKcr (345)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Solene3117 posts big blind 30
+Dealt to MathisKcr [Ah 9h]
+*** PRE-FLOP *** 
+800KtasVu folds
+MathisKcr raises 315 to 345 and is all-in
+Solene3117 folds
+MathisKcr collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Seat 3: MathisKcr (small blind) won 375
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666835623301087233-8-1774723686 - Holdem no limit (15/30) - 2026/03/28 18:48:06 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Solene3117 (150)
+Seat 2: 800KtasVu (375)
+Seat 3: MathisKcr (375)
+*** ANTE/BLINDS ***
+Solene3117 posts small blind 15
+800KtasVu posts big blind 30
+Dealt to MathisKcr [Ad 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Solene3117 calls 45
+800KtasVu calls 30
+*** FLOP *** [2s 9c As]
+Solene3117 bets 90 and is all-in
+800KtasVu raises 90 to 180
+MathisKcr raises 135 to 315 and is all-in
+800KtasVu calls 135 and is all-in
+*** TURN *** [2s 9c As][6d]
+*** RIVER *** [2s 9c As 6d][Kh]
+*** SHOW DOWN ***
+800KtasVu shows [3s 4s] (High card : Ace)
+Solene3117 shows [2d 2h] (Trips of 2)
+MathisKcr shows [Ad 6c] (Two pairs : Aces and 6)
+MathisKcr collected 450 from side pot 1
+Solene3117 collected 450 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2s 9c As 6d Kh]
+Seat 1: Solene3117 (small blind) showed [2d 2h] and won 450 with Trips of 2
+Seat 2: 800KtasVu (big blind) showed [3s 4s] and lost with High card : Ace
+Seat 3: MathisKcr (button) showed [Ad 6c] and won 450 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666835623301087233-9-1774723715 - Holdem no limit (20/40) - 2026/03/28 18:48:35 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Solene3117 (450)
+Seat 3: MathisKcr (450)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Solene3117 posts big blind 40
+Dealt to MathisKcr [2s 8c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Solene3117 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Solene3117 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666835623301087233-10-1774723720 - Holdem no limit (20/40) - 2026/03/28 18:48:40 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Solene3117 (470)
+Seat 3: MathisKcr (430)
+*** ANTE/BLINDS ***
+Solene3117 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [2c Ah]
+*** PRE-FLOP *** 
+Solene3117 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666835623301087233-11-1774723724 - Holdem no limit (20/40) - 2026/03/28 18:48:44 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Solene3117 (450)
+Seat 3: MathisKcr (450)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Solene3117 posts big blind 40
+Dealt to MathisKcr [9c 6s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Solene3117 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Solene3117 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666835623301087233-12-1774723733 - Holdem no limit (20/40) - 2026/03/28 18:48:53 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Solene3117 (470)
+Seat 3: MathisKcr (430)
+*** ANTE/BLINDS ***
+Solene3117 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3d 5s]
+*** PRE-FLOP *** 
+Solene3117 calls 20
+MathisKcr checks
+*** FLOP *** [2c 6s Qs]
+MathisKcr checks
+Solene3117 bets 52
+MathisKcr folds
+Solene3117 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [2c 6s Qs]
+Seat 1: Solene3117 (small blind) (button) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666835623301087233-13-1774723743 - Holdem no limit (20/40) - 2026/03/28 18:49:03 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Solene3117 (510)
+Seat 3: MathisKcr (390)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Solene3117 posts big blind 40
+Dealt to MathisKcr [Ts 8c]
+*** PRE-FLOP *** 
+MathisKcr raises 350 to 390 and is all-in
+Solene3117 folds
+MathisKcr collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 3: MathisKcr (small blind) (button) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666835623301087233-14-1774723752 - Holdem no limit (20/40) - 2026/03/28 18:49:12 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Solene3117 (470)
+Seat 3: MathisKcr (430)
+*** ANTE/BLINDS ***
+Solene3117 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6c 6h]
+*** PRE-FLOP *** 
+Solene3117 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666835623301087233-15-1774723756 - Holdem no limit (20/40) - 2026/03/28 18:49:16 UTC
+Table: 'Expresso Nitro(1086582342)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Solene3117 (450)
+Seat 3: MathisKcr (450)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Solene3117 posts big blind 40
+Dealt to MathisKcr [Ah Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 410 to 450 and is all-in
+Solene3117 calls 410 and is all-in
+*** FLOP *** [4d 7s 8s]
+*** TURN *** [4d 7s 8s][7d]
+*** RIVER *** [4d 7s 8s 7d][Qh]
+*** SHOW DOWN ***
+MathisKcr shows [Ah Kd] (One pair : 7)
+Solene3117 shows [Kc Qs] (Two pairs : Queens and 7)
+Solene3117 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4d 7s 8s 7d Qh]
+Seat 1: Solene3117 (big blind) showed [Kc Qs] and won 900 with Two pairs : Queens and 7
+Seat 3: MathisKcr (small blind) (button) showed [Ah Kd] and lost with One pair : 7
+
+

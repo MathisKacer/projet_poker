@@ -1,0 +1,127 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4576585947956641793-1-1771358056 - Holdem no limit (10/20) - 2026/02/17 19:54:16 UTC
+Table: 'Expresso Nitro(1065569452)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: YaslaKlass (300)
+Seat 3: taperte (300)
+*** ANTE/BLINDS ***
+YaslaKlass posts small blind 10
+taperte posts big blind 20
+Dealt to MathisKcr [Qd 7d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+YaslaKlass calls 30
+taperte calls 20
+*** FLOP *** [Qc 5c Jh]
+YaslaKlass bets 42
+taperte calls 42
+MathisKcr calls 42
+*** TURN *** [Qc 5c Jh][Tc]
+YaslaKlass bets 86
+taperte raises 132 to 218 and is all-in
+MathisKcr folds
+YaslaKlass folds
+taperte collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Qc 5c Jh Tc]
+Seat 3: taperte (big blind) won 550
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4576585947956641793-2-1771358104 - Holdem no limit (10/20) - 2026/02/17 19:55:04 UTC
+Table: 'Expresso Nitro(1065569452)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (218)
+Seat 2: YaslaKlass (132)
+Seat 3: taperte (550)
+*** ANTE/BLINDS ***
+taperte posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qd Kd]
+*** PRE-FLOP *** 
+YaslaKlass calls 20
+taperte calls 10
+MathisKcr raises 30 to 50
+YaslaKlass calls 30
+taperte folds
+*** FLOP *** [Qc 4d Kh]
+MathisKcr bets 42
+YaslaKlass raises 40 to 82 and is all-in
+MathisKcr calls 40
+*** TURN *** [Qc 4d Kh][5h]
+*** RIVER *** [Qc 4d Kh 5h][8d]
+*** SHOW DOWN ***
+YaslaKlass shows [Ks 8s] (Two pairs : Kings and 8)
+MathisKcr shows [Qd Kd] (Two pairs : Kings and Queens)
+MathisKcr collected 284 from pot
+*** SUMMARY ***
+Total pot 284 | No rake
+Board: [Qc 4d Kh 5h 8d]
+Seat 1: MathisKcr (big blind) showed [Qd Kd] and won 284 with Two pairs : Kings and Queens
+Seat 2: YaslaKlass (button) showed [Ks 8s] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4576585947956641793-3-1771358135 - Holdem no limit (15/30) - 2026/02/17 19:55:35 UTC
+Table: 'Expresso Nitro(1065569452)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (370)
+Seat 3: taperte (530)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+taperte posts big blind 30
+Dealt to MathisKcr [3h 2s]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+taperte checks
+*** FLOP *** [6c Kh 7h]
+taperte checks
+MathisKcr bets 60
+taperte calls 60
+*** TURN *** [6c Kh 7h][Qc]
+taperte checks
+MathisKcr checks
+*** RIVER *** [6c Kh 7h Qc][2c]
+taperte checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [3h 2s] (One pair : 2)
+taperte shows [4c 9c] (Flush Queen high)
+taperte collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [6c Kh 7h Qc 2c]
+Seat 1: MathisKcr (small blind) (button) showed [3h 2s] and lost with One pair : 2
+Seat 3: taperte (big blind) showed [4c 9c] and won 180 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4576585947956641793-4-1771358167 - Holdem no limit (15/30) - 2026/02/17 19:56:07 UTC
+Table: 'Expresso Nitro(1065569452)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 3: taperte (620)
+*** ANTE/BLINDS ***
+taperte posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ac Ts]
+*** PRE-FLOP *** 
+taperte calls 15
+MathisKcr raises 45 to 75
+taperte calls 45
+*** FLOP *** [3s As 5d]
+MathisKcr bets 30
+taperte calls 30
+*** TURN *** [3s As 5d][5c]
+MathisKcr bets 75
+taperte raises 75 to 150
+MathisKcr calls 75
+*** RIVER *** [3s As 5d 5c][7c]
+MathisKcr checks
+taperte bets 365 and is all-in
+MathisKcr calls 25 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [Ac Ts] (Two pairs : Aces and 5)
+taperte shows [5s 2d] (Trips of 5)
+taperte collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3s As 5d 5c 7c]
+Seat 1: MathisKcr (big blind) showed [Ac Ts] and lost with Two pairs : Aces and 5
+Seat 3: taperte (small blind) (button) showed [5s 2d] and won 900 with Trips of 5
+
+

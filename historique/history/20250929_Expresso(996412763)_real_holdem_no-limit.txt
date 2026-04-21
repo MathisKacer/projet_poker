@@ -1,0 +1,104 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4279560230401998849-1-1759173976 - Holdem no limit (10/20) - 2025/09/29 19:26:16 UTC
+Table: 'Expresso(996412763)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Choko Latine (500)
+Seat 2: MathisKcr (500)
+Seat 3: kimiash (500)
+*** ANTE/BLINDS ***
+kimiash posts small blind 10
+Choko Latine posts big blind 20
+Dealt to MathisKcr [5c 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+kimiash raises 40 to 60
+Choko Latine folds
+kimiash collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: kimiash (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4279560230401998849-2-1759173984 - Holdem no limit (10/20) - 2025/09/29 19:26:24 UTC
+Table: 'Expresso(996412763)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Choko Latine (480)
+Seat 2: MathisKcr (500)
+Seat 3: kimiash (520)
+*** ANTE/BLINDS ***
+Choko Latine posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5h Ks]
+*** PRE-FLOP *** 
+kimiash calls 20
+Choko Latine folds
+MathisKcr checks
+*** FLOP *** [5s 6h 3s]
+MathisKcr bets 40
+kimiash folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5s 6h 3s]
+Seat 2: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4279560230401998849-3-1759174005 - Holdem no limit (10/20) - 2025/09/29 19:26:45 UTC
+Table: 'Expresso(996412763)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Choko Latine (470)
+Seat 2: MathisKcr (530)
+Seat 3: kimiash (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+kimiash posts big blind 20
+Dealt to MathisKcr [7c Ts]
+*** PRE-FLOP *** 
+Choko Latine folds
+MathisKcr calls 10
+kimiash checks
+*** FLOP *** [8s Ks 7s]
+MathisKcr bets 40
+kimiash raises 120 to 160
+MathisKcr calls 120
+*** TURN *** [8s Ks 7s][4h]
+MathisKcr checks
+kimiash bets 320 and is all-in
+MathisKcr calls 320
+*** RIVER *** [8s Ks 7s 4h][2h]
+*** SHOW DOWN ***
+MathisKcr shows [7c Ts] (One pair : 7)
+kimiash shows [9d Kh] (One pair : Kings)
+kimiash collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [8s Ks 7s 4h 2h]
+Seat 2: MathisKcr (small blind) showed [7c Ts] and lost with One pair : 7
+Seat 3: kimiash (big blind) showed [9d Kh] and won 1000 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4279560230401998849-4-1759174033 - Holdem no limit (10/20) - 2025/09/29 19:27:13 UTC
+Table: 'Expresso(996412763)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Choko Latine (470)
+Seat 2: MathisKcr (30)
+Seat 3: kimiash (1000)
+*** ANTE/BLINDS ***
+kimiash posts small blind 10
+Choko Latine posts big blind 20
+Dealt to MathisKcr [As Tc]
+*** PRE-FLOP *** 
+MathisKcr raises 10 to 30 and is all-in
+kimiash calls 20
+Choko Latine calls 10
+*** FLOP *** [9c 6s 7d]
+kimiash bets 90
+Choko Latine folds
+*** TURN *** [9c 6s 7d][9d]
+*** RIVER *** [9c 6s 7d 9d][2h]
+*** SHOW DOWN ***
+MathisKcr shows [As Tc] (One pair : 9)
+kimiash shows [9s Kh] (Trips of 9)
+kimiash collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9c 6s 7d 9d 2h]
+Seat 2: MathisKcr (button) showed [As Tc] and lost with One pair : 9
+Seat 3: kimiash (small blind) showed [9s Kh] and won 180 with Trips of 9
+
+

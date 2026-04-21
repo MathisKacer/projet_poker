@@ -1,0 +1,320 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4443881555978354689-1-1766248412 - Holdem no limit (10/20) - 2025/12/20 16:33:32 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LeDonRyno (300)
+Seat 2: bryan.7 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+LeDonRyno posts small blind 10
+bryan.7 posts big blind 20
+Dealt to MathisKcr [Ac Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+LeDonRyno calls 30
+bryan.7 calls 20
+*** FLOP *** [3s 8c 5c]
+LeDonRyno checks
+bryan.7 checks
+MathisKcr bets 40
+LeDonRyno folds
+bryan.7 calls 40
+*** TURN *** [3s 8c 5c][4s]
+bryan.7 checks
+MathisKcr bets 60
+bryan.7 folds
+MathisKcr collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [3s 8c 5c 4s]
+Seat 3: MathisKcr (button) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4443881555978354689-2-1766248464 - Holdem no limit (10/20) - 2025/12/20 16:34:24 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LeDonRyno (260)
+Seat 2: bryan.7 (220)
+Seat 3: MathisKcr (420)
+*** ANTE/BLINDS ***
+bryan.7 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6d 9h]
+*** PRE-FLOP *** 
+LeDonRyno calls 20
+bryan.7 raises 200 to 220 and is all-in
+MathisKcr folds
+LeDonRyno folds
+bryan.7 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 2: bryan.7 (small blind) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4443881555978354689-3-1766248479 - Holdem no limit (15/30) - 2025/12/20 16:34:39 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #2 is the button
+Seat 1: LeDonRyno (240)
+Seat 2: bryan.7 (260)
+Seat 3: MathisKcr (400)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+LeDonRyno posts big blind 30
+Dealt to MathisKcr [9h Ah]
+*** PRE-FLOP *** 
+bryan.7 folds
+MathisKcr raises 30 to 60
+LeDonRyno calls 30
+*** FLOP *** [Ac 3c 7c]
+MathisKcr bets 60
+LeDonRyno folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ac 3c 7c]
+Seat 3: MathisKcr (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4443881555978354689-4-1766248491 - Holdem no limit (15/30) - 2025/12/20 16:34:51 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LeDonRyno (180)
+Seat 2: bryan.7 (260)
+Seat 3: MathisKcr (460)
+*** ANTE/BLINDS ***
+LeDonRyno posts small blind 15
+bryan.7 posts big blind 30
+Dealt to MathisKcr [As Qd]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+LeDonRyno folds
+bryan.7 raises 120 to 180
+MathisKcr raises 280 to 460 and is all-in
+bryan.7 calls 80 and is all-in
+*** FLOP *** [6c 8s Jh]
+*** TURN *** [6c 8s Jh][6s]
+*** RIVER *** [6c 8s Jh 6s][2h]
+*** SHOW DOWN ***
+bryan.7 shows [Kh Td] (One pair : 6)
+MathisKcr shows [As Qd] (One pair : 6)
+MathisKcr collected 735 from pot
+*** SUMMARY ***
+Total pot 735 | No rake
+Board: [6c 8s Jh 6s 2h]
+Seat 2: bryan.7 (big blind) showed [Kh Td] and lost with One pair : 6
+Seat 3: MathisKcr (button) showed [As Qd] and won 735 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4443881555978354689-5-1766248514 - Holdem no limit (15/30) - 2025/12/20 16:35:14 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LeDonRyno (165)
+Seat 3: MathisKcr (735)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+LeDonRyno posts big blind 30
+Dealt to MathisKcr [8h 7h]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+LeDonRyno checks
+*** FLOP *** [As 8s Kd]
+LeDonRyno bets 39
+MathisKcr raises 666 to 705 and is all-in
+LeDonRyno calls 96 and is all-in
+*** TURN *** [As 8s Kd][2d]
+*** RIVER *** [As 8s Kd 2d][Jc]
+*** SHOW DOWN ***
+LeDonRyno shows [Kh 7s] (One pair : Kings)
+MathisKcr shows [8h 7h] (One pair : 8)
+MathisKcr collected 570 from side pot 1
+LeDonRyno collected 330 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As 8s Kd 2d Jc]
+Seat 1: LeDonRyno (big blind) showed [Kh 7s] and won 330 with One pair : Kings
+Seat 3: MathisKcr (small blind) (button) showed [8h 7h] and won 570 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4443881555978354689-6-1766248540 - Holdem no limit (20/40) - 2025/12/20 16:35:40 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LeDonRyno (330)
+Seat 3: MathisKcr (570)
+*** ANTE/BLINDS ***
+LeDonRyno posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5d Td]
+*** PRE-FLOP *** 
+LeDonRyno calls 20
+MathisKcr checks
+*** FLOP *** [6s 7h Jd]
+MathisKcr bets 80
+LeDonRyno folds
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [6s 7h Jd]
+Seat 3: MathisKcr (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4443881555978354689-7-1766248556 - Holdem no limit (20/40) - 2025/12/20 16:35:56 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LeDonRyno (290)
+Seat 3: MathisKcr (610)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+LeDonRyno posts big blind 40
+Dealt to MathisKcr [Qh 6d]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+LeDonRyno checks
+*** FLOP *** [7s 6c 8h]
+LeDonRyno checks
+MathisKcr bets 80
+LeDonRyno calls 80
+*** TURN *** [7s 6c 8h][2h]
+LeDonRyno checks
+MathisKcr bets 80
+LeDonRyno calls 80
+*** RIVER *** [7s 6c 8h 2h][3s]
+LeDonRyno bets 90 and is all-in
+MathisKcr calls 90
+*** SHOW DOWN ***
+MathisKcr shows [Qh 6d] (One pair : 6)
+LeDonRyno shows [2s 8s] (Two pairs : 8 and 2)
+LeDonRyno collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [7s 6c 8h 2h 3s]
+Seat 1: LeDonRyno (big blind) showed [2s 8s] and won 580 with Two pairs : 8 and 2
+Seat 3: MathisKcr (small blind) (button) showed [Qh 6d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4443881555978354689-8-1766248608 - Holdem no limit (30/60) - 2025/12/20 16:36:48 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LeDonRyno (580)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+LeDonRyno posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Tc 6s]
+*** PRE-FLOP *** 
+LeDonRyno folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4443881555978354689-9-1766248616 - Holdem no limit (30/60) - 2025/12/20 16:36:56 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LeDonRyno (550)
+Seat 3: MathisKcr (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+LeDonRyno posts big blind 60
+Dealt to MathisKcr [Ks Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+LeDonRyno folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: MathisKcr (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4443881555978354689-10-1766248624 - Holdem no limit (30/60) - 2025/12/20 16:37:04 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LeDonRyno (490)
+Seat 3: MathisKcr (410)
+*** ANTE/BLINDS ***
+LeDonRyno posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [5d Jd]
+*** PRE-FLOP *** 
+LeDonRyno calls 30
+MathisKcr checks
+*** FLOP *** [4c 5s 7s]
+MathisKcr bets 120
+LeDonRyno folds
+MathisKcr collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [4c 5s 7s]
+Seat 3: MathisKcr (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4443881555978354689-11-1766248639 - Holdem no limit (30/60) - 2025/12/20 16:37:19 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LeDonRyno (430)
+Seat 3: MathisKcr (470)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+LeDonRyno posts big blind 60
+Dealt to MathisKcr [Ah 3h]
+*** PRE-FLOP *** 
+MathisKcr raises 410 to 470 and is all-in
+LeDonRyno folds
+MathisKcr collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 3: MathisKcr (small blind) (button) won 530
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4443881555978354689-12-1766248647 - Holdem no limit (30/60) - 2025/12/20 16:37:27 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LeDonRyno (370)
+Seat 3: MathisKcr (530)
+*** ANTE/BLINDS ***
+LeDonRyno posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qc 7d]
+*** PRE-FLOP *** 
+LeDonRyno folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4443881555978354689-13-1766248653 - Holdem no limit (40/80) - 2025/12/20 16:37:33 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #3 is the button
+Seat 1: LeDonRyno (340)
+Seat 3: MathisKcr (560)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+LeDonRyno posts big blind 80
+Dealt to MathisKcr [Td 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 160
+LeDonRyno calls 80
+*** FLOP *** [Qh 5d 2c]
+LeDonRyno checks
+MathisKcr bets 200
+LeDonRyno folds
+MathisKcr collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Qh 5d 2c]
+Seat 3: MathisKcr (small blind) (button) won 520
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4443881555978354689-14-1766248680 - Holdem no limit (40/80) - 2025/12/20 16:38:00 UTC
+Table: 'Expresso Nitro(1034671803)#0' 3-max (real money) Seat #1 is the button
+Seat 1: LeDonRyno (180)
+Seat 3: MathisKcr (720)
+*** ANTE/BLINDS ***
+LeDonRyno posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [9h Jc]
+*** PRE-FLOP *** 
+LeDonRyno calls 40
+MathisKcr raises 120 to 200
+LeDonRyno calls 100 and is all-in
+*** FLOP *** [Ac 4d Js]
+*** TURN *** [Ac 4d Js][2d]
+*** RIVER *** [Ac 4d Js 2d][Ts]
+*** SHOW DOWN ***
+LeDonRyno shows [9d Kd] (High card : Ace)
+MathisKcr shows [9h Jc] (One pair : Jacks)
+MathisKcr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [Ac 4d Js 2d Ts]
+Seat 1: LeDonRyno (small blind) (button) showed [9d Kd] and lost with High card : Ace
+Seat 3: MathisKcr (big blind) showed [9h Jc] and won 380 with One pair : Jacks
+
+

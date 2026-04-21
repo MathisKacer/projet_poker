@@ -1,0 +1,53 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4665926722321907713-1-1774691239 - Holdem no limit (10/20) - 2026/03/28 09:47:19 UTC
+Table: 'Expresso Nitro(1086370722)#0' 3-max (real money) Seat #1 is the button
+Seat 1: sorciere06 (300)
+Seat 2: barbu 522176 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+barbu 522176 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5h Kd]
+*** PRE-FLOP *** 
+sorciere06 calls 20
+barbu 522176 raises 40 to 60
+MathisKcr calls 40
+sorciere06 calls 40
+*** FLOP *** [2c 4h 4s]
+barbu 522176 bets 117
+MathisKcr folds
+sorciere06 folds
+barbu 522176 collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [2c 4h 4s]
+Seat 2: barbu 522176 (small blind) won 297
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4665926722321907713-2-1774691258 - Holdem no limit (10/20) - 2026/03/28 09:47:38 UTC
+Table: 'Expresso Nitro(1086370722)#0' 3-max (real money) Seat #2 is the button
+Seat 1: sorciere06 (240)
+Seat 2: barbu 522176 (420)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+sorciere06 posts big blind 20
+Dealt to MathisKcr [Qd 9c]
+*** PRE-FLOP *** 
+barbu 522176 raises 40 to 60
+MathisKcr raises 180 to 240 and is all-in
+sorciere06 folds
+barbu 522176 calls 180
+*** FLOP *** [4d 5c Ad]
+*** TURN *** [4d 5c Ad][2d]
+*** RIVER *** [4d 5c Ad 2d][6s]
+*** SHOW DOWN ***
+MathisKcr shows [Qd 9c] (High card : Ace)
+barbu 522176 shows [Qs Kd] (High card : Ace)
+barbu 522176 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [4d 5c Ad 2d 6s]
+Seat 2: barbu 522176 (button) showed [Qs Kd] and won 500 with High card : Ace
+Seat 3: MathisKcr (small blind) showed [Qd 9c] and lost with High card : Ace
+
+

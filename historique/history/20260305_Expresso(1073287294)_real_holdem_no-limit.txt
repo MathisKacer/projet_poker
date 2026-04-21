@@ -1,0 +1,551 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609733826942337025-1-1772714329 - Holdem no limit (10/20) - 2026/03/05 12:38:49 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Clovis85 (500)
+Seat 3: Believe it (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Clovis85 posts big blind 20
+Dealt to MathisKcr [8h 8c]
+*** PRE-FLOP *** 
+Believe it folds
+MathisKcr raises 30 to 50
+Clovis85 calls 30
+*** FLOP *** [Qh 3h Ac]
+MathisKcr checks
+Clovis85 checks
+*** TURN *** [Qh 3h Ac][9d]
+MathisKcr bets 30
+Clovis85 calls 30
+*** RIVER *** [Qh 3h Ac 9d][5h]
+MathisKcr bets 20
+Clovis85 folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Qh 3h Ac 9d 5h]
+Seat 1: MathisKcr (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609733826942337025-2-1772714351 - Holdem no limit (10/20) - 2026/03/05 12:39:11 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (580)
+Seat 2: Clovis85 (420)
+Seat 3: Believe it (500)
+*** ANTE/BLINDS ***
+Clovis85 posts small blind 10
+Believe it posts big blind 20
+Dealt to MathisKcr [2d Kd]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Clovis85 calls 10
+Believe it checks
+*** FLOP *** [3h Qc 6d]
+Clovis85 checks
+Believe it checks
+MathisKcr checks
+*** TURN *** [3h Qc 6d][Qh]
+Clovis85 bets 20
+Believe it folds
+MathisKcr folds
+Clovis85 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3h Qc 6d Qh]
+Seat 2: Clovis85 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609733826942337025-3-1772714368 - Holdem no limit (10/20) - 2026/03/05 12:39:28 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (560)
+Seat 2: Clovis85 (460)
+Seat 3: Believe it (480)
+*** ANTE/BLINDS ***
+Believe it posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ts Jh]
+*** PRE-FLOP *** 
+Clovis85 calls 20
+Believe it folds
+MathisKcr raises 20 to 40
+Clovis85 calls 20
+*** FLOP *** [6c 8h 7h]
+MathisKcr checks
+Clovis85 checks
+*** TURN *** [6c 8h 7h][5h]
+MathisKcr checks
+Clovis85 checks
+*** RIVER *** [6c 8h 7h 5h][Qc]
+MathisKcr checks
+Clovis85 bets 59
+MathisKcr folds
+Clovis85 collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [6c 8h 7h 5h Qc]
+Seat 2: Clovis85 (button) won 149
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609733826942337025-4-1772714386 - Holdem no limit (10/20) - 2026/03/05 12:39:46 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (520)
+Seat 2: Clovis85 (510)
+Seat 3: Believe it (470)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Clovis85 posts big blind 20
+Dealt to MathisKcr [3h 7h]
+*** PRE-FLOP *** 
+Believe it folds
+MathisKcr calls 10
+Clovis85 checks
+*** FLOP *** [3s 5d 6d]
+MathisKcr bets 20
+Clovis85 calls 20
+*** TURN *** [3s 5d 6d][2d]
+MathisKcr bets 20
+Clovis85 calls 20
+*** RIVER *** [3s 5d 6d 2d][Th]
+MathisKcr bets 20
+Clovis85 raises 160 to 180
+MathisKcr folds
+Clovis85 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [3s 5d 6d 2d Th]
+Seat 2: Clovis85 (big blind) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609733826942337025-5-1772714401 - Holdem no limit (10/20) - 2026/03/05 12:40:01 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (440)
+Seat 2: Clovis85 (590)
+Seat 3: Believe it (470)
+*** ANTE/BLINDS ***
+Clovis85 posts small blind 10
+Believe it posts big blind 20
+Dealt to MathisKcr [9h Jd]
+*** PRE-FLOP *** 
+MathisKcr folds
+Clovis85 calls 10
+Believe it checks
+*** FLOP *** [Jh 6d 3d]
+Clovis85 checks
+Believe it checks
+*** TURN *** [Jh 6d 3d][4d]
+Clovis85 bets 20
+Believe it raises 20 to 40
+Clovis85 calls 20
+*** RIVER *** [Jh 6d 3d 4d][9c]
+Clovis85 checks
+Believe it bets 78
+Clovis85 folds
+Believe it collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [Jh 6d 3d 4d 9c]
+Seat 3: Believe it (big blind) won 198
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609733826942337025-6-1772714417 - Holdem no limit (15/30) - 2026/03/05 12:40:17 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (440)
+Seat 2: Clovis85 (530)
+Seat 3: Believe it (530)
+*** ANTE/BLINDS ***
+Believe it posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3c 9s]
+*** PRE-FLOP *** 
+Clovis85 calls 30
+Believe it folds
+MathisKcr checks
+*** FLOP *** [Ad 6s 2d]
+MathisKcr checks
+Clovis85 checks
+*** TURN *** [Ad 6s 2d][6d]
+MathisKcr checks
+Clovis85 checks
+*** RIVER *** [Ad 6s 2d 6d][3s]
+MathisKcr bets 30
+Clovis85 calls 30
+*** SHOW DOWN ***
+Clovis85 shows [Th Ks] (One pair : 6)
+MathisKcr shows [3c 9s] (Two pairs : 6 and 3)
+MathisKcr collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Ad 6s 2d 6d 3s]
+Seat 1: MathisKcr (big blind) showed [3c 9s] and won 135 with Two pairs : 6 and 3
+Seat 2: Clovis85 (button) showed [Th Ks] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609733826942337025-7-1772714433 - Holdem no limit (15/30) - 2026/03/05 12:40:33 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (515)
+Seat 2: Clovis85 (470)
+Seat 3: Believe it (515)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Clovis85 posts big blind 30
+Dealt to MathisKcr [3h 7d]
+*** PRE-FLOP *** 
+Believe it raises 30 to 60
+MathisKcr folds
+Clovis85 calls 30
+*** FLOP *** [Kc 2d Qd]
+Clovis85 bets 30
+Believe it raises 116 to 146
+Clovis85 folds
+Believe it collected 311 from pot
+*** SUMMARY ***
+Total pot 311 | No rake
+Board: [Kc 2d Qd]
+Seat 3: Believe it (button) won 311
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609733826942337025-8-1772714448 - Holdem no limit (15/30) - 2026/03/05 12:40:48 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Clovis85 (380)
+Seat 3: Believe it (620)
+*** ANTE/BLINDS ***
+Clovis85 posts small blind 15
+Believe it posts big blind 30
+Dealt to MathisKcr [4s Jd]
+*** PRE-FLOP *** 
+MathisKcr folds
+Clovis85 calls 15
+Believe it checks
+*** FLOP *** [9s 3d Qs]
+Clovis85 checks
+Believe it checks
+*** TURN *** [9s 3d Qs][8c]
+Clovis85 bets 30
+Believe it folds
+Clovis85 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9s 3d Qs 8c]
+Seat 2: Clovis85 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609733826942337025-9-1772714463 - Holdem no limit (15/30) - 2026/03/05 12:41:03 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Clovis85 (410)
+Seat 3: Believe it (590)
+*** ANTE/BLINDS ***
+Believe it posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qs 6h]
+*** PRE-FLOP *** 
+Clovis85 folds
+Believe it folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609733826942337025-10-1772714470 - Holdem no limit (15/30) - 2026/03/05 12:41:10 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (515)
+Seat 2: Clovis85 (410)
+Seat 3: Believe it (575)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Clovis85 posts big blind 30
+Dealt to MathisKcr [4c Qd]
+*** PRE-FLOP *** 
+Believe it folds
+MathisKcr calls 15
+Clovis85 checks
+*** FLOP *** [5d 7c 6h]
+MathisKcr bets 30
+Clovis85 calls 30
+*** TURN *** [5d 7c 6h][6s]
+MathisKcr bets 60
+Clovis85 folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [5d 7c 6h 6s]
+Seat 1: MathisKcr (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609733826942337025-11-1772714485 - Holdem no limit (15/30) - 2026/03/05 12:41:25 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (575)
+Seat 2: Clovis85 (350)
+Seat 3: Believe it (575)
+*** ANTE/BLINDS ***
+Clovis85 posts small blind 15
+Believe it posts big blind 30
+Dealt to MathisKcr [Th 5c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Clovis85 raises 320 to 350 and is all-in
+Believe it folds
+Clovis85 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 2: Clovis85 (small blind) won 380
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609733826942337025-12-1772714493 - Holdem no limit (15/30) - 2026/03/05 12:41:33 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (575)
+Seat 2: Clovis85 (380)
+Seat 3: Believe it (545)
+*** ANTE/BLINDS ***
+Believe it posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9s Jd]
+*** PRE-FLOP *** 
+Clovis85 folds
+Believe it raises 60 to 90
+MathisKcr calls 60
+*** FLOP *** [5d 6d 8s]
+Believe it bets 117
+MathisKcr folds
+Believe it collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [5d 6d 8s]
+Seat 3: Believe it (small blind) won 297
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #4609733826942337025-13-1772714504 - Holdem no limit (15/30) - 2026/03/05 12:41:44 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (485)
+Seat 2: Clovis85 (380)
+Seat 3: Believe it (635)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Clovis85 posts big blind 30
+Dealt to MathisKcr [Qh 8s]
+*** PRE-FLOP *** 
+Believe it raises 30 to 60
+MathisKcr calls 45
+Clovis85 calls 30
+*** FLOP *** [6c 9s 2c]
+MathisKcr checks
+Clovis85 bets 320 and is all-in
+Believe it calls 320
+MathisKcr folds
+*** TURN *** [6c 9s 2c][2d]
+*** RIVER *** [6c 9s 2c 2d][Kh]
+*** SHOW DOWN ***
+Believe it shows [3c Ac] (One pair : 2)
+Clovis85 shows [9c Td] (Two pairs : 9 and 2)
+Clovis85 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [6c 9s 2c 2d Kh]
+Seat 2: Clovis85 (big blind) showed [9c Td] and won 820 with Two pairs : 9 and 2
+Seat 3: Believe it (button) showed [3c Ac] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609733826942337025-14-1772714525 - Holdem no limit (20/40) - 2026/03/05 12:42:05 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (425)
+Seat 2: Clovis85 (820)
+Seat 3: Believe it (255)
+*** ANTE/BLINDS ***
+Clovis85 posts small blind 20
+Believe it posts big blind 40
+Dealt to MathisKcr [Qc Td]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Clovis85 folds
+Believe it raises 175 to 255 and is all-in
+MathisKcr calls 175
+*** FLOP *** [Jh 7s 9s]
+*** TURN *** [Jh 7s 9s][2s]
+*** RIVER *** [Jh 7s 9s 2s][3s]
+*** SHOW DOWN ***
+Believe it shows [6h 8h] (High card : Jack)
+MathisKcr shows [Qc Td] (High card : Queen)
+MathisKcr collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [Jh 7s 9s 2s 3s]
+Seat 1: MathisKcr (button) showed [Qc Td] and won 530 with High card : Queen
+Seat 3: Believe it (big blind) showed [6h 8h] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609733826942337025-15-1772714541 - Holdem no limit (20/40) - 2026/03/05 12:42:21 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (700)
+Seat 2: Clovis85 (800)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Clovis85 posts big blind 40
+Dealt to MathisKcr [Qh 2s]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Clovis85 checks
+*** FLOP *** [Kc 7s 7c]
+Clovis85 checks
+MathisKcr bets 40
+Clovis85 calls 40
+*** TURN *** [Kc 7s 7c][9s]
+Clovis85 bets 40
+MathisKcr folds
+Clovis85 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Kc 7s 7c 9s]
+Seat 2: Clovis85 (big blind) won 200
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609733826942337025-16-1772714552 - Holdem no limit (20/40) - 2026/03/05 12:42:32 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (620)
+Seat 2: Clovis85 (880)
+*** ANTE/BLINDS ***
+Clovis85 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5h Qs]
+*** PRE-FLOP *** 
+Clovis85 calls 20
+MathisKcr checks
+*** FLOP *** [3d 8s Tc]
+MathisKcr checks
+Clovis85 checks
+*** TURN *** [3d 8s Tc][Jh]
+MathisKcr bets 40
+Clovis85 calls 40
+*** RIVER *** [3d 8s Tc Jh][Ah]
+MathisKcr bets 100
+Clovis85 folds
+MathisKcr collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [3d 8s Tc Jh Ah]
+Seat 1: MathisKcr (big blind) won 260
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609733826942337025-17-1772714566 - Holdem no limit (20/40) - 2026/03/05 12:42:46 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (700)
+Seat 2: Clovis85 (800)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Clovis85 posts big blind 40
+Dealt to MathisKcr [Ts 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Clovis85 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Clovis85 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609733826942337025-18-1772714570 - Holdem no limit (20/40) - 2026/03/05 12:42:50 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (680)
+Seat 2: Clovis85 (820)
+*** ANTE/BLINDS ***
+Clovis85 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Qd 6c]
+*** PRE-FLOP *** 
+Clovis85 raises 780 to 820 and is all-in
+MathisKcr folds
+Clovis85 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Seat 2: Clovis85 (small blind) (button) won 860
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609733826942337025-19-1772714575 - Holdem no limit (20/40) - 2026/03/05 12:42:55 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (640)
+Seat 2: Clovis85 (860)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Clovis85 posts big blind 40
+Dealt to MathisKcr [9h Tc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Clovis85 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #4609733826942337025-20-1772714582 - Holdem no limit (20/40) - 2026/03/05 12:43:02 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (680)
+Seat 2: Clovis85 (820)
+*** ANTE/BLINDS ***
+Clovis85 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6c 8d]
+*** PRE-FLOP *** 
+Clovis85 calls 20
+MathisKcr checks
+*** FLOP *** [Ah 4s 3s]
+MathisKcr checks
+Clovis85 checks
+*** TURN *** [Ah 4s 3s][2d]
+MathisKcr checks
+Clovis85 checks
+*** RIVER *** [Ah 4s 3s 2d][5s]
+MathisKcr bets 120
+Clovis85 calls 120
+*** SHOW DOWN ***
+Clovis85 shows [7h Js] (Straight 5 high)
+MathisKcr shows [6c 8d] (Straight 6 high)
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Ah 4s 3s 2d 5s]
+Seat 1: MathisKcr (big blind) showed [6c 8d] and won 320 with Straight 6 high
+Seat 2: Clovis85 (small blind) (button) showed [7h Js] and lost with Straight 5 high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #4609733826942337025-21-1772714598 - Holdem no limit (30/60) - 2026/03/05 12:43:18 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (840)
+Seat 2: Clovis85 (660)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Clovis85 posts big blind 60
+Dealt to MathisKcr [6c 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Clovis85 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Clovis85 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #4609733826942337025-22-1772714602 - Holdem no limit (30/60) - 2026/03/05 12:43:22 UTC
+Table: 'Expresso(1073287294)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (810)
+Seat 2: Clovis85 (690)
+*** ANTE/BLINDS ***
+Clovis85 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Jc Qd]
+*** PRE-FLOP *** 
+Clovis85 raises 630 to 690 and is all-in
+MathisKcr calls 630
+*** FLOP *** [6h 9h 6c]
+*** TURN *** [6h 9h 6c][Js]
+*** RIVER *** [6h 9h 6c Js][6d]
+*** SHOW DOWN ***
+Clovis85 shows [Qc Kd] (Trips of 6)
+MathisKcr shows [Jc Qd] (Full of 6 and Jacks)
+MathisKcr collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [6h 9h 6c Js 6d]
+Seat 1: MathisKcr (big blind) showed [Jc Qd] and won 1380 with Full of 6 and Jacks
+Seat 2: Clovis85 (small blind) (button) showed [Qc Kd] and lost with Trips of 6
+
+

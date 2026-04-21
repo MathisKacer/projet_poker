@@ -1,0 +1,192 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668479285810429953-1-1774795261 - Holdem no limit (10/20) - 2026/03/29 14:41:01 UTC
+Table: 'Expresso Nitro(1086965037)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: fab3869 (300)
+Seat 3: AAss-Breaker (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+fab3869 posts big blind 20
+Dealt to MathisKcr [7h Ah]
+*** PRE-FLOP *** 
+AAss-Breaker folds
+MathisKcr raises 280 to 300 and is all-in
+fab3869 calls 280 and is all-in
+*** FLOP *** [6d 4s Ts]
+*** TURN *** [6d 4s Ts][Ac]
+*** RIVER *** [6d 4s Ts Ac][Ks]
+*** SHOW DOWN ***
+fab3869 shows [Kc Qc] (One pair : Kings)
+MathisKcr shows [7h Ah] (One pair : Aces)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6d 4s Ts Ac Ks]
+Seat 1: MathisKcr (small blind) showed [7h Ah] and won 600 with One pair : Aces
+Seat 2: fab3869 (big blind) showed [Kc Qc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668479285810429953-2-1774795278 - Holdem no limit (10/20) - 2026/03/29 14:41:18 UTC
+Table: 'Expresso Nitro(1086965037)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (600)
+Seat 3: AAss-Breaker (300)
+*** ANTE/BLINDS ***
+AAss-Breaker posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9s Js]
+*** PRE-FLOP *** 
+AAss-Breaker raises 280 to 300 and is all-in
+MathisKcr calls 280
+*** FLOP *** [3c 8s 5h]
+*** TURN *** [3c 8s 5h][Tc]
+*** RIVER *** [3c 8s 5h Tc][6s]
+*** SHOW DOWN ***
+MathisKcr shows [9s Js] (High card : Jack)
+AAss-Breaker shows [9h Kh] (High card : King)
+AAss-Breaker collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3c 8s 5h Tc 6s]
+Seat 1: MathisKcr (big blind) showed [9s Js] and lost with High card : Jack
+Seat 3: AAss-Breaker (small blind) (button) showed [9h Kh] and won 600 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668479285810429953-3-1774795290 - Holdem no limit (10/20) - 2026/03/29 14:41:30 UTC
+Table: 'Expresso Nitro(1086965037)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 3: AAss-Breaker (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+AAss-Breaker posts big blind 20
+Dealt to MathisKcr [9h Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+AAss-Breaker calls 280
+*** FLOP *** [8h Qc 3c]
+*** TURN *** [8h Qc 3c][Kh]
+*** RIVER *** [8h Qc 3c Kh][5h]
+*** SHOW DOWN ***
+AAss-Breaker shows [8s Jc] (One pair : 8)
+MathisKcr shows [9h Kd] (One pair : Kings)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8h Qc 3c Kh 5h]
+Seat 1: MathisKcr (small blind) (button) showed [9h Kd] and won 600 with One pair : Kings
+Seat 3: AAss-Breaker (big blind) showed [8s Jc] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668479285810429953-4-1774795304 - Holdem no limit (10/20) - 2026/03/29 14:41:44 UTC
+Table: 'Expresso Nitro(1086965037)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (600)
+Seat 3: AAss-Breaker (300)
+*** ANTE/BLINDS ***
+AAss-Breaker posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th 3s]
+*** PRE-FLOP *** 
+AAss-Breaker calls 10
+MathisKcr checks
+*** FLOP *** [4c As Kh]
+MathisKcr checks
+AAss-Breaker checks
+*** TURN *** [4c As Kh][Qs]
+MathisKcr checks
+AAss-Breaker checks
+*** RIVER *** [4c As Kh Qs][6s]
+MathisKcr checks
+AAss-Breaker bets 20
+MathisKcr folds
+AAss-Breaker collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [4c As Kh Qs 6s]
+Seat 3: AAss-Breaker (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668479285810429953-5-1774795348 - Holdem no limit (15/30) - 2026/03/29 14:42:28 UTC
+Table: 'Expresso Nitro(1086965037)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (580)
+Seat 3: AAss-Breaker (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+AAss-Breaker posts big blind 30
+Dealt to MathisKcr [Qh Th]
+*** PRE-FLOP *** 
+MathisKcr raises 550 to 580 and is all-in
+AAss-Breaker folds
+MathisKcr collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Seat 1: MathisKcr (small blind) (button) won 610
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668479285810429953-6-1774795359 - Holdem no limit (15/30) - 2026/03/29 14:42:39 UTC
+Table: 'Expresso Nitro(1086965037)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (610)
+Seat 3: AAss-Breaker (290)
+*** ANTE/BLINDS ***
+AAss-Breaker posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qh 9s]
+*** PRE-FLOP *** 
+AAss-Breaker calls 15
+MathisKcr raises 580 to 610 and is all-in
+AAss-Breaker calls 260 and is all-in
+*** FLOP *** [6s 2h Ad]
+*** TURN *** [6s 2h Ad][5s]
+*** RIVER *** [6s 2h Ad 5s][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [Qh 9s] (High card : Ace)
+AAss-Breaker shows [Ks 3s] (One pair : Kings)
+AAss-Breaker collected 580 from main pot
+MathisKcr collected 320 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s 2h Ad 5s Kc]
+Seat 1: MathisKcr (big blind) showed [Qh 9s] and won 320 with High card : Ace
+Seat 3: AAss-Breaker (small blind) (button) showed [Ks 3s] and won 580 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668479285810429953-7-1774795376 - Holdem no limit (15/30) - 2026/03/29 14:42:56 UTC
+Table: 'Expresso Nitro(1086965037)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (320)
+Seat 3: AAss-Breaker (580)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+AAss-Breaker posts big blind 30
+Dealt to MathisKcr [Kh 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 290 to 320 and is all-in
+AAss-Breaker folds
+MathisKcr collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 1: MathisKcr (small blind) (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668479285810429953-8-1774795384 - Holdem no limit (20/40) - 2026/03/29 14:43:04 UTC
+Table: 'Expresso Nitro(1086965037)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (350)
+Seat 3: AAss-Breaker (550)
+*** ANTE/BLINDS ***
+AAss-Breaker posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [4s Ad]
+*** PRE-FLOP *** 
+AAss-Breaker raises 80 to 120
+MathisKcr raises 230 to 350 and is all-in
+AAss-Breaker calls 230
+*** FLOP *** [Qc 2s 6d]
+*** TURN *** [Qc 2s 6d][Kd]
+*** RIVER *** [Qc 2s 6d Kd][8d]
+*** SHOW DOWN ***
+MathisKcr shows [4s Ad] (High card : Ace)
+AAss-Breaker shows [Kh 5h] (One pair : Kings)
+AAss-Breaker collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [Qc 2s 6d Kd 8d]
+Seat 1: MathisKcr (big blind) showed [4s Ad] and lost with High card : Ace
+Seat 3: AAss-Breaker (small blind) (button) showed [Kh 5h] and won 700 with One pair : Kings
+
+

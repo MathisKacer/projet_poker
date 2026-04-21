@@ -1,0 +1,543 @@
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4644200162103656497-8-1776456430 - Holdem no limit (25/100/200) - 2026/04/17 20:07:10 UTC
+Table: 'OUTERSPACE(1081312113)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: Calmetoi59 (20275, 1€ bounty)
+Seat 2: Maaboy (24450, 1€ bounty)
+Seat 3: MathisKcr (20000, 1€ bounty)
+Seat 4: -Louis x - (14200, 1€ bounty)
+Seat 5: Grand-Ligne (19025, 1€ bounty)
+Seat 6: Lesspring (21925, 1€ bounty)
+*** ANTE/BLINDS ***
+Maaboy posts ante 25
+MathisKcr posts ante 25
+Calmetoi59 posts ante 25
+-Louis x - posts ante 25
+Grand-Ligne posts ante 25
+Lesspring posts ante 25
+Maaboy posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [5c 6c]
+*** PRE-FLOP *** 
+-Louis x - calls 200
+Grand-Ligne folds
+Lesspring folds
+Calmetoi59 calls 200
+Maaboy folds
+MathisKcr checks
+*** FLOP *** [3h 2s Td]
+MathisKcr checks
+-Louis x - checks
+Calmetoi59 checks
+*** TURN *** [3h 2s Td][Qh]
+MathisKcr checks
+-Louis x - checks
+Calmetoi59 checks
+*** RIVER *** [3h 2s Td Qh][3d]
+MathisKcr checks
+-Louis x - checks
+Calmetoi59 checks
+*** SHOW DOWN ***
+MathisKcr shows [5c 6c] (One pair : 3)
+Calmetoi59 shows [7h 8d] (One pair : 3)
+-Louis x - shows [7c 8c] (One pair : 3)
+-Louis x - collected 425 from pot
+Calmetoi59 collected 425 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [3h 2s Td Qh 3d]
+Seat 1: Calmetoi59 (button) showed [7h 8d] and won 425 with One pair : 3
+Seat 3: MathisKcr (big blind) showed [5c 6c] and lost with One pair : 3
+Seat 4: -Louis x - showed [7c 8c] and won 425 with One pair : 3
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4644200162103656497-9-1776456496 - Holdem no limit (25/100/200) - 2026/04/17 20:08:16 UTC
+Table: 'OUTERSPACE(1081312113)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: Calmetoi59 (20475, 1€ bounty)
+Seat 2: Maaboy (24325, 1€ bounty)
+Seat 3: MathisKcr (19775, 1€ bounty)
+Seat 4: -Louis x - (14400, 1€ bounty)
+Seat 6: Lesspring (21900, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+-Louis x - posts ante 25
+Calmetoi59 posts ante 25
+Maaboy posts ante 25
+Lesspring posts ante 25
+MathisKcr posts small blind 100
+-Louis x - posts big blind 200
+Dealt to MathisKcr [7c Js]
+*** PRE-FLOP *** 
+Lesspring raises 400 to 600
+Calmetoi59 raises 750 to 1350
+Maaboy folds
+MathisKcr folds
+-Louis x - folds
+Lesspring calls 750
+*** FLOP *** [Ks Kc Ac]
+Lesspring checks
+Calmetoi59 checks
+*** TURN *** [Ks Kc Ac][Th]
+Lesspring bets 1094
+Calmetoi59 folds
+Lesspring collected 4219 from pot
+*** SUMMARY ***
+Total pot 4219 | No rake
+Board: [Ks Kc Ac Th]
+Seat 6: Lesspring won 4219
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4644200162103656497-10-1776456553 - Holdem no limit (25/100/200) - 2026/04/17 20:09:13 UTC
+Table: 'OUTERSPACE(1081312113)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: Calmetoi59 (19100, 1€ bounty)
+Seat 2: Maaboy (24300, 1€ bounty)
+Seat 3: MathisKcr (19650, 1€ bounty)
+Seat 4: -Louis x - (14175, 1€ bounty)
+Seat 5: Kaiss78 (20000, 1€ bounty)
+Seat 6: Lesspring (23650, 1€ bounty)
+*** ANTE/BLINDS ***
+-Louis x - posts ante 25
+Kaiss78 posts ante 25
+Calmetoi59 posts ante 25
+Maaboy posts ante 25
+MathisKcr posts ante 25
+Lesspring posts ante 25
+-Louis x - posts small blind 100
+Kaiss78 posts big blind 200
+Dealt to MathisKcr [Ac Td]
+*** PRE-FLOP *** 
+Lesspring folds
+Calmetoi59 folds
+Maaboy raises 200 to 400
+MathisKcr calls 400
+-Louis x - calls 300
+Kaiss78 calls 200
+*** FLOP *** [8h Tc 6h]
+-Louis x - bets 1750
+Kaiss78 folds
+Maaboy calls 1750
+MathisKcr raises 3938 to 5688
+-Louis x - raises 8062 to 13750 and is all-in
+Maaboy folds
+MathisKcr calls 8062
+*** TURN *** [8h Tc 6h][2s]
+*** RIVER *** [8h Tc 6h 2s][7h]
+*** SHOW DOWN ***
+MathisKcr shows [Ac Td] (One pair : Tens)
+-Louis x - shows [Qh Kh] (Flush King high)
+-Louis x - collected 31000 from pot
+*** SUMMARY ***
+Total pot 31000 | No rake
+Board: [8h Tc 6h 2s 7h]
+Seat 3: MathisKcr (button) showed [Ac Td] and lost with One pair : Tens
+Seat 4: -Louis x - (small blind) showed [Qh Kh] and won 31000 with Flush King high
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4644200162103656497-11-1776456633 - Holdem no limit (25/100/200) - 2026/04/17 20:10:33 UTC
+Table: 'OUTERSPACE(1081312113)#0048' 6-max (real money) Seat #4 is the button
+Seat 1: Calmetoi59 (19075, 1€ bounty)
+Seat 2: Maaboy (22125, 1€ bounty)
+Seat 3: MathisKcr (5475, 1€ bounty)
+Seat 4: -Louis x - (31000, 1€ bounty)
+Seat 5: Kaiss78 (19575, 1€ bounty)
+Seat 6: Lesspring (23625, 1€ bounty)
+*** ANTE/BLINDS ***
+Kaiss78 posts ante 25
+Lesspring posts ante 25
+Calmetoi59 posts ante 25
+Maaboy posts ante 25
+MathisKcr posts ante 25
+-Louis x - posts ante 25
+Kaiss78 posts small blind 100
+Lesspring posts big blind 200
+Dealt to MathisKcr [3c Kd]
+*** PRE-FLOP *** 
+Calmetoi59 raises 500 to 700
+Maaboy folds
+MathisKcr folds
+-Louis x - calls 700
+Kaiss78 calls 600
+Lesspring folds
+*** FLOP *** [Jd 4h 4d]
+Kaiss78 checks
+Calmetoi59 checks
+-Louis x - bets 1225
+Kaiss78 raises 1225 to 2450
+Calmetoi59 folds
+-Louis x - calls 1225
+*** TURN *** [Jd 4h 4d][2h]
+Kaiss78 bets 16400 and is all-in
+-Louis x - folds
+Kaiss78 collected 23750 from pot
+*** SUMMARY ***
+Total pot 23750 | No rake
+Board: [Jd 4h 4d 2h]
+Seat 5: Kaiss78 (small blind) won 23750
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4644200162103656497-12-1776456697 - Holdem no limit (25/100/200) - 2026/04/17 20:11:37 UTC
+Table: 'OUTERSPACE(1081312113)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: Calmetoi59 (18350, 1€ bounty)
+Seat 2: Maaboy (22100, 1€ bounty)
+Seat 3: MathisKcr (5450, 1€ bounty)
+Seat 4: -Louis x - (27825, 1€ bounty)
+Seat 5: Kaiss78 (23750, 1€ bounty)
+Seat 6: Lesspring (23400, 1€ bounty)
+*** ANTE/BLINDS ***
+Lesspring posts ante 25
+Calmetoi59 posts ante 25
+Maaboy posts ante 25
+MathisKcr posts ante 25
+-Louis x - posts ante 25
+Kaiss78 posts ante 25
+Lesspring posts small blind 100
+Calmetoi59 posts big blind 200
+Dealt to MathisKcr [9h 6c]
+*** PRE-FLOP *** 
+Maaboy folds
+MathisKcr folds
+-Louis x - folds
+Kaiss78 folds
+Lesspring raises 400 to 600
+Calmetoi59 calls 400
+*** FLOP *** [4c Ts 5d]
+Lesspring bets 473
+Calmetoi59 calls 473
+*** TURN *** [4c Ts 5d][Tc]
+Lesspring bets 804
+Calmetoi59 calls 804
+*** RIVER *** [4c Ts 5d Tc][Kc]
+Lesspring checks
+Calmetoi59 checks
+*** SHOW DOWN ***
+Calmetoi59 shows [2h 4h] (Two pairs : Tens and 4)
+Lesspring shows [Td Qh] (Trips of Tens)
+Lesspring collected 3904 from pot
+*** SUMMARY ***
+Total pot 3904 | No rake
+Board: [4c Ts 5d Tc Kc]
+Seat 1: Calmetoi59 (big blind) showed [2h 4h] and lost with Two pairs : Tens and 4
+Seat 6: Lesspring (small blind) showed [Td Qh] and won 3904 with Trips of Tens
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4644200162103656497-13-1776456751 - Holdem no limit (25/100/200) - 2026/04/17 20:12:31 UTC
+Table: 'OUTERSPACE(1081312113)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: Calmetoi59 (16448, 1€ bounty)
+Seat 2: Maaboy (22075, 1€ bounty)
+Seat 3: MathisKcr (5425, 1€ bounty)
+Seat 4: -Louis x - (27800, 1€ bounty)
+Seat 5: Kaiss78 (23725, 1€ bounty)
+Seat 6: Lesspring (25402, 1€ bounty)
+*** ANTE/BLINDS ***
+Calmetoi59 posts ante 25
+Maaboy posts ante 25
+MathisKcr posts ante 25
+-Louis x - posts ante 25
+Kaiss78 posts ante 25
+Lesspring posts ante 25
+Calmetoi59 posts small blind 100
+Maaboy posts big blind 200
+Dealt to MathisKcr [Td 8c]
+*** PRE-FLOP *** 
+MathisKcr folds
+-Louis x - calls 200
+Kaiss78 folds
+Lesspring folds
+Calmetoi59 folds
+Maaboy checks
+*** FLOP *** [3d Ac 2c]
+Maaboy checks
+-Louis x - bets 650
+Maaboy calls 650
+*** TURN *** [3d Ac 2c][Jd]
+Maaboy checks
+-Louis x - bets 26925 and is all-in
+Maaboy folds
+-Louis x - collected 28875 from pot
+*** SUMMARY ***
+Total pot 28875 | No rake
+Board: [3d Ac 2c Jd]
+Seat 4: -Louis x - won 28875
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4644200162103656497-14-1776456822 - Holdem no limit (25/100/200) - 2026/04/17 20:13:42 UTC
+Table: 'OUTERSPACE(1081312113)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: Calmetoi59 (16323, 1€ bounty)
+Seat 2: Maaboy (21200, 1€ bounty)
+Seat 3: MathisKcr (5400, 1€ bounty)
+Seat 4: -Louis x - (28875, 1€ bounty)
+Seat 5: Kaiss78 (23700, 1€ bounty)
+Seat 6: Lesspring (25377, 1€ bounty)
+*** ANTE/BLINDS ***
+Maaboy posts ante 25
+MathisKcr posts ante 25
+Calmetoi59 posts ante 25
+-Louis x - posts ante 25
+Kaiss78 posts ante 25
+Lesspring posts ante 25
+Maaboy posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [9s Ts]
+*** PRE-FLOP *** 
+-Louis x - calls 200
+Kaiss78 folds
+Lesspring folds
+Calmetoi59 raises 16098 to 16298 and is all-in
+Maaboy folds
+MathisKcr calls 5175 and is all-in
+-Louis x - folds
+*** FLOP *** [Qh Qc Kd]
+*** TURN *** [Qh Qc Kd][Td]
+*** RIVER *** [Qh Qc Kd Td][5h]
+*** SHOW DOWN ***
+MathisKcr shows [9s Ts] (Two pairs : Queens and Tens)
+Calmetoi59 shows [Qs Jd] (Trips of Queens)
+Calmetoi59 collected 22123 from pot
+*** SUMMARY ***
+Total pot 22123 | No rake
+Board: [Qh Qc Kd Td 5h]
+Seat 1: Calmetoi59 (button) showed [Qs Jd] and won 22123 with Trips of Queens
+Seat 3: MathisKcr (big blind) showed [9s Ts] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4644200162103656498-17-1776457003 - Holdem no limit (25/100/200) - 2026/04/17 20:16:43 UTC
+Table: 'OUTERSPACE(1081312113)#0049' 6-max (real money) Seat #3 is the button
+Seat 1: Keestrell (20250, 1€ bounty)
+Seat 2: MathisKcr (20000, 1€ bounty)
+Seat 3: poKnfolK (25762, 1€ bounty)
+Seat 4: Xx12xXToto (32123, 1.20€ bounty)
+Seat 6: gugglerfou (31676, 1€ bounty)
+*** ANTE/BLINDS ***
+Xx12xXToto posts ante 25
+gugglerfou posts ante 25
+Keestrell posts ante 25
+MathisKcr posts ante 25
+poKnfolK posts ante 25
+Xx12xXToto posts small blind 100
+gugglerfou posts big blind 200
+Dealt to MathisKcr [Kd Td]
+*** PRE-FLOP *** 
+Keestrell raises 200 to 400
+MathisKcr raises 800 to 1200
+poKnfolK folds
+Xx12xXToto calls 1100
+gugglerfou folds
+Keestrell folds
+*** FLOP *** [4s 3d Qs]
+Xx12xXToto checks
+MathisKcr bets 1094
+Xx12xXToto calls 1094
+*** TURN *** [4s 3d Qs][Th]
+Xx12xXToto checks
+MathisKcr checks
+*** RIVER *** [4s 3d Qs Th][Ac]
+Xx12xXToto bets 5313
+MathisKcr folds
+Xx12xXToto collected 10626 from pot
+*** SUMMARY ***
+Total pot 10626 | No rake
+Board: [4s 3d Qs Th Ac]
+Seat 4: Xx12xXToto (small blind) won 10626
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4644200162103656498-18-1776457055 - Holdem no limit (25/100/200) - 2026/04/17 20:17:35 UTC
+Table: 'OUTERSPACE(1081312113)#0049' 6-max (real money) Seat #4 is the button
+Seat 2: MathisKcr (17681, 1€ bounty)
+Seat 3: poKnfolK (25737, 1€ bounty)
+Seat 4: Xx12xXToto (35117, 1.20€ bounty)
+Seat 5: PA_TU_CASA (20000, 1€ bounty)
+Seat 6: gugglerfou (31451, 1€ bounty)
+*** ANTE/BLINDS ***
+gugglerfou posts ante 25
+MathisKcr posts ante 25
+poKnfolK posts ante 25
+Xx12xXToto posts ante 25
+gugglerfou posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [2d 6h]
+*** PRE-FLOP *** 
+poKnfolK folds
+Xx12xXToto calls 200
+gugglerfou folds
+MathisKcr checks
+*** FLOP *** [3h 7s 5h]
+MathisKcr checks
+Xx12xXToto bets 600
+MathisKcr calls 600
+*** TURN *** [3h 7s 5h][9c]
+MathisKcr checks
+Xx12xXToto bets 1170
+MathisKcr calls 1170
+*** RIVER *** [3h 7s 5h 9c][2s]
+MathisKcr checks
+Xx12xXToto bets 33122 and is all-in
+MathisKcr folds
+Xx12xXToto collected 37262 from pot
+*** SUMMARY ***
+Total pot 37262 | No rake
+Board: [3h 7s 5h 9c 2s]
+Seat 4: Xx12xXToto (button) won 37262
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4644200162103656498-19-1776457169 - Holdem no limit (25/100/200) - 2026/04/17 20:19:29 UTC
+Table: 'OUTERSPACE(1081312113)#0049' 6-max (real money) Seat #6 is the button
+Seat 1: All-inzerok (20000, 1€ bounty)
+Seat 2: MathisKcr (15686, 1€ bounty)
+Seat 3: poKnfolK (25712, 1€ bounty)
+Seat 4: Xx12xXToto (37262, 1.20€ bounty)
+Seat 5: PA_TU_CASA (20000, 1€ bounty)
+Seat 6: gugglerfou (31326, 1€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+poKnfolK posts ante 25
+Xx12xXToto posts ante 25
+PA_TU_CASA posts ante 25
+gugglerfou posts ante 25
+MathisKcr posts small blind 100
+poKnfolK posts big blind 200
+Dealt to MathisKcr [Qc 4d]
+*** PRE-FLOP *** 
+Xx12xXToto calls 200
+PA_TU_CASA folds
+gugglerfou folds
+MathisKcr folds
+poKnfolK checks
+*** FLOP *** [4c Qs Tc]
+poKnfolK checks
+Xx12xXToto checks
+*** TURN *** [4c Qs Tc][9s]
+poKnfolK checks
+Xx12xXToto checks
+*** RIVER *** [4c Qs Tc 9s][3h]
+poKnfolK checks
+Xx12xXToto checks
+*** SHOW DOWN ***
+Xx12xXToto shows [Ks 7h] (High card : King)
+poKnfolK shows [Ah 8h] (High card : Ace)
+poKnfolK collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [4c Qs Tc 9s 3h]
+Seat 3: poKnfolK (big blind) showed [Ah 8h] and won 625 with High card : Ace
+Seat 4: Xx12xXToto showed [Ks 7h] and lost with High card : King
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #4644200162103656498-20-1776457224 - Holdem no limit (30/125/250) - 2026/04/17 20:20:24 UTC
+Table: 'OUTERSPACE(1081312113)#0049' 6-max (real money) Seat #2 is the button
+Seat 1: All-inzerok (20000, 1€ bounty)
+Seat 2: MathisKcr (15561, 1€ bounty)
+Seat 3: poKnfolK (26112, 1€ bounty)
+Seat 4: Xx12xXToto (37037, 1.20€ bounty)
+Seat 5: PA_TU_CASA (19975, 1€ bounty)
+Seat 6: gugglerfou (31301, 1€ bounty)
+*** ANTE/BLINDS ***
+poKnfolK posts ante 30
+Xx12xXToto posts ante 30
+All-inzerok posts ante 30
+MathisKcr posts ante 30
+PA_TU_CASA posts ante 30
+gugglerfou posts ante 30
+poKnfolK posts small blind 125
+Xx12xXToto posts big blind 250
+Dealt to MathisKcr [4c Js]
+*** PRE-FLOP *** 
+PA_TU_CASA folds
+gugglerfou folds
+All-inzerok folds
+MathisKcr folds
+poKnfolK folds
+Xx12xXToto collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 4: Xx12xXToto (big blind) won 555
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #4644200162103656498-21-1776457238 - Holdem no limit (30/125/250) - 2026/04/17 20:20:38 UTC
+Table: 'OUTERSPACE(1081312113)#0049' 6-max (real money) Seat #3 is the button
+Seat 1: All-inzerok (19970, 1€ bounty)
+Seat 2: MathisKcr (15531, 1€ bounty)
+Seat 3: poKnfolK (25957, 1€ bounty)
+Seat 4: Xx12xXToto (37312, 1.20€ bounty)
+Seat 5: PA_TU_CASA (19945, 1€ bounty)
+Seat 6: gugglerfou (31271, 1€ bounty)
+*** ANTE/BLINDS ***
+Xx12xXToto posts ante 30
+PA_TU_CASA posts ante 30
+All-inzerok posts ante 30
+MathisKcr posts ante 30
+poKnfolK posts ante 30
+gugglerfou posts ante 30
+Xx12xXToto posts small blind 125
+PA_TU_CASA posts big blind 250
+Dealt to MathisKcr [Qh 9d]
+*** PRE-FLOP *** 
+gugglerfou raises 250 to 500
+All-inzerok folds
+MathisKcr calls 500
+poKnfolK folds
+Xx12xXToto folds
+PA_TU_CASA folds
+*** FLOP *** [6s 5d 9s]
+gugglerfou bets 544
+MathisKcr calls 544
+*** TURN *** [6s 5d 9s][8c]
+gugglerfou checks
+MathisKcr bets 1322
+gugglerfou folds
+MathisKcr collected 3965 from pot
+*** SUMMARY ***
+Total pot 3965 | No rake
+Board: [6s 5d 9s 8c]
+Seat 2: MathisKcr won 3965
+
+
+Winamax Poker - Tournament "OUTERSPACE" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #4644200162103656498-22-1776457305 - Holdem no limit (30/125/250) - 2026/04/17 20:21:45 UTC
+Table: 'OUTERSPACE(1081312113)#0049' 6-max (real money) Seat #4 is the button
+Seat 1: All-inzerok (19940, 1€ bounty)
+Seat 2: MathisKcr (17100, 1€ bounty)
+Seat 3: poKnfolK (25927, 1€ bounty)
+Seat 4: Xx12xXToto (37157, 1.20€ bounty)
+Seat 5: PA_TU_CASA (19665, 1€ bounty)
+Seat 6: gugglerfou (30197, 1€ bounty)
+*** ANTE/BLINDS ***
+PA_TU_CASA posts ante 30
+gugglerfou posts ante 30
+All-inzerok posts ante 30
+MathisKcr posts ante 30
+poKnfolK posts ante 30
+Xx12xXToto posts ante 30
+PA_TU_CASA posts small blind 125
+gugglerfou posts big blind 250
+Dealt to MathisKcr [Ac Jh]
+*** PRE-FLOP *** 
+All-inzerok folds
+MathisKcr raises 250 to 500
+poKnfolK folds
+Xx12xXToto calls 500
+PA_TU_CASA folds
+gugglerfou raises 1000 to 1500
+MathisKcr calls 1000
+Xx12xXToto calls 1000
+*** FLOP *** [4c 8s 7h]
+gugglerfou checks
+MathisKcr checks
+Xx12xXToto checks
+*** TURN *** [4c 8s 7h][8d]
+gugglerfou bets 1201
+MathisKcr calls 1201
+Xx12xXToto calls 1201
+*** RIVER *** [4c 8s 7h 8d][5d]
+gugglerfou checks
+MathisKcr bets 2943
+Xx12xXToto raises 31483 to 34426 and is all-in
+gugglerfou folds
+MathisKcr calls 11426 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [Ac Jh] (One pair : 8)
+Xx12xXToto shows [5c 4s] (Two pairs : 8 and 5)
+Xx12xXToto collected 57203 from pot
+*** SUMMARY ***
+Total pot 57203 | No rake
+Board: [4c 8s 7h 8d 5d]
+Seat 2: MathisKcr showed [Ac Jh] and lost with One pair : 8
+Seat 4: Xx12xXToto (button) showed [5c 4s] and won 57203 with Two pairs : 8 and 5
+
+

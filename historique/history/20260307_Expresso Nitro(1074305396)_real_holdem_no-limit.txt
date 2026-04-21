@@ -1,0 +1,91 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614106541736329217-1-1772889957 - Holdem no limit (10/20) - 2026/03/07 13:25:57 UTC
+Table: 'Expresso Nitro(1074305396)#0' 3-max (real money) Seat #1 is the button
+Seat 1: CoronesOros (300)
+Seat 2: la maligne13 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+la maligne13 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7d Jc]
+*** PRE-FLOP *** 
+CoronesOros raises 280 to 300 and is all-in
+la maligne13 folds
+MathisKcr folds
+CoronesOros collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: CoronesOros (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614106541736329217-2-1772889969 - Holdem no limit (10/20) - 2026/03/07 13:26:09 UTC
+Table: 'Expresso Nitro(1074305396)#0' 3-max (real money) Seat #2 is the button
+Seat 1: CoronesOros (330)
+Seat 2: la maligne13 (290)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+CoronesOros posts big blind 20
+Dealt to MathisKcr [7c Qs]
+*** PRE-FLOP *** 
+la maligne13 raises 270 to 290 and is all-in
+MathisKcr folds
+CoronesOros folds
+la maligne13 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: la maligne13 (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614106541736329217-3-1772889976 - Holdem no limit (10/20) - 2026/03/07 13:26:16 UTC
+Table: 'Expresso Nitro(1074305396)#0' 3-max (real money) Seat #3 is the button
+Seat 1: CoronesOros (310)
+Seat 2: la maligne13 (320)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+CoronesOros posts small blind 10
+la maligne13 posts big blind 20
+Dealt to MathisKcr [Jc 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+CoronesOros raises 290 to 310 and is all-in
+la maligne13 calls 290
+*** FLOP *** [7h 5h 3s]
+*** TURN *** [7h 5h 3s][9h]
+*** RIVER *** [7h 5h 3s 9h][4c]
+*** SHOW DOWN ***
+CoronesOros shows [Ac Jd] (High card : Ace)
+la maligne13 shows [3h As] (One pair : 3)
+la maligne13 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [7h 5h 3s 9h 4c]
+Seat 1: CoronesOros (small blind) showed [Ac Jd] and lost with High card : Ace
+Seat 2: la maligne13 (big blind) showed [3h As] and won 620 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4614106541736329217-4-1772889991 - Holdem no limit (10/20) - 2026/03/07 13:26:31 UTC
+Table: 'Expresso Nitro(1074305396)#0' 3-max (real money) Seat #2 is the button
+Seat 2: la maligne13 (630)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+la maligne13 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd 2c]
+*** PRE-FLOP *** 
+la maligne13 calls 10
+MathisKcr raises 250 to 270 and is all-in
+la maligne13 calls 250
+*** FLOP *** [5h Ac 7d]
+*** TURN *** [5h Ac 7d][Th]
+*** RIVER *** [5h Ac 7d Th][8h]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 2c] (High card : Ace)
+la maligne13 shows [6s 8d] (One pair : 8)
+la maligne13 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [5h Ac 7d Th 8h]
+Seat 2: la maligne13 (small blind) (button) showed [6s 8d] and won 540 with One pair : 8
+Seat 3: MathisKcr (big blind) showed [Kd 2c] and lost with High card : Ace
+
+

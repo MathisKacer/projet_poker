@@ -1,0 +1,190 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445215349482192897-1-1766312772 - Holdem no limit (10/20) - 2025/12/21 10:26:12 UTC
+Table: 'Expresso(1034982351)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: ellsas (500)
+Seat 3: juanjo_1889 (500)
+*** ANTE/BLINDS ***
+ellsas posts small blind 10
+juanjo_1889 posts big blind 20
+Dealt to MathisKcr [8d 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+ellsas folds
+juanjo_1889 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: juanjo_1889 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445215349482192897-2-1766312786 - Holdem no limit (10/20) - 2025/12/21 10:26:26 UTC
+Table: 'Expresso(1034982351)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: ellsas (490)
+Seat 3: juanjo_1889 (510)
+*** ANTE/BLINDS ***
+juanjo_1889 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jh 7c]
+*** PRE-FLOP *** 
+ellsas calls 20
+juanjo_1889 calls 10
+MathisKcr checks
+*** FLOP *** [2c 8s Ad]
+juanjo_1889 checks
+MathisKcr checks
+ellsas checks
+*** TURN *** [2c 8s Ad][6c]
+juanjo_1889 checks
+MathisKcr checks
+ellsas checks
+*** RIVER *** [2c 8s Ad 6c][3s]
+juanjo_1889 checks
+MathisKcr checks
+ellsas checks
+*** SHOW DOWN ***
+MathisKcr shows [Jh 7c] (High card : Ace)
+juanjo_1889 shows [Ts Qc] (High card : Ace)
+ellsas shows [Ks 4s] (High card : Ace)
+ellsas collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2c 8s Ad 6c 3s]
+Seat 1: MathisKcr (big blind) showed [Jh 7c] and lost with High card : Ace
+Seat 2: ellsas (button) showed [Ks 4s] and won 60 with High card : Ace
+Seat 3: juanjo_1889 (small blind) showed [Ts Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445215349482192897-3-1766312820 - Holdem no limit (10/20) - 2025/12/21 10:27:00 UTC
+Table: 'Expresso(1034982351)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (480)
+Seat 2: ellsas (530)
+Seat 3: juanjo_1889 (490)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+ellsas posts big blind 20
+Dealt to MathisKcr [Kd 9d]
+*** PRE-FLOP *** 
+juanjo_1889 raises 470 to 490 and is all-in
+MathisKcr calls 470 and is all-in
+ellsas folds
+*** FLOP *** [5h Kc Qs]
+*** TURN *** [5h Kc Qs][Td]
+*** RIVER *** [5h Kc Qs Td][8c]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 9d] (One pair : Kings)
+juanjo_1889 shows [6d 6c] (One pair : 6)
+juanjo_1889 collected 10 from side pot 1
+MathisKcr collected 980 from main pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Board: [5h Kc Qs Td 8c]
+Seat 1: MathisKcr (small blind) showed [Kd 9d] and won 980 with One pair : Kings
+Seat 3: juanjo_1889 (button) showed [6d 6c] and won 10 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445215349482192897-4-1766312836 - Holdem no limit (10/20) - 2025/12/21 10:27:16 UTC
+Table: 'Expresso(1034982351)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (980)
+Seat 2: ellsas (510)
+Seat 3: juanjo_1889 (10)
+*** ANTE/BLINDS ***
+ellsas posts small blind 10
+juanjo_1889 posts big blind 10 and is all-in
+Dealt to MathisKcr [7c Tc]
+*** PRE-FLOP *** 
+MathisKcr folds
+*** FLOP *** [8s Ks 6h]
+*** TURN *** [8s Ks 6h][As]
+*** RIVER *** [8s Ks 6h As][Td]
+*** SHOW DOWN ***
+ellsas shows [Jd 7h] (High card : Ace)
+juanjo_1889 shows [9c Ts] (One pair : Tens)
+juanjo_1889 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | No rake
+Board: [8s Ks 6h As Td]
+Seat 2: ellsas (small blind) showed [Jd 7h] and lost with High card : Ace
+Seat 3: juanjo_1889 (big blind) showed [9c Ts] and won 20 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445215349482192897-5-1766312848 - Holdem no limit (10/20) - 2025/12/21 10:27:28 UTC
+Table: 'Expresso(1034982351)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (980)
+Seat 2: ellsas (500)
+Seat 3: juanjo_1889 (20)
+*** ANTE/BLINDS ***
+juanjo_1889 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c 9d]
+*** PRE-FLOP *** 
+ellsas calls 20
+juanjo_1889 calls 10 and is all-in
+MathisKcr checks
+*** FLOP *** [Kd 7h Qs]
+MathisKcr bets 40
+ellsas calls 40
+*** TURN *** [Kd 7h Qs][Jc]
+MathisKcr checks
+ellsas checks
+*** RIVER *** [Kd 7h Qs Jc][5d]
+MathisKcr bets 60
+ellsas calls 60
+*** SHOW DOWN ***
+MathisKcr shows [7c 9d] (One pair : 7)
+juanjo_1889 shows [2d 9h] (High card : King)
+ellsas shows [6h Js] (One pair : Jacks)
+ellsas collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [Kd 7h Qs Jc 5d]
+Seat 1: MathisKcr (big blind) showed [7c 9d] and lost with One pair : 7
+Seat 2: ellsas (button) showed [6h Js] and won 260 with One pair : Jacks
+Seat 3: juanjo_1889 (small blind) showed [2d 9h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4445215349482192897-6-1766312887 - Holdem no limit (15/30) - 2025/12/21 10:28:07 UTC
+Table: 'Expresso(1034982351)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (860)
+Seat 2: ellsas (640)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+ellsas posts big blind 30
+Dealt to MathisKcr [Qc 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+ellsas folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4445215349482192897-7-1766312896 - Holdem no limit (15/30) - 2025/12/21 10:28:16 UTC
+Table: 'Expresso(1034982351)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (890)
+Seat 2: ellsas (610)
+*** ANTE/BLINDS ***
+ellsas posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad Ac]
+*** PRE-FLOP *** 
+ellsas calls 15
+MathisKcr raises 30 to 60
+ellsas calls 30
+*** FLOP *** [Jc Kh 5s]
+MathisKcr bets 90
+ellsas raises 460 to 550 and is all-in
+MathisKcr calls 460
+*** TURN *** [Jc Kh 5s][3h]
+*** RIVER *** [Jc Kh 5s 3h][5d]
+*** SHOW DOWN ***
+ellsas shows [Qh Kc] (Two pairs : Kings and 5)
+MathisKcr shows [Ad Ac] (Two pairs : Aces and 5)
+MathisKcr collected 1220 from pot
+*** SUMMARY ***
+Total pot 1220 | No rake
+Board: [Jc Kh 5s 3h 5d]
+Seat 1: MathisKcr (big blind) showed [Ad Ac] and won 1220 with Two pairs : Aces and 5
+Seat 2: ellsas (small blind) (button) showed [Qh Kc] and lost with Two pairs : Kings and 5
+
+

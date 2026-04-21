@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671571743867928577-1-1774906154 - Holdem no limit (10/20) - 2026/03/30 21:29:14 UTC
+Table: 'Expresso Nitro(1087685056)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Rwanda 26160 (300)
+Seat 2: pechu.Emeu66 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Rwanda 26160 posts big blind 20
+Dealt to MathisKcr [6s Jd]
+*** PRE-FLOP *** 
+pechu.Emeu66 folds
+MathisKcr folds
+Rwanda 26160 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Rwanda 26160 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671571743867928577-2-1774906167 - Holdem no limit (10/20) - 2026/03/30 21:29:27 UTC
+Table: 'Expresso Nitro(1087685056)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rwanda 26160 (310)
+Seat 2: pechu.Emeu66 (300)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Rwanda 26160 posts small blind 10
+pechu.Emeu66 posts big blind 20
+Dealt to MathisKcr [Ad 7h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Rwanda 26160 raises 270 to 310 and is all-in
+pechu.Emeu66 folds
+MathisKcr calls 250 and is all-in
+*** FLOP *** [Tc 5s 3h]
+*** TURN *** [Tc 5s 3h][3c]
+*** RIVER *** [Tc 5s 3h 3c][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 7h] (Two pairs : Tens and 3)
+Rwanda 26160 shows [Qs Qd] (Two pairs : Queens and Tens)
+Rwanda 26160 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Tc 5s 3h 3c Ts]
+Seat 1: Rwanda 26160 (small blind) showed [Qs Qd] and won 620 with Two pairs : Queens and Tens
+Seat 3: MathisKcr (button) showed [Ad 7h] and lost with Two pairs : Tens and 3
+
+

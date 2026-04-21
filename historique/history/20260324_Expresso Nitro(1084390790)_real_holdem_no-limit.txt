@@ -1,0 +1,177 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657422979133603841-1-1774344856 - Holdem no limit (10/20) - 2026/03/24 09:34:16 UTC
+Table: 'Expresso Nitro(1084390790)#0' 3-max (real money) Seat #3 is the button
+Seat 1: OK_Genie3 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Troll.Liso24 (300)
+*** ANTE/BLINDS ***
+OK_Genie3 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8h Jh]
+*** PRE-FLOP *** 
+Troll.Liso24 calls 20
+OK_Genie3 calls 10
+MathisKcr checks
+*** FLOP *** [9d 6h 5d]
+OK_Genie3 checks
+MathisKcr checks
+Troll.Liso24 checks
+*** TURN *** [9d 6h 5d][5c]
+OK_Genie3 checks
+MathisKcr checks
+Troll.Liso24 checks
+*** RIVER *** [9d 6h 5d 5c][Ad]
+OK_Genie3 checks
+MathisKcr bets 40
+Troll.Liso24 folds
+OK_Genie3 folds
+MathisKcr collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [9d 6h 5d 5c Ad]
+Seat 2: MathisKcr (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657422979133603841-2-1774344899 - Holdem no limit (10/20) - 2026/03/24 09:34:59 UTC
+Table: 'Expresso Nitro(1084390790)#0' 3-max (real money) Seat #1 is the button
+Seat 1: OK_Genie3 (280)
+Seat 2: MathisKcr (340)
+Seat 3: Troll.Liso24 (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Troll.Liso24 posts big blind 20
+Dealt to MathisKcr [As 5s]
+*** PRE-FLOP *** 
+OK_Genie3 folds
+MathisKcr raises 40 to 60
+Troll.Liso24 calls 40
+*** FLOP *** [4d Qd 3c]
+MathisKcr bets 42
+Troll.Liso24 calls 42
+*** TURN *** [4d Qd 3c][Kd]
+MathisKcr bets 102
+Troll.Liso24 folds
+MathisKcr collected 306 from pot
+*** SUMMARY ***
+Total pot 306 | No rake
+Board: [4d Qd 3c Kd]
+Seat 2: MathisKcr (small blind) won 306
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4657422979133603841-3-1774344947 - Holdem no limit (15/30) - 2026/03/24 09:35:47 UTC
+Table: 'Expresso Nitro(1084390790)#0' 3-max (real money) Seat #2 is the button
+Seat 1: OK_Genie3 (280)
+Seat 2: MathisKcr (442)
+Seat 3: Troll.Liso24 (178)
+*** ANTE/BLINDS ***
+Troll.Liso24 posts small blind 15
+OK_Genie3 posts big blind 30
+Dealt to MathisKcr [Js Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 412 to 442 and is all-in
+Troll.Liso24 folds
+OK_Genie3 calls 250 and is all-in
+*** FLOP *** [Qc 9h 7c]
+*** TURN *** [Qc 9h 7c][5c]
+*** RIVER *** [Qc 9h 7c 5c][Td]
+*** SHOW DOWN ***
+OK_Genie3 shows [Ah Ts] (One pair : Tens)
+MathisKcr shows [Js Kd] (Straight King high)
+MathisKcr collected 737 from pot
+*** SUMMARY ***
+Total pot 737 | No rake
+Board: [Qc 9h 7c 5c Td]
+Seat 1: OK_Genie3 (big blind) showed [Ah Ts] and lost with One pair : Tens
+Seat 2: MathisKcr (button) showed [Js Kd] and won 737 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4657422979133603841-4-1774344980 - Holdem no limit (20/40) - 2026/03/24 09:36:20 UTC
+Table: 'Expresso Nitro(1084390790)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (737)
+Seat 3: Troll.Liso24 (163)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Troll.Liso24 posts big blind 40
+Dealt to MathisKcr [Jd Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 697 to 737 and is all-in
+Troll.Liso24 folds
+MathisKcr collected 777 from pot
+*** SUMMARY ***
+Total pot 777 | No rake
+Seat 2: MathisKcr (small blind) (button) won 777
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4657422979133603841-5-1774344990 - Holdem no limit (20/40) - 2026/03/24 09:36:30 UTC
+Table: 'Expresso Nitro(1084390790)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (777)
+Seat 3: Troll.Liso24 (123)
+*** ANTE/BLINDS ***
+Troll.Liso24 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jd 2c]
+*** PRE-FLOP *** 
+Troll.Liso24 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4657422979133603841-6-1774344994 - Holdem no limit (20/40) - 2026/03/24 09:36:34 UTC
+Table: 'Expresso Nitro(1084390790)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (797)
+Seat 3: Troll.Liso24 (103)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Troll.Liso24 posts big blind 40
+Dealt to MathisKcr [Jc 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 757 to 797 and is all-in
+Troll.Liso24 folds
+MathisKcr collected 837 from pot
+*** SUMMARY ***
+Total pot 837 | No rake
+Seat 2: MathisKcr (small blind) (button) won 837
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4657422979133603841-7-1774345001 - Holdem no limit (20/40) - 2026/03/24 09:36:41 UTC
+Table: 'Expresso Nitro(1084390790)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (837)
+Seat 3: Troll.Liso24 (63)
+*** ANTE/BLINDS ***
+Troll.Liso24 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [2s 8d]
+*** PRE-FLOP *** 
+Troll.Liso24 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4657422979133603841-8-1774345005 - Holdem no limit (20/40) - 2026/03/24 09:36:45 UTC
+Table: 'Expresso Nitro(1084390790)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (857)
+Seat 3: Troll.Liso24 (43)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Troll.Liso24 posts big blind 40
+Dealt to MathisKcr [8h Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 817 to 857 and is all-in
+Troll.Liso24 calls 3 and is all-in
+*** FLOP *** [3c Jd Qh]
+*** TURN *** [3c Jd Qh][Jh]
+*** RIVER *** [3c Jd Qh Jh][Td]
+*** SHOW DOWN ***
+Troll.Liso24 shows [7s 8d] (One pair : Jacks)
+MathisKcr shows [8h Jc] (Trips of Jacks)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3c Jd Qh Jh Td]
+Seat 2: MathisKcr (small blind) (button) showed [8h Jc] and won 900 with Trips of Jacks
+Seat 3: Troll.Liso24 (big blind) showed [7s 8d] and lost with One pair : Jacks
+
+

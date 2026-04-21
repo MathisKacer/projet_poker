@@ -1,0 +1,51 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667992524281872385-1-1774775905 - Holdem no limit (10/20) - 2026/03/29 09:18:25 UTC
+Table: 'Expresso Nitro(1086851704)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Deglingo 3W (300)
+Seat 2: MathisKcr (300)
+Seat 3: CarreDuPion (300)
+*** ANTE/BLINDS ***
+Deglingo 3W posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As 8d]
+*** PRE-FLOP *** 
+CarreDuPion folds
+Deglingo 3W calls 10
+MathisKcr checks
+*** FLOP *** [Td Jc 7d]
+Deglingo 3W bets 40
+MathisKcr folds
+Deglingo 3W collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Td Jc 7d]
+Seat 1: Deglingo 3W (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667992524281872385-2-1774775942 - Holdem no limit (10/20) - 2026/03/29 09:19:02 UTC
+Table: 'Expresso Nitro(1086851704)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Deglingo 3W (320)
+Seat 2: MathisKcr (280)
+Seat 3: CarreDuPion (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+CarreDuPion posts big blind 20
+Dealt to MathisKcr [Jd Tc]
+*** PRE-FLOP *** 
+Deglingo 3W calls 20
+MathisKcr raises 260 to 280 and is all-in
+CarreDuPion folds
+Deglingo 3W raises 40 to 320 and is all-in
+*** FLOP *** [3d 5d Ks]
+*** TURN *** [3d 5d Ks][4s]
+*** RIVER *** [3d 5d Ks 4s][3c]
+*** SHOW DOWN ***
+MathisKcr shows [Jd Tc] (One pair : 3)
+Deglingo 3W shows [Ad Ac] (Two pairs : Aces and 3)
+Deglingo 3W collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [3d 5d Ks 4s 3c]
+Seat 1: Deglingo 3W (button) showed [Ad Ac] and won 620 with Two pairs : Aces and 3
+Seat 2: MathisKcr (small blind) showed [Jd Tc] and lost with One pair : 3
+
+

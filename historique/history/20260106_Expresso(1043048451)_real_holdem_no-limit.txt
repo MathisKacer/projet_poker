@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4479858985188458497-1-1767733516 - Holdem no limit (10/20) - 2026/01/06 21:05:16 UTC
+Table: 'Expresso(1043048451)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Franini2405 (500)
+Seat 2: MathisKcr (500)
+Seat 3: FfloydCruz (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+FfloydCruz posts big blind 20
+Dealt to MathisKcr [8d 7h]
+*** PRE-FLOP *** 
+Franini2405 calls 20
+MathisKcr raises 20 to 40
+FfloydCruz folds
+Franini2405 calls 20
+*** FLOP *** [Kd 9d Ah]
+MathisKcr bets 20
+Franini2405 calls 20
+*** TURN *** [Kd 9d Ah][4s]
+MathisKcr checks
+Franini2405 checks
+*** RIVER *** [Kd 9d Ah 4s][Jd]
+MathisKcr checks
+Franini2405 bets 49
+MathisKcr folds
+Franini2405 collected 189 from pot
+*** SUMMARY ***
+Total pot 189 | No rake
+Board: [Kd 9d Ah 4s Jd]
+Seat 1: Franini2405 (button) won 189
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4479858985188458497-2-1767733540 - Holdem no limit (10/20) - 2026/01/06 21:05:40 UTC
+Table: 'Expresso(1043048451)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Franini2405 (580)
+Seat 2: MathisKcr (440)
+Seat 3: FfloydCruz (480)
+*** ANTE/BLINDS ***
+FfloydCruz posts small blind 10
+Franini2405 posts big blind 20
+Dealt to MathisKcr [Ah 7d]
+*** PRE-FLOP *** 
+MathisKcr raises 420 to 440 and is all-in
+FfloydCruz folds
+Franini2405 folds
+MathisKcr collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 2: MathisKcr (button) won 470
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4479858985188458497-3-1767733549 - Holdem no limit (10/20) - 2026/01/06 21:05:49 UTC
+Table: 'Expresso(1043048451)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Franini2405 (560)
+Seat 2: MathisKcr (470)
+Seat 3: FfloydCruz (470)
+*** ANTE/BLINDS ***
+Franini2405 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ks 2c]
+*** PRE-FLOP *** 
+FfloydCruz calls 20
+Franini2405 calls 10
+MathisKcr raises 450 to 470 and is all-in
+FfloydCruz calls 450 and is all-in
+Franini2405 folds
+*** FLOP *** [3d Qd Jh]
+*** TURN *** [3d Qd Jh][3s]
+*** RIVER *** [3d Qd Jh 3s][8h]
+*** SHOW DOWN ***
+MathisKcr shows [Ks 2c] (One pair : 3)
+FfloydCruz shows [8c Qc] (Two pairs : Queens and 8)
+FfloydCruz collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [3d Qd Jh 3s 8h]
+Seat 2: MathisKcr (big blind) showed [Ks 2c] and lost with One pair : 3
+Seat 3: FfloydCruz (button) showed [8c Qc] and won 960 with Two pairs : Queens and 8
+
+

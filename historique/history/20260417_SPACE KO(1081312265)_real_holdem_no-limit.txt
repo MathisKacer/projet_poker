@@ -1,0 +1,3482 @@
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4644200814938685486-10-1776456444 - Holdem no limit (25/100/200) - 2026/04/17 20:07:24 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (20000, 0.50€ bounty)
+Seat 2: CyBerSoiiN (43513, 0.60€ bounty)
+Seat 3: CAPE F34R (16801, 0.50€ bounty)
+Seat 4: d4xter (20000, 0.50€ bounty)
+Seat 5: Soum67 (23250, 0.50€ bounty)
+Seat 6: jougueiret (36886, 0.60€ bounty)
+*** ANTE/BLINDS ***
+jougueiret posts ante 25
+MathisKcr posts ante 25
+CyBerSoiiN posts ante 25
+CAPE F34R posts ante 25
+d4xter posts ante 25
+Soum67 posts ante 25
+jougueiret posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [Tc As]
+*** PRE-FLOP *** 
+CyBerSoiiN folds
+CAPE F34R folds
+d4xter raises 400 to 600
+Soum67 calls 600
+jougueiret calls 500
+MathisKcr calls 400
+*** FLOP *** [5h 6h Qd]
+jougueiret checks
+MathisKcr checks
+d4xter bets 1200
+Soum67 calls 1200
+jougueiret folds
+MathisKcr folds
+*** TURN *** [5h 6h Qd][9s]
+d4xter bets 2000
+Soum67 calls 2000
+*** RIVER *** [5h 6h Qd 9s][7c]
+d4xter bets 3133
+Soum67 calls 3133
+*** SHOW DOWN ***
+d4xter shows [Jd Js] (One pair : Jacks)
+Soum67 shows [Qc 4c] (One pair : Queens)
+Soum67 collected 15216 from pot
+*** SUMMARY ***
+Total pot 15216 | No rake
+Board: [5h 6h Qd 9s 7c]
+Seat 4: d4xter showed [Jd Js] and lost with One pair : Jacks
+Seat 5: Soum67 (button) showed [Qc 4c] and won 15216 with One pair : Queens
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4644200814938685486-11-1776456558 - Holdem no limit (25/100/200) - 2026/04/17 20:09:18 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (19375, 0.50€ bounty)
+Seat 2: CyBerSoiiN (43488, 0.60€ bounty)
+Seat 3: CAPE F34R (16776, 0.50€ bounty)
+Seat 4: d4xter (13042, 0.50€ bounty)
+Seat 5: Soum67 (31508, 0.50€ bounty)
+Seat 6: jougueiret (36261, 0.60€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+CyBerSoiiN posts ante 25
+CAPE F34R posts ante 25
+d4xter posts ante 25
+Soum67 posts ante 25
+jougueiret posts ante 25
+MathisKcr posts small blind 100
+CyBerSoiiN posts big blind 200
+Dealt to MathisKcr [5d 9c]
+*** PRE-FLOP *** 
+CAPE F34R folds
+d4xter raises 200 to 400
+Soum67 folds
+jougueiret folds
+MathisKcr folds
+CyBerSoiiN calls 200
+*** FLOP *** [3d 2h 8s]
+CyBerSoiiN checks
+d4xter bets 500
+CyBerSoiiN calls 500
+*** TURN *** [3d 2h 8s][3h]
+CyBerSoiiN checks
+d4xter bets 700
+CyBerSoiiN folds
+d4xter collected 2750 from pot
+*** SUMMARY ***
+Total pot 2750 | No rake
+Board: [3d 2h 8s 3h]
+Seat 4: d4xter won 2750
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4644200814938685486-12-1776456612 - Holdem no limit (25/100/200) - 2026/04/17 20:10:12 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (19250, 0.50€ bounty)
+Seat 2: CyBerSoiiN (42563, 0.60€ bounty)
+Seat 3: CAPE F34R (16751, 0.50€ bounty)
+Seat 4: d4xter (14167, 0.50€ bounty)
+Seat 5: Soum67 (31483, 0.50€ bounty)
+Seat 6: jougueiret (36236, 0.60€ bounty)
+*** ANTE/BLINDS ***
+CyBerSoiiN posts ante 25
+CAPE F34R posts ante 25
+MathisKcr posts ante 25
+d4xter posts ante 25
+Soum67 posts ante 25
+jougueiret posts ante 25
+CyBerSoiiN posts small blind 100
+CAPE F34R posts big blind 200
+Dealt to MathisKcr [Qd 9c]
+*** PRE-FLOP *** 
+d4xter folds
+Soum67 folds
+jougueiret calls 200
+MathisKcr raises 200 to 400
+CyBerSoiiN calls 300
+CAPE F34R calls 200
+jougueiret calls 200
+*** FLOP *** [Ks Tc Th]
+CyBerSoiiN checks
+CAPE F34R checks
+jougueiret checks
+MathisKcr checks
+*** TURN *** [Ks Tc Th][Ac]
+CyBerSoiiN checks
+CAPE F34R checks
+jougueiret bets 1750
+MathisKcr folds
+CyBerSoiiN folds
+CAPE F34R folds
+jougueiret collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | No rake
+Board: [Ks Tc Th Ac]
+Seat 6: jougueiret won 3500
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4644200814938685486-13-1776456689 - Holdem no limit (25/100/200) - 2026/04/17 20:11:29 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (18825, 0.50€ bounty)
+Seat 2: CyBerSoiiN (42138, 0.60€ bounty)
+Seat 3: CAPE F34R (16326, 0.50€ bounty)
+Seat 4: d4xter (14142, 0.50€ bounty)
+Seat 5: Soum67 (31458, 0.50€ bounty)
+Seat 6: jougueiret (37561, 0.60€ bounty)
+*** ANTE/BLINDS ***
+CAPE F34R posts ante 25
+d4xter posts ante 25
+MathisKcr posts ante 25
+CyBerSoiiN posts ante 25
+Soum67 posts ante 25
+jougueiret posts ante 25
+CAPE F34R posts small blind 100
+d4xter posts big blind 200
+Dealt to MathisKcr [5s Qs]
+*** PRE-FLOP *** 
+Soum67 calls 200
+jougueiret folds
+MathisKcr raises 200 to 400
+CyBerSoiiN calls 400
+CAPE F34R folds
+d4xter folds
+Soum67 calls 200
+*** FLOP *** [Tc 6h Jh]
+Soum67 checks
+MathisKcr checks
+CyBerSoiiN bets 825
+Soum67 calls 825
+MathisKcr folds
+*** TURN *** [Tc 6h Jh][Qh]
+Soum67 bets 3300
+CyBerSoiiN calls 3300
+*** RIVER *** [Tc 6h Jh Qh][8d]
+Soum67 bets 26908 and is all-in
+CyBerSoiiN calls 26908
+*** SHOW DOWN ***
+CyBerSoiiN shows [9s Qc] (Straight Queen high)
+Soum67 shows [7h 4h] (Flush Queen high)
+Soum67 collected 63716 from pot
+*** SUMMARY ***
+Total pot 63716 | No rake
+Board: [Tc 6h Jh Qh 8d]
+Seat 2: CyBerSoiiN (button) showed [9s Qc] and lost with Straight Queen high
+Seat 5: Soum67 showed [7h 4h] and won 63716 with Flush Queen high
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4644200814938685486-14-1776456797 - Holdem no limit (25/100/200) - 2026/04/17 20:13:17 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (18400, 0.50€ bounty)
+Seat 2: CyBerSoiiN (10680, 0.60€ bounty)
+Seat 3: CAPE F34R (16201, 0.50€ bounty)
+Seat 4: d4xter (13917, 0.50€ bounty)
+Seat 5: Soum67 (63716, 0.50€ bounty)
+*** ANTE/BLINDS ***
+d4xter posts ante 25
+Soum67 posts ante 25
+MathisKcr posts ante 25
+CyBerSoiiN posts ante 25
+CAPE F34R posts ante 25
+d4xter posts small blind 100
+Soum67 posts big blind 200
+Dealt to MathisKcr [Jh 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+CyBerSoiiN raises 400 to 600
+CAPE F34R calls 600
+d4xter calls 500
+Soum67 folds
+*** FLOP *** [2c 9s Jc]
+d4xter bets 1063
+CyBerSoiiN raises 8992 to 10055 and is all-in
+CAPE F34R folds
+d4xter folds
+CyBerSoiiN collected 13243 from pot
+*** SUMMARY ***
+Total pot 13243 | No rake
+Board: [2c 9s Jc]
+Seat 2: CyBerSoiiN won 13243
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4644200814938685486-15-1776456866 - Holdem no limit (25/100/200) - 2026/04/17 20:14:26 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (18375, 0.50€ bounty)
+Seat 2: CyBerSoiiN (13243, 0.60€ bounty)
+Seat 3: CAPE F34R (15576, 0.50€ bounty)
+Seat 4: d4xter (12229, 0.50€ bounty)
+Seat 5: Soum67 (63491, 0.50€ bounty)
+Seat 6: Cyra46 (20000, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 25
+Cyra46 posts ante 25
+MathisKcr posts ante 25
+CyBerSoiiN posts ante 25
+CAPE F34R posts ante 25
+d4xter posts ante 25
+Soum67 posts small blind 100
+Cyra46 posts big blind 200
+Dealt to MathisKcr [4s Qs]
+*** PRE-FLOP *** 
+MathisKcr folds
+CyBerSoiiN folds
+CAPE F34R folds
+d4xter folds
+Soum67 calls 100
+Cyra46 checks
+*** FLOP *** [3d 3s 4d]
+Soum67 checks
+Cyra46 checks
+*** TURN *** [3d 3s 4d][6c]
+Soum67 checks
+Cyra46 checks
+*** RIVER *** [3d 3s 4d 6c][As]
+Soum67 checks
+Cyra46 checks
+*** SHOW DOWN ***
+Cyra46 shows [2c 7c] (One pair : 3)
+Soum67 shows [8h Kh] (One pair : 3)
+Soum67 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [3d 3s 4d 6c As]
+Seat 5: Soum67 (small blind) showed [8h Kh] and won 550 with One pair : 3
+Seat 6: Cyra46 (big blind) showed [2c 7c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4644200814938685486-16-1776456913 - Holdem no limit (25/100/200) - 2026/04/17 20:15:13 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (18350, 0.50€ bounty)
+Seat 2: CyBerSoiiN (13218, 0.60€ bounty)
+Seat 3: CAPE F34R (15551, 0.50€ bounty)
+Seat 4: d4xter (12204, 0.50€ bounty)
+Seat 5: Soum67 (63816, 0.50€ bounty)
+Seat 6: Cyra46 (19775, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Cyra46 posts ante 25
+MathisKcr posts ante 25
+CyBerSoiiN posts ante 25
+CAPE F34R posts ante 25
+d4xter posts ante 25
+Soum67 posts ante 25
+Cyra46 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [9d Qc]
+*** PRE-FLOP *** 
+CyBerSoiiN folds
+CAPE F34R folds
+d4xter raises 400 to 600
+Soum67 calls 600
+Cyra46 folds
+MathisKcr calls 400
+*** FLOP *** [Kd Tc Kc]
+MathisKcr bets 718
+d4xter calls 718
+Soum67 folds
+*** TURN *** [Kd Tc Kc][2d]
+MathisKcr checks
+d4xter checks
+*** RIVER *** [Kd Tc Kc 2d][7d]
+MathisKcr bets 1743
+d4xter folds
+MathisKcr collected 5229 from pot
+*** SUMMARY ***
+Total pot 5229 | No rake
+Board: [Kd Tc Kc 2d 7d]
+Seat 1: MathisKcr (big blind) won 5229
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4644200814938685486-17-1776457014 - Holdem no limit (25/100/200) - 2026/04/17 20:16:54 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (20493, 0.50€ bounty)
+Seat 2: CyBerSoiiN (13193, 0.60€ bounty)
+Seat 3: CAPE F34R (15526, 0.50€ bounty)
+Seat 4: d4xter (10861, 0.50€ bounty)
+Seat 5: Soum67 (63191, 0.50€ bounty)
+Seat 6: Cyra46 (19650, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+CyBerSoiiN posts ante 25
+CAPE F34R posts ante 25
+d4xter posts ante 25
+Soum67 posts ante 25
+Cyra46 posts ante 25
+MathisKcr posts small blind 100
+CyBerSoiiN posts big blind 200
+Dealt to MathisKcr [Kc Jc]
+*** PRE-FLOP *** 
+CAPE F34R raises 200 to 400
+d4xter folds
+Soum67 calls 400
+Cyra46 folds
+MathisKcr raises 800 to 1200
+CyBerSoiiN raises 11968 to 13168 and is all-in
+CAPE F34R raises 2333 to 15501 and is all-in
+Soum67 calls 15101
+MathisKcr folds
+*** FLOP *** [Ks Qh 2s]
+*** TURN *** [Ks Qh 2s][4h]
+*** RIVER *** [Ks Qh 2s 4h][Qs]
+*** SHOW DOWN ***
+CyBerSoiiN shows [Ac Td] (One pair : Queens)
+CAPE F34R shows [Ad Qd] (Trips of Queens)
+Soum67 shows [As Ts] (Flush Ace high)
+Soum67 collected 45520 from pot
+*** SUMMARY ***
+Total pot 45520 | No rake
+Board: [Ks Qh 2s 4h Qs]
+Seat 2: CyBerSoiiN (big blind) showed [Ac Td] and lost with One pair : Queens
+Seat 3: CAPE F34R showed [Ad Qd] and lost with Trips of Queens
+Seat 5: Soum67 showed [As Ts] and won 45520 with Flush Ace high
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4644200814938685486-18-1776457154 - Holdem no limit (25/100/200) - 2026/04/17 20:19:14 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (19268, 0.50€ bounty)
+Seat 3: Elsa and co (26517, 0.50€ bounty)
+Seat 4: d4xter (10836, 0.50€ bounty)
+Seat 5: Soum67 (93185, 0.72€ bounty)
+Seat 6: Cyra46 (19625, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Elsa and co posts ante 25
+MathisKcr posts ante 25
+d4xter posts ante 25
+Soum67 posts ante 25
+Cyra46 posts ante 25
+Elsa and co posts big blind 200
+Dealt to MathisKcr [3c 9d]
+*** PRE-FLOP *** 
+d4xter folds
+Soum67 calls 200
+Cyra46 raises 300 to 500
+MathisKcr folds
+Elsa and co calls 300
+Soum67 calls 300
+*** FLOP *** [7s 4d 5s]
+Elsa and co bets 1625
+Soum67 folds
+Cyra46 calls 1625
+*** TURN *** [7s 4d 5s][9c]
+Elsa and co bets 4875
+Cyra46 folds
+Elsa and co collected 9750 from pot
+*** SUMMARY ***
+Total pot 9750 | No rake
+Board: [7s 4d 5s 9c]
+Seat 3: Elsa and co (big blind) won 9750
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4644200814938685486-19-1776457219 - Holdem no limit (30/125/250) - 2026/04/17 20:20:19 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (19243, 0.50€ bounty)
+Seat 2: djobar85 (20000, 0.50€ bounty)
+Seat 3: Elsa and co (29242, 0.50€ bounty)
+Seat 4: d4xter (10811, 0.50€ bounty)
+Seat 5: Soum67 (92660, 0.72€ bounty)
+Seat 6: Cyra46 (17475, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Elsa and co posts ante 30
+d4xter posts ante 30
+MathisKcr posts ante 30
+Soum67 posts ante 30
+Cyra46 posts ante 30
+Elsa and co posts small blind 125
+d4xter posts big blind 250
+Dealt to MathisKcr [4h 8d]
+*** PRE-FLOP *** 
+Soum67 calls 250
+Cyra46 folds
+MathisKcr folds
+Elsa and co calls 125
+d4xter checks
+*** FLOP *** [9d 2c 4s]
+Elsa and co checks
+d4xter checks
+Soum67 checks
+*** TURN *** [9d 2c 4s][3h]
+Elsa and co checks
+d4xter bets 625
+Soum67 folds
+Elsa and co folds
+d4xter collected 1525 from pot
+*** SUMMARY ***
+Total pot 1525 | No rake
+Board: [9d 2c 4s 3h]
+Seat 4: d4xter (big blind) won 1525
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4644200814938685486-20-1776457290 - Holdem no limit (30/125/250) - 2026/04/17 20:21:30 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (19213, 0.50€ bounty)
+Seat 2: djobar85 (20000, 0.50€ bounty)
+Seat 3: Elsa and co (28962, 0.50€ bounty)
+Seat 4: d4xter (11431, 0.50€ bounty)
+Seat 5: Soum67 (92380, 0.72€ bounty)
+Seat 6: Cyra46 (17445, 0.50€ bounty)
+*** ANTE/BLINDS ***
+d4xter posts ante 30
+Soum67 posts ante 30
+MathisKcr posts ante 30
+djobar85 posts ante 30
+Elsa and co posts ante 30
+Cyra46 posts ante 30
+d4xter posts small blind 125
+Soum67 posts big blind 250
+Dealt to MathisKcr [Jd 3h]
+*** PRE-FLOP *** 
+Cyra46 folds
+MathisKcr folds
+djobar85 calls 250
+Elsa and co folds
+d4xter calls 125
+Soum67 checks
+*** FLOP *** [Qh 7h 9h]
+d4xter checks
+Soum67 checks
+djobar85 bets 930
+d4xter folds
+Soum67 folds
+djobar85 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [Qh 7h 9h]
+Seat 2: djobar85 won 1860
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4644200814938685486-21-1776457358 - Holdem no limit (30/125/250) - 2026/04/17 20:22:38 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (19183, 0.50€ bounty)
+Seat 2: djobar85 (20650, 0.50€ bounty)
+Seat 3: Elsa and co (28932, 0.50€ bounty)
+Seat 4: d4xter (11151, 0.50€ bounty)
+Seat 5: Soum67 (92100, 0.72€ bounty)
+Seat 6: Cyra46 (17415, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 30
+Cyra46 posts ante 30
+MathisKcr posts ante 30
+djobar85 posts ante 30
+Elsa and co posts ante 30
+d4xter posts ante 30
+Soum67 posts small blind 125
+Cyra46 posts big blind 250
+Dealt to MathisKcr [3c 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+djobar85 raises 250 to 500
+Elsa and co calls 500
+d4xter raises 1000 to 1500
+Soum67 calls 1375
+Cyra46 calls 1250
+djobar85 raises 19120 to 20620 and is all-in
+Elsa and co folds
+d4xter calls 9621 and is all-in
+Soum67 folds
+Cyra46 folds
+*** FLOP *** [7h 2d 3h]
+*** TURN *** [7h 2d 3h][6h]
+*** RIVER *** [7h 2d 3h 6h][4h]
+*** SHOW DOWN ***
+d4xter shows [Kc Kd] (One pair : Kings)
+djobar85 shows [8h 8c] (Flush 8 high)
+djobar85 collected 35421 from pot
+*** SUMMARY ***
+Total pot 35421 | No rake
+Board: [7h 2d 3h 6h 4h]
+Seat 2: djobar85 showed [8h 8c] and won 35421 with Flush 8 high
+Seat 4: d4xter (button) showed [Kc Kd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4644200814938685486-22-1776457433 - Holdem no limit (30/125/250) - 2026/04/17 20:23:53 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (19153, 0.50€ bounty)
+Seat 2: djobar85 (35421, 0.60€ bounty)
+Seat 3: Elsa and co (28402, 0.50€ bounty)
+Seat 5: Soum67 (90570, 0.72€ bounty)
+Seat 6: Cyra46 (15885, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Cyra46 posts ante 30
+MathisKcr posts ante 30
+djobar85 posts ante 30
+Elsa and co posts ante 30
+Soum67 posts ante 30
+Cyra46 posts small blind 125
+MathisKcr posts big blind 250
+Dealt to MathisKcr [5s 8s]
+*** PRE-FLOP *** 
+djobar85 calls 250
+Elsa and co folds
+Soum67 calls 250
+Cyra46 calls 125
+MathisKcr checks
+*** FLOP *** [5c As 3s]
+Cyra46 checks
+MathisKcr bets 575
+djobar85 calls 575
+Soum67 folds
+Cyra46 calls 575
+*** TURN *** [5c As 3s][Jd]
+Cyra46 checks
+MathisKcr checks
+djobar85 bets 1006
+Cyra46 folds
+MathisKcr calls 1006
+*** RIVER *** [5c As 3s Jd][4c]
+MathisKcr checks
+djobar85 checks
+*** SHOW DOWN ***
+MathisKcr shows [5s 8s] (One pair : 5)
+djobar85 shows [Ts 5h] (One pair : 5)
+djobar85 collected 4887 from pot
+*** SUMMARY ***
+Total pot 4887 | No rake
+Board: [5c As 3s Jd 4c]
+Seat 1: MathisKcr (big blind) showed [5s 8s] and lost with One pair : 5
+Seat 2: djobar85 showed [Ts 5h] and won 4887 with One pair : 5
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4644200814938685486-23-1776457494 - Holdem no limit (35/150/300) - 2026/04/17 20:24:54 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (17292, 0.50€ bounty)
+Seat 2: djobar85 (38447, 0.60€ bounty)
+Seat 3: Elsa and co (28372, 0.50€ bounty)
+Seat 4: PsykoGz (20000, 0.50€ bounty)
+Seat 5: Soum67 (90290, 0.72€ bounty)
+Seat 6: Cyra46 (15030, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 35
+djobar85 posts ante 35
+Elsa and co posts ante 35
+PsykoGz posts ante 35
+Soum67 posts ante 35
+Cyra46 posts ante 35
+MathisKcr posts small blind 150
+djobar85 posts big blind 300
+Dealt to MathisKcr [3h 3c]
+*** PRE-FLOP *** 
+Elsa and co raises 600 to 900
+PsykoGz calls 900
+Soum67 folds
+Cyra46 folds
+MathisKcr raises 16357 to 17257 and is all-in
+djobar85 folds
+Elsa and co folds
+PsykoGz folds
+MathisKcr collected 19567 from pot
+*** SUMMARY ***
+Total pot 19567 | No rake
+Seat 1: MathisKcr (small blind) won 19567
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4644200814938685486-24-1776457569 - Holdem no limit (35/150/300) - 2026/04/17 20:26:09 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (19567, 0.50€ bounty)
+Seat 2: djobar85 (38112, 0.60€ bounty)
+Seat 3: Elsa and co (27437, 0.50€ bounty)
+Seat 4: PsykoGz (19065, 0.50€ bounty)
+Seat 5: Soum67 (90255, 0.72€ bounty)
+Seat 6: Cyra46 (14995, 0.50€ bounty)
+*** ANTE/BLINDS ***
+djobar85 posts ante 35
+Elsa and co posts ante 35
+MathisKcr posts ante 35
+PsykoGz posts ante 35
+Soum67 posts ante 35
+Cyra46 posts ante 35
+djobar85 posts small blind 150
+Elsa and co posts big blind 300
+Dealt to MathisKcr [3s Ac]
+*** PRE-FLOP *** 
+PsykoGz calls 300
+Soum67 raises 1260 to 1560
+Cyra46 folds
+MathisKcr calls 1560
+djobar85 calls 1410
+Elsa and co folds
+PsykoGz calls 1260
+*** FLOP *** [9d 2s 3h]
+djobar85 bets 1913
+PsykoGz calls 1913
+Soum67 raises 12489 to 14402
+MathisKcr folds
+djobar85 folds
+PsykoGz raises 3068 to 17470 and is all-in
+Soum67 calls 3068
+*** TURN *** [9d 2s 3h][Ts]
+*** RIVER *** [9d 2s 3h Ts][Ks]
+*** SHOW DOWN ***
+PsykoGz shows [Ah 4h] (High card : Ace)
+Soum67 shows [Jc Js] (One pair : Jacks)
+Soum67 collected 43603 from pot
+*** SUMMARY ***
+Total pot 43603 | No rake
+Board: [9d 2s 3h Ts Ks]
+Seat 4: PsykoGz showed [Ah 4h] and lost with High card : Ace
+Seat 5: Soum67 showed [Jc Js] and won 43603 with One pair : Jacks
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4644200814938685486-25-1776457714 - Holdem no limit (40/175/350) - 2026/04/17 20:28:34 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (17972, 0.50€ bounty)
+Seat 2: djobar85 (34604, 0.60€ bounty)
+Seat 3: Elsa and co (27102, 0.50€ bounty)
+Seat 5: Soum67 (114793, 1.22€ bounty)
+Seat 6: Cyra46 (14960, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Elsa and co posts ante 40
+Soum67 posts ante 40
+MathisKcr posts ante 40
+djobar85 posts ante 40
+Cyra46 posts ante 40
+Elsa and co posts small blind 175
+Soum67 posts big blind 350
+Dealt to MathisKcr [4d 9h]
+*** PRE-FLOP *** 
+Cyra46 folds
+MathisKcr folds
+djobar85 calls 350
+Elsa and co folds
+Soum67 checks
+*** FLOP *** [Jc 3s 9d]
+Soum67 bets 376
+djobar85 raises 376 to 752
+Soum67 calls 376
+*** TURN *** [Jc 3s 9d][Tc]
+Soum67 checks
+djobar85 bets 1676
+Soum67 calls 1676
+*** RIVER *** [Jc 3s 9d Tc][Ks]
+Soum67 checks
+djobar85 checks
+*** SHOW DOWN ***
+Soum67 shows [3d 8s] (One pair : 3)
+djobar85 shows [Ah Ac] (One pair : Aces)
+djobar85 collected 5931 from pot
+*** SUMMARY ***
+Total pot 5931 | No rake
+Board: [Jc 3s 9d Tc Ks]
+Seat 2: djobar85 (button) showed [Ah Ac] and won 5931 with One pair : Aces
+Seat 5: Soum67 (big blind) showed [3d 8s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4644200814938685486-26-1776457805 - Holdem no limit (40/175/350) - 2026/04/17 20:30:05 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (17932, 0.50€ bounty)
+Seat 2: djobar85 (37717, 0.60€ bounty)
+Seat 3: Elsa and co (26887, 0.50€ bounty)
+Seat 4: jamweez (20000, 0.50€ bounty)
+Seat 5: Soum67 (111975, 1.22€ bounty)
+Seat 6: Cyra46 (14920, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 40
+Cyra46 posts ante 40
+MathisKcr posts ante 40
+djobar85 posts ante 40
+Elsa and co posts ante 40
+Soum67 posts small blind 175
+Cyra46 posts big blind 350
+Dealt to MathisKcr [Ac Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 350 to 700
+djobar85 folds
+Elsa and co folds
+Soum67 folds
+Cyra46 folds
+MathisKcr collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | No rake
+Seat 1: MathisKcr won 1425
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4644200814938685486-27-1776457849 - Holdem no limit (40/175/350) - 2026/04/17 20:30:49 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (18617, 0.50€ bounty)
+Seat 2: djobar85 (37677, 0.60€ bounty)
+Seat 3: Elsa and co (26847, 0.50€ bounty)
+Seat 4: jamweez (20000, 0.50€ bounty)
+Seat 5: Soum67 (111760, 1.22€ bounty)
+Seat 6: Cyra46 (14530, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Cyra46 posts ante 40
+MathisKcr posts ante 40
+djobar85 posts ante 40
+Elsa and co posts ante 40
+jamweez posts ante 40
+Soum67 posts ante 40
+Cyra46 posts small blind 175
+MathisKcr posts big blind 350
+Dealt to MathisKcr [9h 9s]
+*** PRE-FLOP *** 
+djobar85 calls 350
+Elsa and co folds
+jamweez raises 438 to 788
+Soum67 folds
+Cyra46 folds
+MathisKcr raises 17789 to 18577 and is all-in
+djobar85 folds
+jamweez calls 17789
+*** FLOP *** [Js Ac Kh]
+*** TURN *** [Js Ac Kh][Tc]
+*** RIVER *** [Js Ac Kh Tc][3h]
+*** SHOW DOWN ***
+jamweez shows [8c 8d] (One pair : 8)
+MathisKcr shows [9h 9s] (One pair : 9)
+MathisKcr collected 37919 from pot
+*** SUMMARY ***
+Total pot 37919 | No rake
+Board: [Js Ac Kh Tc 3h]
+Seat 1: MathisKcr (big blind) showed [9h 9s] and won 37919 with One pair : 9
+Seat 4: jamweez showed [8c 8d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4644200814938685486-28-1776457912 - Holdem no limit (40/175/350) - 2026/04/17 20:31:52 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (37919, 0.50€ bounty)
+Seat 2: djobar85 (37287, 0.60€ bounty)
+Seat 3: Elsa and co (26807, 0.50€ bounty)
+Seat 4: jamweez (1383, 0.50€ bounty)
+Seat 5: Soum67 (111720, 1.22€ bounty)
+Seat 6: Cyra46 (14315, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 40
+djobar85 posts ante 40
+Elsa and co posts ante 40
+jamweez posts ante 40
+Soum67 posts ante 40
+Cyra46 posts ante 40
+MathisKcr posts small blind 175
+djobar85 posts big blind 350
+Dealt to MathisKcr [Qd 4d]
+*** PRE-FLOP *** 
+Elsa and co folds
+jamweez folds
+Soum67 calls 350
+Cyra46 folds
+MathisKcr raises 350 to 700
+djobar85 calls 350
+Soum67 calls 350
+*** FLOP *** [4s 8d 9c]
+MathisKcr bets 819
+djobar85 calls 819
+Soum67 folds
+*** TURN *** [4s 8d 9c][6d]
+MathisKcr checks
+djobar85 bets 1392
+MathisKcr calls 1392
+*** RIVER *** [4s 8d 9c 6d][4h]
+MathisKcr bets 1691
+djobar85 calls 1691
+*** SHOW DOWN ***
+djobar85 shows [7s 7h] (Two pairs : 7 and 4)
+MathisKcr shows [Qd 4d] (Trips of 4)
+MathisKcr collected 10144 from pot
+*** SUMMARY ***
+Total pot 10144 | No rake
+Board: [4s 8d 9c 6d 4h]
+Seat 1: MathisKcr (small blind) showed [Qd 4d] and won 10144 with Trips of 4
+Seat 2: djobar85 (big blind) showed [7s 7h] and lost with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4644200814938685486-29-1776457977 - Holdem no limit (50/200/400) - 2026/04/17 20:32:57 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (43421, 0.50€ bounty)
+Seat 2: djobar85 (32645, 0.60€ bounty)
+Seat 3: Elsa and co (26767, 0.50€ bounty)
+Seat 4: jamweez (1343, 0.50€ bounty)
+Seat 5: Soum67 (110980, 1.22€ bounty)
+Seat 6: Cyra46 (14275, 0.50€ bounty)
+*** ANTE/BLINDS ***
+djobar85 posts ante 50
+Elsa and co posts ante 50
+MathisKcr posts ante 50
+jamweez posts ante 50
+Soum67 posts ante 50
+Cyra46 posts ante 50
+djobar85 posts small blind 200
+Elsa and co posts big blind 400
+Dealt to MathisKcr [6c Ks]
+*** PRE-FLOP *** 
+jamweez raises 893 to 1293 and is all-in
+Soum67 folds
+Cyra46 folds
+MathisKcr calls 1293
+djobar85 calls 1093
+Elsa and co folds
+*** FLOP *** [8c 3c As]
+djobar85 bets 400
+MathisKcr raises 2490 to 2890
+djobar85 calls 2490
+*** TURN *** [8c 3c As][4h]
+djobar85 bets 400
+MathisKcr calls 400
+*** RIVER *** [8c 3c As 4h][Kd]
+djobar85 bets 3906
+MathisKcr calls 3906
+*** SHOW DOWN ***
+djobar85 shows [5d 3d] (One pair : 3)
+MathisKcr shows [6c Ks] (One pair : Kings)
+jamweez shows [4c 4s] (Trips of 4)
+jamweez collected 4579 from main pot
+MathisKcr collected 14392 from side pot 1
+*** SUMMARY ***
+Total pot 18971 | No rake
+Board: [8c 3c As 4h Kd]
+Seat 1: MathisKcr (button) showed [6c Ks] and won 14392 with One pair : Kings
+Seat 2: djobar85 (small blind) showed [5d 3d] and lost with One pair : 3
+Seat 4: jamweez showed [4c 4s] and won 4579 with Trips of 4
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4644200814938685486-30-1776458028 - Holdem no limit (50/200/400) - 2026/04/17 20:33:48 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (49274, 0.50€ bounty)
+Seat 2: djobar85 (24106, 0.60€ bounty)
+Seat 3: Elsa and co (26317, 0.50€ bounty)
+Seat 4: jamweez (4579, 0.50€ bounty)
+Seat 5: Soum67 (110930, 1.22€ bounty)
+Seat 6: Cyra46 (14225, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Elsa and co posts ante 50
+jamweez posts ante 50
+MathisKcr posts ante 50
+djobar85 posts ante 50
+Soum67 posts ante 50
+Cyra46 posts ante 50
+Elsa and co posts small blind 200
+jamweez posts big blind 400
+Dealt to MathisKcr [2d Tc]
+*** PRE-FLOP *** 
+Soum67 folds
+Cyra46 folds
+MathisKcr folds
+djobar85 calls 400
+Elsa and co calls 200
+jamweez raises 4129 to 4529 and is all-in
+djobar85 calls 4129
+Elsa and co raises 21738 to 26267 and is all-in
+djobar85 calls 19527 and is all-in
+*** FLOP *** [3h 6d 8s]
+*** TURN *** [3h 6d 8s][8c]
+*** RIVER *** [3h 6d 8s 8c][6h]
+*** SHOW DOWN ***
+djobar85 shows [6s Jh] (Full of 6 and 8)
+Elsa and co shows [2h 2c] (Two pairs : 8 and 6)
+jamweez shows [8d 8h] (Quads of 8)
+jamweez collected 13887 from main pot
+Elsa and co collected 2211 from side pot 2
+djobar85 collected 39054 from side pot 1
+*** SUMMARY ***
+Total pot 55152 | No rake
+Board: [3h 6d 8s 8c 6h]
+Seat 2: djobar85 (button) showed [6s Jh] and won 39054 with Full of 6 and 8
+Seat 3: Elsa and co (small blind) showed [2h 2c] and won 2211 with Two pairs : 8 and 6
+Seat 4: jamweez (big blind) showed [8d 8h] and won 13887 with Quads of 8
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4644200814938685486-31-1776458084 - Holdem no limit (50/200/400) - 2026/04/17 20:34:44 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (49224, 0.50€ bounty)
+Seat 2: djobar85 (39054, 0.60€ bounty)
+Seat 3: Elsa and co (2211, 0.50€ bounty)
+Seat 4: jamweez (13887, 0.50€ bounty)
+Seat 5: Soum67 (110880, 1.22€ bounty)
+Seat 6: Cyra46 (14175, 0.50€ bounty)
+*** ANTE/BLINDS ***
+jamweez posts ante 50
+Soum67 posts ante 50
+MathisKcr posts ante 50
+djobar85 posts ante 50
+Elsa and co posts ante 50
+Cyra46 posts ante 50
+jamweez posts small blind 200
+Soum67 posts big blind 400
+Dealt to MathisKcr [7s Jd]
+*** PRE-FLOP *** 
+Cyra46 folds
+MathisKcr raises 400 to 800
+djobar85 calls 800
+Elsa and co calls 800
+jamweez calls 600
+Soum67 calls 400
+*** FLOP *** [Ks 3d 4d]
+jamweez checks
+Soum67 checks
+MathisKcr checks
+djobar85 checks
+Elsa and co bets 1361 and is all-in
+jamweez raises 11676 to 13037 and is all-in
+Soum67 folds
+MathisKcr folds
+djobar85 folds
+*** TURN *** [Ks 3d 4d][7h]
+*** RIVER *** [Ks 3d 4d 7h][As]
+*** SHOW DOWN ***
+Elsa and co shows [Qd 2d] (High card : Ace)
+jamweez shows [9d 6d] (High card : Ace)
+jamweez collected 11676 from side pot 1
+Elsa and co collected 7022 from main pot
+*** SUMMARY ***
+Total pot 18698 | No rake
+Board: [Ks 3d 4d 7h As]
+Seat 3: Elsa and co (button) showed [Qd 2d] and won 7022 with High card : Ace
+Seat 4: jamweez (small blind) showed [9d 6d] and won 11676 with High card : Ace
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4644200814938685486-32-1776458156 - Holdem no limit (50/200/400) - 2026/04/17 20:35:56 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (48374, 0.50€ bounty)
+Seat 2: djobar85 (38204, 0.60€ bounty)
+Seat 3: Elsa and co (7022, 0.50€ bounty)
+Seat 4: jamweez (11676, 0.50€ bounty)
+Seat 5: Soum67 (110030, 1.22€ bounty)
+Seat 6: Cyra46 (14125, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 50
+Cyra46 posts ante 50
+MathisKcr posts ante 50
+djobar85 posts ante 50
+Elsa and co posts ante 50
+jamweez posts ante 50
+Soum67 posts small blind 200
+Cyra46 posts big blind 400
+Dealt to MathisKcr [2d Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 400 to 800
+djobar85 calls 800
+Elsa and co calls 800
+jamweez folds
+Soum67 folds
+Cyra46 folds
+*** FLOP *** [7s Jd Kc]
+MathisKcr checks
+djobar85 bets 400
+Elsa and co calls 400
+MathisKcr calls 400
+*** TURN *** [7s Jd Kc][6s]
+MathisKcr checks
+djobar85 bets 400
+Elsa and co calls 400
+MathisKcr calls 400
+*** RIVER *** [7s Jd Kc 6s][3h]
+MathisKcr checks
+djobar85 checks
+Elsa and co bets 400
+MathisKcr calls 400
+djobar85 folds
+*** SHOW DOWN ***
+MathisKcr shows [2d Ad] (High card : Ace)
+Elsa and co shows [Js Qh] (One pair : Jacks)
+Elsa and co collected 6500 from pot
+*** SUMMARY ***
+Total pot 6500 | No rake
+Board: [7s Jd Kc 6s 3h]
+Seat 1: MathisKcr showed [2d Ad] and lost with High card : Ace
+Seat 3: Elsa and co showed [Js Qh] and won 6500 with One pair : Jacks
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4644200814938685486-33-1776458223 - Holdem no limit (60/250/500) - 2026/04/17 20:37:03 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (46324, 0.50€ bounty)
+Seat 2: djobar85 (36554, 0.60€ bounty)
+Seat 3: Elsa and co (11472, 0.50€ bounty)
+Seat 4: jamweez (11626, 0.50€ bounty)
+Seat 5: Soum67 (109780, 1.22€ bounty)
+Seat 6: Cyra46 (13675, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Cyra46 posts ante 60
+MathisKcr posts ante 60
+djobar85 posts ante 60
+Elsa and co posts ante 60
+jamweez posts ante 60
+Soum67 posts ante 60
+Cyra46 posts small blind 250
+MathisKcr posts big blind 500
+Dealt to MathisKcr [Ad Th]
+*** PRE-FLOP *** 
+djobar85 folds
+Elsa and co calls 500
+jamweez folds
+Soum67 folds
+Cyra46 calls 250
+MathisKcr raises 1000 to 1500
+Elsa and co calls 1000
+Cyra46 calls 1000
+*** FLOP *** [5s Ac 7h]
+Cyra46 bets 3159
+MathisKcr calls 3159
+Elsa and co folds
+*** TURN *** [5s Ac 7h][Qs]
+Cyra46 bets 3912
+MathisKcr raises 37693 to 41605 and is all-in
+Cyra46 folds
+MathisKcr collected 56695 from pot
+*** SUMMARY ***
+Total pot 56695 | No rake
+Board: [5s Ac 7h Qs]
+Seat 1: MathisKcr (big blind) won 56695
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4644200814938685486-34-1776458298 - Holdem no limit (60/250/500) - 2026/04/17 20:38:18 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (56695, 0.50€ bounty)
+Seat 2: djobar85 (36494, 0.60€ bounty)
+Seat 3: Elsa and co (9912, 0.50€ bounty)
+Seat 4: jamweez (11566, 0.50€ bounty)
+Seat 5: Soum67 (109720, 1.22€ bounty)
+Seat 6: Cyra46 (5044, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 60
+djobar85 posts ante 60
+Elsa and co posts ante 60
+jamweez posts ante 60
+Soum67 posts ante 60
+Cyra46 posts ante 60
+MathisKcr posts small blind 250
+djobar85 posts big blind 500
+Dealt to MathisKcr [5s 4s]
+*** PRE-FLOP *** 
+Elsa and co calls 500
+jamweez folds
+Soum67 folds
+Cyra46 calls 500
+MathisKcr raises 1000 to 1500
+djobar85 calls 1000
+Elsa and co calls 1000
+Cyra46 calls 1000
+*** FLOP *** [9h Kh 5c]
+MathisKcr bets 1590
+djobar85 calls 1590
+Elsa and co folds
+Cyra46 folds
+*** TURN *** [9h Kh 5c][Td]
+MathisKcr checks
+djobar85 bets 1839
+MathisKcr calls 1839
+*** RIVER *** [9h Kh 5c Td][Tc]
+MathisKcr bets 3000
+djobar85 calls 3000
+*** SHOW DOWN ***
+MathisKcr shows [5s 4s] (Two pairs : Tens and 5)
+djobar85 shows [8c 9d] (Two pairs : Tens and 9)
+djobar85 collected 19218 from pot
+*** SUMMARY ***
+Total pot 19218 | No rake
+Board: [9h Kh 5c Td Tc]
+Seat 1: MathisKcr (small blind) showed [5s 4s] and lost with Two pairs : Tens and 5
+Seat 2: djobar85 (big blind) showed [8c 9d] and won 19218 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4644200814938685486-35-1776458391 - Holdem no limit (60/250/500) - 2026/04/17 20:39:51 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (48706, 0.50€ bounty)
+Seat 2: djobar85 (47723, 0.60€ bounty)
+Seat 3: Elsa and co (8352, 0.50€ bounty)
+Seat 4: jamweez (11506, 0.50€ bounty)
+Seat 5: Soum67 (109660, 1.22€ bounty)
+Seat 6: Cyra46 (3484, 0.50€ bounty)
+*** ANTE/BLINDS ***
+djobar85 posts ante 60
+Elsa and co posts ante 60
+MathisKcr posts ante 60
+jamweez posts ante 60
+Soum67 posts ante 60
+Cyra46 posts ante 60
+djobar85 posts small blind 250
+Elsa and co posts big blind 500
+Dealt to MathisKcr [Th 3s]
+*** PRE-FLOP *** 
+jamweez folds
+Soum67 folds
+Cyra46 raises 2924 to 3424 and is all-in
+MathisKcr folds
+djobar85 calls 3174
+Elsa and co folds
+*** FLOP *** [9h Js Jc]
+*** TURN *** [9h Js Jc][As]
+*** RIVER *** [9h Js Jc As][4s]
+*** SHOW DOWN ***
+Cyra46 shows [Kd Qd] (One pair : Jacks)
+djobar85 shows [Qs 9c] (Two pairs : Jacks and 9)
+djobar85 collected 7708 from pot
+*** SUMMARY ***
+Total pot 7708 | No rake
+Board: [9h Js Jc As 4s]
+Seat 2: djobar85 (small blind) showed [Qs 9c] and won 7708 with Two pairs : Jacks and 9
+Seat 6: Cyra46 showed [Kd Qd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4644200814938685486-36-1776458425 - Holdem no limit (70/300/600) - 2026/04/17 20:40:25 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (48646, 0.50€ bounty)
+Seat 2: djobar85 (51947, 0.70€ bounty)
+Seat 3: Elsa and co (7792, 0.50€ bounty)
+Seat 4: jamweez (11446, 0.50€ bounty)
+Seat 5: Soum67 (109600, 1.22€ bounty)
+*** ANTE/BLINDS ***
+Elsa and co posts ante 70
+jamweez posts ante 70
+MathisKcr posts ante 70
+djobar85 posts ante 70
+Soum67 posts ante 70
+Elsa and co posts small blind 300
+jamweez posts big blind 600
+Dealt to MathisKcr [4d Jc]
+*** PRE-FLOP *** 
+Soum67 calls 600
+MathisKcr folds
+djobar85 calls 600
+Elsa and co calls 300
+jamweez checks
+*** FLOP *** [4h Ah 2d]
+Elsa and co checks
+jamweez checks
+Soum67 checks
+djobar85 checks
+*** TURN *** [4h Ah 2d][Ts]
+Elsa and co bets 600
+jamweez folds
+Soum67 calls 600
+djobar85 folds
+*** RIVER *** [4h Ah 2d Ts][5s]
+Elsa and co checks
+Soum67 bets 15413
+Elsa and co folds
+Soum67 collected 19363 from pot
+*** SUMMARY ***
+Total pot 19363 | No rake
+Board: [4h Ah 2d Ts 5s]
+Seat 5: Soum67 won 19363
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4644200814938685486-37-1776458518 - Holdem no limit (70/300/600) - 2026/04/17 20:41:58 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (48576, 0.50€ bounty)
+Seat 2: djobar85 (51277, 0.70€ bounty)
+Seat 3: Elsa and co (6522, 0.50€ bounty)
+Seat 4: jamweez (10776, 0.50€ bounty)
+Seat 5: Soum67 (112280, 1.22€ bounty)
+Seat 6: SBShark7824 (20000, 0.50€ bounty)
+*** ANTE/BLINDS ***
+jamweez posts ante 70
+Soum67 posts ante 70
+MathisKcr posts ante 70
+djobar85 posts ante 70
+Elsa and co posts ante 70
+SBShark7824 posts ante 70
+jamweez posts small blind 300
+Soum67 posts big blind 600
+Dealt to MathisKcr [Th 7c]
+*** PRE-FLOP *** 
+SBShark7824 calls 600
+MathisKcr folds
+djobar85 calls 600
+Elsa and co calls 600
+jamweez folds
+Soum67 checks
+*** FLOP *** [3c Ad 2h]
+Soum67 checks
+SBShark7824 checks
+djobar85 bets 600
+Elsa and co calls 600
+Soum67 folds
+SBShark7824 calls 600
+*** TURN *** [3c Ad 2h][9d]
+SBShark7824 checks
+djobar85 bets 1200
+Elsa and co folds
+SBShark7824 folds
+djobar85 collected 6120 from pot
+*** SUMMARY ***
+Total pot 6120 | No rake
+Board: [3c Ad 2h 9d]
+Seat 2: djobar85 won 6120
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4644200814938685486-38-1776458600 - Holdem no limit (70/300/600) - 2026/04/17 20:43:20 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (48506, 0.50€ bounty)
+Seat 2: djobar85 (54927, 0.70€ bounty)
+Seat 3: Elsa and co (5252, 0.50€ bounty)
+Seat 4: jamweez (10406, 0.50€ bounty)
+Seat 5: Soum67 (111610, 1.22€ bounty)
+Seat 6: SBShark7824 (18730, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 70
+SBShark7824 posts ante 70
+MathisKcr posts ante 70
+djobar85 posts ante 70
+Elsa and co posts ante 70
+jamweez posts ante 70
+Soum67 posts small blind 300
+SBShark7824 posts big blind 600
+Dealt to MathisKcr [Qh 5d]
+*** PRE-FLOP *** 
+MathisKcr folds
+djobar85 calls 600
+Elsa and co calls 600
+jamweez raises 600 to 1200
+Soum67 folds
+SBShark7824 folds
+djobar85 raises 53657 to 54857 and is all-in
+Elsa and co folds
+jamweez calls 9136 and is all-in
+*** FLOP *** [Kh 3c 9c]
+*** TURN *** [Kh 3c 9c][6d]
+*** RIVER *** [Kh 3c 9c 6d][4h]
+*** SHOW DOWN ***
+jamweez shows [Tc Qs] (High card : King)
+djobar85 shows [Jd Kd] (One pair : Kings)
+djobar85 collected 67113 from pot
+*** SUMMARY ***
+Total pot 67113 | No rake
+Board: [Kh 3c 9c 6d 4h]
+Seat 2: djobar85 showed [Jd Kd] and won 67113 with One pair : Kings
+Seat 4: jamweez (button) showed [Tc Qs] and lost with High card : King
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #4644200814938685486-39-1776458690 - Holdem no limit (80/350/700) - 2026/04/17 20:44:50 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (48436, 0.50€ bounty)
+Seat 2: djobar85 (67113, 0.80€ bounty)
+Seat 3: Elsa and co (4582, 0.50€ bounty)
+Seat 5: Soum67 (111240, 1.22€ bounty)
+Seat 6: SBShark7824 (18060, 0.50€ bounty)
+*** ANTE/BLINDS ***
+SBShark7824 posts ante 80
+MathisKcr posts ante 80
+djobar85 posts ante 80
+Elsa and co posts ante 80
+Soum67 posts ante 80
+SBShark7824 posts small blind 350
+MathisKcr posts big blind 700
+Dealt to MathisKcr [3c As]
+*** PRE-FLOP *** 
+djobar85 calls 700
+Elsa and co raises 3802 to 4502 and is all-in
+Soum67 folds
+SBShark7824 raises 6753 to 11255
+MathisKcr folds
+djobar85 folds
+*** FLOP *** [Tc 5h 9c]
+*** TURN *** [Tc 5h 9c][Qc]
+*** RIVER *** [Tc 5h 9c Qc][9s]
+*** SHOW DOWN ***
+Elsa and co shows [Qh Jc] (Two pairs : Queens and 9)
+SBShark7824 shows [Qd Ad] (Two pairs : Queens and 9)
+SBShark7824 collected 17557 from pot
+*** SUMMARY ***
+Total pot 17557 | No rake
+Board: [Tc 5h 9c Qc 9s]
+Seat 3: Elsa and co showed [Qh Jc] and lost with Two pairs : Queens and 9
+Seat 6: SBShark7824 (small blind) showed [Qd Ad] and won 17557 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #4644200814938685486-40-1776458735 - Holdem no limit (80/350/700) - 2026/04/17 20:45:35 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (47656, 0.50€ bounty)
+Seat 2: djobar85 (66333, 0.80€ bounty)
+Seat 4: Fabulette07 (20000, 0.50€ bounty)
+Seat 5: Soum67 (111160, 1.22€ bounty)
+Seat 6: SBShark7824 (24282, 0.60€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 80
+djobar85 posts ante 80
+Fabulette07 posts ante 80
+Soum67 posts ante 80
+SBShark7824 posts ante 80
+MathisKcr posts small blind 350
+djobar85 posts big blind 700
+Dealt to MathisKcr [Ks Th]
+*** PRE-FLOP *** 
+Fabulette07 calls 700
+Soum67 folds
+SBShark7824 calls 700
+MathisKcr raises 700 to 1400
+djobar85 calls 700
+Fabulette07 calls 700
+SBShark7824 calls 700
+*** FLOP *** [Kd 2d 5s]
+MathisKcr bets 2100
+djobar85 calls 2100
+Fabulette07 raises 16420 to 18520 and is all-in
+SBShark7824 folds
+MathisKcr calls 16420
+djobar85 folds
+*** TURN *** [Kd 2d 5s][Js]
+*** RIVER *** [Kd 2d 5s Js][6s]
+*** SHOW DOWN ***
+Fabulette07 shows [8d 8s] (One pair : 8)
+MathisKcr shows [Ks Th] (One pair : Kings)
+MathisKcr collected 45140 from pot
+*** SUMMARY ***
+Total pot 45140 | No rake
+Board: [Kd 2d 5s Js 6s]
+Seat 1: MathisKcr (small blind) showed [Ks Th] and won 45140 with One pair : Kings
+Seat 4: Fabulette07 showed [8d 8s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #4644200814938685486-41-1776458798 - Holdem no limit (80/350/700) - 2026/04/17 20:46:38 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (72796, 0.60€ bounty)
+Seat 2: djobar85 (62753, 0.80€ bounty)
+Seat 3: Radicall (20000, 0.50€ bounty)
+Seat 5: Soum67 (111080, 1.22€ bounty)
+Seat 6: SBShark7824 (22802, 0.60€ bounty)
+*** ANTE/BLINDS ***
+djobar85 posts ante 80
+Radicall posts ante 80
+MathisKcr posts ante 80
+Soum67 posts ante 80
+SBShark7824 posts ante 80
+djobar85 posts small blind 350
+Radicall posts big blind 700
+Dealt to MathisKcr [8h Th]
+*** PRE-FLOP *** 
+Soum67 folds
+SBShark7824 folds
+MathisKcr raises 700 to 1400
+djobar85 calls 1050
+Radicall calls 700
+*** FLOP *** [Qc Ts 8c]
+djobar85 checks
+Radicall bets 4600
+MathisKcr raises 4600 to 9200
+djobar85 folds
+Radicall raises 9320 to 18520 and is all-in
+MathisKcr calls 9320
+*** TURN *** [Qc Ts 8c][4c]
+*** RIVER *** [Qc Ts 8c 4c][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [8h Th] (Two pairs : Queens and Tens)
+Radicall shows [Jc Qd] (Trips of Queens)
+Radicall collected 41640 from pot
+*** SUMMARY ***
+Total pot 41640 | No rake
+Board: [Qc Ts 8c 4c Qs]
+Seat 1: MathisKcr (button) showed [8h Th] and lost with Two pairs : Queens and Tens
+Seat 3: Radicall (big blind) showed [Jc Qd] and won 41640 with Trips of Queens
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #4644200814938685486-42-1776458838 - Holdem no limit (80/350/700) - 2026/04/17 20:47:18 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (52796, 0.60€ bounty)
+Seat 2: djobar85 (61273, 0.80€ bounty)
+Seat 3: Radicall (41640, 0.50€ bounty)
+Seat 5: Soum67 (111000, 1.22€ bounty)
+Seat 6: SBShark7824 (22722, 0.60€ bounty)
+*** ANTE/BLINDS ***
+Radicall posts ante 80
+Soum67 posts ante 80
+MathisKcr posts ante 80
+djobar85 posts ante 80
+SBShark7824 posts ante 80
+Radicall posts small blind 350
+Soum67 posts big blind 700
+Dealt to MathisKcr [Td Qh]
+*** PRE-FLOP *** 
+SBShark7824 folds
+MathisKcr raises 700 to 1400
+djobar85 calls 1400
+Radicall calls 1050
+Soum67 calls 700
+*** FLOP *** [5h Kc 9h]
+Radicall checks
+Soum67 checks
+MathisKcr checks
+djobar85 bets 1400
+Radicall folds
+Soum67 folds
+MathisKcr folds
+djobar85 collected 7400 from pot
+*** SUMMARY ***
+Total pot 7400 | No rake
+Board: [5h Kc 9h]
+Seat 2: djobar85 (button) won 7400
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #4644200814938685486-43-1776458936 - Holdem no limit (100/400/800) - 2026/04/17 20:48:56 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (51316, 0.60€ bounty)
+Seat 2: djobar85 (65793, 0.80€ bounty)
+Seat 3: Radicall (40160, 0.50€ bounty)
+Seat 4: bombi247 (20000, 0.50€ bounty)
+Seat 5: Soum67 (109520, 1.22€ bounty)
+Seat 6: SBShark7824 (22642, 0.60€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 100
+SBShark7824 posts ante 100
+MathisKcr posts ante 100
+djobar85 posts ante 100
+Radicall posts ante 100
+Soum67 posts small blind 400
+SBShark7824 posts big blind 800
+Dealt to MathisKcr [Kd Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 800 to 1600
+djobar85 calls 1600
+Radicall folds
+Soum67 folds
+SBShark7824 calls 800
+*** FLOP *** [9c 8s 4s]
+SBShark7824 checks
+MathisKcr checks
+djobar85 checks
+*** TURN *** [9c 8s 4s][2h]
+SBShark7824 checks
+MathisKcr checks
+djobar85 bets 800
+SBShark7824 calls 800
+MathisKcr calls 800
+*** RIVER *** [9c 8s 4s 2h][8d]
+SBShark7824 checks
+MathisKcr checks
+djobar85 bets 2835
+SBShark7824 folds
+MathisKcr folds
+djobar85 collected 10935 from pot
+*** SUMMARY ***
+Total pot 10935 | No rake
+Board: [9c 8s 4s 2h 8d]
+Seat 2: djobar85 won 10935
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #4644200814938685486-44-1776459020 - Holdem no limit (100/400/800) - 2026/04/17 20:50:20 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (48816, 0.60€ bounty)
+Seat 2: djobar85 (71393, 0.80€ bounty)
+Seat 3: Radicall (40060, 0.50€ bounty)
+Seat 4: bombi247 (20000, 0.50€ bounty)
+Seat 5: Soum67 (109020, 1.22€ bounty)
+Seat 6: SBShark7824 (20142, 0.60€ bounty)
+*** ANTE/BLINDS ***
+SBShark7824 posts ante 100
+MathisKcr posts ante 100
+djobar85 posts ante 100
+Radicall posts ante 100
+bombi247 posts ante 100
+Soum67 posts ante 100
+SBShark7824 posts small blind 400
+MathisKcr posts big blind 800
+Dealt to MathisKcr [6s 5s]
+*** PRE-FLOP *** 
+djobar85 calls 800
+Radicall calls 800
+bombi247 calls 800
+Soum67 calls 800
+SBShark7824 folds
+MathisKcr checks
+*** FLOP *** [6d 9h Td]
+MathisKcr checks
+djobar85 checks
+Radicall checks
+bombi247 bets 800
+Soum67 calls 800
+MathisKcr folds
+djobar85 calls 800
+Radicall calls 800
+*** TURN *** [6d 9h Td][8s]
+djobar85 checks
+Radicall checks
+bombi247 bets 800
+Soum67 folds
+djobar85 raises 2910 to 3710
+Radicall calls 3710
+bombi247 calls 2910
+*** RIVER *** [6d 9h Td 8s][Qh]
+djobar85 bets 3166
+Radicall raises 15572 to 18738
+bombi247 calls 14590 and is all-in
+djobar85 folds
+*** SHOW DOWN ***
+Radicall shows [7d Kd] (Straight Ten high)
+bombi247 shows [Jh Jc] (Straight Queen high)
+bombi247 collected 51676 from main pot
+Radicall collected 4148 from side pot 1
+*** SUMMARY ***
+Total pot 55824 | No rake
+Board: [6d 9h Td 8s Qh]
+Seat 3: Radicall showed [7d Kd] and won 4148 with Straight Ten high
+Seat 4: bombi247 showed [Jh Jc] and won 51676 with Straight Queen high
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #4644200814938685486-45-1776459235 - Holdem no limit (120/500/1000) - 2026/04/17 20:53:55 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (47916, 0.60€ bounty)
+Seat 2: djobar85 (62817, 0.80€ bounty)
+Seat 3: Radicall (20060, 0.50€ bounty)
+Seat 4: bombi247 (51676, 0.50€ bounty)
+Seat 5: Soum67 (107320, 1.22€ bounty)
+Seat 6: SBShark7824 (19642, 0.60€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+djobar85 posts ante 120
+Radicall posts ante 120
+bombi247 posts ante 120
+Soum67 posts ante 120
+SBShark7824 posts ante 120
+MathisKcr posts small blind 500
+djobar85 posts big blind 1000
+Dealt to MathisKcr [As Ah]
+*** PRE-FLOP *** 
+Radicall raises 18940 to 19940 and is all-in
+bombi247 calls 19940
+Soum67 folds
+SBShark7824 folds
+MathisKcr raises 27856 to 47796 and is all-in
+djobar85 folds
+bombi247 calls 27856
+*** FLOP *** [Kc Js 7s]
+*** TURN *** [Kc Js 7s][Jc]
+*** RIVER *** [Kc Js 7s Jc][Ad]
+*** SHOW DOWN ***
+Radicall shows [Ks Qc] (Two pairs : Kings and Jacks)
+bombi247 shows [Ac 9h] (Two pairs : Aces and Jacks)
+MathisKcr shows [As Ah] (Full of Aces and Jacks)
+MathisKcr collected 117252 from pot
+*** SUMMARY ***
+Total pot 117252 | No rake
+Board: [Kc Js 7s Jc Ad]
+Seat 1: MathisKcr (small blind) showed [As Ah] and won 117252 with Full of Aces and Jacks
+Seat 3: Radicall showed [Ks Qc] and lost with Two pairs : Kings and Jacks
+Seat 4: bombi247 showed [Ac 9h] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #4644200814938685486-46-1776459298 - Holdem no limit (120/500/1000) - 2026/04/17 20:54:58 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (117252, 0.70€ bounty)
+Seat 2: djobar85 (61697, 0.80€ bounty)
+Seat 4: bombi247 (3760, 0.50€ bounty)
+Seat 5: Soum67 (107200, 1.22€ bounty)
+Seat 6: SBShark7824 (19522, 0.60€ bounty)
+*** ANTE/BLINDS ***
+djobar85 posts ante 120
+bombi247 posts ante 120
+MathisKcr posts ante 120
+Soum67 posts ante 120
+SBShark7824 posts ante 120
+djobar85 posts small blind 500
+bombi247 posts big blind 1000
+Dealt to MathisKcr [Ad 4d]
+*** PRE-FLOP *** 
+Soum67 calls 1000
+SBShark7824 raises 2000 to 3000
+MathisKcr calls 3000
+djobar85 folds
+bombi247 raises 640 to 3640 and is all-in
+Soum67 calls 2640
+SBShark7824 calls 640
+MathisKcr calls 640
+*** FLOP *** [6h 5c 4h]
+Soum67 bets 15660
+SBShark7824 folds
+MathisKcr calls 15660
+*** TURN *** [6h 5c 4h][Kc]
+Soum67 bets 30537
+MathisKcr folds
+*** RIVER *** [6h 5c 4h Kc][2d]
+*** SHOW DOWN ***
+bombi247 shows [Ts Ks] (One pair : Kings)
+Soum67 shows [3c 6c] (Straight 6 high)
+Soum67 collected 77517 from pot
+*** SUMMARY ***
+Total pot 77517 | No rake
+Board: [6h 5c 4h Kc 2d]
+Seat 4: bombi247 (big blind) showed [Ts Ks] and lost with One pair : Kings
+Seat 5: Soum67 showed [3c 6c] and won 77517 with Straight 6 high
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #4644200814938685486-47-1776459660 - Holdem no limit (120/500/1000) - 2026/04/17 21:01:00 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (97832, 0.70€ bounty)
+Seat 2: djobar85 (61077, 0.80€ bounty)
+Seat 3: Farenheit9 (20000, 0.50€ bounty)
+Seat 4: Ivanveci (20000, 0.50€ bounty)
+Seat 5: Soum67 (134760, 1.32€ bounty)
+Seat 6: SBShark7824 (15762, 0.60€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 120
+MathisKcr posts ante 120
+djobar85 posts ante 120
+SBShark7824 posts ante 120
+Soum67 posts big blind 1000
+Dealt to MathisKcr [7c As]
+*** PRE-FLOP *** 
+SBShark7824 raises 1000 to 2000
+MathisKcr calls 2000
+djobar85 calls 2000
+Soum67 calls 1000
+*** FLOP *** [4c 7s 4h]
+Soum67 checks
+SBShark7824 checks
+MathisKcr bets 4240
+djobar85 folds
+Soum67 folds
+SBShark7824 raises 9402 to 13642 and is all-in
+MathisKcr calls 9402
+*** TURN *** [4c 7s 4h][Ah]
+*** RIVER *** [4c 7s 4h Ah][6h]
+*** SHOW DOWN ***
+SBShark7824 shows [Ks Ad] (Two pairs : Aces and 4)
+MathisKcr shows [7c As] (Two pairs : Aces and 7)
+MathisKcr collected 35764 from pot
+*** SUMMARY ***
+Total pot 35764 | No rake
+Board: [4c 7s 4h Ah 6h]
+Seat 1: MathisKcr showed [7c As] and won 35764 with Two pairs : Aces and 7
+Seat 6: SBShark7824 showed [Ks Ad] and lost with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #4644200814938685486-48-1776459732 - Holdem no limit (140/600/1200) - 2026/04/17 21:02:12 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (117834, 1€ bounty)
+Seat 2: djobar85 (58957, 0.80€ bounty)
+Seat 3: Farenheit9 (20000, 0.50€ bounty)
+Seat 4: Ivanveci (20000, 0.50€ bounty)
+Seat 5: Soum67 (132640, 1.32€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 140
+MathisKcr posts ante 140
+djobar85 posts ante 140
+Farenheit9 posts ante 140
+Soum67 posts small blind 600
+MathisKcr posts big blind 1200
+Dealt to MathisKcr [Qs 4h]
+*** PRE-FLOP *** 
+djobar85 calls 1200
+Farenheit9 calls 1200
+Soum67 calls 600
+MathisKcr checks
+*** FLOP *** [Kc 7d 8s]
+Soum67 checks
+MathisKcr checks
+djobar85 bets 5360
+Farenheit9 raises 13300 to 18660 and is all-in
+Soum67 folds
+MathisKcr folds
+djobar85 calls 13300
+*** TURN *** [Kc 7d 8s][Td]
+*** RIVER *** [Kc 7d 8s Td][3d]
+*** SHOW DOWN ***
+Farenheit9 shows [Kd 7h] (Two pairs : Kings and 7)
+djobar85 shows [8c 8h] (Trips of 8)
+djobar85 collected 42680 from pot
+*** SUMMARY ***
+Total pot 42680 | No rake
+Board: [Kc 7d 8s Td 3d]
+Seat 2: djobar85 showed [8c 8h] and won 42680 with Trips of 8
+Seat 3: Farenheit9 showed [Kd 7h] and lost with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #4644200814938685486-49-1776459809 - Holdem no limit (140/600/1200) - 2026/04/17 21:03:29 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (116494, 1€ bounty)
+Seat 2: djobar85 (81637, 1.05€ bounty)
+Seat 4: Ivanveci (20000, 0.50€ bounty)
+Seat 5: Soum67 (131300, 1.32€ bounty)
+Seat 6: IIlO0OlII (21240, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 140
+djobar85 posts ante 140
+Ivanveci posts ante 140
+Soum67 posts ante 140
+MathisKcr posts small blind 600
+djobar85 posts big blind 1200
+Dealt to MathisKcr [Kh Ac]
+*** PRE-FLOP *** 
+Ivanveci folds
+Soum67 folds
+MathisKcr raises 1200 to 2400
+djobar85 calls 1200
+*** FLOP *** [9s 5d 7h]
+MathisKcr bets 1876
+djobar85 calls 1876
+*** TURN *** [9s 5d 7h][Ad]
+MathisKcr bets 3189
+djobar85 raises 3189 to 6378
+MathisKcr calls 3189
+*** RIVER *** [9s 5d 7h Ad][3h]
+MathisKcr bets 14214
+djobar85 calls 14214
+*** SHOW DOWN ***
+djobar85 shows [Ts Ah] (One pair : Aces)
+MathisKcr shows [Kh Ac] (One pair : Aces)
+MathisKcr collected 50296 from pot
+*** SUMMARY ***
+Total pot 50296 | No rake
+Board: [9s 5d 7h Ad 3h]
+Seat 1: MathisKcr (small blind) showed [Kh Ac] and won 50296 with One pair : Aces
+Seat 2: djobar85 (big blind) showed [Ts Ah] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #4644200814938685486-50-1776459869 - Holdem no limit (140/600/1200) - 2026/04/17 21:04:29 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (141782, 1€ bounty)
+Seat 2: djobar85 (56629, 1.05€ bounty)
+Seat 3: RienADireBro (17480, 0.50€ bounty)
+Seat 4: Ivanveci (19860, 0.50€ bounty)
+Seat 5: Soum67 (131160, 1.32€ bounty)
+Seat 6: IIlO0OlII (21240, 0.50€ bounty)
+*** ANTE/BLINDS ***
+djobar85 posts ante 140
+RienADireBro posts ante 140
+MathisKcr posts ante 140
+Ivanveci posts ante 140
+Soum67 posts ante 140
+IIlO0OlII posts ante 140
+djobar85 posts small blind 600
+RienADireBro posts big blind 1200
+Dealt to MathisKcr [Kd Kc]
+*** PRE-FLOP *** 
+Ivanveci raises 18520 to 19720 and is all-in
+Soum67 folds
+IIlO0OlII folds
+MathisKcr calls 19720
+djobar85 raises 36769 to 56489 and is all-in
+RienADireBro folds
+MathisKcr calls 36769
+*** FLOP *** [3h 5c 6c]
+*** TURN *** [3h 5c 6c][As]
+*** RIVER *** [3h 5c 6c As][8s]
+*** SHOW DOWN ***
+djobar85 shows [Qd Qc] (One pair : Queens)
+MathisKcr shows [Kd Kc] (One pair : Kings)
+Ivanveci shows [5s 5d] (Trips of 5)
+Ivanveci collected 61200 from main pot
+MathisKcr collected 73538 from side pot 1
+*** SUMMARY ***
+Total pot 134738 | No rake
+Board: [3h 5c 6c As 8s]
+Seat 1: MathisKcr (button) showed [Kd Kc] and won 73538 with One pair : Kings
+Seat 2: djobar85 (small blind) showed [Qd Qc] and lost with One pair : Queens
+Seat 4: Ivanveci showed [5s 5d] and won 61200 with Trips of 5
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #4644200814938685486-51-1776459911 - Holdem no limit (140/600/1200) - 2026/04/17 21:05:11 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (158691, 1.21€ bounty)
+Seat 3: RienADireBro (16140, 0.50€ bounty)
+Seat 4: Ivanveci (61200, 0.50€ bounty)
+Seat 5: Soum67 (131020, 1.32€ bounty)
+Seat 6: IIlO0OlII (21100, 0.50€ bounty)
+*** ANTE/BLINDS ***
+RienADireBro posts ante 140
+Ivanveci posts ante 140
+MathisKcr posts ante 140
+Soum67 posts ante 140
+IIlO0OlII posts ante 140
+RienADireBro posts small blind 600
+Ivanveci posts big blind 1200
+Dealt to MathisKcr [As 8s]
+*** PRE-FLOP *** 
+Soum67 calls 1200
+IIlO0OlII folds
+MathisKcr raises 1200 to 2400
+RienADireBro folds
+Ivanveci folds
+Soum67 calls 1200
+*** FLOP *** [Qs 7h Jh]
+Soum67 checks
+MathisKcr checks
+*** TURN *** [Qs 7h Jh][8d]
+Soum67 checks
+MathisKcr bets 2555
+Soum67 folds
+MathisKcr collected 9855 from pot
+*** SUMMARY ***
+Total pot 9855 | No rake
+Board: [Qs 7h Jh 8d]
+Seat 1: MathisKcr won 9855
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #4644200814938685486-52-1776459977 - Holdem no limit (160/700/1400) - 2026/04/17 21:06:17 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (163451, 1.21€ bounty)
+Seat 2: Bobitoo74 (48252, 0.50€ bounty)
+Seat 3: RienADireBro (15400, 0.50€ bounty)
+Seat 4: Ivanveci (59860, 0.50€ bounty)
+Seat 5: Soum67 (128480, 1.32€ bounty)
+Seat 6: IIlO0OlII (20960, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Ivanveci posts ante 160
+Soum67 posts ante 160
+MathisKcr posts ante 160
+Bobitoo74 posts ante 160
+RienADireBro posts ante 160
+IIlO0OlII posts ante 160
+Ivanveci posts small blind 700
+Soum67 posts big blind 1400
+Dealt to MathisKcr [Kd 4h]
+*** PRE-FLOP *** 
+IIlO0OlII folds
+MathisKcr raises 1400 to 2800
+Bobitoo74 calls 2800
+RienADireBro folds
+Ivanveci folds
+Soum67 calls 1400
+*** FLOP *** [Qs 3s Jd]
+Soum67 checks
+MathisKcr checks
+Bobitoo74 checks
+*** TURN *** [Qs 3s Jd][Ts]
+Soum67 checks
+MathisKcr checks
+Bobitoo74 bets 5030
+Soum67 folds
+MathisKcr folds
+Bobitoo74 collected 15090 from pot
+*** SUMMARY ***
+Total pot 15090 | No rake
+Board: [Qs 3s Jd Ts]
+Seat 2: Bobitoo74 won 15090
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #4644200814938685486-53-1776460043 - Holdem no limit (160/700/1400) - 2026/04/17 21:07:23 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (160491, 1.21€ bounty)
+Seat 2: Bobitoo74 (55352, 0.50€ bounty)
+Seat 3: RienADireBro (15240, 0.50€ bounty)
+Seat 4: Ivanveci (59000, 0.50€ bounty)
+Seat 5: Soum67 (125520, 1.32€ bounty)
+Seat 6: IIlO0OlII (20800, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 160
+IIlO0OlII posts ante 160
+MathisKcr posts ante 160
+Bobitoo74 posts ante 160
+RienADireBro posts ante 160
+Ivanveci posts ante 160
+Soum67 posts small blind 700
+IIlO0OlII posts big blind 1400
+Dealt to MathisKcr [Td 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bobitoo74 folds
+RienADireBro folds
+Ivanveci calls 1400
+Soum67 calls 700
+IIlO0OlII checks
+*** FLOP *** [3d 5h Qd]
+Soum67 checks
+IIlO0OlII bets 5160
+Ivanveci folds
+Soum67 folds
+IIlO0OlII collected 10320 from pot
+*** SUMMARY ***
+Total pot 10320 | No rake
+Board: [3d 5h Qd]
+Seat 6: IIlO0OlII (big blind) won 10320
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #4644200814938685486-54-1776460075 - Holdem no limit (160/700/1400) - 2026/04/17 21:07:55 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (160331, 1.21€ bounty)
+Seat 2: Bobitoo74 (55192, 0.50€ bounty)
+Seat 3: RienADireBro (15080, 0.50€ bounty)
+Seat 4: Ivanveci (57440, 0.50€ bounty)
+Seat 5: Soum67 (123960, 1.32€ bounty)
+Seat 6: IIlO0OlII (24400, 0.50€ bounty)
+*** ANTE/BLINDS ***
+IIlO0OlII posts ante 160
+MathisKcr posts ante 160
+Bobitoo74 posts ante 160
+RienADireBro posts ante 160
+Ivanveci posts ante 160
+Soum67 posts ante 160
+IIlO0OlII posts small blind 700
+MathisKcr posts big blind 1400
+Dealt to MathisKcr [8s 6d]
+*** PRE-FLOP *** 
+Bobitoo74 folds
+RienADireBro folds
+Ivanveci folds
+Soum67 folds
+IIlO0OlII raises 22840 to 24240 and is all-in
+MathisKcr folds
+IIlO0OlII collected 26600 from pot
+*** SUMMARY ***
+Total pot 26600 | No rake
+Seat 6: IIlO0OlII (small blind) won 26600
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #4644200814938685486-55-1776460097 - Holdem no limit (160/700/1400) - 2026/04/17 21:08:17 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (158771, 1.21€ bounty)
+Seat 2: Bobitoo74 (55032, 0.50€ bounty)
+Seat 3: RienADireBro (14920, 0.50€ bounty)
+Seat 4: Ivanveci (57280, 0.50€ bounty)
+Seat 5: Soum67 (123800, 1.32€ bounty)
+Seat 6: IIlO0OlII (26600, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 160
+Bobitoo74 posts ante 160
+RienADireBro posts ante 160
+Ivanveci posts ante 160
+Soum67 posts ante 160
+IIlO0OlII posts ante 160
+MathisKcr posts small blind 700
+Bobitoo74 posts big blind 1400
+Dealt to MathisKcr [Jd Js]
+*** PRE-FLOP *** 
+RienADireBro folds
+Ivanveci folds
+Soum67 folds
+IIlO0OlII folds
+MathisKcr raises 1400 to 2800
+Bobitoo74 folds
+MathisKcr collected 5160 from pot
+*** SUMMARY ***
+Total pot 5160 | No rake
+Seat 1: MathisKcr (small blind) won 5160
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #4644200814938685486-56-1776460135 - Holdem no limit (160/700/1400) - 2026/04/17 21:08:55 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (160971, 1.21€ bounty)
+Seat 2: Bobitoo74 (53472, 0.50€ bounty)
+Seat 3: RienADireBro (14760, 0.50€ bounty)
+Seat 4: Ivanveci (57120, 0.50€ bounty)
+Seat 5: Soum67 (123640, 1.32€ bounty)
+Seat 6: IIlO0OlII (26440, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Bobitoo74 posts ante 160
+RienADireBro posts ante 160
+MathisKcr posts ante 160
+Ivanveci posts ante 160
+Soum67 posts ante 160
+IIlO0OlII posts ante 160
+Bobitoo74 posts small blind 700
+RienADireBro posts big blind 1400
+Dealt to MathisKcr [8c Qd]
+*** PRE-FLOP *** 
+Ivanveci folds
+Soum67 calls 1400
+IIlO0OlII calls 1400
+MathisKcr raises 2800 to 4200
+Bobitoo74 folds
+RienADireBro folds
+Soum67 folds
+IIlO0OlII calls 2800
+*** FLOP *** [6d Ks Jd]
+IIlO0OlII bets 22080 and is all-in
+MathisKcr folds
+IIlO0OlII collected 34940 from pot
+*** SUMMARY ***
+Total pot 34940 | No rake
+Board: [6d Ks Jd]
+Seat 6: IIlO0OlII won 34940
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #4644200814938685486-57-1776460184 - Holdem no limit (160/700/1400) - 2026/04/17 21:09:44 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (156611, 1.21€ bounty)
+Seat 2: Bobitoo74 (52612, 0.50€ bounty)
+Seat 3: RienADireBro (13200, 0.50€ bounty)
+Seat 4: Ivanveci (56960, 0.50€ bounty)
+Seat 5: Soum67 (122080, 1.32€ bounty)
+Seat 6: IIlO0OlII (34940, 0.50€ bounty)
+*** ANTE/BLINDS ***
+RienADireBro posts ante 160
+Ivanveci posts ante 160
+MathisKcr posts ante 160
+Bobitoo74 posts ante 160
+Soum67 posts ante 160
+IIlO0OlII posts ante 160
+RienADireBro posts small blind 700
+Ivanveci posts big blind 1400
+Dealt to MathisKcr [9s Qs]
+*** PRE-FLOP *** 
+Soum67 folds
+IIlO0OlII folds
+MathisKcr raises 1400 to 2800
+Bobitoo74 folds
+RienADireBro calls 2100
+Ivanveci calls 1400
+*** FLOP *** [6h 5h 8c]
+RienADireBro bets 10240 and is all-in
+Ivanveci calls 10240
+MathisKcr folds
+*** TURN *** [6h 5h 8c][Ac]
+*** RIVER *** [6h 5h 8c Ac][Ah]
+*** SHOW DOWN ***
+RienADireBro shows [4d 5d] (Two pairs : Aces and 5)
+Ivanveci shows [As 6c] (Full of Aces and 6)
+Ivanveci collected 29840 from pot
+*** SUMMARY ***
+Total pot 29840 | No rake
+Board: [6h 5h 8c Ac Ah]
+Seat 3: RienADireBro (small blind) showed [4d 5d] and lost with Two pairs : Aces and 5
+Seat 4: Ivanveci (big blind) showed [As 6c] and won 29840 with Full of Aces and 6
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #4644200814938685486-58-1776460231 - Holdem no limit (200/800/1600) - 2026/04/17 21:10:31 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (153651, 1.21€ bounty)
+Seat 2: Bobitoo74 (52452, 0.50€ bounty)
+Seat 4: Ivanveci (73600, 0.60€ bounty)
+Seat 5: Soum67 (121920, 1.32€ bounty)
+Seat 6: IIlO0OlII (34780, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Ivanveci posts ante 200
+Soum67 posts ante 200
+MathisKcr posts ante 200
+Bobitoo74 posts ante 200
+IIlO0OlII posts ante 200
+Ivanveci posts small blind 800
+Soum67 posts big blind 1600
+Dealt to MathisKcr [Kh 2s]
+*** PRE-FLOP *** 
+IIlO0OlII folds
+MathisKcr raises 1600 to 3200
+Bobitoo74 calls 3200
+Ivanveci calls 2400
+Soum67 folds
+*** FLOP *** [Kc 4h Qh]
+Ivanveci checks
+MathisKcr bets 4270
+Bobitoo74 calls 4270
+Ivanveci folds
+*** TURN *** [Kc 4h Qh][4d]
+MathisKcr bets 10370
+Bobitoo74 calls 10370
+*** RIVER *** [Kc 4h Qh 4d][Qd]
+MathisKcr bets 20740
+Bobitoo74 folds
+MathisKcr collected 62220 from pot
+*** SUMMARY ***
+Total pot 62220 | No rake
+Board: [Kc 4h Qh 4d Qd]
+Seat 1: MathisKcr won 62220
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #4644200814938685486-59-1776460304 - Holdem no limit (200/800/1600) - 2026/04/17 21:11:44 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (177091, 1.21€ bounty)
+Seat 2: Bobitoo74 (34412, 0.50€ bounty)
+Seat 4: Ivanveci (70200, 0.60€ bounty)
+Seat 5: Soum67 (120120, 1.32€ bounty)
+Seat 6: IIlO0OlII (34580, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 200
+IIlO0OlII posts ante 200
+MathisKcr posts ante 200
+Bobitoo74 posts ante 200
+Ivanveci posts ante 200
+Soum67 posts small blind 800
+IIlO0OlII posts big blind 1600
+Dealt to MathisKcr [4d 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bobitoo74 raises 1600 to 3200
+Ivanveci folds
+Soum67 folds
+IIlO0OlII calls 1600
+*** FLOP *** [9h 2s 9d]
+IIlO0OlII bets 31180 and is all-in
+Bobitoo74 folds
+IIlO0OlII collected 39380 from pot
+*** SUMMARY ***
+Total pot 39380 | No rake
+Board: [9h 2s 9d]
+Seat 6: IIlO0OlII (big blind) won 39380
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #4644200814938685486-60-1776460332 - Holdem no limit (200/800/1600) - 2026/04/17 21:12:12 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (176891, 1.21€ bounty)
+Seat 2: Bobitoo74 (31012, 0.50€ bounty)
+Seat 4: Ivanveci (70000, 0.60€ bounty)
+Seat 5: Soum67 (119120, 1.32€ bounty)
+Seat 6: IIlO0OlII (39380, 0.50€ bounty)
+*** ANTE/BLINDS ***
+IIlO0OlII posts ante 200
+MathisKcr posts ante 200
+Bobitoo74 posts ante 200
+Ivanveci posts ante 200
+Soum67 posts ante 200
+IIlO0OlII posts small blind 800
+MathisKcr posts big blind 1600
+Dealt to MathisKcr [3c Jd]
+*** PRE-FLOP *** 
+Bobitoo74 folds
+Ivanveci raises 68200 to 69800 and is all-in
+Soum67 folds
+IIlO0OlII folds
+MathisKcr folds
+Ivanveci collected 73200 from pot
+*** SUMMARY ***
+Total pot 73200 | No rake
+Seat 4: Ivanveci won 73200
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #4644200814938685486-61-1776460351 - Holdem no limit (200/800/1600) - 2026/04/17 21:12:31 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (175091, 1.21€ bounty)
+Seat 2: Bobitoo74 (30812, 0.50€ bounty)
+Seat 4: Ivanveci (73200, 0.60€ bounty)
+Seat 5: Soum67 (118920, 1.32€ bounty)
+Seat 6: IIlO0OlII (38380, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 200
+Bobitoo74 posts ante 200
+Ivanveci posts ante 200
+Soum67 posts ante 200
+IIlO0OlII posts ante 200
+MathisKcr posts small blind 800
+Bobitoo74 posts big blind 1600
+Dealt to MathisKcr [Qd 2s]
+*** PRE-FLOP *** 
+Ivanveci folds
+Soum67 raises 5000 to 6600
+IIlO0OlII raises 31580 to 38180 and is all-in
+MathisKcr folds
+Bobitoo74 folds
+Soum67 calls 31580
+*** FLOP *** [3s 2h Kd]
+*** TURN *** [3s 2h Kd][6s]
+*** RIVER *** [3s 2h Kd 6s][8s]
+*** SHOW DOWN ***
+Soum67 shows [Qc Ac] (High card : Ace)
+IIlO0OlII shows [7s 7d] (One pair : 7)
+IIlO0OlII collected 79760 from pot
+*** SUMMARY ***
+Total pot 79760 | No rake
+Board: [3s 2h Kd 6s 8s]
+Seat 5: Soum67 showed [Qc Ac] and lost with High card : Ace
+Seat 6: IIlO0OlII (button) showed [7s 7d] and won 79760 with One pair : 7
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #4644200814938685486-62-1776460377 - Holdem no limit (200/800/1600) - 2026/04/17 21:12:57 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (174091, 1.21€ bounty)
+Seat 2: Bobitoo74 (29012, 0.50€ bounty)
+Seat 4: Ivanveci (73000, 0.60€ bounty)
+Seat 5: Soum67 (80540, 1.32€ bounty)
+Seat 6: IIlO0OlII (79760, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Bobitoo74 posts ante 200
+Ivanveci posts ante 200
+MathisKcr posts ante 200
+Soum67 posts ante 200
+IIlO0OlII posts ante 200
+Bobitoo74 posts small blind 800
+Ivanveci posts big blind 1600
+Dealt to MathisKcr [5h 3s]
+*** PRE-FLOP *** 
+Soum67 calls 1600
+IIlO0OlII folds
+MathisKcr folds
+Bobitoo74 calls 800
+Ivanveci checks
+*** FLOP *** [Qs 3d 3c]
+Bobitoo74 checks
+Ivanveci checks
+Soum67 checks
+*** TURN *** [Qs 3d 3c][Kd]
+Bobitoo74 bets 1600
+Ivanveci folds
+Soum67 folds
+Bobitoo74 collected 7400 from pot
+*** SUMMARY ***
+Total pot 7400 | No rake
+Board: [Qs 3d 3c Kd]
+Seat 2: Bobitoo74 (small blind) won 7400
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #4644200814938685486-63-1776460438 - Holdem no limit (200/800/1600) - 2026/04/17 21:13:58 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (173891, 1.21€ bounty)
+Seat 2: Bobitoo74 (33012, 0.50€ bounty)
+Seat 3: Battuta (38740, 0.50€ bounty)
+Seat 4: Ivanveci (71200, 0.60€ bounty)
+Seat 5: Soum67 (78740, 1.32€ bounty)
+Seat 6: IIlO0OlII (79560, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Ivanveci posts ante 200
+Soum67 posts ante 200
+MathisKcr posts ante 200
+Bobitoo74 posts ante 200
+IIlO0OlII posts ante 200
+Ivanveci posts small blind 800
+Soum67 posts big blind 1600
+Dealt to MathisKcr [3s 5c]
+*** PRE-FLOP *** 
+IIlO0OlII calls 1600
+MathisKcr folds
+Bobitoo74 folds
+Ivanveci folds
+Soum67 checks
+*** FLOP *** [2c 8s 6s]
+Soum67 bets 3250
+IIlO0OlII folds
+Soum67 collected 8250 from pot
+*** SUMMARY ***
+Total pot 8250 | No rake
+Board: [2c 8s 6s]
+Seat 5: Soum67 (big blind) won 8250
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #4644200814938685486-64-1776460481 - Holdem no limit (250/1000/2000) - 2026/04/17 21:14:41 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (173691, 1.21€ bounty)
+Seat 2: Bobitoo74 (32812, 0.50€ bounty)
+Seat 3: Battuta (38740, 0.50€ bounty)
+Seat 4: Ivanveci (70200, 0.60€ bounty)
+Seat 5: Soum67 (81940, 1.32€ bounty)
+Seat 6: IIlO0OlII (77760, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 250
+IIlO0OlII posts ante 250
+MathisKcr posts ante 250
+Bobitoo74 posts ante 250
+Battuta posts ante 250
+Ivanveci posts ante 250
+Soum67 posts small blind 1000
+IIlO0OlII posts big blind 2000
+Dealt to MathisKcr [7c 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bobitoo74 folds
+Battuta folds
+Ivanveci calls 2000
+Soum67 calls 1000
+IIlO0OlII raises 75510 to 77510 and is all-in
+Ivanveci folds
+Soum67 folds
+IIlO0OlII collected 83010 from pot
+*** SUMMARY ***
+Total pot 83010 | No rake
+Seat 6: IIlO0OlII (big blind) won 83010
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #4644200814938685486-65-1776460511 - Holdem no limit (250/1000/2000) - 2026/04/17 21:15:11 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (173441, 1.21€ bounty)
+Seat 2: Bobitoo74 (32562, 0.50€ bounty)
+Seat 3: Battuta (38490, 0.50€ bounty)
+Seat 4: Ivanveci (67950, 0.60€ bounty)
+Seat 5: Soum67 (79690, 1.32€ bounty)
+Seat 6: IIlO0OlII (83010, 0.50€ bounty)
+*** ANTE/BLINDS ***
+IIlO0OlII posts ante 250
+MathisKcr posts ante 250
+Bobitoo74 posts ante 250
+Battuta posts ante 250
+Ivanveci posts ante 250
+Soum67 posts ante 250
+IIlO0OlII posts small blind 1000
+MathisKcr posts big blind 2000
+Dealt to MathisKcr [3d 9h]
+*** PRE-FLOP *** 
+Bobitoo74 folds
+Battuta raises 36240 to 38240 and is all-in
+Ivanveci folds
+Soum67 folds
+IIlO0OlII raises 36240 to 74480
+MathisKcr folds
+*** FLOP *** [7c Ah 7s]
+*** TURN *** [7c Ah 7s][2c]
+*** RIVER *** [7c Ah 7s 2c][8c]
+*** SHOW DOWN ***
+Battuta shows [Td Ac] (Two pairs : Aces and 7)
+IIlO0OlII shows [Ad 5d] (Two pairs : Aces and 7)
+IIlO0OlII collected 36240 from side pot 1
+Battuta collected 79980 from main pot
+*** SUMMARY ***
+Total pot 116220 | No rake
+Board: [7c Ah 7s 2c 8c]
+Seat 3: Battuta showed [Td Ac] and won 79980 with Two pairs : Aces and 7
+Seat 6: IIlO0OlII (small blind) showed [Ad 5d] and won 36240 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #4644200814938685486-66-1776460545 - Holdem no limit (250/1000/2000) - 2026/04/17 21:15:45 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (171191, 1.21€ bounty)
+Seat 2: Bobitoo74 (32312, 0.50€ bounty)
+Seat 3: Battuta (79980, 0.50€ bounty)
+Seat 4: Ivanveci (67700, 0.60€ bounty)
+Seat 5: Soum67 (79440, 1.32€ bounty)
+Seat 6: IIlO0OlII (44520, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 250
+Bobitoo74 posts ante 250
+Battuta posts ante 250
+Ivanveci posts ante 250
+Soum67 posts ante 250
+IIlO0OlII posts ante 250
+MathisKcr posts small blind 1000
+Bobitoo74 posts big blind 2000
+Dealt to MathisKcr [6d 2h]
+*** PRE-FLOP *** 
+Battuta folds
+Ivanveci folds
+Soum67 folds
+IIlO0OlII calls 2000
+MathisKcr folds
+Bobitoo74 checks
+*** FLOP *** [4c Tc 2c]
+Bobitoo74 checks
+IIlO0OlII bets 42270 and is all-in
+Bobitoo74 folds
+IIlO0OlII collected 48770 from pot
+*** SUMMARY ***
+Total pot 48770 | No rake
+Board: [4c Tc 2c]
+Seat 6: IIlO0OlII (button) won 48770
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #4644200814938685486-67-1776460579 - Holdem no limit (250/1000/2000) - 2026/04/17 21:16:19 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (169941, 1.21€ bounty)
+Seat 2: Bobitoo74 (30062, 0.50€ bounty)
+Seat 3: Battuta (79730, 0.50€ bounty)
+Seat 4: Ivanveci (67450, 0.60€ bounty)
+Seat 5: Soum67 (79190, 1.32€ bounty)
+Seat 6: IIlO0OlII (48770, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Bobitoo74 posts ante 250
+Battuta posts ante 250
+MathisKcr posts ante 250
+Ivanveci posts ante 250
+Soum67 posts ante 250
+IIlO0OlII posts ante 250
+Bobitoo74 posts small blind 1000
+Battuta posts big blind 2000
+Dealt to MathisKcr [Ts 5d]
+*** PRE-FLOP *** 
+Ivanveci folds
+Soum67 raises 6500 to 8500
+IIlO0OlII folds
+MathisKcr folds
+Bobitoo74 folds
+Battuta folds
+Soum67 collected 13000 from pot
+*** SUMMARY ***
+Total pot 13000 | No rake
+Seat 5: Soum67 won 13000
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #4644200814938685486-68-1776460612 - Holdem no limit (250/1000/2000) - 2026/04/17 21:16:52 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (169691, 1.21€ bounty)
+Seat 2: Bobitoo74 (28812, 0.50€ bounty)
+Seat 3: Battuta (77480, 0.50€ bounty)
+Seat 4: Ivanveci (67200, 0.60€ bounty)
+Seat 5: Soum67 (83440, 1.32€ bounty)
+Seat 6: IIlO0OlII (48520, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Battuta posts ante 250
+Ivanveci posts ante 250
+MathisKcr posts ante 250
+Bobitoo74 posts ante 250
+Soum67 posts ante 250
+IIlO0OlII posts ante 250
+Battuta posts small blind 1000
+Ivanveci posts big blind 2000
+Dealt to MathisKcr [Jh 7c]
+*** PRE-FLOP *** 
+Soum67 folds
+IIlO0OlII folds
+MathisKcr folds
+Bobitoo74 folds
+Battuta calls 1000
+Ivanveci checks
+*** FLOP *** [5s 2c Qd]
+Battuta checks
+Ivanveci checks
+*** TURN *** [5s 2c Qd][Ah]
+Battuta checks
+Ivanveci checks
+*** RIVER *** [5s 2c Qd Ah][2s]
+Battuta checks
+Ivanveci checks
+*** SHOW DOWN ***
+Ivanveci shows [9h 3d] (One pair : 2)
+Battuta shows [Js Tc] (One pair : 2)
+Battuta collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Board: [5s 2c Qd Ah 2s]
+Seat 3: Battuta (small blind) showed [Js Tc] and won 5500 with One pair : 2
+Seat 4: Ivanveci (big blind) showed [9h 3d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #4644200814938685486-69-1776460672 - Holdem no limit (250/1000/2000) - 2026/04/17 21:17:52 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (169441, 1.21€ bounty)
+Seat 2: Bobitoo74 (28562, 0.50€ bounty)
+Seat 3: Battuta (80730, 0.50€ bounty)
+Seat 4: Ivanveci (64950, 0.60€ bounty)
+Seat 5: Soum67 (83190, 1.32€ bounty)
+Seat 6: IIlO0OlII (48270, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Ivanveci posts ante 250
+Soum67 posts ante 250
+MathisKcr posts ante 250
+Bobitoo74 posts ante 250
+Battuta posts ante 250
+IIlO0OlII posts ante 250
+Ivanveci posts small blind 1000
+Soum67 posts big blind 2000
+Dealt to MathisKcr [Qc 2h]
+*** PRE-FLOP *** 
+IIlO0OlII folds
+MathisKcr folds
+Bobitoo74 raises 2000 to 4000
+Battuta folds
+Ivanveci calls 3000
+Soum67 folds
+*** FLOP *** [Th 4s Jh]
+Ivanveci checks
+Bobitoo74 bets 4025
+Ivanveci calls 4025
+*** TURN *** [Th 4s Jh][2s]
+Ivanveci checks
+Bobitoo74 checks
+*** RIVER *** [Th 4s Jh 2s][Ac]
+Ivanveci bets 6843
+Bobitoo74 calls 6843
+*** SHOW DOWN ***
+Ivanveci shows [7s 7h] (One pair : 7)
+Bobitoo74 shows [Qh Tc] (One pair : Tens)
+Bobitoo74 collected 33236 from pot
+*** SUMMARY ***
+Total pot 33236 | No rake
+Board: [Th 4s Jh 2s Ac]
+Seat 2: Bobitoo74 showed [Qh Tc] and won 33236 with One pair : Tens
+Seat 4: Ivanveci (small blind) showed [7s 7h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #4644200814938685486-70-1776460700 - Holdem no limit (300/1250/2500) - 2026/04/17 21:18:20 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (169191, 1.21€ bounty)
+Seat 2: Bobitoo74 (46680, 0.50€ bounty)
+Seat 3: Battuta (80480, 0.50€ bounty)
+Seat 4: Ivanveci (49832, 0.60€ bounty)
+Seat 5: Soum67 (80940, 1.32€ bounty)
+Seat 6: IIlO0OlII (48020, 0.50€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 300
+IIlO0OlII posts ante 300
+MathisKcr posts ante 300
+Bobitoo74 posts ante 300
+Battuta posts ante 300
+Ivanveci posts ante 300
+Soum67 posts small blind 1250
+IIlO0OlII posts big blind 2500
+Dealt to MathisKcr [Qh Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 2500 to 5000
+Bobitoo74 folds
+Battuta calls 5000
+Ivanveci folds
+Soum67 folds
+IIlO0OlII calls 2500
+*** FLOP *** [3d 2d Ks]
+IIlO0OlII checks
+MathisKcr bets 6318
+Battuta calls 6318
+IIlO0OlII folds
+*** TURN *** [3d 2d Ks][9d]
+MathisKcr checks
+Battuta bets 10740
+MathisKcr calls 10740
+*** RIVER *** [3d 2d Ks 9d][9s]
+MathisKcr checks
+Battuta bets 18258
+MathisKcr folds
+Battuta collected 70424 from pot
+*** SUMMARY ***
+Total pot 70424 | No rake
+Board: [3d 2d Ks 9d 9s]
+Seat 3: Battuta won 70424
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #4644200814938685486-71-1776460766 - Holdem no limit (300/1250/2500) - 2026/04/17 21:19:26 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (146833, 1.21€ bounty)
+Seat 2: Bobitoo74 (46380, 0.50€ bounty)
+Seat 3: Battuta (110288, 0.50€ bounty)
+Seat 4: Ivanveci (49532, 0.60€ bounty)
+Seat 5: Soum67 (79390, 1.32€ bounty)
+Seat 6: IIlO0OlII (42720, 0.50€ bounty)
+*** ANTE/BLINDS ***
+IIlO0OlII posts ante 300
+MathisKcr posts ante 300
+Bobitoo74 posts ante 300
+Battuta posts ante 300
+Ivanveci posts ante 300
+Soum67 posts ante 300
+IIlO0OlII posts small blind 1250
+MathisKcr posts big blind 2500
+Dealt to MathisKcr [9s 6s]
+*** PRE-FLOP *** 
+Bobitoo74 folds
+Battuta folds
+Ivanveci calls 2500
+Soum67 calls 2500
+IIlO0OlII calls 1250
+MathisKcr checks
+*** FLOP *** [Qd 2d 2s]
+IIlO0OlII checks
+MathisKcr checks
+Ivanveci bets 2500
+Soum67 folds
+IIlO0OlII folds
+MathisKcr folds
+Ivanveci collected 14300 from pot
+*** SUMMARY ***
+Total pot 14300 | No rake
+Board: [Qd 2d 2s]
+Seat 4: Ivanveci won 14300
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #4644200814938685486-72-1776460825 - Holdem no limit (300/1250/2500) - 2026/04/17 21:20:25 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (144033, 1.21€ bounty)
+Seat 2: Bobitoo74 (46080, 0.50€ bounty)
+Seat 3: Battuta (109988, 0.50€ bounty)
+Seat 4: Ivanveci (58532, 0.60€ bounty)
+Seat 5: Soum67 (76590, 1.32€ bounty)
+Seat 6: IIlO0OlII (39920, 0.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 300
+Bobitoo74 posts ante 300
+Battuta posts ante 300
+Ivanveci posts ante 300
+Soum67 posts ante 300
+IIlO0OlII posts ante 300
+MathisKcr posts small blind 1250
+Bobitoo74 posts big blind 2500
+Dealt to MathisKcr [3s 4s]
+*** PRE-FLOP *** 
+Battuta folds
+Ivanveci folds
+Soum67 folds
+IIlO0OlII raises 37120 to 39620 and is all-in
+MathisKcr folds
+Bobitoo74 raises 6160 to 45780 and is all-in
+*** FLOP *** [8d 2c 4c]
+*** TURN *** [8d 2c 4c][8s]
+*** RIVER *** [8d 2c 4c 8s][5c]
+*** SHOW DOWN ***
+IIlO0OlII shows [5s As] (Two pairs : 8 and 5)
+Bobitoo74 shows [7d 7h] (Two pairs : 8 and 7)
+Bobitoo74 collected 88450 from pot
+*** SUMMARY ***
+Total pot 88450 | No rake
+Board: [8d 2c 4c 8s 5c]
+Seat 2: Bobitoo74 (big blind) showed [7d 7h] and won 88450 with Two pairs : 8 and 7
+Seat 6: IIlO0OlII (button) showed [5s As] and lost with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #4644200814938685486-73-1776460863 - Holdem no limit (300/1250/2500) - 2026/04/17 21:21:03 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (142483, 1.21€ bounty)
+Seat 2: Bobitoo74 (88450, 1€ bounty)
+Seat 3: Battuta (109688, 0.50€ bounty)
+Seat 4: Ivanveci (58232, 0.60€ bounty)
+Seat 5: Soum67 (76290, 1.32€ bounty)
+*** ANTE/BLINDS ***
+Bobitoo74 posts ante 300
+Battuta posts ante 300
+MathisKcr posts ante 300
+Ivanveci posts ante 300
+Soum67 posts ante 300
+Bobitoo74 posts small blind 1250
+Battuta posts big blind 2500
+Dealt to MathisKcr [Qh 6d]
+*** PRE-FLOP *** 
+Ivanveci folds
+Soum67 folds
+MathisKcr folds
+Bobitoo74 raises 2500 to 5000
+Battuta calls 2500
+*** FLOP *** [9s 4c 6h]
+Bobitoo74 bets 4500
+Battuta calls 4500
+*** TURN *** [9s 4c 6h][Jd]
+Bobitoo74 bets 11500
+Battuta calls 11500
+*** RIVER *** [9s 4c 6h Jd][4d]
+Bobitoo74 checks
+Battuta bets 28275
+Bobitoo74 folds
+Battuta collected 71775 from pot
+*** SUMMARY ***
+Total pot 71775 | No rake
+Board: [9s 4c 6h Jd 4d]
+Seat 3: Battuta (big blind) won 71775
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #4644200814938685486-74-1776460926 - Holdem no limit (350/1500/3000) - 2026/04/17 21:22:06 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (142183, 1.21€ bounty)
+Seat 2: Bobitoo74 (67150, 1€ bounty)
+Seat 3: Battuta (131888, 0.50€ bounty)
+Seat 4: Ivanveci (57932, 0.60€ bounty)
+Seat 5: Soum67 (75990, 1.32€ bounty)
+Seat 6: bedastyle60 (57562, 0.97€ bounty)
+*** ANTE/BLINDS ***
+Battuta posts ante 350
+Ivanveci posts ante 350
+MathisKcr posts ante 350
+Bobitoo74 posts ante 350
+Soum67 posts ante 350
+bedastyle60 posts ante 350
+Battuta posts small blind 1500
+Ivanveci posts big blind 3000
+Dealt to MathisKcr [4s 7c]
+*** PRE-FLOP *** 
+Soum67 calls 3000
+bedastyle60 folds
+MathisKcr folds
+Bobitoo74 folds
+Battuta calls 1500
+Ivanveci checks
+*** FLOP *** [Qh 2c 2h]
+Battuta checks
+Ivanveci checks
+Soum67 checks
+*** TURN *** [Qh 2c 2h][Th]
+Battuta checks
+Ivanveci checks
+Soum67 checks
+*** RIVER *** [Qh 2c 2h Th][6d]
+Battuta bets 7215
+Ivanveci folds
+Soum67 folds
+Battuta collected 18315 from pot
+*** SUMMARY ***
+Total pot 18315 | No rake
+Board: [Qh 2c 2h Th 6d]
+Seat 3: Battuta (small blind) won 18315
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #4644200814938685486-75-1776461028 - Holdem no limit (350/1500/3000) - 2026/04/17 21:23:48 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (141833, 1.21€ bounty)
+Seat 2: Bobitoo74 (66800, 1€ bounty)
+Seat 3: Battuta (139638, 0.50€ bounty)
+Seat 4: Ivanveci (54582, 0.60€ bounty)
+Seat 5: Soum67 (72640, 1.32€ bounty)
+Seat 6: bedastyle60 (57212, 0.97€ bounty)
+*** ANTE/BLINDS ***
+Ivanveci posts ante 350
+Soum67 posts ante 350
+MathisKcr posts ante 350
+Bobitoo74 posts ante 350
+Battuta posts ante 350
+bedastyle60 posts ante 350
+Ivanveci posts small blind 1500
+Soum67 posts big blind 3000
+Dealt to MathisKcr [4c Th]
+*** PRE-FLOP *** 
+bedastyle60 folds
+MathisKcr folds
+Bobitoo74 folds
+Battuta raises 9600 to 12600
+Ivanveci raises 41632 to 54232 and is all-in
+Soum67 folds
+Battuta calls 41632
+*** FLOP *** [4s Tc 2c]
+*** TURN *** [4s Tc 2c][7d]
+*** RIVER *** [4s Tc 2c 7d][9d]
+*** SHOW DOWN ***
+Battuta shows [Kc Ad] (High card : Ace)
+Ivanveci shows [As Ac] (One pair : Aces)
+Ivanveci collected 113564 from pot
+*** SUMMARY ***
+Total pot 113564 | No rake
+Board: [4s Tc 2c 7d 9d]
+Seat 3: Battuta (button) showed [Kc Ad] and lost with High card : Ace
+Seat 4: Ivanveci (small blind) showed [As Ac] and won 113564 with One pair : Aces
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #4644200814938685486-76-1776461060 - Holdem no limit (350/1500/3000) - 2026/04/17 21:24:20 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (141483, 1.21€ bounty)
+Seat 2: Bobitoo74 (66450, 1€ bounty)
+Seat 3: Battuta (85056, 0.50€ bounty)
+Seat 4: Ivanveci (113564, 0.60€ bounty)
+Seat 5: Soum67 (69290, 1.32€ bounty)
+Seat 6: bedastyle60 (56862, 0.97€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 350
+bedastyle60 posts ante 350
+MathisKcr posts ante 350
+Bobitoo74 posts ante 350
+Battuta posts ante 350
+Ivanveci posts ante 350
+Soum67 posts small blind 1500
+bedastyle60 posts big blind 3000
+Dealt to MathisKcr [4h 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bobitoo74 raises 3000 to 6000
+Battuta calls 6000
+Ivanveci folds
+Soum67 folds
+bedastyle60 calls 3000
+*** FLOP *** [3h Ad 5h]
+bedastyle60 checks
+Bobitoo74 bets 7560
+Battuta folds
+bedastyle60 folds
+Bobitoo74 collected 29160 from pot
+*** SUMMARY ***
+Total pot 29160 | No rake
+Board: [3h Ad 5h]
+Seat 2: Bobitoo74 won 29160
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #4644200814938685486-77-1776461112 - Holdem no limit (350/1500/3000) - 2026/04/17 21:25:12 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (141133, 1.21€ bounty)
+Seat 2: Bobitoo74 (81700, 1€ bounty)
+Seat 3: Battuta (78706, 0.50€ bounty)
+Seat 4: Ivanveci (113214, 0.60€ bounty)
+Seat 5: Soum67 (67440, 1.32€ bounty)
+Seat 6: bedastyle60 (50512, 0.97€ bounty)
+*** ANTE/BLINDS ***
+bedastyle60 posts ante 350
+MathisKcr posts ante 350
+Bobitoo74 posts ante 350
+Battuta posts ante 350
+Ivanveci posts ante 350
+Soum67 posts ante 350
+bedastyle60 posts small blind 1500
+MathisKcr posts big blind 3000
+Dealt to MathisKcr [6c Ah]
+*** PRE-FLOP *** 
+Bobitoo74 folds
+Battuta raises 6000 to 9000
+Ivanveci calls 9000
+Soum67 folds
+bedastyle60 folds
+MathisKcr calls 6000
+*** FLOP *** [Th 4s 3d]
+MathisKcr checks
+Battuta bets 69356 and is all-in
+Ivanveci folds
+MathisKcr folds
+Battuta collected 99956 from pot
+*** SUMMARY ***
+Total pot 99956 | No rake
+Board: [Th 4s 3d]
+Seat 3: Battuta won 99956
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #4644200814938685486-78-1776461159 - Holdem no limit (350/1500/3000) - 2026/04/17 21:25:59 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (131783, 1.21€ bounty)
+Seat 2: Bobitoo74 (81350, 1€ bounty)
+Seat 3: Battuta (99956, 0.50€ bounty)
+Seat 4: Ivanveci (103864, 0.60€ bounty)
+Seat 5: Soum67 (67090, 1.32€ bounty)
+Seat 6: bedastyle60 (48662, 0.97€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 350
+Bobitoo74 posts ante 350
+Battuta posts ante 350
+Ivanveci posts ante 350
+Soum67 posts ante 350
+bedastyle60 posts ante 350
+MathisKcr posts small blind 1500
+Bobitoo74 posts big blind 3000
+Dealt to MathisKcr [Th 5c]
+*** PRE-FLOP *** 
+Battuta folds
+Ivanveci raises 100514 to 103514 and is all-in
+Soum67 folds
+bedastyle60 folds
+MathisKcr folds
+Bobitoo74 folds
+Ivanveci collected 110114 from pot
+*** SUMMARY ***
+Total pot 110114 | No rake
+Seat 4: Ivanveci won 110114
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #4644200814938685486-79-1776461262 - Holdem no limit (400/1750/3500) - 2026/04/17 21:27:42 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (129933, 1.21€ bounty)
+Seat 2: Bobitoo74 (78000, 1€ bounty)
+Seat 3: Battuta (99606, 0.50€ bounty)
+Seat 4: Ivanveci (110114, 0.60€ bounty)
+Seat 5: Soum67 (66740, 1.32€ bounty)
+Seat 6: bedastyle60 (48312, 0.97€ bounty)
+*** ANTE/BLINDS ***
+Bobitoo74 posts ante 400
+Battuta posts ante 400
+MathisKcr posts ante 400
+Ivanveci posts ante 400
+Soum67 posts ante 400
+bedastyle60 posts ante 400
+Bobitoo74 posts small blind 1750
+Battuta posts big blind 3500
+Dealt to MathisKcr [5c Qh]
+*** PRE-FLOP *** 
+Ivanveci raises 3500 to 7000
+Soum67 folds
+bedastyle60 folds
+MathisKcr folds
+Bobitoo74 folds
+Battuta folds
+Ivanveci collected 14650 from pot
+*** SUMMARY ***
+Total pot 14650 | No rake
+Seat 4: Ivanveci won 14650
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #4644200814938685486-80-1776461297 - Holdem no limit (400/1750/3500) - 2026/04/17 21:28:17 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (129533, 1.21€ bounty)
+Seat 2: Bobitoo74 (75850, 1€ bounty)
+Seat 3: Battuta (95706, 0.50€ bounty)
+Seat 4: Ivanveci (117364, 0.60€ bounty)
+Seat 5: Soum67 (66340, 1.32€ bounty)
+Seat 6: bedastyle60 (47912, 0.97€ bounty)
+*** ANTE/BLINDS ***
+Battuta posts ante 400
+Ivanveci posts ante 400
+MathisKcr posts ante 400
+Bobitoo74 posts ante 400
+Soum67 posts ante 400
+bedastyle60 posts ante 400
+Battuta posts small blind 1750
+Ivanveci posts big blind 3500
+Dealt to MathisKcr [6h 4d]
+*** PRE-FLOP *** 
+Soum67 folds
+bedastyle60 folds
+MathisKcr folds
+Bobitoo74 raises 3500 to 7000
+Battuta folds
+Ivanveci calls 3500
+*** FLOP *** [Ks As 3c]
+Ivanveci checks
+Bobitoo74 bets 6353
+Ivanveci folds
+Bobitoo74 collected 24503 from pot
+*** SUMMARY ***
+Total pot 24503 | No rake
+Board: [Ks As 3c]
+Seat 2: Bobitoo74 (button) won 24503
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #4644200814938685486-81-1776461362 - Holdem no limit (400/1750/3500) - 2026/04/17 21:29:22 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (129133, 1.21€ bounty)
+Seat 2: Bobitoo74 (86600, 1€ bounty)
+Seat 3: Battuta (93556, 0.50€ bounty)
+Seat 4: Ivanveci (109964, 0.60€ bounty)
+Seat 5: Soum67 (65940, 1.32€ bounty)
+Seat 6: bedastyle60 (47512, 0.97€ bounty)
+*** ANTE/BLINDS ***
+Ivanveci posts ante 400
+Soum67 posts ante 400
+MathisKcr posts ante 400
+Bobitoo74 posts ante 400
+Battuta posts ante 400
+bedastyle60 posts ante 400
+Ivanveci posts small blind 1750
+Soum67 posts big blind 3500
+Dealt to MathisKcr [6h 9d]
+*** PRE-FLOP *** 
+bedastyle60 folds
+MathisKcr folds
+Bobitoo74 folds
+Battuta folds
+Ivanveci calls 1750
+Soum67 checks
+*** FLOP *** [5c Th 7s]
+Ivanveci bets 3500
+Soum67 folds
+Ivanveci collected 12900 from pot
+*** SUMMARY ***
+Total pot 12900 | No rake
+Board: [5c Th 7s]
+Seat 4: Ivanveci (small blind) won 12900
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #4644200814938685486-82-1776461394 - Holdem no limit (400/1750/3500) - 2026/04/17 21:29:54 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (128733, 1.21€ bounty)
+Seat 2: Bobitoo74 (86200, 1€ bounty)
+Seat 3: Battuta (93156, 0.50€ bounty)
+Seat 4: Ivanveci (115464, 0.60€ bounty)
+Seat 5: Soum67 (62040, 1.32€ bounty)
+Seat 6: bedastyle60 (47112, 0.97€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 400
+bedastyle60 posts ante 400
+MathisKcr posts ante 400
+Bobitoo74 posts ante 400
+Battuta posts ante 400
+Ivanveci posts ante 400
+Soum67 posts small blind 1750
+bedastyle60 posts big blind 3500
+Dealt to MathisKcr [9h 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bobitoo74 folds
+Battuta folds
+Ivanveci folds
+Soum67 raises 58140 to 61640 and is all-in
+bedastyle60 folds
+Soum67 collected 67540 from pot
+*** SUMMARY ***
+Total pot 67540 | No rake
+Seat 5: Soum67 (small blind) won 67540
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #4644200814938685486-83-1776461419 - Holdem no limit (500/2000/4000) - 2026/04/17 21:30:19 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (128333, 1.21€ bounty)
+Seat 2: Bobitoo74 (85800, 1€ bounty)
+Seat 3: Battuta (92756, 0.50€ bounty)
+Seat 4: Ivanveci (115064, 0.60€ bounty)
+Seat 5: Soum67 (67540, 1.32€ bounty)
+Seat 6: bedastyle60 (43212, 0.97€ bounty)
+*** ANTE/BLINDS ***
+bedastyle60 posts ante 500
+MathisKcr posts ante 500
+Bobitoo74 posts ante 500
+Battuta posts ante 500
+Ivanveci posts ante 500
+Soum67 posts ante 500
+bedastyle60 posts small blind 2000
+MathisKcr posts big blind 4000
+Dealt to MathisKcr [Th Ah]
+*** PRE-FLOP *** 
+Bobitoo74 folds
+Battuta raises 4000 to 8000
+Ivanveci folds
+Soum67 raises 59040 to 67040 and is all-in
+bedastyle60 folds
+MathisKcr calls 63040
+Battuta folds
+*** FLOP *** [5h Jc 2d]
+*** TURN *** [5h Jc 2d][9s]
+*** RIVER *** [5h Jc 2d 9s][8h]
+*** SHOW DOWN ***
+MathisKcr shows [Th Ah] (High card : Ace)
+Soum67 shows [Ks Kd] (One pair : Kings)
+Soum67 collected 147080 from pot
+*** SUMMARY ***
+Total pot 147080 | No rake
+Board: [5h Jc 2d 9s 8h]
+Seat 1: MathisKcr (big blind) showed [Th Ah] and lost with High card : Ace
+Seat 5: Soum67 (button) showed [Ks Kd] and won 147080 with One pair : Kings
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #4644200814938685486-84-1776461498 - Holdem no limit (500/2000/4000) - 2026/04/17 21:31:38 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (60793, 1.21€ bounty)
+Seat 2: Bobitoo74 (85300, 1€ bounty)
+Seat 3: Battuta (84256, 0.50€ bounty)
+Seat 4: Ivanveci (114564, 0.60€ bounty)
+Seat 5: Soum67 (147080, 1.32€ bounty)
+Seat 6: bedastyle60 (40712, 0.97€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 500
+Bobitoo74 posts ante 500
+Battuta posts ante 500
+Ivanveci posts ante 500
+Soum67 posts ante 500
+bedastyle60 posts ante 500
+MathisKcr posts small blind 2000
+Bobitoo74 posts big blind 4000
+Dealt to MathisKcr [5c 3c]
+*** PRE-FLOP *** 
+Battuta folds
+Ivanveci calls 4000
+Soum67 folds
+bedastyle60 folds
+MathisKcr raises 8000 to 12000
+Bobitoo74 folds
+Ivanveci folds
+MathisKcr collected 23000 from pot
+*** SUMMARY ***
+Total pot 23000 | No rake
+Seat 1: MathisKcr (small blind) won 23000
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #4644200814938685486-85-1776461528 - Holdem no limit (500/2000/4000) - 2026/04/17 21:32:08 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (71293, 1.21€ bounty)
+Seat 2: Bobitoo74 (80800, 1€ bounty)
+Seat 3: Battuta (83756, 0.50€ bounty)
+Seat 4: Ivanveci (110064, 0.60€ bounty)
+Seat 5: Soum67 (146580, 1.32€ bounty)
+Seat 6: bedastyle60 (40212, 0.97€ bounty)
+*** ANTE/BLINDS ***
+Bobitoo74 posts ante 500
+Battuta posts ante 500
+MathisKcr posts ante 500
+Ivanveci posts ante 500
+Soum67 posts ante 500
+bedastyle60 posts ante 500
+Bobitoo74 posts small blind 2000
+Battuta posts big blind 4000
+Dealt to MathisKcr [Js Kc]
+*** PRE-FLOP *** 
+Ivanveci folds
+Soum67 folds
+bedastyle60 calls 4000
+MathisKcr raises 4000 to 8000
+Bobitoo74 calls 6000
+Battuta calls 4000
+bedastyle60 raises 31712 to 39712 and is all-in
+MathisKcr calls 31712
+Bobitoo74 folds
+Battuta calls 31712
+*** FLOP *** [9c Jd Ah]
+Battuta checks
+MathisKcr bets 31081 and is all-in
+Battuta calls 31081
+*** TURN *** [9c Jd Ah][8c]
+*** RIVER *** [9c Jd Ah 8c][7s]
+*** SHOW DOWN ***
+Battuta shows [9h 5h] (One pair : 9)
+MathisKcr shows [Js Kc] (One pair : Jacks)
+bedastyle60 shows [Ks As] (One pair : Aces)
+bedastyle60 collected 130136 from main pot
+MathisKcr collected 62162 from side pot 1
+*** SUMMARY ***
+Total pot 192298 | No rake
+Board: [9c Jd Ah 8c 7s]
+Seat 1: MathisKcr (button) showed [Js Kc] and won 62162 with One pair : Jacks
+Seat 3: Battuta (big blind) showed [9h 5h] and lost with One pair : 9
+Seat 6: bedastyle60 showed [Ks As] and won 130136 with One pair : Aces
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #4644200814938685486-86-1776461596 - Holdem no limit (500/2000/4000) - 2026/04/17 21:33:16 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (62162, 1.21€ bounty)
+Seat 2: Bobitoo74 (72300, 1€ bounty)
+Seat 3: Battuta (12463, 0.50€ bounty)
+Seat 4: Ivanveci (109564, 0.60€ bounty)
+Seat 5: Soum67 (146080, 1.32€ bounty)
+Seat 6: bedastyle60 (130136, 0.97€ bounty)
+*** ANTE/BLINDS ***
+Battuta posts ante 500
+Ivanveci posts ante 500
+MathisKcr posts ante 500
+Bobitoo74 posts ante 500
+Soum67 posts ante 500
+bedastyle60 posts ante 500
+Battuta posts small blind 2000
+Ivanveci posts big blind 4000
+Dealt to MathisKcr [9h 4h]
+*** PRE-FLOP *** 
+Soum67 folds
+bedastyle60 folds
+MathisKcr folds
+Bobitoo74 raises 4000 to 8000
+Battuta folds
+Ivanveci calls 4000
+*** FLOP *** [8d 9c 3h]
+Ivanveci bets 4000
+Bobitoo74 raises 59800 to 63800 and is all-in
+Ivanveci folds
+Bobitoo74 collected 88800 from pot
+*** SUMMARY ***
+Total pot 88800 | No rake
+Board: [8d 9c 3h]
+Seat 2: Bobitoo74 (button) won 88800
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #4644200814938685486-87-1776461649 - Holdem no limit (600/2500/5000) - 2026/04/17 21:34:09 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (61662, 1.21€ bounty)
+Seat 2: Bobitoo74 (88800, 1€ bounty)
+Seat 3: Battuta (9963, 0.50€ bounty)
+Seat 4: Ivanveci (97064, 0.60€ bounty)
+Seat 5: Soum67 (145580, 1.32€ bounty)
+Seat 6: bedastyle60 (129636, 0.97€ bounty)
+*** ANTE/BLINDS ***
+Ivanveci posts ante 600
+Soum67 posts ante 600
+MathisKcr posts ante 600
+Bobitoo74 posts ante 600
+Battuta posts ante 600
+bedastyle60 posts ante 600
+Ivanveci posts small blind 2500
+Soum67 posts big blind 5000
+Dealt to MathisKcr [8c 6d]
+*** PRE-FLOP *** 
+bedastyle60 calls 5000
+MathisKcr folds
+Bobitoo74 calls 5000
+Battuta raises 4363 to 9363 and is all-in
+Ivanveci folds
+Soum67 calls 4363
+bedastyle60 calls 4363
+Bobitoo74 calls 4363
+*** FLOP *** [2d 5c Ah]
+Soum67 checks
+bedastyle60 checks
+Bobitoo74 checks
+*** TURN *** [2d 5c Ah][Jd]
+Soum67 checks
+bedastyle60 checks
+Bobitoo74 checks
+*** RIVER *** [2d 5c Ah Jd][5h]
+Soum67 bets 43552
+bedastyle60 folds
+Bobitoo74 folds
+*** SHOW DOWN ***
+Battuta shows [8d 9c] (One pair : 5)
+Soum67 shows [4s 5s] (Trips of 5)
+Soum67 collected 87104 from pot
+*** SUMMARY ***
+Total pot 87104 | No rake
+Board: [2d 5c Ah Jd 5h]
+Seat 3: Battuta (button) showed [8d 9c] and lost with One pair : 5
+Seat 5: Soum67 (big blind) showed [4s 5s] and won 87104 with Trips of 5
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #4644200814938685486-88-1776461755 - Holdem no limit (600/2500/5000) - 2026/04/17 21:35:55 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (61062, 1.21€ bounty)
+Seat 2: Bobitoo74 (78837, 1€ bounty)
+Seat 4: Ivanveci (93964, 0.60€ bounty)
+Seat 5: Soum67 (179169, 1.42€ bounty)
+Seat 6: bedastyle60 (119673, 0.97€ bounty)
+*** ANTE/BLINDS ***
+Soum67 posts ante 600
+bedastyle60 posts ante 600
+MathisKcr posts ante 600
+Bobitoo74 posts ante 600
+Ivanveci posts ante 600
+Soum67 posts small blind 2500
+bedastyle60 posts big blind 5000
+Dealt to MathisKcr [Ks 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 5000 to 10000
+Bobitoo74 folds
+Ivanveci folds
+Soum67 folds
+bedastyle60 calls 5000
+*** FLOP *** [9s 3s 3c]
+bedastyle60 checks
+MathisKcr checks
+*** TURN *** [9s 3s 3c][8h]
+bedastyle60 checks
+MathisKcr bets 8925
+bedastyle60 folds
+MathisKcr collected 34425 from pot
+*** SUMMARY ***
+Total pot 34425 | No rake
+Board: [9s 3s 3c 8h]
+Seat 1: MathisKcr won 34425
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #4644200814938685486-89-1776461816 - Holdem no limit (600/2500/5000) - 2026/04/17 21:36:56 UTC
+Table: 'SPACE KO(1081312265)#045' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (75962, 1.21€ bounty)
+Seat 2: Bobitoo74 (78237, 1€ bounty)
+Seat 3: Luffy83690 (40080, 0.75€ bounty)
+Seat 4: Ivanveci (93364, 0.60€ bounty)
+Seat 5: Soum67 (176069, 1.42€ bounty)
+Seat 6: bedastyle60 (109073, 0.97€ bounty)
+*** ANTE/BLINDS ***
+bedastyle60 posts ante 600
+MathisKcr posts ante 600
+Bobitoo74 posts ante 600
+Luffy83690 posts ante 600
+Ivanveci posts ante 600
+Soum67 posts ante 600
+bedastyle60 posts small blind 2500
+MathisKcr posts big blind 5000
+Dealt to MathisKcr [Qc Jd]
+*** PRE-FLOP *** 
+Bobitoo74 folds
+Luffy83690 folds
+Ivanveci folds
+Soum67 calls 5000
+bedastyle60 folds
+MathisKcr raises 10000 to 15000
+Soum67 calls 10000
+*** FLOP *** [As Qs 7s]
+MathisKcr bets 18050
+Soum67 folds
+MathisKcr collected 54150 from pot
+*** SUMMARY ***
+Total pot 54150 | No rake
+Board: [As Qs 7s]
+Seat 1: MathisKcr (big blind) won 54150
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 20 - HandId: #4644200814938685464-119-1776461930 - Holdem no limit (700/3000/6000) - 2026/04/17 21:38:50 UTC
+Table: 'SPACE KO(1081312265)#023' 6-max (real money) Seat #3 is the button
+Seat 1: boiss69 (94432, 1.60€ bounty)
+Seat 2: MathisKcr (96462, 1.21€ bounty)
+Seat 3: 1Bb2th3Ft (120144, 2.60€ bounty)
+Seat 4: PAKMan1710 (114293, 1.48€ bounty)
+Seat 5: aire110 (97263, 0.60€ bounty)
+Seat 6: Franjen (68442, 1.10€ bounty)
+*** ANTE/BLINDS ***
+PAKMan1710 posts ante 700
+aire110 posts ante 700
+boiss69 posts ante 700
+MathisKcr posts ante 700
+1Bb2th3Ft posts ante 700
+Franjen posts ante 700
+PAKMan1710 posts small blind 3000
+aire110 posts big blind 6000
+Dealt to MathisKcr [3s Kc]
+*** PRE-FLOP *** 
+Franjen folds
+boiss69 folds
+MathisKcr folds
+1Bb2th3Ft raises 6000 to 12000
+PAKMan1710 folds
+aire110 calls 6000
+*** FLOP *** [Td 6h 8c]
+aire110 checks
+1Bb2th3Ft checks
+*** TURN *** [Td 6h 8c][Qd]
+aire110 checks
+1Bb2th3Ft checks
+*** RIVER *** [Td 6h 8c Qd][4c]
+aire110 checks
+1Bb2th3Ft bets 14976
+aire110 folds
+1Bb2th3Ft collected 46176 from pot
+*** SUMMARY ***
+Total pot 46176 | No rake
+Board: [Td 6h 8c Qd 4c]
+Seat 3: 1Bb2th3Ft (button) won 46176
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 20 - HandId: #4644200814938685464-120-1776462010 - Holdem no limit (700/3000/6000) - 2026/04/17 21:40:10 UTC
+Table: 'SPACE KO(1081312265)#023' 6-max (real money) Seat #4 is the button
+Seat 1: boiss69 (93732, 1.60€ bounty)
+Seat 2: MathisKcr (95762, 1.21€ bounty)
+Seat 3: 1Bb2th3Ft (138644, 2.60€ bounty)
+Seat 4: PAKMan1710 (110593, 1.48€ bounty)
+Seat 5: aire110 (84563, 0.60€ bounty)
+Seat 6: Franjen (67742, 1.10€ bounty)
+*** ANTE/BLINDS ***
+aire110 posts ante 700
+Franjen posts ante 700
+boiss69 posts ante 700
+MathisKcr posts ante 700
+1Bb2th3Ft posts ante 700
+PAKMan1710 posts ante 700
+aire110 posts small blind 3000
+Franjen posts big blind 6000
+Dealt to MathisKcr [3s 4d]
+*** PRE-FLOP *** 
+boiss69 folds
+MathisKcr folds
+1Bb2th3Ft calls 6000
+PAKMan1710 calls 6000
+aire110 calls 3000
+Franjen checks
+*** FLOP *** [Ks 6d 3c]
+aire110 checks
+Franjen checks
+1Bb2th3Ft checks
+PAKMan1710 checks
+*** TURN *** [Ks 6d 3c][Tc]
+aire110 checks
+Franjen checks
+1Bb2th3Ft bets 6000
+PAKMan1710 folds
+aire110 folds
+Franjen folds
+1Bb2th3Ft collected 34200 from pot
+*** SUMMARY ***
+Total pot 34200 | No rake
+Board: [Ks 6d 3c Tc]
+Seat 3: 1Bb2th3Ft won 34200
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 20 - HandId: #4644200814938685464-121-1776462100 - Holdem no limit (700/3000/6000) - 2026/04/17 21:41:40 UTC
+Table: 'SPACE KO(1081312265)#023' 6-max (real money) Seat #5 is the button
+Seat 1: boiss69 (93032, 1.60€ bounty)
+Seat 2: MathisKcr (95062, 1.21€ bounty)
+Seat 3: 1Bb2th3Ft (160144, 2.60€ bounty)
+Seat 4: PAKMan1710 (103893, 1.48€ bounty)
+Seat 5: aire110 (77863, 0.60€ bounty)
+Seat 6: Franjen (61042, 1.10€ bounty)
+*** ANTE/BLINDS ***
+Franjen posts ante 700
+boiss69 posts ante 700
+MathisKcr posts ante 700
+1Bb2th3Ft posts ante 700
+PAKMan1710 posts ante 700
+aire110 posts ante 700
+Franjen posts small blind 3000
+boiss69 posts big blind 6000
+Dealt to MathisKcr [3d As]
+*** PRE-FLOP *** 
+MathisKcr raises 6000 to 12000
+1Bb2th3Ft folds
+PAKMan1710 folds
+aire110 folds
+Franjen folds
+boiss69 calls 6000
+*** FLOP *** [6d 4s 3c]
+boiss69 checks
+MathisKcr bets 15600
+boiss69 calls 15600
+*** TURN *** [6d 4s 3c][7c]
+boiss69 checks
+MathisKcr checks
+*** RIVER *** [6d 4s 3c 7c][Jc]
+boiss69 bets 15600
+MathisKcr calls 15600
+*** SHOW DOWN ***
+MathisKcr shows [3d As] (One pair : 3)
+boiss69 shows [6h Kh] (One pair : 6)
+boiss69 collected 93600 from pot
+*** SUMMARY ***
+Total pot 93600 | No rake
+Board: [6d 4s 3c 7c Jc]
+Seat 1: boiss69 (big blind) showed [6h Kh] and won 93600 with One pair : 6
+Seat 2: MathisKcr showed [3d As] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 21 - HandId: #4644200814938685464-122-1776462206 - Holdem no limit (800/3500/7000) - 2026/04/17 21:43:26 UTC
+Table: 'SPACE KO(1081312265)#023' 6-max (real money) Seat #6 is the button
+Seat 1: boiss69 (142732, 1.60€ bounty)
+Seat 2: MathisKcr (51162, 1.21€ bounty)
+Seat 3: 1Bb2th3Ft (159444, 2.60€ bounty)
+Seat 4: PAKMan1710 (103193, 1.48€ bounty)
+Seat 5: aire110 (77163, 0.60€ bounty)
+Seat 6: Franjen (57342, 1.10€ bounty)
+*** ANTE/BLINDS ***
+boiss69 posts ante 800
+MathisKcr posts ante 800
+1Bb2th3Ft posts ante 800
+PAKMan1710 posts ante 800
+aire110 posts ante 800
+Franjen posts ante 800
+boiss69 posts small blind 3500
+MathisKcr posts big blind 7000
+Dealt to MathisKcr [5d 9c]
+*** PRE-FLOP *** 
+1Bb2th3Ft folds
+PAKMan1710 calls 7000
+aire110 folds
+Franjen calls 7000
+boiss69 folds
+MathisKcr checks
+*** FLOP *** [9h 4s 8s]
+MathisKcr checks
+PAKMan1710 checks
+Franjen checks
+*** TURN *** [9h 4s 8s][Jh]
+MathisKcr checks
+PAKMan1710 bets 7000
+Franjen calls 7000
+MathisKcr calls 7000
+*** RIVER *** [9h 4s 8s Jh][Kd]
+MathisKcr checks
+PAKMan1710 checks
+Franjen checks
+*** SHOW DOWN ***
+MathisKcr shows [5d 9c] (One pair : 9)
+PAKMan1710 shows [8h Qd] (One pair : 8)
+Franjen shows [Ah Jc] (One pair : Jacks)
+Franjen collected 50300 from pot
+*** SUMMARY ***
+Total pot 50300 | No rake
+Board: [9h 4s 8s Jh Kd]
+Seat 2: MathisKcr (big blind) showed [5d 9c] and lost with One pair : 9
+Seat 4: PAKMan1710 showed [8h Qd] and lost with One pair : 8
+Seat 6: Franjen (button) showed [Ah Jc] and won 50300 with One pair : Jacks
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 21 - HandId: #4644200814938685464-123-1776462307 - Holdem no limit (800/3500/7000) - 2026/04/17 21:45:07 UTC
+Table: 'SPACE KO(1081312265)#023' 6-max (real money) Seat #1 is the button
+Seat 1: boiss69 (138432, 1.60€ bounty)
+Seat 2: MathisKcr (36362, 1.21€ bounty)
+Seat 3: 1Bb2th3Ft (158644, 2.60€ bounty)
+Seat 4: PAKMan1710 (88393, 1.48€ bounty)
+Seat 5: aire110 (76363, 0.60€ bounty)
+Seat 6: Franjen (92842, 1.10€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 800
+1Bb2th3Ft posts ante 800
+boiss69 posts ante 800
+PAKMan1710 posts ante 800
+aire110 posts ante 800
+Franjen posts ante 800
+MathisKcr posts small blind 3500
+1Bb2th3Ft posts big blind 7000
+Dealt to MathisKcr [Kc 8d]
+*** PRE-FLOP *** 
+PAKMan1710 raises 17500 to 24500
+aire110 folds
+Franjen folds
+boiss69 folds
+MathisKcr folds
+1Bb2th3Ft folds
+PAKMan1710 collected 39800 from pot
+*** SUMMARY ***
+Total pot 39800 | No rake
+Seat 4: PAKMan1710 won 39800
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.90€ + 0.10€ level: 21 - HandId: #4644200814938685464-124-1776462341 - Holdem no limit (800/3500/7000) - 2026/04/17 21:45:41 UTC
+Table: 'SPACE KO(1081312265)#023' 6-max (real money) Seat #2 is the button
+Seat 1: boiss69 (137632, 1.60€ bounty)
+Seat 2: MathisKcr (32062, 1.21€ bounty)
+Seat 3: 1Bb2th3Ft (150844, 2.60€ bounty)
+Seat 4: PAKMan1710 (102893, 1.48€ bounty)
+Seat 5: aire110 (75563, 0.60€ bounty)
+Seat 6: Franjen (92042, 1.10€ bounty)
+*** ANTE/BLINDS ***
+1Bb2th3Ft posts ante 800
+PAKMan1710 posts ante 800
+boiss69 posts ante 800
+MathisKcr posts ante 800
+aire110 posts ante 800
+Franjen posts ante 800
+1Bb2th3Ft posts small blind 3500
+PAKMan1710 posts big blind 7000
+Dealt to MathisKcr [3h 3c]
+*** PRE-FLOP *** 
+aire110 folds
+Franjen folds
+boiss69 folds
+MathisKcr raises 24262 to 31262 and is all-in
+1Bb2th3Ft calls 27762
+PAKMan1710 raises 70831 to 102093 and is all-in
+1Bb2th3Ft calls 70831
+*** FLOP *** [8h Qd 2s]
+*** TURN *** [8h Qd 2s][9c]
+*** RIVER *** [8h Qd 2s 9c][7d]
+*** SHOW DOWN ***
+MathisKcr shows [3h 3c] (One pair : 3)
+PAKMan1710 shows [As Jh] (High card : Ace)
+1Bb2th3Ft shows [Ah Ac] (One pair : Aces)
+1Bb2th3Ft collected 240248 from pot
+*** SUMMARY ***
+Total pot 240248 | No rake
+Board: [8h Qd 2s 9c 7d]
+Seat 2: MathisKcr (button) showed [3h 3c] and lost with One pair : 3
+Seat 3: 1Bb2th3Ft (small blind) showed [Ah Ac] and won 240248 with One pair : Aces
+Seat 4: PAKMan1710 (big blind) showed [As Jh] and lost with High card : Ace
+
+

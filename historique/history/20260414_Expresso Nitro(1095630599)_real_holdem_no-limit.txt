@@ -1,0 +1,259 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4705697591201890305-1-1776190099 - Holdem no limit (10/20) - 2026/04/14 18:08:19 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Co-MaX (300)
+Seat 3: Triste_68203 (300)
+*** ANTE/BLINDS ***
+Co-MaX posts small blind 10
+Triste_68203 posts big blind 20
+Dealt to MathisKcr [Kc Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Co-MaX calls 30
+Triste_68203 calls 20
+*** FLOP *** [4h 3s Th]
+Co-MaX checks
+Triste_68203 checks
+MathisKcr bets 42
+Co-MaX folds
+Triste_68203 folds
+MathisKcr collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [4h 3s Th]
+Seat 1: MathisKcr (button) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4705697591201890305-2-1776190118 - Holdem no limit (10/20) - 2026/04/14 18:08:38 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (380)
+Seat 2: Co-MaX (260)
+Seat 3: Triste_68203 (260)
+*** ANTE/BLINDS ***
+Triste_68203 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7s Kd]
+*** PRE-FLOP *** 
+Co-MaX raises 20 to 40
+Triste_68203 calls 30
+MathisKcr calls 20
+*** FLOP *** [8h 6d 3s]
+Triste_68203 bets 120
+MathisKcr folds
+Co-MaX calls 120
+*** TURN *** [8h 6d 3s][8c]
+Triste_68203 checks
+Co-MaX checks
+*** RIVER *** [8h 6d 3s 8c][Qd]
+Triste_68203 bets 100 and is all-in
+Co-MaX calls 100 and is all-in
+*** SHOW DOWN ***
+Co-MaX shows [Qs As] (Two pairs : Queens and 8)
+Triste_68203 shows [8d 9h] (Trips of 8)
+Triste_68203 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [8h 6d 3s 8c Qd]
+Seat 2: Co-MaX (button) showed [Qs As] and lost with Two pairs : Queens and 8
+Seat 3: Triste_68203 (small blind) showed [8d 9h] and won 560 with Trips of 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4705697591201890305-3-1776190171 - Holdem no limit (15/30) - 2026/04/14 18:09:31 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (340)
+Seat 3: Triste_68203 (560)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Triste_68203 posts big blind 30
+Dealt to MathisKcr [Qs 5c]
+*** PRE-FLOP *** 
+MathisKcr raises 310 to 340 and is all-in
+Triste_68203 folds
+MathisKcr collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 1: MathisKcr (small blind) (button) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4705697591201890305-4-1776190184 - Holdem no limit (15/30) - 2026/04/14 18:09:44 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (370)
+Seat 3: Triste_68203 (530)
+*** ANTE/BLINDS ***
+Triste_68203 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2c 8s]
+*** PRE-FLOP *** 
+Triste_68203 raises 45 to 75
+MathisKcr folds
+Triste_68203 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: Triste_68203 (small blind) (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4705697591201890305-5-1776190193 - Holdem no limit (15/30) - 2026/04/14 18:09:53 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (340)
+Seat 3: Triste_68203 (560)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Triste_68203 posts big blind 30
+Dealt to MathisKcr [8h 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Triste_68203 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Triste_68203 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4705697591201890305-6-1776190201 - Holdem no limit (15/30) - 2026/04/14 18:10:01 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (325)
+Seat 3: Triste_68203 (575)
+*** ANTE/BLINDS ***
+Triste_68203 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8c 6d]
+*** PRE-FLOP *** 
+Triste_68203 calls 15
+MathisKcr checks
+*** FLOP *** [8h 7h As]
+MathisKcr bets 39
+Triste_68203 folds
+MathisKcr collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [8h 7h As]
+Seat 1: MathisKcr (big blind) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4705697591201890305-7-1776190216 - Holdem no limit (15/30) - 2026/04/14 18:10:16 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (355)
+Seat 3: Triste_68203 (545)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Triste_68203 posts big blind 30
+Dealt to MathisKcr [Qc Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 325 to 355 and is all-in
+Triste_68203 folds
+MathisKcr collected 385 from pot
+*** SUMMARY ***
+Total pot 385 | No rake
+Seat 1: MathisKcr (small blind) (button) won 385
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4705697591201890305-8-1776190223 - Holdem no limit (20/40) - 2026/04/14 18:10:23 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (385)
+Seat 3: Triste_68203 (515)
+*** ANTE/BLINDS ***
+Triste_68203 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [As Qh]
+*** PRE-FLOP *** 
+Triste_68203 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4705697591201890305-9-1776190227 - Holdem no limit (20/40) - 2026/04/14 18:10:27 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (405)
+Seat 3: Triste_68203 (495)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Triste_68203 posts big blind 40
+Dealt to MathisKcr [Kc Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 365 to 405 and is all-in
+Triste_68203 folds
+MathisKcr collected 445 from pot
+*** SUMMARY ***
+Total pot 445 | No rake
+Seat 1: MathisKcr (small blind) (button) won 445
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4705697591201890305-10-1776190237 - Holdem no limit (20/40) - 2026/04/14 18:10:37 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (445)
+Seat 3: Triste_68203 (455)
+*** ANTE/BLINDS ***
+Triste_68203 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5d Js]
+*** PRE-FLOP *** 
+Triste_68203 raises 40 to 80
+MathisKcr calls 40
+*** FLOP *** [4d 8s 6d]
+MathisKcr bets 80
+Triste_68203 calls 80
+*** TURN *** [4d 8s 6d][7s]
+MathisKcr bets 112
+Triste_68203 calls 112
+*** RIVER *** [4d 8s 6d 7s][Th]
+MathisKcr bets 173 and is all-in
+Triste_68203 calls 173
+*** SHOW DOWN ***
+Triste_68203 shows [4s 7d] (Two pairs : 7 and 4)
+MathisKcr shows [5d Js] (Straight 8 high)
+MathisKcr collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [4d 8s 6d 7s Th]
+Seat 1: MathisKcr (big blind) showed [5d Js] and won 890 with Straight 8 high
+Seat 3: Triste_68203 (small blind) (button) showed [4s 7d] and lost with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4705697591201890305-11-1776190259 - Holdem no limit (20/40) - 2026/04/14 18:10:59 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (890)
+Seat 3: Triste_68203 (10)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Triste_68203 posts big blind 10 and is all-in
+Dealt to MathisKcr [6s 2c]
+*** PRE-FLOP *** 
+*** FLOP *** [6c Ac Qc]
+*** TURN *** [6c Ac Qc][5d]
+*** RIVER *** [6c Ac Qc 5d][Kh]
+*** SHOW DOWN ***
+MathisKcr shows [6s 2c] (One pair : 6)
+Triste_68203 shows [4s Ad] (One pair : Aces)
+Triste_68203 collected 20 from main pot
+MathisKcr collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [6c Ac Qc 5d Kh]
+Seat 1: MathisKcr (small blind) (button) showed [6s 2c] and won 10 with One pair : 6
+Seat 3: Triste_68203 (big blind) showed [4s Ad] and won 20 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4705697591201890305-12-1776190268 - Holdem no limit (20/40) - 2026/04/14 18:11:08 UTC
+Table: 'Expresso Nitro(1095630599)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (880)
+Seat 3: Triste_68203 (20)
+*** ANTE/BLINDS ***
+Triste_68203 posts small blind 20 and is all-in
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Qs Jh]
+*** PRE-FLOP *** 
+*** FLOP *** [6d Th Td]
+*** TURN *** [6d Th Td][Ac]
+*** RIVER *** [6d Th Td Ac][Ad]
+*** SHOW DOWN ***
+Triste_68203 shows [5h 2s] (Two pairs : Aces and Tens)
+MathisKcr shows [Qs Jh] (Two pairs : Aces and Tens)
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6d Th Td Ac Ad]
+Seat 1: MathisKcr (big blind) showed [Qs Jh] and won 60 with Two pairs : Aces and Tens
+Seat 3: Triste_68203 (small blind) (button) showed [5h 2s] and lost with Two pairs : Aces and Tens
+
+

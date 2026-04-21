@@ -1,0 +1,188 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4691420686118289409-1-1775657544 - Holdem no limit (10/20) - 2026/04/08 14:12:24 UTC
+Table: 'Expresso Nitro(1092306498)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: FGNandez44 (300)
+Seat 3: pins631 (300)
+*** ANTE/BLINDS ***
+pins631 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9d 5h]
+*** PRE-FLOP *** 
+FGNandez44 folds
+pins631 raises 20 to 40
+MathisKcr folds
+pins631 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: pins631 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4691420686118289409-2-1775657555 - Holdem no limit (10/20) - 2026/04/08 14:12:35 UTC
+Table: 'Expresso Nitro(1092306498)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: FGNandez44 (300)
+Seat 3: pins631 (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+FGNandez44 posts big blind 20
+Dealt to MathisKcr [Td 4h]
+*** PRE-FLOP *** 
+pins631 folds
+MathisKcr folds
+FGNandez44 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: FGNandez44 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4691420686118289409-3-1775657562 - Holdem no limit (10/20) - 2026/04/08 14:12:42 UTC
+Table: 'Expresso Nitro(1092306498)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: FGNandez44 (310)
+Seat 3: pins631 (320)
+*** ANTE/BLINDS ***
+FGNandez44 posts small blind 10
+pins631 posts big blind 20
+Dealt to MathisKcr [6s 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+FGNandez44 calls 10
+pins631 raises 30 to 50
+FGNandez44 folds
+pins631 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: pins631 (big blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4691420686118289409-4-1775657576 - Holdem no limit (10/20) - 2026/04/08 14:12:56 UTC
+Table: 'Expresso Nitro(1092306498)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (270)
+Seat 2: FGNandez44 (290)
+Seat 3: pins631 (340)
+*** ANTE/BLINDS ***
+pins631 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ks 5c]
+*** PRE-FLOP *** 
+FGNandez44 calls 20
+pins631 calls 10
+MathisKcr raises 250 to 270 and is all-in
+FGNandez44 calls 250
+pins631 folds
+*** FLOP *** [6h 3s 2s]
+*** TURN *** [6h 3s 2s][Kc]
+*** RIVER *** [6h 3s 2s Kc][Qc]
+*** SHOW DOWN ***
+FGNandez44 shows [Ad 7d] (High card : Ace)
+MathisKcr shows [Ks 5c] (One pair : Kings)
+MathisKcr collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [6h 3s 2s Kc Qc]
+Seat 1: MathisKcr (big blind) showed [Ks 5c] and won 560 with One pair : Kings
+Seat 2: FGNandez44 (button) showed [Ad 7d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4691420686118289409-5-1775657597 - Holdem no limit (10/20) - 2026/04/08 14:13:17 UTC
+Table: 'Expresso Nitro(1092306498)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (560)
+Seat 2: FGNandez44 (20)
+Seat 3: pins631 (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+FGNandez44 posts big blind 20 and is all-in
+Dealt to MathisKcr [Tc 6h]
+*** PRE-FLOP *** 
+pins631 raises 40 to 60
+MathisKcr folds
+*** FLOP *** [8s 2h Ts]
+*** TURN *** [8s 2h Ts][Ks]
+*** RIVER *** [8s 2h Ts Ks][3s]
+*** SHOW DOWN ***
+FGNandez44 shows [Qs Qd] (Flush King high)
+pins631 shows [2d As] (Flush Ace high)
+pins631 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [8s 2h Ts Ks 3s]
+Seat 2: FGNandez44 (big blind) showed [Qs Qd] and lost with Flush King high
+Seat 3: pins631 (button) showed [2d As] and won 90 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4691420686118289409-6-1775657612 - Holdem no limit (15/30) - 2026/04/08 14:13:32 UTC
+Table: 'Expresso Nitro(1092306498)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (550)
+Seat 3: pins631 (350)
+*** ANTE/BLINDS ***
+pins631 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kh Js]
+*** PRE-FLOP *** 
+pins631 calls 15
+MathisKcr raises 520 to 550 and is all-in
+pins631 folds
+MathisKcr collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Seat 1: MathisKcr (big blind) won 580
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4691420686118289409-7-1775657638 - Holdem no limit (15/30) - 2026/04/08 14:13:58 UTC
+Table: 'Expresso Nitro(1092306498)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (580)
+Seat 3: pins631 (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+pins631 posts big blind 30
+Dealt to MathisKcr [8d Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 550 to 580 and is all-in
+pins631 folds
+MathisKcr collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Seat 1: MathisKcr (small blind) (button) won 610
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4691420686118289409-8-1775657646 - Holdem no limit (15/30) - 2026/04/08 14:14:06 UTC
+Table: 'Expresso Nitro(1092306498)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (610)
+Seat 3: pins631 (290)
+*** ANTE/BLINDS ***
+pins631 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kd Qs]
+*** PRE-FLOP *** 
+pins631 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4691420686118289409-9-1775657652 - Holdem no limit (15/30) - 2026/04/08 14:14:12 UTC
+Table: 'Expresso Nitro(1092306498)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (625)
+Seat 3: pins631 (275)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+pins631 posts big blind 30
+Dealt to MathisKcr [7s 7h]
+*** PRE-FLOP *** 
+MathisKcr raises 595 to 625 and is all-in
+pins631 calls 245 and is all-in
+*** FLOP *** [Ts 8c 6s]
+*** TURN *** [Ts 8c 6s][6d]
+*** RIVER *** [Ts 8c 6s 6d][5c]
+*** SHOW DOWN ***
+pins631 shows [5d Kc] (Two pairs : 6 and 5)
+MathisKcr shows [7s 7h] (Two pairs : 7 and 6)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ts 8c 6s 6d 5c]
+Seat 1: MathisKcr (small blind) (button) showed [7s 7h] and won 900 with Two pairs : 7 and 6
+Seat 3: pins631 (big blind) showed [5d Kc] and lost with Two pairs : 6 and 5
+
+

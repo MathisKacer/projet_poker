@@ -1,0 +1,60 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4654153168991551489-1-1774220062 - Holdem no limit (10/20) - 2026/03/22 22:54:22 UTC
+Table: 'Expresso Nitro(1083629478)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Adrianlezaun (300)
+Seat 2: Truie-poilu0 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Truie-poilu0 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3s Qs]
+*** PRE-FLOP *** 
+Adrianlezaun calls 20
+Truie-poilu0 raises 280 to 300 and is all-in
+MathisKcr folds
+Adrianlezaun calls 280 and is all-in
+*** FLOP *** [8s Qh 9h]
+*** TURN *** [8s Qh 9h][Tc]
+*** RIVER *** [8s Qh 9h Tc][Td]
+*** SHOW DOWN ***
+Truie-poilu0 shows [8c Ah] (Two pairs : Tens and 8)
+Adrianlezaun shows [Qc Kh] (Two pairs : Queens and Tens)
+Adrianlezaun collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8s Qh 9h Tc Td]
+Seat 1: Adrianlezaun (button) showed [Qc Kh] and won 620 with Two pairs : Queens and Tens
+Seat 2: Truie-poilu0 (small blind) showed [8c Ah] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4654153168991551489-2-1774220080 - Holdem no limit (10/20) - 2026/03/22 22:54:40 UTC
+Table: 'Expresso Nitro(1083629478)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Adrianlezaun (620)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Adrianlezaun posts big blind 20
+Dealt to MathisKcr [Td Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Adrianlezaun calls 40
+*** FLOP *** [Qh 9s 7s]
+Adrianlezaun bets 20
+MathisKcr calls 20
+*** TURN *** [Qh 9s 7s][Th]
+Adrianlezaun bets 20
+MathisKcr raises 57 to 77
+Adrianlezaun raises 57 to 134
+MathisKcr raises 66 to 200 and is all-in
+Adrianlezaun calls 66
+*** RIVER *** [Qh 9s 7s Th][7h]
+*** SHOW DOWN ***
+MathisKcr shows [Td Ah] (Two pairs : Tens and 7)
+Adrianlezaun shows [Qs 2c] (Two pairs : Queens and 7)
+Adrianlezaun collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Qh 9s 7s Th 7h]
+Seat 1: Adrianlezaun (big blind) showed [Qs 2c] and won 560 with Two pairs : Queens and 7
+Seat 3: MathisKcr (small blind) (button) showed [Td Ah] and lost with Two pairs : Tens and 7
+
+

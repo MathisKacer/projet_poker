@@ -1,0 +1,124 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4057515781317984257-1-1748251337 - Holdem no limit (10/20) - 2025/05/26 09:22:17 UTC
+Table: 'Expresso(944714011)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: petit_344396 (500)
+Seat 3: miKAnari (500)
+*** ANTE/BLINDS ***
+miKAnari posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d Qd]
+*** PRE-FLOP *** 
+petit_344396 calls 20
+miKAnari calls 10
+MathisKcr checks
+*** FLOP *** [Ac Ts 6h]
+miKAnari checks
+MathisKcr checks
+petit_344396 checks
+*** TURN *** [Ac Ts 6h][4s]
+miKAnari checks
+MathisKcr checks
+petit_344396 checks
+*** RIVER *** [Ac Ts 6h 4s][8c]
+miKAnari bets 60
+MathisKcr folds
+petit_344396 calls 60
+*** SHOW DOWN ***
+petit_344396 shows [Qs 4h] (One pair : 4)
+miKAnari shows [5d 7c] (Straight 8 high)
+miKAnari collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ac Ts 6h 4s 8c]
+Seat 2: petit_344396 (button) showed [Qs 4h] and lost with One pair : 4
+Seat 3: miKAnari (small blind) showed [5d 7c] and won 180 with Straight 8 high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4057515781317984257-2-1748251387 - Holdem no limit (10/20) - 2025/05/26 09:23:07 UTC
+Table: 'Expresso(944714011)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (480)
+Seat 2: petit_344396 (420)
+Seat 3: miKAnari (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+petit_344396 posts big blind 20
+Dealt to MathisKcr [3h 7c]
+*** PRE-FLOP *** 
+miKAnari raises 30 to 50
+MathisKcr folds
+petit_344396 calls 30
+*** FLOP *** [8s 9d 6c]
+petit_344396 checks
+miKAnari checks
+*** TURN *** [8s 9d 6c][7d]
+petit_344396 bets 20
+miKAnari folds
+petit_344396 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [8s 9d 6c 7d]
+Seat 2: petit_344396 (big blind) won 130
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 1 - HandId: #4057515781317984257-3-1748251419 - Holdem no limit (10/20) - 2025/05/26 09:23:39 UTC
+Table: 'Expresso(944714011)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (470)
+Seat 2: petit_344396 (480)
+Seat 3: miKAnari (550)
+*** ANTE/BLINDS ***
+petit_344396 posts small blind 10
+miKAnari posts big blind 20
+Dealt to MathisKcr [Th 5h]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+petit_344396 calls 10
+miKAnari checks
+*** FLOP *** [Qd Qh 7c]
+petit_344396 checks
+miKAnari checks
+MathisKcr checks
+*** TURN *** [Qd Qh 7c][4h]
+petit_344396 bets 60
+miKAnari folds
+MathisKcr calls 60
+*** RIVER *** [Qd Qh 7c 4h][2s]
+petit_344396 bets 117
+MathisKcr folds
+petit_344396 collected 297 from pot
+*** SUMMARY ***
+Total pot 297 | No rake
+Board: [Qd Qh 7c 4h 2s]
+Seat 2: petit_344396 (small blind) won 297
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.23€ + 0.02€ level: 2 - HandId: #4057515781317984257-4-1748251468 - Holdem no limit (15/30) - 2025/05/26 09:24:28 UTC
+Table: 'Expresso(944714011)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (390)
+Seat 2: petit_344396 (580)
+Seat 3: miKAnari (530)
+*** ANTE/BLINDS ***
+miKAnari posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7h 6s]
+*** PRE-FLOP *** 
+petit_344396 raises 30 to 60
+miKAnari calls 45
+MathisKcr calls 30
+*** FLOP *** [Jh 5s 7s]
+miKAnari checks
+MathisKcr bets 330 and is all-in
+petit_344396 raises 190 to 520 and is all-in
+miKAnari folds
+*** TURN *** [Jh 5s 7s][4d]
+*** RIVER *** [Jh 5s 7s 4d][As]
+*** SHOW DOWN ***
+MathisKcr shows [7h 6s] (One pair : 7)
+petit_344396 shows [7d 7c] (Trips of 7)
+petit_344396 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [Jh 5s 7s 4d As]
+Seat 1: MathisKcr (big blind) showed [7h 6s] and lost with One pair : 7
+Seat 2: petit_344396 (button) showed [7d 7c] and won 1030 with Trips of 7
+
+

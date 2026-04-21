@@ -1,0 +1,103 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664635878491029505-1-1774636708 - Holdem no limit (10/20) - 2026/03/27 18:38:28 UTC
+Table: 'Expresso Nitro(1086070174)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Botche82 (300)
+Seat 2: MathisKcr (300)
+Seat 3: poupoule 59 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+poupoule 59 posts big blind 20
+Dealt to MathisKcr [As 6d]
+*** PRE-FLOP *** 
+Botche82 folds
+MathisKcr raises 280 to 300 and is all-in
+poupoule 59 folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: MathisKcr (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664635878491029505-2-1774636715 - Holdem no limit (10/20) - 2026/03/27 18:38:35 UTC
+Table: 'Expresso Nitro(1086070174)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Botche82 (300)
+Seat 2: MathisKcr (320)
+Seat 3: poupoule 59 (280)
+*** ANTE/BLINDS ***
+poupoule 59 posts small blind 10
+Botche82 posts big blind 20
+Dealt to MathisKcr [Jc Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+poupoule 59 raises 240 to 280 and is all-in
+Botche82 folds
+MathisKcr calls 240
+*** FLOP *** [7d 4s Td]
+*** TURN *** [7d 4s Td][3h]
+*** RIVER *** [7d 4s Td 3h][4d]
+*** SHOW DOWN ***
+MathisKcr shows [Jc Ah] (One pair : 4)
+poupoule 59 shows [Ac As] (Two pairs : Aces and 4)
+poupoule 59 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [7d 4s Td 3h 4d]
+Seat 2: MathisKcr (button) showed [Jc Ah] and lost with One pair : 4
+Seat 3: poupoule 59 (small blind) showed [Ac As] and won 580 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664635878491029505-3-1774636733 - Holdem no limit (10/20) - 2026/03/27 18:38:53 UTC
+Table: 'Expresso Nitro(1086070174)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Botche82 (280)
+Seat 2: MathisKcr (40)
+Seat 3: poupoule 59 (580)
+*** ANTE/BLINDS ***
+Botche82 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qc Tc]
+*** PRE-FLOP *** 
+poupoule 59 calls 20
+Botche82 raises 260 to 280 and is all-in
+MathisKcr calls 20 and is all-in
+poupoule 59 folds
+*** FLOP *** [Js 5c 3c]
+*** TURN *** [Js 5c 3c][2c]
+*** RIVER *** [Js 5c 3c 2c][8h]
+*** SHOW DOWN ***
+Botche82 shows [2h Ad] (One pair : 2)
+MathisKcr shows [Qc Tc] (Flush Queen high)
+MathisKcr collected 100 from main pot
+Botche82 collected 240 from side pot 1
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Js 5c 3c 2c 8h]
+Seat 1: Botche82 (small blind) showed [2h Ad] and won 240 with One pair : 2
+Seat 2: MathisKcr (big blind) showed [Qc Tc] and won 100 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664635878491029505-4-1774636747 - Holdem no limit (10/20) - 2026/03/27 18:39:07 UTC
+Table: 'Expresso Nitro(1086070174)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Botche82 (240)
+Seat 2: MathisKcr (100)
+Seat 3: poupoule 59 (560)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+poupoule 59 posts big blind 20
+Dealt to MathisKcr [Ad Ks]
+*** PRE-FLOP *** 
+Botche82 raises 220 to 240 and is all-in
+MathisKcr calls 90 and is all-in
+poupoule 59 folds
+*** FLOP *** [Th 9h 9d]
+*** TURN *** [Th 9h 9d][2c]
+*** RIVER *** [Th 9h 9d 2c][Qd]
+*** SHOW DOWN ***
+MathisKcr shows [Ad Ks] (One pair : 9)
+Botche82 shows [Qc Ah] (Two pairs : Queens and 9)
+Botche82 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Th 9h 9d 2c Qd]
+Seat 1: Botche82 (button) showed [Qc Ah] and won 360 with Two pairs : Queens and 9
+Seat 2: MathisKcr (small blind) showed [Ad Ks] and lost with One pair : 9
+
+

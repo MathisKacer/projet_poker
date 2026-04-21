@@ -1,0 +1,107 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670994792321122305-1-1774892274 - Holdem no limit (10/20) - 2026/03/30 17:37:54 UTC
+Table: 'Expresso Nitro(1087550724)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: daka 13 (300)
+Seat 3: Sasamed59 (300)
+*** ANTE/BLINDS ***
+daka 13 posts small blind 10
+Sasamed59 posts big blind 20
+Dealt to MathisKcr [7c 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+daka 13 folds
+Sasamed59 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Sasamed59 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670994792321122305-2-1774892288 - Holdem no limit (10/20) - 2026/03/30 17:38:08 UTC
+Table: 'Expresso Nitro(1087550724)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: daka 13 (290)
+Seat 3: Sasamed59 (310)
+*** ANTE/BLINDS ***
+Sasamed59 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c 2h]
+*** PRE-FLOP *** 
+daka 13 folds
+Sasamed59 raises 290 to 310 and is all-in
+MathisKcr folds
+Sasamed59 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Sasamed59 (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670994792321122305-3-1774892298 - Holdem no limit (10/20) - 2026/03/30 17:38:18 UTC
+Table: 'Expresso Nitro(1087550724)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: daka 13 (290)
+Seat 3: Sasamed59 (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+daka 13 posts big blind 20
+Dealt to MathisKcr [5h Tc]
+*** PRE-FLOP *** 
+Sasamed59 raises 310 to 330 and is all-in
+MathisKcr folds
+daka 13 folds
+Sasamed59 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: Sasamed59 (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670994792321122305-4-1774892314 - Holdem no limit (10/20) - 2026/03/30 17:38:34 UTC
+Table: 'Expresso Nitro(1087550724)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: daka 13 (270)
+Seat 3: Sasamed59 (360)
+*** ANTE/BLINDS ***
+daka 13 posts small blind 10
+Sasamed59 posts big blind 20
+Dealt to MathisKcr [Kh 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+daka 13 folds
+Sasamed59 calls 20
+*** FLOP *** [Qd 4s Tc]
+Sasamed59 checks
+MathisKcr bets 40
+Sasamed59 folds
+MathisKcr collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [Qd 4s Tc]
+Seat 1: MathisKcr (button) won 130
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670994792321122305-5-1774892349 - Holdem no limit (15/30) - 2026/03/30 17:39:09 UTC
+Table: 'Expresso Nitro(1087550724)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (320)
+Seat 2: daka 13 (260)
+Seat 3: Sasamed59 (320)
+*** ANTE/BLINDS ***
+Sasamed59 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ah Jd]
+*** PRE-FLOP *** 
+daka 13 folds
+Sasamed59 raises 290 to 320 and is all-in
+MathisKcr calls 290 and is all-in
+*** FLOP *** [7s 9d 9h]
+*** TURN *** [7s 9d 9h][2d]
+*** RIVER *** [7s 9d 9h 2d][2s]
+*** SHOW DOWN ***
+MathisKcr shows [Ah Jd] (Two pairs : 9 and 2)
+Sasamed59 shows [6d 7h] (Two pairs : 9 and 7)
+Sasamed59 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [7s 9d 9h 2d 2s]
+Seat 1: MathisKcr (big blind) showed [Ah Jd] and lost with Two pairs : 9 and 2
+Seat 3: Sasamed59 (small blind) showed [6d 7h] and won 640 with Two pairs : 9 and 7
+
+

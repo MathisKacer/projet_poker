@@ -1,0 +1,143 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351755091594706945-1-1762193448 - Holdem no limit (10/20) - 2025/11/03 18:10:48 UTC
+Table: 'Expresso Nitro(1013221939)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Grillon8922 (300)
+Seat 2: MathisKcr (300)
+Seat 3: keds976 (300)
+*** ANTE/BLINDS ***
+keds976 posts small blind 10
+Grillon8922 posts big blind 20
+Dealt to MathisKcr [7h 5c]
+*** PRE-FLOP *** 
+MathisKcr folds
+keds976 calls 10
+Grillon8922 checks
+*** FLOP *** [Th 7c 9h]
+keds976 checks
+Grillon8922 checks
+*** TURN *** [Th 7c 9h][4d]
+keds976 checks
+Grillon8922 checks
+*** RIVER *** [Th 7c 9h 4d][9s]
+keds976 checks
+Grillon8922 checks
+*** SHOW DOWN ***
+keds976 shows [Qc 8c] (One pair : 9)
+Grillon8922 shows [Js Qh] (One pair : 9)
+Grillon8922 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Th 7c 9h 4d 9s]
+Seat 1: Grillon8922 (big blind) showed [Js Qh] and won 40 with One pair : 9
+Seat 3: keds976 (small blind) showed [Qc 8c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351755091594706945-2-1762193476 - Holdem no limit (10/20) - 2025/11/03 18:11:16 UTC
+Table: 'Expresso Nitro(1013221939)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Grillon8922 (320)
+Seat 2: MathisKcr (300)
+Seat 3: keds976 (280)
+*** ANTE/BLINDS ***
+Grillon8922 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3s Ad]
+*** PRE-FLOP *** 
+keds976 raises 40 to 60
+Grillon8922 folds
+MathisKcr calls 40
+*** FLOP *** [Ac 9h 7d]
+MathisKcr bets 60
+keds976 raises 160 to 220 and is all-in
+MathisKcr calls 160
+*** TURN *** [Ac 9h 7d][7h]
+*** RIVER *** [Ac 9h 7d 7h][6c]
+*** SHOW DOWN ***
+MathisKcr shows [3s Ad] (Two pairs : Aces and 7)
+keds976 shows [Ah Kc] (Two pairs : Aces and 7)
+keds976 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Ac 9h 7d 7h 6c]
+Seat 2: MathisKcr (big blind) showed [3s Ad] and lost with Two pairs : Aces and 7
+Seat 3: keds976 (button) showed [Ah Kc] and won 570 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351755091594706945-3-1762193499 - Holdem no limit (10/20) - 2025/11/03 18:11:39 UTC
+Table: 'Expresso Nitro(1013221939)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Grillon8922 (310)
+Seat 2: MathisKcr (20)
+Seat 3: keds976 (570)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+keds976 posts big blind 20
+Dealt to MathisKcr [9h 8s]
+*** PRE-FLOP *** 
+Grillon8922 folds
+MathisKcr calls 10 and is all-in
+*** FLOP *** [Tc 2c 8h]
+*** TURN *** [Tc 2c 8h][7d]
+*** RIVER *** [Tc 2c 8h 7d][Kc]
+*** SHOW DOWN ***
+keds976 shows [Qd 5d] (High card : King)
+MathisKcr shows [9h 8s] (One pair : 8)
+MathisKcr collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Tc 2c 8h 7d Kc]
+Seat 2: MathisKcr (small blind) showed [9h 8s] and won 40 with One pair : 8
+Seat 3: keds976 (big blind) showed [Qd 5d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4351755091594706945-4-1762193510 - Holdem no limit (15/30) - 2025/11/03 18:11:50 UTC
+Table: 'Expresso Nitro(1013221939)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Grillon8922 (310)
+Seat 2: MathisKcr (40)
+Seat 3: keds976 (550)
+*** ANTE/BLINDS ***
+keds976 posts small blind 15
+Grillon8922 posts big blind 30
+Dealt to MathisKcr [5s Tc]
+*** PRE-FLOP *** 
+MathisKcr folds
+keds976 calls 15
+Grillon8922 checks
+*** FLOP *** [4s Td Kh]
+keds976 checks
+Grillon8922 bets 60
+keds976 folds
+Grillon8922 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4s Td Kh]
+Seat 1: Grillon8922 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4351755091594706945-5-1762193526 - Holdem no limit (15/30) - 2025/11/03 18:12:06 UTC
+Table: 'Expresso Nitro(1013221939)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Grillon8922 (340)
+Seat 2: MathisKcr (40)
+Seat 3: keds976 (520)
+*** ANTE/BLINDS ***
+Grillon8922 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8c Js]
+*** PRE-FLOP *** 
+keds976 raises 30 to 60
+Grillon8922 calls 45
+MathisKcr calls 10 and is all-in
+*** FLOP *** [7h 7s 3d]
+Grillon8922 bets 30
+keds976 raises 220 to 250
+Grillon8922 folds
+*** TURN *** [7h 7s 3d][Qd]
+*** RIVER *** [7h 7s 3d Qd][Td]
+*** SHOW DOWN ***
+MathisKcr shows [8c Js] (One pair : 7)
+keds976 shows [Ac Ad] (Two pairs : Aces and 7)
+keds976 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [7h 7s 3d Qd Td]
+Seat 2: MathisKcr (big blind) showed [8c Js] and lost with One pair : 7
+Seat 3: keds976 (button) showed [Ac Ad] and won 440 with Two pairs : Aces and 7
+
+

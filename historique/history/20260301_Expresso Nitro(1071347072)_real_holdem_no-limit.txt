@@ -1,0 +1,121 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601400636905357313-1-1772387537 - Holdem no limit (10/20) - 2026/03/01 17:52:17 UTC
+Table: 'Expresso Nitro(1071347072)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Loubar72 (300)
+Seat 3: dino-amore54 (300)
+*** ANTE/BLINDS ***
+dino-amore54 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4d Qd]
+*** PRE-FLOP *** 
+Loubar72 folds
+dino-amore54 raises 40 to 60
+MathisKcr folds
+dino-amore54 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: dino-amore54 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601400636905357313-2-1772387560 - Holdem no limit (10/20) - 2026/03/01 17:52:40 UTC
+Table: 'Expresso Nitro(1071347072)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Loubar72 (300)
+Seat 3: dino-amore54 (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Loubar72 posts big blind 20
+Dealt to MathisKcr [4s Tc]
+*** PRE-FLOP *** 
+dino-amore54 raises 50 to 70
+MathisKcr folds
+Loubar72 calls 50
+*** FLOP *** [2d Ah 8h]
+Loubar72 checks
+dino-amore54 bets 98
+Loubar72 folds
+dino-amore54 collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [2d Ah 8h]
+Seat 3: dino-amore54 (button) won 248
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601400636905357313-3-1772387586 - Holdem no limit (10/20) - 2026/03/01 17:53:06 UTC
+Table: 'Expresso Nitro(1071347072)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: Loubar72 (230)
+Seat 3: dino-amore54 (400)
+*** ANTE/BLINDS ***
+Loubar72 posts small blind 10
+dino-amore54 posts big blind 20
+Dealt to MathisKcr [7s Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 250 to 270 and is all-in
+Loubar72 folds
+dino-amore54 folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: MathisKcr (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601400636905357313-4-1772387602 - Holdem no limit (15/30) - 2026/03/01 17:53:22 UTC
+Table: 'Expresso Nitro(1071347072)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Loubar72 (220)
+Seat 3: dino-amore54 (380)
+*** ANTE/BLINDS ***
+dino-amore54 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kd 3h]
+*** PRE-FLOP *** 
+Loubar72 folds
+dino-amore54 raises 60 to 90
+MathisKcr calls 60
+*** FLOP *** [Ad 8d 9d]
+dino-amore54 bets 180
+MathisKcr raises 30 to 210 and is all-in
+dino-amore54 calls 30
+*** TURN *** [Ad 8d 9d][5c]
+*** RIVER *** [Ad 8d 9d 5c][5h]
+*** SHOW DOWN ***
+dino-amore54 shows [Qh 2c] (One pair : 5)
+MathisKcr shows [Kd 3h] (One pair : 5)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ad 8d 9d 5c 5h]
+Seat 1: MathisKcr (big blind) showed [Kd 3h] and won 600 with One pair : 5
+Seat 3: dino-amore54 (small blind) showed [Qh 2c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601400636905357313-5-1772387633 - Holdem no limit (15/30) - 2026/03/01 17:53:53 UTC
+Table: 'Expresso Nitro(1071347072)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (600)
+Seat 2: Loubar72 (220)
+Seat 3: dino-amore54 (80)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Loubar72 posts big blind 30
+Dealt to MathisKcr [Ks Th]
+*** PRE-FLOP *** 
+dino-amore54 raises 50 to 80 and is all-in
+MathisKcr raises 520 to 600 and is all-in
+Loubar72 calls 190 and is all-in
+*** FLOP *** [4c 4d 4s]
+*** TURN *** [4c 4d 4s][3s]
+*** RIVER *** [4c 4d 4s 3s][Kh]
+*** SHOW DOWN ***
+Loubar72 shows [As Qd] (Trips of 4)
+dino-amore54 shows [Jc Ah] (Trips of 4)
+MathisKcr shows [Ks Th] (Full of 4 and Kings)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4c 4d 4s 3s Kh]
+Seat 1: MathisKcr (small blind) showed [Ks Th] and won 900 with Full of 4 and Kings
+Seat 2: Loubar72 (big blind) showed [As Qd] and lost with Trips of 4
+Seat 3: dino-amore54 (button) showed [Jc Ah] and lost with Trips of 4
+
+

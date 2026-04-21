@@ -1,0 +1,183 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4227128356279156737-1-1756815162 - Holdem no limit (10/20) - 2025/09/02 12:12:42 UTC
+Table: 'Expresso(984205016)#0' 3-max (real money) Seat #1 is the button
+Seat 1: laBiskote (500)
+Seat 2: MathisKcr (500)
+Seat 3: Paulolodu76 (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Paulolodu76 posts big blind 20
+Dealt to MathisKcr [5s As]
+*** PRE-FLOP *** 
+laBiskote folds
+MathisKcr raises 40 to 60
+Paulolodu76 calls 40
+*** FLOP *** [4d Jc Kh]
+MathisKcr bets 100
+Paulolodu76 folds
+MathisKcr collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [4d Jc Kh]
+Seat 2: MathisKcr (small blind) won 220
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4227128356279156737-2-1756815185 - Holdem no limit (10/20) - 2025/09/02 12:13:05 UTC
+Table: 'Expresso(984205016)#0' 3-max (real money) Seat #2 is the button
+Seat 1: laBiskote (500)
+Seat 2: MathisKcr (560)
+Seat 3: Paulolodu76 (440)
+*** ANTE/BLINDS ***
+Paulolodu76 posts small blind 10
+laBiskote posts big blind 20
+Dealt to MathisKcr [Ac Tc]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Paulolodu76 folds
+laBiskote folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4227128356279156737-3-1756815198 - Holdem no limit (10/20) - 2025/09/02 12:13:18 UTC
+Table: 'Expresso(984205016)#0' 3-max (real money) Seat #3 is the button
+Seat 1: laBiskote (480)
+Seat 2: MathisKcr (590)
+Seat 3: Paulolodu76 (430)
+*** ANTE/BLINDS ***
+laBiskote posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th Ks]
+*** PRE-FLOP *** 
+Paulolodu76 calls 20
+laBiskote raises 60 to 80
+MathisKcr calls 60
+Paulolodu76 calls 60
+*** FLOP *** [Jd Kd 3s]
+laBiskote bets 400 and is all-in
+MathisKcr calls 400
+Paulolodu76 folds
+*** TURN *** [Jd Kd 3s][9c]
+*** RIVER *** [Jd Kd 3s 9c][5s]
+*** SHOW DOWN ***
+laBiskote shows [Ah Qh] (High card : Ace)
+MathisKcr shows [Th Ks] (One pair : Kings)
+MathisKcr collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [Jd Kd 3s 9c 5s]
+Seat 1: laBiskote (small blind) showed [Ah Qh] and lost with High card : Ace
+Seat 2: MathisKcr (big blind) showed [Th Ks] and won 1040 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4227128356279156737-4-1756815218 - Holdem no limit (10/20) - 2025/09/02 12:13:38 UTC
+Table: 'Expresso(984205016)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (1150)
+Seat 3: Paulolodu76 (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Paulolodu76 posts big blind 20
+Dealt to MathisKcr [5c Td]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+Paulolodu76 checks
+*** FLOP *** [5d 7d 7c]
+Paulolodu76 checks
+MathisKcr bets 60
+Paulolodu76 folds
+MathisKcr collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [5d 7d 7c]
+Seat 2: MathisKcr (small blind) (button) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4227128356279156737-5-1756815231 - Holdem no limit (10/20) - 2025/09/02 12:13:51 UTC
+Table: 'Expresso(984205016)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (1170)
+Seat 3: Paulolodu76 (330)
+*** ANTE/BLINDS ***
+Paulolodu76 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6c 6s]
+*** PRE-FLOP *** 
+Paulolodu76 calls 10
+MathisKcr raises 1150 to 1170 and is all-in
+Paulolodu76 folds
+MathisKcr collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Seat 2: MathisKcr (big blind) won 1190
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4227128356279156737-6-1756815240 - Holdem no limit (10/20) - 2025/09/02 12:14:00 UTC
+Table: 'Expresso(984205016)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (1190)
+Seat 3: Paulolodu76 (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Paulolodu76 posts big blind 20
+Dealt to MathisKcr [Th Js]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+Paulolodu76 checks
+*** FLOP *** [2s 2c 4c]
+Paulolodu76 bets 290 and is all-in
+MathisKcr folds
+Paulolodu76 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [2s 2c 4c]
+Seat 3: Paulolodu76 (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4227128356279156737-7-1756815252 - Holdem no limit (15/30) - 2025/09/02 12:14:12 UTC
+Table: 'Expresso(984205016)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (1170)
+Seat 3: Paulolodu76 (330)
+*** ANTE/BLINDS ***
+Paulolodu76 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2h Ad]
+*** PRE-FLOP *** 
+Paulolodu76 calls 15
+MathisKcr raises 30 to 60
+Paulolodu76 calls 30
+*** FLOP *** [5c 4h 8s]
+MathisKcr bets 60
+Paulolodu76 raises 210 to 270 and is all-in
+MathisKcr folds
+Paulolodu76 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [5c 4h 8s]
+Seat 3: Paulolodu76 (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4227128356279156737-8-1756815271 - Holdem no limit (15/30) - 2025/09/02 12:14:31 UTC
+Table: 'Expresso(984205016)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (1050)
+Seat 3: Paulolodu76 (450)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Paulolodu76 posts big blind 30
+Dealt to MathisKcr [Kd Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 90
+Paulolodu76 raises 360 to 450 and is all-in
+MathisKcr calls 360
+*** FLOP *** [Jc As 5h]
+*** TURN *** [Jc As 5h][6s]
+*** RIVER *** [Jc As 5h 6s][8c]
+*** SHOW DOWN ***
+Paulolodu76 shows [Ac 4c] (One pair : Aces)
+MathisKcr shows [Kd Ad] (One pair : Aces)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jc As 5h 6s 8c]
+Seat 2: MathisKcr (small blind) (button) showed [Kd Ad] and won 900 with One pair : Aces
+Seat 3: Paulolodu76 (big blind) showed [Ac 4c] and lost with One pair : Aces
+
+

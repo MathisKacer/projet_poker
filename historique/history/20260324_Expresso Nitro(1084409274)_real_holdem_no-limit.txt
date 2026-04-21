@@ -1,0 +1,298 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657502367309103105-1-1774348411 - Holdem no limit (10/20) - 2026/03/24 10:33:31 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ternascoarag (300)
+Seat 2: Numa0302 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+ternascoarag posts big blind 20
+Dealt to MathisKcr [6c Qs]
+*** PRE-FLOP *** 
+Numa0302 folds
+MathisKcr calls 10
+ternascoarag checks
+*** FLOP *** [4h 7h 4d]
+MathisKcr checks
+ternascoarag checks
+*** TURN *** [4h 7h 4d][5d]
+MathisKcr checks
+ternascoarag checks
+*** RIVER *** [4h 7h 4d 5d][9h]
+MathisKcr checks
+ternascoarag checks
+*** SHOW DOWN ***
+MathisKcr shows [6c Qs] (One pair : 4)
+ternascoarag shows [Qc Ts] (One pair : 4)
+ternascoarag collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [4h 7h 4d 5d 9h]
+Seat 1: ternascoarag (big blind) showed [Qc Ts] and won 40 with One pair : 4
+Seat 3: MathisKcr (small blind) showed [6c Qs] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657502367309103105-2-1774348443 - Holdem no limit (10/20) - 2026/03/24 10:34:03 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ternascoarag (320)
+Seat 2: Numa0302 (300)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+ternascoarag posts small blind 10
+Numa0302 posts big blind 20
+Dealt to MathisKcr [Kh 2s]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+ternascoarag folds
+Numa0302 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657502367309103105-3-1774348456 - Holdem no limit (10/20) - 2026/03/24 10:34:16 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ternascoarag (310)
+Seat 2: Numa0302 (280)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+Numa0302 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Td Qd]
+*** PRE-FLOP *** 
+ternascoarag folds
+Numa0302 calls 10
+MathisKcr raises 40 to 60
+Numa0302 calls 40
+*** FLOP *** [6h 5s Jd]
+Numa0302 checks
+MathisKcr bets 42
+Numa0302 folds
+MathisKcr collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [6h 5s Jd]
+Seat 3: MathisKcr (big blind) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4657502367309103105-4-1774348475 - Holdem no limit (15/30) - 2026/03/24 10:34:35 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ternascoarag (310)
+Seat 2: Numa0302 (220)
+Seat 3: MathisKcr (370)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+ternascoarag posts big blind 30
+Dealt to MathisKcr [4h Kd]
+*** PRE-FLOP *** 
+Numa0302 folds
+MathisKcr raises 60 to 90
+ternascoarag folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: MathisKcr (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4657502367309103105-5-1774348487 - Holdem no limit (15/30) - 2026/03/24 10:34:47 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ternascoarag (280)
+Seat 2: Numa0302 (220)
+Seat 3: MathisKcr (400)
+*** ANTE/BLINDS ***
+ternascoarag posts small blind 15
+Numa0302 posts big blind 30
+Dealt to MathisKcr [Qc Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 90
+ternascoarag folds
+Numa0302 folds
+MathisKcr collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 3: MathisKcr (button) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4657502367309103105-6-1774348497 - Holdem no limit (15/30) - 2026/03/24 10:34:57 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ternascoarag (265)
+Seat 2: Numa0302 (190)
+Seat 3: MathisKcr (445)
+*** ANTE/BLINDS ***
+Numa0302 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Th 7c]
+*** PRE-FLOP *** 
+ternascoarag folds
+Numa0302 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4657502367309103105-7-1774348503 - Holdem no limit (15/30) - 2026/03/24 10:35:03 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ternascoarag (265)
+Seat 2: Numa0302 (175)
+Seat 3: MathisKcr (460)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+ternascoarag posts big blind 30
+Dealt to MathisKcr [8c 5h]
+*** PRE-FLOP *** 
+Numa0302 calls 30
+MathisKcr folds
+ternascoarag checks
+*** FLOP *** [7h Kh Qh]
+ternascoarag checks
+Numa0302 bets 30
+ternascoarag folds
+Numa0302 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [7h Kh Qh]
+Seat 2: Numa0302 (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4657502367309103105-8-1774348514 - Holdem no limit (15/30) - 2026/03/24 10:35:14 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ternascoarag (235)
+Seat 2: Numa0302 (220)
+Seat 3: MathisKcr (445)
+*** ANTE/BLINDS ***
+ternascoarag posts small blind 15
+Numa0302 posts big blind 30
+Dealt to MathisKcr [8d Tc]
+*** PRE-FLOP *** 
+MathisKcr folds
+ternascoarag folds
+Numa0302 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Numa0302 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4657502367309103105-9-1774348526 - Holdem no limit (15/30) - 2026/03/24 10:35:26 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ternascoarag (220)
+Seat 2: Numa0302 (235)
+Seat 3: MathisKcr (445)
+*** ANTE/BLINDS ***
+Numa0302 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7s 2c]
+*** PRE-FLOP *** 
+ternascoarag folds
+Numa0302 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4657502367309103105-10-1774348533 - Holdem no limit (20/40) - 2026/03/24 10:35:33 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ternascoarag (220)
+Seat 2: Numa0302 (220)
+Seat 3: MathisKcr (460)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+ternascoarag posts big blind 40
+Dealt to MathisKcr [4h 6c]
+*** PRE-FLOP *** 
+Numa0302 folds
+MathisKcr folds
+ternascoarag collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: ternascoarag (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4657502367309103105-11-1774348541 - Holdem no limit (20/40) - 2026/03/24 10:35:41 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ternascoarag (240)
+Seat 2: Numa0302 (220)
+Seat 3: MathisKcr (440)
+*** ANTE/BLINDS ***
+ternascoarag posts small blind 20
+Numa0302 posts big blind 40
+Dealt to MathisKcr [8h 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+ternascoarag raises 200 to 240 and is all-in
+Numa0302 calls 180 and is all-in
+*** FLOP *** [7h 2c Kh]
+*** TURN *** [7h 2c Kh][Qs]
+*** RIVER *** [7h 2c Kh Qs][3d]
+*** SHOW DOWN ***
+ternascoarag shows [Qc 8d] (One pair : Queens)
+Numa0302 shows [7s Kd] (Two pairs : Kings and 7)
+Numa0302 collected 440 from main pot
+ternascoarag collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [7h 2c Kh Qs 3d]
+Seat 1: ternascoarag (small blind) showed [Qc 8d] and won 20 with One pair : Queens
+Seat 2: Numa0302 (big blind) showed [7s Kd] and won 440 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4657502367309103105-12-1774348563 - Holdem no limit (20/40) - 2026/03/24 10:36:03 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ternascoarag (20)
+Seat 2: Numa0302 (440)
+Seat 3: MathisKcr (440)
+*** ANTE/BLINDS ***
+Numa0302 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jc 7c]
+*** PRE-FLOP *** 
+ternascoarag folds
+Numa0302 calls 20
+MathisKcr raises 80 to 120
+Numa0302 raises 320 to 440 and is all-in
+MathisKcr calls 320 and is all-in
+*** FLOP *** [5h Ah As]
+*** TURN *** [5h Ah As][Ac]
+*** RIVER *** [5h Ah As Ac][Qc]
+*** SHOW DOWN ***
+Numa0302 shows [8h Jh] (Trips of Aces)
+MathisKcr shows [Jc 7c] (Trips of Aces)
+MathisKcr collected 440 from pot
+Numa0302 collected 440 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [5h Ah As Ac Qc]
+Seat 2: Numa0302 (small blind) showed [8h Jh] and won 440 with Trips of Aces
+Seat 3: MathisKcr (big blind) showed [Jc 7c] and won 440 with Trips of Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4657502367309103105-13-1774348593 - Holdem no limit (30/60) - 2026/03/24 10:36:33 UTC
+Table: 'Expresso Nitro(1084409274)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ternascoarag (20)
+Seat 2: Numa0302 (440)
+Seat 3: MathisKcr (440)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+ternascoarag posts big blind 20 and is all-in
+Dealt to MathisKcr [Kc 6c]
+*** PRE-FLOP *** 
+Numa0302 calls 60
+MathisKcr raises 380 to 440 and is all-in
+Numa0302 calls 380 and is all-in
+*** FLOP *** [9h Kh 7c]
+*** TURN *** [9h Kh 7c][7d]
+*** RIVER *** [9h Kh 7c 7d][Qd]
+*** SHOW DOWN ***
+ternascoarag shows [Tc As] (One pair : 7)
+Numa0302 shows [Jh 6h] (One pair : 7)
+MathisKcr shows [Kc 6c] (Two pairs : Kings and 7)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9h Kh 7c 7d Qd]
+Seat 1: ternascoarag (big blind) showed [Tc As] and lost with One pair : 7
+Seat 2: Numa0302 (button) showed [Jh 6h] and lost with One pair : 7
+Seat 3: MathisKcr (small blind) showed [Kc 6c] and won 900 with Two pairs : Kings and 7
+
+

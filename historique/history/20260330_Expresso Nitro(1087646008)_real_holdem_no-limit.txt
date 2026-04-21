@@ -1,0 +1,99 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671404033984954369-1-1774902202 - Holdem no limit (10/20) - 2026/03/30 20:23:22 UTC
+Table: 'Expresso Nitro(1087646008)#0' 3-max (real money) Seat #1 is the button
+Seat 1: KyoppUX (300)
+Seat 2: MathisKcr (300)
+Seat 3: Lievrepechu1 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Lievrepechu1 posts big blind 20
+Dealt to MathisKcr [9h 8d]
+*** PRE-FLOP *** 
+KyoppUX raises 20 to 40
+MathisKcr folds
+Lievrepechu1 calls 20
+*** FLOP *** [Jc 5c 3h]
+Lievrepechu1 checks
+KyoppUX bets 30
+Lievrepechu1 folds
+KyoppUX collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jc 5c 3h]
+Seat 1: KyoppUX (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671404033984954369-2-1774902231 - Holdem no limit (10/20) - 2026/03/30 20:23:51 UTC
+Table: 'Expresso Nitro(1087646008)#0' 3-max (real money) Seat #2 is the button
+Seat 1: KyoppUX (350)
+Seat 2: MathisKcr (290)
+Seat 3: Lievrepechu1 (260)
+*** ANTE/BLINDS ***
+Lievrepechu1 posts small blind 10
+KyoppUX posts big blind 20
+Dealt to MathisKcr [2s 6s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lievrepechu1 raises 40 to 60
+KyoppUX raises 290 to 350 and is all-in
+Lievrepechu1 calls 200 and is all-in
+*** FLOP *** [4s Kd 4c]
+*** TURN *** [4s Kd 4c][7s]
+*** RIVER *** [4s Kd 4c 7s][5d]
+*** SHOW DOWN ***
+KyoppUX shows [Jd Js] (Two pairs : Jacks and 4)
+Lievrepechu1 shows [Ac Kh] (Two pairs : Kings and 4)
+Lievrepechu1 collected 520 from main pot
+KyoppUX collected 90 from side pot 1
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [4s Kd 4c 7s 5d]
+Seat 1: KyoppUX (big blind) showed [Jd Js] and won 90 with Two pairs : Jacks and 4
+Seat 3: Lievrepechu1 (small blind) showed [Ac Kh] and won 520 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671404033984954369-3-1774902247 - Holdem no limit (10/20) - 2026/03/30 20:24:07 UTC
+Table: 'Expresso Nitro(1087646008)#0' 3-max (real money) Seat #3 is the button
+Seat 1: KyoppUX (90)
+Seat 2: MathisKcr (290)
+Seat 3: Lievrepechu1 (520)
+*** ANTE/BLINDS ***
+KyoppUX posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9s 2h]
+*** PRE-FLOP *** 
+Lievrepechu1 folds
+KyoppUX raises 70 to 90 and is all-in
+MathisKcr folds
+KyoppUX collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Seat 1: KyoppUX (small blind) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671404033984954369-4-1774902257 - Holdem no limit (10/20) - 2026/03/30 20:24:17 UTC
+Table: 'Expresso Nitro(1087646008)#0' 3-max (real money) Seat #1 is the button
+Seat 1: KyoppUX (110)
+Seat 2: MathisKcr (270)
+Seat 3: Lievrepechu1 (520)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Lievrepechu1 posts big blind 20
+Dealt to MathisKcr [6h As]
+*** PRE-FLOP *** 
+KyoppUX folds
+MathisKcr raises 250 to 270 and is all-in
+Lievrepechu1 calls 250
+*** FLOP *** [2c 4h 5c]
+*** TURN *** [2c 4h 5c][7d]
+*** RIVER *** [2c 4h 5c 7d][Qc]
+*** SHOW DOWN ***
+MathisKcr shows [6h As] (High card : Ace)
+Lievrepechu1 shows [Kc Qs] (One pair : Queens)
+Lievrepechu1 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [2c 4h 5c 7d Qc]
+Seat 2: MathisKcr (small blind) showed [6h As] and lost with High card : Ace
+Seat 3: Lievrepechu1 (big blind) showed [Kc Qs] and won 540 with One pair : Queens
+
+

@@ -1,0 +1,126 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612404617995616257-1-1772818398 - Holdem no limit (10/20) - 2026/03/06 17:33:18 UTC
+Table: 'Expresso Nitro(1073909136)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gwen-27 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Zgeiny (300)
+*** ANTE/BLINDS ***
+Gwen-27 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c 6s]
+*** PRE-FLOP *** 
+Zgeiny calls 20
+Gwen-27 calls 10
+MathisKcr checks
+*** FLOP *** [Jd 5d 4h]
+Gwen-27 checks
+MathisKcr checks
+Zgeiny checks
+*** TURN *** [Jd 5d 4h][7d]
+Gwen-27 checks
+MathisKcr bets 21
+Zgeiny calls 21
+Gwen-27 calls 21
+*** RIVER *** [Jd 5d 4h 7d][Kc]
+Gwen-27 checks
+MathisKcr checks
+Zgeiny bets 80
+Gwen-27 calls 80
+MathisKcr folds
+*** SHOW DOWN ***
+Zgeiny shows [9s 8h] (High card : King)
+Gwen-27 shows [8s Ks] (One pair : Kings)
+Gwen-27 collected 283 from pot
+*** SUMMARY ***
+Total pot 283 | No rake
+Board: [Jd 5d 4h 7d Kc]
+Seat 1: Gwen-27 (small blind) showed [8s Ks] and won 283 with One pair : Kings
+Seat 3: Zgeiny (button) showed [9s 8h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612404617995616257-2-1772818431 - Holdem no limit (10/20) - 2026/03/06 17:33:51 UTC
+Table: 'Expresso Nitro(1073909136)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gwen-27 (462)
+Seat 2: MathisKcr (259)
+Seat 3: Zgeiny (179)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Zgeiny posts big blind 20
+Dealt to MathisKcr [3c 6h]
+*** PRE-FLOP *** 
+Gwen-27 calls 20
+MathisKcr folds
+Zgeiny checks
+*** FLOP *** [Ad Qh As]
+Zgeiny checks
+Gwen-27 bets 20
+Zgeiny folds
+Gwen-27 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Ad Qh As]
+Seat 1: Gwen-27 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4612404617995616257-3-1772818455 - Holdem no limit (10/20) - 2026/03/06 17:34:15 UTC
+Table: 'Expresso Nitro(1073909136)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gwen-27 (492)
+Seat 2: MathisKcr (249)
+Seat 3: Zgeiny (159)
+*** ANTE/BLINDS ***
+Zgeiny posts small blind 10
+Gwen-27 posts big blind 20
+Dealt to MathisKcr [3d 5d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Zgeiny calls 10
+Gwen-27 checks
+*** FLOP *** [5h Ks 2c]
+Zgeiny bets 139 and is all-in
+Gwen-27 calls 139
+*** TURN *** [5h Ks 2c][Qc]
+*** RIVER *** [5h Ks 2c Qc][7s]
+*** SHOW DOWN ***
+Gwen-27 shows [Tc 8c] (High card : King)
+Zgeiny shows [3c 2h] (One pair : 2)
+Zgeiny collected 318 from pot
+*** SUMMARY ***
+Total pot 318 | No rake
+Board: [5h Ks 2c Qc 7s]
+Seat 1: Gwen-27 (big blind) showed [Tc 8c] and lost with High card : King
+Seat 3: Zgeiny (small blind) showed [3c 2h] and won 318 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4612404617995616257-4-1772818470 - Holdem no limit (15/30) - 2026/03/06 17:34:30 UTC
+Table: 'Expresso Nitro(1073909136)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gwen-27 (333)
+Seat 2: MathisKcr (249)
+Seat 3: Zgeiny (318)
+*** ANTE/BLINDS ***
+Gwen-27 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jd Tc]
+*** PRE-FLOP *** 
+Zgeiny calls 30
+Gwen-27 calls 15
+MathisKcr raises 219 to 249 and is all-in
+Zgeiny calls 219
+Gwen-27 calls 219
+*** FLOP *** [7d 7c 6c]
+Gwen-27 bets 84 and is all-in
+Zgeiny calls 69 and is all-in
+*** TURN *** [7d 7c 6c][7s]
+*** RIVER *** [7d 7c 6c 7s][5c]
+*** SHOW DOWN ***
+MathisKcr shows [Jd Tc] (Trips of 7)
+Gwen-27 shows [5s 4s] (Full of 7 and 5)
+Zgeiny shows [6h 8s] (Full of 7 and 6)
+Zgeiny collected 885 from main pot
+Gwen-27 collected 15 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 7c 6c 7s 5c]
+Seat 1: Gwen-27 (small blind) showed [5s 4s] and won 15 with Full of 7 and 5
+Seat 2: MathisKcr (big blind) showed [Jd Tc] and lost with Trips of 7
+Seat 3: Zgeiny (button) showed [6h 8s] and won 885 with Full of 7 and 6
+
+

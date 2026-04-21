@@ -1,0 +1,153 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677122602550951937-1-1775123117 - Holdem no limit (10/20) - 2026/04/02 09:45:17 UTC
+Table: 'Expresso Nitro(1088977466)#0' 3-max (real money) Seat #3 is the button
+Seat 1: thieum 972 (300)
+Seat 2: MathisKcr (300)
+Seat 3: sharkas46 (300)
+*** ANTE/BLINDS ***
+thieum 972 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ts 8s]
+*** PRE-FLOP *** 
+sharkas46 calls 20
+thieum 972 folds
+MathisKcr checks
+*** FLOP *** [Kd 3d 9h]
+MathisKcr checks
+sharkas46 checks
+*** TURN *** [Kd 3d 9h][6c]
+MathisKcr checks
+sharkas46 bets 20
+MathisKcr folds
+sharkas46 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [Kd 3d 9h 6c]
+Seat 3: sharkas46 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677122602550951937-2-1775123138 - Holdem no limit (10/20) - 2026/04/02 09:45:38 UTC
+Table: 'Expresso Nitro(1088977466)#0' 3-max (real money) Seat #1 is the button
+Seat 1: thieum 972 (290)
+Seat 2: MathisKcr (280)
+Seat 3: sharkas46 (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+sharkas46 posts big blind 20
+Dealt to MathisKcr [Kd Td]
+*** PRE-FLOP *** 
+thieum 972 calls 20
+MathisKcr raises 260 to 280 and is all-in
+sharkas46 folds
+thieum 972 folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: MathisKcr (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677122602550951937-3-1775123157 - Holdem no limit (10/20) - 2026/04/02 09:45:57 UTC
+Table: 'Expresso Nitro(1088977466)#0' 3-max (real money) Seat #2 is the button
+Seat 1: thieum 972 (270)
+Seat 2: MathisKcr (320)
+Seat 3: sharkas46 (310)
+*** ANTE/BLINDS ***
+sharkas46 posts small blind 10
+thieum 972 posts big blind 20
+Dealt to MathisKcr [Jh 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+sharkas46 calls 10
+thieum 972 checks
+*** FLOP *** [6c 7d Jd]
+sharkas46 bets 20
+thieum 972 folds
+sharkas46 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [6c 7d Jd]
+Seat 3: sharkas46 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677122602550951937-4-1775123174 - Holdem no limit (10/20) - 2026/04/02 09:46:14 UTC
+Table: 'Expresso Nitro(1088977466)#0' 3-max (real money) Seat #3 is the button
+Seat 1: thieum 972 (250)
+Seat 2: MathisKcr (320)
+Seat 3: sharkas46 (330)
+*** ANTE/BLINDS ***
+thieum 972 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8h As]
+*** PRE-FLOP *** 
+sharkas46 folds
+thieum 972 calls 10
+MathisKcr raises 300 to 320 and is all-in
+thieum 972 calls 230 and is all-in
+*** FLOP *** [9h Qs Tc]
+*** TURN *** [9h Qs Tc][6h]
+*** RIVER *** [9h Qs Tc 6h][Jh]
+*** SHOW DOWN ***
+thieum 972 shows [Ks 7d] (Straight King high)
+MathisKcr shows [8h As] (Straight Queen high)
+MathisKcr collected 70 from side pot 1
+thieum 972 collected 500 from main pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [9h Qs Tc 6h Jh]
+Seat 1: thieum 972 (small blind) showed [Ks 7d] and won 500 with Straight King high
+Seat 2: MathisKcr (big blind) showed [8h As] and won 70 with Straight Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677122602550951937-5-1775123198 - Holdem no limit (15/30) - 2026/04/02 09:46:38 UTC
+Table: 'Expresso Nitro(1088977466)#0' 3-max (real money) Seat #1 is the button
+Seat 1: thieum 972 (500)
+Seat 2: MathisKcr (70)
+Seat 3: sharkas46 (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+sharkas46 posts big blind 30
+Dealt to MathisKcr [4c Ac]
+*** PRE-FLOP *** 
+thieum 972 folds
+MathisKcr raises 40 to 70 and is all-in
+sharkas46 calls 40
+*** FLOP *** [Jd Tc Qs]
+*** TURN *** [Jd Tc Qs][Qd]
+*** RIVER *** [Jd Tc Qs Qd][3h]
+*** SHOW DOWN ***
+sharkas46 shows [2c 9s] (One pair : Queens)
+MathisKcr shows [4c Ac] (One pair : Queens)
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Jd Tc Qs Qd 3h]
+Seat 2: MathisKcr (small blind) showed [4c Ac] and won 140 with One pair : Queens
+Seat 3: sharkas46 (big blind) showed [2c 9s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677122602550951937-6-1775123217 - Holdem no limit (15/30) - 2026/04/02 09:46:57 UTC
+Table: 'Expresso Nitro(1088977466)#0' 3-max (real money) Seat #2 is the button
+Seat 1: thieum 972 (500)
+Seat 2: MathisKcr (140)
+Seat 3: sharkas46 (260)
+*** ANTE/BLINDS ***
+sharkas46 posts small blind 15
+thieum 972 posts big blind 30
+Dealt to MathisKcr [Kh Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 110 to 140 and is all-in
+sharkas46 folds
+thieum 972 calls 110
+*** FLOP *** [As 9c Jd]
+*** TURN *** [As 9c Jd][6h]
+*** RIVER *** [As 9c Jd 6h][4c]
+*** SHOW DOWN ***
+MathisKcr shows [Kh Qh] (High card : Ace)
+thieum 972 shows [Ad Js] (Two pairs : Aces and Jacks)
+thieum 972 collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Board: [As 9c Jd 6h 4c]
+Seat 1: thieum 972 (big blind) showed [Ad Js] and won 295 with Two pairs : Aces and Jacks
+Seat 2: MathisKcr (button) showed [Kh Qh] and lost with High card : Ace
+
+

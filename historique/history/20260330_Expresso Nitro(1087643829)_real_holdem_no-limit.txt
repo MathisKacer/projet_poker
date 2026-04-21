@@ -1,0 +1,96 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671394675251216385-1-1774901974 - Holdem no limit (10/20) - 2026/03/30 20:19:34 UTC
+Table: 'Expresso Nitro(1087643829)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: smd040784 (300)
+Seat 3: Giuff (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+smd040784 posts big blind 20
+Dealt to MathisKcr [5c 7c]
+*** PRE-FLOP *** 
+Giuff calls 20
+MathisKcr folds
+smd040784 checks
+*** FLOP *** [9s 6d 2c]
+smd040784 bets 33
+Giuff calls 33
+*** TURN *** [9s 6d 2c][8h]
+smd040784 bets 75
+Giuff folds
+smd040784 collected 191 from pot
+*** SUMMARY ***
+Total pot 191 | No rake
+Board: [9s 6d 2c 8h]
+Seat 2: smd040784 (big blind) won 191
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671394675251216385-2-1774901994 - Holdem no limit (10/20) - 2026/03/30 20:19:54 UTC
+Table: 'Expresso Nitro(1087643829)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: smd040784 (363)
+Seat 3: Giuff (247)
+*** ANTE/BLINDS ***
+smd040784 posts small blind 10
+Giuff posts big blind 20
+Dealt to MathisKcr [Jc Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+smd040784 calls 30
+Giuff calls 20
+*** FLOP *** [3d 8c Jd]
+smd040784 bets 78
+Giuff raises 129 to 207 and is all-in
+MathisKcr raises 43 to 250 and is all-in
+smd040784 folds
+*** TURN *** [3d 8c Jd][Ts]
+*** RIVER *** [3d 8c Jd Ts][Qd]
+*** SHOW DOWN ***
+MathisKcr shows [Jc Kh] (One pair : Jacks)
+Giuff shows [4d Kd] (Flush King high)
+Giuff collected 612 from main pot
+MathisKcr collected 43 from side pot 1
+*** SUMMARY ***
+Total pot 655 | No rake
+Board: [3d 8c Jd Ts Qd]
+Seat 1: MathisKcr (button) showed [Jc Kh] and won 43 with One pair : Jacks
+Seat 3: Giuff (big blind) showed [4d Kd] and won 612 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671394675251216385-3-1774902021 - Holdem no limit (10/20) - 2026/03/30 20:20:21 UTC
+Table: 'Expresso Nitro(1087643829)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (43)
+Seat 2: smd040784 (245)
+Seat 3: Giuff (612)
+*** ANTE/BLINDS ***
+Giuff posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5s 8h]
+*** PRE-FLOP *** 
+smd040784 calls 20
+Giuff calls 10
+MathisKcr raises 23 to 43 and is all-in
+smd040784 calls 23
+Giuff calls 23
+*** FLOP *** [7s Ac 7h]
+Giuff checks
+smd040784 checks
+*** TURN *** [7s Ac 7h][4d]
+Giuff bets 20
+smd040784 calls 20
+*** RIVER *** [7s Ac 7h 4d][Ah]
+Giuff bets 20
+smd040784 raises 129 to 149
+Giuff calls 129
+*** SHOW DOWN ***
+MathisKcr shows [5s 8h] (Two pairs : Aces and 7)
+Giuff shows [5c 4c] (Two pairs : Aces and 7)
+smd040784 shows [6h Ad] (Full of Aces and 7)
+smd040784 collected 467 from pot
+*** SUMMARY ***
+Total pot 467 | No rake
+Board: [7s Ac 7h 4d Ah]
+Seat 1: MathisKcr (big blind) showed [5s 8h] and lost with Two pairs : Aces and 7
+Seat 2: smd040784 (button) showed [6h Ad] and won 467 with Full of Aces and 7
+Seat 3: Giuff (small blind) showed [5c 4c] and lost with Two pairs : Aces and 7
+
+

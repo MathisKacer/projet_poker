@@ -1,0 +1,231 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693427917609238529-1-1775730788 - Holdem no limit (10/20) - 2026/04/09 10:33:08 UTC
+Table: 'Expresso Nitro(1092773843)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: guylafrite (300)
+Seat 3: Sebkira (300)
+*** ANTE/BLINDS ***
+Sebkira posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9d Kc]
+*** PRE-FLOP *** 
+guylafrite calls 20
+Sebkira calls 10
+MathisKcr raises 280 to 300 and is all-in
+guylafrite folds
+Sebkira folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: MathisKcr (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693427917609238529-2-1775730798 - Holdem no limit (10/20) - 2026/04/09 10:33:18 UTC
+Table: 'Expresso Nitro(1092773843)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (340)
+Seat 2: guylafrite (280)
+Seat 3: Sebkira (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+guylafrite posts big blind 20
+Dealt to MathisKcr [3s Qh]
+*** PRE-FLOP *** 
+Sebkira calls 20
+MathisKcr folds
+guylafrite checks
+*** FLOP *** [Kd 3c 2d]
+guylafrite checks
+Sebkira bets 20
+guylafrite calls 20
+*** TURN *** [Kd 3c 2d][5s]
+guylafrite checks
+Sebkira bets 20
+guylafrite folds
+Sebkira collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [Kd 3c 2d 5s]
+Seat 3: Sebkira (button) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693427917609238529-3-1775730817 - Holdem no limit (10/20) - 2026/04/09 10:33:37 UTC
+Table: 'Expresso Nitro(1092773843)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (330)
+Seat 2: guylafrite (240)
+Seat 3: Sebkira (330)
+*** ANTE/BLINDS ***
+guylafrite posts small blind 10
+Sebkira posts big blind 20
+Dealt to MathisKcr [Qc 8d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+guylafrite raises 200 to 240 and is all-in
+Sebkira calls 220
+MathisKcr folds
+*** FLOP *** [9h 9s Ks]
+*** TURN *** [9h 9s Ks][Tc]
+*** RIVER *** [9h 9s Ks Tc][2s]
+*** SHOW DOWN ***
+guylafrite shows [5h Ah] (One pair : 9)
+Sebkira shows [Jc Qs] (Straight King high)
+Sebkira collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [9h 9s Ks Tc 2s]
+Seat 2: guylafrite (small blind) showed [5h Ah] and lost with One pair : 9
+Seat 3: Sebkira (big blind) showed [Jc Qs] and won 520 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693427917609238529-4-1775730834 - Holdem no limit (10/20) - 2026/04/09 10:33:54 UTC
+Table: 'Expresso Nitro(1092773843)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (290)
+Seat 3: Sebkira (610)
+*** ANTE/BLINDS ***
+Sebkira posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2s 8s]
+*** PRE-FLOP *** 
+Sebkira raises 20 to 40
+MathisKcr folds
+Sebkira collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Sebkira (small blind) (button) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4693427917609238529-5-1775730842 - Holdem no limit (10/20) - 2026/04/09 10:34:02 UTC
+Table: 'Expresso Nitro(1092773843)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 3: Sebkira (630)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Sebkira posts big blind 20
+Dealt to MathisKcr [6s Ts]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sebkira collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Sebkira (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4693427917609238529-6-1775730847 - Holdem no limit (15/30) - 2026/04/09 10:34:07 UTC
+Table: 'Expresso Nitro(1092773843)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (260)
+Seat 3: Sebkira (640)
+*** ANTE/BLINDS ***
+Sebkira posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5d 8c]
+*** PRE-FLOP *** 
+Sebkira raises 30 to 60
+MathisKcr folds
+Sebkira collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Sebkira (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4693427917609238529-7-1775730855 - Holdem no limit (15/30) - 2026/04/09 10:34:15 UTC
+Table: 'Expresso Nitro(1092773843)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (230)
+Seat 3: Sebkira (670)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Sebkira posts big blind 30
+Dealt to MathisKcr [8d 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 200 to 230 and is all-in
+Sebkira folds
+MathisKcr collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 1: MathisKcr (small blind) (button) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4693427917609238529-8-1775730862 - Holdem no limit (15/30) - 2026/04/09 10:34:22 UTC
+Table: 'Expresso Nitro(1092773843)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (260)
+Seat 3: Sebkira (640)
+*** ANTE/BLINDS ***
+Sebkira posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4c 9c]
+*** PRE-FLOP *** 
+Sebkira calls 15
+MathisKcr checks
+*** FLOP *** [2s 9h As]
+MathisKcr bets 60
+Sebkira folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2s 9h As]
+Seat 1: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4693427917609238529-9-1775730872 - Holdem no limit (15/30) - 2026/04/09 10:34:32 UTC
+Table: 'Expresso Nitro(1092773843)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 3: Sebkira (610)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Sebkira posts big blind 30
+Dealt to MathisKcr [8d 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sebkira collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Sebkira (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4693427917609238529-10-1775730876 - Holdem no limit (15/30) - 2026/04/09 10:34:36 UTC
+Table: 'Expresso Nitro(1092773843)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (275)
+Seat 3: Sebkira (625)
+*** ANTE/BLINDS ***
+Sebkira posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3c Js]
+*** PRE-FLOP *** 
+Sebkira raises 30 to 60
+MathisKcr calls 30
+*** FLOP *** [7c 7s Ah]
+MathisKcr checks
+Sebkira checks
+*** TURN *** [7c 7s Ah][Th]
+MathisKcr checks
+Sebkira bets 42
+MathisKcr folds
+Sebkira collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [7c 7s Ah Th]
+Seat 3: Sebkira (small blind) (button) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4693427917609238529-11-1775730894 - Holdem no limit (15/30) - 2026/04/09 10:34:54 UTC
+Table: 'Expresso Nitro(1092773843)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (215)
+Seat 3: Sebkira (685)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Sebkira posts big blind 30
+Dealt to MathisKcr [4d Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 185 to 215 and is all-in
+Sebkira calls 185
+*** FLOP *** [8d Th 5d]
+*** TURN *** [8d Th 5d][6c]
+*** RIVER *** [8d Th 5d 6c][5c]
+*** SHOW DOWN ***
+MathisKcr shows [4d Jd] (One pair : 5)
+Sebkira shows [9d 7c] (Straight Ten high)
+Sebkira collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Board: [8d Th 5d 6c 5c]
+Seat 1: MathisKcr (small blind) (button) showed [4d Jd] and lost with One pair : 5
+Seat 3: Sebkira (big blind) showed [9d 7c] and won 430 with Straight Ten high
+
+

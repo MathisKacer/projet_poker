@@ -1,0 +1,73 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671391080363589633-1-1774901887 - Holdem no limit (10/20) - 2026/03/30 20:18:07 UTC
+Table: 'Expresso Nitro(1087642992)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AAvAAtAAr (300)
+Seat 2: Kozzeris1st (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+AAvAAtAAr posts big blind 20
+Dealt to MathisKcr [6d Ts]
+*** PRE-FLOP *** 
+Kozzeris1st raises 40 to 60
+MathisKcr folds
+AAvAAtAAr folds
+Kozzeris1st collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Kozzeris1st (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671391080363589633-2-1774901897 - Holdem no limit (10/20) - 2026/03/30 20:18:17 UTC
+Table: 'Expresso Nitro(1087642992)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AAvAAtAAr (280)
+Seat 2: Kozzeris1st (330)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+AAvAAtAAr posts small blind 10
+Kozzeris1st posts big blind 20
+Dealt to MathisKcr [Jc Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+AAvAAtAAr raises 240 to 280 and is all-in
+Kozzeris1st folds
+MathisKcr calls 240
+*** FLOP *** [8h Ah 6s]
+*** TURN *** [8h Ah 6s][Ac]
+*** RIVER *** [8h Ah 6s Ac][6d]
+*** SHOW DOWN ***
+MathisKcr shows [Jc Kc] (Two pairs : Aces and 6)
+AAvAAtAAr shows [Ad Qs] (Full of Aces and 6)
+AAvAAtAAr collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [8h Ah 6s Ac 6d]
+Seat 1: AAvAAtAAr (small blind) showed [Ad Qs] and won 580 with Full of Aces and 6
+Seat 3: MathisKcr (button) showed [Jc Kc] and lost with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671391080363589633-3-1774901915 - Holdem no limit (10/20) - 2026/03/30 20:18:35 UTC
+Table: 'Expresso Nitro(1087642992)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AAvAAtAAr (580)
+Seat 2: Kozzeris1st (310)
+Seat 3: MathisKcr (10)
+*** ANTE/BLINDS ***
+Kozzeris1st posts small blind 10
+MathisKcr posts big blind 10 and is all-in
+Dealt to MathisKcr [Kd 7c]
+*** PRE-FLOP *** 
+AAvAAtAAr raises 570 to 580 and is all-in
+Kozzeris1st folds
+*** FLOP *** [9d 7h Ah]
+*** TURN *** [9d 7h Ah][Kc]
+*** RIVER *** [9d 7h Ah Kc][Ac]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 7c] (Two pairs : Aces and Kings)
+AAvAAtAAr shows [Kh Ks] (Full of Kings and Aces)
+AAvAAtAAr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [9d 7h Ah Kc Ac]
+Seat 1: AAvAAtAAr (button) showed [Kh Ks] and won 600 with Full of Kings and Aces
+Seat 3: MathisKcr (big blind) showed [Kd 7c] and lost with Two pairs : Aces and Kings
+
+

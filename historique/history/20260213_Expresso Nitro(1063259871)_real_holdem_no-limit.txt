@@ -1,0 +1,134 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4566666373094178817-1-1770995481 - Holdem no limit (10/20) - 2026/02/13 15:11:21 UTC
+Table: 'Expresso Nitro(1063259871)#0' 3-max (real money) Seat #2 is the button
+Seat 1: VYMO4 (300)
+Seat 2: MathisKcr (300)
+Seat 3: DA_Pulga2542 (300)
+*** ANTE/BLINDS ***
+DA_Pulga2542 posts small blind 10
+VYMO4 posts big blind 20
+Dealt to MathisKcr [2d Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 50
+DA_Pulga2542 raises 250 to 300 and is all-in
+VYMO4 calls 280 and is all-in
+MathisKcr folds
+*** FLOP *** [9c 9h Tc]
+*** TURN *** [9c 9h Tc][7h]
+*** RIVER *** [9c 9h Tc 7h][8c]
+*** SHOW DOWN ***
+DA_Pulga2542 shows [4h 4s] (Two pairs : 9 and 4)
+VYMO4 shows [Qd Qh] (Two pairs : Queens and 9)
+VYMO4 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [9c 9h Tc 7h 8c]
+Seat 1: VYMO4 (big blind) showed [Qd Qh] and won 650 with Two pairs : Queens and 9
+Seat 3: DA_Pulga2542 (small blind) showed [4h 4s] and lost with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4566666373094178817-2-1770995497 - Holdem no limit (10/20) - 2026/02/13 15:11:37 UTC
+Table: 'Expresso Nitro(1063259871)#0' 3-max (real money) Seat #1 is the button
+Seat 1: VYMO4 (650)
+Seat 2: MathisKcr (250)
+*** ANTE/BLINDS ***
+VYMO4 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jh 7c]
+*** PRE-FLOP *** 
+VYMO4 raises 630 to 650 and is all-in
+MathisKcr folds
+VYMO4 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 1: VYMO4 (small blind) (button) won 670
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4566666373094178817-3-1770995505 - Holdem no limit (10/20) - 2026/02/13 15:11:45 UTC
+Table: 'Expresso Nitro(1063259871)#0' 3-max (real money) Seat #2 is the button
+Seat 1: VYMO4 (670)
+Seat 2: MathisKcr (230)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+VYMO4 posts big blind 20
+Dealt to MathisKcr [2c Ts]
+*** PRE-FLOP *** 
+MathisKcr folds
+VYMO4 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: VYMO4 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4566666373094178817-4-1770995509 - Holdem no limit (10/20) - 2026/02/13 15:11:49 UTC
+Table: 'Expresso Nitro(1063259871)#0' 3-max (real money) Seat #1 is the button
+Seat 1: VYMO4 (680)
+Seat 2: MathisKcr (220)
+*** ANTE/BLINDS ***
+VYMO4 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ts 2d]
+*** PRE-FLOP *** 
+VYMO4 calls 10
+MathisKcr checks
+*** FLOP *** [Qh 9c Td]
+MathisKcr checks
+VYMO4 checks
+*** TURN *** [Qh 9c Td][3c]
+MathisKcr bets 20
+VYMO4 calls 20
+*** RIVER *** [Qh 9c Td 3c][As]
+MathisKcr checks
+VYMO4 checks
+*** SHOW DOWN ***
+VYMO4 shows [6d 9s] (One pair : 9)
+MathisKcr shows [Ts 2d] (One pair : Tens)
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Qh 9c Td 3c As]
+Seat 1: VYMO4 (small blind) (button) showed [6d 9s] and lost with One pair : 9
+Seat 2: MathisKcr (big blind) showed [Ts 2d] and won 80 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4566666373094178817-5-1770995551 - Holdem no limit (15/30) - 2026/02/13 15:12:31 UTC
+Table: 'Expresso Nitro(1063259871)#0' 3-max (real money) Seat #2 is the button
+Seat 1: VYMO4 (640)
+Seat 2: MathisKcr (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+VYMO4 posts big blind 30
+Dealt to MathisKcr [Qh As]
+*** PRE-FLOP *** 
+MathisKcr raises 45 to 75
+VYMO4 folds
+MathisKcr collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 2: MathisKcr (small blind) (button) won 105
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4566666373094178817-6-1770995565 - Holdem no limit (15/30) - 2026/02/13 15:12:45 UTC
+Table: 'Expresso Nitro(1063259871)#0' 3-max (real money) Seat #1 is the button
+Seat 1: VYMO4 (610)
+Seat 2: MathisKcr (290)
+*** ANTE/BLINDS ***
+VYMO4 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7s As]
+*** PRE-FLOP *** 
+VYMO4 raises 580 to 610 and is all-in
+MathisKcr calls 260 and is all-in
+*** FLOP *** [Ac 6c 9c]
+*** TURN *** [Ac 6c 9c][Ks]
+*** RIVER *** [Ac 6c 9c Ks][2h]
+*** SHOW DOWN ***
+MathisKcr shows [7s As] (One pair : Aces)
+VYMO4 shows [Qc Ah] (One pair : Aces)
+VYMO4 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac 6c 9c Ks 2h]
+Seat 1: VYMO4 (small blind) (button) showed [Qc Ah] and won 900 with One pair : Aces
+Seat 2: MathisKcr (big blind) showed [7s As] and lost with One pair : Aces
+
+

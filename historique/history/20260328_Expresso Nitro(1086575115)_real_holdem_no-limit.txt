@@ -1,0 +1,157 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666804583572439041-1-1774722528 - Holdem no limit (10/20) - 2026/03/28 18:28:48 UTC
+Table: 'Expresso Nitro(1086575115)#0' 3-max (real money) Seat #2 is the button
+Seat 1: NoKarma.. (300)
+Seat 2: MathisKcr (300)
+Seat 3: Thibatikk13 (300)
+*** ANTE/BLINDS ***
+Thibatikk13 posts small blind 10
+NoKarma.. posts big blind 20
+Dealt to MathisKcr [7h 2d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Thibatikk13 calls 10
+NoKarma.. checks
+*** FLOP *** [2c 3s 9c]
+Thibatikk13 bets 280 and is all-in
+NoKarma.. folds
+Thibatikk13 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [2c 3s 9c]
+Seat 3: Thibatikk13 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666804583572439041-2-1774722548 - Holdem no limit (10/20) - 2026/03/28 18:29:08 UTC
+Table: 'Expresso Nitro(1086575115)#0' 3-max (real money) Seat #3 is the button
+Seat 1: NoKarma.. (280)
+Seat 2: MathisKcr (300)
+Seat 3: Thibatikk13 (320)
+*** ANTE/BLINDS ***
+NoKarma.. posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8s Jh]
+*** PRE-FLOP *** 
+Thibatikk13 folds
+NoKarma.. calls 10
+MathisKcr checks
+*** FLOP *** [9s 8d 4h]
+NoKarma.. checks
+MathisKcr bets 40
+NoKarma.. folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9s 8d 4h]
+Seat 2: MathisKcr (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666804583572439041-3-1774722567 - Holdem no limit (10/20) - 2026/03/28 18:29:27 UTC
+Table: 'Expresso Nitro(1086575115)#0' 3-max (real money) Seat #1 is the button
+Seat 1: NoKarma.. (260)
+Seat 2: MathisKcr (320)
+Seat 3: Thibatikk13 (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Thibatikk13 posts big blind 20
+Dealt to MathisKcr [3c 2d]
+*** PRE-FLOP *** 
+NoKarma.. folds
+MathisKcr folds
+Thibatikk13 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Thibatikk13 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666804583572439041-4-1774722575 - Holdem no limit (10/20) - 2026/03/28 18:29:35 UTC
+Table: 'Expresso Nitro(1086575115)#0' 3-max (real money) Seat #2 is the button
+Seat 1: NoKarma.. (260)
+Seat 2: MathisKcr (310)
+Seat 3: Thibatikk13 (330)
+*** ANTE/BLINDS ***
+Thibatikk13 posts small blind 10
+NoKarma.. posts big blind 20
+Dealt to MathisKcr [3d 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Thibatikk13 calls 10
+NoKarma.. checks
+*** FLOP *** [9s 5s Ks]
+Thibatikk13 checks
+NoKarma.. checks
+*** TURN *** [9s 5s Ks][8c]
+Thibatikk13 checks
+NoKarma.. checks
+*** RIVER *** [9s 5s Ks 8c][5h]
+Thibatikk13 checks
+NoKarma.. checks
+*** SHOW DOWN ***
+NoKarma.. shows [2h Ts] (One pair : 5)
+Thibatikk13 shows [7s Qc] (One pair : 5)
+Thibatikk13 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [9s 5s Ks 8c 5h]
+Seat 1: NoKarma.. (big blind) showed [2h Ts] and lost with One pair : 5
+Seat 3: Thibatikk13 (small blind) showed [7s Qc] and won 40 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666804583572439041-5-1774722605 - Holdem no limit (15/30) - 2026/03/28 18:30:05 UTC
+Table: 'Expresso Nitro(1086575115)#0' 3-max (real money) Seat #3 is the button
+Seat 1: NoKarma.. (240)
+Seat 2: MathisKcr (310)
+Seat 3: Thibatikk13 (350)
+*** ANTE/BLINDS ***
+NoKarma.. posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jc Qs]
+*** PRE-FLOP *** 
+Thibatikk13 folds
+NoKarma.. calls 15
+MathisKcr raises 280 to 310 and is all-in
+NoKarma.. calls 210 and is all-in
+*** FLOP *** [7c 5s Kc]
+*** TURN *** [7c 5s Kc][4s]
+*** RIVER *** [7c 5s Kc 4s][6d]
+*** SHOW DOWN ***
+NoKarma.. shows [3s Ad] (Straight 7 high)
+MathisKcr shows [Jc Qs] (High card : King)
+MathisKcr collected 70 from side pot 1
+NoKarma.. collected 480 from main pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [7c 5s Kc 4s 6d]
+Seat 1: NoKarma.. (small blind) showed [3s Ad] and won 480 with Straight 7 high
+Seat 2: MathisKcr (big blind) showed [Jc Qs] and won 70 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666804583572439041-6-1774722622 - Holdem no limit (15/30) - 2026/03/28 18:30:22 UTC
+Table: 'Expresso Nitro(1086575115)#0' 3-max (real money) Seat #1 is the button
+Seat 1: NoKarma.. (480)
+Seat 2: MathisKcr (70)
+Seat 3: Thibatikk13 (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Thibatikk13 posts big blind 30
+Dealt to MathisKcr [Js Qd]
+*** PRE-FLOP *** 
+NoKarma.. calls 30
+MathisKcr raises 40 to 70 and is all-in
+Thibatikk13 calls 40
+NoKarma.. calls 40
+*** FLOP *** [2d 5c Kc]
+Thibatikk13 bets 280 and is all-in
+NoKarma.. folds
+*** TURN *** [2d 5c Kc][6d]
+*** RIVER *** [2d 5c Kc 6d][6s]
+*** SHOW DOWN ***
+MathisKcr shows [Js Qd] (One pair : 6)
+Thibatikk13 shows [Kh 7s] (Two pairs : Kings and 6)
+Thibatikk13 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | No rake
+Board: [2d 5c Kc 6d 6s]
+Seat 2: MathisKcr (small blind) showed [Js Qd] and lost with One pair : 6
+Seat 3: Thibatikk13 (big blind) showed [Kh 7s] and won 490 with Two pairs : Kings and 6
+
+

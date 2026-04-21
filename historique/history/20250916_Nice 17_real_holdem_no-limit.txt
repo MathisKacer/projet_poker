@@ -1,0 +1,604 @@
+Winamax Poker - CashGame - HandId: #21463854-897-1758037086 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:38:06 UTC
+Table: 'Nice 17' 5-max (real money) Seat #4 is the button
+Seat 2: MathisKcr (2€)
+Seat 3: Fist-ouille (2.01€)
+Seat 4: Alvi37 (2.30€)
+Seat 5: PM1078 (2.27€)
+*** ANTE/BLINDS ***
+PM1078 posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [4s Ts]
+*** PRE-FLOP *** 
+Fist-ouille folds
+Alvi37 folds
+PM1078 calls 0.01€
+MathisKcr checks
+*** FLOP *** [2d Tc 4d]
+PM1078 checks
+MathisKcr bets 0.04€
+PM1078 folds
+MathisKcr collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [2d Tc 4d]
+Seat 2: MathisKcr (big blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #21463854-898-1758037119 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:38:39 UTC
+Table: 'Nice 17' 5-max (real money) Seat #5 is the button
+Seat 2: MathisKcr (2.02€)
+Seat 3: Fist-ouille (2.01€)
+Seat 4: Alvi37 (2.30€)
+Seat 5: PM1078 (2.25€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+Alvi37 posts big blind 0.02€
+Dealt to MathisKcr [2h 5d]
+*** PRE-FLOP *** 
+PM1078 calls 0.02€
+MathisKcr calls 0.01€
+Alvi37 checks
+*** FLOP *** [Tc 5c 2c]
+MathisKcr bets 0.04€
+Alvi37 calls 0.04€
+PM1078 folds
+*** TURN *** [Tc 5c 2c][Jh]
+MathisKcr bets 0.06€
+Alvi37 calls 0.06€
+*** RIVER *** [Tc 5c 2c Jh][8d]
+MathisKcr bets 0.10€
+Alvi37 calls 0.10€
+*** SHOW DOWN ***
+Alvi37 shows [Qh 8c] (One pair : 8)
+MathisKcr shows [2h 5d] (Two pairs : 5 and 2)
+MathisKcr collected 0.43€ from pot
+*** SUMMARY ***
+Total pot 0.43€ | Rake 0.03€
+Board: [Tc 5c 2c Jh 8d]
+Seat 2: MathisKcr (small blind) showed [2h 5d] and won 0.43€ with Two pairs : 5 and 2
+Seat 4: Alvi37 (big blind) showed [Qh 8c] and lost with One pair : 8
+
+
+Winamax Poker - CashGame - HandId: #21463854-899-1758037205 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:40:05 UTC
+Table: 'Nice 17' 5-max (real money) Seat #2 is the button
+Seat 1: Fist-ouille (2.01€)
+Seat 2: MathisKcr (2.23€)
+Seat 4: Alvi37 (2.08€)
+Seat 5: PM1078 (2.23€)
+*** ANTE/BLINDS ***
+Alvi37 posts small blind 0.01€
+PM1078 posts big blind 0.02€
+Dealt to MathisKcr [8s 9h]
+*** PRE-FLOP *** 
+MathisKcr calls 0.02€
+Alvi37 raises 0.08€ to 0.10€
+PM1078 folds
+MathisKcr folds
+Alvi37 collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | No rake
+Seat 4: Alvi37 (small blind) won 0.14€
+
+
+Winamax Poker - CashGame - HandId: #21463854-900-1758037235 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:40:35 UTC
+Table: 'Nice 17' 5-max (real money) Seat #4 is the button
+Seat 1: Fist-ouille (2.01€)
+Seat 2: MathisKcr (2.21€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.12€)
+Seat 5: PM1078 (2.21€)
+*** ANTE/BLINDS ***
+PM1078 posts small blind 0.01€
+Fist-ouille posts big blind 0.02€
+Dealt to MathisKcr [Kd 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 0.02€ to 0.04€
+Alvi37 folds
+PM1078 calls 0.03€
+Fist-ouille calls 0.02€
+*** FLOP *** [5d 3d Jc]
+PM1078 checks
+Fist-ouille checks
+MathisKcr checks
+*** TURN *** [5d 3d Jc][2c]
+PM1078 checks
+Fist-ouille checks
+MathisKcr checks
+*** RIVER *** [5d 3d Jc 2c][7c]
+PM1078 checks
+Fist-ouille checks
+MathisKcr checks
+*** SHOW DOWN ***
+PM1078 shows [8s 6s] (High card : Jack)
+Fist-ouille shows [Ks 9h] (High card : King)
+MathisKcr shows [Kd 9c] (High card : King)
+MathisKcr collected 0.06€ from pot
+Fist-ouille collected 0.05€ from pot
+*** SUMMARY ***
+Total pot 0.11€ | Rake 0.01€
+Board: [5d 3d Jc 2c 7c]
+Seat 1: Fist-ouille (big blind) showed [Ks 9h] and won 0.05€ with High card : King
+Seat 2: MathisKcr showed [Kd 9c] and won 0.06€ with High card : King
+Seat 5: PM1078 (small blind) showed [8s 6s] and lost with High card : Jack
+
+
+Winamax Poker - CashGame - HandId: #21463854-901-1758037323 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:42:03 UTC
+Table: 'Nice 17' 5-max (real money) Seat #5 is the button
+Seat 1: Fist-ouille (2.02€)
+Seat 2: MathisKcr (2.23€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.12€)
+Seat 5: PM1078 (2.17€)
+*** ANTE/BLINDS ***
+Fist-ouille posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [Tc As]
+*** PRE-FLOP *** 
+Alvi37 folds
+PM1078 folds
+Fist-ouille folds
+MathisKcr collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 2: MathisKcr (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #21463854-902-1758037353 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:42:33 UTC
+Table: 'Nice 17' 5-max (real money) Seat #1 is the button
+Seat 1: Fist-ouille (2.01€)
+Seat 2: MathisKcr (2.24€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.12€)
+Seat 5: PM1078 (2.17€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+MomImRich posts big blind 0.02€
+Dealt to MathisKcr [6s 2c]
+*** PRE-FLOP *** 
+Alvi37 raises 0.04€ to 0.06€
+Fist-ouille folds
+MathisKcr calls 0.05€
+MomImRich folds
+*** FLOP *** [Qc 8s Qd]
+MathisKcr checks
+Alvi37 bets 0.04€
+MathisKcr folds
+Alvi37 collected 0.17€ from pot
+*** SUMMARY ***
+Total pot 0.17€ | Rake 0.01€
+Board: [Qc 8s Qd]
+Seat 4: Alvi37 won 0.17€
+
+
+Winamax Poker - CashGame - HandId: #21463854-903-1758037386 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:43:06 UTC
+Table: 'Nice 17' 5-max (real money) Seat #2 is the button
+Seat 1: Fist-ouille (2.01€)
+Seat 2: MathisKcr (2.18€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.19€)
+Seat 5: PM1078 (2.17€)
+*** ANTE/BLINDS ***
+MomImRich posts small blind 0.01€
+Alvi37 posts big blind 0.02€
+Dealt to MathisKcr [Qh Qs]
+*** PRE-FLOP *** 
+PM1078 calls 0.02€
+Fist-ouille folds
+MathisKcr raises 0.04€ to 0.06€
+MomImRich folds
+Alvi37 folds
+PM1078 calls 0.04€
+*** FLOP *** [6s 8d Td]
+PM1078 checks
+MathisKcr bets 0.04€
+PM1078 calls 0.04€
+*** TURN *** [6s 8d Td][3c]
+PM1078 bets 0.15€
+MathisKcr raises 0.15€ to 0.30€
+PM1078 calls 0.15€
+*** RIVER *** [6s 8d Td 3c][Jh]
+PM1078 checks
+MathisKcr checks
+*** SHOW DOWN ***
+PM1078 shows [As Tc] (One pair : Tens)
+MathisKcr shows [Qh Qs] (One pair : Queens)
+MathisKcr collected 0.78€ from pot
+*** SUMMARY ***
+Total pot 0.78€ | Rake 0.05€
+Board: [6s 8d Td 3c Jh]
+Seat 2: MathisKcr (button) showed [Qh Qs] and won 0.78€ with One pair : Queens
+Seat 5: PM1078 showed [As Tc] and lost with One pair : Tens
+
+
+Winamax Poker - CashGame - HandId: #21463854-904-1758037465 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:44:25 UTC
+Table: 'Nice 17' 5-max (real money) Seat #3 is the button
+Seat 1: Fist-ouille (2.01€)
+Seat 2: MathisKcr (2.56€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.17€)
+Seat 5: PM1078 (1.77€)
+*** ANTE/BLINDS ***
+Alvi37 posts small blind 0.01€
+PM1078 posts big blind 0.02€
+Dealt to MathisKcr [2h 2d]
+*** PRE-FLOP *** 
+Fist-ouille folds
+MathisKcr calls 0.02€
+MomImRich folds
+Alvi37 folds
+PM1078 checks
+*** FLOP *** [5s 4d 8d]
+PM1078 checks
+MathisKcr checks
+*** TURN *** [5s 4d 8d][Qd]
+PM1078 checks
+MathisKcr checks
+*** RIVER *** [5s 4d 8d Qd][7d]
+PM1078 checks
+MathisKcr checks
+*** SHOW DOWN ***
+PM1078 shows [9s Ah] (High card : Ace)
+MathisKcr shows [2h 2d] (Flush Queen high)
+MathisKcr collected 0.05€ from pot
+*** SUMMARY ***
+Total pot 0.05€ | No rake
+Board: [5s 4d 8d Qd 7d]
+Seat 2: MathisKcr showed [2h 2d] and won 0.05€ with Flush Queen high
+Seat 5: PM1078 (big blind) showed [9s Ah] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #21463854-905-1758037538 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:45:38 UTC
+Table: 'Nice 17' 5-max (real money) Seat #4 is the button
+Seat 1: Fist-ouille (2.01€)
+Seat 2: MathisKcr (2.59€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.16€)
+Seat 5: PM1078 (1.75€)
+*** ANTE/BLINDS ***
+PM1078 posts small blind 0.01€
+Fist-ouille posts big blind 0.02€
+Dealt to MathisKcr [2h Ts]
+*** PRE-FLOP *** 
+MathisKcr calls 0.02€
+MomImRich folds
+Alvi37 raises 0.08€ to 0.10€
+PM1078 folds
+Fist-ouille folds
+MathisKcr folds
+Alvi37 collected 0.15€ from pot
+*** SUMMARY ***
+Total pot 0.15€ | No rake
+Seat 4: Alvi37 (button) won 0.15€
+
+
+Winamax Poker - CashGame - HandId: #21463854-906-1758037572 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:46:12 UTC
+Table: 'Nice 17' 5-max (real money) Seat #5 is the button
+Seat 1: Fist-ouille (2€)
+Seat 2: MathisKcr (2.57€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.21€)
+Seat 5: PM1078 (1.74€)
+*** ANTE/BLINDS ***
+Fist-ouille posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [Qh Kd]
+*** PRE-FLOP *** 
+MomImRich raises 0.02€ to 0.04€
+Alvi37 folds
+PM1078 folds
+Fist-ouille folds
+MathisKcr raises 0.04€ to 0.08€
+MomImRich calls 0.04€
+*** FLOP *** [6c Qd 8h]
+MathisKcr bets 0.08€
+MomImRich folds
+MathisKcr collected 0.24€ from pot
+*** SUMMARY ***
+Total pot 0.24€ | Rake 0.01€
+Board: [6c Qd 8h]
+Seat 2: MathisKcr (big blind) won 0.24€
+
+
+Winamax Poker - CashGame - HandId: #21463854-907-1758037619 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:46:59 UTC
+Table: 'Nice 17' 5-max (real money) Seat #1 is the button
+Seat 1: Fist-ouille (2€)
+Seat 2: MathisKcr (2.65€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.21€)
+Seat 5: PM1078 (1.74€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+MomImRich posts big blind 0.02€
+Dealt to MathisKcr [5c 8d]
+*** PRE-FLOP *** 
+Alvi37 raises 0.04€ to 0.06€
+PM1078 folds
+Fist-ouille folds
+MathisKcr calls 0.05€
+MomImRich calls 0.04€
+*** FLOP *** [8s Td 5h]
+MathisKcr bets 0.10€
+MomImRich calls 0.10€
+Alvi37 calls 0.10€
+*** TURN *** [8s Td 5h][5d]
+MathisKcr bets 0.12€
+MomImRich calls 0.12€
+Alvi37 calls 0.12€
+*** RIVER *** [8s Td 5h 5d][Ah]
+MathisKcr bets 2.37€ and is all-in
+MomImRich folds
+Alvi37 calls 1.93€ and is all-in
+*** SHOW DOWN ***
+Alvi37 shows [Qs Qh] (Two pairs : Queens and 5)
+MathisKcr shows [5c 8d] (Full of 5 and 8)
+MathisKcr collected 4.87€ from pot
+*** SUMMARY ***
+Total pot 4.87€ | Rake 0.27€
+Board: [8s Td 5h 5d Ah]
+Seat 2: MathisKcr (small blind) showed [5c 8d] and won 4.87€ with Full of 5 and 8
+Seat 4: Alvi37 showed [Qs Qh] and lost with Two pairs : Queens and 5
+
+
+Winamax Poker - CashGame - HandId: #21463854-908-1758037714 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:48:34 UTC
+Table: 'Nice 17' 5-max (real money) Seat #2 is the button
+Seat 1: Fist-ouille (2€)
+Seat 2: MathisKcr (4.87€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2€)
+Seat 5: PM1078 (1.74€)
+*** ANTE/BLINDS ***
+MomImRich posts small blind 0.01€
+Alvi37 posts big blind 0.02€
+Dealt to MathisKcr [6c Tc]
+*** PRE-FLOP *** 
+PM1078 folds
+Fist-ouille folds
+MathisKcr calls 0.02€
+MomImRich folds
+Alvi37 raises 0.04€ to 0.06€
+MathisKcr calls 0.04€
+*** FLOP *** [Kh Jc 8s]
+Alvi37 checks
+MathisKcr checks
+*** TURN *** [Kh Jc 8s][Jh]
+Alvi37 bets 0.07€
+MathisKcr folds
+Alvi37 collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [Kh Jc 8s Jh]
+Seat 4: Alvi37 (big blind) won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #21463854-909-1758037756 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:49:16 UTC
+Table: 'Nice 17' 5-max (real money) Seat #3 is the button
+Seat 1: Fist-ouille (2€)
+Seat 2: MathisKcr (4.81€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.06€)
+Seat 5: PM1078 (1.74€)
+*** ANTE/BLINDS ***
+Alvi37 posts small blind 0.01€
+PM1078 posts big blind 0.02€
+Dealt to MathisKcr [9c Jd]
+*** PRE-FLOP *** 
+Fist-ouille folds
+MathisKcr raises 0.02€ to 0.04€
+MomImRich folds
+Alvi37 folds
+PM1078 raises 0.12€ to 0.16€
+MathisKcr calls 0.12€
+*** FLOP *** [7h Kh 7s]
+PM1078 bets 0.33€
+MathisKcr folds
+PM1078 collected 0.64€ from pot
+*** SUMMARY ***
+Total pot 0.64€ | Rake 0.02€
+Board: [7h Kh 7s]
+Seat 5: PM1078 (big blind) won 0.64€
+
+
+Winamax Poker - CashGame - HandId: #21463854-910-1758037784 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:49:44 UTC
+Table: 'Nice 17' 5-max (real money) Seat #4 is the button
+Seat 1: Fist-ouille (2€)
+Seat 2: MathisKcr (4.65€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.05€)
+Seat 5: PM1078 (1.89€)
+*** ANTE/BLINDS ***
+PM1078 posts small blind 0.01€
+Fist-ouille posts big blind 0.02€
+Dealt to MathisKcr [Tc Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 0.04€ to 0.06€
+MomImRich calls 0.06€
+Alvi37 folds
+PM1078 raises 0.20€ to 0.26€
+Fist-ouille folds
+MathisKcr calls 0.20€
+MomImRich calls 0.20€
+*** FLOP *** [Th 9s 8h]
+PM1078 checks
+MathisKcr bets 0.20€
+MomImRich folds
+PM1078 calls 0.20€
+*** TURN *** [Th 9s 8h][9d]
+PM1078 checks
+MathisKcr checks
+*** RIVER *** [Th 9s 8h 9d][5h]
+PM1078 checks
+MathisKcr checks
+*** SHOW DOWN ***
+PM1078 shows [Kc Ac] (One pair : 9)
+MathisKcr shows [Tc Ad] (Two pairs : Tens and 9)
+MathisKcr collected 1.13€ from pot
+*** SUMMARY ***
+Total pot 1.13€ | Rake 0.07€
+Board: [Th 9s 8h 9d 5h]
+Seat 2: MathisKcr showed [Tc Ad] and won 1.13€ with Two pairs : Tens and 9
+Seat 5: PM1078 (small blind) showed [Kc Ac] and lost with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #21463854-911-1758037839 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:50:39 UTC
+Table: 'Nice 17' 5-max (real money) Seat #5 is the button
+Seat 1: Fist-ouille (2€)
+Seat 2: MathisKcr (5.32€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.05€)
+Seat 5: PM1078 (1.43€)
+*** ANTE/BLINDS ***
+Fist-ouille posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [7d 6c]
+*** PRE-FLOP *** 
+MomImRich folds
+Alvi37 folds
+PM1078 raises 0.05€ to 0.07€
+Fist-ouille folds
+MathisKcr calls 0.05€
+*** FLOP *** [6h 9c 3c]
+MathisKcr checks
+PM1078 bets 0.15€
+MathisKcr calls 0.15€
+*** TURN *** [6h 9c 3c][7c]
+MathisKcr checks
+PM1078 checks
+*** RIVER *** [6h 9c 3c 7c][4s]
+MathisKcr bets 0.15€
+PM1078 calls 0.15€
+*** SHOW DOWN ***
+PM1078 shows [Kd 9h] (One pair : 9)
+MathisKcr shows [7d 6c] (Two pairs : 7 and 6)
+MathisKcr collected 0.71€ from pot
+*** SUMMARY ***
+Total pot 0.71€ | Rake 0.04€
+Board: [6h 9c 3c 7c 4s]
+Seat 2: MathisKcr (big blind) showed [7d 6c] and won 0.71€ with Two pairs : 7 and 6
+Seat 5: PM1078 (button) showed [Kd 9h] and lost with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #21463854-912-1758037877 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:51:17 UTC
+Table: 'Nice 17' 5-max (real money) Seat #1 is the button
+Seat 1: Fist-ouille (2€)
+Seat 2: MathisKcr (5.66€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.05€)
+Seat 5: PM1078 (1.06€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+MomImRich posts big blind 0.02€
+Dealt to MathisKcr [2c Jd]
+*** PRE-FLOP *** 
+Alvi37 folds
+PM1078 calls 0.02€
+Fist-ouille raises 0.06€ to 0.08€
+MathisKcr folds
+MomImRich folds
+PM1078 folds
+Fist-ouille collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | No rake
+Seat 1: Fist-ouille (button) won 0.13€
+
+
+Winamax Poker - CashGame - HandId: #21463854-913-1758037904 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:51:44 UTC
+Table: 'Nice 17' 5-max (real money) Seat #2 is the button
+Seat 1: Fist-ouille (2.05€)
+Seat 2: MathisKcr (5.65€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2.05€)
+Seat 5: PM1078 (1.04€)
+*** ANTE/BLINDS ***
+MomImRich posts small blind 0.01€
+Alvi37 posts big blind 0.02€
+Dealt to MathisKcr [2s Ks]
+*** PRE-FLOP *** 
+PM1078 folds
+Fist-ouille folds
+MathisKcr raises 0.02€ to 0.04€
+MomImRich folds
+Alvi37 calls 0.02€
+*** FLOP *** [Kd Th 4s]
+Alvi37 checks
+MathisKcr bets 0.10€
+Alvi37 calls 0.10€
+*** TURN *** [Kd Th 4s][6d]
+Alvi37 checks
+MathisKcr checks
+*** RIVER *** [Kd Th 4s 6d][7d]
+Alvi37 checks
+MathisKcr checks
+*** SHOW DOWN ***
+Alvi37 shows [5d 5c] (One pair : 5)
+MathisKcr shows [2s Ks] (One pair : Kings)
+MathisKcr collected 0.27€ from pot
+*** SUMMARY ***
+Total pot 0.27€ | Rake 0.02€
+Board: [Kd Th 4s 6d 7d]
+Seat 2: MathisKcr (button) showed [2s Ks] and won 0.27€ with One pair : Kings
+Seat 4: Alvi37 (big blind) showed [5d 5c] and lost with One pair : 5
+
+
+Winamax Poker - CashGame - HandId: #21463854-914-1758037946 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:52:26 UTC
+Table: 'Nice 17' 5-max (real money) Seat #3 is the button
+Seat 1: Fist-ouille (2.05€)
+Seat 2: MathisKcr (5.78€)
+Seat 3: MomImRich (2€)
+Seat 4: Alvi37 (2€)
+Seat 5: PM1078 (1.04€)
+*** ANTE/BLINDS ***
+Alvi37 posts small blind 0.01€
+PM1078 posts big blind 0.02€
+Dealt to MathisKcr [Jc 5d]
+*** PRE-FLOP *** 
+Fist-ouille folds
+MathisKcr calls 0.02€
+MomImRich raises 0.07€ to 0.09€
+Alvi37 folds
+PM1078 folds
+MathisKcr calls 0.07€
+*** FLOP *** [5h 6c Tc]
+MathisKcr checks
+MomImRich checks
+*** TURN *** [5h 6c Tc][Qs]
+MathisKcr checks
+MomImRich bets 0.16€
+MathisKcr folds
+MomImRich collected 0.36€ from pot
+*** SUMMARY ***
+Total pot 0.36€ | Rake 0.01€
+Board: [5h 6c Tc Qs]
+Seat 3: MomImRich (button) won 0.36€
+
+
+Winamax Poker - CashGame - HandId: #21463854-915-1758037988 - Holdem no limit (0.01€/0.02€) - 2025/09/16 15:53:08 UTC
+Table: 'Nice 17' 5-max (real money) Seat #4 is the button
+Seat 1: Fist-ouille (2.05€)
+Seat 2: MathisKcr (5.69€)
+Seat 3: MomImRich (2.11€)
+Seat 4: Alvi37 (2€)
+Seat 5: PM1078 (1.02€)
+*** ANTE/BLINDS ***
+PM1078 posts small blind 0.01€
+Fist-ouille posts big blind 0.02€
+Dealt to MathisKcr [3d Jc]
+*** PRE-FLOP *** 
+MathisKcr calls 0.02€
+MomImRich folds
+Alvi37 folds
+PM1078 folds
+Fist-ouille checks
+*** FLOP *** [7d 5h Qh]
+Fist-ouille checks
+MathisKcr checks
+*** TURN *** [7d 5h Qh][Jd]
+Fist-ouille checks
+MathisKcr bets 0.08€
+Fist-ouille folds
+MathisKcr collected 0.13€ from pot
+*** SUMMARY ***
+Total pot 0.13€ | No rake
+Board: [7d 5h Qh Jd]
+Seat 2: MathisKcr won 0.13€
+
+

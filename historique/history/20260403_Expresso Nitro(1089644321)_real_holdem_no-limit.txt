@@ -1,0 +1,213 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679986722967126017-1-1775226689 - Holdem no limit (10/20) - 2026/04/03 14:31:29 UTC
+Table: 'Expresso Nitro(1089644321)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tom Pulga521 (300)
+Seat 2: Jotinho (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Tom Pulga521 posts big blind 20
+Dealt to MathisKcr [3d 8c]
+*** PRE-FLOP *** 
+Jotinho folds
+MathisKcr folds
+Tom Pulga521 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Tom Pulga521 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679986722967126017-2-1775226696 - Holdem no limit (10/20) - 2026/04/03 14:31:36 UTC
+Table: 'Expresso Nitro(1089644321)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Tom Pulga521 (310)
+Seat 2: Jotinho (300)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Tom Pulga521 posts small blind 10
+Jotinho posts big blind 20
+Dealt to MathisKcr [5c 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Tom Pulga521 raises 290 to 310 and is all-in
+Jotinho folds
+Tom Pulga521 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: Tom Pulga521 (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679986722967126017-3-1775226704 - Holdem no limit (10/20) - 2026/04/03 14:31:44 UTC
+Table: 'Expresso Nitro(1089644321)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Tom Pulga521 (330)
+Seat 2: Jotinho (280)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Jotinho posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c Qh]
+*** PRE-FLOP *** 
+Tom Pulga521 calls 20
+Jotinho calls 10
+MathisKcr raises 270 to 290 and is all-in
+Tom Pulga521 folds
+Jotinho folds
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: MathisKcr (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679986722967126017-4-1775226717 - Holdem no limit (10/20) - 2026/04/03 14:31:57 UTC
+Table: 'Expresso Nitro(1089644321)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Tom Pulga521 (310)
+Seat 2: Jotinho (260)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Tom Pulga521 posts big blind 20
+Dealt to MathisKcr [Ts Qh]
+*** PRE-FLOP *** 
+Jotinho folds
+MathisKcr raises 310 to 330 and is all-in
+Tom Pulga521 calls 290 and is all-in
+*** FLOP *** [4s 7s 8d]
+*** TURN *** [4s 7s 8d][9s]
+*** RIVER *** [4s 7s 8d 9s][6h]
+*** SHOW DOWN ***
+Tom Pulga521 shows [Jd Qc] (High card : Queen)
+MathisKcr shows [Ts Qh] (Straight Ten high)
+MathisKcr collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [4s 7s 8d 9s 6h]
+Seat 1: Tom Pulga521 (big blind) showed [Jd Qc] and lost with High card : Queen
+Seat 3: MathisKcr (small blind) showed [Ts Qh] and won 640 with Straight Ten high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4679986722967126017-5-1775226731 - Holdem no limit (10/20) - 2026/04/03 14:32:11 UTC
+Table: 'Expresso Nitro(1089644321)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Jotinho (260)
+Seat 3: MathisKcr (640)
+*** ANTE/BLINDS ***
+Jotinho posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ac Jh]
+*** PRE-FLOP *** 
+Jotinho calls 10
+MathisKcr raises 620 to 640 and is all-in
+Jotinho calls 240 and is all-in
+*** FLOP *** [Tc 4h Td]
+*** TURN *** [Tc 4h Td][Js]
+*** RIVER *** [Tc 4h Td Js][9s]
+*** SHOW DOWN ***
+Jotinho shows [Th 2h] (Trips of Tens)
+MathisKcr shows [Ac Jh] (Two pairs : Jacks and Tens)
+MathisKcr collected 380 from side pot 1
+Jotinho collected 520 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Tc 4h Td Js 9s]
+Seat 2: Jotinho (small blind) (button) showed [Th 2h] and won 520 with Trips of Tens
+Seat 3: MathisKcr (big blind) showed [Ac Jh] and won 380 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4679986722967126017-6-1775226749 - Holdem no limit (15/30) - 2026/04/03 14:32:29 UTC
+Table: 'Expresso Nitro(1089644321)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Jotinho (520)
+Seat 3: MathisKcr (380)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Jotinho posts big blind 30
+Dealt to MathisKcr [Js 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 350 to 380 and is all-in
+Jotinho folds
+MathisKcr collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 3: MathisKcr (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4679986722967126017-7-1775226760 - Holdem no limit (15/30) - 2026/04/03 14:32:40 UTC
+Table: 'Expresso Nitro(1089644321)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Jotinho (490)
+Seat 3: MathisKcr (410)
+*** ANTE/BLINDS ***
+Jotinho posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jd 8d]
+*** PRE-FLOP *** 
+Jotinho folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4679986722967126017-8-1775226765 - Holdem no limit (15/30) - 2026/04/03 14:32:45 UTC
+Table: 'Expresso Nitro(1089644321)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Jotinho (475)
+Seat 3: MathisKcr (425)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Jotinho posts big blind 30
+Dealt to MathisKcr [Kc Td]
+*** PRE-FLOP *** 
+MathisKcr raises 395 to 425 and is all-in
+Jotinho raises 50 to 475 and is all-in
+*** FLOP *** [6h 6s Th]
+*** TURN *** [6h 6s Th][Ks]
+*** RIVER *** [6h 6s Th Ks][Ad]
+*** SHOW DOWN ***
+Jotinho shows [9d Kd] (Two pairs : Kings and 6)
+MathisKcr shows [Kc Td] (Two pairs : Kings and Tens)
+MathisKcr collected 850 from main pot
+Jotinho collected 50 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6h 6s Th Ks Ad]
+Seat 2: Jotinho (big blind) showed [9d Kd] and won 50 with Two pairs : Kings and 6
+Seat 3: MathisKcr (small blind) (button) showed [Kc Td] and won 850 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4679986722967126017-9-1775226776 - Holdem no limit (15/30) - 2026/04/03 14:32:56 UTC
+Table: 'Expresso Nitro(1089644321)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Jotinho (50)
+Seat 3: MathisKcr (850)
+*** ANTE/BLINDS ***
+Jotinho posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3d 4h]
+*** PRE-FLOP *** 
+Jotinho raises 20 to 50 and is all-in
+MathisKcr folds
+Jotinho collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: Jotinho (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4679986722967126017-10-1775226781 - Holdem no limit (15/30) - 2026/04/03 14:33:01 UTC
+Table: 'Expresso Nitro(1089644321)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Jotinho (80)
+Seat 3: MathisKcr (820)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Jotinho posts big blind 30
+Dealt to MathisKcr [7d Js]
+*** PRE-FLOP *** 
+MathisKcr raises 790 to 820 and is all-in
+Jotinho calls 50 and is all-in
+*** FLOP *** [4h As 6c]
+*** TURN *** [4h As 6c][Qh]
+*** RIVER *** [4h As 6c Qh][Jd]
+*** SHOW DOWN ***
+Jotinho shows [8c 8h] (One pair : 8)
+MathisKcr shows [7d Js] (One pair : Jacks)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4h As 6c Qh Jd]
+Seat 2: Jotinho (big blind) showed [8c 8h] and lost with One pair : 8
+Seat 3: MathisKcr (small blind) (button) showed [7d Js] and won 900 with One pair : Jacks
+
+

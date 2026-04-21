@@ -1,0 +1,117 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666479501792772097-1-1774711991 - Holdem no limit (10/20) - 2026/03/28 15:33:11 UTC
+Table: 'Expresso Nitro(1086499426)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tamal lefeu (300)
+Seat 2: Php333 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+tamal lefeu posts small blind 10
+Php333 posts big blind 20
+Dealt to MathisKcr [Jh Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+tamal lefeu calls 30
+Php333 folds
+*** FLOP *** [Ac 3c Qc]
+tamal lefeu checks
+MathisKcr bets 65
+tamal lefeu calls 65
+*** TURN *** [Ac 3c Qc][3d]
+tamal lefeu checks
+MathisKcr bets 195 and is all-in
+tamal lefeu calls 195 and is all-in
+*** RIVER *** [Ac 3c Qc 3d][Th]
+*** SHOW DOWN ***
+tamal lefeu shows [8c Js] (One pair : 3)
+MathisKcr shows [Jh Kh] (Straight Ace high)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ac 3c Qc 3d Th]
+Seat 1: tamal lefeu (small blind) showed [8c Js] and lost with One pair : 3
+Seat 3: MathisKcr (button) showed [Jh Kh] and won 620 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666479501792772097-2-1774712026 - Holdem no limit (10/20) - 2026/03/28 15:33:46 UTC
+Table: 'Expresso Nitro(1086499426)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Php333 (280)
+Seat 3: MathisKcr (620)
+*** ANTE/BLINDS ***
+Php333 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5d As]
+*** PRE-FLOP *** 
+Php333 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666479501792772097-3-1774712034 - Holdem no limit (10/20) - 2026/03/28 15:33:54 UTC
+Table: 'Expresso Nitro(1086499426)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Php333 (270)
+Seat 3: MathisKcr (630)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Php333 posts big blind 20
+Dealt to MathisKcr [Qh Js]
+*** PRE-FLOP *** 
+MathisKcr raises 610 to 630 and is all-in
+Php333 calls 250 and is all-in
+*** FLOP *** [9d 7c 9c]
+*** TURN *** [9d 7c 9c][Kd]
+*** RIVER *** [9d 7c 9c Kd][5d]
+*** SHOW DOWN ***
+Php333 shows [Td Qd] (Flush King high)
+MathisKcr shows [Qh Js] (One pair : 9)
+MathisKcr collected 360 from side pot 1
+Php333 collected 540 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9d 7c 9c Kd 5d]
+Seat 2: Php333 (big blind) showed [Td Qd] and won 540 with Flush King high
+Seat 3: MathisKcr (small blind) (button) showed [Qh Js] and won 360 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666479501792772097-4-1774712047 - Holdem no limit (10/20) - 2026/03/28 15:34:07 UTC
+Table: 'Expresso Nitro(1086499426)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Php333 (540)
+Seat 3: MathisKcr (360)
+*** ANTE/BLINDS ***
+Php333 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8c 9s]
+*** PRE-FLOP *** 
+Php333 raises 520 to 540 and is all-in
+MathisKcr folds
+Php333 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 2: Php333 (small blind) (button) won 560
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666479501792772097-5-1774712053 - Holdem no limit (15/30) - 2026/03/28 15:34:13 UTC
+Table: 'Expresso Nitro(1086499426)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Php333 (560)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Php333 posts big blind 30
+Dealt to MathisKcr [Jd Js]
+*** PRE-FLOP *** 
+MathisKcr raises 310 to 340 and is all-in
+Php333 calls 310
+*** FLOP *** [4h 5c 9d]
+*** TURN *** [4h 5c 9d][Ah]
+*** RIVER *** [4h 5c 9d Ah][Kh]
+*** SHOW DOWN ***
+MathisKcr shows [Jd Js] (One pair : Jacks)
+Php333 shows [As Ac] (Trips of Aces)
+Php333 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [4h 5c 9d Ah Kh]
+Seat 2: Php333 (big blind) showed [As Ac] and won 680 with Trips of Aces
+Seat 3: MathisKcr (small blind) (button) showed [Jd Js] and lost with One pair : Jacks
+
+

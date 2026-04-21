@@ -1,0 +1,34 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4618116576606945281-1-1773061670 - Holdem no limit (10/20) - 2026/03/09 13:07:50 UTC
+Table: 'Expresso Nitro(1075239055)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Shomdu95 (300)
+Seat 2: MathisKcr (300)
+Seat 3: titlimovic64 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+titlimovic64 posts big blind 20
+Dealt to MathisKcr [Qd 9s]
+*** PRE-FLOP *** 
+Shomdu95 raises 20 to 40
+MathisKcr calls 30
+titlimovic64 calls 20
+*** FLOP *** [3c Qc 3d]
+MathisKcr bets 42
+titlimovic64 calls 42
+Shomdu95 calls 42
+*** TURN *** [3c Qc 3d][As]
+MathisKcr bets 160
+titlimovic64 folds
+Shomdu95 raises 58 to 218 and is all-in
+MathisKcr calls 58 and is all-in
+*** RIVER *** [3c Qc 3d As][3s]
+*** SHOW DOWN ***
+MathisKcr shows [Qd 9s] (Full of 3 and Queens)
+Shomdu95 shows [Qh 3h] (Quads of 3)
+Shomdu95 collected 682 from pot
+*** SUMMARY ***
+Total pot 682 | No rake
+Board: [3c Qc 3d As 3s]
+Seat 1: Shomdu95 (button) showed [Qh 3h] and won 682 with Quads of 3
+Seat 2: MathisKcr (small blind) showed [Qd 9s] and lost with Full of 3 and Queens
+
+

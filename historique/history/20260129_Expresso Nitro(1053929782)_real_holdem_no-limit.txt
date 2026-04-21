@@ -1,0 +1,33 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4526593945970409473-1-1769683945 - Holdem no limit (10/20) - 2026/01/29 10:52:25 UTC
+Table: 'Expresso Nitro(1053929782)#0' 3-max (real money) Seat #3 is the button
+Seat 1: HomerSy (300)
+Seat 2: MathisKcr (300)
+Seat 3: novichio (300)
+*** ANTE/BLINDS ***
+HomerSy posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8s 9c]
+*** PRE-FLOP *** 
+novichio calls 20
+HomerSy folds
+MathisKcr checks
+*** FLOP *** [4h Tc As]
+MathisKcr bets 50
+novichio calls 50
+*** TURN *** [4h Tc As][4s]
+MathisKcr bets 75
+novichio calls 75
+*** RIVER *** [4h Tc As 4s][Td]
+MathisKcr bets 155 and is all-in
+novichio calls 155 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [8s 9c] (Two pairs : Tens and 4)
+novichio shows [7c 7h] (Two pairs : Tens and 7)
+novichio collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [4h Tc As 4s Td]
+Seat 2: MathisKcr (big blind) showed [8s 9c] and lost with Two pairs : Tens and 4
+Seat 3: novichio (button) showed [7c 7h] and won 610 with Two pairs : Tens and 7
+
+

@@ -1,0 +1,222 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667995608068390913-1-1774776042 - Holdem no limit (10/20) - 2026/03/29 09:20:42 UTC
+Table: 'Expresso Nitro(1086852422)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: chiken09500 (300)
+Seat 3: GybsykingR7 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+chiken09500 posts big blind 20
+Dealt to MathisKcr [9d 4h]
+*** PRE-FLOP *** 
+GybsykingR7 calls 20
+MathisKcr folds
+chiken09500 checks
+*** FLOP *** [8h Jc As]
+chiken09500 checks
+GybsykingR7 bets 33
+chiken09500 folds
+GybsykingR7 collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Board: [8h Jc As]
+Seat 3: GybsykingR7 (button) won 83
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667995608068390913-2-1774776054 - Holdem no limit (10/20) - 2026/03/29 09:20:54 UTC
+Table: 'Expresso Nitro(1086852422)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: chiken09500 (280)
+Seat 3: GybsykingR7 (330)
+*** ANTE/BLINDS ***
+chiken09500 posts small blind 10
+GybsykingR7 posts big blind 20
+Dealt to MathisKcr [Tc 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+chiken09500 calls 30
+GybsykingR7 calls 20
+*** FLOP *** [5d 6d Qc]
+chiken09500 bets 78
+GybsykingR7 calls 78
+MathisKcr folds
+*** TURN *** [5d 6d Qc][9c]
+chiken09500 checks
+GybsykingR7 bets 97
+chiken09500 calls 97
+*** RIVER *** [5d 6d Qc 9c][As]
+chiken09500 checks
+GybsykingR7 checks
+*** SHOW DOWN ***
+GybsykingR7 shows [9d Td] (One pair : 9)
+chiken09500 shows [Qd 7c] (One pair : Queens)
+chiken09500 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [5d 6d Qc 9c As]
+Seat 2: chiken09500 (small blind) showed [Qd 7c] and won 470 with One pair : Queens
+Seat 3: GybsykingR7 (big blind) showed [9d Td] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667995608068390913-3-1774776096 - Holdem no limit (10/20) - 2026/03/29 09:21:36 UTC
+Table: 'Expresso Nitro(1086852422)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (250)
+Seat 2: chiken09500 (535)
+Seat 3: GybsykingR7 (115)
+*** ANTE/BLINDS ***
+GybsykingR7 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qd 3d]
+*** PRE-FLOP *** 
+chiken09500 folds
+GybsykingR7 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667995608068390913-4-1774776101 - Holdem no limit (15/30) - 2026/03/29 09:21:41 UTC
+Table: 'Expresso Nitro(1086852422)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (260)
+Seat 2: chiken09500 (535)
+Seat 3: GybsykingR7 (105)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+chiken09500 posts big blind 30
+Dealt to MathisKcr [Tc 8d]
+*** PRE-FLOP *** 
+GybsykingR7 folds
+MathisKcr folds
+chiken09500 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: chiken09500 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667995608068390913-5-1774776107 - Holdem no limit (15/30) - 2026/03/29 09:21:47 UTC
+Table: 'Expresso Nitro(1086852422)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (245)
+Seat 2: chiken09500 (550)
+Seat 3: GybsykingR7 (105)
+*** ANTE/BLINDS ***
+chiken09500 posts small blind 15
+GybsykingR7 posts big blind 30
+Dealt to MathisKcr [3s 8d]
+*** PRE-FLOP *** 
+MathisKcr folds
+chiken09500 calls 15
+GybsykingR7 raises 75 to 105 and is all-in
+chiken09500 calls 75
+*** FLOP *** [8c 5c 3d]
+*** TURN *** [8c 5c 3d][8h]
+*** RIVER *** [8c 5c 3d 8h][5d]
+*** SHOW DOWN ***
+chiken09500 shows [Tc 9h] (Two pairs : 8 and 5)
+GybsykingR7 shows [Ac 7c] (Two pairs : 8 and 5)
+GybsykingR7 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [8c 5c 3d 8h 5d]
+Seat 2: chiken09500 (small blind) showed [Tc 9h] and lost with Two pairs : 8 and 5
+Seat 3: GybsykingR7 (big blind) showed [Ac 7c] and won 210 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667995608068390913-6-1774776120 - Holdem no limit (15/30) - 2026/03/29 09:22:00 UTC
+Table: 'Expresso Nitro(1086852422)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (245)
+Seat 2: chiken09500 (445)
+Seat 3: GybsykingR7 (210)
+*** ANTE/BLINDS ***
+GybsykingR7 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3c As]
+*** PRE-FLOP *** 
+chiken09500 calls 30
+GybsykingR7 calls 15
+MathisKcr checks
+*** FLOP *** [Kd 2c Ad]
+GybsykingR7 bets 31
+MathisKcr raises 184 to 215 and is all-in
+chiken09500 folds
+GybsykingR7 calls 149 and is all-in
+*** TURN *** [Kd 2c Ad][Js]
+*** RIVER *** [Kd 2c Ad Js][8c]
+*** SHOW DOWN ***
+GybsykingR7 shows [5s Kc] (One pair : Kings)
+MathisKcr shows [3c As] (One pair : Aces)
+MathisKcr collected 485 from pot
+*** SUMMARY ***
+Total pot 485 | No rake
+Board: [Kd 2c Ad Js 8c]
+Seat 1: MathisKcr (big blind) showed [3c As] and won 485 with One pair : Aces
+Seat 3: GybsykingR7 (small blind) showed [5s Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667995608068390913-7-1774776145 - Holdem no limit (15/30) - 2026/03/29 09:22:25 UTC
+Table: 'Expresso Nitro(1086852422)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (485)
+Seat 2: chiken09500 (415)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+chiken09500 posts big blind 30
+Dealt to MathisKcr [Kd 3d]
+*** PRE-FLOP *** 
+MathisKcr raises 455 to 485 and is all-in
+chiken09500 folds
+MathisKcr collected 515 from pot
+*** SUMMARY ***
+Total pot 515 | No rake
+Seat 1: MathisKcr (small blind) (button) won 515
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667995608068390913-8-1774776152 - Holdem no limit (15/30) - 2026/03/29 09:22:32 UTC
+Table: 'Expresso Nitro(1086852422)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (515)
+Seat 2: chiken09500 (385)
+*** ANTE/BLINDS ***
+chiken09500 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Td 6s]
+*** PRE-FLOP *** 
+chiken09500 raises 60 to 90
+MathisKcr folds
+chiken09500 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: chiken09500 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4667995608068390913-9-1774776160 - Holdem no limit (20/40) - 2026/03/29 09:22:40 UTC
+Table: 'Expresso Nitro(1086852422)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (485)
+Seat 2: chiken09500 (415)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+chiken09500 posts big blind 40
+Dealt to MathisKcr [Ad As]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+chiken09500 checks
+*** FLOP *** [8c 6d Qs]
+chiken09500 checks
+MathisKcr bets 40
+chiken09500 calls 40
+*** TURN *** [8c 6d Qs][6h]
+chiken09500 checks
+MathisKcr bets 80
+chiken09500 calls 80
+*** RIVER *** [8c 6d Qs 6h][Ac]
+chiken09500 checks
+MathisKcr bets 325 and is all-in
+chiken09500 calls 255 and is all-in
+*** SHOW DOWN ***
+chiken09500 shows [6s Qd] (Full of 6 and Queens)
+MathisKcr shows [Ad As] (Full of Aces and 6)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8c 6d Qs 6h Ac]
+Seat 1: MathisKcr (small blind) (button) showed [Ad As] and won 900 with Full of Aces and 6
+Seat 2: chiken09500 (big blind) showed [6s Qd] and lost with Full of 6 and Queens
+
+

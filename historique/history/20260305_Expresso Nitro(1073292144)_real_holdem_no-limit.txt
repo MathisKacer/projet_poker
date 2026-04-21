@@ -1,0 +1,32 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609754657533722625-1-1772715062 - Holdem no limit (10/20) - 2026/03/05 12:51:02 UTC
+Table: 'Expresso Nitro(1073292144)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Rbk87 (300)
+Seat 2: MathisKcr (300)
+Seat 3: dpardoss (300)
+*** ANTE/BLINDS ***
+Rbk87 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th As]
+*** PRE-FLOP *** 
+dpardoss raises 50 to 70
+Rbk87 raises 160 to 230
+MathisKcr calls 210
+dpardoss raises 70 to 300 and is all-in
+Rbk87 calls 70 and is all-in
+MathisKcr calls 70 and is all-in
+*** FLOP *** [6d Kc Kh]
+*** TURN *** [6d Kc Kh][7h]
+*** RIVER *** [6d Kc Kh 7h][9d]
+*** SHOW DOWN ***
+MathisKcr shows [Th As] (One pair : Kings)
+dpardoss shows [9s Ac] (Two pairs : Kings and 9)
+Rbk87 shows [Tc Ks] (Trips of Kings)
+Rbk87 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d Kc Kh 7h 9d]
+Seat 1: Rbk87 (small blind) showed [Tc Ks] and won 900 with Trips of Kings
+Seat 2: MathisKcr (big blind) showed [Th As] and lost with One pair : Kings
+Seat 3: dpardoss (button) showed [9s Ac] and lost with Two pairs : Kings and 9
+
+

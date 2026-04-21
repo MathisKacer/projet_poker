@@ -1,0 +1,46 @@
+Winamax Poker - Tournament "SPACE KO" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #4470872380301901848-9-1769950342 - Holdem no limit (25/100/200) - 2026/02/01 12:52:22 UTC
+Table: 'SPACE KO(1040956094)#0023' 6-max (real money) Seat #1 is the button
+Seat 1: Manon6442. (53108, 0.60€ bounty)
+Seat 2: Big Smile 51 (27256, 0.25€ bounty)
+Seat 3: Ad cash69 (22161, 0.25€ bounty)
+Seat 4: Biscuitx9 (37925, 0.25€ bounty)
+Seat 5: 69hiero69 (19550, 0.25€ bounty)
+Seat 6: MathisKcr (20000, 0.25€ bounty)
+*** ANTE/BLINDS ***
+Big Smile 51 posts ante 25
+Ad cash69 posts ante 25
+Manon6442. posts ante 25
+Biscuitx9 posts ante 25
+69hiero69 posts ante 25
+MathisKcr posts ante 25
+Big Smile 51 posts small blind 100
+Ad cash69 posts big blind 200
+Dealt to MathisKcr [4h Qc]
+*** PRE-FLOP *** 
+Biscuitx9 calls 200
+69hiero69 folds
+MathisKcr raises 200 to 400
+Manon6442. calls 400
+Big Smile 51 raises 800 to 1200
+Ad cash69 folds
+Biscuitx9 calls 1000
+MathisKcr calls 800
+Manon6442. folds
+*** FLOP *** [2d 4d 9h]
+Big Smile 51 bets 2828
+Biscuitx9 folds
+MathisKcr raises 15947 to 18775 and is all-in
+Big Smile 51 calls 15947
+*** TURN *** [2d 4d 9h][Kc]
+*** RIVER *** [2d 4d 9h Kc][7s]
+*** SHOW DOWN ***
+MathisKcr shows [4h Qc] (One pair : 4)
+Big Smile 51 shows [Kd Ad] (One pair : Kings)
+Big Smile 51 collected 41900 from pot
+*** SUMMARY ***
+Total pot 41900 | No rake
+Board: [2d 4d 9h Kc 7s]
+Seat 2: Big Smile 51 (small blind) showed [Kd Ad] and won 41900 with One pair : Kings
+Seat 6: MathisKcr showed [4h Qc] and lost with One pair : 4
+
+

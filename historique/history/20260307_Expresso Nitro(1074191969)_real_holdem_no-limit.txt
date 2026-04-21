@@ -1,0 +1,127 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613619376480845825-1-1772866933 - Holdem no limit (10/20) - 2026/03/07 07:02:13 UTC
+Table: 'Expresso Nitro(1074191969)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Agus Tapia (300)
+Seat 2: daronne 974 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Agus Tapia posts big blind 20
+Dealt to MathisKcr [4c As]
+*** PRE-FLOP *** 
+daronne 974 folds
+MathisKcr raises 40 to 60
+Agus Tapia calls 40
+*** FLOP *** [9s Qd 9c]
+MathisKcr checks
+Agus Tapia checks
+*** TURN *** [9s Qd 9c][7c]
+MathisKcr checks
+Agus Tapia checks
+*** RIVER *** [9s Qd 9c 7c][3c]
+MathisKcr bets 60
+Agus Tapia raises 180 to 240 and is all-in
+MathisKcr folds
+Agus Tapia collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [9s Qd 9c 7c 3c]
+Seat 1: Agus Tapia (big blind) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613619376480845825-2-1772866957 - Holdem no limit (10/20) - 2026/03/07 07:02:37 UTC
+Table: 'Expresso Nitro(1074191969)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Agus Tapia (420)
+Seat 2: daronne 974 (300)
+Seat 3: MathisKcr (180)
+*** ANTE/BLINDS ***
+Agus Tapia posts small blind 10
+daronne 974 posts big blind 20
+Dealt to MathisKcr [8h Js]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Agus Tapia calls 10
+daronne 974 checks
+*** FLOP *** [7d 6d 9s]
+Agus Tapia checks
+daronne 974 checks
+MathisKcr bets 160 and is all-in
+Agus Tapia folds
+daronne 974 folds
+MathisKcr collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [7d 6d 9s]
+Seat 3: MathisKcr (button) won 220
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613619376480845825-3-1772866979 - Holdem no limit (10/20) - 2026/03/07 07:02:59 UTC
+Table: 'Expresso Nitro(1074191969)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Agus Tapia (400)
+Seat 2: daronne 974 (280)
+Seat 3: MathisKcr (220)
+*** ANTE/BLINDS ***
+daronne 974 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 3d]
+*** PRE-FLOP *** 
+Agus Tapia folds
+daronne 974 calls 10
+MathisKcr checks
+*** FLOP *** [3c 6c Jd]
+daronne 974 checks
+MathisKcr bets 20
+daronne 974 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3c 6c Jd]
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4613619376480845825-4-1772866995 - Holdem no limit (15/30) - 2026/03/07 07:03:15 UTC
+Table: 'Expresso Nitro(1074191969)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Agus Tapia (400)
+Seat 2: daronne 974 (260)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Agus Tapia posts big blind 30
+Dealt to MathisKcr [Jh 9c]
+*** PRE-FLOP *** 
+daronne 974 folds
+MathisKcr calls 15
+Agus Tapia raises 370 to 400 and is all-in
+MathisKcr folds
+Agus Tapia collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 1: Agus Tapia (big blind) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4613619376480845825-5-1772867007 - Holdem no limit (15/30) - 2026/03/07 07:03:27 UTC
+Table: 'Expresso Nitro(1074191969)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Agus Tapia (430)
+Seat 2: daronne 974 (260)
+Seat 3: MathisKcr (210)
+*** ANTE/BLINDS ***
+Agus Tapia posts small blind 15
+daronne 974 posts big blind 30
+Dealt to MathisKcr [Ah 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 180 to 210 and is all-in
+Agus Tapia calls 195
+daronne 974 folds
+*** FLOP *** [6d Ad Qs]
+*** TURN *** [6d Ad Qs][6h]
+*** RIVER *** [6d Ad Qs 6h][Jd]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 3s] (Two pairs : Aces and 6)
+Agus Tapia shows [Th Kd] (Straight Ace high)
+Agus Tapia collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [6d Ad Qs 6h Jd]
+Seat 1: Agus Tapia (small blind) showed [Th Kd] and won 450 with Straight Ace high
+Seat 3: MathisKcr (button) showed [Ah 3s] and lost with Two pairs : Aces and 6
+
+

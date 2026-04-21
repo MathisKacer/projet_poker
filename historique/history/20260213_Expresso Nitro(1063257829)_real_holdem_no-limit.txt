@@ -1,0 +1,317 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4566657602770960385-1-1770995212 - Holdem no limit (10/20) - 2026/02/13 15:06:52 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cocopronouss (300)
+Seat 2: lagrogne44 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Cocopronouss posts big blind 20
+Dealt to MathisKcr [6h 9d]
+*** PRE-FLOP *** 
+lagrogne44 folds
+MathisKcr calls 10
+Cocopronouss checks
+*** FLOP *** [Jd Jh 2d]
+MathisKcr checks
+Cocopronouss bets 26
+MathisKcr folds
+Cocopronouss collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Jd Jh 2d]
+Seat 1: Cocopronouss (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4566657602770960385-2-1770995233 - Holdem no limit (10/20) - 2026/02/13 15:07:13 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cocopronouss (320)
+Seat 2: lagrogne44 (300)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+Cocopronouss posts small blind 10
+lagrogne44 posts big blind 20
+Dealt to MathisKcr [7d 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cocopronouss calls 10
+lagrogne44 checks
+*** FLOP *** [6h Th Ah]
+Cocopronouss checks
+lagrogne44 checks
+*** TURN *** [6h Th Ah][As]
+Cocopronouss checks
+lagrogne44 checks
+*** RIVER *** [6h Th Ah As][9d]
+Cocopronouss checks
+lagrogne44 checks
+*** SHOW DOWN ***
+Cocopronouss shows [Jd 4s] (One pair : Aces)
+lagrogne44 shows [4d Jc] (One pair : Aces)
+lagrogne44 collected 20 from pot
+Cocopronouss collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [6h Th Ah As 9d]
+Seat 1: Cocopronouss (small blind) showed [Jd 4s] and won 20 with One pair : Aces
+Seat 2: lagrogne44 (big blind) showed [4d Jc] and won 20 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4566657602770960385-3-1770995246 - Holdem no limit (10/20) - 2026/02/13 15:07:26 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cocopronouss (320)
+Seat 2: lagrogne44 (300)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+lagrogne44 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d Th]
+*** PRE-FLOP *** 
+Cocopronouss folds
+lagrogne44 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4566657602770960385-4-1770995254 - Holdem no limit (10/20) - 2026/02/13 15:07:34 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cocopronouss (320)
+Seat 2: lagrogne44 (290)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Cocopronouss posts big blind 20
+Dealt to MathisKcr [7d 9d]
+*** PRE-FLOP *** 
+lagrogne44 folds
+MathisKcr raises 20 to 40
+Cocopronouss calls 20
+*** FLOP *** [Kd 3c Ah]
+MathisKcr bets 50
+Cocopronouss folds
+MathisKcr collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [Kd 3c Ah]
+Seat 3: MathisKcr (small blind) won 130
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4566657602770960385-5-1770995275 - Holdem no limit (15/30) - 2026/02/13 15:07:55 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cocopronouss (280)
+Seat 2: lagrogne44 (290)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+Cocopronouss posts small blind 15
+lagrogne44 posts big blind 30
+Dealt to MathisKcr [6c 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cocopronouss calls 15
+lagrogne44 checks
+*** FLOP *** [3s 5c Kh]
+Cocopronouss checks
+lagrogne44 checks
+*** TURN *** [3s 5c Kh][Ac]
+Cocopronouss checks
+lagrogne44 checks
+*** RIVER *** [3s 5c Kh Ac][As]
+Cocopronouss checks
+lagrogne44 checks
+*** SHOW DOWN ***
+lagrogne44 shows [8h 7s] (One pair : Aces)
+Cocopronouss shows [Qd 4d] (One pair : Aces)
+Cocopronouss collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3s 5c Kh Ac As]
+Seat 1: Cocopronouss (small blind) showed [Qd 4d] and won 60 with One pair : Aces
+Seat 2: lagrogne44 (big blind) showed [8h 7s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4566657602770960385-6-1770995312 - Holdem no limit (15/30) - 2026/02/13 15:08:32 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cocopronouss (310)
+Seat 2: lagrogne44 (260)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+lagrogne44 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [As 8h]
+*** PRE-FLOP *** 
+Cocopronouss calls 30
+lagrogne44 raises 230 to 260 and is all-in
+MathisKcr raises 70 to 330 and is all-in
+Cocopronouss folds
+*** FLOP *** [4c Th 2s]
+*** TURN *** [4c Th 2s][2c]
+*** RIVER *** [4c Th 2s 2c][Kd]
+*** SHOW DOWN ***
+lagrogne44 shows [Ad 6h] (One pair : 2)
+MathisKcr shows [As 8h] (One pair : 2)
+MathisKcr collected 345 from side pot 1
+lagrogne44 collected 275 from main pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [4c Th 2s 2c Kd]
+Seat 2: lagrogne44 (small blind) showed [Ad 6h] and won 275 with One pair : 2
+Seat 3: MathisKcr (big blind) showed [As 8h] and won 345 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4566657602770960385-7-1770995335 - Holdem no limit (20/40) - 2026/02/13 15:08:55 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cocopronouss (280)
+Seat 2: lagrogne44 (275)
+Seat 3: MathisKcr (345)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Cocopronouss posts big blind 40
+Dealt to MathisKcr [5s 6d]
+*** PRE-FLOP *** 
+lagrogne44 calls 40
+MathisKcr calls 20
+Cocopronouss raises 240 to 280 and is all-in
+lagrogne44 calls 235 and is all-in
+MathisKcr folds
+*** FLOP *** [Kd 2s 6s]
+*** TURN *** [Kd 2s 6s][9d]
+*** RIVER *** [Kd 2s 6s 9d][2h]
+*** SHOW DOWN ***
+Cocopronouss shows [8d Ah] (One pair : 2)
+lagrogne44 shows [Jc Kh] (Two pairs : Kings and 2)
+lagrogne44 collected 590 from main pot
+Cocopronouss collected 5 from side pot 1
+*** SUMMARY ***
+Total pot 595 | No rake
+Board: [Kd 2s 6s 9d 2h]
+Seat 1: Cocopronouss (big blind) showed [8d Ah] and won 5 with One pair : 2
+Seat 2: lagrogne44 (button) showed [Jc Kh] and won 590 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4566657602770960385-8-1770995351 - Holdem no limit (20/40) - 2026/02/13 15:09:11 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cocopronouss (5)
+Seat 2: lagrogne44 (590)
+Seat 3: MathisKcr (305)
+*** ANTE/BLINDS ***
+Cocopronouss posts small blind 5 and is all-in
+lagrogne44 posts big blind 40
+Dealt to MathisKcr [8c 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 100
+lagrogne44 calls 60
+*** FLOP *** [4d 9c Ad]
+lagrogne44 checks
+MathisKcr bets 133
+lagrogne44 folds
+*** TURN *** [4d 9c Ad][2c]
+*** RIVER *** [4d 9c Ad 2c][4h]
+*** SHOW DOWN ***
+Cocopronouss shows [Kd Qc] (One pair : 4)
+MathisKcr shows [8c 8h] (Two pairs : 8 and 4)
+MathisKcr collected 338 from pot
+*** SUMMARY ***
+Total pot 338 | No rake
+Board: [4d 9c Ad 2c 4h]
+Seat 1: Cocopronouss (small blind) showed [Kd Qc] and lost with One pair : 4
+Seat 3: MathisKcr (button) showed [8c 8h] and won 338 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4566657602770960385-9-1770995367 - Holdem no limit (20/40) - 2026/02/13 15:09:27 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #2 is the button
+Seat 2: lagrogne44 (490)
+Seat 3: MathisKcr (410)
+*** ANTE/BLINDS ***
+lagrogne44 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9d As]
+*** PRE-FLOP *** 
+lagrogne44 calls 20
+MathisKcr raises 60 to 100
+lagrogne44 calls 60
+*** FLOP *** [Kc Td Jd]
+MathisKcr bets 140
+lagrogne44 raises 250 to 390 and is all-in
+MathisKcr calls 170 and is all-in
+*** TURN *** [Kc Td Jd][2h]
+*** RIVER *** [Kc Td Jd 2h][7c]
+*** SHOW DOWN ***
+lagrogne44 shows [4c Qh] (High card : King)
+MathisKcr shows [9d As] (High card : Ace)
+MathisKcr collected 820 from main pot
+lagrogne44 collected 80 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kc Td Jd 2h 7c]
+Seat 2: lagrogne44 (small blind) (button) showed [4c Qh] and won 80 with High card : King
+Seat 3: MathisKcr (big blind) showed [9d As] and won 820 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4566657602770960385-10-1770995386 - Holdem no limit (20/40) - 2026/02/13 15:09:46 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #3 is the button
+Seat 2: lagrogne44 (80)
+Seat 3: MathisKcr (820)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+lagrogne44 posts big blind 40
+Dealt to MathisKcr [5h 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 100
+lagrogne44 folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 3: MathisKcr (small blind) (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4566657602770960385-11-1770995395 - Holdem no limit (30/60) - 2026/02/13 15:09:55 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #2 is the button
+Seat 2: lagrogne44 (40)
+Seat 3: MathisKcr (860)
+*** ANTE/BLINDS ***
+lagrogne44 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [8s 9c]
+*** PRE-FLOP *** 
+lagrogne44 calls 10 and is all-in
+*** FLOP *** [As Kc Th]
+*** TURN *** [As Kc Th][4h]
+*** RIVER *** [As Kc Th 4h][7d]
+*** SHOW DOWN ***
+lagrogne44 shows [7s 9h] (One pair : 7)
+MathisKcr shows [8s 9c] (High card : Ace)
+MathisKcr collected 20 from side pot 1
+lagrogne44 collected 80 from main pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [As Kc Th 4h 7d]
+Seat 2: lagrogne44 (small blind) (button) showed [7s 9h] and won 80 with One pair : 7
+Seat 3: MathisKcr (big blind) showed [8s 9c] and won 20 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4566657602770960385-12-1770995405 - Holdem no limit (30/60) - 2026/02/13 15:10:05 UTC
+Table: 'Expresso Nitro(1063257829)#0' 3-max (real money) Seat #3 is the button
+Seat 2: lagrogne44 (80)
+Seat 3: MathisKcr (820)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+lagrogne44 posts big blind 60
+Dealt to MathisKcr [6s 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 90 to 150
+lagrogne44 calls 20 and is all-in
+*** FLOP *** [4h 6d Qc]
+*** TURN *** [4h 6d Qc][8s]
+*** RIVER *** [4h 6d Qc 8s][Th]
+*** SHOW DOWN ***
+lagrogne44 shows [7c 4c] (One pair : 4)
+MathisKcr shows [6s 7s] (One pair : 6)
+MathisKcr collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Board: [4h 6d Qc 8s Th]
+Seat 2: lagrogne44 (big blind) showed [7c 4c] and lost with One pair : 4
+Seat 3: MathisKcr (small blind) (button) showed [6s 7s] and won 230 with One pair : 6
+
+

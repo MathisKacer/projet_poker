@@ -1,0 +1,84 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4443953496680562689-1-1766250933 - Holdem no limit (10/20) - 2025/12/20 17:15:33 UTC
+Table: 'Expresso Nitro(1034688553)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Thugpouillor (300)
+Seat 3: Vr6pasqual78 (300)
+*** ANTE/BLINDS ***
+Thugpouillor posts small blind 10
+Vr6pasqual78 posts big blind 20
+Dealt to MathisKcr [Ah Js]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Thugpouillor folds
+Vr6pasqual78 calls 20
+*** FLOP *** [7s Ad 2s]
+Vr6pasqual78 checks
+MathisKcr bets 40
+Vr6pasqual78 folds
+MathisKcr collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Board: [7s Ad 2s]
+Seat 1: MathisKcr (button) won 130
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4443953496680562689-2-1766250956 - Holdem no limit (10/20) - 2025/12/20 17:15:56 UTC
+Table: 'Expresso Nitro(1034688553)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (350)
+Seat 2: Thugpouillor (290)
+Seat 3: Vr6pasqual78 (260)
+*** ANTE/BLINDS ***
+Vr6pasqual78 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6c 8h]
+*** PRE-FLOP *** 
+Thugpouillor raises 30 to 50
+Vr6pasqual78 calls 40
+MathisKcr calls 30
+*** FLOP *** [Ad Kh 6s]
+Vr6pasqual78 bets 150
+MathisKcr calls 150
+Thugpouillor folds
+*** TURN *** [Ad Kh 6s][9d]
+Vr6pasqual78 bets 60 and is all-in
+MathisKcr raises 90 to 150 and is all-in
+*** RIVER *** [Ad Kh 6s 9d][9s]
+*** SHOW DOWN ***
+MathisKcr shows [6c 8h] (Two pairs : 9 and 6)
+Vr6pasqual78 shows [Tc Ac] (Two pairs : Aces and 9)
+Vr6pasqual78 collected 570 from main pot
+MathisKcr collected 90 from side pot 1
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Ad Kh 6s 9d 9s]
+Seat 1: MathisKcr (big blind) showed [6c 8h] and won 90 with Two pairs : 9 and 6
+Seat 3: Vr6pasqual78 (small blind) showed [Tc Ac] and won 570 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4443953496680562689-3-1766251007 - Holdem no limit (15/30) - 2025/12/20 17:16:47 UTC
+Table: 'Expresso Nitro(1034688553)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (90)
+Seat 2: Thugpouillor (240)
+Seat 3: Vr6pasqual78 (570)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Thugpouillor posts big blind 30
+Dealt to MathisKcr [Qc Kd]
+*** PRE-FLOP *** 
+Vr6pasqual78 raises 75 to 105
+MathisKcr calls 75 and is all-in
+Thugpouillor folds
+*** FLOP *** [Tc 2c Td]
+*** TURN *** [Tc 2c Td][5h]
+*** RIVER *** [Tc 2c Td 5h][9d]
+*** SHOW DOWN ***
+MathisKcr shows [Qc Kd] (One pair : Tens)
+Vr6pasqual78 shows [Js Ac] (One pair : Tens)
+Vr6pasqual78 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [Tc 2c Td 5h 9d]
+Seat 1: MathisKcr (small blind) showed [Qc Kd] and lost with One pair : Tens
+Seat 3: Vr6pasqual78 (button) showed [Js Ac] and won 225 with One pair : Tens
+
+

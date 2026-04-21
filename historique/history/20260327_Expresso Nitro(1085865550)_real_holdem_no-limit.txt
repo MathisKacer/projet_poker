@@ -1,0 +1,117 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4663757025103052801-1-1774606088 - Holdem no limit (10/20) - 2026/03/27 10:08:08 UTC
+Table: 'Expresso Nitro(1085865550)#0' 3-max (real money) Seat #2 is the button
+Seat 1: papafab51 (300)
+Seat 2: papazz77 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+papafab51 posts big blind 20
+Dealt to MathisKcr [7c Th]
+*** PRE-FLOP *** 
+papazz77 raises 280 to 300 and is all-in
+MathisKcr folds
+papafab51 folds
+papazz77 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: papazz77 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4663757025103052801-2-1774606094 - Holdem no limit (10/20) - 2026/03/27 10:08:14 UTC
+Table: 'Expresso Nitro(1085865550)#0' 3-max (real money) Seat #3 is the button
+Seat 1: papafab51 (280)
+Seat 2: papazz77 (330)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+papafab51 posts small blind 10
+papazz77 posts big blind 20
+Dealt to MathisKcr [Kc Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+papafab51 calls 30
+papazz77 calls 20
+*** FLOP *** [2d 8c Jd]
+papafab51 checks
+papazz77 checks
+MathisKcr bets 40
+papafab51 calls 40
+papazz77 folds
+*** TURN *** [2d 8c Jd][Ah]
+papafab51 checks
+MathisKcr bets 210 and is all-in
+papafab51 calls 200 and is all-in
+*** RIVER *** [2d 8c Jd Ah][5c]
+*** SHOW DOWN ***
+papafab51 shows [Ad Th] (One pair : Aces)
+MathisKcr shows [Kc Jh] (One pair : Jacks)
+MathisKcr collected 10 from side pot 1
+papafab51 collected 600 from main pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [2d 8c Jd Ah 5c]
+Seat 1: papafab51 (small blind) showed [Ad Th] and won 600 with One pair : Aces
+Seat 3: MathisKcr (button) showed [Kc Jh] and won 10 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4663757025103052801-3-1774606116 - Holdem no limit (10/20) - 2026/03/27 10:08:36 UTC
+Table: 'Expresso Nitro(1085865550)#0' 3-max (real money) Seat #1 is the button
+Seat 1: papafab51 (600)
+Seat 2: papazz77 (290)
+Seat 3: MathisKcr (10)
+*** ANTE/BLINDS ***
+papazz77 posts small blind 10
+MathisKcr posts big blind 10 and is all-in
+Dealt to MathisKcr [Ts Tc]
+*** PRE-FLOP *** 
+papafab51 calls 20
+papazz77 calls 10
+*** FLOP *** [7h 3c 5c]
+papazz77 checks
+papafab51 checks
+*** TURN *** [7h 3c 5c][6c]
+papazz77 checks
+papafab51 checks
+*** RIVER *** [7h 3c 5c 6c][Ac]
+papazz77 checks
+papafab51 checks
+*** SHOW DOWN ***
+papafab51 shows [Ad Js] (One pair : Aces)
+papazz77 shows [Jd 4c] (Flush Ace high)
+MathisKcr shows [Ts Tc] (Flush Ace high)
+MathisKcr collected 30 from main pot
+papazz77 collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [7h 3c 5c 6c Ac]
+Seat 1: papafab51 (button) showed [Ad Js] and lost with One pair : Aces
+Seat 2: papazz77 (small blind) showed [Jd 4c] and won 20 with Flush Ace high
+Seat 3: MathisKcr (big blind) showed [Ts Tc] and won 30 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4663757025103052801-4-1774606129 - Holdem no limit (10/20) - 2026/03/27 10:08:49 UTC
+Table: 'Expresso Nitro(1085865550)#0' 3-max (real money) Seat #2 is the button
+Seat 1: papafab51 (580)
+Seat 2: papazz77 (290)
+Seat 3: MathisKcr (30)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+papafab51 posts big blind 20
+Dealt to MathisKcr [4h 8h]
+*** PRE-FLOP *** 
+papazz77 folds
+MathisKcr raises 10 to 30 and is all-in
+papafab51 calls 10
+*** FLOP *** [9d Tc 2d]
+*** TURN *** [9d Tc 2d][3d]
+*** RIVER *** [9d Tc 2d 3d][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [4h 8h] (High card : Queen)
+papafab51 shows [Jc 6d] (High card : Queen)
+papafab51 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [9d Tc 2d 3d Qs]
+Seat 1: papafab51 (big blind) showed [Jc 6d] and won 60 with High card : Queen
+Seat 3: MathisKcr (small blind) showed [4h 8h] and lost with High card : Queen
+
+

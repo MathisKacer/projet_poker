@@ -1,0 +1,55 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4604959816174010369-1-1772523794 - Holdem no limit (10/20) - 2026/03/03 07:43:14 UTC
+Table: 'Expresso Nitro(1072175758)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Nireple_____ (300)
+Seat 2: Venal_Chef78 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Nireple_____ posts big blind 20
+Dealt to MathisKcr [Qs 7h]
+*** PRE-FLOP *** 
+Venal_Chef78 raises 40 to 60
+MathisKcr folds
+Nireple_____ calls 40
+*** FLOP *** [Ad 6d 2c]
+Nireple_____ bets 240 and is all-in
+Venal_Chef78 calls 240 and is all-in
+*** TURN *** [Ad 6d 2c][Kh]
+*** RIVER *** [Ad 6d 2c Kh][Jc]
+*** SHOW DOWN ***
+Nireple_____ shows [3s Qd] (High card : Ace)
+Venal_Chef78 shows [Ah 4h] (One pair : Aces)
+Venal_Chef78 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Ad 6d 2c Kh Jc]
+Seat 1: Nireple_____ (big blind) showed [3s Qd] and lost with High card : Ace
+Seat 2: Venal_Chef78 (button) showed [Ah 4h] and won 610 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4604959816174010369-2-1772523814 - Holdem no limit (10/20) - 2026/03/03 07:43:34 UTC
+Table: 'Expresso Nitro(1072175758)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Venal_Chef78 (610)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Venal_Chef78 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ac 6s]
+*** PRE-FLOP *** 
+Venal_Chef78 calls 10
+MathisKcr raises 270 to 290 and is all-in
+Venal_Chef78 calls 270
+*** FLOP *** [Ts 8c 3h]
+*** TURN *** [Ts 8c 3h][5c]
+*** RIVER *** [Ts 8c 3h 5c][4d]
+*** SHOW DOWN ***
+MathisKcr shows [Ac 6s] (High card : Ace)
+Venal_Chef78 shows [Jc 4s] (One pair : 4)
+Venal_Chef78 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Ts 8c 3h 5c 4d]
+Seat 2: Venal_Chef78 (small blind) (button) showed [Jc 4s] and won 580 with One pair : 4
+Seat 3: MathisKcr (big blind) showed [Ac 6s] and lost with High card : Ace
+
+

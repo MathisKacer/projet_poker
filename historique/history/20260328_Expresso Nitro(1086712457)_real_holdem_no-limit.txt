@@ -1,0 +1,142 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667394462970806273-1-1774740430 - Holdem no limit (10/20) - 2026/03/28 23:27:10 UTC
+Table: 'Expresso Nitro(1086712457)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Pinsher (300)
+Seat 3: Bouille_77 (300)
+*** ANTE/BLINDS ***
+Bouille_77 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6d 3s]
+*** PRE-FLOP *** 
+Pinsher folds
+Bouille_77 calls 10
+MathisKcr checks
+*** FLOP *** [5h Kh Js]
+Bouille_77 checks
+MathisKcr checks
+*** TURN *** [5h Kh Js][4h]
+Bouille_77 checks
+MathisKcr checks
+*** RIVER *** [5h Kh Js 4h][5s]
+Bouille_77 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [6d 3s] (One pair : 5)
+Bouille_77 shows [Kd Ad] (Two pairs : Kings and 5)
+Bouille_77 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [5h Kh Js 4h 5s]
+Seat 1: MathisKcr (big blind) showed [6d 3s] and lost with One pair : 5
+Seat 3: Bouille_77 (small blind) showed [Kd Ad] and won 40 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667394462970806273-2-1774740464 - Holdem no limit (10/20) - 2026/03/28 23:27:44 UTC
+Table: 'Expresso Nitro(1086712457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Pinsher (300)
+Seat 3: Bouille_77 (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Pinsher posts big blind 20
+Dealt to MathisKcr [2d 5s]
+*** PRE-FLOP *** 
+Bouille_77 calls 20
+MathisKcr folds
+Pinsher checks
+*** FLOP *** [6s 7c 4c]
+Pinsher checks
+Bouille_77 checks
+*** TURN *** [6s 7c 4c][As]
+Pinsher checks
+Bouille_77 checks
+*** RIVER *** [6s 7c 4c As][4d]
+Pinsher checks
+Bouille_77 checks
+*** SHOW DOWN ***
+Pinsher shows [Jd 5d] (One pair : 4)
+Bouille_77 shows [7h Jh] (Two pairs : 7 and 4)
+Bouille_77 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [6s 7c 4c As 4d]
+Seat 2: Pinsher (big blind) showed [Jd 5d] and lost with One pair : 4
+Seat 3: Bouille_77 (button) showed [7h Jh] and won 50 with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667394462970806273-3-1774740478 - Holdem no limit (10/20) - 2026/03/28 23:27:58 UTC
+Table: 'Expresso Nitro(1086712457)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: Pinsher (280)
+Seat 3: Bouille_77 (350)
+*** ANTE/BLINDS ***
+Pinsher posts small blind 10
+Bouille_77 posts big blind 20
+Dealt to MathisKcr [4d Js]
+*** PRE-FLOP *** 
+MathisKcr folds
+Pinsher folds
+Bouille_77 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Bouille_77 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667394462970806273-4-1774740488 - Holdem no limit (15/30) - 2026/03/28 23:28:08 UTC
+Table: 'Expresso Nitro(1086712457)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (270)
+Seat 2: Pinsher (270)
+Seat 3: Bouille_77 (360)
+*** ANTE/BLINDS ***
+Bouille_77 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jd Qh]
+*** PRE-FLOP *** 
+Pinsher folds
+Bouille_77 calls 15
+MathisKcr raises 240 to 270 and is all-in
+Bouille_77 calls 240
+*** FLOP *** [Qd Kc Th]
+*** TURN *** [Qd Kc Th][Ks]
+*** RIVER *** [Qd Kc Th Ks][Ac]
+*** SHOW DOWN ***
+Bouille_77 shows [9d 9s] (Two pairs : Kings and 9)
+MathisKcr shows [Jd Qh] (Straight Ace high)
+MathisKcr collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Qd Kc Th Ks Ac]
+Seat 1: MathisKcr (big blind) showed [Jd Qh] and won 540 with Straight Ace high
+Seat 3: Bouille_77 (small blind) showed [9d 9s] and lost with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667394462970806273-5-1774740503 - Holdem no limit (15/30) - 2026/03/28 23:28:23 UTC
+Table: 'Expresso Nitro(1086712457)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (540)
+Seat 2: Pinsher (270)
+Seat 3: Bouille_77 (90)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Pinsher posts big blind 30
+Dealt to MathisKcr [9h 8h]
+*** PRE-FLOP *** 
+Bouille_77 calls 30
+MathisKcr raises 510 to 540 and is all-in
+Pinsher calls 240 and is all-in
+Bouille_77 calls 60 and is all-in
+*** FLOP *** [3h 5d 2h]
+*** TURN *** [3h 5d 2h][8d]
+*** RIVER *** [3h 5d 2h 8d][3s]
+*** SHOW DOWN ***
+Pinsher shows [Ks Qd] (One pair : 3)
+Bouille_77 shows [7s Th] (One pair : 3)
+MathisKcr shows [9h 8h] (Two pairs : 8 and 3)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3h 5d 2h 8d 3s]
+Seat 1: MathisKcr (small blind) showed [9h 8h] and won 900 with Two pairs : 8 and 3
+Seat 2: Pinsher (big blind) showed [Ks Qd] and lost with One pair : 3
+Seat 3: Bouille_77 (button) showed [7s Th] and lost with One pair : 3
+
+

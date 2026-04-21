@@ -1,0 +1,62 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688891293978329089-1-1775569929 - Holdem no limit (10/20) - 2026/04/07 13:52:09 UTC
+Table: 'Expresso Nitro(1091717578)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Foufoul13 (300)
+Seat 3: Terminuss (300)
+*** ANTE/BLINDS ***
+Foufoul13 posts small blind 10
+Terminuss posts big blind 20
+Dealt to MathisKcr [Ks 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Foufoul13 calls 30
+Terminuss calls 20
+*** FLOP *** [5d 8h 7c]
+Foufoul13 bets 42
+Terminuss folds
+MathisKcr calls 42
+*** TURN *** [5d 8h 7c][Ts]
+Foufoul13 bets 20
+MathisKcr calls 20
+*** RIVER *** [5d 8h 7c Ts][6s]
+Foufoul13 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Ks 7s] (One pair : 7)
+Foufoul13 shows [As 7d] (One pair : 7)
+Foufoul13 collected 244 from pot
+*** SUMMARY ***
+Total pot 244 | No rake
+Board: [5d 8h 7c Ts 6s]
+Seat 1: MathisKcr (button) showed [Ks 7s] and lost with One pair : 7
+Seat 2: Foufoul13 (small blind) showed [As 7d] and won 244 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4688891293978329089-2-1775569972 - Holdem no limit (10/20) - 2026/04/07 13:52:52 UTC
+Table: 'Expresso Nitro(1091717578)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (198)
+Seat 2: Foufoul13 (442)
+Seat 3: Terminuss (260)
+*** ANTE/BLINDS ***
+Terminuss posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ac 5d]
+*** PRE-FLOP *** 
+Foufoul13 folds
+Terminuss calls 10
+MathisKcr raises 178 to 198 and is all-in
+Terminuss calls 178
+*** FLOP *** [8h 2h 4d]
+*** TURN *** [8h 2h 4d][Ah]
+*** RIVER *** [8h 2h 4d Ah][3c]
+*** SHOW DOWN ***
+MathisKcr shows [Ac 5d] (Straight 5 high)
+Terminuss shows [7h 6h] (Flush Ace high)
+Terminuss collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [8h 2h 4d Ah 3c]
+Seat 1: MathisKcr (big blind) showed [Ac 5d] and lost with Straight 5 high
+Seat 3: Terminuss (small blind) showed [7h 6h] and won 396 with Flush Ace high
+
+

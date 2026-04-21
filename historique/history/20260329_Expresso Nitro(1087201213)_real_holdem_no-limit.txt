@@ -1,0 +1,88 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669493654006530049-1-1774824953 - Holdem no limit (10/20) - 2026/03/29 22:55:53 UTC
+Table: 'Expresso Nitro(1087201213)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cool-Down (300)
+Seat 2: ValorOfarol (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Cool-Down posts small blind 10
+ValorOfarol posts big blind 20
+Dealt to MathisKcr [2h 9c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Cool-Down raises 30 to 50
+ValorOfarol folds
+Cool-Down collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: Cool-Down (small blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669493654006530049-2-1774824964 - Holdem no limit (10/20) - 2026/03/29 22:56:04 UTC
+Table: 'Expresso Nitro(1087201213)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Cool-Down (320)
+Seat 2: ValorOfarol (280)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+ValorOfarol posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jh 7d]
+*** PRE-FLOP *** 
+Cool-Down folds
+ValorOfarol calls 10
+MathisKcr checks
+*** FLOP *** [3s Ac 3d]
+ValorOfarol bets 20
+MathisKcr folds
+ValorOfarol collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3s Ac 3d]
+Seat 2: ValorOfarol (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669493654006530049-3-1774824977 - Holdem no limit (10/20) - 2026/03/29 22:56:17 UTC
+Table: 'Expresso Nitro(1087201213)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Cool-Down (320)
+Seat 2: ValorOfarol (300)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Cool-Down posts big blind 20
+Dealt to MathisKcr [6h Ts]
+*** PRE-FLOP *** 
+ValorOfarol raises 25 to 45
+MathisKcr folds
+Cool-Down folds
+ValorOfarol collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 2: ValorOfarol (button) won 75
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669493654006530049-4-1774824995 - Holdem no limit (10/20) - 2026/03/29 22:56:35 UTC
+Table: 'Expresso Nitro(1087201213)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Cool-Down (300)
+Seat 2: ValorOfarol (330)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Cool-Down posts small blind 10
+ValorOfarol posts big blind 20
+Dealt to MathisKcr [As 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 250 to 270 and is all-in
+Cool-Down folds
+ValorOfarol calls 250
+*** FLOP *** [6d Kc 3d]
+*** TURN *** [6d Kc 3d][Ad]
+*** RIVER *** [6d Kc 3d Ad][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [As 9d] (One pair : Aces)
+ValorOfarol shows [Js Ah] (One pair : Aces)
+ValorOfarol collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [6d Kc 3d Ad Qs]
+Seat 2: ValorOfarol (big blind) showed [Js Ah] and won 550 with One pair : Aces
+Seat 3: MathisKcr (button) showed [As 9d] and lost with One pair : Aces
+
+

@@ -1,0 +1,118 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4665999530607509505-1-1774694245 - Holdem no limit (10/20) - 2026/03/28 10:37:25 UTC
+Table: 'Expresso Nitro(1086387674)#0' 3-max (real money) Seat #3 is the button
+Seat 1: DontCallPlz (300)
+Seat 2: MathisKcr (300)
+Seat 3: BPM2win (300)
+*** ANTE/BLINDS ***
+DontCallPlz posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jc Qd]
+*** PRE-FLOP *** 
+BPM2win folds
+DontCallPlz folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4665999530607509505-2-1774694271 - Holdem no limit (10/20) - 2026/03/28 10:37:51 UTC
+Table: 'Expresso Nitro(1086387674)#0' 3-max (real money) Seat #1 is the button
+Seat 1: DontCallPlz (290)
+Seat 2: MathisKcr (310)
+Seat 3: BPM2win (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+BPM2win posts big blind 20
+Dealt to MathisKcr [Qh 5s]
+*** PRE-FLOP *** 
+DontCallPlz raises 20 to 40
+MathisKcr folds
+BPM2win calls 20
+*** FLOP *** [9c 7c 6h]
+BPM2win bets 59
+DontCallPlz calls 59
+*** TURN *** [9c 7c 6h][Jc]
+BPM2win bets 104
+DontCallPlz calls 104
+*** RIVER *** [9c 7c 6h Jc][Js]
+BPM2win checks
+DontCallPlz bets 87 and is all-in
+BPM2win calls 87
+*** SHOW DOWN ***
+DontCallPlz shows [Qd Tc] (One pair : Jacks)
+BPM2win shows [8c 8h] (Two pairs : Jacks and 8)
+BPM2win collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [9c 7c 6h Jc Js]
+Seat 1: DontCallPlz (button) showed [Qd Tc] and lost with One pair : Jacks
+Seat 3: BPM2win (big blind) showed [8c 8h] and won 590 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4665999530607509505-3-1774694328 - Holdem no limit (15/30) - 2026/03/28 10:38:48 UTC
+Table: 'Expresso Nitro(1086387674)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (300)
+Seat 3: BPM2win (600)
+*** ANTE/BLINDS ***
+BPM2win posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2s 2h]
+*** PRE-FLOP *** 
+BPM2win calls 15
+MathisKcr raises 270 to 300 and is all-in
+BPM2win folds
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: MathisKcr (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4665999530607509505-4-1774694342 - Holdem no limit (15/30) - 2026/03/28 10:39:02 UTC
+Table: 'Expresso Nitro(1086387674)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (330)
+Seat 3: BPM2win (570)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+BPM2win posts big blind 30
+Dealt to MathisKcr [Jd 9s]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+BPM2win raises 60 to 90
+MathisKcr calls 60
+*** FLOP *** [As 3d 3c]
+BPM2win bets 90
+MathisKcr folds
+BPM2win collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [As 3d 3c]
+Seat 3: BPM2win (big blind) won 270
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4665999530607509505-5-1774694368 - Holdem no limit (20/40) - 2026/03/28 10:39:28 UTC
+Table: 'Expresso Nitro(1086387674)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (240)
+Seat 3: BPM2win (660)
+*** ANTE/BLINDS ***
+BPM2win posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jh Ks]
+*** PRE-FLOP *** 
+BPM2win raises 80 to 120
+MathisKcr raises 120 to 240 and is all-in
+BPM2win calls 120
+*** FLOP *** [Qd Qs 8h]
+*** TURN *** [Qd Qs 8h][4c]
+*** RIVER *** [Qd Qs 8h 4c][3c]
+*** SHOW DOWN ***
+MathisKcr shows [Jh Ks] (One pair : Queens)
+BPM2win shows [6d As] (One pair : Queens)
+BPM2win collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Qd Qs 8h 4c 3c]
+Seat 2: MathisKcr (big blind) showed [Jh Ks] and lost with One pair : Queens
+Seat 3: BPM2win (small blind) (button) showed [6d As] and won 480 with One pair : Queens
+
+

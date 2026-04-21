@@ -1,0 +1,626 @@
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-14-1744633209 - Holdem no limit (3/10/20) - 2025/04/14 12:20:09 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #1 is the button
+Seat 1: JefWilliams (725, 3€ bounty)
+Seat 2: Olaf23 (759, 2.50€ bounty)
+Seat 3: MathisKcr (500, 2.50€ bounty)
+*** ANTE/BLINDS ***
+Olaf23 posts ante 3
+MathisKcr posts ante 3
+JefWilliams posts ante 3
+Olaf23 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jh Qc]
+*** PRE-FLOP *** 
+JefWilliams raises 40 to 60
+Olaf23 folds
+MathisKcr raises 437 to 497 and is all-in
+JefWilliams calls 437
+*** FLOP *** [4h Tc Td]
+*** TURN *** [4h Tc Td][Kh]
+*** RIVER *** [4h Tc Td Kh][2c]
+*** SHOW DOWN ***
+JefWilliams shows [7h Js] (One pair : Tens)
+MathisKcr shows [Jh Qc] (One pair : Tens)
+MathisKcr collected 1013 from pot
+*** SUMMARY ***
+Total pot 1013 | No rake
+Board: [4h Tc Td Kh 2c]
+Seat 1: JefWilliams (button) showed [7h Js] and lost with One pair : Tens
+Seat 3: MathisKcr (big blind) showed [Jh Qc] and won 1013 with One pair : Tens
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-15-1744633231 - Holdem no limit (3/10/20) - 2025/04/14 12:20:31 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #2 is the button
+Seat 1: JefWilliams (225, 3€ bounty)
+Seat 2: Olaf23 (746, 2.50€ bounty)
+Seat 3: MathisKcr (1013, 2.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+JefWilliams posts ante 3
+Olaf23 posts ante 3
+MathisKcr posts small blind 10
+JefWilliams posts big blind 20
+Dealt to MathisKcr [6s Qs]
+*** PRE-FLOP *** 
+Olaf23 calls 20
+MathisKcr calls 10
+JefWilliams raises 202 to 222 and is all-in
+Olaf23 calls 202
+MathisKcr calls 202
+*** FLOP *** [9d 5h 9c]
+MathisKcr checks
+Olaf23 checks
+*** TURN *** [9d 5h 9c][7d]
+MathisKcr checks
+Olaf23 bets 521 and is all-in
+MathisKcr folds
+*** RIVER *** [9d 5h 9c 7d][4c]
+*** SHOW DOWN ***
+JefWilliams shows [Js 3s] (One pair : 9)
+Olaf23 shows [Qc 7c] (Two pairs : 9 and 7)
+Olaf23 collected 1196 from pot
+*** SUMMARY ***
+Total pot 1196 | No rake
+Board: [9d 5h 9c 7d 4c]
+Seat 1: JefWilliams (big blind) showed [Js 3s] and lost with One pair : 9
+Seat 2: Olaf23 (button) showed [Qc 7c] and won 1196 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-16-1744633268 - Holdem no limit (3/10/20) - 2025/04/14 12:21:08 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #2 is the button
+Seat 2: Olaf23 (1196, 7€ bounty)
+Seat 3: MathisKcr (788, 2.50€ bounty)
+*** ANTE/BLINDS ***
+Olaf23 posts ante 3
+MathisKcr posts ante 3
+Olaf23 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ts 5h]
+*** PRE-FLOP *** 
+Olaf23 folds
+MathisKcr collected 36 from pot
+*** SUMMARY ***
+Total pot 36 | No rake
+Seat 3: MathisKcr (big blind) won 36
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-17-1744633276 - Holdem no limit (3/10/20) - 2025/04/14 12:21:16 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #2 is the button
+Seat 1: JojogullAski (500, 2.50€ bounty)
+Seat 2: Olaf23 (1183, 7€ bounty)
+Seat 3: MathisKcr (801, 2.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+JojogullAski posts ante 3
+Olaf23 posts ante 3
+MathisKcr posts small blind 10
+JojogullAski posts big blind 20
+Dealt to MathisKcr [4d 5s]
+*** PRE-FLOP *** 
+Olaf23 raises 20 to 40
+MathisKcr folds
+JojogullAski calls 20
+*** FLOP *** [6d Jd 6h]
+JojogullAski checks
+Olaf23 checks
+*** TURN *** [6d Jd 6h][Ah]
+JojogullAski checks
+Olaf23 bets 35
+JojogullAski folds
+Olaf23 collected 134 from pot
+*** SUMMARY ***
+Total pot 134 | No rake
+Board: [6d Jd 6h Ah]
+Seat 2: Olaf23 (button) won 134
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-18-1744633323 - Holdem no limit (3/10/20) - 2025/04/14 12:22:03 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #3 is the button
+Seat 1: JojogullAski (457, 2.50€ bounty)
+Seat 2: Olaf23 (1239, 7€ bounty)
+Seat 3: MathisKcr (788, 2.50€ bounty)
+*** ANTE/BLINDS ***
+JojogullAski posts ante 3
+Olaf23 posts ante 3
+MathisKcr posts ante 3
+JojogullAski posts small blind 10
+Olaf23 posts big blind 20
+Dealt to MathisKcr [2s 2c]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+JojogullAski calls 10
+Olaf23 checks
+*** FLOP *** [6s Tc Jc]
+JojogullAski bets 45
+Olaf23 folds
+MathisKcr folds
+JojogullAski collected 114 from pot
+*** SUMMARY ***
+Total pot 114 | No rake
+Board: [6s Tc Jc]
+Seat 1: JojogullAski (small blind) won 114
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-19-1744633339 - Holdem no limit (3/10/20) - 2025/04/14 12:22:19 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #1 is the button
+Seat 1: JojogullAski (503, 2.50€ bounty)
+Seat 2: Olaf23 (1216, 7€ bounty)
+Seat 3: MathisKcr (765, 2.50€ bounty)
+*** ANTE/BLINDS ***
+Olaf23 posts ante 3
+MathisKcr posts ante 3
+JojogullAski posts ante 3
+Olaf23 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kh 7c]
+*** PRE-FLOP *** 
+JojogullAski folds
+Olaf23 folds
+MathisKcr collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | No rake
+Seat 3: MathisKcr (big blind) won 39
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-20-1744633345 - Holdem no limit (3/10/20) - 2025/04/14 12:22:25 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #2 is the button
+Seat 1: JojogullAski (500, 2.50€ bounty)
+Seat 2: Olaf23 (1203, 7€ bounty)
+Seat 3: MathisKcr (781, 2.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+JojogullAski posts ante 3
+Olaf23 posts ante 3
+MathisKcr posts small blind 10
+JojogullAski posts big blind 20
+Dealt to MathisKcr [As 7d]
+*** PRE-FLOP *** 
+Olaf23 calls 20
+MathisKcr raises 20 to 40
+JojogullAski folds
+Olaf23 calls 20
+*** FLOP *** [3s Kd Td]
+MathisKcr bets 55
+Olaf23 calls 55
+*** TURN *** [3s Kd Td][6c]
+MathisKcr checks
+Olaf23 checks
+*** RIVER *** [3s Kd Td 6c][Th]
+MathisKcr checks
+Olaf23 bets 142
+MathisKcr folds
+Olaf23 collected 361 from pot
+*** SUMMARY ***
+Total pot 361 | No rake
+Board: [3s Kd Td 6c Th]
+Seat 2: Olaf23 (button) won 361
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-21-1744633382 - Holdem no limit (3/10/20) - 2025/04/14 12:23:02 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #3 is the button
+Seat 1: JojogullAski (477, 2.50€ bounty)
+Seat 2: Olaf23 (1324, 7€ bounty)
+Seat 3: MathisKcr (683, 2.50€ bounty)
+*** ANTE/BLINDS ***
+JojogullAski posts ante 3
+Olaf23 posts ante 3
+MathisKcr posts ante 3
+JojogullAski posts small blind 10
+Olaf23 posts big blind 20
+Dealt to MathisKcr [5c Jh]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+JojogullAski calls 10
+Olaf23 checks
+*** FLOP *** [3d Kc 7c]
+JojogullAski checks
+Olaf23 checks
+MathisKcr checks
+*** TURN *** [3d Kc 7c][Tc]
+JojogullAski checks
+Olaf23 checks
+MathisKcr checks
+*** RIVER *** [3d Kc 7c Tc][9s]
+JojogullAski checks
+Olaf23 checks
+MathisKcr checks
+*** SHOW DOWN ***
+JojogullAski shows [7s Qd] (One pair : 7)
+MathisKcr shows [5c Jh] (High card : King)
+Olaf23 shows [9h 8c] (One pair : 9)
+Olaf23 collected 69 from pot
+*** SUMMARY ***
+Total pot 69 | No rake
+Board: [3d Kc 7c Tc 9s]
+Seat 1: JojogullAski (small blind) showed [7s Qd] and lost with One pair : 7
+Seat 2: Olaf23 (big blind) showed [9h 8c] and won 69 with One pair : 9
+Seat 3: MathisKcr (button) showed [5c Jh] and lost with High card : King
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-22-1744633410 - Holdem no limit (3/10/20) - 2025/04/14 12:23:30 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #1 is the button
+Seat 1: JojogullAski (454, 2.50€ bounty)
+Seat 2: Olaf23 (1370, 7€ bounty)
+Seat 3: MathisKcr (660, 2.50€ bounty)
+*** ANTE/BLINDS ***
+Olaf23 posts ante 3
+MathisKcr posts ante 3
+JojogullAski posts ante 3
+Olaf23 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5s 9d]
+*** PRE-FLOP *** 
+JojogullAski folds
+Olaf23 folds
+MathisKcr collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | No rake
+Seat 3: MathisKcr (big blind) won 39
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-23-1744633417 - Holdem no limit (3/10/20) - 2025/04/14 12:23:37 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #2 is the button
+Seat 1: JojogullAski (451, 2.50€ bounty)
+Seat 2: Olaf23 (1357, 7€ bounty)
+Seat 3: MathisKcr (676, 2.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+JojogullAski posts ante 3
+Olaf23 posts ante 3
+MathisKcr posts small blind 10
+JojogullAski posts big blind 20
+Dealt to MathisKcr [5h 5s]
+*** PRE-FLOP *** 
+Olaf23 folds
+MathisKcr raises 653 to 673 and is all-in
+JojogullAski calls 428 and is all-in
+*** FLOP *** [3d 5c 7s]
+*** TURN *** [3d 5c 7s][4d]
+*** RIVER *** [3d 5c 7s 4d][3c]
+*** SHOW DOWN ***
+JojogullAski shows [4c Ad] (Two pairs : 4 and 3)
+MathisKcr shows [5h 5s] (Full of 5 and 3)
+MathisKcr collected 1130 from pot
+*** SUMMARY ***
+Total pot 1130 | No rake
+Board: [3d 5c 7s 4d 3c]
+Seat 1: JojogullAski (big blind) showed [4c Ad] and lost with Two pairs : 4 and 3
+Seat 3: MathisKcr (small blind) showed [5h 5s] and won 1130 with Full of 5 and 3
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-24-1744633446 - Holdem no limit (3/10/20) - 2025/04/14 12:24:06 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #2 is the button
+Seat 2: Olaf23 (1354, 7€ bounty)
+Seat 3: MathisKcr (1130, 3€ bounty)
+*** ANTE/BLINDS ***
+Olaf23 posts ante 3
+MathisKcr posts ante 3
+Olaf23 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs Td]
+*** PRE-FLOP *** 
+Olaf23 folds
+MathisKcr collected 36 from pot
+*** SUMMARY ***
+Total pot 36 | No rake
+Seat 3: MathisKcr (big blind) won 36
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-25-1744633452 - Holdem no limit (3/10/20) - 2025/04/14 12:24:12 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #2 is the button
+Seat 1: norbelx (500, 2.50€ bounty)
+Seat 2: Olaf23 (1341, 7€ bounty)
+Seat 3: MathisKcr (1143, 3€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+norbelx posts ante 3
+Olaf23 posts ante 3
+MathisKcr posts small blind 10
+norbelx posts big blind 20
+Dealt to MathisKcr [9d 2h]
+*** PRE-FLOP *** 
+Olaf23 calls 20
+MathisKcr calls 10
+norbelx checks
+*** FLOP *** [Js Td 5h]
+MathisKcr checks
+norbelx checks
+Olaf23 checks
+*** TURN *** [Js Td 5h][Ts]
+MathisKcr checks
+norbelx checks
+Olaf23 bets 20
+MathisKcr folds
+norbelx folds
+Olaf23 collected 89 from pot
+*** SUMMARY ***
+Total pot 89 | No rake
+Board: [Js Td 5h Ts]
+Seat 2: Olaf23 (button) won 89
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200560-26-1744633483 - Holdem no limit (3/10/20) - 2025/04/14 12:24:43 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #3 is the button
+Seat 1: norbelx (477, 2.50€ bounty)
+Seat 2: Olaf23 (1387, 7€ bounty)
+Seat 3: MathisKcr (1120, 3€ bounty)
+*** ANTE/BLINDS ***
+norbelx posts ante 3
+Olaf23 posts ante 3
+MathisKcr posts ante 3
+norbelx posts small blind 10
+Olaf23 posts big blind 20
+Dealt to MathisKcr [2s 3s]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+norbelx calls 10
+Olaf23 checks
+*** FLOP *** [Ks 8d 5s]
+norbelx checks
+Olaf23 bets 24
+MathisKcr calls 24
+norbelx folds
+*** TURN *** [Ks 8d 5s][Ac]
+Olaf23 checks
+MathisKcr checks
+*** RIVER *** [Ks 8d 5s Ac][9c]
+Olaf23 bets 41
+MathisKcr folds
+Olaf23 collected 158 from pot
+*** SUMMARY ***
+Total pot 158 | No rake
+Board: [Ks 8d 5s Ac 9c]
+Seat 2: Olaf23 (big blind) won 158
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #3938059611101200560-27-1744633517 - Holdem no limit (3/12/25) - 2025/04/14 12:25:17 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #1 is the button
+Seat 1: norbelx (454, 2.50€ bounty)
+Seat 2: Olaf23 (1457, 7€ bounty)
+Seat 3: MathisKcr (1073, 3€ bounty)
+*** ANTE/BLINDS ***
+Olaf23 posts ante 3
+MathisKcr posts ante 3
+norbelx posts ante 3
+Olaf23 posts small blind 12
+MathisKcr posts big blind 25
+Dealt to MathisKcr [8d Kd]
+*** PRE-FLOP *** 
+norbelx folds
+Olaf23 calls 13
+MathisKcr raises 1045 to 1070 and is all-in
+Olaf23 folds
+MathisKcr collected 1104 from pot
+*** SUMMARY ***
+Total pot 1104 | No rake
+Seat 3: MathisKcr (big blind) won 1104
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #3938059611101200560-28-1744633534 - Holdem no limit (3/12/25) - 2025/04/14 12:25:34 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #2 is the button
+Seat 1: norbelx (451, 2.50€ bounty)
+Seat 2: Olaf23 (1429, 7€ bounty)
+Seat 3: MathisKcr (1104, 3€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+norbelx posts ante 3
+Olaf23 posts ante 3
+MathisKcr posts small blind 12
+norbelx posts big blind 25
+Dealt to MathisKcr [2h 5s]
+*** PRE-FLOP *** 
+Olaf23 folds
+MathisKcr calls 13
+norbelx checks
+*** FLOP *** [7c Kd 8s]
+MathisKcr checks
+norbelx checks
+*** TURN *** [7c Kd 8s][3h]
+MathisKcr checks
+norbelx checks
+*** RIVER *** [7c Kd 8s 3h][3c]
+MathisKcr checks
+norbelx bets 38
+MathisKcr folds
+norbelx collected 97 from pot
+*** SUMMARY ***
+Total pot 97 | No rake
+Board: [7c Kd 8s 3h 3c]
+Seat 1: norbelx (big blind) won 97
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 2 - HandId: #3938059611101200560-29-1744633559 - Holdem no limit (3/12/25) - 2025/04/14 12:25:59 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0175' 3-max (real money) Seat #3 is the button
+Seat 1: norbelx (482, 2.50€ bounty)
+Seat 2: Olaf23 (1426, 7€ bounty)
+Seat 3: MathisKcr (1076, 3€ bounty)
+*** ANTE/BLINDS ***
+norbelx posts ante 3
+Olaf23 posts ante 3
+MathisKcr posts ante 3
+norbelx posts small blind 12
+Olaf23 posts big blind 25
+Dealt to MathisKcr [Ah 4d]
+*** PRE-FLOP *** 
+MathisKcr calls 25
+norbelx raises 25 to 50
+Olaf23 calls 25
+MathisKcr calls 25
+*** FLOP *** [Qs 6s 7d]
+norbelx checks
+Olaf23 checks
+MathisKcr checks
+*** TURN *** [Qs 6s 7d][5s]
+norbelx checks
+Olaf23 checks
+MathisKcr checks
+*** RIVER *** [Qs 6s 7d 5s][Jc]
+norbelx checks
+Olaf23 checks
+MathisKcr bets 80
+norbelx folds
+Olaf23 folds
+MathisKcr collected 239 from pot
+*** SUMMARY ***
+Total pot 239 | No rake
+Board: [Qs 6s 7d 5s Jc]
+Seat 3: MathisKcr (button) won 239
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200632-1-1744633612 - Holdem no limit (3/12/25) - 2025/04/14 12:26:52 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0247' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1182, 3€ bounty)
+Seat 2: Glivendu (500, 2.50€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 3
+Glivendu posts ante 3
+MathisKcr posts small blind 12
+Glivendu posts big blind 25
+Dealt to MathisKcr [2d Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 25 to 50
+Glivendu calls 25
+*** FLOP *** [Ad 8c Qd]
+Glivendu checks
+MathisKcr bets 53
+Glivendu calls 53
+*** TURN *** [Ad 8c Qd][3c]
+Glivendu checks
+MathisKcr bets 106
+Glivendu calls 106
+*** RIVER *** [Ad 8c Qd 3c][9d]
+Glivendu bets 288 and is all-in
+MathisKcr calls 288
+*** SHOW DOWN ***
+MathisKcr shows [2d Ah] (One pair : Aces)
+Glivendu shows [Qc 9s] (Two pairs : Queens and 9)
+Glivendu collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [Ad 8c Qd 3c 9d]
+Seat 1: MathisKcr (small blind) (button) showed [2d Ah] and lost with One pair : Aces
+Seat 2: Glivendu (big blind) showed [Qc 9s] and won 1000 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 1 - HandId: #3938059611101200632-2-1744633639 - Holdem no limit (3/12/25) - 2025/04/14 12:27:19 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0247' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (682, 3€ bounty)
+Seat 2: Glivendu (1000, 2.50€ bounty)
+Seat 3: Payoyo13103 (500, 2.50€ bounty)
+*** ANTE/BLINDS ***
+Glivendu posts ante 3
+Payoyo13103 posts ante 3
+MathisKcr posts ante 3
+Glivendu posts small blind 12
+Payoyo13103 posts big blind 25
+Dealt to MathisKcr [9c 9h]
+*** PRE-FLOP *** 
+MathisKcr raises 654 to 679 and is all-in
+Glivendu folds
+Payoyo13103 folds
+MathisKcr collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | No rake
+Seat 1: MathisKcr (button) won 725
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #3938059611101200632-3-1744633664 - Holdem no limit (4/15/30) - 2025/04/14 12:27:44 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0247' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (725, 3€ bounty)
+Seat 2: Glivendu (985, 2.50€ bounty)
+Seat 3: Payoyo13103 (472, 2.50€ bounty)
+*** ANTE/BLINDS ***
+Payoyo13103 posts ante 4
+MathisKcr posts ante 4
+Glivendu posts ante 4
+Payoyo13103 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [As 8c]
+*** PRE-FLOP *** 
+Glivendu folds
+Payoyo13103 calls 15
+MathisKcr raises 691 to 721 and is all-in
+Payoyo13103 calls 438 and is all-in
+*** FLOP *** [9c Jd 7h]
+*** TURN *** [9c Jd 7h][Kd]
+*** RIVER *** [9c Jd 7h Kd][5d]
+*** SHOW DOWN ***
+MathisKcr shows [As 8c] (High card : Ace)
+Payoyo13103 shows [Ad 5s] (One pair : 5)
+Payoyo13103 collected 948 from main pot
+MathisKcr collected 253 from side pot 1
+*** SUMMARY ***
+Total pot 1201 | No rake
+Board: [9c Jd 7h Kd 5d]
+Seat 1: MathisKcr (big blind) showed [As 8c] and won 253 with High card : Ace
+Seat 3: Payoyo13103 (small blind) showed [Ad 5s] and won 948 with One pair : 5
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #3938059611101200544-40-1744633755 - Holdem no limit (4/15/30) - 2025/04/14 12:29:15 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0159' 3-max (real money) Seat #3 is the button
+Seat 1: humbass (1040, 4€ bounty)
+Seat 2: MathisKcr (253, 3€ bounty)
+Seat 3: LeGraute (1349, 2.50€ bounty)
+*** ANTE/BLINDS ***
+humbass posts ante 4
+MathisKcr posts ante 4
+LeGraute posts ante 4
+humbass posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Th 7d]
+*** PRE-FLOP *** 
+LeGraute raises 30 to 60
+humbass folds
+MathisKcr raises 189 to 249 and is all-in
+LeGraute calls 189
+*** FLOP *** [6d 6c Kh]
+*** TURN *** [6d 6c Kh][6h]
+*** RIVER *** [6d 6c Kh 6h][2c]
+*** SHOW DOWN ***
+MathisKcr shows [Th 7d] (Trips of 6)
+LeGraute shows [2h Ad] (Full of 6 and 2)
+LeGraute collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Board: [6d 6c Kh 6h 2c]
+Seat 2: MathisKcr (big blind) showed [Th 7d] and lost with Trips of 6
+Seat 3: LeGraute (button) showed [2h Ad] and won 525 with Full of 6 and 2
+
+
+Winamax Poker - Tournament "TRIDENT SPACE KO" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #3938059611101200407-35-1744633855 - Holdem no limit (4/17/35) - 2025/04/14 12:30:55 UTC
+Table: 'TRIDENT SPACE KO(916900954)#0022' 3-max (real money) Seat #1 is the button
+Seat 1: m4GicSkill (1187, 2.50€ bounty)
+Seat 2: Juliane991 (1313, 7.75€ bounty)
+Seat 3: MathisKcr (500, 2.50€ bounty)
+*** ANTE/BLINDS ***
+Juliane991 posts ante 4
+MathisKcr posts ante 4
+m4GicSkill posts ante 4
+Juliane991 posts small blind 17
+MathisKcr posts big blind 35
+Dealt to MathisKcr [6c 8c]
+*** PRE-FLOP *** 
+m4GicSkill folds
+Juliane991 calls 18
+MathisKcr checks
+*** FLOP *** [Qc Ad 8s]
+Juliane991 bets 53
+MathisKcr calls 53
+*** TURN *** [Qc Ad 8s][9c]
+Juliane991 checks
+MathisKcr checks
+*** RIVER *** [Qc Ad 8s 9c][9s]
+Juliane991 checks
+MathisKcr bets 408 and is all-in
+Juliane991 calls 408
+*** SHOW DOWN ***
+MathisKcr shows [6c 8c] (Two pairs : 9 and 8)
+Juliane991 shows [7c Qd] (Two pairs : Queens and 9)
+Juliane991 collected 1004 from pot
+*** SUMMARY ***
+Total pot 1004 | No rake
+Board: [Qc Ad 8s 9c 9s]
+Seat 2: Juliane991 (small blind) showed [7c Qd] and won 1004 with Two pairs : Queens and 9
+Seat 3: MathisKcr (big blind) showed [6c 8c] and lost with Two pairs : 9 and 8
+
+

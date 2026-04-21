@@ -1,0 +1,97 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675010208785760257-1-1775048386 - Holdem no limit (10/20) - 2026/04/01 12:59:46 UTC
+Table: 'Expresso Nitro(1088485636)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: demoniak743 (300)
+Seat 3: gabino_la mg (300)
+*** ANTE/BLINDS ***
+demoniak743 posts small blind 10
+gabino_la mg posts big blind 20
+Dealt to MathisKcr [7h 6s]
+*** PRE-FLOP *** 
+MathisKcr folds
+demoniak743 folds
+gabino_la mg collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: gabino_la mg (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675010208785760257-2-1775048395 - Holdem no limit (10/20) - 2026/04/01 12:59:55 UTC
+Table: 'Expresso Nitro(1088485636)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: demoniak743 (290)
+Seat 3: gabino_la mg (310)
+*** ANTE/BLINDS ***
+gabino_la mg posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kc 9d]
+*** PRE-FLOP *** 
+demoniak743 calls 20
+gabino_la mg calls 10
+MathisKcr raises 280 to 300 and is all-in
+demoniak743 folds
+gabino_la mg calls 280
+*** FLOP *** [4h 6d 4c]
+*** TURN *** [4h 6d 4c][2h]
+*** RIVER *** [4h 6d 4c 2h][Th]
+*** SHOW DOWN ***
+gabino_la mg shows [Qs Jc] (One pair : 4)
+MathisKcr shows [Kc 9d] (One pair : 4)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [4h 6d 4c 2h Th]
+Seat 1: MathisKcr (big blind) showed [Kc 9d] and won 620 with One pair : 4
+Seat 3: gabino_la mg (small blind) showed [Qs Jc] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675010208785760257-3-1775048416 - Holdem no limit (10/20) - 2026/04/01 13:00:16 UTC
+Table: 'Expresso Nitro(1088485636)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (620)
+Seat 2: demoniak743 (270)
+Seat 3: gabino_la mg (10)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+demoniak743 posts big blind 20
+Dealt to MathisKcr [Kh As]
+*** PRE-FLOP *** 
+gabino_la mg folds
+MathisKcr raises 600 to 620 and is all-in
+demoniak743 calls 250 and is all-in
+*** FLOP *** [2s Ac 3c]
+*** TURN *** [2s Ac 3c][5s]
+*** RIVER *** [2s Ac 3c 5s][6d]
+*** SHOW DOWN ***
+demoniak743 shows [Kd Qc] (High card : Ace)
+MathisKcr shows [Kh As] (One pair : Aces)
+MathisKcr collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [2s Ac 3c 5s 6d]
+Seat 1: MathisKcr (small blind) showed [Kh As] and won 890 with One pair : Aces
+Seat 2: demoniak743 (big blind) showed [Kd Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675010208785760257-4-1775048431 - Holdem no limit (10/20) - 2026/04/01 13:00:31 UTC
+Table: 'Expresso Nitro(1088485636)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (890)
+Seat 3: gabino_la mg (10)
+*** ANTE/BLINDS ***
+gabino_la mg posts small blind 10 and is all-in
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c Js]
+*** PRE-FLOP *** 
+*** FLOP *** [Qs 8s Jc]
+*** TURN *** [Qs 8s Jc][Ad]
+*** RIVER *** [Qs 8s Jc Ad][2c]
+*** SHOW DOWN ***
+gabino_la mg shows [5h Td] (High card : Ace)
+MathisKcr shows [7c Js] (One pair : Jacks)
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Board: [Qs 8s Jc Ad 2c]
+Seat 1: MathisKcr (big blind) showed [7c Js] and won 30 with One pair : Jacks
+Seat 3: gabino_la mg (small blind) (button) showed [5h Td] and lost with High card : Ace
+
+

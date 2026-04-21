@@ -1,0 +1,80 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4592481514544955393-1-1772017385 - Holdem no limit (10/20) - 2026/02/25 11:03:05 UTC
+Table: 'Expresso Nitro(1069270427)#0' 3-max (real money) Seat #1 is the button
+Seat 1: florentm (300)
+Seat 2: nsmlm (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+nsmlm posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6c 9d]
+*** PRE-FLOP *** 
+florentm folds
+nsmlm calls 10
+MathisKcr checks
+*** FLOP *** [4c 8s Qc]
+nsmlm checks
+MathisKcr bets 20
+nsmlm folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [4c 8s Qc]
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4592481514544955393-2-1772017398 - Holdem no limit (10/20) - 2026/02/25 11:03:18 UTC
+Table: 'Expresso Nitro(1069270427)#0' 3-max (real money) Seat #2 is the button
+Seat 1: florentm (300)
+Seat 2: nsmlm (280)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+florentm posts big blind 20
+Dealt to MathisKcr [8c Ks]
+*** PRE-FLOP *** 
+nsmlm calls 20
+MathisKcr raises 20 to 40
+florentm raises 260 to 300 and is all-in
+nsmlm folds
+MathisKcr calls 260
+*** FLOP *** [Ts 3c 2c]
+*** TURN *** [Ts 3c 2c][Ah]
+*** RIVER *** [Ts 3c 2c Ah][5s]
+*** SHOW DOWN ***
+MathisKcr shows [8c Ks] (High card : Ace)
+florentm shows [6c 6h] (One pair : 6)
+florentm collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Ts 3c 2c Ah 5s]
+Seat 1: florentm (big blind) showed [6c 6h] and won 620 with One pair : 6
+Seat 3: MathisKcr (small blind) showed [8c Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4592481514544955393-3-1772017416 - Holdem no limit (10/20) - 2026/02/25 11:03:36 UTC
+Table: 'Expresso Nitro(1069270427)#0' 3-max (real money) Seat #3 is the button
+Seat 1: florentm (620)
+Seat 2: nsmlm (260)
+Seat 3: MathisKcr (20)
+*** ANTE/BLINDS ***
+florentm posts small blind 10
+nsmlm posts big blind 20
+Dealt to MathisKcr [Qh 4h]
+*** PRE-FLOP *** 
+MathisKcr calls 20 and is all-in
+florentm raises 600 to 620 and is all-in
+nsmlm folds
+*** FLOP *** [Td 9c 3h]
+*** TURN *** [Td 9c 3h][Ac]
+*** RIVER *** [Td 9c 3h Ac][7s]
+*** SHOW DOWN ***
+MathisKcr shows [Qh 4h] (High card : Ace)
+florentm shows [6h Ah] (One pair : Aces)
+florentm collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [Td 9c 3h Ac 7s]
+Seat 1: florentm (small blind) showed [6h Ah] and won 660 with One pair : Aces
+Seat 3: MathisKcr (button) showed [Qh 4h] and lost with High card : Ace
+
+

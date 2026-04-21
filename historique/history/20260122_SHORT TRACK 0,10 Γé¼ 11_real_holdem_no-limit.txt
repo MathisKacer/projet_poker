@@ -1,0 +1,35 @@
+Winamax Poker - CashGame - HandId: #21972788-314-1769087975 - Holdem no limit (0.01€/0.02€) - 2026/01/22 13:19:35 UTC
+Table: 'SHORT TRACK 0,10 € 11' 5-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (0.10€)
+Seat 2: omide59 (0.14€)
+Seat 3: AUEIOU22222 (0.13€)
+Seat 4: Mite.rose651 (1.08€)
+Seat 5: AnotherBad (0.82€)
+*** ANTE/BLINDS ***
+AUEIOU22222 posts small blind 0.01€
+Mite.rose651 posts big blind 0.02€
+MathisKcr posts big blind 0.02€ out of position
+Dealt to MathisKcr [Ad 6c]
+*** PRE-FLOP *** 
+AnotherBad folds
+MathisKcr raises 0.02€ to 0.04€
+omide59 folds
+AUEIOU22222 calls 0.03€
+Mite.rose651 folds
+*** FLOP *** [6s Jh Kh]
+AUEIOU22222 checks
+MathisKcr bets 0.06€ and is all-in
+AUEIOU22222 calls 0.06€
+*** TURN *** [6s Jh Kh][4d]
+*** RIVER *** [6s Jh Kh 4d][7d]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 6c] (One pair : 6)
+AUEIOU22222 shows [6h Kc] (Two pairs : Kings and 6)
+AUEIOU22222 collected 0.21€ from pot
+*** SUMMARY ***
+Total pot 0.21€ | Rake 0.01€
+Board: [6s Jh Kh 4d 7d]
+Seat 1: MathisKcr showed [Ad 6c] and lost with One pair : 6
+Seat 3: AUEIOU22222 (small blind) showed [6h Kc] and won 0.21€ with Two pairs : Kings and 6
+
+

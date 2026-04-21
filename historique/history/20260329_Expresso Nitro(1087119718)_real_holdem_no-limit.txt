@@ -1,0 +1,110 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669143635646742529-1-1774815692 - Holdem no limit (10/20) - 2026/03/29 20:21:32 UTC
+Table: 'Expresso Nitro(1087119718)#0' 3-max (real money) Seat #3 is the button
+Seat 1: J0K3R-17 (300)
+Seat 2: LF_Shark7821 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+J0K3R-17 posts small blind 10
+LF_Shark7821 posts big blind 20
+Dealt to MathisKcr [2s 9h]
+*** PRE-FLOP *** 
+MathisKcr folds
+J0K3R-17 calls 10
+LF_Shark7821 checks
+*** FLOP *** [7h 2d Qc]
+J0K3R-17 checks
+LF_Shark7821 checks
+*** TURN *** [7h 2d Qc][3s]
+J0K3R-17 checks
+LF_Shark7821 checks
+*** RIVER *** [7h 2d Qc 3s][8h]
+J0K3R-17 bets 20
+LF_Shark7821 folds
+J0K3R-17 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [7h 2d Qc 3s 8h]
+Seat 1: J0K3R-17 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669143635646742529-2-1774815717 - Holdem no limit (10/20) - 2026/03/29 20:21:57 UTC
+Table: 'Expresso Nitro(1087119718)#0' 3-max (real money) Seat #1 is the button
+Seat 1: J0K3R-17 (320)
+Seat 2: LF_Shark7821 (280)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+LF_Shark7821 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d 9c]
+*** PRE-FLOP *** 
+J0K3R-17 calls 20
+LF_Shark7821 folds
+MathisKcr checks
+*** FLOP *** [2c Th Qh]
+MathisKcr checks
+J0K3R-17 checks
+*** TURN *** [2c Th Qh][4h]
+MathisKcr checks
+J0K3R-17 checks
+*** RIVER *** [2c Th Qh 4h][4c]
+MathisKcr checks
+J0K3R-17 bets 50
+MathisKcr folds
+J0K3R-17 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [2c Th Qh 4h 4c]
+Seat 1: J0K3R-17 (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669143635646742529-3-1774815748 - Holdem no limit (10/20) - 2026/03/29 20:22:28 UTC
+Table: 'Expresso Nitro(1087119718)#0' 3-max (real money) Seat #2 is the button
+Seat 1: J0K3R-17 (350)
+Seat 2: LF_Shark7821 (270)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+J0K3R-17 posts big blind 20
+Dealt to MathisKcr [8d 9c]
+*** PRE-FLOP *** 
+LF_Shark7821 raises 250 to 270 and is all-in
+MathisKcr folds
+J0K3R-17 folds
+LF_Shark7821 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: LF_Shark7821 (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4669143635646742529-4-1774815759 - Holdem no limit (15/30) - 2026/03/29 20:22:39 UTC
+Table: 'Expresso Nitro(1087119718)#0' 3-max (real money) Seat #3 is the button
+Seat 1: J0K3R-17 (330)
+Seat 2: LF_Shark7821 (300)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+J0K3R-17 posts small blind 15
+LF_Shark7821 posts big blind 30
+Dealt to MathisKcr [2s As]
+*** PRE-FLOP *** 
+MathisKcr raises 240 to 270 and is all-in
+J0K3R-17 calls 255
+LF_Shark7821 calls 240
+*** FLOP *** [3d 3h 9c]
+J0K3R-17 checks
+LF_Shark7821 bets 30 and is all-in
+J0K3R-17 calls 30
+*** TURN *** [3d 3h 9c][Jh]
+*** RIVER *** [3d 3h 9c Jh][7c]
+*** SHOW DOWN ***
+LF_Shark7821 shows [2h Qd] (One pair : 3)
+MathisKcr shows [2s As] (One pair : 3)
+J0K3R-17 shows [Ks Ac] (One pair : 3)
+J0K3R-17 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | No rake
+Board: [3d 3h 9c Jh 7c]
+Seat 1: J0K3R-17 (small blind) showed [Ks Ac] and won 870 with One pair : 3
+Seat 2: LF_Shark7821 (big blind) showed [2h Qd] and lost with One pair : 3
+Seat 3: MathisKcr (button) showed [2s As] and lost with One pair : 3
+
+

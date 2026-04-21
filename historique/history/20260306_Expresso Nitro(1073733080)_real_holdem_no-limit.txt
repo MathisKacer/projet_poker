@@ -1,0 +1,174 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611648463233351681-1-1772789992 - Holdem no limit (10/20) - 2026/03/06 09:39:52 UTC
+Table: 'Expresso Nitro(1073733080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Efralesmes (300)
+Seat 3: Daviit (300)
+*** ANTE/BLINDS ***
+Daviit posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d 5h]
+*** PRE-FLOP *** 
+Efralesmes folds
+Daviit calls 10
+MathisKcr checks
+*** FLOP *** [5c 7h 9c]
+Daviit checks
+MathisKcr bets 20
+Daviit calls 20
+*** TURN *** [5c 7h 9c][7s]
+Daviit checks
+MathisKcr bets 64
+Daviit folds
+MathisKcr collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | No rake
+Board: [5c 7h 9c 7s]
+Seat 1: MathisKcr (big blind) won 144
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611648463233351681-2-1772790022 - Holdem no limit (10/20) - 2026/03/06 09:40:22 UTC
+Table: 'Expresso Nitro(1073733080)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (340)
+Seat 2: Efralesmes (300)
+Seat 3: Daviit (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Efralesmes posts big blind 20
+Dealt to MathisKcr [Qd 2c]
+*** PRE-FLOP *** 
+Daviit raises 20 to 40
+MathisKcr folds
+Efralesmes calls 20
+*** FLOP *** [8c 3c 5d]
+Efralesmes checks
+Daviit bets 90
+Efralesmes calls 90
+*** TURN *** [8c 3c 5d][6c]
+Efralesmes checks
+Daviit bets 130 and is all-in
+Efralesmes calls 130
+*** RIVER *** [8c 3c 5d 6c][Kd]
+*** SHOW DOWN ***
+Daviit shows [As Jd] (High card : Ace)
+Efralesmes shows [2h 4d] (Straight 6 high)
+Efralesmes collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [8c 3c 5d 6c Kd]
+Seat 2: Efralesmes (big blind) showed [2h 4d] and won 530 with Straight 6 high
+Seat 3: Daviit (button) showed [As Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4611648463233351681-3-1772790050 - Holdem no limit (15/30) - 2026/03/06 09:40:50 UTC
+Table: 'Expresso Nitro(1073733080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (330)
+Seat 2: Efralesmes (570)
+*** ANTE/BLINDS ***
+Efralesmes posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5c 4s]
+*** PRE-FLOP *** 
+Efralesmes calls 15
+MathisKcr checks
+*** FLOP *** [6c 9c 8h]
+MathisKcr checks
+Efralesmes bets 39
+MathisKcr folds
+Efralesmes collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [6c 9c 8h]
+Seat 2: Efralesmes (small blind) (button) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4611648463233351681-4-1772790063 - Holdem no limit (15/30) - 2026/03/06 09:41:03 UTC
+Table: 'Expresso Nitro(1073733080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Efralesmes (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Efralesmes posts big blind 30
+Dealt to MathisKcr [8d 5s]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+Efralesmes checks
+*** FLOP *** [6d 2d Tc]
+Efralesmes checks
+MathisKcr checks
+*** TURN *** [6d 2d Tc][5h]
+Efralesmes bets 39
+MathisKcr raises 231 to 270 and is all-in
+Efralesmes folds
+MathisKcr collected 369 from pot
+*** SUMMARY ***
+Total pot 369 | No rake
+Board: [6d 2d Tc 5h]
+Seat 1: MathisKcr (small blind) (button) won 369
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4611648463233351681-5-1772790087 - Holdem no limit (15/30) - 2026/03/06 09:41:27 UTC
+Table: 'Expresso Nitro(1073733080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (369)
+Seat 2: Efralesmes (531)
+*** ANTE/BLINDS ***
+Efralesmes posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8d 3h]
+*** PRE-FLOP *** 
+Efralesmes folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4611648463233351681-6-1772790092 - Holdem no limit (15/30) - 2026/03/06 09:41:32 UTC
+Table: 'Expresso Nitro(1073733080)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (384)
+Seat 2: Efralesmes (516)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Efralesmes posts big blind 30
+Dealt to MathisKcr [Jc 3c]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Efralesmes folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4611648463233351681-7-1772790102 - Holdem no limit (15/30) - 2026/03/06 09:41:42 UTC
+Table: 'Expresso Nitro(1073733080)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (414)
+Seat 2: Efralesmes (486)
+*** ANTE/BLINDS ***
+Efralesmes posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8d 6c]
+*** PRE-FLOP *** 
+Efralesmes calls 15
+MathisKcr checks
+*** FLOP *** [Qd 9d 7c]
+MathisKcr checks
+Efralesmes bets 39
+MathisKcr calls 39
+*** TURN *** [Qd 9d 7c][5h]
+MathisKcr checks
+Efralesmes bets 90
+MathisKcr raises 90 to 180
+Efralesmes raises 237 to 417 and is all-in
+MathisKcr calls 165 and is all-in
+*** RIVER *** [Qd 9d 7c 5h][Ad]
+*** SHOW DOWN ***
+MathisKcr shows [8d 6c] (Straight 9 high)
+Efralesmes shows [Jd 5d] (Flush Ace high)
+Efralesmes collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd 9d 7c 5h Ad]
+Seat 1: MathisKcr (big blind) showed [8d 6c] and lost with Straight 9 high
+Seat 2: Efralesmes (small blind) (button) showed [Jd 5d] and won 900 with Flush Ace high
+
+

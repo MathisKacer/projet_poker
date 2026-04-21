@@ -1,0 +1,209 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603853896455028737-1-1772480124 - Holdem no limit (10/20) - 2026/03/02 19:35:24 UTC
+Table: 'Expresso Nitro(1071918266)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Sbrngvrs (300)
+Seat 3: CHANCHIK_ (300)
+*** ANTE/BLINDS ***
+CHANCHIK_ posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3h 6d]
+*** PRE-FLOP *** 
+Sbrngvrs folds
+CHANCHIK_ raises 20 to 40
+MathisKcr folds
+CHANCHIK_ collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: CHANCHIK_ (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603853896455028737-2-1772480139 - Holdem no limit (10/20) - 2026/03/02 19:35:39 UTC
+Table: 'Expresso Nitro(1071918266)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Sbrngvrs (300)
+Seat 3: CHANCHIK_ (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Sbrngvrs posts big blind 20
+Dealt to MathisKcr [2c 5s]
+*** PRE-FLOP *** 
+CHANCHIK_ raises 20 to 40
+MathisKcr folds
+Sbrngvrs calls 20
+*** FLOP *** [7d Tc 4c]
+Sbrngvrs checks
+CHANCHIK_ bets 45
+Sbrngvrs calls 45
+*** TURN *** [7d Tc 4c][4d]
+Sbrngvrs checks
+CHANCHIK_ checks
+*** RIVER *** [7d Tc 4c 4d][Kc]
+Sbrngvrs bets 63
+CHANCHIK_ raises 172 to 235 and is all-in
+Sbrngvrs folds
+CHANCHIK_ collected 478 from pot
+*** SUMMARY ***
+Total pot 478 | No rake
+Board: [7d Tc 4c 4d Kc]
+Seat 3: CHANCHIK_ (button) won 478
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603853896455028737-3-1772480159 - Holdem no limit (10/20) - 2026/03/02 19:35:59 UTC
+Table: 'Expresso Nitro(1071918266)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: Sbrngvrs (152)
+Seat 3: CHANCHIK_ (478)
+*** ANTE/BLINDS ***
+Sbrngvrs posts small blind 10
+CHANCHIK_ posts big blind 20
+Dealt to MathisKcr [6h 5h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Sbrngvrs folds
+CHANCHIK_ calls 20
+*** FLOP *** [Qc 7h Qs]
+CHANCHIK_ checks
+MathisKcr checks
+*** TURN *** [Qc 7h Qs][4h]
+CHANCHIK_ bets 45
+MathisKcr calls 45
+*** RIVER *** [Qc 7h Qs 4h][Jc]
+CHANCHIK_ bets 180
+MathisKcr folds
+CHANCHIK_ collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Qc 7h Qs 4h Jc]
+Seat 3: CHANCHIK_ (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4603853896455028737-4-1772480180 - Holdem no limit (10/20) - 2026/03/02 19:36:20 UTC
+Table: 'Expresso Nitro(1071918266)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (185)
+Seat 2: Sbrngvrs (142)
+Seat 3: CHANCHIK_ (573)
+*** ANTE/BLINDS ***
+CHANCHIK_ posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d 7s]
+*** PRE-FLOP *** 
+Sbrngvrs calls 20
+CHANCHIK_ calls 10
+MathisKcr checks
+*** FLOP *** [Jc Ts 4d]
+CHANCHIK_ checks
+MathisKcr checks
+Sbrngvrs checks
+*** TURN *** [Jc Ts 4d][Kh]
+CHANCHIK_ bets 30
+MathisKcr folds
+Sbrngvrs calls 30
+*** RIVER *** [Jc Ts 4d Kh][Jd]
+CHANCHIK_ checks
+Sbrngvrs checks
+*** SHOW DOWN ***
+Sbrngvrs shows [As 8h] (One pair : Jacks)
+CHANCHIK_ shows [Kc 9d] (Two pairs : Kings and Jacks)
+CHANCHIK_ collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jc Ts 4d Kh Jd]
+Seat 2: Sbrngvrs (button) showed [As 8h] and lost with One pair : Jacks
+Seat 3: CHANCHIK_ (small blind) showed [Kc 9d] and won 120 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4603853896455028737-5-1772480227 - Holdem no limit (15/30) - 2026/03/02 19:37:07 UTC
+Table: 'Expresso Nitro(1071918266)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (165)
+Seat 2: Sbrngvrs (92)
+Seat 3: CHANCHIK_ (643)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Sbrngvrs posts big blind 30
+Dealt to MathisKcr [6h 4h]
+*** PRE-FLOP *** 
+CHANCHIK_ raises 613 to 643 and is all-in
+MathisKcr folds
+Sbrngvrs folds
+CHANCHIK_ collected 688 from pot
+*** SUMMARY ***
+Total pot 688 | No rake
+Seat 3: CHANCHIK_ (button) won 688
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4603853896455028737-6-1772480234 - Holdem no limit (15/30) - 2026/03/02 19:37:14 UTC
+Table: 'Expresso Nitro(1071918266)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (150)
+Seat 2: Sbrngvrs (62)
+Seat 3: CHANCHIK_ (688)
+*** ANTE/BLINDS ***
+Sbrngvrs posts small blind 15
+CHANCHIK_ posts big blind 30
+Dealt to MathisKcr [4s 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sbrngvrs raises 32 to 62 and is all-in
+CHANCHIK_ folds
+Sbrngvrs collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Seat 2: Sbrngvrs (small blind) won 92
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4603853896455028737-7-1772480242 - Holdem no limit (20/40) - 2026/03/02 19:37:22 UTC
+Table: 'Expresso Nitro(1071918266)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (150)
+Seat 2: Sbrngvrs (92)
+Seat 3: CHANCHIK_ (658)
+*** ANTE/BLINDS ***
+CHANCHIK_ posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Td Jh]
+*** PRE-FLOP *** 
+Sbrngvrs calls 40
+CHANCHIK_ calls 20
+MathisKcr raises 110 to 150 and is all-in
+Sbrngvrs calls 52 and is all-in
+CHANCHIK_ folds
+*** FLOP *** [Th Qh 4d]
+*** TURN *** [Th Qh 4d][5c]
+*** RIVER *** [Th Qh 4d 5c][Kd]
+*** SHOW DOWN ***
+MathisKcr shows [Td Jh] (One pair : Tens)
+Sbrngvrs shows [As Ah] (One pair : Aces)
+Sbrngvrs collected 224 from main pot
+MathisKcr collected 58 from side pot 1
+*** SUMMARY ***
+Total pot 282 | No rake
+Board: [Th Qh 4d 5c Kd]
+Seat 1: MathisKcr (big blind) showed [Td Jh] and won 58 with One pair : Tens
+Seat 2: Sbrngvrs (button) showed [As Ah] and won 224 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4603853896455028737-8-1772480263 - Holdem no limit (20/40) - 2026/03/02 19:37:43 UTC
+Table: 'Expresso Nitro(1071918266)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (58)
+Seat 2: Sbrngvrs (224)
+Seat 3: CHANCHIK_ (618)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Sbrngvrs posts big blind 40
+Dealt to MathisKcr [2d 6d]
+*** PRE-FLOP *** 
+CHANCHIK_ folds
+MathisKcr raises 18 to 58 and is all-in
+Sbrngvrs calls 18
+*** FLOP *** [Qh 3d Qd]
+*** TURN *** [Qh 3d Qd][Jh]
+*** RIVER *** [Qh 3d Qd Jh][Qc]
+*** SHOW DOWN ***
+MathisKcr shows [2d 6d] (Trips of Queens)
+Sbrngvrs shows [7h Ac] (Trips of Queens)
+Sbrngvrs collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | No rake
+Board: [Qh 3d Qd Jh Qc]
+Seat 1: MathisKcr (small blind) showed [2d 6d] and lost with Trips of Queens
+Seat 2: Sbrngvrs (big blind) showed [7h Ac] and won 116 with Trips of Queens
+
+

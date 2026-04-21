@@ -1,0 +1,55 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580734220644646913-1-1771521290 - Holdem no limit (10/20) - 2026/02/19 17:14:50 UTC
+Table: 'Expresso Nitro(1066535297)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pelouse 47 (300)
+Seat 2: MathisKcr (300)
+Seat 3: JD_Warrior78 (300)
+*** ANTE/BLINDS ***
+JD_Warrior78 posts small blind 10
+pelouse 47 posts big blind 20
+Dealt to MathisKcr [8h Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+JD_Warrior78 raises 100 to 140
+pelouse 47 calls 120
+MathisKcr folds
+*** FLOP *** [6c 7c 4h]
+JD_Warrior78 bets 112
+pelouse 47 folds
+JD_Warrior78 collected 432 from pot
+*** SUMMARY ***
+Total pot 432 | No rake
+Board: [6c 7c 4h]
+Seat 3: JD_Warrior78 (small blind) won 432
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4580734220644646913-2-1771521306 - Holdem no limit (10/20) - 2026/02/19 17:15:06 UTC
+Table: 'Expresso Nitro(1066535297)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pelouse 47 (160)
+Seat 2: MathisKcr (260)
+Seat 3: JD_Warrior78 (480)
+*** ANTE/BLINDS ***
+pelouse 47 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qd Kc]
+*** PRE-FLOP *** 
+JD_Warrior78 calls 20
+pelouse 47 calls 10
+MathisKcr raises 30 to 50
+JD_Warrior78 calls 30
+pelouse 47 folds
+*** FLOP *** [Ac Js Kh]
+MathisKcr bets 210 and is all-in
+JD_Warrior78 calls 210
+*** TURN *** [Ac Js Kh][6d]
+*** RIVER *** [Ac Js Kh 6d][4d]
+*** SHOW DOWN ***
+MathisKcr shows [Qd Kc] (One pair : Kings)
+JD_Warrior78 shows [4h Jh] (Two pairs : Jacks and 4)
+JD_Warrior78 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Ac Js Kh 6d 4d]
+Seat 2: MathisKcr (big blind) showed [Qd Kc] and lost with One pair : Kings
+Seat 3: JD_Warrior78 (button) showed [4h Jh] and won 540 with Two pairs : Jacks and 4
+
+

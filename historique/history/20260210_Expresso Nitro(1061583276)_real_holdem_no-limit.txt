@@ -1,0 +1,27 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4559465452400541697-1-1770745412 - Holdem no limit (10/20) - 2026/02/10 17:43:32 UTC
+Table: 'Expresso Nitro(1061583276)#0' 3-max (real money) Seat #1 is the button
+Seat 1: BackToEx (300)
+Seat 2: MathisKcr (300)
+Seat 3: Y.E.A.L (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Y.E.A.L posts big blind 20
+Dealt to MathisKcr [2c 2h]
+*** PRE-FLOP *** 
+BackToEx folds
+MathisKcr raises 280 to 300 and is all-in
+Y.E.A.L calls 280 and is all-in
+*** FLOP *** [4h 7s Jc]
+*** TURN *** [4h 7s Jc][6h]
+*** RIVER *** [4h 7s Jc 6h][3h]
+*** SHOW DOWN ***
+MathisKcr shows [2c 2h] (One pair : 2)
+Y.E.A.L shows [Jd 9d] (One pair : Jacks)
+Y.E.A.L collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [4h 7s Jc 6h 3h]
+Seat 2: MathisKcr (small blind) showed [2c 2h] and lost with One pair : 2
+Seat 3: Y.E.A.L (big blind) showed [Jd 9d] and won 600 with One pair : Jacks
+
+

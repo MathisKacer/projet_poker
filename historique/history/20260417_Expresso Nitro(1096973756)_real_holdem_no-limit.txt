@@ -1,0 +1,71 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4711466406590283777-1-1776415342 - Holdem no limit (10/20) - 2026/04/17 08:42:22 UTC
+Table: 'Expresso Nitro(1096973756)#0' 3-max (real money) Seat #3 is the button
+Seat 1: baguette_123 (300)
+Seat 2: MathisKcr (300)
+Seat 3: BlastZeus14 (300)
+*** ANTE/BLINDS ***
+baguette_123 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jd As]
+*** PRE-FLOP *** 
+BlastZeus14 folds
+baguette_123 raises 20 to 40
+MathisKcr raises 260 to 300 and is all-in
+baguette_123 calls 260 and is all-in
+*** FLOP *** [3s Js 8d]
+*** TURN *** [3s Js 8d][Ah]
+*** RIVER *** [3s Js 8d Ah][2d]
+*** SHOW DOWN ***
+baguette_123 shows [Ks Kc] (One pair : Kings)
+MathisKcr shows [Jd As] (Two pairs : Aces and Jacks)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3s Js 8d Ah 2d]
+Seat 1: baguette_123 (small blind) showed [Ks Kc] and lost with One pair : Kings
+Seat 2: MathisKcr (big blind) showed [Jd As] and won 600 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4711466406590283777-2-1776415356 - Holdem no limit (10/20) - 2026/04/17 08:42:36 UTC
+Table: 'Expresso Nitro(1096973756)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (600)
+Seat 3: BlastZeus14 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+BlastZeus14 posts big blind 20
+Dealt to MathisKcr [Qc Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 580 to 600 and is all-in
+BlastZeus14 folds
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Seat 2: MathisKcr (small blind) (button) won 620
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4711466406590283777-3-1776415364 - Holdem no limit (10/20) - 2026/04/17 08:42:44 UTC
+Table: 'Expresso Nitro(1096973756)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (620)
+Seat 3: BlastZeus14 (280)
+*** ANTE/BLINDS ***
+BlastZeus14 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As 3s]
+*** PRE-FLOP *** 
+BlastZeus14 raises 50 to 70
+MathisKcr raises 550 to 620 and is all-in
+BlastZeus14 calls 210 and is all-in
+*** FLOP *** [3d 3c 9d]
+*** TURN *** [3d 3c 9d][9c]
+*** RIVER *** [3d 3c 9d 9c][6h]
+*** SHOW DOWN ***
+BlastZeus14 shows [Ad 7c] (Two pairs : 9 and 3)
+MathisKcr shows [As 3s] (Full of 3 and 9)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 3c 9d 9c 6h]
+Seat 2: MathisKcr (big blind) showed [As 3s] and won 900 with Full of 3 and 9
+Seat 3: BlastZeus14 (small blind) (button) showed [Ad 7c] and lost with Two pairs : 9 and 3
+
+

@@ -1,0 +1,101 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667143228858826753-1-1774733351 - Holdem no limit (10/20) - 2026/03/28 21:29:11 UTC
+Table: 'Expresso Nitro(1086653962)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Foutan13 (300)
+Seat 2: MathisKcr (300)
+Seat 3: D&D07 (300)
+*** ANTE/BLINDS ***
+D&D07 posts small blind 10
+Foutan13 posts big blind 20
+Dealt to MathisKcr [Jd 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+D&D07 raises 280 to 300 and is all-in
+Foutan13 folds
+D&D07 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: D&D07 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667143228858826753-2-1774733372 - Holdem no limit (10/20) - 2026/03/28 21:29:32 UTC
+Table: 'Expresso Nitro(1086653962)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Foutan13 (280)
+Seat 2: MathisKcr (300)
+Seat 3: D&D07 (320)
+*** ANTE/BLINDS ***
+Foutan13 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c 2d]
+*** PRE-FLOP *** 
+D&D07 raises 300 to 320 and is all-in
+Foutan13 folds
+MathisKcr folds
+D&D07 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: D&D07 (button) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667143228858826753-3-1774733380 - Holdem no limit (10/20) - 2026/03/28 21:29:40 UTC
+Table: 'Expresso Nitro(1086653962)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Foutan13 (270)
+Seat 2: MathisKcr (280)
+Seat 3: D&D07 (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+D&D07 posts big blind 20
+Dealt to MathisKcr [Qh 9h]
+*** PRE-FLOP *** 
+Foutan13 calls 20
+MathisKcr raises 260 to 280 and is all-in
+D&D07 folds
+Foutan13 calls 250 and is all-in
+*** FLOP *** [Jh Ah 7d]
+*** TURN *** [Jh Ah 7d][9s]
+*** RIVER *** [Jh Ah 7d 9s][5d]
+*** SHOW DOWN ***
+Foutan13 shows [7h Ac] (Two pairs : Aces and 7)
+MathisKcr shows [Qh 9h] (One pair : 9)
+MathisKcr collected 10 from side pot 1
+Foutan13 collected 560 from main pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Board: [Jh Ah 7d 9s 5d]
+Seat 1: Foutan13 (button) showed [7h Ac] and won 560 with Two pairs : Aces and 7
+Seat 2: MathisKcr (small blind) showed [Qh 9h] and won 10 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667143228858826753-4-1774733404 - Holdem no limit (10/20) - 2026/03/28 21:30:04 UTC
+Table: 'Expresso Nitro(1086653962)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Foutan13 (560)
+Seat 2: MathisKcr (10)
+Seat 3: D&D07 (330)
+*** ANTE/BLINDS ***
+D&D07 posts small blind 10
+Foutan13 posts big blind 20
+Dealt to MathisKcr [Qh 9h]
+*** PRE-FLOP *** 
+MathisKcr calls 10 and is all-in
+D&D07 calls 10
+Foutan13 checks
+*** FLOP *** [Ac 7h Qs]
+D&D07 bets 20
+Foutan13 raises 20 to 40
+D&D07 calls 20
+*** TURN *** [Ac 7h Qs][2s]
+D&D07 bets 270 and is all-in
+Foutan13 calls 270
+*** RIVER *** [Ac 7h Qs 2s][Jh]
+*** SHOW DOWN ***
+Foutan13 shows [4h Ad] (One pair : Aces)
+MathisKcr shows [Qh 9h] (One pair : Queens)
+D&D07 shows [2c 7s] (Two pairs : 7 and 2)
+D&D07 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Ac 7h Qs 2s Jh]
+Seat 1: Foutan13 (big blind) showed [4h Ad] and lost with One pair : Aces
+Seat 2: MathisKcr (button) showed [Qh 9h] and lost with One pair : Queens
+Seat 3: D&D07 (small blind) showed [2c 7s] and won 670 with Two pairs : 7 and 2
+
+

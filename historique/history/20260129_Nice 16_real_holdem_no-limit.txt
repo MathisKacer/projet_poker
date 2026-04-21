@@ -1,0 +1,93 @@
+Winamax Poker - CashGame - HandId: #22001300-497-1769699112 - Holdem no limit (0.01€/0.02€) - 2026/01/29 15:05:12 UTC
+Table: 'Nice 16' 5-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (0.83€)
+Seat 2: StefTuning (2€)
+Seat 3: Bertone_10 (2€)
+Seat 4: Yuyaq (2.93€)
+Seat 5: AntonioJPZ08 (2€)
+*** ANTE/BLINDS ***
+AntonioJPZ08 posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Bertone_10 posts big blind 0.02€ out of position
+Dealt to MathisKcr [Ah 2c]
+*** PRE-FLOP *** 
+StefTuning folds
+Bertone_10 checks
+Yuyaq folds
+AntonioJPZ08 folds
+MathisKcr raises 0.02€ to 0.04€
+Bertone_10 calls 0.02€
+*** FLOP *** [3h 8h 5h]
+MathisKcr bets 0.06€
+Bertone_10 folds
+MathisKcr collected 0.14€ from pot
+*** SUMMARY ***
+Total pot 0.14€ | Rake 0.01€
+Board: [3h 8h 5h]
+Seat 1: MathisKcr (big blind) won 0.14€
+
+
+Winamax Poker - CashGame - HandId: #22001300-498-1769699130 - Holdem no limit (0.01€/0.02€) - 2026/01/29 15:05:30 UTC
+Table: 'Nice 16' 5-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (0.87€)
+Seat 2: StefTuning (2€)
+Seat 3: Bertone_10 (1.96€)
+Seat 4: Yuyaq (2.93€)
+Seat 5: AntonioJPZ08 (2€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+StefTuning posts big blind 0.02€
+Dealt to MathisKcr [6h 5c]
+*** PRE-FLOP *** 
+Bertone_10 folds
+Yuyaq raises 0.03€ to 0.05€
+AntonioJPZ08 folds
+MathisKcr folds
+StefTuning folds
+Yuyaq collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 4: Yuyaq won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #22001300-499-1769699142 - Holdem no limit (0.01€/0.02€) - 2026/01/29 15:05:42 UTC
+Table: 'Nice 16' 5-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (0.86€)
+Seat 2: StefTuning (2€)
+Seat 3: Bertone_10 (1.96€)
+Seat 4: Yuyaq (2.96€)
+Seat 5: AntonioJPZ08 (2€)
+*** ANTE/BLINDS ***
+StefTuning posts small blind 0.01€
+Bertone_10 posts big blind 0.02€
+Dealt to MathisKcr [Kh As]
+*** PRE-FLOP *** 
+Yuyaq raises 0.03€ to 0.05€
+AntonioJPZ08 folds
+MathisKcr raises 0.03€ to 0.08€
+StefTuning folds
+Bertone_10 folds
+Yuyaq calls 0.03€
+*** FLOP *** [6s 9d Qs]
+Yuyaq checks
+MathisKcr bets 0.06€
+Yuyaq raises 0.13€ to 0.19€
+MathisKcr calls 0.13€
+*** TURN *** [6s 9d Qs][8d]
+Yuyaq bets 0.37€
+MathisKcr calls 0.37€
+*** RIVER *** [6s 9d Qs 8d][Td]
+Yuyaq checks
+MathisKcr bets 0.22€ and is all-in
+Yuyaq calls 0.22€
+*** SHOW DOWN ***
+MathisKcr shows [Kh As] (High card : Ace)
+Yuyaq shows [Ks Kc] (One pair : Kings)
+Yuyaq collected 1.65€ from pot
+*** SUMMARY ***
+Total pot 1.65€ | Rake 0.10€
+Board: [6s 9d Qs 8d Td]
+Seat 1: MathisKcr (button) showed [Kh As] and lost with High card : Ace
+Seat 4: Yuyaq showed [Ks Kc] and won 1.65€ with One pair : Kings
+
+

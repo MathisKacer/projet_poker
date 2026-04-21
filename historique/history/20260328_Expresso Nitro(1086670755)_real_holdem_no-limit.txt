@@ -1,0 +1,94 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667215354244628481-1-1774735478 - Holdem no limit (10/20) - 2026/03/28 22:04:38 UTC
+Table: 'Expresso Nitro(1086670755)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Mr Kogo72 (300)
+Seat 3: jguimet (300)
+*** ANTE/BLINDS ***
+Mr Kogo72 posts small blind 10
+jguimet posts big blind 20
+Dealt to MathisKcr [4c Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Mr Kogo72 calls 30
+jguimet calls 20
+*** FLOP *** [4s Th 4d]
+Mr Kogo72 checks
+jguimet checks
+MathisKcr bets 42
+Mr Kogo72 folds
+jguimet folds
+MathisKcr collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [4s Th 4d]
+Seat 1: MathisKcr (button) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667215354244628481-2-1774735498 - Holdem no limit (10/20) - 2026/03/28 22:04:58 UTC
+Table: 'Expresso Nitro(1086670755)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (380)
+Seat 2: Mr Kogo72 (260)
+Seat 3: jguimet (260)
+*** ANTE/BLINDS ***
+jguimet posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4c Kc]
+*** PRE-FLOP *** 
+Mr Kogo72 calls 20
+jguimet calls 10
+MathisKcr checks
+*** FLOP *** [2s As 4d]
+jguimet checks
+MathisKcr checks
+Mr Kogo72 checks
+*** TURN *** [2s As 4d][5c]
+jguimet checks
+MathisKcr bets 21
+Mr Kogo72 folds
+jguimet calls 21
+*** RIVER *** [2s As 4d 5c][4s]
+jguimet checks
+MathisKcr bets 51
+jguimet raises 115 to 166
+MathisKcr raises 173 to 339 and is all-in
+jguimet calls 53 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [4c Kc] (Trips of 4)
+jguimet shows [Ts 3s] (Flush Ace high)
+jguimet collected 540 from main pot
+MathisKcr collected 120 from side pot 1
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [2s As 4d 5c 4s]
+Seat 1: MathisKcr (big blind) showed [4c Kc] and won 120 with Trips of 4
+Seat 3: jguimet (small blind) showed [Ts 3s] and won 540 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4667215354244628481-3-1774735558 - Holdem no limit (15/30) - 2026/03/28 22:05:58 UTC
+Table: 'Expresso Nitro(1086670755)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (120)
+Seat 2: Mr Kogo72 (240)
+Seat 3: jguimet (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Mr Kogo72 posts big blind 30
+Dealt to MathisKcr [Ac Tc]
+*** PRE-FLOP *** 
+jguimet calls 30
+MathisKcr raises 90 to 120 and is all-in
+Mr Kogo72 folds
+jguimet calls 90
+*** FLOP *** [4s Th 7c]
+*** TURN *** [4s Th 7c][Jc]
+*** RIVER *** [4s Th 7c Jc][3d]
+*** SHOW DOWN ***
+MathisKcr shows [Ac Tc] (One pair : Tens)
+jguimet shows [Ad Js] (One pair : Jacks)
+jguimet collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [4s Th 7c Jc 3d]
+Seat 1: MathisKcr (small blind) showed [Ac Tc] and lost with One pair : Tens
+Seat 3: jguimet (button) showed [Ad Js] and won 270 with One pair : Jacks
+
+

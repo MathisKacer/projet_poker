@@ -1,0 +1,144 @@
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609747626672259073-1-1772714815 - Holdem no limit (10/20) - 2026/03/05 12:46:55 UTC
+Table: 'Expresso(1073290507)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: yannis6906 (500)
+Seat 3: Jahlion73 (500)
+*** ANTE/BLINDS ***
+yannis6906 posts small blind 10
+Jahlion73 posts big blind 20
+Dealt to MathisKcr [4d 9c]
+*** PRE-FLOP *** 
+MathisKcr folds
+yannis6906 raises 20 to 40
+Jahlion73 calls 20
+*** FLOP *** [6c 3d 9d]
+yannis6906 checks
+Jahlion73 bets 460 and is all-in
+yannis6906 folds
+Jahlion73 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [6c 3d 9d]
+Seat 3: Jahlion73 (big blind) won 540
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609747626672259073-2-1772714827 - Holdem no limit (10/20) - 2026/03/05 12:47:07 UTC
+Table: 'Expresso(1073290507)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: yannis6906 (460)
+Seat 3: Jahlion73 (540)
+*** ANTE/BLINDS ***
+Jahlion73 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Js 9h]
+*** PRE-FLOP *** 
+yannis6906 folds
+Jahlion73 calls 10
+MathisKcr raises 20 to 40
+Jahlion73 calls 20
+*** FLOP *** [5s As Tc]
+Jahlion73 bets 500 and is all-in
+MathisKcr folds
+Jahlion73 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5s As Tc]
+Seat 3: Jahlion73 (small blind) won 580
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609747626672259073-3-1772714841 - Holdem no limit (10/20) - 2026/03/05 12:47:21 UTC
+Table: 'Expresso(1073290507)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (460)
+Seat 2: yannis6906 (460)
+Seat 3: Jahlion73 (580)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+yannis6906 posts big blind 20
+Dealt to MathisKcr [2d Th]
+*** PRE-FLOP *** 
+Jahlion73 raises 30 to 50
+MathisKcr folds
+yannis6906 raises 30 to 80
+Jahlion73 raises 500 to 580 and is all-in
+yannis6906 calls 380 and is all-in
+*** FLOP *** [8s 9c 5h]
+*** TURN *** [8s 9c 5h][3h]
+*** RIVER *** [8s 9c 5h 3h][Jc]
+*** SHOW DOWN ***
+yannis6906 shows [Ad 2s] (High card : Ace)
+Jahlion73 shows [5d Ah] (One pair : 5)
+Jahlion73 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [8s 9c 5h 3h Jc]
+Seat 2: yannis6906 (big blind) showed [Ad 2s] and lost with High card : Ace
+Seat 3: Jahlion73 (button) showed [5d Ah] and won 1050 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609747626672259073-4-1772714859 - Holdem no limit (10/20) - 2026/03/05 12:47:39 UTC
+Table: 'Expresso(1073290507)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (450)
+Seat 3: Jahlion73 (1050)
+*** ANTE/BLINDS ***
+Jahlion73 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4c 9c]
+*** PRE-FLOP *** 
+Jahlion73 raises 1030 to 1050 and is all-in
+MathisKcr folds
+Jahlion73 collected 1070 from pot
+*** SUMMARY ***
+Total pot 1070 | No rake
+Seat 3: Jahlion73 (small blind) (button) won 1070
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609747626672259073-5-1772714864 - Holdem no limit (10/20) - 2026/03/05 12:47:44 UTC
+Table: 'Expresso(1073290507)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (430)
+Seat 3: Jahlion73 (1070)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Jahlion73 posts big blind 20
+Dealt to MathisKcr [Ts 5h]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+Jahlion73 checks
+*** FLOP *** [Td Kc 8s]
+Jahlion73 checks
+MathisKcr bets 40
+Jahlion73 folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Td Kc 8s]
+Seat 1: MathisKcr (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #4609747626672259073-6-1772714878 - Holdem no limit (10/20) - 2026/03/05 12:47:58 UTC
+Table: 'Expresso(1073290507)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (450)
+Seat 3: Jahlion73 (1050)
+*** ANTE/BLINDS ***
+Jahlion73 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2c 9h]
+*** PRE-FLOP *** 
+Jahlion73 calls 10
+MathisKcr checks
+*** FLOP *** [9d 7s 2s]
+MathisKcr bets 40
+Jahlion73 raises 990 to 1030 and is all-in
+MathisKcr calls 390 and is all-in
+*** TURN *** [9d 7s 2s][Qc]
+*** RIVER *** [9d 7s 2s Qc][7c]
+*** SHOW DOWN ***
+MathisKcr shows [2c 9h] (Two pairs : 9 and 7)
+Jahlion73 shows [Kd 9c] (Two pairs : 9 and 7)
+Jahlion73 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [9d 7s 2s Qc 7c]
+Seat 1: MathisKcr (big blind) showed [2c 9h] and lost with Two pairs : 9 and 7
+Seat 3: Jahlion73 (small blind) (button) showed [Kd 9c] and won 1500 with Two pairs : 9 and 7
+
+

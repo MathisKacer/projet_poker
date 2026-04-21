@@ -1,0 +1,182 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668572482305785857-1-1774798564 - Holdem no limit (10/20) - 2026/03/29 15:36:04 UTC
+Table: 'Expresso Nitro(1086986736)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Donuts26 (300)
+Seat 2: MathisKcr (300)
+Seat 3: HerbertPowel (300)
+*** ANTE/BLINDS ***
+HerbertPowel posts small blind 10
+Donuts26 posts big blind 20
+Dealt to MathisKcr [4c 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+HerbertPowel folds
+Donuts26 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Donuts26 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668572482305785857-2-1774798571 - Holdem no limit (10/20) - 2026/03/29 15:36:11 UTC
+Table: 'Expresso Nitro(1086986736)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Donuts26 (310)
+Seat 2: MathisKcr (300)
+Seat 3: HerbertPowel (290)
+*** ANTE/BLINDS ***
+Donuts26 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5s 4d]
+*** PRE-FLOP *** 
+HerbertPowel raises 270 to 290 and is all-in
+Donuts26 raises 20 to 310 and is all-in
+MathisKcr folds
+*** FLOP *** [Jd 6c 6s]
+*** TURN *** [Jd 6c 6s][Qs]
+*** RIVER *** [Jd 6c 6s Qs][Ah]
+*** SHOW DOWN ***
+Donuts26 shows [2d 2h] (Two pairs : 6 and 2)
+HerbertPowel shows [Kc Qd] (Two pairs : Queens and 6)
+HerbertPowel collected 600 from main pot
+Donuts26 collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Jd 6c 6s Qs Ah]
+Seat 1: Donuts26 (small blind) showed [2d 2h] and won 20 with Two pairs : 6 and 2
+Seat 3: HerbertPowel (button) showed [Kc Qd] and won 600 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668572482305785857-3-1774798594 - Holdem no limit (10/20) - 2026/03/29 15:36:34 UTC
+Table: 'Expresso Nitro(1086986736)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Donuts26 (20)
+Seat 2: MathisKcr (280)
+Seat 3: HerbertPowel (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+HerbertPowel posts big blind 20
+Dealt to MathisKcr [9c 6h]
+*** PRE-FLOP *** 
+Donuts26 calls 20 and is all-in
+MathisKcr folds
+*** FLOP *** [Qc Jh 7c]
+*** TURN *** [Qc Jh 7c][6c]
+*** RIVER *** [Qc Jh 7c 6c][Ac]
+*** SHOW DOWN ***
+Donuts26 shows [7h Td] (One pair : 7)
+HerbertPowel shows [Ts 8c] (Flush Ace high)
+HerbertPowel collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Qc Jh 7c 6c Ac]
+Seat 1: Donuts26 (button) showed [7h Td] and lost with One pair : 7
+Seat 3: HerbertPowel (big blind) showed [Ts 8c] and won 50 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668572482305785857-4-1774798607 - Holdem no limit (10/20) - 2026/03/29 15:36:47 UTC
+Table: 'Expresso Nitro(1086986736)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (270)
+Seat 3: HerbertPowel (630)
+*** ANTE/BLINDS ***
+HerbertPowel posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c 6h]
+*** PRE-FLOP *** 
+HerbertPowel raises 610 to 630 and is all-in
+MathisKcr folds
+HerbertPowel collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 3: HerbertPowel (small blind) (button) won 650
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668572482305785857-5-1774798618 - Holdem no limit (10/20) - 2026/03/29 15:36:58 UTC
+Table: 'Expresso Nitro(1086986736)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (250)
+Seat 3: HerbertPowel (650)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+HerbertPowel posts big blind 20
+Dealt to MathisKcr [4d 3d]
+*** PRE-FLOP *** 
+MathisKcr raises 230 to 250 and is all-in
+HerbertPowel calls 230
+*** FLOP *** [9d 3s Js]
+*** TURN *** [9d 3s Js][3c]
+*** RIVER *** [9d 3s Js 3c][9s]
+*** SHOW DOWN ***
+HerbertPowel shows [As 2c] (Two pairs : 9 and 3)
+MathisKcr shows [4d 3d] (Full of 3 and 9)
+MathisKcr collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [9d 3s Js 3c 9s]
+Seat 2: MathisKcr (small blind) (button) showed [4d 3d] and won 500 with Full of 3 and 9
+Seat 3: HerbertPowel (big blind) showed [As 2c] and lost with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668572482305785857-6-1774798631 - Holdem no limit (15/30) - 2026/03/29 15:37:11 UTC
+Table: 'Expresso Nitro(1086986736)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (500)
+Seat 3: HerbertPowel (400)
+*** ANTE/BLINDS ***
+HerbertPowel posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7d 4h]
+*** PRE-FLOP *** 
+HerbertPowel raises 370 to 400 and is all-in
+MathisKcr folds
+HerbertPowel collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | No rake
+Seat 3: HerbertPowel (small blind) (button) won 430
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668572482305785857-7-1774798638 - Holdem no limit (15/30) - 2026/03/29 15:37:18 UTC
+Table: 'Expresso Nitro(1086986736)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (470)
+Seat 3: HerbertPowel (430)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+HerbertPowel posts big blind 30
+Dealt to MathisKcr [Kh Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 440 to 470 and is all-in
+HerbertPowel calls 400 and is all-in
+*** FLOP *** [3d Ts 9c]
+*** TURN *** [3d Ts 9c][4c]
+*** RIVER *** [3d Ts 9c 4c][3c]
+*** SHOW DOWN ***
+MathisKcr shows [Kh Jd] (One pair : 3)
+HerbertPowel shows [7h 7s] (Two pairs : 7 and 3)
+HerbertPowel collected 860 from main pot
+MathisKcr collected 40 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d Ts 9c 4c 3c]
+Seat 2: MathisKcr (small blind) (button) showed [Kh Jd] and won 40 with One pair : 3
+Seat 3: HerbertPowel (big blind) showed [7h 7s] and won 860 with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668572482305785857-8-1774798657 - Holdem no limit (15/30) - 2026/03/29 15:37:37 UTC
+Table: 'Expresso Nitro(1086986736)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (40)
+Seat 3: HerbertPowel (860)
+*** ANTE/BLINDS ***
+HerbertPowel posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5h 8h]
+*** PRE-FLOP *** 
+HerbertPowel raises 30 to 60
+MathisKcr calls 10 and is all-in
+*** FLOP *** [Tc Js 8d]
+*** TURN *** [Tc Js 8d][Qc]
+*** RIVER *** [Tc Js 8d Qc][7s]
+*** SHOW DOWN ***
+MathisKcr shows [5h 8h] (One pair : 8)
+HerbertPowel shows [2s 9d] (Straight Queen high)
+HerbertPowel collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Tc Js 8d Qc 7s]
+Seat 2: MathisKcr (big blind) showed [5h 8h] and lost with One pair : 8
+Seat 3: HerbertPowel (small blind) (button) showed [2s 9d] and won 100 with Straight Queen high
+
+

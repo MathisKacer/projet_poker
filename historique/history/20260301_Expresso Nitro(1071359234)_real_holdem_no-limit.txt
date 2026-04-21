@@ -1,0 +1,64 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601452872297611265-1-1772389248 - Holdem no limit (10/20) - 2026/03/01 18:20:48 UTC
+Table: 'Expresso Nitro(1071359234)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Samolo888 (300)
+Seat 3: GERVYA (300)
+*** ANTE/BLINDS ***
+GERVYA posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4s 9c]
+*** PRE-FLOP *** 
+Samolo888 raises 280 to 300 and is all-in
+GERVYA folds
+MathisKcr folds
+Samolo888 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 2: Samolo888 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601452872297611265-2-1772389255 - Holdem no limit (10/20) - 2026/03/01 18:20:55 UTC
+Table: 'Expresso Nitro(1071359234)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Samolo888 (330)
+Seat 3: GERVYA (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Samolo888 posts big blind 20
+Dealt to MathisKcr [8c 6d]
+*** PRE-FLOP *** 
+GERVYA folds
+MathisKcr folds
+Samolo888 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Samolo888 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601452872297611265-3-1772389261 - Holdem no limit (10/20) - 2026/03/01 18:21:01 UTC
+Table: 'Expresso Nitro(1071359234)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (270)
+Seat 2: Samolo888 (340)
+Seat 3: GERVYA (290)
+*** ANTE/BLINDS ***
+Samolo888 posts small blind 10
+GERVYA posts big blind 20
+Dealt to MathisKcr [7d As]
+*** PRE-FLOP *** 
+MathisKcr raises 250 to 270 and is all-in
+Samolo888 calls 260
+GERVYA folds
+*** FLOP *** [9d 5h 2h]
+*** TURN *** [9d 5h 2h][3h]
+*** RIVER *** [9d 5h 2h 3h][9h]
+*** SHOW DOWN ***
+MathisKcr shows [7d As] (One pair : 9)
+Samolo888 shows [Ah 8d] (Flush Ace high)
+Samolo888 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [9d 5h 2h 3h 9h]
+Seat 1: MathisKcr (button) showed [7d As] and lost with One pair : 9
+Seat 2: Samolo888 (small blind) showed [Ah 8d] and won 560 with Flush Ace high
+
+

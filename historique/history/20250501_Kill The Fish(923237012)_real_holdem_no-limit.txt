@@ -1,0 +1,691 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-9-1746111034 - Holdem no limit (25/100/200) - 2025/05/01 14:50:34 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #4 is the button
+Seat 1: epic_pok (3150, 0.45€ bounty)
+Seat 2: Uchi-Mata (19625, 0.45€ bounty)
+Seat 3: MathisKcr (20000, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (20125, 0.45€ bounty)
+Seat 5: Hanterr (35900, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Hanterr posts ante 25
+epic_pok posts ante 25
+Uchi-Mata posts ante 25
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+Hanterr posts small blind 100
+epic_pok posts big blind 200
+Dealt to MathisKcr [9s 7h]
+*** PRE-FLOP *** 
+Uchi-Mata folds
+MathisKcr calls 200
+CHAT-MARRANT folds
+Hanterr folds
+epic_pok checks
+*** FLOP *** [Kh 8c 4d]
+epic_pok checks
+MathisKcr bets 219
+epic_pok calls 219
+*** TURN *** [Kh 8c 4d][3d]
+epic_pok checks
+MathisKcr checks
+*** RIVER *** [Kh 8c 4d 3d][5h]
+epic_pok checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [9s 7h] (High card : King)
+epic_pok shows [8h 6c] (One pair : 8)
+epic_pok collected 1063 from pot
+*** SUMMARY ***
+Total pot 1063 | No rake
+Board: [Kh 8c 4d 3d 5h]
+Seat 1: epic_pok (big blind) showed [8h 6c] and won 1063 with One pair : 8
+Seat 3: MathisKcr showed [9s 7h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-10-1746111075 - Holdem no limit (25/100/200) - 2025/05/01 14:51:15 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #5 is the button
+Seat 1: epic_pok (3769, 0.45€ bounty)
+Seat 2: Uchi-Mata (19600, 0.45€ bounty)
+Seat 3: MathisKcr (19556, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (20100, 0.45€ bounty)
+Seat 5: Hanterr (35775, 0.45€ bounty)
+*** ANTE/BLINDS ***
+epic_pok posts ante 25
+Uchi-Mata posts ante 25
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+Hanterr posts ante 25
+epic_pok posts small blind 100
+Uchi-Mata posts big blind 200
+Dealt to MathisKcr [Qs Td]
+*** PRE-FLOP *** 
+MathisKcr raises 200 to 400
+CHAT-MARRANT raises 1100 to 1500
+Hanterr folds
+epic_pok folds
+Uchi-Mata folds
+MathisKcr calls 1100
+*** FLOP *** [Jd 6s 3c]
+MathisKcr checks
+CHAT-MARRANT bets 1130
+MathisKcr calls 1130
+*** TURN *** [Jd 6s 3c][Ks]
+MathisKcr checks
+CHAT-MARRANT checks
+*** RIVER *** [Jd 6s 3c Ks][Ad]
+MathisKcr bets 1421
+CHAT-MARRANT folds
+MathisKcr collected 7106 from pot
+*** SUMMARY ***
+Total pot 7106 | No rake
+Board: [Jd 6s 3c Ks Ad]
+Seat 3: MathisKcr won 7106
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-11-1746111167 - Holdem no limit (25/100/200) - 2025/05/01 14:52:47 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #1 is the button
+Seat 1: epic_pok (3644, 0.45€ bounty)
+Seat 2: Uchi-Mata (19375, 0.45€ bounty)
+Seat 3: MathisKcr (22586, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (17445, 0.45€ bounty)
+Seat 5: Hanterr (35750, 0.45€ bounty)
+Seat 6: Jez5614 (20000, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Uchi-Mata posts ante 25
+MathisKcr posts ante 25
+epic_pok posts ante 25
+CHAT-MARRANT posts ante 25
+Hanterr posts ante 25
+Jez5614 posts ante 25
+Uchi-Mata posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [As Kd]
+*** PRE-FLOP *** 
+CHAT-MARRANT folds
+Hanterr folds
+Jez5614 raises 200 to 400
+epic_pok folds
+Uchi-Mata folds
+MathisKcr raises 200 to 600
+Jez5614 calls 200
+*** FLOP *** [Jc Tc 6c]
+MathisKcr bets 725
+Jez5614 raises 725 to 1450
+MathisKcr calls 725
+*** TURN *** [Jc Tc 6c][3c]
+MathisKcr checks
+Jez5614 bets 17925 and is all-in
+MathisKcr folds
+Jez5614 collected 22275 from pot
+*** SUMMARY ***
+Total pot 22275 | No rake
+Board: [Jc Tc 6c 3c]
+Seat 6: Jez5614 won 22275
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-12-1746111206 - Holdem no limit (25/100/200) - 2025/05/01 14:53:26 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #2 is the button
+Seat 1: epic_pok (3619, 0.45€ bounty)
+Seat 2: Uchi-Mata (19250, 0.45€ bounty)
+Seat 3: MathisKcr (20511, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (17420, 0.45€ bounty)
+Seat 6: Jez5614 (22275, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+epic_pok posts ante 25
+Uchi-Mata posts ante 25
+Jez5614 posts ante 25
+MathisKcr posts small blind 100
+CHAT-MARRANT posts big blind 200
+Dealt to MathisKcr [8c 3d]
+*** PRE-FLOP *** 
+Jez5614 folds
+epic_pok folds
+Uchi-Mata folds
+MathisKcr calls 100
+CHAT-MARRANT checks
+*** FLOP *** [2c Th 7s]
+MathisKcr checks
+CHAT-MARRANT checks
+*** TURN *** [2c Th 7s][7c]
+MathisKcr checks
+CHAT-MARRANT bets 400
+MathisKcr folds
+CHAT-MARRANT collected 925 from pot
+*** SUMMARY ***
+Total pot 925 | No rake
+Board: [2c Th 7s 7c]
+Seat 4: CHAT-MARRANT (big blind) won 925
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-13-1746111253 - Holdem no limit (25/100/200) - 2025/05/01 14:54:13 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #3 is the button
+Seat 1: epic_pok (3594, 0.45€ bounty)
+Seat 2: Uchi-Mata (19225, 0.45€ bounty)
+Seat 3: MathisKcr (20286, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (17720, 0.45€ bounty)
+Seat 6: Jez5614 (22250, 0.45€ bounty)
+*** ANTE/BLINDS ***
+CHAT-MARRANT posts ante 25
+Jez5614 posts ante 25
+epic_pok posts ante 25
+Uchi-Mata posts ante 25
+MathisKcr posts ante 25
+CHAT-MARRANT posts small blind 100
+Jez5614 posts big blind 200
+Dealt to MathisKcr [7s 9s]
+*** PRE-FLOP *** 
+epic_pok folds
+Uchi-Mata folds
+MathisKcr calls 200
+CHAT-MARRANT folds
+Jez5614 checks
+*** FLOP *** [4s Jh 5s]
+Jez5614 checks
+MathisKcr bets 406
+Jez5614 calls 406
+*** TURN *** [4s Jh 5s][3c]
+Jez5614 checks
+MathisKcr checks
+*** RIVER *** [4s Jh 5s 3c][As]
+Jez5614 bets 934
+MathisKcr raises 18721 to 19655 and is all-in
+Jez5614 calls 18721
+*** SHOW DOWN ***
+Jez5614 shows [3s Jc] (Two pairs : Jacks and 3)
+MathisKcr shows [7s 9s] (Flush Ace high)
+MathisKcr collected 40747 from pot
+*** SUMMARY ***
+Total pot 40747 | No rake
+Board: [4s Jh 5s 3c As]
+Seat 3: MathisKcr (button) showed [7s 9s] and won 40747 with Flush Ace high
+Seat 6: Jez5614 (big blind) showed [3s Jc] and lost with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-14-1746111661 - Holdem no limit (25/100/200) - 2025/05/01 15:01:01 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #4 is the button
+Seat 1: epic_pok (3569, 0.45€ bounty)
+Seat 2: Uchi-Mata (19200, 0.45€ bounty)
+Seat 3: MathisKcr (40747, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (17595, 0.45€ bounty)
+Seat 5: YouuuuKK (20000, 0.45€ bounty)
+Seat 6: Jez5614 (1964, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Jez5614 posts ante 25
+epic_pok posts ante 25
+Uchi-Mata posts ante 25
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+Jez5614 posts small blind 100
+epic_pok posts big blind 200
+Dealt to MathisKcr [2h Jd]
+*** PRE-FLOP *** 
+Uchi-Mata folds
+MathisKcr calls 200
+CHAT-MARRANT folds
+Jez5614 raises 1739 to 1939 and is all-in
+epic_pok folds
+MathisKcr calls 1739
+*** FLOP *** [9h Jh 4s]
+*** TURN *** [9h Jh 4s][Ts]
+*** RIVER *** [9h Jh 4s Ts][4c]
+*** SHOW DOWN ***
+MathisKcr shows [2h Jd] (Two pairs : Jacks and 4)
+Jez5614 shows [Tc 4d] (Full of 4 and Tens)
+Jez5614 collected 4203 from pot
+*** SUMMARY ***
+Total pot 4203 | No rake
+Board: [9h Jh 4s Ts 4c]
+Seat 3: MathisKcr showed [2h Jd] and lost with Two pairs : Jacks and 4
+Seat 6: Jez5614 (small blind) showed [Tc 4d] and won 4203 with Full of 4 and Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-15-1746111703 - Holdem no limit (25/100/200) - 2025/05/01 15:01:43 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #6 is the button
+Seat 1: epic_pok (3344, 0.45€ bounty)
+Seat 3: MathisKcr (38783, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (17570, 0.45€ bounty)
+Seat 5: YouuuuKK (20000, 0.45€ bounty)
+Seat 6: Jez5614 (4203, 0.45€ bounty)
+*** ANTE/BLINDS ***
+epic_pok posts ante 25
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+YouuuuKK posts ante 25
+Jez5614 posts ante 25
+epic_pok posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [9d 3s]
+*** PRE-FLOP *** 
+CHAT-MARRANT folds
+YouuuuKK folds
+Jez5614 raises 3978 to 4178 and is all-in
+epic_pok calls 3219 and is all-in
+MathisKcr calls 3978
+*** FLOP *** [Ac 6s 2h]
+*** TURN *** [Ac 6s 2h][Th]
+*** RIVER *** [Ac 6s 2h Th][8h]
+*** SHOW DOWN ***
+MathisKcr shows [9d 3s] (High card : Ace)
+epic_pok shows [Js As] (One pair : Aces)
+Jez5614 shows [5c Ts] (One pair : Tens)
+Jez5614 collected 1718 from side pot 1
+epic_pok collected 10082 from main pot
+*** SUMMARY ***
+Total pot 11800 | No rake
+Board: [Ac 6s 2h Th 8h]
+Seat 1: epic_pok (small blind) showed [Js As] and won 10082 with One pair : Aces
+Seat 3: MathisKcr (big blind) showed [9d 3s] and lost with High card : Ace
+Seat 6: Jez5614 (button) showed [5c Ts] and won 1718 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-16-1746111733 - Holdem no limit (25/100/200) - 2025/05/01 15:02:13 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #1 is the button
+Seat 1: epic_pok (10082, 0.45€ bounty)
+Seat 3: MathisKcr (34580, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (17545, 0.45€ bounty)
+Seat 5: YouuuuKK (19975, 0.45€ bounty)
+Seat 6: Jez5614 (1718, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+epic_pok posts ante 25
+YouuuuKK posts ante 25
+Jez5614 posts ante 25
+MathisKcr posts small blind 100
+CHAT-MARRANT posts big blind 200
+Dealt to MathisKcr [9h Qc]
+*** PRE-FLOP *** 
+YouuuuKK raises 200 to 400
+Jez5614 raises 1293 to 1693 and is all-in
+epic_pok folds
+MathisKcr calls 1593
+CHAT-MARRANT folds
+YouuuuKK raises 18257 to 19950 and is all-in
+MathisKcr calls 18257
+*** FLOP *** [6c 4c Td]
+*** TURN *** [6c 4c Td][8d]
+*** RIVER *** [6c 4c Td 8d][2c]
+*** SHOW DOWN ***
+MathisKcr shows [9h Qc] (High card : Queen)
+YouuuuKK shows [9d Qs] (High card : Queen)
+Jez5614 shows [Ad 4s] (One pair : 4)
+Jez5614 collected 5404 from main pot
+YouuuuKK collected 18257 from side pot 1
+MathisKcr collected 18257 from side pot 1
+*** SUMMARY ***
+Total pot 41918 | No rake
+Board: [6c 4c Td 8d 2c]
+Seat 3: MathisKcr (small blind) showed [9h Qc] and won 18257 with High card : Queen
+Seat 5: YouuuuKK showed [9d Qs] and won 18257 with High card : Queen
+Seat 6: Jez5614 showed [Ad 4s] and won 5404 with One pair : 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-17-1746111769 - Holdem no limit (25/100/200) - 2025/05/01 15:02:49 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #3 is the button
+Seat 1: epic_pok (10057, 0.45€ bounty)
+Seat 2: akacasti (20000, 0.45€ bounty)
+Seat 3: MathisKcr (32862, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (17320, 0.45€ bounty)
+Seat 5: YouuuuKK (18257, 0.45€ bounty)
+Seat 6: Jez5614 (5404, 0.45€ bounty)
+*** ANTE/BLINDS ***
+CHAT-MARRANT posts ante 25
+YouuuuKK posts ante 25
+epic_pok posts ante 25
+akacasti posts ante 25
+MathisKcr posts ante 25
+Jez5614 posts ante 25
+CHAT-MARRANT posts small blind 100
+YouuuuKK posts big blind 200
+Dealt to MathisKcr [3h 4d]
+*** PRE-FLOP *** 
+Jez5614 raises 5179 to 5379 and is all-in
+epic_pok folds
+akacasti folds
+MathisKcr folds
+CHAT-MARRANT folds
+YouuuuKK calls 5179
+*** FLOP *** [3c 7s 9c]
+*** TURN *** [3c 7s 9c][8s]
+*** RIVER *** [3c 7s 9c 8s][4s]
+*** SHOW DOWN ***
+YouuuuKK shows [Ah 2d] (High card : Ace)
+Jez5614 shows [7c Kd] (One pair : 7)
+Jez5614 collected 11008 from pot
+*** SUMMARY ***
+Total pot 11008 | No rake
+Board: [3c 7s 9c 8s 4s]
+Seat 5: YouuuuKK (big blind) showed [Ah 2d] and lost with High card : Ace
+Seat 6: Jez5614 showed [7c Kd] and won 11008 with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-18-1746111806 - Holdem no limit (25/100/200) - 2025/05/01 15:03:26 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #4 is the button
+Seat 1: epic_pok (10032, 0.45€ bounty)
+Seat 2: akacasti (19975, 0.45€ bounty)
+Seat 3: MathisKcr (32837, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (17195, 0.45€ bounty)
+Seat 5: YouuuuKK (12853, 0.45€ bounty)
+Seat 6: Jez5614 (11008, 0.45€ bounty)
+*** ANTE/BLINDS ***
+YouuuuKK posts ante 25
+Jez5614 posts ante 25
+epic_pok posts ante 25
+akacasti posts ante 25
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+YouuuuKK posts small blind 100
+Jez5614 posts big blind 200
+Dealt to MathisKcr [3h Qc]
+*** PRE-FLOP *** 
+epic_pok folds
+akacasti raises 200 to 400
+MathisKcr calls 400
+CHAT-MARRANT folds
+YouuuuKK raises 12428 to 12828 and is all-in
+Jez5614 calls 10783 and is all-in
+akacasti folds
+MathisKcr folds
+*** FLOP *** [5s 7c 8c]
+*** TURN *** [5s 7c 8c][5d]
+*** RIVER *** [5s 7c 8c 5d][2h]
+*** SHOW DOWN ***
+YouuuuKK shows [3c 4c] (One pair : 5)
+Jez5614 shows [Jd As] (One pair : 5)
+Jez5614 collected 22916 from main pot
+YouuuuKK collected 1845 from side pot 1
+*** SUMMARY ***
+Total pot 24761 | No rake
+Board: [5s 7c 8c 5d 2h]
+Seat 5: YouuuuKK (small blind) showed [3c 4c] and won 1845 with One pair : 5
+Seat 6: Jez5614 (big blind) showed [Jd As] and won 22916 with One pair : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-19-1746111834 - Holdem no limit (25/100/200) - 2025/05/01 15:03:54 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #5 is the button
+Seat 1: epic_pok (10007, 0.45€ bounty)
+Seat 2: akacasti (19550, 0.45€ bounty)
+Seat 3: MathisKcr (32412, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (17170, 0.45€ bounty)
+Seat 5: YouuuuKK (1845, 0.45€ bounty)
+Seat 6: Jez5614 (22916, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Jez5614 posts ante 25
+epic_pok posts ante 25
+akacasti posts ante 25
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+YouuuuKK posts ante 25
+Jez5614 posts small blind 100
+epic_pok posts big blind 200
+Dealt to MathisKcr [6d Qc]
+*** PRE-FLOP *** 
+akacasti raises 200 to 400
+MathisKcr calls 400
+CHAT-MARRANT folds
+YouuuuKK raises 1420 to 1820 and is all-in
+Jez5614 folds
+epic_pok folds
+akacasti calls 1420
+MathisKcr calls 1420
+*** FLOP *** [3d Jd Js]
+akacasti checks
+MathisKcr checks
+*** TURN *** [3d Jd Js][8h]
+akacasti checks
+MathisKcr checks
+*** RIVER *** [3d Jd Js 8h][Td]
+akacasti checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [6d Qc] (One pair : Jacks)
+YouuuuKK shows [6c 7s] (One pair : Jacks)
+akacasti shows [Ah 5d] (One pair : Jacks)
+akacasti collected 5910 from pot
+*** SUMMARY ***
+Total pot 5910 | No rake
+Board: [3d Jd Js 8h Td]
+Seat 2: akacasti showed [Ah 5d] and won 5910 with One pair : Jacks
+Seat 3: MathisKcr showed [6d Qc] and lost with One pair : Jacks
+Seat 5: YouuuuKK (button) showed [6c 7s] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-20-1746111877 - Holdem no limit (25/100/200) - 2025/05/01 15:04:37 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #6 is the button
+Seat 1: epic_pok (9782, 0.45€ bounty)
+Seat 2: akacasti (23615, 0.67€ bounty)
+Seat 3: MathisKcr (30567, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (17145, 0.45€ bounty)
+Seat 6: Jez5614 (22791, 0.45€ bounty)
+*** ANTE/BLINDS ***
+epic_pok posts ante 25
+akacasti posts ante 25
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+Jez5614 posts ante 25
+epic_pok posts small blind 100
+akacasti posts big blind 200
+Dealt to MathisKcr [Jc 7d]
+*** PRE-FLOP *** 
+MathisKcr calls 200
+CHAT-MARRANT raises 400 to 600
+Jez5614 folds
+epic_pok folds
+akacasti calls 400
+MathisKcr calls 400
+*** FLOP *** [2h Ts 4d]
+akacasti checks
+MathisKcr checks
+CHAT-MARRANT bets 800
+akacasti folds
+MathisKcr folds
+CHAT-MARRANT collected 2825 from pot
+*** SUMMARY ***
+Total pot 2825 | No rake
+Board: [2h Ts 4d]
+Seat 4: CHAT-MARRANT won 2825
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-21-1746111939 - Holdem no limit (25/100/200) - 2025/05/01 15:05:39 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #1 is the button
+Seat 1: epic_pok (9657, 0.45€ bounty)
+Seat 2: akacasti (22990, 0.67€ bounty)
+Seat 3: MathisKcr (29942, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (18545, 0.45€ bounty)
+Seat 6: Jez5614 (22766, 0.45€ bounty)
+*** ANTE/BLINDS ***
+akacasti posts ante 25
+MathisKcr posts ante 25
+epic_pok posts ante 25
+CHAT-MARRANT posts ante 25
+Jez5614 posts ante 25
+akacasti posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [As Qh]
+*** PRE-FLOP *** 
+CHAT-MARRANT folds
+Jez5614 folds
+epic_pok folds
+akacasti folds
+MathisKcr collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 3: MathisKcr (big blind) won 425
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-22-1746111956 - Holdem no limit (25/100/200) - 2025/05/01 15:05:56 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #2 is the button
+Seat 1: epic_pok (9632, 0.45€ bounty)
+Seat 2: akacasti (22865, 0.67€ bounty)
+Seat 3: MathisKcr (30142, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (18520, 0.45€ bounty)
+Seat 6: Jez5614 (22741, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+epic_pok posts ante 25
+akacasti posts ante 25
+Jez5614 posts ante 25
+MathisKcr posts small blind 100
+CHAT-MARRANT posts big blind 200
+Dealt to MathisKcr [7c 4c]
+*** PRE-FLOP *** 
+Jez5614 raises 200 to 400
+epic_pok folds
+akacasti calls 400
+MathisKcr calls 300
+CHAT-MARRANT folds
+*** FLOP *** [Kd Jd Jc]
+MathisKcr checks
+Jez5614 checks
+akacasti bets 534
+MathisKcr folds
+Jez5614 calls 534
+*** TURN *** [Kd Jd Jc][5d]
+Jez5614 checks
+akacasti bets 1297
+Jez5614 calls 1297
+*** RIVER *** [Kd Jd Jc 5d][Ts]
+Jez5614 checks
+akacasti checks
+*** SHOW DOWN ***
+akacasti shows [Ks 8h] (Two pairs : Kings and Jacks)
+Jez5614 shows [Jh 7h] (Trips of Jacks)
+Jez5614 collected 5187 from pot
+*** SUMMARY ***
+Total pot 5187 | No rake
+Board: [Kd Jd Jc 5d Ts]
+Seat 2: akacasti (button) showed [Ks 8h] and lost with Two pairs : Kings and Jacks
+Seat 6: Jez5614 showed [Jh 7h] and won 5187 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-23-1746112040 - Holdem no limit (25/100/200) - 2025/05/01 15:07:20 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #3 is the button
+Seat 1: epic_pok (9607, 0.45€ bounty)
+Seat 2: akacasti (20609, 0.67€ bounty)
+Seat 3: MathisKcr (29717, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (18295, 0.45€ bounty)
+Seat 6: Jez5614 (25672, 0.45€ bounty)
+*** ANTE/BLINDS ***
+CHAT-MARRANT posts ante 25
+Jez5614 posts ante 25
+epic_pok posts ante 25
+akacasti posts ante 25
+MathisKcr posts ante 25
+CHAT-MARRANT posts small blind 100
+Jez5614 posts big blind 200
+Dealt to MathisKcr [9d 8s]
+*** PRE-FLOP *** 
+epic_pok folds
+akacasti folds
+MathisKcr calls 200
+CHAT-MARRANT folds
+Jez5614 raises 400 to 600
+MathisKcr calls 400
+*** FLOP *** [6s 6c 7c]
+Jez5614 checks
+MathisKcr bets 713
+Jez5614 calls 713
+*** TURN *** [6s 6c 7c][Ks]
+Jez5614 checks
+MathisKcr checks
+*** RIVER *** [6s 6c 7c Ks][9h]
+Jez5614 bets 2851
+MathisKcr raises 25528 to 28379 and is all-in
+Jez5614 calls 21483 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [9d 8s] (Two pairs : 9 and 6)
+Jez5614 shows [Jc Kc] (Two pairs : Kings and 6)
+Jez5614 collected 51519 from main pot
+MathisKcr collected 4045 from side pot 1
+*** SUMMARY ***
+Total pot 55564 | No rake
+Board: [6s 6c 7c Ks 9h]
+Seat 3: MathisKcr (button) showed [9d 8s] and won 4045 with Two pairs : 9 and 6
+Seat 6: Jez5614 (big blind) showed [Jc Kc] and won 51519 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-24-1746112100 - Holdem no limit (25/100/200) - 2025/05/01 15:08:20 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #4 is the button
+Seat 1: epic_pok (9582, 0.45€ bounty)
+Seat 2: akacasti (20584, 0.67€ bounty)
+Seat 3: MathisKcr (4045, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (18170, 0.45€ bounty)
+Seat 6: Jez5614 (51519, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Jez5614 posts ante 25
+epic_pok posts ante 25
+akacasti posts ante 25
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+Jez5614 posts small blind 100
+epic_pok posts big blind 200
+Dealt to MathisKcr [3d 6s]
+*** PRE-FLOP *** 
+akacasti folds
+MathisKcr folds
+CHAT-MARRANT raises 300 to 500
+Jez5614 calls 400
+epic_pok calls 300
+*** FLOP *** [3c Jh Td]
+Jez5614 checks
+epic_pok checks
+CHAT-MARRANT checks
+*** TURN *** [3c Jh Td][2c]
+Jez5614 bets 1056
+epic_pok calls 1056
+CHAT-MARRANT folds
+*** RIVER *** [3c Jh Td 2c][6d]
+Jez5614 checks
+epic_pok checks
+*** SHOW DOWN ***
+Jez5614 shows [7c 5c] (High card : Jack)
+epic_pok shows [9d Jd] (One pair : Jacks)
+epic_pok collected 3737 from pot
+*** SUMMARY ***
+Total pot 3737 | No rake
+Board: [3c Jh Td 2c 6d]
+Seat 1: epic_pok (big blind) showed [9d Jd] and won 3737 with One pair : Jacks
+Seat 6: Jez5614 (small blind) showed [7c 5c] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3965272772996759560-25-1746112179 - Holdem no limit (25/100/200) - 2025/05/01 15:09:39 UTC
+Table: 'Kill The Fish(923237012)#007' 6-max (real money) Seat #6 is the button
+Seat 1: epic_pok (11738, 0.45€ bounty)
+Seat 2: akacasti (20559, 0.67€ bounty)
+Seat 3: MathisKcr (4020, 0.45€ bounty)
+Seat 4: CHAT-MARRANT (17645, 0.45€ bounty)
+Seat 5: vanouche01 (20000, 0.45€ bounty)
+Seat 6: Jez5614 (49938, 0.45€ bounty)
+*** ANTE/BLINDS ***
+epic_pok posts ante 25
+akacasti posts ante 25
+MathisKcr posts ante 25
+CHAT-MARRANT posts ante 25
+vanouche01 posts ante 25
+Jez5614 posts ante 25
+epic_pok posts small blind 100
+akacasti posts big blind 200
+Dealt to MathisKcr [8s 9h]
+*** PRE-FLOP *** 
+MathisKcr raises 3795 to 3995 and is all-in
+CHAT-MARRANT folds
+vanouche01 folds
+Jez5614 calls 3995
+epic_pok folds
+akacasti folds
+*** FLOP *** [5d Qs Td]
+*** TURN *** [5d Qs Td][7s]
+*** RIVER *** [5d Qs Td 7s][3h]
+*** SHOW DOWN ***
+MathisKcr shows [8s 9h] (High card : Queen)
+Jez5614 shows [Jd 9s] (High card : Queen)
+Jez5614 collected 8440 from pot
+*** SUMMARY ***
+Total pot 8440 | No rake
+Board: [5d Qs Td 7s 3h]
+Seat 3: MathisKcr showed [8s 9h] and lost with High card : Queen
+Seat 6: Jez5614 (button) showed [Jd 9s] and won 8440 with High card : Queen
+
+

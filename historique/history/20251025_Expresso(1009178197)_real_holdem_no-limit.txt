@@ -1,0 +1,32 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4334387351951245313-1-1761392770 - Holdem no limit (10/20) - 2025/10/25 11:46:10 UTC
+Table: 'Expresso(1009178197)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jokerz13 (500)
+Seat 2: Ekios (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Ekios posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ah 7h]
+*** PRE-FLOP *** 
+jokerz13 calls 20
+Ekios folds
+MathisKcr raises 40 to 60
+jokerz13 calls 40
+*** FLOP *** [3h 2s Tc]
+MathisKcr bets 80
+jokerz13 calls 80
+*** TURN *** [3h 2s Tc][2h]
+MathisKcr bets 360 and is all-in
+jokerz13 calls 360 and is all-in
+*** RIVER *** [3h 2s Tc 2h][Kd]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 7h] (One pair : 2)
+jokerz13 shows [Jd Jh] (Two pairs : Jacks and 2)
+jokerz13 collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [3h 2s Tc 2h Kd]
+Seat 1: jokerz13 (button) showed [Jd Jh] and won 1010 with Two pairs : Jacks and 2
+Seat 3: MathisKcr (big blind) showed [Ah 7h] and lost with One pair : 2
+
+

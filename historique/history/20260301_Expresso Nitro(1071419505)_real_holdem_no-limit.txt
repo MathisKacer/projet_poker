@@ -1,0 +1,261 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601711734271508481-1-1772397083 - Holdem no limit (10/20) - 2026/03/01 20:31:23 UTC
+Table: 'Expresso Nitro(1071419505)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Foley02200 (300)
+Seat 2: MathisKcr (300)
+Seat 3: V0ldem0rt (300)
+*** ANTE/BLINDS ***
+Foley02200 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6h 8c]
+*** PRE-FLOP *** 
+V0ldem0rt calls 20
+Foley02200 raises 280 to 300 and is all-in
+MathisKcr folds
+V0ldem0rt folds
+Foley02200 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: Foley02200 (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601711734271508481-2-1772397095 - Holdem no limit (10/20) - 2026/03/01 20:31:35 UTC
+Table: 'Expresso Nitro(1071419505)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Foley02200 (340)
+Seat 2: MathisKcr (280)
+Seat 3: V0ldem0rt (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+V0ldem0rt posts big blind 20
+Dealt to MathisKcr [2h 9s]
+*** PRE-FLOP *** 
+Foley02200 calls 20
+MathisKcr folds
+V0ldem0rt checks
+*** FLOP *** [3c Jc Kh]
+V0ldem0rt checks
+Foley02200 bets 20
+V0ldem0rt folds
+Foley02200 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [3c Jc Kh]
+Seat 1: Foley02200 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4601711734271508481-3-1772397107 - Holdem no limit (10/20) - 2026/03/01 20:31:47 UTC
+Table: 'Expresso Nitro(1071419505)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Foley02200 (370)
+Seat 2: MathisKcr (270)
+Seat 3: V0ldem0rt (260)
+*** ANTE/BLINDS ***
+V0ldem0rt posts small blind 10
+Foley02200 posts big blind 20
+Dealt to MathisKcr [Qd Th]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+V0ldem0rt raises 80 to 120
+Foley02200 calls 100
+MathisKcr raises 80 to 200
+V0ldem0rt raises 60 to 260 and is all-in
+Foley02200 calls 140
+MathisKcr calls 60
+*** FLOP *** [5d 6c 8h]
+Foley02200 checks
+MathisKcr bets 10 and is all-in
+Foley02200 calls 10
+*** TURN *** [5d 6c 8h][7s]
+*** RIVER *** [5d 6c 8h 7s][4d]
+*** SHOW DOWN ***
+Foley02200 shows [3s 7d] (Straight 8 high)
+MathisKcr shows [Qd Th] (Straight 8 high)
+V0ldem0rt shows [Qh Ac] (Straight 8 high)
+V0ldem0rt collected 260 from main pot
+MathisKcr collected 270 from side pot 1
+Foley02200 collected 270 from side pot 1
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [5d 6c 8h 7s 4d]
+Seat 1: Foley02200 (big blind) showed [3s 7d] and won 270 with Straight 8 high
+Seat 2: MathisKcr (button) showed [Qd Th] and won 270 with Straight 8 high
+Seat 3: V0ldem0rt (small blind) showed [Qh Ac] and won 260 with Straight 8 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601711734271508481-4-1772397142 - Holdem no limit (15/30) - 2026/03/01 20:32:22 UTC
+Table: 'Expresso Nitro(1071419505)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Foley02200 (370)
+Seat 2: MathisKcr (270)
+Seat 3: V0ldem0rt (260)
+*** ANTE/BLINDS ***
+Foley02200 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Td 7c]
+*** PRE-FLOP *** 
+V0ldem0rt raises 90 to 120
+Foley02200 folds
+MathisKcr folds
+V0ldem0rt collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Seat 3: V0ldem0rt (button) won 165
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601711734271508481-5-1772397156 - Holdem no limit (15/30) - 2026/03/01 20:32:36 UTC
+Table: 'Expresso Nitro(1071419505)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Foley02200 (355)
+Seat 2: MathisKcr (240)
+Seat 3: V0ldem0rt (305)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+V0ldem0rt posts big blind 30
+Dealt to MathisKcr [4d 3h]
+*** PRE-FLOP *** 
+Foley02200 calls 30
+MathisKcr folds
+V0ldem0rt checks
+*** FLOP *** [4c 7d 5s]
+V0ldem0rt checks
+Foley02200 bets 30
+V0ldem0rt calls 30
+*** TURN *** [4c 7d 5s][3d]
+V0ldem0rt checks
+Foley02200 checks
+*** RIVER *** [4c 7d 5s 3d][5h]
+V0ldem0rt bets 88
+Foley02200 calls 88
+*** SHOW DOWN ***
+V0ldem0rt shows [8h Jc] (One pair : 5)
+Foley02200 shows [Ah 6d] (Straight 7 high)
+Foley02200 collected 311 from pot
+*** SUMMARY ***
+Total pot 311 | No rake
+Board: [4c 7d 5s 3d 5h]
+Seat 1: Foley02200 (button) showed [Ah 6d] and won 311 with Straight 7 high
+Seat 3: V0ldem0rt (big blind) showed [8h Jc] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601711734271508481-6-1772397175 - Holdem no limit (15/30) - 2026/03/01 20:32:55 UTC
+Table: 'Expresso Nitro(1071419505)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Foley02200 (518)
+Seat 2: MathisKcr (225)
+Seat 3: V0ldem0rt (157)
+*** ANTE/BLINDS ***
+V0ldem0rt posts small blind 15
+Foley02200 posts big blind 30
+Dealt to MathisKcr [6h Jd]
+*** PRE-FLOP *** 
+MathisKcr folds
+V0ldem0rt folds
+Foley02200 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Foley02200 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4601711734271508481-7-1772397185 - Holdem no limit (15/30) - 2026/03/01 20:33:05 UTC
+Table: 'Expresso Nitro(1071419505)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Foley02200 (533)
+Seat 2: MathisKcr (225)
+Seat 3: V0ldem0rt (142)
+*** ANTE/BLINDS ***
+Foley02200 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qc 9d]
+*** PRE-FLOP *** 
+V0ldem0rt folds
+Foley02200 calls 15
+MathisKcr checks
+*** FLOP *** [7d 3s Ks]
+Foley02200 bets 30
+MathisKcr folds
+Foley02200 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [7d 3s Ks]
+Seat 1: Foley02200 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4601711734271508481-8-1772397203 - Holdem no limit (20/40) - 2026/03/01 20:33:23 UTC
+Table: 'Expresso Nitro(1071419505)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Foley02200 (563)
+Seat 2: MathisKcr (195)
+Seat 3: V0ldem0rt (142)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+V0ldem0rt posts big blind 40
+Dealt to MathisKcr [7s 9s]
+*** PRE-FLOP *** 
+Foley02200 calls 40
+MathisKcr calls 20
+V0ldem0rt raises 102 to 142 and is all-in
+Foley02200 calls 102
+MathisKcr folds
+*** FLOP *** [6s 9d 2h]
+*** TURN *** [6s 9d 2h][9h]
+*** RIVER *** [6s 9d 2h 9h][Ah]
+*** SHOW DOWN ***
+Foley02200 shows [4h Kc] (One pair : 9)
+V0ldem0rt shows [Kd 7h] (One pair : 9)
+V0ldem0rt collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Board: [6s 9d 2h 9h Ah]
+Seat 1: Foley02200 (button) showed [4h Kc] and lost with One pair : 9
+Seat 3: V0ldem0rt (big blind) showed [Kd 7h] and won 324 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4601711734271508481-9-1772397221 - Holdem no limit (20/40) - 2026/03/01 20:33:41 UTC
+Table: 'Expresso Nitro(1071419505)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Foley02200 (421)
+Seat 2: MathisKcr (155)
+Seat 3: V0ldem0rt (324)
+*** ANTE/BLINDS ***
+V0ldem0rt posts small blind 20
+Foley02200 posts big blind 40
+Dealt to MathisKcr [Ah 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 115 to 155 and is all-in
+V0ldem0rt folds
+Foley02200 calls 115
+*** FLOP *** [8c 3c 2c]
+*** TURN *** [8c 3c 2c][Th]
+*** RIVER *** [8c 3c 2c Th][2h]
+*** SHOW DOWN ***
+Foley02200 shows [Ad 4c] (One pair : 2)
+MathisKcr shows [Ah 6s] (One pair : 2)
+MathisKcr collected 165 from pot
+Foley02200 collected 165 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [8c 3c 2c Th 2h]
+Seat 1: Foley02200 (big blind) showed [Ad 4c] and won 165 with One pair : 2
+Seat 2: MathisKcr (button) showed [Ah 6s] and won 165 with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4601711734271508481-10-1772397240 - Holdem no limit (20/40) - 2026/03/01 20:34:00 UTC
+Table: 'Expresso Nitro(1071419505)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Foley02200 (431)
+Seat 2: MathisKcr (165)
+Seat 3: V0ldem0rt (304)
+*** ANTE/BLINDS ***
+Foley02200 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9d Kh]
+*** PRE-FLOP *** 
+V0ldem0rt raises 80 to 120
+Foley02200 folds
+MathisKcr raises 45 to 165 and is all-in
+V0ldem0rt calls 45
+*** FLOP *** [Ad Qs 8c]
+*** TURN *** [Ad Qs 8c][Ks]
+*** RIVER *** [Ad Qs 8c Ks][5h]
+*** SHOW DOWN ***
+MathisKcr shows [9d Kh] (One pair : Kings)
+V0ldem0rt shows [Jc Kd] (One pair : Kings)
+V0ldem0rt collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [Ad Qs 8c Ks 5h]
+Seat 2: MathisKcr (big blind) showed [9d Kh] and lost with One pair : Kings
+Seat 3: V0ldem0rt (button) showed [Jc Kd] and won 350 with One pair : Kings
+
+

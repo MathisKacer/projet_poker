@@ -1,0 +1,209 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611739413460811777-1-1772794179 - Holdem no limit (10/20) - 2026/03/06 10:49:39 UTC
+Table: 'Expresso Nitro(1073754256)#0' 3-max (real money) Seat #2 is the button
+Seat 1: D.Quixote (300)
+Seat 2: Chef_Solide0 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+D.Quixote posts big blind 20
+Dealt to MathisKcr [Jd 7d]
+*** PRE-FLOP *** 
+Chef_Solide0 calls 20
+MathisKcr calls 10
+D.Quixote raises 280 to 300 and is all-in
+Chef_Solide0 folds
+MathisKcr folds
+D.Quixote collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: D.Quixote (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611739413460811777-2-1772794197 - Holdem no limit (10/20) - 2026/03/06 10:49:57 UTC
+Table: 'Expresso Nitro(1073754256)#0' 3-max (real money) Seat #3 is the button
+Seat 1: D.Quixote (340)
+Seat 2: Chef_Solide0 (280)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+D.Quixote posts small blind 10
+Chef_Solide0 posts big blind 20
+Dealt to MathisKcr [9h 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+D.Quixote folds
+Chef_Solide0 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Chef_Solide0 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611739413460811777-3-1772794209 - Holdem no limit (10/20) - 2026/03/06 10:50:09 UTC
+Table: 'Expresso Nitro(1073754256)#0' 3-max (real money) Seat #1 is the button
+Seat 1: D.Quixote (330)
+Seat 2: Chef_Solide0 (290)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+Chef_Solide0 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4h 2d]
+*** PRE-FLOP *** 
+D.Quixote folds
+Chef_Solide0 calls 10
+MathisKcr checks
+*** FLOP *** [3s 5c 5s]
+Chef_Solide0 checks
+MathisKcr checks
+*** TURN *** [3s 5c 5s][2h]
+Chef_Solide0 checks
+MathisKcr bets 20
+Chef_Solide0 calls 20
+*** RIVER *** [3s 5c 5s 2h][Kh]
+Chef_Solide0 checks
+MathisKcr bets 52
+Chef_Solide0 folds
+MathisKcr collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [3s 5c 5s 2h Kh]
+Seat 3: MathisKcr (big blind) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4611739413460811777-4-1772794252 - Holdem no limit (15/30) - 2026/03/06 10:50:52 UTC
+Table: 'Expresso Nitro(1073754256)#0' 3-max (real money) Seat #2 is the button
+Seat 1: D.Quixote (330)
+Seat 2: Chef_Solide0 (250)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+D.Quixote posts big blind 30
+Dealt to MathisKcr [2d 6h]
+*** PRE-FLOP *** 
+Chef_Solide0 calls 30
+MathisKcr calls 15
+D.Quixote checks
+*** FLOP *** [Td Th Ad]
+MathisKcr checks
+D.Quixote checks
+Chef_Solide0 checks
+*** TURN *** [Td Th Ad][6c]
+MathisKcr bets 32
+D.Quixote folds
+Chef_Solide0 folds
+MathisKcr collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | No rake
+Board: [Td Th Ad 6c]
+Seat 3: MathisKcr (small blind) won 122
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4611739413460811777-5-1772794323 - Holdem no limit (20/40) - 2026/03/06 10:52:03 UTC
+Table: 'Expresso Nitro(1073754256)#0' 3-max (real money) Seat #3 is the button
+Seat 1: D.Quixote (300)
+Seat 2: Chef_Solide0 (220)
+Seat 3: MathisKcr (380)
+*** ANTE/BLINDS ***
+D.Quixote posts small blind 20
+Chef_Solide0 posts big blind 40
+Dealt to MathisKcr [9h Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+D.Quixote raises 220 to 300 and is all-in
+Chef_Solide0 folds
+MathisKcr calls 220
+*** FLOP *** [6s Qc 4s]
+*** TURN *** [6s Qc 4s][Ks]
+*** RIVER *** [6s Qc 4s Ks][5d]
+*** SHOW DOWN ***
+D.Quixote shows [2s 2c] (One pair : 2)
+MathisKcr shows [9h Qh] (One pair : Queens)
+MathisKcr collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [6s Qc 4s Ks 5d]
+Seat 1: D.Quixote (small blind) showed [2s 2c] and lost with One pair : 2
+Seat 3: MathisKcr (button) showed [9h Qh] and won 640 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4611739413460811777-6-1772794355 - Holdem no limit (20/40) - 2026/03/06 10:52:35 UTC
+Table: 'Expresso Nitro(1073754256)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Chef_Solide0 (180)
+Seat 3: MathisKcr (720)
+*** ANTE/BLINDS ***
+Chef_Solide0 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [5s 4h]
+*** PRE-FLOP *** 
+Chef_Solide0 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4611739413460811777-7-1772794361 - Holdem no limit (30/60) - 2026/03/06 10:52:41 UTC
+Table: 'Expresso Nitro(1073754256)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Chef_Solide0 (160)
+Seat 3: MathisKcr (740)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Chef_Solide0 posts big blind 60
+Dealt to MathisKcr [3d Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 120 to 180
+Chef_Solide0 calls 100 and is all-in
+*** FLOP *** [6c 7d 8d]
+*** TURN *** [6c 7d 8d][5c]
+*** RIVER *** [6c 7d 8d 5c][Ks]
+*** SHOW DOWN ***
+Chef_Solide0 shows [6h 5h] (Two pairs : 6 and 5)
+MathisKcr shows [3d Qs] (High card : King)
+MathisKcr collected 20 from side pot 1
+Chef_Solide0 collected 320 from main pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [6c 7d 8d 5c Ks]
+Seat 2: Chef_Solide0 (big blind) showed [6h 5h] and won 320 with Two pairs : 6 and 5
+Seat 3: MathisKcr (small blind) (button) showed [3d Qs] and won 20 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4611739413460811777-8-1772794377 - Holdem no limit (30/60) - 2026/03/06 10:52:57 UTC
+Table: 'Expresso Nitro(1073754256)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Chef_Solide0 (320)
+Seat 3: MathisKcr (580)
+*** ANTE/BLINDS ***
+Chef_Solide0 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [5s 5c]
+*** PRE-FLOP *** 
+Chef_Solide0 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4611739413460811777-9-1772794389 - Holdem no limit (30/60) - 2026/03/06 10:53:09 UTC
+Table: 'Expresso Nitro(1073754256)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Chef_Solide0 (290)
+Seat 3: MathisKcr (610)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Chef_Solide0 posts big blind 60
+Dealt to MathisKcr [6c Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 550 to 610 and is all-in
+Chef_Solide0 calls 230 and is all-in
+*** FLOP *** [6h Kh Kd]
+*** TURN *** [6h Kh Kd][Ts]
+*** RIVER *** [6h Kh Kd Ts][4d]
+*** SHOW DOWN ***
+Chef_Solide0 shows [5d As] (One pair : Kings)
+MathisKcr shows [6c Ad] (Two pairs : Kings and 6)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6h Kh Kd Ts 4d]
+Seat 2: Chef_Solide0 (big blind) showed [5d As] and lost with One pair : Kings
+Seat 3: MathisKcr (small blind) (button) showed [6c Ad] and won 900 with Two pairs : Kings and 6
+
+

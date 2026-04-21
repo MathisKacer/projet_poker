@@ -1,0 +1,28 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4225269442893840385-1-1756735280 - Holdem no limit (10/20) - 2025/09/01 14:01:20 UTC
+Table: 'Expresso(983772204)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Cupidon71 (500)
+Seat 3: Malafama09 (500)
+*** ANTE/BLINDS ***
+Malafama09 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d 2s]
+*** PRE-FLOP *** 
+Cupidon71 folds
+Malafama09 calls 10
+MathisKcr raises 480 to 500 and is all-in
+Malafama09 calls 480 and is all-in
+*** FLOP *** [Jd 4s Ts]
+*** TURN *** [Jd 4s Ts][8s]
+*** RIVER *** [Jd 4s Ts 8s][Td]
+*** SHOW DOWN ***
+MathisKcr shows [2d 2s] (Two pairs : Tens and 2)
+Malafama09 shows [Tc Th] (Quads of Tens)
+Malafama09 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [Jd 4s Ts 8s Td]
+Seat 1: MathisKcr (big blind) showed [2d 2s] and lost with Two pairs : Tens and 2
+Seat 3: Malafama09 (small blind) showed [Tc Th] and won 1000 with Quads of Tens
+
+

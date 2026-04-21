@@ -1,0 +1,116 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351285084733571073-1-1762177861 - Holdem no limit (10/20) - 2025/11/03 13:51:01 UTC
+Table: 'Expresso Nitro(1013112507)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gimli2a (300)
+Seat 2: Kalyss93 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Gimli2a posts small blind 10
+Kalyss93 posts big blind 20
+Dealt to MathisKcr [3h 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Gimli2a folds
+Kalyss93 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Kalyss93 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351285084733571073-2-1762177870 - Holdem no limit (10/20) - 2025/11/03 13:51:10 UTC
+Table: 'Expresso Nitro(1013112507)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gimli2a (290)
+Seat 2: Kalyss93 (310)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Kalyss93 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6h 5h]
+*** PRE-FLOP *** 
+Gimli2a folds
+Kalyss93 calls 10
+MathisKcr checks
+*** FLOP *** [Qd 9d 8d]
+Kalyss93 checks
+MathisKcr bets 40
+Kalyss93 folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Qd 9d 8d]
+Seat 3: MathisKcr (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351285084733571073-3-1762177888 - Holdem no limit (10/20) - 2025/11/03 13:51:28 UTC
+Table: 'Expresso Nitro(1013112507)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gimli2a (290)
+Seat 2: Kalyss93 (290)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Gimli2a posts big blind 20
+Dealt to MathisKcr [As 5s]
+*** PRE-FLOP *** 
+Kalyss93 folds
+MathisKcr raises 20 to 40
+Gimli2a raises 250 to 290 and is all-in
+MathisKcr calls 250
+*** FLOP *** [9d 3c 9c]
+*** TURN *** [9d 3c 9c][4h]
+*** RIVER *** [9d 3c 9c 4h][Jh]
+*** SHOW DOWN ***
+MathisKcr shows [As 5s] (One pair : 9)
+Gimli2a shows [7h 7s] (Two pairs : 9 and 7)
+Gimli2a collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [9d 3c 9c 4h Jh]
+Seat 1: Gimli2a (big blind) showed [7h 7s] and won 580 with Two pairs : 9 and 7
+Seat 3: MathisKcr (small blind) showed [As 5s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351285084733571073-4-1762177906 - Holdem no limit (10/20) - 2025/11/03 13:51:46 UTC
+Table: 'Expresso Nitro(1013112507)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gimli2a (580)
+Seat 2: Kalyss93 (290)
+Seat 3: MathisKcr (30)
+*** ANTE/BLINDS ***
+Gimli2a posts small blind 10
+Kalyss93 posts big blind 20
+Dealt to MathisKcr [5c 8c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Gimli2a raises 560 to 580 and is all-in
+Kalyss93 folds
+Gimli2a collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 1: Gimli2a (small blind) won 600
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351285084733571073-5-1762177914 - Holdem no limit (10/20) - 2025/11/03 13:51:54 UTC
+Table: 'Expresso Nitro(1013112507)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gimli2a (600)
+Seat 2: Kalyss93 (270)
+Seat 3: MathisKcr (30)
+*** ANTE/BLINDS ***
+Kalyss93 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4d Jh]
+*** PRE-FLOP *** 
+Gimli2a raises 580 to 600 and is all-in
+Kalyss93 folds
+MathisKcr calls 10 and is all-in
+*** FLOP *** [Ad 7c Kc]
+*** TURN *** [Ad 7c Kc][Js]
+*** RIVER *** [Ad 7c Kc Js][Tc]
+*** SHOW DOWN ***
+MathisKcr shows [4d Jh] (One pair : Jacks)
+Gimli2a shows [Qc Qh] (Straight Ace high)
+Gimli2a collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Ad 7c Kc Js Tc]
+Seat 1: Gimli2a (button) showed [Qc Qh] and won 640 with Straight Ace high
+Seat 3: MathisKcr (big blind) showed [4d Jh] and lost with One pair : Jacks
+
+

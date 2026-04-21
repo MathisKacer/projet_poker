@@ -1,0 +1,357 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670000009175891969-1-1774858363 - Holdem no limit (10/20) - 2026/03/30 08:12:43 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PayMyOnyx14 (300)
+Seat 2: Ermitage K (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+PayMyOnyx14 posts big blind 20
+Dealt to MathisKcr [Kc 4s]
+*** PRE-FLOP *** 
+Ermitage K folds
+MathisKcr raises 280 to 300 and is all-in
+PayMyOnyx14 folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: MathisKcr (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670000009175891969-2-1774858374 - Holdem no limit (10/20) - 2026/03/30 08:12:54 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PayMyOnyx14 (280)
+Seat 2: Ermitage K (300)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+PayMyOnyx14 posts small blind 10
+Ermitage K posts big blind 20
+Dealt to MathisKcr [8c Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+PayMyOnyx14 calls 30
+Ermitage K calls 20
+*** FLOP *** [5s 3h 9s]
+PayMyOnyx14 checks
+Ermitage K bets 60
+MathisKcr folds
+PayMyOnyx14 folds
+Ermitage K collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [5s 3h 9s]
+Seat 2: Ermitage K (big blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670000009175891969-3-1774858412 - Holdem no limit (10/20) - 2026/03/30 08:13:32 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PayMyOnyx14 (240)
+Seat 2: Ermitage K (380)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+Ermitage K posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3h Jc]
+*** PRE-FLOP *** 
+PayMyOnyx14 raises 20 to 40
+Ermitage K folds
+MathisKcr calls 20
+*** FLOP *** [Js As 8s]
+MathisKcr bets 240 and is all-in
+PayMyOnyx14 folds
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Js As 8s]
+Seat 3: MathisKcr (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670000009175891969-4-1774858444 - Holdem no limit (15/30) - 2026/03/30 08:14:04 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PayMyOnyx14 (200)
+Seat 2: Ermitage K (370)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+PayMyOnyx14 posts big blind 30
+Dealt to MathisKcr [8s 3d]
+*** PRE-FLOP *** 
+Ermitage K folds
+MathisKcr folds
+PayMyOnyx14 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: PayMyOnyx14 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670000009175891969-5-1774858450 - Holdem no limit (15/30) - 2026/03/30 08:14:10 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PayMyOnyx14 (215)
+Seat 2: Ermitage K (370)
+Seat 3: MathisKcr (315)
+*** ANTE/BLINDS ***
+PayMyOnyx14 posts small blind 15
+Ermitage K posts big blind 30
+Dealt to MathisKcr [8d 8s]
+*** PRE-FLOP *** 
+MathisKcr raises 285 to 315 and is all-in
+PayMyOnyx14 folds
+Ermitage K folds
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: MathisKcr (button) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670000009175891969-6-1774858457 - Holdem no limit (15/30) - 2026/03/30 08:14:17 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PayMyOnyx14 (200)
+Seat 2: Ermitage K (340)
+Seat 3: MathisKcr (360)
+*** ANTE/BLINDS ***
+Ermitage K posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad 8h]
+*** PRE-FLOP *** 
+PayMyOnyx14 folds
+Ermitage K folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670000009175891969-7-1774858465 - Holdem no limit (15/30) - 2026/03/30 08:14:25 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PayMyOnyx14 (200)
+Seat 2: Ermitage K (325)
+Seat 3: MathisKcr (375)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+PayMyOnyx14 posts big blind 30
+Dealt to MathisKcr [2s Kh]
+*** PRE-FLOP *** 
+Ermitage K folds
+MathisKcr raises 345 to 375 and is all-in
+PayMyOnyx14 calls 170 and is all-in
+*** FLOP *** [5d Ah 8h]
+*** TURN *** [5d Ah 8h][4h]
+*** RIVER *** [5d Ah 8h 4h][Qs]
+*** SHOW DOWN ***
+PayMyOnyx14 shows [Kd Js] (High card : Ace)
+MathisKcr shows [2s Kh] (High card : Ace)
+MathisKcr collected 175 from side pot 1
+PayMyOnyx14 collected 400 from main pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Board: [5d Ah 8h 4h Qs]
+Seat 1: PayMyOnyx14 (big blind) showed [Kd Js] and won 400 with High card : Ace
+Seat 3: MathisKcr (small blind) showed [2s Kh] and won 175 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670000009175891969-8-1774858482 - Holdem no limit (20/40) - 2026/03/30 08:14:42 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PayMyOnyx14 (400)
+Seat 2: Ermitage K (325)
+Seat 3: MathisKcr (175)
+*** ANTE/BLINDS ***
+PayMyOnyx14 posts small blind 20
+Ermitage K posts big blind 40
+Dealt to MathisKcr [Jd 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+PayMyOnyx14 folds
+Ermitage K folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 3: MathisKcr (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670000009175891969-9-1774858490 - Holdem no limit (20/40) - 2026/03/30 08:14:50 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PayMyOnyx14 (380)
+Seat 2: Ermitage K (285)
+Seat 3: MathisKcr (235)
+*** ANTE/BLINDS ***
+Ermitage K posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7c 3h]
+*** PRE-FLOP *** 
+PayMyOnyx14 raises 340 to 380 and is all-in
+Ermitage K folds
+MathisKcr folds
+PayMyOnyx14 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 1: PayMyOnyx14 (button) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670000009175891969-10-1774858495 - Holdem no limit (20/40) - 2026/03/30 08:14:55 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PayMyOnyx14 (440)
+Seat 2: Ermitage K (265)
+Seat 3: MathisKcr (195)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+PayMyOnyx14 posts big blind 40
+Dealt to MathisKcr [5c Ah]
+*** PRE-FLOP *** 
+Ermitage K folds
+MathisKcr raises 155 to 195 and is all-in
+PayMyOnyx14 folds
+MathisKcr collected 235 from pot
+*** SUMMARY ***
+Total pot 235 | No rake
+Seat 3: MathisKcr (small blind) won 235
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670000009175891969-11-1774858505 - Holdem no limit (20/40) - 2026/03/30 08:15:05 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PayMyOnyx14 (400)
+Seat 2: Ermitage K (265)
+Seat 3: MathisKcr (235)
+*** ANTE/BLINDS ***
+PayMyOnyx14 posts small blind 20
+Ermitage K posts big blind 40
+Dealt to MathisKcr [6h Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 195 to 235 and is all-in
+PayMyOnyx14 folds
+Ermitage K folds
+MathisKcr collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | No rake
+Seat 3: MathisKcr (button) won 295
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670000009175891969-12-1774858519 - Holdem no limit (20/40) - 2026/03/30 08:15:19 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PayMyOnyx14 (380)
+Seat 2: Ermitage K (225)
+Seat 3: MathisKcr (295)
+*** ANTE/BLINDS ***
+Ermitage K posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ac 3h]
+*** PRE-FLOP *** 
+PayMyOnyx14 folds
+Ermitage K calls 20
+MathisKcr checks
+*** FLOP *** [Kd 2h 9s]
+Ermitage K bets 40
+MathisKcr folds
+Ermitage K collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Kd 2h 9s]
+Seat 2: Ermitage K (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4670000009175891969-13-1774858540 - Holdem no limit (20/40) - 2026/03/30 08:15:40 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PayMyOnyx14 (380)
+Seat 2: Ermitage K (265)
+Seat 3: MathisKcr (255)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+PayMyOnyx14 posts big blind 40
+Dealt to MathisKcr [Tc 7s]
+*** PRE-FLOP *** 
+Ermitage K raises 225 to 265 and is all-in
+MathisKcr folds
+PayMyOnyx14 folds
+Ermitage K collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 2: Ermitage K (button) won 325
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4670000009175891969-14-1774858550 - Holdem no limit (30/60) - 2026/03/30 08:15:50 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PayMyOnyx14 (340)
+Seat 2: Ermitage K (325)
+Seat 3: MathisKcr (235)
+*** ANTE/BLINDS ***
+PayMyOnyx14 posts small blind 30
+Ermitage K posts big blind 60
+Dealt to MathisKcr [As 3c]
+*** PRE-FLOP *** 
+MathisKcr raises 175 to 235 and is all-in
+PayMyOnyx14 folds
+Ermitage K folds
+MathisKcr collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 3: MathisKcr (button) won 325
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4670000009175891969-15-1774858561 - Holdem no limit (30/60) - 2026/03/30 08:16:01 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PayMyOnyx14 (310)
+Seat 2: Ermitage K (265)
+Seat 3: MathisKcr (325)
+*** ANTE/BLINDS ***
+Ermitage K posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [5c 6d]
+*** PRE-FLOP *** 
+PayMyOnyx14 folds
+Ermitage K folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4670000009175891969-16-1774858566 - Holdem no limit (30/60) - 2026/03/30 08:16:06 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PayMyOnyx14 (310)
+Seat 2: Ermitage K (235)
+Seat 3: MathisKcr (355)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+PayMyOnyx14 posts big blind 60
+Dealt to MathisKcr [9h Ac]
+*** PRE-FLOP *** 
+Ermitage K raises 175 to 235 and is all-in
+MathisKcr raises 120 to 355 and is all-in
+PayMyOnyx14 folds
+*** FLOP *** [Js Td Ks]
+*** TURN *** [Js Td Ks][Ad]
+*** RIVER *** [Js Td Ks Ad][6c]
+*** SHOW DOWN ***
+Ermitage K shows [8d 7d] (High card : Ace)
+MathisKcr shows [9h Ac] (One pair : Aces)
+MathisKcr collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Js Td Ks Ad 6c]
+Seat 2: Ermitage K (button) showed [8d 7d] and lost with High card : Ace
+Seat 3: MathisKcr (small blind) showed [9h Ac] and won 650 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4670000009175891969-17-1774858583 - Holdem no limit (30/60) - 2026/03/30 08:16:23 UTC
+Table: 'Expresso Nitro(1087319108)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PayMyOnyx14 (250)
+Seat 3: MathisKcr (650)
+*** ANTE/BLINDS ***
+PayMyOnyx14 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [5h 5c]
+*** PRE-FLOP *** 
+PayMyOnyx14 raises 190 to 250 and is all-in
+MathisKcr calls 190
+*** FLOP *** [Qd 8s 8c]
+*** TURN *** [Qd 8s 8c][8d]
+*** RIVER *** [Qd 8s 8c 8d][7s]
+*** SHOW DOWN ***
+PayMyOnyx14 shows [Th Jh] (Trips of 8)
+MathisKcr shows [5h 5c] (Full of 8 and 5)
+MathisKcr collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Qd 8s 8c 8d 7s]
+Seat 1: PayMyOnyx14 (small blind) (button) showed [Th Jh] and lost with Trips of 8
+Seat 3: MathisKcr (big blind) showed [5h 5c] and won 500 with Full of 8 and 5
+
+

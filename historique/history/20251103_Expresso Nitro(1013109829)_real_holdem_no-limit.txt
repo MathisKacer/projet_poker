@@ -1,0 +1,34 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4351273582811152385-1-1762177409 - Holdem no limit (10/20) - 2025/11/03 13:43:29 UTC
+Table: 'Expresso Nitro(1013109829)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Stef_47 (300)
+Seat 2: Hell Mouette (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Hell Mouette posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d Tc]
+*** PRE-FLOP *** 
+Stef_47 folds
+Hell Mouette calls 10
+MathisKcr checks
+*** FLOP *** [Jh 7h Kc]
+Hell Mouette checks
+MathisKcr bets 20
+Hell Mouette calls 20
+*** TURN *** [Jh 7h Kc][Kh]
+Hell Mouette checks
+MathisKcr checks
+*** RIVER *** [Jh 7h Kc Kh][Th]
+Hell Mouette bets 260 and is all-in
+MathisKcr calls 260 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [2d Tc] (Two pairs : Kings and Tens)
+Hell Mouette shows [9h Ts] (Flush King high)
+Hell Mouette collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jh 7h Kc Kh Th]
+Seat 2: Hell Mouette (small blind) showed [9h Ts] and won 600 with Flush King high
+Seat 3: MathisKcr (big blind) showed [2d Tc] and lost with Two pairs : Kings and Tens
+
+

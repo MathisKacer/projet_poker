@@ -1,0 +1,301 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4591259746673098753-1-1771959556 - Holdem no limit (10/20) - 2026/02/24 18:59:16 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #2 is the button
+Seat 1: gorkens (300)
+Seat 2: FHMatador180 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+gorkens posts big blind 20
+Dealt to MathisKcr [5h Kh]
+*** PRE-FLOP *** 
+FHMatador180 folds
+MathisKcr raises 20 to 40
+gorkens folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4591259746673098753-2-1771959568 - Holdem no limit (10/20) - 2026/02/24 18:59:28 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #3 is the button
+Seat 1: gorkens (280)
+Seat 2: FHMatador180 (300)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+gorkens posts small blind 10
+FHMatador180 posts big blind 20
+Dealt to MathisKcr [4c 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+gorkens raises 30 to 50
+FHMatador180 calls 30
+*** FLOP *** [6h Jc Ks]
+gorkens bets 20
+FHMatador180 calls 20
+*** TURN *** [6h Jc Ks][Qs]
+gorkens checks
+FHMatador180 checks
+*** RIVER *** [6h Jc Ks Qs][6s]
+gorkens checks
+FHMatador180 checks
+*** SHOW DOWN ***
+gorkens shows [9c 9s] (Two pairs : 9 and 6)
+FHMatador180 shows [Kd 4h] (Two pairs : Kings and 6)
+FHMatador180 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [6h Jc Ks Qs 6s]
+Seat 1: gorkens (small blind) showed [9c 9s] and lost with Two pairs : 9 and 6
+Seat 2: FHMatador180 (big blind) showed [Kd 4h] and won 140 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4591259746673098753-3-1771959591 - Holdem no limit (10/20) - 2026/02/24 18:59:51 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #1 is the button
+Seat 1: gorkens (210)
+Seat 2: FHMatador180 (370)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+FHMatador180 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4s Qd]
+*** PRE-FLOP *** 
+gorkens folds
+FHMatador180 calls 10
+MathisKcr checks
+*** FLOP *** [2c Qs 4c]
+FHMatador180 checks
+MathisKcr bets 20
+FHMatador180 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2c Qs 4c]
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4591259746673098753-4-1771959621 - Holdem no limit (15/30) - 2026/02/24 19:00:21 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #2 is the button
+Seat 1: gorkens (210)
+Seat 2: FHMatador180 (350)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+gorkens posts big blind 30
+Dealt to MathisKcr [6c Ac]
+*** PRE-FLOP *** 
+FHMatador180 calls 30
+MathisKcr raises 30 to 60
+gorkens folds
+FHMatador180 calls 30
+*** FLOP *** [6d Kh Jd]
+MathisKcr bets 98
+FHMatador180 calls 98
+*** TURN *** [6d Kh Jd][Kc]
+MathisKcr checks
+FHMatador180 checks
+*** RIVER *** [6d Kh Jd Kc][8h]
+MathisKcr checks
+FHMatador180 bets 192 and is all-in
+MathisKcr folds
+FHMatador180 collected 538 from pot
+*** SUMMARY ***
+Total pot 538 | No rake
+Board: [6d Kh Jd Kc 8h]
+Seat 2: FHMatador180 (button) won 538
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4591259746673098753-5-1771959651 - Holdem no limit (15/30) - 2026/02/24 19:00:51 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #3 is the button
+Seat 1: gorkens (180)
+Seat 2: FHMatador180 (538)
+Seat 3: MathisKcr (182)
+*** ANTE/BLINDS ***
+gorkens posts small blind 15
+FHMatador180 posts big blind 30
+Dealt to MathisKcr [Ah Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+gorkens folds
+FHMatador180 calls 30
+*** FLOP *** [4s Kh Kc]
+FHMatador180 checks
+MathisKcr bets 68
+FHMatador180 calls 68
+*** TURN *** [4s Kh Kc][9h]
+FHMatador180 bets 410 and is all-in
+MathisKcr calls 54 and is all-in
+*** RIVER *** [4s Kh Kc 9h][6d]
+*** SHOW DOWN ***
+FHMatador180 shows [3c Td] (One pair : Kings)
+MathisKcr shows [Ah Ad] (Two pairs : Aces and Kings)
+MathisKcr collected 379 from main pot
+FHMatador180 collected 356 from side pot 1
+*** SUMMARY ***
+Total pot 735 | No rake
+Board: [4s Kh Kc 9h 6d]
+Seat 2: FHMatador180 (big blind) showed [3c Td] and won 356 with One pair : Kings
+Seat 3: MathisKcr (button) showed [Ah Ad] and won 379 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4591259746673098753-6-1771959676 - Holdem no limit (20/40) - 2026/02/24 19:01:16 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #1 is the button
+Seat 1: gorkens (165)
+Seat 2: FHMatador180 (356)
+Seat 3: MathisKcr (379)
+*** ANTE/BLINDS ***
+FHMatador180 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [4h 3d]
+*** PRE-FLOP *** 
+gorkens raises 125 to 165 and is all-in
+FHMatador180 raises 191 to 356 and is all-in
+MathisKcr folds
+*** FLOP *** [Jh 6d 7s]
+*** TURN *** [Jh 6d 7s][Qc]
+*** RIVER *** [Jh 6d 7s Qc][2h]
+*** SHOW DOWN ***
+gorkens shows [Ah 9c] (High card : Ace)
+FHMatador180 shows [6c Ac] (One pair : 6)
+FHMatador180 collected 561 from pot
+*** SUMMARY ***
+Total pot 561 | No rake
+Board: [Jh 6d 7s Qc 2h]
+Seat 1: gorkens (button) showed [Ah 9c] and lost with High card : Ace
+Seat 2: FHMatador180 (small blind) showed [6c Ac] and won 561 with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4591259746673098753-7-1771959691 - Holdem no limit (20/40) - 2026/02/24 19:01:31 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #3 is the button
+Seat 2: FHMatador180 (561)
+Seat 3: MathisKcr (339)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+FHMatador180 posts big blind 40
+Dealt to MathisKcr [Qc 5h]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+FHMatador180 calls 40
+*** FLOP *** [2s 6d 7c]
+FHMatador180 checks
+MathisKcr checks
+*** TURN *** [2s 6d 7c][2d]
+FHMatador180 checks
+MathisKcr checks
+*** RIVER *** [2s 6d 7c 2d][Kc]
+FHMatador180 bets 56
+MathisKcr folds
+FHMatador180 collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [2s 6d 7c 2d Kc]
+Seat 2: FHMatador180 (big blind) won 216
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4591259746673098753-8-1771959720 - Holdem no limit (20/40) - 2026/02/24 19:02:00 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #2 is the button
+Seat 2: FHMatador180 (641)
+Seat 3: MathisKcr (259)
+*** ANTE/BLINDS ***
+FHMatador180 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6h 3c]
+*** PRE-FLOP *** 
+FHMatador180 calls 20
+MathisKcr checks
+*** FLOP *** [4d Ac 7h]
+MathisKcr checks
+FHMatador180 bets 52
+MathisKcr folds
+FHMatador180 collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [4d Ac 7h]
+Seat 2: FHMatador180 (small blind) (button) won 132
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4591259746673098753-9-1771959743 - Holdem no limit (30/60) - 2026/02/24 19:02:23 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #3 is the button
+Seat 2: FHMatador180 (681)
+Seat 3: MathisKcr (219)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+FHMatador180 posts big blind 60
+Dealt to MathisKcr [5c 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+FHMatador180 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: FHMatador180 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4591259746673098753-10-1771959748 - Holdem no limit (30/60) - 2026/02/24 19:02:28 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #2 is the button
+Seat 2: FHMatador180 (711)
+Seat 3: MathisKcr (189)
+*** ANTE/BLINDS ***
+FHMatador180 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [4d Tc]
+*** PRE-FLOP *** 
+FHMatador180 raises 651 to 711 and is all-in
+MathisKcr folds
+FHMatador180 collected 771 from pot
+*** SUMMARY ***
+Total pot 771 | No rake
+Seat 2: FHMatador180 (small blind) (button) won 771
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4591259746673098753-11-1771959753 - Holdem no limit (30/60) - 2026/02/24 19:02:33 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #3 is the button
+Seat 2: FHMatador180 (771)
+Seat 3: MathisKcr (129)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+FHMatador180 posts big blind 60
+Dealt to MathisKcr [Qd Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+FHMatador180 raises 651 to 771 and is all-in
+MathisKcr calls 9 and is all-in
+*** FLOP *** [Th 4h 3c]
+*** TURN *** [Th 4h 3c][Kd]
+*** RIVER *** [Th 4h 3c Kd][3d]
+*** SHOW DOWN ***
+FHMatador180 shows [7h 8d] (One pair : 3)
+MathisKcr shows [Qd Qc] (Two pairs : Queens and 3)
+MathisKcr collected 258 from main pot
+FHMatador180 collected 642 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Th 4h 3c Kd 3d]
+Seat 2: FHMatador180 (big blind) showed [7h 8d] and won 642 with One pair : 3
+Seat 3: MathisKcr (small blind) (button) showed [Qd Qc] and won 258 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4591259746673098753-12-1771959774 - Holdem no limit (30/60) - 2026/02/24 19:02:54 UTC
+Table: 'Expresso Nitro(1068985962)#0' 3-max (real money) Seat #2 is the button
+Seat 2: FHMatador180 (642)
+Seat 3: MathisKcr (258)
+*** ANTE/BLINDS ***
+FHMatador180 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Ah 3s]
+*** PRE-FLOP *** 
+FHMatador180 raises 582 to 642 and is all-in
+MathisKcr calls 198 and is all-in
+*** FLOP *** [9s 6s 3c]
+*** TURN *** [9s 6s 3c][2h]
+*** RIVER *** [9s 6s 3c 2h][9h]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 3s] (Two pairs : 9 and 3)
+FHMatador180 shows [Td 6h] (Two pairs : 9 and 6)
+FHMatador180 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s 6s 3c 2h 9h]
+Seat 2: FHMatador180 (small blind) (button) showed [Td 6h] and won 900 with Two pairs : 9 and 6
+Seat 3: MathisKcr (big blind) showed [Ah 3s] and lost with Two pairs : 9 and 3
+
+

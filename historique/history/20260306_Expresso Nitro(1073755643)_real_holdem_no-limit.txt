@@ -1,0 +1,115 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611745370580451329-1-1772794437 - Holdem no limit (10/20) - 2026/03/06 10:53:57 UTC
+Table: 'Expresso Nitro(1073755643)#0' 3-max (real money) Seat #3 is the button
+Seat 1: inconita599 (300)
+Seat 2: Maltau (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+inconita599 posts small blind 10
+Maltau posts big blind 20
+Dealt to MathisKcr [9s 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+inconita599 calls 10
+Maltau checks
+*** FLOP *** [6c 7d Jd]
+inconita599 checks
+Maltau checks
+*** TURN *** [6c 7d Jd][Qs]
+inconita599 checks
+Maltau checks
+*** RIVER *** [6c 7d Jd Qs][5s]
+inconita599 checks
+Maltau checks
+*** SHOW DOWN ***
+inconita599 shows [2d Ah] (High card : Ace)
+Maltau shows [8c 5h] (One pair : 5)
+Maltau collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [6c 7d Jd Qs 5s]
+Seat 1: inconita599 (small blind) showed [2d Ah] and lost with High card : Ace
+Seat 2: Maltau (big blind) showed [8c 5h] and won 40 with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611745370580451329-2-1772794473 - Holdem no limit (10/20) - 2026/03/06 10:54:33 UTC
+Table: 'Expresso Nitro(1073755643)#0' 3-max (real money) Seat #1 is the button
+Seat 1: inconita599 (280)
+Seat 2: Maltau (320)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Maltau posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As 9s]
+*** PRE-FLOP *** 
+inconita599 folds
+Maltau folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4611745370580451329-3-1772794482 - Holdem no limit (10/20) - 2026/03/06 10:54:42 UTC
+Table: 'Expresso Nitro(1073755643)#0' 3-max (real money) Seat #2 is the button
+Seat 1: inconita599 (280)
+Seat 2: Maltau (310)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+inconita599 posts big blind 20
+Dealt to MathisKcr [9c Qd]
+*** PRE-FLOP *** 
+Maltau folds
+MathisKcr raises 40 to 60
+inconita599 calls 40
+*** FLOP *** [Th 2c 9d]
+MathisKcr bets 42
+inconita599 raises 178 to 220 and is all-in
+MathisKcr calls 178
+*** TURN *** [Th 2c 9d][2s]
+*** RIVER *** [Th 2c 9d 2s][3d]
+*** SHOW DOWN ***
+MathisKcr shows [9c Qd] (Two pairs : 9 and 2)
+inconita599 shows [Ts 6c] (Two pairs : Tens and 2)
+inconita599 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Th 2c 9d 2s 3d]
+Seat 1: inconita599 (big blind) showed [Ts 6c] and won 560 with Two pairs : Tens and 2
+Seat 3: MathisKcr (small blind) showed [9c Qd] and lost with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4611745370580451329-4-1772794518 - Holdem no limit (15/30) - 2026/03/06 10:55:18 UTC
+Table: 'Expresso Nitro(1073755643)#0' 3-max (real money) Seat #3 is the button
+Seat 1: inconita599 (560)
+Seat 2: Maltau (310)
+Seat 3: MathisKcr (30)
+*** ANTE/BLINDS ***
+inconita599 posts small blind 15
+Maltau posts big blind 30
+Dealt to MathisKcr [Ad 7s]
+*** PRE-FLOP *** 
+MathisKcr calls 30 and is all-in
+inconita599 calls 15
+Maltau checks
+*** FLOP *** [9d 6c 3d]
+inconita599 checks
+Maltau checks
+*** TURN *** [9d 6c 3d][Qh]
+inconita599 checks
+Maltau checks
+*** RIVER *** [9d 6c 3d Qh][7c]
+inconita599 checks
+Maltau bets 90
+inconita599 folds
+*** SHOW DOWN ***
+MathisKcr shows [Ad 7s] (One pair : 7)
+Maltau shows [5d 4d] (Straight 7 high)
+Maltau collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9d 6c 3d Qh 7c]
+Seat 2: Maltau (big blind) showed [5d 4d] and won 180 with Straight 7 high
+Seat 3: MathisKcr (button) showed [Ad 7s] and lost with One pair : 7
+
+

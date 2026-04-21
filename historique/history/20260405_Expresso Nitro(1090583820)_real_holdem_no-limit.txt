@@ -1,0 +1,63 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4684021840446750721-1-1775384849 - Holdem no limit (10/20) - 2026/04/05 10:27:29 UTC
+Table: 'Expresso Nitro(1090583820)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: miguelodon (300)
+Seat 3: Mihlis (300)
+*** ANTE/BLINDS ***
+Mihlis posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th 2d]
+*** PRE-FLOP *** 
+miguelodon folds
+Mihlis raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [9s Ah Qd]
+Mihlis checks
+MathisKcr checks
+*** TURN *** [9s Ah Qd][6c]
+Mihlis bets 40
+MathisKcr folds
+Mihlis collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9s Ah Qd 6c]
+Seat 3: Mihlis (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4684021840446750721-2-1775384877 - Holdem no limit (10/20) - 2026/04/05 10:27:57 UTC
+Table: 'Expresso Nitro(1090583820)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (260)
+Seat 2: miguelodon (300)
+Seat 3: Mihlis (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+miguelodon posts big blind 20
+Dealt to MathisKcr [6h Ts]
+*** PRE-FLOP *** 
+Mihlis folds
+MathisKcr folds
+miguelodon collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: miguelodon (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4684021840446750721-3-1775384886 - Holdem no limit (10/20) - 2026/04/05 10:28:06 UTC
+Table: 'Expresso Nitro(1090583820)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (250)
+Seat 2: miguelodon (310)
+Seat 3: Mihlis (340)
+*** ANTE/BLINDS ***
+miguelodon posts small blind 10
+Mihlis posts big blind 20
+Dealt to MathisKcr [Qs Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 230 to 250 and is all-in
+miguelodon folds
+Mihlis folds
+MathisKcr collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 1: MathisKcr (button) won 280
+
+

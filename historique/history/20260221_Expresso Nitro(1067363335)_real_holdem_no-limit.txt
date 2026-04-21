@@ -1,0 +1,285 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4584290616774492161-1-1771666850 - Holdem no limit (10/20) - 2026/02/21 09:40:50 UTC
+Table: 'Expresso Nitro(1067363335)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: doyomel29 (300)
+Seat 3: Docgen89 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+doyomel29 posts big blind 20
+Dealt to MathisKcr [Tc Qd]
+*** PRE-FLOP *** 
+Docgen89 raises 20 to 40
+MathisKcr calls 30
+doyomel29 folds
+*** FLOP *** [Kh 4d 7d]
+MathisKcr bets 25
+Docgen89 raises 89 to 114
+MathisKcr folds
+Docgen89 collected 239 from pot
+*** SUMMARY ***
+Total pot 239 | No rake
+Board: [Kh 4d 7d]
+Seat 3: Docgen89 (button) won 239
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4584290616774492161-2-1771666871 - Holdem no limit (10/20) - 2026/02/21 09:41:11 UTC
+Table: 'Expresso Nitro(1067363335)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (235)
+Seat 2: doyomel29 (280)
+Seat 3: Docgen89 (385)
+*** ANTE/BLINDS ***
+doyomel29 posts small blind 10
+Docgen89 posts big blind 20
+Dealt to MathisKcr [8c Th]
+*** PRE-FLOP *** 
+MathisKcr folds
+doyomel29 calls 10
+Docgen89 checks
+*** FLOP *** [6c 7c Jc]
+doyomel29 checks
+Docgen89 checks
+*** TURN *** [6c 7c Jc][2h]
+doyomel29 bets 40
+Docgen89 calls 40
+*** RIVER *** [6c 7c Jc 2h][Qh]
+doyomel29 bets 42
+Docgen89 calls 42
+*** SHOW DOWN ***
+Docgen89 shows [2c 5s] (One pair : 2)
+doyomel29 shows [Js 8h] (One pair : Jacks)
+doyomel29 collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Board: [6c 7c Jc 2h Qh]
+Seat 2: doyomel29 (small blind) showed [Js 8h] and won 204 with One pair : Jacks
+Seat 3: Docgen89 (big blind) showed [2c 5s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4584290616774492161-3-1771666895 - Holdem no limit (10/20) - 2026/02/21 09:41:35 UTC
+Table: 'Expresso Nitro(1067363335)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (235)
+Seat 2: doyomel29 (382)
+Seat 3: Docgen89 (283)
+*** ANTE/BLINDS ***
+Docgen89 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 9h]
+*** PRE-FLOP *** 
+doyomel29 calls 20
+Docgen89 calls 10
+MathisKcr raises 20 to 40
+doyomel29 calls 20
+Docgen89 calls 20
+*** FLOP *** [Qh 3d 2h]
+Docgen89 checks
+MathisKcr bets 20
+doyomel29 calls 20
+Docgen89 folds
+*** TURN *** [Qh 3d 2h][9s]
+MathisKcr bets 56
+doyomel29 folds
+MathisKcr collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [Qh 3d 2h 9s]
+Seat 1: MathisKcr (big blind) won 216
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4584290616774492161-4-1771666948 - Holdem no limit (15/30) - 2026/02/21 09:42:28 UTC
+Table: 'Expresso Nitro(1067363335)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (335)
+Seat 2: doyomel29 (322)
+Seat 3: Docgen89 (243)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+doyomel29 posts big blind 30
+Dealt to MathisKcr [Qs 8c]
+*** PRE-FLOP *** 
+Docgen89 calls 30
+MathisKcr calls 15
+doyomel29 checks
+*** FLOP *** [Ad 9s 5s]
+MathisKcr checks
+doyomel29 checks
+Docgen89 checks
+*** TURN *** [Ad 9s 5s][Ac]
+MathisKcr checks
+doyomel29 bets 59
+Docgen89 folds
+MathisKcr folds
+doyomel29 collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [Ad 9s 5s Ac]
+Seat 2: doyomel29 (big blind) won 149
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4584290616774492161-5-1771666998 - Holdem no limit (20/40) - 2026/02/21 09:43:18 UTC
+Table: 'Expresso Nitro(1067363335)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (305)
+Seat 2: doyomel29 (382)
+Seat 3: Docgen89 (213)
+*** ANTE/BLINDS ***
+doyomel29 posts small blind 20
+Docgen89 posts big blind 40
+Dealt to MathisKcr [Js 7h]
+*** PRE-FLOP *** 
+MathisKcr folds
+doyomel29 calls 20
+Docgen89 raises 40 to 80
+doyomel29 calls 40
+*** FLOP *** [Ks Td 9s]
+doyomel29 checks
+Docgen89 checks
+*** TURN *** [Ks Td 9s][2d]
+doyomel29 checks
+Docgen89 bets 56
+doyomel29 calls 56
+*** RIVER *** [Ks Td 9s 2d][7d]
+doyomel29 checks
+Docgen89 bets 77 and is all-in
+doyomel29 folds
+Docgen89 collected 349 from pot
+*** SUMMARY ***
+Total pot 349 | No rake
+Board: [Ks Td 9s 2d 7d]
+Seat 3: Docgen89 (big blind) won 349
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4584290616774492161-6-1771667029 - Holdem no limit (30/60) - 2026/02/21 09:43:49 UTC
+Table: 'Expresso Nitro(1067363335)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (305)
+Seat 2: doyomel29 (246)
+Seat 3: Docgen89 (349)
+*** ANTE/BLINDS ***
+Docgen89 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Th 5s]
+*** PRE-FLOP *** 
+doyomel29 raises 186 to 246 and is all-in
+Docgen89 calls 216
+MathisKcr folds
+*** FLOP *** [4s 8h Ts]
+*** TURN *** [4s 8h Ts][Ks]
+*** RIVER *** [4s 8h Ts Ks][6c]
+*** SHOW DOWN ***
+Docgen89 shows [Qc Qs] (One pair : Queens)
+doyomel29 shows [Jd Kc] (One pair : Kings)
+doyomel29 collected 552 from pot
+*** SUMMARY ***
+Total pot 552 | No rake
+Board: [4s 8h Ts Ks 6c]
+Seat 2: doyomel29 (button) showed [Jd Kc] and won 552 with One pair : Kings
+Seat 3: Docgen89 (small blind) showed [Qc Qs] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4584290616774492161-7-1771667049 - Holdem no limit (30/60) - 2026/02/21 09:44:09 UTC
+Table: 'Expresso Nitro(1067363335)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (245)
+Seat 2: doyomel29 (552)
+Seat 3: Docgen89 (103)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+doyomel29 posts big blind 60
+Dealt to MathisKcr [Ah 6h]
+*** PRE-FLOP *** 
+Docgen89 raises 43 to 103 and is all-in
+MathisKcr raises 142 to 245 and is all-in
+doyomel29 folds
+*** FLOP *** [2d 4d Ad]
+*** TURN *** [2d 4d Ad][8c]
+*** RIVER *** [2d 4d Ad 8c][2s]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 6h] (Two pairs : Aces and 2)
+Docgen89 shows [As Qc] (Two pairs : Aces and 2)
+Docgen89 collected 266 from main pot
+MathisKcr collected 142 from side pot 1
+*** SUMMARY ***
+Total pot 408 | No rake
+Board: [2d 4d Ad 8c 2s]
+Seat 1: MathisKcr (small blind) showed [Ah 6h] and won 142 with Two pairs : Aces and 2
+Seat 3: Docgen89 (button) showed [As Qc] and won 266 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4584290616774492161-8-1771667065 - Holdem no limit (30/60) - 2026/02/21 09:44:25 UTC
+Table: 'Expresso Nitro(1067363335)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (142)
+Seat 2: doyomel29 (492)
+Seat 3: Docgen89 (266)
+*** ANTE/BLINDS ***
+doyomel29 posts small blind 30
+Docgen89 posts big blind 60
+Dealt to MathisKcr [8d 9c]
+*** PRE-FLOP *** 
+MathisKcr folds
+doyomel29 calls 30
+Docgen89 checks
+*** FLOP *** [Ts 2h Ah]
+doyomel29 checks
+Docgen89 bets 206 and is all-in
+doyomel29 folds
+Docgen89 collected 326 from pot
+*** SUMMARY ***
+Total pot 326 | No rake
+Board: [Ts 2h Ah]
+Seat 3: Docgen89 (big blind) won 326
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4584290616774492161-9-1771667083 - Holdem no limit (30/60) - 2026/02/21 09:44:43 UTC
+Table: 'Expresso Nitro(1067363335)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (142)
+Seat 2: doyomel29 (432)
+Seat 3: Docgen89 (326)
+*** ANTE/BLINDS ***
+Docgen89 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qc 8h]
+*** PRE-FLOP *** 
+doyomel29 folds
+Docgen89 raises 266 to 326 and is all-in
+MathisKcr folds
+Docgen89 collected 386 from pot
+*** SUMMARY ***
+Total pot 386 | No rake
+Seat 3: Docgen89 (small blind) won 386
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4584290616774492161-10-1771667090 - Holdem no limit (40/80) - 2026/02/21 09:44:50 UTC
+Table: 'Expresso Nitro(1067363335)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (82)
+Seat 2: doyomel29 (432)
+Seat 3: Docgen89 (386)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+doyomel29 posts big blind 80
+Dealt to MathisKcr [Tc 8d]
+*** PRE-FLOP *** 
+Docgen89 calls 80
+MathisKcr calls 40
+doyomel29 checks
+*** FLOP *** [Ks Jc Qc]
+MathisKcr checks
+doyomel29 checks
+Docgen89 bets 84
+MathisKcr calls 2 and is all-in
+doyomel29 calls 84
+*** TURN *** [Ks Jc Qc][8c]
+doyomel29 checks
+Docgen89 checks
+*** RIVER *** [Ks Jc Qc 8c][Jh]
+doyomel29 checks
+Docgen89 checks
+*** SHOW DOWN ***
+MathisKcr shows [Tc 8d] (Two pairs : Jacks and 8)
+doyomel29 shows [Qh 3h] (Two pairs : Queens and Jacks)
+Docgen89 shows [5d Qs] (Two pairs : Queens and Jacks)
+Docgen89 collected 205 from pot
+doyomel29 collected 205 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Board: [Ks Jc Qc 8c Jh]
+Seat 1: MathisKcr (small blind) showed [Tc 8d] and lost with Two pairs : Jacks and 8
+Seat 2: doyomel29 (big blind) showed [Qh 3h] and won 205 with Two pairs : Queens and Jacks
+Seat 3: Docgen89 (button) showed [5d Qs] and won 205 with Two pairs : Queens and Jacks
+
+

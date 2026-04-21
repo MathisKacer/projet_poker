@@ -1,0 +1,201 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4658015860714110977-1-1774368161 - Holdem no limit (10/20) - 2026/03/24 16:02:41 UTC
+Table: 'Expresso Nitro(1084528831)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Diego27flame (300)
+Seat 2: _JtePikToo_ (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Diego27flame posts small blind 10
+_JtePikToo_ posts big blind 20
+Dealt to MathisKcr [3h Th]
+*** PRE-FLOP *** 
+MathisKcr folds
+Diego27flame calls 10
+_JtePikToo_ raises 20 to 40
+Diego27flame calls 20
+*** FLOP *** [Jh 2d Qd]
+Diego27flame bets 80
+_JtePikToo_ calls 80
+*** TURN *** [Jh 2d Qd][5s]
+Diego27flame bets 20
+_JtePikToo_ calls 20
+*** RIVER *** [Jh 2d Qd 5s][2h]
+Diego27flame checks
+_JtePikToo_ checks
+*** SHOW DOWN ***
+Diego27flame shows [9h 8s] (One pair : 2)
+_JtePikToo_ shows [Ac Jd] (Two pairs : Jacks and 2)
+_JtePikToo_ collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Jh 2d Qd 5s 2h]
+Seat 1: Diego27flame (small blind) showed [9h 8s] and lost with One pair : 2
+Seat 2: _JtePikToo_ (big blind) showed [Ac Jd] and won 280 with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4658015860714110977-2-1774368198 - Holdem no limit (10/20) - 2026/03/24 16:03:18 UTC
+Table: 'Expresso Nitro(1084528831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Diego27flame (160)
+Seat 2: _JtePikToo_ (440)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+_JtePikToo_ posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2c 5d]
+*** PRE-FLOP *** 
+Diego27flame folds
+_JtePikToo_ folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4658015860714110977-3-1774368207 - Holdem no limit (10/20) - 2026/03/24 16:03:27 UTC
+Table: 'Expresso Nitro(1084528831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Diego27flame (160)
+Seat 2: _JtePikToo_ (430)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Diego27flame posts big blind 20
+Dealt to MathisKcr [9h Jd]
+*** PRE-FLOP *** 
+_JtePikToo_ folds
+MathisKcr raises 40 to 60
+Diego27flame folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 3: MathisKcr (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4658015860714110977-4-1774368229 - Holdem no limit (15/30) - 2026/03/24 16:03:49 UTC
+Table: 'Expresso Nitro(1084528831)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Diego27flame (140)
+Seat 2: _JtePikToo_ (430)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+Diego27flame posts small blind 15
+_JtePikToo_ posts big blind 30
+Dealt to MathisKcr [Kd 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 300 to 330 and is all-in
+Diego27flame calls 125 and is all-in
+_JtePikToo_ folds
+*** FLOP *** [Ac 6d 9d]
+*** TURN *** [Ac 6d 9d][6c]
+*** RIVER *** [Ac 6d 9d 6c][6s]
+*** SHOW DOWN ***
+Diego27flame shows [Kh 5s] (Trips of 6)
+MathisKcr shows [Kd 3s] (Trips of 6)
+MathisKcr collected 345 from side pot 1
+Diego27flame collected 155 from main pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Ac 6d 9d 6c 6s]
+Seat 1: Diego27flame (small blind) showed [Kh 5s] and won 155 with Trips of 6
+Seat 3: MathisKcr (button) showed [Kd 3s] and won 345 with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4658015860714110977-5-1774368257 - Holdem no limit (15/30) - 2026/03/24 16:04:17 UTC
+Table: 'Expresso Nitro(1084528831)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Diego27flame (155)
+Seat 2: _JtePikToo_ (400)
+Seat 3: MathisKcr (345)
+*** ANTE/BLINDS ***
+_JtePikToo_ posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad 5c]
+*** PRE-FLOP *** 
+Diego27flame folds
+_JtePikToo_ calls 15
+MathisKcr raises 315 to 345 and is all-in
+_JtePikToo_ folds
+MathisKcr collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Seat 3: MathisKcr (big blind) won 375
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4658015860714110977-6-1774368276 - Holdem no limit (15/30) - 2026/03/24 16:04:36 UTC
+Table: 'Expresso Nitro(1084528831)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Diego27flame (155)
+Seat 2: _JtePikToo_ (370)
+Seat 3: MathisKcr (375)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Diego27flame posts big blind 30
+Dealt to MathisKcr [Qc Kc]
+*** PRE-FLOP *** 
+_JtePikToo_ raises 30 to 60
+MathisKcr raises 315 to 375 and is all-in
+Diego27flame folds
+_JtePikToo_ calls 310 and is all-in
+*** FLOP *** [7d 6d 8s]
+*** TURN *** [7d 6d 8s][8c]
+*** RIVER *** [7d 6d 8s 8c][3h]
+*** SHOW DOWN ***
+_JtePikToo_ shows [As Jh] (One pair : 8)
+MathisKcr shows [Qc Kc] (One pair : 8)
+MathisKcr collected 5 from side pot 1
+_JtePikToo_ collected 770 from main pot
+*** SUMMARY ***
+Total pot 775 | No rake
+Board: [7d 6d 8s 8c 3h]
+Seat 2: _JtePikToo_ (button) showed [As Jh] and won 770 with One pair : 8
+Seat 3: MathisKcr (small blind) showed [Qc Kc] and won 5 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4658015860714110977-7-1774368304 - Holdem no limit (20/40) - 2026/03/24 16:05:04 UTC
+Table: 'Expresso Nitro(1084528831)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Diego27flame (125)
+Seat 2: _JtePikToo_ (770)
+Seat 3: MathisKcr (5)
+*** ANTE/BLINDS ***
+Diego27flame posts small blind 20
+_JtePikToo_ posts big blind 40
+Dealt to MathisKcr [Jc Td]
+*** PRE-FLOP *** 
+MathisKcr calls 5 and is all-in
+Diego27flame raises 85 to 125 and is all-in
+_JtePikToo_ calls 85
+*** FLOP *** [Qh 6c Tc]
+*** TURN *** [Qh 6c Tc][4h]
+*** RIVER *** [Qh 6c Tc 4h][5h]
+*** SHOW DOWN ***
+Diego27flame shows [Ad Js] (High card : Ace)
+_JtePikToo_ shows [5s 3c] (One pair : 5)
+MathisKcr shows [Jc Td] (One pair : Tens)
+MathisKcr collected 15 from main pot
+_JtePikToo_ collected 240 from side pot 1
+*** SUMMARY ***
+Total pot 255 | No rake
+Board: [Qh 6c Tc 4h 5h]
+Seat 1: Diego27flame (small blind) showed [Ad Js] and lost with High card : Ace
+Seat 2: _JtePikToo_ (big blind) showed [5s 3c] and won 240 with One pair : 5
+Seat 3: MathisKcr (button) showed [Jc Td] and won 15 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4658015860714110977-8-1774368324 - Holdem no limit (20/40) - 2026/03/24 16:05:24 UTC
+Table: 'Expresso Nitro(1084528831)#0' 3-max (real money) Seat #2 is the button
+Seat 2: _JtePikToo_ (885)
+Seat 3: MathisKcr (15)
+*** ANTE/BLINDS ***
+_JtePikToo_ posts small blind 20
+MathisKcr posts big blind 15 and is all-in
+Dealt to MathisKcr [Jh 5c]
+*** PRE-FLOP *** 
+*** FLOP *** [5h 6c 7d]
+*** TURN *** [5h 6c 7d][Ac]
+*** RIVER *** [5h 6c 7d Ac][9s]
+*** SHOW DOWN ***
+MathisKcr shows [Jh 5c] (One pair : 5)
+_JtePikToo_ shows [4d 7s] (One pair : 7)
+_JtePikToo_ collected 35 from pot
+*** SUMMARY ***
+Total pot 35 | No rake
+Board: [5h 6c 7d Ac 9s]
+Seat 2: _JtePikToo_ (small blind) (button) showed [4d 7s] and won 35 with One pair : 7
+Seat 3: MathisKcr (big blind) showed [Jh 5c] and lost with One pair : 5
+
+

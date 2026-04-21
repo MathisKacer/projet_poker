@@ -1,0 +1,155 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4340025488664690689-1-1761663032 - Holdem no limit (10/20) - 2025/10/28 14:50:32 UTC
+Table: 'Expresso(1010490928)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Sgtjhov0906 (500)
+Seat 3: minidek24 (500)
+*** ANTE/BLINDS ***
+Sgtjhov0906 posts small blind 10
+minidek24 posts big blind 20
+Dealt to MathisKcr [7s 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sgtjhov0906 calls 10
+minidek24 checks
+*** FLOP *** [Ac Ad Kd]
+Sgtjhov0906 checks
+minidek24 checks
+*** TURN *** [Ac Ad Kd][9s]
+Sgtjhov0906 checks
+minidek24 checks
+*** RIVER *** [Ac Ad Kd 9s][5c]
+Sgtjhov0906 checks
+minidek24 checks
+*** SHOW DOWN ***
+minidek24 shows [2d 8s] (One pair : Aces)
+Sgtjhov0906 shows [Tc 6h] (One pair : Aces)
+Sgtjhov0906 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ac Ad Kd 9s 5c]
+Seat 2: Sgtjhov0906 (small blind) showed [Tc 6h] and won 40 with One pair : Aces
+Seat 3: minidek24 (big blind) showed [2d 8s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4340025488664690689-2-1761663053 - Holdem no limit (10/20) - 2025/10/28 14:50:53 UTC
+Table: 'Expresso(1010490928)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Sgtjhov0906 (520)
+Seat 3: minidek24 (480)
+*** ANTE/BLINDS ***
+minidek24 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4d Jd]
+*** PRE-FLOP *** 
+Sgtjhov0906 folds
+minidek24 calls 10
+MathisKcr checks
+*** FLOP *** [9c 4c 2d]
+minidek24 checks
+MathisKcr bets 40
+minidek24 folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9c 4c 2d]
+Seat 1: MathisKcr (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4340025488664690689-3-1761663071 - Holdem no limit (10/20) - 2025/10/28 14:51:11 UTC
+Table: 'Expresso(1010490928)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (520)
+Seat 2: Sgtjhov0906 (520)
+Seat 3: minidek24 (460)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Sgtjhov0906 posts big blind 20
+Dealt to MathisKcr [8s 9s]
+*** PRE-FLOP *** 
+minidek24 calls 20
+MathisKcr raises 20 to 40
+Sgtjhov0906 calls 20
+minidek24 calls 20
+*** FLOP *** [Kc 8d Qc]
+MathisKcr checks
+Sgtjhov0906 checks
+minidek24 checks
+*** TURN *** [Kc 8d Qc][Tc]
+MathisKcr checks
+Sgtjhov0906 bets 40
+minidek24 calls 40
+MathisKcr calls 40
+*** RIVER *** [Kc 8d Qc Tc][Td]
+MathisKcr checks
+Sgtjhov0906 bets 50
+minidek24 calls 50
+MathisKcr folds
+*** SHOW DOWN ***
+minidek24 shows [Ah 7h] (One pair : Tens)
+Sgtjhov0906 shows [9d Jd] (Straight King high)
+Sgtjhov0906 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Kc 8d Qc Tc Td]
+Seat 2: Sgtjhov0906 (big blind) showed [9d Jd] and won 340 with Straight King high
+Seat 3: minidek24 (button) showed [Ah 7h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4340025488664690689-4-1761663106 - Holdem no limit (10/20) - 2025/10/28 14:51:46 UTC
+Table: 'Expresso(1010490928)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (440)
+Seat 2: Sgtjhov0906 (730)
+Seat 3: minidek24 (330)
+*** ANTE/BLINDS ***
+Sgtjhov0906 posts small blind 10
+minidek24 posts big blind 20
+Dealt to MathisKcr [4h Kh]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Sgtjhov0906 folds
+minidek24 checks
+*** FLOP *** [7h 2c 2s]
+minidek24 checks
+MathisKcr bets 60
+minidek24 raises 250 to 310 and is all-in
+MathisKcr calls 250
+*** TURN *** [7h 2c 2s][7c]
+*** RIVER *** [7h 2c 2s 7c][5s]
+*** SHOW DOWN ***
+MathisKcr shows [4h Kh] (Two pairs : 7 and 2)
+minidek24 shows [7s 2d] (Full of 7 and 2)
+minidek24 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [7h 2c 2s 7c 5s]
+Seat 1: MathisKcr (button) showed [4h Kh] and lost with Two pairs : 7 and 2
+Seat 3: minidek24 (big blind) showed [7s 2d] and won 670 with Full of 7 and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4340025488664690689-5-1761663138 - Holdem no limit (15/30) - 2025/10/28 14:52:18 UTC
+Table: 'Expresso(1010490928)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (110)
+Seat 2: Sgtjhov0906 (720)
+Seat 3: minidek24 (670)
+*** ANTE/BLINDS ***
+minidek24 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ac 3s]
+*** PRE-FLOP *** 
+Sgtjhov0906 folds
+minidek24 calls 15
+MathisKcr raises 80 to 110 and is all-in
+minidek24 calls 80
+*** FLOP *** [8c 5s 7d]
+*** TURN *** [8c 5s 7d][4d]
+*** RIVER *** [8c 5s 7d 4d][4c]
+*** SHOW DOWN ***
+MathisKcr shows [Ac 3s] (One pair : 4)
+minidek24 shows [Kd 5h] (Two pairs : 5 and 4)
+minidek24 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [8c 5s 7d 4d 4c]
+Seat 1: MathisKcr (big blind) showed [Ac 3s] and lost with One pair : 4
+Seat 3: minidek24 (small blind) showed [Kd 5h] and won 220 with Two pairs : 5 and 4
+
+

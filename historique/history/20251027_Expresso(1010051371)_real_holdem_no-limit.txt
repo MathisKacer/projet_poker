@@ -1,0 +1,383 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4338137605724962817-1-1761574273 - Holdem no limit (10/20) - 2025/10/27 14:11:13 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Moi c Lui (500)
+Seat 2: MathisKcr (500)
+Seat 3: rude_933742 (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+rude_933742 posts big blind 20
+Dealt to MathisKcr [8h 5s]
+*** PRE-FLOP *** 
+Moi c Lui raises 20 to 40
+MathisKcr folds
+rude_933742 calls 20
+*** FLOP *** [Qh 4h 9s]
+rude_933742 bets 20
+Moi c Lui raises 55 to 75
+rude_933742 calls 55
+*** TURN *** [Qh 4h 9s][6h]
+rude_933742 bets 60
+Moi c Lui raises 60 to 120
+rude_933742 calls 60
+*** RIVER *** [Qh 4h 9s 6h][3s]
+rude_933742 checks
+Moi c Lui bets 240
+rude_933742 folds
+Moi c Lui collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Qh 4h 9s 6h 3s]
+Seat 1: Moi c Lui (button) won 720
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4338137605724962817-2-1761574319 - Holdem no limit (10/20) - 2025/10/27 14:11:59 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Moi c Lui (745)
+Seat 2: MathisKcr (490)
+Seat 3: rude_933742 (265)
+*** ANTE/BLINDS ***
+rude_933742 posts small blind 10
+Moi c Lui posts big blind 20
+Dealt to MathisKcr [Ad 5d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+rude_933742 calls 30
+Moi c Lui calls 20
+*** FLOP *** [Jd Ts 6c]
+rude_933742 checks
+Moi c Lui bets 96
+MathisKcr calls 96
+rude_933742 folds
+*** TURN *** [Jd Ts 6c][Tc]
+Moi c Lui bets 156
+MathisKcr folds
+Moi c Lui collected 468 from pot
+*** SUMMARY ***
+Total pot 468 | No rake
+Board: [Jd Ts 6c Tc]
+Seat 1: Moi c Lui (big blind) won 468
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4338137605724962817-3-1761574349 - Holdem no limit (10/20) - 2025/10/27 14:12:29 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Moi c Lui (921)
+Seat 2: MathisKcr (354)
+Seat 3: rude_933742 (225)
+*** ANTE/BLINDS ***
+Moi c Lui posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [As Kh]
+*** PRE-FLOP *** 
+rude_933742 calls 20
+Moi c Lui raises 20 to 40
+MathisKcr raises 40 to 80
+rude_933742 calls 60
+Moi c Lui calls 40
+*** FLOP *** [Ah 4d 2h]
+Moi c Lui checks
+MathisKcr bets 80
+rude_933742 calls 80
+Moi c Lui raises 90 to 170
+MathisKcr raises 104 to 274 and is all-in
+rude_933742 calls 65 and is all-in
+Moi c Lui calls 104
+*** TURN *** [Ah 4d 2h][2c]
+*** RIVER *** [Ah 4d 2h 2c][4h]
+*** SHOW DOWN ***
+Moi c Lui shows [7d Ac] (Two pairs : Aces and 4)
+MathisKcr shows [As Kh] (Two pairs : Aces and 4)
+rude_933742 shows [9h Th] (Flush Ace high)
+rude_933742 collected 675 from main pot
+MathisKcr collected 258 from side pot 1
+*** SUMMARY ***
+Total pot 933 | No rake
+Board: [Ah 4d 2h 2c 4h]
+Seat 1: Moi c Lui (small blind) showed [7d Ac] and lost with Two pairs : Aces and 4
+Seat 2: MathisKcr (big blind) showed [As Kh] and won 258 with Two pairs : Aces and 4
+Seat 3: rude_933742 (button) showed [9h Th] and won 675 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4338137605724962817-4-1761574390 - Holdem no limit (15/30) - 2025/10/27 14:13:10 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Moi c Lui (567)
+Seat 2: MathisKcr (258)
+Seat 3: rude_933742 (675)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+rude_933742 posts big blind 30
+Dealt to MathisKcr [9h Kc]
+*** PRE-FLOP *** 
+Moi c Lui raises 30 to 60
+MathisKcr calls 45
+rude_933742 calls 30
+*** FLOP *** [Qh Tc Th]
+MathisKcr checks
+rude_933742 bets 30
+Moi c Lui calls 30
+MathisKcr raises 30 to 60
+rude_933742 calls 30
+Moi c Lui calls 30
+*** TURN *** [Qh Tc Th][Jd]
+MathisKcr checks
+rude_933742 bets 30
+Moi c Lui raises 83 to 113
+MathisKcr raises 25 to 138 and is all-in
+rude_933742 calls 108
+Moi c Lui calls 25
+*** RIVER *** [Qh Tc Th Jd][4c]
+rude_933742 bets 194
+Moi c Lui calls 194
+*** SHOW DOWN ***
+Moi c Lui shows [Jc 9c] (Two pairs : Jacks and Tens)
+MathisKcr shows [9h Kc] (Straight King high)
+rude_933742 shows [9d Ks] (Straight King high)
+rude_933742 collected 775 from side pot 1
+MathisKcr collected 387 from main pot
+*** SUMMARY ***
+Total pot 1162 | No rake
+Board: [Qh Tc Th Jd 4c]
+Seat 1: Moi c Lui (button) showed [Jc 9c] and lost with Two pairs : Jacks and Tens
+Seat 2: MathisKcr (small blind) showed [9h Kc] and won 387 with Straight King high
+Seat 3: rude_933742 (big blind) showed [9d Ks] and won 775 with Straight King high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4338137605724962817-5-1761574440 - Holdem no limit (15/30) - 2025/10/27 14:14:00 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Moi c Lui (115)
+Seat 2: MathisKcr (387)
+Seat 3: rude_933742 (998)
+*** ANTE/BLINDS ***
+rude_933742 posts small blind 15
+Moi c Lui posts big blind 30
+Dealt to MathisKcr [7d 2d]
+*** PRE-FLOP *** 
+MathisKcr folds
+rude_933742 folds
+Moi c Lui collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Moi c Lui (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4338137605724962817-6-1761574448 - Holdem no limit (15/30) - 2025/10/27 14:14:08 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Moi c Lui (130)
+Seat 2: MathisKcr (387)
+Seat 3: rude_933742 (983)
+*** ANTE/BLINDS ***
+Moi c Lui posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7d Jh]
+*** PRE-FLOP *** 
+rude_933742 calls 30
+Moi c Lui calls 15
+MathisKcr checks
+*** FLOP *** [Th 3d Jd]
+Moi c Lui checks
+MathisKcr bets 60
+rude_933742 folds
+Moi c Lui folds
+MathisKcr collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Th 3d Jd]
+Seat 2: MathisKcr (big blind) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4338137605724962817-7-1761574468 - Holdem no limit (20/40) - 2025/10/27 14:14:28 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Moi c Lui (100)
+Seat 2: MathisKcr (447)
+Seat 3: rude_933742 (953)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+rude_933742 posts big blind 40
+Dealt to MathisKcr [9h 4h]
+*** PRE-FLOP *** 
+Moi c Lui raises 60 to 100 and is all-in
+MathisKcr folds
+rude_933742 calls 60
+*** FLOP *** [As Kc 3s]
+*** TURN *** [As Kc 3s][Kd]
+*** RIVER *** [As Kc 3s Kd][6c]
+*** SHOW DOWN ***
+rude_933742 shows [Jh 3d] (Two pairs : Kings and 3)
+Moi c Lui shows [2h Ac] (Two pairs : Aces and Kings)
+Moi c Lui collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [As Kc 3s Kd 6c]
+Seat 1: Moi c Lui (button) showed [2h Ac] and won 220 with Two pairs : Aces and Kings
+Seat 3: rude_933742 (big blind) showed [Jh 3d] and lost with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4338137605724962817-8-1761574482 - Holdem no limit (20/40) - 2025/10/27 14:14:42 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Moi c Lui (220)
+Seat 2: MathisKcr (427)
+Seat 3: rude_933742 (853)
+*** ANTE/BLINDS ***
+rude_933742 posts small blind 20
+Moi c Lui posts big blind 40
+Dealt to MathisKcr [9h Tc]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+rude_933742 calls 20
+Moi c Lui checks
+*** FLOP *** [2c 4h Qc]
+rude_933742 bets 40
+Moi c Lui folds
+MathisKcr folds
+rude_933742 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [2c 4h Qc]
+Seat 3: rude_933742 (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4338137605724962817-9-1761574496 - Holdem no limit (20/40) - 2025/10/27 14:14:56 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Moi c Lui (180)
+Seat 2: MathisKcr (387)
+Seat 3: rude_933742 (933)
+*** ANTE/BLINDS ***
+Moi c Lui posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Js 3d]
+*** PRE-FLOP *** 
+rude_933742 raises 40 to 80
+Moi c Lui folds
+MathisKcr folds
+rude_933742 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 3: rude_933742 (button) won 140
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4338137605724962817-10-1761574503 - Holdem no limit (20/40) - 2025/10/27 14:15:03 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Moi c Lui (160)
+Seat 2: MathisKcr (347)
+Seat 3: rude_933742 (993)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+rude_933742 posts big blind 40
+Dealt to MathisKcr [Kh 5d]
+*** PRE-FLOP *** 
+Moi c Lui raises 120 to 160 and is all-in
+MathisKcr folds
+rude_933742 calls 120
+*** FLOP *** [6d 4d 8s]
+*** TURN *** [6d 4d 8s][Jc]
+*** RIVER *** [6d 4d 8s Jc][Ts]
+*** SHOW DOWN ***
+Moi c Lui shows [Qs Ad] (High card : Ace)
+rude_933742 shows [8h As] (One pair : 8)
+rude_933742 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [6d 4d 8s Jc Ts]
+Seat 1: Moi c Lui (button) showed [Qs Ad] and lost with High card : Ace
+Seat 3: rude_933742 (big blind) showed [8h As] and won 340 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4338137605724962817-11-1761574518 - Holdem no limit (20/40) - 2025/10/27 14:15:18 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (327)
+Seat 3: rude_933742 (1173)
+*** ANTE/BLINDS ***
+rude_933742 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6s 3s]
+*** PRE-FLOP *** 
+rude_933742 calls 20
+MathisKcr checks
+*** FLOP *** [2s 8c Ts]
+MathisKcr bets 287 and is all-in
+rude_933742 folds
+MathisKcr collected 367 from pot
+*** SUMMARY ***
+Total pot 367 | No rake
+Board: [2s 8c Ts]
+Seat 2: MathisKcr (big blind) won 367
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4338137605724962817-12-1761574528 - Holdem no limit (20/40) - 2025/10/27 14:15:28 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (367)
+Seat 3: rude_933742 (1133)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+rude_933742 posts big blind 40
+Dealt to MathisKcr [5d 5c]
+*** PRE-FLOP *** 
+MathisKcr raises 327 to 367 and is all-in
+rude_933742 folds
+MathisKcr collected 407 from pot
+*** SUMMARY ***
+Total pot 407 | No rake
+Seat 2: MathisKcr (small blind) (button) won 407
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4338137605724962817-13-1761574537 - Holdem no limit (20/40) - 2025/10/27 14:15:37 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (407)
+Seat 3: rude_933742 (1093)
+*** ANTE/BLINDS ***
+rude_933742 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9s 5c]
+*** PRE-FLOP *** 
+rude_933742 calls 20
+MathisKcr checks
+*** FLOP *** [Jc Qs 8c]
+MathisKcr checks
+rude_933742 bets 40
+MathisKcr calls 40
+*** TURN *** [Jc Qs 8c][Ah]
+MathisKcr checks
+rude_933742 checks
+*** RIVER *** [Jc Qs 8c Ah][Kh]
+MathisKcr checks
+rude_933742 bets 40
+MathisKcr calls 40
+*** SHOW DOWN ***
+MathisKcr shows [9s 5c] (High card : Ace)
+rude_933742 shows [5h Qc] (One pair : Queens)
+rude_933742 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jc Qs 8c Ah Kh]
+Seat 2: MathisKcr (big blind) showed [9s 5c] and lost with High card : Ace
+Seat 3: rude_933742 (small blind) (button) showed [5h Qc] and won 240 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4338137605724962817-14-1761574564 - Holdem no limit (30/60) - 2025/10/27 14:16:04 UTC
+Table: 'Expresso(1010051371)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (287)
+Seat 3: rude_933742 (1213)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+rude_933742 posts big blind 60
+Dealt to MathisKcr [4s Jh]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+rude_933742 raises 60 to 120
+MathisKcr calls 60
+*** FLOP *** [6h 8d Qs]
+rude_933742 checks
+MathisKcr bets 167 and is all-in
+rude_933742 calls 167
+*** TURN *** [6h 8d Qs][3d]
+*** RIVER *** [6h 8d Qs 3d][2d]
+*** SHOW DOWN ***
+MathisKcr shows [4s Jh] (High card : Queen)
+rude_933742 shows [Qc Kh] (One pair : Queens)
+rude_933742 collected 574 from pot
+*** SUMMARY ***
+Total pot 574 | No rake
+Board: [6h 8d Qs 3d 2d]
+Seat 2: MathisKcr (small blind) (button) showed [4s Jh] and lost with High card : Queen
+Seat 3: rude_933742 (big blind) showed [Qc Kh] and won 574 with One pair : Queens
+
+

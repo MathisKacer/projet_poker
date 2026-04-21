@@ -1,0 +1,96 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606335172076371969-1-1772568908 - Holdem no limit (10/20) - 2026/03/03 20:15:08 UTC
+Table: 'Expresso Nitro(1072495983)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Logy13450 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Alexxx233 (300)
+*** ANTE/BLINDS ***
+Alexxx233 posts small blind 10
+Logy13450 posts big blind 20
+Dealt to MathisKcr [9h 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Alexxx233 calls 10
+Logy13450 checks
+*** FLOP *** [9c 7d 4d]
+Alexxx233 checks
+Logy13450 checks
+*** TURN *** [9c 7d 4d][8d]
+Alexxx233 checks
+Logy13450 checks
+*** RIVER *** [9c 7d 4d 8d][5h]
+Alexxx233 checks
+Logy13450 checks
+*** SHOW DOWN ***
+Logy13450 shows [Qs Ts] (High card : Queen)
+Alexxx233 shows [Ks 2d] (High card : King)
+Alexxx233 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [9c 7d 4d 8d 5h]
+Seat 1: Logy13450 (big blind) showed [Qs Ts] and lost with High card : Queen
+Seat 3: Alexxx233 (small blind) showed [Ks 2d] and won 40 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606335172076371969-2-1772568935 - Holdem no limit (10/20) - 2026/03/03 20:15:35 UTC
+Table: 'Expresso Nitro(1072495983)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Logy13450 (280)
+Seat 2: MathisKcr (300)
+Seat 3: Alexxx233 (320)
+*** ANTE/BLINDS ***
+Logy13450 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qc 9s]
+*** PRE-FLOP *** 
+Alexxx233 calls 20
+Logy13450 calls 10
+MathisKcr raises 20 to 40
+Alexxx233 calls 20
+Logy13450 calls 20
+*** FLOP *** [3d 5d Ac]
+Logy13450 bets 240 and is all-in
+MathisKcr folds
+Alexxx233 calls 240
+*** TURN *** [3d 5d Ac][9c]
+*** RIVER *** [3d 5d Ac 9c][Ah]
+*** SHOW DOWN ***
+Alexxx233 shows [2c Jh] (One pair : Aces)
+Logy13450 shows [2s As] (Trips of Aces)
+Logy13450 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [3d 5d Ac 9c Ah]
+Seat 1: Logy13450 (small blind) showed [2s As] and won 600 with Trips of Aces
+Seat 3: Alexxx233 (button) showed [2c Jh] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606335172076371969-3-1772568966 - Holdem no limit (15/30) - 2026/03/03 20:16:06 UTC
+Table: 'Expresso Nitro(1072495983)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Logy13450 (600)
+Seat 2: MathisKcr (260)
+Seat 3: Alexxx233 (40)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Alexxx233 posts big blind 30
+Dealt to MathisKcr [Ks 9s]
+*** PRE-FLOP *** 
+Logy13450 calls 30
+MathisKcr raises 230 to 260 and is all-in
+Alexxx233 calls 10 and is all-in
+Logy13450 calls 230
+*** FLOP *** [5d 5s 4d]
+*** TURN *** [5d 5s 4d][3s]
+*** RIVER *** [5d 5s 4d 3s][7c]
+*** SHOW DOWN ***
+MathisKcr shows [Ks 9s] (One pair : 5)
+Logy13450 shows [4s Kd] (Two pairs : 5 and 4)
+Alexxx233 shows [6d Ts] (Straight 7 high)
+Alexxx233 collected 120 from main pot
+Logy13450 collected 440 from side pot 1
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [5d 5s 4d 3s 7c]
+Seat 1: Logy13450 (button) showed [4s Kd] and won 440 with Two pairs : 5 and 4
+Seat 2: MathisKcr (small blind) showed [Ks 9s] and lost with One pair : 5
+Seat 3: Alexxx233 (big blind) showed [6d Ts] and won 120 with Straight 7 high
+
+

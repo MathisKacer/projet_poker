@@ -1,0 +1,38 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #4295187533333004289-1-1759754547 - Holdem no limit (10/20) - 2025/10/06 12:42:27 UTC
+Table: 'Starting Block WiPT - Déglingos(1000051278)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Leptitpote29 (500)
+Seat 2: faritas54 (500)
+Seat 3: MathisKcr (500)
+Seat 4: JD60340 (500)
+Seat 5: RbAliSiA (500)
+Seat 6: Moscou-77 (500)
+*** ANTE/BLINDS ***
+Leptitpote29 posts small blind 10
+faritas54 posts big blind 20
+Dealt to MathisKcr [6h 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+JD60340 raises 460 to 500 and is all-in
+RbAliSiA calls 500 and is all-in
+Moscou-77 calls 500 and is all-in
+Leptitpote29 folds
+faritas54 folds
+MathisKcr calls 460 and is all-in
+*** FLOP *** [Ad 9s 3c]
+*** TURN *** [Ad 9s 3c][7c]
+*** RIVER *** [Ad 9s 3c 7c][2c]
+*** SHOW DOWN ***
+MathisKcr shows [6h 6c] (One pair : 6)
+RbAliSiA shows [6s Ks] (High card : Ace)
+Moscou-77 shows [7h 4c] (One pair : 7)
+JD60340 shows [Ac 8h] (One pair : Aces)
+JD60340 collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Board: [Ad 9s 3c 7c 2c]
+Seat 3: MathisKcr showed [6h 6c] and lost with One pair : 6
+Seat 4: JD60340 showed [Ac 8h] and won 2030 with One pair : Aces
+Seat 5: RbAliSiA showed [6s Ks] and lost with High card : Ace
+Seat 6: Moscou-77 (button) showed [7h 4c] and lost with One pair : 7
+
+

@@ -1,0 +1,169 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4591457371003289601-1-1771965678 - Holdem no limit (10/20) - 2026/02/24 20:41:18 UTC
+Table: 'Expresso Nitro(1069031975)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Carailho61 (300)
+Seat 3: Guig2513 (300)
+*** ANTE/BLINDS ***
+Guig2513 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2h Jd]
+*** PRE-FLOP *** 
+Carailho61 calls 20
+Guig2513 folds
+MathisKcr checks
+*** FLOP *** [Td 7c Kc]
+MathisKcr checks
+Carailho61 checks
+*** TURN *** [Td 7c Kc][9s]
+MathisKcr checks
+Carailho61 checks
+*** RIVER *** [Td 7c Kc 9s][Ts]
+MathisKcr checks
+Carailho61 checks
+*** SHOW DOWN ***
+Carailho61 shows [8s 5d] (One pair : Tens)
+MathisKcr shows [2h Jd] (One pair : Tens)
+MathisKcr collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [Td 7c Kc 9s Ts]
+Seat 1: MathisKcr (big blind) showed [2h Jd] and won 50 with One pair : Tens
+Seat 2: Carailho61 (button) showed [8s 5d] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4591457371003289601-2-1771965726 - Holdem no limit (10/20) - 2026/02/24 20:42:06 UTC
+Table: 'Expresso Nitro(1069031975)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (330)
+Seat 2: Carailho61 (280)
+Seat 3: Guig2513 (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Carailho61 posts big blind 20
+Dealt to MathisKcr [2s 3d]
+*** PRE-FLOP *** 
+Guig2513 folds
+MathisKcr raises 20 to 40
+Carailho61 calls 20
+*** FLOP *** [Qc As Jd]
+MathisKcr checks
+Carailho61 checks
+*** TURN *** [Qc As Jd][7s]
+MathisKcr checks
+Carailho61 checks
+*** RIVER *** [Qc As Jd 7s][Td]
+MathisKcr checks
+Carailho61 checks
+*** SHOW DOWN ***
+MathisKcr shows [2s 3d] (High card : Ace)
+Carailho61 shows [6h 2d] (High card : Ace)
+Carailho61 collected 40 from pot
+MathisKcr collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Qc As Jd 7s Td]
+Seat 1: MathisKcr (small blind) showed [2s 3d] and won 40 with High card : Ace
+Seat 2: Carailho61 (big blind) showed [6h 2d] and won 40 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4591457371003289601-3-1771965760 - Holdem no limit (15/30) - 2026/02/24 20:42:40 UTC
+Table: 'Expresso Nitro(1069031975)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (330)
+Seat 2: Carailho61 (280)
+Seat 3: Guig2513 (290)
+*** ANTE/BLINDS ***
+Carailho61 posts small blind 15
+Guig2513 posts big blind 30
+Dealt to MathisKcr [Qh 3d]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Carailho61 raises 30 to 90
+Guig2513 folds
+MathisKcr calls 30
+*** FLOP *** [7c 4d 6s]
+Carailho61 bets 74
+MathisKcr folds
+Carailho61 collected 284 from pot
+*** SUMMARY ***
+Total pot 284 | No rake
+Board: [7c 4d 6s]
+Seat 2: Carailho61 (small blind) won 284
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4591457371003289601-4-1771965796 - Holdem no limit (20/40) - 2026/02/24 20:43:16 UTC
+Table: 'Expresso Nitro(1069031975)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (240)
+Seat 2: Carailho61 (400)
+Seat 3: Guig2513 (260)
+*** ANTE/BLINDS ***
+Guig2513 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [2d 4s]
+*** PRE-FLOP *** 
+Carailho61 calls 40
+Guig2513 calls 20
+MathisKcr checks
+*** FLOP *** [6s Js Kh]
+Guig2513 checks
+MathisKcr checks
+Carailho61 checks
+*** TURN *** [6s Js Kh][8c]
+Guig2513 checks
+MathisKcr checks
+Carailho61 checks
+*** RIVER *** [6s Js Kh 8c][As]
+Guig2513 bets 40
+MathisKcr folds
+Carailho61 folds
+Guig2513 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [6s Js Kh 8c As]
+Seat 3: Guig2513 (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4591457371003289601-5-1771965843 - Holdem no limit (20/40) - 2026/02/24 20:44:03 UTC
+Table: 'Expresso Nitro(1069031975)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (200)
+Seat 2: Carailho61 (360)
+Seat 3: Guig2513 (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Carailho61 posts big blind 40
+Dealt to MathisKcr [6s Tc]
+*** PRE-FLOP *** 
+Guig2513 folds
+MathisKcr folds
+Carailho61 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Carailho61 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4591457371003289601-6-1771965853 - Holdem no limit (20/40) - 2026/02/24 20:44:13 UTC
+Table: 'Expresso Nitro(1069031975)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (180)
+Seat 2: Carailho61 (380)
+Seat 3: Guig2513 (340)
+*** ANTE/BLINDS ***
+Carailho61 posts small blind 20
+Guig2513 posts big blind 40
+Dealt to MathisKcr [Kc 4c]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Carailho61 raises 300 to 380 and is all-in
+Guig2513 folds
+MathisKcr calls 100 and is all-in
+*** FLOP *** [6c 8s 7c]
+*** TURN *** [6c 8s 7c][8d]
+*** RIVER *** [6c 8s 7c 8d][Jh]
+*** SHOW DOWN ***
+MathisKcr shows [Kc 4c] (One pair : 8)
+Carailho61 shows [Jd Js] (Full of Jacks and 8)
+Carailho61 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6c 8s 7c 8d Jh]
+Seat 1: MathisKcr (button) showed [Kc 4c] and lost with One pair : 8
+Seat 2: Carailho61 (small blind) showed [Jd Js] and won 600 with Full of Jacks and 8
+
+

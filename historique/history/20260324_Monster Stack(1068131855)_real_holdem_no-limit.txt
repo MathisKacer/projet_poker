@@ -1,0 +1,1769 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-1-1774389610 - Holdem no limit (120/500/1000) - 2026/03/24 22:00:10 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #2 is the button
+Seat 2: segusiavi (100000)
+Seat 3: charly-85 (100000)
+Seat 4: SkininZeGame (100000)
+Seat 5: MathisKcr (100000)
+Seat 6: Azrael_74 (100000)
+*** ANTE/BLINDS ***
+charly-85 posts ante 120
+SkininZeGame posts ante 120
+segusiavi posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+charly-85 posts small blind 500
+SkininZeGame posts big blind 1000
+Dealt to MathisKcr [9h 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Azrael_74 raises 98880 to 99880 and is all-in
+segusiavi folds
+charly-85 folds
+SkininZeGame folds
+Azrael_74 collected 101980 from pot
+*** SUMMARY ***
+Total pot 101980 | No rake
+Seat 6: Azrael_74 won 101980
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-2-1774389662 - Holdem no limit (120/500/1000) - 2026/03/24 22:01:02 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #3 is the button
+Seat 2: segusiavi (99880)
+Seat 3: charly-85 (99380)
+Seat 4: SkininZeGame (98880)
+Seat 5: MathisKcr (99880)
+Seat 6: Azrael_74 (101980)
+*** ANTE/BLINDS ***
+SkininZeGame posts ante 120
+MathisKcr posts ante 120
+segusiavi posts ante 120
+charly-85 posts ante 120
+Azrael_74 posts ante 120
+SkininZeGame posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [4d 9s]
+*** PRE-FLOP *** 
+Azrael_74 folds
+segusiavi folds
+charly-85 calls 1000
+SkininZeGame folds
+MathisKcr checks
+*** FLOP *** [4s 3c 2s]
+MathisKcr checks
+charly-85 checks
+*** TURN *** [4s 3c 2s][6c]
+MathisKcr bets 1585
+charly-85 folds
+MathisKcr collected 4685 from pot
+*** SUMMARY ***
+Total pot 4685 | No rake
+Board: [4s 3c 2s 6c]
+Seat 5: MathisKcr (big blind) won 4685
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-3-1774389700 - Holdem no limit (120/500/1000) - 2026/03/24 22:01:40 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #4 is the button
+Seat 2: segusiavi (99760)
+Seat 3: charly-85 (98260)
+Seat 4: SkininZeGame (98260)
+Seat 5: MathisKcr (101860)
+Seat 6: Azrael_74 (101860)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+segusiavi posts ante 120
+charly-85 posts ante 120
+SkininZeGame posts ante 120
+MathisKcr posts small blind 500
+Azrael_74 posts big blind 1000
+Dealt to MathisKcr [Ah Jd]
+*** PRE-FLOP *** 
+segusiavi folds
+charly-85 calls 1000
+SkininZeGame folds
+MathisKcr raises 2000 to 3000
+Azrael_74 calls 2000
+charly-85 calls 2000
+*** FLOP *** [Jh 8s 6s]
+MathisKcr checks
+Azrael_74 checks
+charly-85 checks
+*** TURN *** [Jh 8s 6s][7c]
+MathisKcr bets 3360
+Azrael_74 folds
+charly-85 folds
+MathisKcr collected 12960 from pot
+*** SUMMARY ***
+Total pot 12960 | No rake
+Board: [Jh 8s 6s 7c]
+Seat 5: MathisKcr (small blind) won 12960
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-4-1774389745 - Holdem no limit (120/500/1000) - 2026/03/24 22:02:25 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #5 is the button
+Seat 2: segusiavi (99640)
+Seat 3: charly-85 (95140)
+Seat 4: SkininZeGame (98140)
+Seat 5: MathisKcr (108340)
+Seat 6: Azrael_74 (98740)
+*** ANTE/BLINDS ***
+Azrael_74 posts ante 120
+segusiavi posts ante 120
+charly-85 posts ante 120
+SkininZeGame posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts small blind 500
+segusiavi posts big blind 1000
+Dealt to MathisKcr [Kd 3s]
+*** PRE-FLOP *** 
+charly-85 calls 1000
+SkininZeGame folds
+MathisKcr raises 1000 to 2000
+Azrael_74 folds
+segusiavi folds
+charly-85 calls 1000
+*** FLOP *** [7c 6s Ah]
+charly-85 checks
+MathisKcr bets 2135
+charly-85 calls 2135
+*** TURN *** [7c 6s Ah][8c]
+charly-85 bets 3629
+MathisKcr folds
+charly-85 collected 13999 from pot
+*** SUMMARY ***
+Total pot 13999 | No rake
+Board: [7c 6s Ah 8c]
+Seat 3: charly-85 won 13999
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-5-1774389824 - Holdem no limit (120/500/1000) - 2026/03/24 22:03:44 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #6 is the button
+Seat 1: Quelo.46 (100000)
+Seat 2: segusiavi (98520)
+Seat 5: MathisKcr (104085)
+Seat 6: Azrael_74 (98120)
+*** ANTE/BLINDS ***
+segusiavi posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+segusiavi posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [Ts 9s]
+*** PRE-FLOP *** 
+Azrael_74 raises 1000 to 2000
+segusiavi folds
+MathisKcr calls 1000
+*** FLOP *** [7h 7c 6h]
+MathisKcr checks
+Azrael_74 checks
+*** TURN *** [7h 7c 6h][As]
+MathisKcr bets 1701
+Azrael_74 calls 1701
+*** RIVER *** [7h 7c 6h As][Kd]
+MathisKcr bets 5500
+Azrael_74 folds
+MathisKcr collected 13762 from pot
+*** SUMMARY ***
+Total pot 13762 | No rake
+Board: [7h 7c 6h As Kd]
+Seat 5: MathisKcr (big blind) won 13762
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-6-1774389872 - Holdem no limit (120/500/1000) - 2026/03/24 22:04:32 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #2 is the button
+Seat 1: Quelo.46 (100000)
+Seat 2: segusiavi (97900)
+Seat 4: CamGab (12380)
+Seat 5: MathisKcr (108526)
+Seat 6: Azrael_74 (94299)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+MathisKcr posts small blind 500
+Azrael_74 posts big blind 1000
+Dealt to MathisKcr [Js 6s]
+*** PRE-FLOP *** 
+Quelo.46 calls 1000
+segusiavi folds
+MathisKcr calls 500
+Azrael_74 checks
+*** FLOP *** [4s Kh 3s]
+MathisKcr bets 1218
+Azrael_74 calls 1218
+Quelo.46 calls 1218
+*** TURN *** [4s Kh 3s][7s]
+MathisKcr bets 2000
+Azrael_74 calls 2000
+Quelo.46 calls 2000
+*** RIVER *** [4s Kh 3s 7s][7d]
+MathisKcr bets 4000
+Azrael_74 raises 4000 to 8000
+Quelo.46 folds
+MathisKcr calls 4000
+*** SHOW DOWN ***
+Azrael_74 shows [6h 5c] (Straight 7 high)
+MathisKcr shows [Js 6s] (Flush Jack high)
+MathisKcr collected 29134 from pot
+*** SUMMARY ***
+Total pot 29134 | No rake
+Board: [4s Kh 3s 7s 7d]
+Seat 5: MathisKcr (small blind) showed [Js 6s] and won 29134 with Flush Jack high
+Seat 6: Azrael_74 (big blind) showed [6h 5c] and lost with Straight 7 high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-7-1774389927 - Holdem no limit (120/500/1000) - 2026/03/24 22:05:27 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #5 is the button
+Seat 1: Quelo.46 (95662)
+Seat 2: segusiavi (97780)
+Seat 4: CamGab (12380)
+Seat 5: MathisKcr (125322)
+Seat 6: Azrael_74 (81961)
+*** ANTE/BLINDS ***
+Azrael_74 posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+CamGab posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts small blind 500
+Quelo.46 posts big blind 1000
+Dealt to MathisKcr [3d 8d]
+*** PRE-FLOP *** 
+segusiavi folds
+CamGab raises 11260 to 12260 and is all-in
+MathisKcr folds
+Azrael_74 calls 11760
+Quelo.46 folds
+*** FLOP *** [7s 9c Td]
+*** TURN *** [7s 9c Td][9h]
+*** RIVER *** [7s 9c Td 9h][Qd]
+*** SHOW DOWN ***
+CamGab shows [Ad 9s] (Trips of 9)
+Azrael_74 shows [Qs Qc] (Full of Queens and 9)
+Azrael_74 collected 26120 from pot
+*** SUMMARY ***
+Total pot 26120 | No rake
+Board: [7s 9c Td 9h Qd]
+Seat 4: CamGab showed [Ad 9s] and lost with Trips of 9
+Seat 6: Azrael_74 (small blind) showed [Qs Qc] and won 26120 with Full of Queens and 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-8-1774389947 - Holdem no limit (120/500/1000) - 2026/03/24 22:05:47 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #6 is the button
+Seat 1: Quelo.46 (94542)
+Seat 2: segusiavi (97660)
+Seat 5: MathisKcr (125202)
+Seat 6: Azrael_74 (95701)
+*** ANTE/BLINDS ***
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+Quelo.46 posts small blind 500
+segusiavi posts big blind 1000
+Dealt to MathisKcr [6d 6h]
+*** PRE-FLOP *** 
+MathisKcr raises 2000 to 3000
+Azrael_74 folds
+Quelo.46 folds
+segusiavi calls 2000
+*** FLOP *** [3d 8c 9d]
+segusiavi checks
+MathisKcr bets 2443
+segusiavi calls 2443
+*** TURN *** [3d 8c 9d][3c]
+segusiavi checks
+MathisKcr checks
+*** RIVER *** [3d 8c 9d 3c][7h]
+segusiavi checks
+MathisKcr checks
+*** SHOW DOWN ***
+segusiavi shows [Ac Tc] (One pair : 3)
+MathisKcr shows [6d 6h] (Two pairs : 6 and 3)
+MathisKcr collected 11866 from pot
+*** SUMMARY ***
+Total pot 11866 | No rake
+Board: [3d 8c 9d 3c 7h]
+Seat 2: segusiavi (big blind) showed [Ac Tc] and lost with One pair : 3
+Seat 5: MathisKcr showed [6d 6h] and won 11866 with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-9-1774390012 - Holdem no limit (120/500/1000) - 2026/03/24 22:06:52 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #1 is the button
+Seat 1: Quelo.46 (93922)
+Seat 2: segusiavi (92097)
+Seat 3: CamGab (100000)
+Seat 5: MathisKcr (131505)
+Seat 6: Azrael_74 (95581)
+*** ANTE/BLINDS ***
+segusiavi posts ante 120
+CamGab posts ante 120
+Quelo.46 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+segusiavi posts small blind 500
+CamGab posts big blind 1000
+Dealt to MathisKcr [3s 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Azrael_74 folds
+Quelo.46 calls 1000
+segusiavi folds
+CamGab checks
+*** FLOP *** [Kh Qs Qc]
+CamGab checks
+Quelo.46 bets 1000
+CamGab calls 1000
+*** TURN *** [Kh Qs Qc][8s]
+CamGab checks
+Quelo.46 checks
+*** RIVER *** [Kh Qs Qc 8s][Kd]
+CamGab checks
+Quelo.46 bets 91802 and is all-in
+CamGab folds
+Quelo.46 collected 96902 from pot
+*** SUMMARY ***
+Total pot 96902 | No rake
+Board: [Kh Qs Qc 8s Kd]
+Seat 1: Quelo.46 (button) won 96902
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-10-1774390049 - Holdem no limit (120/500/1000) - 2026/03/24 22:07:29 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #2 is the button
+Seat 1: Quelo.46 (96902)
+Seat 2: segusiavi (91477)
+Seat 3: CamGab (97880)
+Seat 5: MathisKcr (131385)
+Seat 6: Azrael_74 (95461)
+*** ANTE/BLINDS ***
+CamGab posts ante 120
+MathisKcr posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+Azrael_74 posts ante 120
+CamGab posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [4h 7c]
+*** PRE-FLOP *** 
+Azrael_74 folds
+Quelo.46 calls 1000
+segusiavi folds
+CamGab calls 500
+MathisKcr checks
+*** FLOP *** [Kc Ad 9s]
+CamGab checks
+MathisKcr checks
+Quelo.46 checks
+*** TURN *** [Kc Ad 9s][9h]
+CamGab bets 1000
+MathisKcr folds
+Quelo.46 calls 1000
+*** RIVER *** [Kc Ad 9s 9h][4d]
+CamGab bets 1960
+Quelo.46 raises 1960 to 3920
+CamGab calls 1960
+*** SHOW DOWN ***
+CamGab shows [6s Ah] (Two pairs : Aces and 9)
+Quelo.46 shows [9d As] (Full of 9 and Aces)
+Quelo.46 collected 13440 from pot
+*** SUMMARY ***
+Total pot 13440 | No rake
+Board: [Kc Ad 9s 9h 4d]
+Seat 1: Quelo.46 showed [9d As] and won 13440 with Full of 9 and Aces
+Seat 3: CamGab (small blind) showed [6s Ah] and lost with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-11-1774390104 - Holdem no limit (120/500/1000) - 2026/03/24 22:08:24 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #3 is the button
+Seat 1: Quelo.46 (104302)
+Seat 2: segusiavi (91357)
+Seat 3: CamGab (91840)
+Seat 5: MathisKcr (130265)
+Seat 6: Azrael_74 (95341)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+CamGab posts ante 120
+MathisKcr posts small blind 500
+Azrael_74 posts big blind 1000
+Dealt to MathisKcr [Qd 9c]
+*** PRE-FLOP *** 
+Quelo.46 calls 1000
+segusiavi folds
+CamGab raises 3500 to 4500
+MathisKcr folds
+Azrael_74 raises 9000 to 13500
+Quelo.46 folds
+CamGab calls 9000
+*** FLOP *** [9h 4s 7d]
+Azrael_74 bets 18915
+CamGab folds
+Azrael_74 collected 48015 from pot
+*** SUMMARY ***
+Total pot 48015 | No rake
+Board: [9h 4s 7d]
+Seat 6: Azrael_74 (big blind) won 48015
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-12-1774390157 - Holdem no limit (120/500/1000) - 2026/03/24 22:09:17 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #5 is the button
+Seat 1: Quelo.46 (103182)
+Seat 2: segusiavi (91237)
+Seat 3: CamGab (78220)
+Seat 5: MathisKcr (129645)
+Seat 6: Azrael_74 (110821)
+*** ANTE/BLINDS ***
+Azrael_74 posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+CamGab posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts small blind 500
+Quelo.46 posts big blind 1000
+Dealt to MathisKcr [Kh 3d]
+*** PRE-FLOP *** 
+segusiavi folds
+CamGab folds
+MathisKcr raises 2000 to 3000
+Azrael_74 folds
+Quelo.46 calls 2000
+*** FLOP *** [4c 7c Kc]
+Quelo.46 checks
+MathisKcr bets 2485
+Quelo.46 calls 2485
+*** TURN *** [4c 7c Kc][9s]
+Quelo.46 checks
+MathisKcr bets 4225
+Quelo.46 calls 4225
+*** RIVER *** [4c 7c Kc 9s][6d]
+Quelo.46 bets 93352 and is all-in
+MathisKcr folds
+Quelo.46 collected 113872 from pot
+*** SUMMARY ***
+Total pot 113872 | No rake
+Board: [4c 7c Kc 9s 6d]
+Seat 1: Quelo.46 (big blind) won 113872
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-13-1774390209 - Holdem no limit (120/500/1000) - 2026/03/24 22:10:09 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #6 is the button
+Seat 1: Quelo.46 (113872)
+Seat 2: segusiavi (91117)
+Seat 3: CamGab (78100)
+Seat 4: Rosque1 (100000)
+Seat 5: MathisKcr (119815)
+Seat 6: Azrael_74 (110201)
+*** ANTE/BLINDS ***
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+CamGab posts ante 120
+Rosque1 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+Quelo.46 posts small blind 500
+segusiavi posts big blind 1000
+Dealt to MathisKcr [8s 6c]
+*** PRE-FLOP *** 
+CamGab folds
+Rosque1 raises 1000 to 2000
+MathisKcr folds
+Azrael_74 folds
+Quelo.46 calls 1500
+segusiavi calls 1000
+*** FLOP *** [Jd 3h Tc]
+Quelo.46 checks
+segusiavi checks
+Rosque1 checks
+*** TURN *** [Jd 3h Tc][3c]
+Quelo.46 checks
+segusiavi bets 2000
+Rosque1 raises 6268 to 8268
+Quelo.46 folds
+segusiavi calls 6268
+*** RIVER *** [Jd 3h Tc 3c][4s]
+segusiavi checks
+Rosque1 bets 15116
+segusiavi folds
+Rosque1 collected 38372 from pot
+*** SUMMARY ***
+Total pot 38372 | No rake
+Board: [Jd 3h Tc 3c 4s]
+Seat 4: Rosque1 won 38372
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-14-1774390297 - Holdem no limit (120/500/1000) - 2026/03/24 22:11:37 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #1 is the button
+Seat 1: Quelo.46 (111752)
+Seat 2: segusiavi (80729)
+Seat 3: CamGab (77980)
+Seat 5: MathisKcr (119695)
+Seat 6: Azrael_74 (110081)
+*** ANTE/BLINDS ***
+segusiavi posts ante 120
+CamGab posts ante 120
+Quelo.46 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+segusiavi posts small blind 500
+CamGab posts big blind 1000
+Dealt to MathisKcr [3d Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 1000 to 2000
+Azrael_74 folds
+Quelo.46 calls 2000
+segusiavi folds
+CamGab calls 1000
+*** FLOP *** [2d 5c 5s]
+CamGab checks
+MathisKcr checks
+Quelo.46 bets 1000
+CamGab folds
+MathisKcr calls 1000
+*** TURN *** [2d 5c 5s][2c]
+MathisKcr checks
+Quelo.46 bets 1000
+MathisKcr calls 1000
+*** RIVER *** [2d 5c 5s 2c][6s]
+MathisKcr bets 3000
+Quelo.46 folds
+MathisKcr collected 14100 from pot
+*** SUMMARY ***
+Total pot 14100 | No rake
+Board: [2d 5c 5s 2c 6s]
+Seat 5: MathisKcr won 14100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-15-1774390377 - Holdem no limit (120/500/1000) - 2026/03/24 22:12:57 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #2 is the button
+Seat 1: Quelo.46 (107632)
+Seat 2: segusiavi (80109)
+Seat 3: CamGab (75860)
+Seat 4: Chechin777 (100000)
+Seat 5: MathisKcr (126675)
+Seat 6: Azrael_74 (109961)
+*** ANTE/BLINDS ***
+CamGab posts ante 120
+Chechin777 posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+CamGab posts small blind 500
+Chechin777 posts big blind 1000
+Dealt to MathisKcr [4c Jh]
+*** PRE-FLOP *** 
+MathisKcr folds
+Azrael_74 folds
+Quelo.46 calls 1000
+segusiavi folds
+CamGab calls 500
+Chechin777 checks
+*** FLOP *** [9d 2d 4h]
+CamGab checks
+Chechin777 checks
+Quelo.46 checks
+*** TURN *** [9d 2d 4h][Tc]
+CamGab checks
+Chechin777 checks
+Quelo.46 checks
+*** RIVER *** [9d 2d 4h Tc][6c]
+CamGab bets 1860
+Chechin777 folds
+Quelo.46 folds
+CamGab collected 5580 from pot
+*** SUMMARY ***
+Total pot 5580 | No rake
+Board: [9d 2d 4h Tc 6c]
+Seat 3: CamGab (small blind) won 5580
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-16-1774390426 - Holdem no limit (120/500/1000) - 2026/03/24 22:13:46 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #3 is the button
+Seat 1: Quelo.46 (106512)
+Seat 2: segusiavi (79989)
+Seat 3: CamGab (78460)
+Seat 4: Chechin777 (98880)
+Seat 5: MathisKcr (126555)
+Seat 6: Azrael_74 (109841)
+*** ANTE/BLINDS ***
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+CamGab posts ante 120
+Azrael_74 posts ante 120
+Chechin777 posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [Jc 6c]
+*** PRE-FLOP *** 
+Azrael_74 folds
+Quelo.46 calls 1000
+segusiavi folds
+CamGab folds
+Chechin777 raises 1500 to 2500
+MathisKcr calls 1500
+Quelo.46 calls 1500
+*** FLOP *** [3d 4s 8c]
+Chechin777 checks
+MathisKcr bets 2000
+Quelo.46 folds
+Chechin777 calls 2000
+*** TURN *** [3d 4s 8c][9s]
+Chechin777 checks
+MathisKcr bets 6110
+Chechin777 folds
+MathisKcr collected 18330 from pot
+*** SUMMARY ***
+Total pot 18330 | No rake
+Board: [3d 4s 8c 9s]
+Seat 5: MathisKcr (big blind) won 18330
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-17-1774390485 - Holdem no limit (120/500/1000) - 2026/03/24 22:14:45 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #4 is the button
+Seat 1: Quelo.46 (103892)
+Seat 2: segusiavi (79869)
+Seat 3: CamGab (78340)
+Seat 4: Chechin777 (94260)
+Seat 5: MathisKcr (134155)
+Seat 6: Azrael_74 (109721)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+CamGab posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts small blind 500
+Azrael_74 posts big blind 1000
+Dealt to MathisKcr [Jd Qd]
+*** PRE-FLOP *** 
+Quelo.46 calls 1000
+segusiavi calls 1000
+CamGab calls 1000
+Chechin777 folds
+MathisKcr raises 2000 to 3000
+Azrael_74 folds
+Quelo.46 raises 2000 to 5000
+segusiavi folds
+CamGab calls 4000
+MathisKcr calls 2000
+*** FLOP *** [9h 2s 9s]
+MathisKcr checks
+Quelo.46 bets 98772 and is all-in
+CamGab folds
+MathisKcr folds
+Quelo.46 collected 116492 from pot
+*** SUMMARY ***
+Total pot 116492 | No rake
+Board: [9h 2s 9s]
+Seat 1: Quelo.46 won 116492
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-18-1774390518 - Holdem no limit (120/500/1000) - 2026/03/24 22:15:18 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #5 is the button
+Seat 1: Quelo.46 (116492)
+Seat 2: segusiavi (78749)
+Seat 3: CamGab (73220)
+Seat 4: Chechin777 (94140)
+Seat 5: MathisKcr (129035)
+Seat 6: Azrael_74 (108601)
+*** ANTE/BLINDS ***
+Azrael_74 posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+CamGab posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts small blind 500
+Quelo.46 posts big blind 1000
+Dealt to MathisKcr [3d 3h]
+*** PRE-FLOP *** 
+segusiavi raises 1250 to 2250
+CamGab folds
+Chechin777 raises 5250 to 7500
+MathisKcr folds
+Azrael_74 folds
+Quelo.46 raises 5250 to 12750
+segusiavi folds
+Chechin777 calls 5250
+*** FLOP *** [Jd Kh 6c]
+Quelo.46 checks
+Chechin777 bets 8000
+Quelo.46 calls 8000
+*** TURN *** [Jd Kh 6c][7d]
+Quelo.46 checks
+Chechin777 checks
+*** RIVER *** [Jd Kh 6c 7d][9c]
+Quelo.46 bets 15739
+Chechin777 calls 15739
+*** SHOW DOWN ***
+Chechin777 shows [Qc Qd] (One pair : Queens)
+Quelo.46 shows [Ks Kd] (Trips of Kings)
+Quelo.46 collected 76448 from pot
+*** SUMMARY ***
+Total pot 76448 | No rake
+Board: [Jd Kh 6c 7d 9c]
+Seat 1: Quelo.46 (big blind) showed [Ks Kd] and won 76448 with Trips of Kings
+Seat 4: Chechin777 showed [Qc Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-19-1774390618 - Holdem no limit (120/500/1000) - 2026/03/24 22:16:58 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #6 is the button
+Seat 1: Quelo.46 (156331)
+Seat 2: segusiavi (76379)
+Seat 3: CamGab (73100)
+Seat 4: Chechin777 (57531)
+Seat 5: MathisKcr (128915)
+Seat 6: Azrael_74 (107981)
+*** ANTE/BLINDS ***
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+CamGab posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+Quelo.46 posts small blind 500
+segusiavi posts big blind 1000
+Dealt to MathisKcr [2c 9d]
+*** PRE-FLOP *** 
+CamGab folds
+Chechin777 folds
+MathisKcr folds
+Azrael_74 folds
+Quelo.46 calls 500
+segusiavi checks
+*** FLOP *** [9c Kh 9s]
+Quelo.46 checks
+segusiavi checks
+*** TURN *** [9c Kh 9s][Jh]
+Quelo.46 bets 1000
+segusiavi calls 1000
+*** RIVER *** [9c Kh 9s Jh][Kd]
+Quelo.46 checks
+segusiavi checks
+*** SHOW DOWN ***
+segusiavi shows [Jc 4c] (Two pairs : Kings and Jacks)
+Quelo.46 shows [Td 9h] (Full of 9 and Kings)
+Quelo.46 collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Board: [9c Kh 9s Jh Kd]
+Seat 1: Quelo.46 (small blind) showed [Td 9h] and won 4720 with Full of 9 and Kings
+Seat 2: segusiavi (big blind) showed [Jc 4c] and lost with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-20-1774390686 - Holdem no limit (120/500/1000) - 2026/03/24 22:18:06 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #1 is the button
+Seat 1: Quelo.46 (158931)
+Seat 2: segusiavi (74259)
+Seat 3: CamGab (72980)
+Seat 4: Chechin777 (57411)
+Seat 5: MathisKcr (128795)
+Seat 6: Azrael_74 (107861)
+*** ANTE/BLINDS ***
+segusiavi posts ante 120
+CamGab posts ante 120
+Quelo.46 posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+segusiavi posts small blind 500
+CamGab posts big blind 1000
+Dealt to MathisKcr [3c 4d]
+*** PRE-FLOP *** 
+Chechin777 raises 1000 to 2000
+MathisKcr folds
+Azrael_74 folds
+Quelo.46 calls 2000
+segusiavi folds
+CamGab calls 1000
+*** FLOP *** [Ac 7s Qh]
+CamGab checks
+Chechin777 bets 2527
+Quelo.46 raises 12274 to 14801
+CamGab folds
+Chechin777 calls 12274
+*** TURN *** [Ac 7s Qh][Ks]
+Chechin777 bets 18411
+Quelo.46 raises 41425 to 59836
+Chechin777 calls 22079 and is all-in
+*** RIVER *** [Ac 7s Qh Ks][4c]
+*** SHOW DOWN ***
+Quelo.46 shows [7d 7c] (Trips of 7)
+Chechin777 shows [As Ah] (Trips of Aces)
+Chechin777 collected 117802 from main pot
+Quelo.46 collected 19346 from side pot 1
+*** SUMMARY ***
+Total pot 137148 | No rake
+Board: [Ac 7s Qh Ks 4c]
+Seat 1: Quelo.46 (button) showed [7d 7c] and won 19346 with Trips of 7
+Seat 4: Chechin777 showed [As Ah] and won 117802 with Trips of Aces
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-21-1774390784 - Holdem no limit (120/500/1000) - 2026/03/24 22:19:44 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #2 is the button
+Seat 1: Quelo.46 (101520)
+Seat 2: segusiavi (73639)
+Seat 3: CamGab (70860)
+Seat 4: Chechin777 (117802)
+Seat 5: MathisKcr (128675)
+Seat 6: Azrael_74 (107741)
+*** ANTE/BLINDS ***
+CamGab posts ante 120
+Chechin777 posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+CamGab posts small blind 500
+Chechin777 posts big blind 1000
+Dealt to MathisKcr [3s 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Azrael_74 raises 1500 to 2500
+Quelo.46 calls 2500
+segusiavi folds
+CamGab folds
+Chechin777 folds
+*** FLOP *** [6d 4h Qc]
+Azrael_74 checks
+Quelo.46 checks
+*** TURN *** [6d 4h Qc][8c]
+Azrael_74 checks
+Quelo.46 checks
+*** RIVER *** [6d 4h Qc 8c][2c]
+Azrael_74 checks
+Quelo.46 bets 1000
+Azrael_74 folds
+Quelo.46 collected 8220 from pot
+*** SUMMARY ***
+Total pot 8220 | No rake
+Board: [6d 4h Qc 8c 2c]
+Seat 1: Quelo.46 won 8220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-22-1774390838 - Holdem no limit (120/500/1000) - 2026/03/24 22:20:38 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #3 is the button
+Seat 1: Quelo.46 (106120)
+Seat 2: segusiavi (73519)
+Seat 3: CamGab (70240)
+Seat 4: Chechin777 (116682)
+Seat 5: MathisKcr (128555)
+Seat 6: Azrael_74 (105121)
+*** ANTE/BLINDS ***
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+CamGab posts ante 120
+Azrael_74 posts ante 120
+Chechin777 posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [Qh 9h]
+*** PRE-FLOP *** 
+Azrael_74 folds
+Quelo.46 calls 1000
+segusiavi folds
+CamGab folds
+Chechin777 folds
+MathisKcr checks
+*** FLOP *** [5s 9c Kh]
+MathisKcr bets 2000
+Quelo.46 calls 2000
+*** TURN *** [5s 9c Kh][4s]
+MathisKcr bets 2000
+Quelo.46 calls 2000
+*** RIVER *** [5s 9c Kh 4s][8h]
+MathisKcr bets 5610
+Quelo.46 raises 5610 to 11220
+MathisKcr calls 5610
+*** SHOW DOWN ***
+MathisKcr shows [Qh 9h] (One pair : 9)
+Quelo.46 shows [8c 5c] (Two pairs : 8 and 5)
+Quelo.46 collected 33660 from pot
+*** SUMMARY ***
+Total pot 33660 | No rake
+Board: [5s 9c Kh 4s 8h]
+Seat 1: Quelo.46 showed [8c 5c] and won 33660 with Two pairs : 8 and 5
+Seat 5: MathisKcr (big blind) showed [Qh 9h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-23-1774390945 - Holdem no limit (120/500/1000) - 2026/03/24 22:22:25 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #4 is the button
+Seat 1: Quelo.46 (123440)
+Seat 2: segusiavi (73399)
+Seat 3: CamGab (70120)
+Seat 4: Chechin777 (116062)
+Seat 5: MathisKcr (112215)
+Seat 6: Azrael_74 (105001)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+Quelo.46 posts ante 120
+segusiavi posts ante 120
+CamGab posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts small blind 500
+Azrael_74 posts big blind 1000
+Dealt to MathisKcr [8h 5d]
+*** PRE-FLOP *** 
+Quelo.46 calls 1000
+segusiavi folds
+CamGab calls 1000
+Chechin777 folds
+MathisKcr calls 500
+Azrael_74 checks
+*** FLOP *** [Tc Ks 9h]
+MathisKcr checks
+Azrael_74 checks
+Quelo.46 checks
+CamGab checks
+*** TURN *** [Tc Ks 9h][3h]
+MathisKcr checks
+Azrael_74 checks
+Quelo.46 bets 1000
+CamGab calls 1000
+MathisKcr folds
+Azrael_74 folds
+*** RIVER *** [Tc Ks 9h 3h][4c]
+Quelo.46 bets 4368
+CamGab folds
+Quelo.46 collected 11088 from pot
+*** SUMMARY ***
+Total pot 11088 | No rake
+Board: [Tc Ks 9h 3h 4c]
+Seat 1: Quelo.46 won 11088
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-24-1774391028 - Holdem no limit (120/500/1000) - 2026/03/24 22:23:48 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #5 is the button
+Seat 1: Quelo.46 (128040)
+Seat 3: CamGab (68000)
+Seat 4: Chechin777 (115942)
+Seat 5: MathisKcr (111095)
+Seat 6: Azrael_74 (103881)
+*** ANTE/BLINDS ***
+Azrael_74 posts ante 120
+Quelo.46 posts ante 120
+CamGab posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts small blind 500
+Quelo.46 posts big blind 1000
+Dealt to MathisKcr [2h Kd]
+*** PRE-FLOP *** 
+CamGab folds
+Chechin777 folds
+MathisKcr raises 1000 to 2000
+Azrael_74 folds
+Quelo.46 raises 4000 to 6000
+MathisKcr folds
+Quelo.46 collected 9100 from pot
+*** SUMMARY ***
+Total pot 9100 | No rake
+Seat 1: Quelo.46 (big blind) won 9100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-25-1774391056 - Holdem no limit (120/500/1000) - 2026/03/24 22:24:16 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #6 is the button
+Seat 1: Quelo.46 (131020)
+Seat 3: CamGab (67880)
+Seat 4: Chechin777 (115822)
+Seat 5: MathisKcr (108975)
+Seat 6: Azrael_74 (103261)
+*** ANTE/BLINDS ***
+Quelo.46 posts ante 120
+CamGab posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+Quelo.46 posts small blind 500
+CamGab posts big blind 1000
+Dealt to MathisKcr [5c Jh]
+*** PRE-FLOP *** 
+Chechin777 folds
+MathisKcr folds
+Azrael_74 folds
+Quelo.46 calls 500
+CamGab checks
+*** FLOP *** [Ac Td 4s]
+Quelo.46 checks
+CamGab checks
+*** TURN *** [Ac Td 4s][Qs]
+Quelo.46 checks
+CamGab checks
+*** RIVER *** [Ac Td 4s Qs][Ad]
+Quelo.46 checks
+CamGab checks
+*** SHOW DOWN ***
+CamGab shows [5s 2s] (One pair : Aces)
+Quelo.46 shows [6c Kh] (One pair : Aces)
+Quelo.46 collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [Ac Td 4s Qs Ad]
+Seat 1: Quelo.46 (small blind) showed [6c Kh] and won 2600 with One pair : Aces
+Seat 3: CamGab (big blind) showed [5s 2s] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-26-1774391111 - Holdem no limit (120/500/1000) - 2026/03/24 22:25:11 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #1 is the button
+Seat 1: Quelo.46 (132500)
+Seat 2: FM Titan551 (72480)
+Seat 3: CamGab (66760)
+Seat 4: Chechin777 (115702)
+Seat 5: MathisKcr (108855)
+Seat 6: Azrael_74 (103141)
+*** ANTE/BLINDS ***
+CamGab posts ante 120
+Chechin777 posts ante 120
+Quelo.46 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+CamGab posts small blind 500
+Chechin777 posts big blind 1000
+Dealt to MathisKcr [Ad 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 1000 to 2000
+Azrael_74 folds
+Quelo.46 folds
+CamGab folds
+Chechin777 folds
+MathisKcr collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Seat 5: MathisKcr won 4100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-27-1774391147 - Holdem no limit (120/500/1000) - 2026/03/24 22:25:47 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #3 is the button
+Seat 1: Quelo.46 (132380)
+Seat 2: FM Titan551 (72480)
+Seat 3: CamGab (66140)
+Seat 4: Chechin777 (114582)
+Seat 5: MathisKcr (110835)
+Seat 6: Azrael_74 (103021)
+*** ANTE/BLINDS ***
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Quelo.46 posts ante 120
+FM Titan551 posts ante 120
+CamGab posts ante 120
+Azrael_74 posts ante 120
+Chechin777 posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [7c 7s]
+*** PRE-FLOP *** 
+Azrael_74 folds
+Quelo.46 raises 1000 to 2000
+FM Titan551 calls 2000
+CamGab folds
+Chechin777 folds
+MathisKcr raises 4000 to 6000
+Quelo.46 calls 4000
+FM Titan551 folds
+*** FLOP *** [2h 4c Jh]
+MathisKcr bets 5327
+Quelo.46 raises 120933 to 126260 and is all-in
+MathisKcr folds
+Quelo.46 collected 146807 from pot
+*** SUMMARY ***
+Total pot 146807 | No rake
+Board: [2h 4c Jh]
+Seat 1: Quelo.46 won 146807
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-28-1774391200 - Holdem no limit (120/500/1000) - 2026/03/24 22:26:40 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #4 is the button
+Seat 1: Quelo.46 (146807)
+Seat 2: FM Titan551 (70360)
+Seat 3: CamGab (66020)
+Seat 4: Chechin777 (113962)
+Seat 5: MathisKcr (99388)
+Seat 6: Azrael_74 (102901)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+Quelo.46 posts ante 120
+FM Titan551 posts ante 120
+CamGab posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts small blind 500
+Azrael_74 posts big blind 1000
+Dealt to MathisKcr [4s 4c]
+*** PRE-FLOP *** 
+Quelo.46 calls 1000
+FM Titan551 calls 1000
+CamGab folds
+Chechin777 folds
+MathisKcr raises 2000 to 3000
+Azrael_74 calls 2000
+Quelo.46 folds
+FM Titan551 calls 2000
+*** FLOP *** [7c Qc Jh]
+MathisKcr bets 4000
+Azrael_74 folds
+FM Titan551 folds
+MathisKcr collected 14720 from pot
+*** SUMMARY ***
+Total pot 14720 | No rake
+Board: [7c Qc Jh]
+Seat 5: MathisKcr (small blind) won 14720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-29-1774391250 - Holdem no limit (120/500/1000) - 2026/03/24 22:27:30 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #5 is the button
+Seat 1: Quelo.46 (145687)
+Seat 2: FM Titan551 (67240)
+Seat 3: CamGab (65900)
+Seat 4: Chechin777 (113842)
+Seat 5: MathisKcr (106988)
+Seat 6: Azrael_74 (99781)
+*** ANTE/BLINDS ***
+Azrael_74 posts ante 120
+Quelo.46 posts ante 120
+FM Titan551 posts ante 120
+CamGab posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts small blind 500
+Quelo.46 posts big blind 1000
+Dealt to MathisKcr [Qc 6h]
+*** PRE-FLOP *** 
+FM Titan551 folds
+CamGab folds
+Chechin777 folds
+MathisKcr raises 1000 to 2000
+Azrael_74 calls 1500
+Quelo.46 raises 4000 to 6000
+MathisKcr folds
+Azrael_74 calls 4000
+*** FLOP *** [Js Ah Qs]
+Azrael_74 checks
+Quelo.46 bets 139567 and is all-in
+Azrael_74 calls 93661 and is all-in
+*** TURN *** [Js Ah Qs][6c]
+*** RIVER *** [Js Ah Qs 6c][Jd]
+*** SHOW DOWN ***
+Quelo.46 shows [8c 4c] (One pair : Jacks)
+Azrael_74 shows [Ks 8s] (One pair : Jacks)
+Azrael_74 collected 202042 from main pot
+Quelo.46 collected 45906 from side pot 1
+*** SUMMARY ***
+Total pot 247948 | No rake
+Board: [Js Ah Qs 6c Jd]
+Seat 1: Quelo.46 (big blind) showed [8c 4c] and won 45906 with One pair : Jacks
+Seat 6: Azrael_74 (small blind) showed [Ks 8s] and won 202042 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-30-1774391304 - Holdem no limit (120/500/1000) - 2026/03/24 22:28:24 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #6 is the button
+Seat 1: Quelo.46 (45906)
+Seat 2: FM Titan551 (67120)
+Seat 3: CamGab (65780)
+Seat 4: Chechin777 (113722)
+Seat 5: MathisKcr (104868)
+Seat 6: Azrael_74 (202042)
+*** ANTE/BLINDS ***
+Quelo.46 posts ante 120
+FM Titan551 posts ante 120
+CamGab posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+Quelo.46 posts small blind 500
+FM Titan551 posts big blind 1000
+Dealt to MathisKcr [6h Kc]
+*** PRE-FLOP *** 
+CamGab raises 1000 to 2000
+Chechin777 folds
+MathisKcr calls 2000
+Azrael_74 folds
+Quelo.46 raises 43786 to 45786 and is all-in
+FM Titan551 raises 21214 to 67000 and is all-in
+CamGab calls 63660 and is all-in
+MathisKcr folds
+*** FLOP *** [8c Ac 9s]
+*** TURN *** [8c Ac 9s][3d]
+*** RIVER *** [8c Ac 9s 3d][Th]
+*** SHOW DOWN ***
+Quelo.46 shows [6d 8s] (One pair : 8)
+CamGab shows [Js Jd] (One pair : Jacks)
+FM Titan551 shows [Td 9c] (Two pairs : Tens and 9)
+FM Titan551 collected 181166 from pot
+*** SUMMARY ***
+Total pot 181166 | No rake
+Board: [8c Ac 9s 3d Th]
+Seat 1: Quelo.46 (small blind) showed [6d 8s] and lost with One pair : 8
+Seat 2: FM Titan551 (big blind) showed [Td 9c] and won 181166 with Two pairs : Tens and 9
+Seat 3: CamGab showed [Js Jd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-31-1774391351 - Holdem no limit (120/500/1000) - 2026/03/24 22:29:11 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #1 is the button
+Seat 2: FM Titan551 (181166)
+Seat 4: Chechin777 (113602)
+Seat 5: MathisKcr (102748)
+Seat 6: Azrael_74 (201922)
+*** ANTE/BLINDS ***
+FM Titan551 posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Azrael_74 posts ante 120
+FM Titan551 posts small blind 500
+Chechin777 posts big blind 1000
+Dealt to MathisKcr [2s 8d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Azrael_74 raises 1000 to 2000
+FM Titan551 calls 1500
+Chechin777 raises 4000 to 6000
+Azrael_74 calls 4000
+FM Titan551 calls 4000
+*** FLOP *** [3s 3d Jc]
+FM Titan551 checks
+Chechin777 bets 6468
+Azrael_74 calls 6468
+FM Titan551 folds
+*** TURN *** [3s 3d Jc][6c]
+Chechin777 checks
+Azrael_74 checks
+*** RIVER *** [3s 3d Jc 6c][4s]
+Chechin777 checks
+Azrael_74 bets 20420
+Chechin777 calls 20420
+*** SHOW DOWN ***
+Chechin777 shows [Th Jh] (Two pairs : Jacks and 3)
+Azrael_74 shows [Ts Js] (Two pairs : Jacks and 3)
+Azrael_74 collected 36128 from pot
+Chechin777 collected 36128 from pot
+*** SUMMARY ***
+Total pot 72256 | No rake
+Board: [3s 3d Jc 6c 4s]
+Seat 4: Chechin777 (big blind) showed [Th Jh] and won 36128 with Two pairs : Jacks and 3
+Seat 6: Azrael_74 showed [Ts Js] and won 36128 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-32-1774391390 - Holdem no limit (120/500/1000) - 2026/03/24 22:29:50 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #2 is the button
+Seat 1: AS_ALTOPR0 (100000)
+Seat 2: FM Titan551 (175046)
+Seat 3: capirex_RR (87880)
+Seat 4: Chechin777 (116722)
+Seat 5: MathisKcr (102628)
+Seat 6: Azrael_74 (205042)
+*** ANTE/BLINDS ***
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+AS_ALTOPR0 posts ante 120
+FM Titan551 posts ante 120
+Azrael_74 posts ante 120
+Chechin777 posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [4s 3h]
+*** PRE-FLOP *** 
+Azrael_74 calls 1000
+AS_ALTOPR0 folds
+FM Titan551 folds
+Chechin777 folds
+MathisKcr checks
+*** FLOP *** [7c 4c 9c]
+MathisKcr bets 2000
+Azrael_74 calls 2000
+*** TURN *** [7c 4c 9c][4d]
+MathisKcr bets 3550
+Azrael_74 calls 3550
+*** RIVER *** [7c 4c 9c 4d][Qc]
+MathisKcr bets 9230
+Azrael_74 folds
+MathisKcr collected 23430 from pot
+*** SUMMARY ***
+Total pot 23430 | No rake
+Board: [7c 4c 9c 4d Qc]
+Seat 5: MathisKcr (big blind) won 23430
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-33-1774391441 - Holdem no limit (120/500/1000) - 2026/03/24 22:30:41 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #4 is the button
+Seat 1: AS_ALTOPR0 (99880)
+Seat 2: FM Titan551 (174926)
+Seat 3: capirex_RR (87880)
+Seat 4: Chechin777 (116102)
+Seat 5: MathisKcr (110158)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+AS_ALTOPR0 posts ante 120
+FM Titan551 posts ante 120
+capirex_RR posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts small blind 500
+AS_ALTOPR0 posts big blind 1000
+Dealt to MathisKcr [Qd 7s]
+*** PRE-FLOP *** 
+FM Titan551 folds
+capirex_RR folds
+Chechin777 raises 1000 to 2000
+MathisKcr folds
+AS_ALTOPR0 folds
+Chechin777 collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Seat 4: Chechin777 (button) won 4100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-34-1774391461 - Holdem no limit (120/500/1000) - 2026/03/24 22:31:01 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #5 is the button
+Seat 1: AS_ALTOPR0 (98760)
+Seat 2: FM Titan551 (174806)
+Seat 3: capirex_RR (87760)
+Seat 4: Chechin777 (118082)
+Seat 5: MathisKcr (109538)
+*** ANTE/BLINDS ***
+AS_ALTOPR0 posts ante 120
+FM Titan551 posts ante 120
+capirex_RR posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+AS_ALTOPR0 posts small blind 500
+FM Titan551 posts big blind 1000
+Dealt to MathisKcr [6d 5d]
+*** PRE-FLOP *** 
+capirex_RR raises 1000 to 2000
+Chechin777 calls 2000
+MathisKcr calls 2000
+AS_ALTOPR0 folds
+FM Titan551 calls 1000
+*** FLOP *** [Qs 4d Qh]
+FM Titan551 checks
+capirex_RR checks
+Chechin777 checks
+MathisKcr bets 2000
+FM Titan551 calls 2000
+capirex_RR folds
+Chechin777 folds
+*** TURN *** [Qs 4d Qh][6s]
+FM Titan551 checks
+MathisKcr bets 2000
+FM Titan551 calls 2000
+*** RIVER *** [Qs 4d Qh 6s][4h]
+FM Titan551 bets 17100
+MathisKcr calls 17100
+*** SHOW DOWN ***
+MathisKcr shows [6d 5d] (Two pairs : Queens and 6)
+FM Titan551 shows [7s Qc] (Full of Queens and 4)
+FM Titan551 collected 51300 from pot
+*** SUMMARY ***
+Total pot 51300 | No rake
+Board: [Qs 4d Qh 6s 4h]
+Seat 2: FM Titan551 (big blind) showed [7s Qc] and won 51300 with Full of Queens and 4
+Seat 5: MathisKcr (button) showed [6d 5d] and lost with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-35-1774391595 - Holdem no limit (120/500/1000) - 2026/03/24 22:33:15 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #1 is the button
+Seat 1: AS_ALTOPR0 (98140)
+Seat 2: FM Titan551 (202886)
+Seat 3: capirex_RR (85640)
+Seat 4: Chechin777 (115962)
+Seat 5: MathisKcr (86318)
+*** ANTE/BLINDS ***
+FM Titan551 posts ante 120
+capirex_RR posts ante 120
+AS_ALTOPR0 posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+FM Titan551 posts small blind 500
+capirex_RR posts big blind 1000
+Dealt to MathisKcr [3h 2d]
+*** PRE-FLOP *** 
+Chechin777 folds
+MathisKcr folds
+AS_ALTOPR0 folds
+FM Titan551 calls 500
+capirex_RR raises 2000 to 3000
+FM Titan551 folds
+capirex_RR collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 3: capirex_RR (big blind) won 4600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-36-1774391638 - Holdem no limit (120/500/1000) - 2026/03/24 22:33:58 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #2 is the button
+Seat 1: AS_ALTOPR0 (98020)
+Seat 2: FM Titan551 (201766)
+Seat 3: capirex_RR (87120)
+Seat 4: Chechin777 (115842)
+Seat 5: MathisKcr (86198)
+*** ANTE/BLINDS ***
+capirex_RR posts ante 120
+Chechin777 posts ante 120
+AS_ALTOPR0 posts ante 120
+FM Titan551 posts ante 120
+MathisKcr posts ante 120
+capirex_RR posts small blind 500
+Chechin777 posts big blind 1000
+Dealt to MathisKcr [8s 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+AS_ALTOPR0 raises 2000 to 3000
+FM Titan551 calls 3000
+capirex_RR folds
+Chechin777 folds
+*** FLOP *** [2c 6h 5d]
+AS_ALTOPR0 checks
+FM Titan551 bets 2835
+AS_ALTOPR0 folds
+FM Titan551 collected 10935 from pot
+*** SUMMARY ***
+Total pot 10935 | No rake
+Board: [2c 6h 5d]
+Seat 2: FM Titan551 (button) won 10935
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-37-1774391687 - Holdem no limit (120/500/1000) - 2026/03/24 22:34:47 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #3 is the button
+Seat 1: AS_ALTOPR0 (94900)
+Seat 2: FM Titan551 (206746)
+Seat 3: capirex_RR (86500)
+Seat 4: Chechin777 (114722)
+Seat 5: MathisKcr (86078)
+*** ANTE/BLINDS ***
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+AS_ALTOPR0 posts ante 120
+FM Titan551 posts ante 120
+capirex_RR posts ante 120
+Chechin777 posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [Tc 5c]
+*** PRE-FLOP *** 
+AS_ALTOPR0 folds
+FM Titan551 folds
+capirex_RR raises 1000 to 2000
+Chechin777 folds
+MathisKcr calls 1000
+*** FLOP *** [4c 4s Jh]
+MathisKcr checks
+capirex_RR bets 1785
+MathisKcr folds
+capirex_RR collected 6885 from pot
+*** SUMMARY ***
+Total pot 6885 | No rake
+Board: [4c 4s Jh]
+Seat 3: capirex_RR (button) won 6885
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-38-1774391734 - Holdem no limit (120/500/1000) - 2026/03/24 22:35:34 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #4 is the button
+Seat 1: AS_ALTOPR0 (94780)
+Seat 2: FM Titan551 (206626)
+Seat 3: capirex_RR (89480)
+Seat 4: Chechin777 (114102)
+Seat 5: MathisKcr (83958)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+AS_ALTOPR0 posts ante 120
+FM Titan551 posts ante 120
+capirex_RR posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts small blind 500
+AS_ALTOPR0 posts big blind 1000
+Dealt to MathisKcr [3c 6h]
+*** PRE-FLOP *** 
+FM Titan551 folds
+capirex_RR folds
+Chechin777 folds
+MathisKcr folds
+AS_ALTOPR0 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 1: AS_ALTOPR0 (big blind) won 2100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-39-1774391772 - Holdem no limit (120/500/1000) - 2026/03/24 22:36:12 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #5 is the button
+Seat 1: AS_ALTOPR0 (95760)
+Seat 2: FM Titan551 (206506)
+Seat 3: capirex_RR (89360)
+Seat 4: Chechin777 (113982)
+Seat 5: MathisKcr (83338)
+*** ANTE/BLINDS ***
+AS_ALTOPR0 posts ante 120
+FM Titan551 posts ante 120
+capirex_RR posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+AS_ALTOPR0 posts small blind 500
+FM Titan551 posts big blind 1000
+Dealt to MathisKcr [8s 3s]
+*** PRE-FLOP *** 
+capirex_RR folds
+Chechin777 folds
+MathisKcr raises 2000 to 3000
+AS_ALTOPR0 folds
+FM Titan551 calls 2000
+*** FLOP *** [8h Qd 6s]
+FM Titan551 checks
+MathisKcr bets 2500
+FM Titan551 calls 2500
+*** TURN *** [8h Qd 6s][6d]
+FM Titan551 checks
+MathisKcr bets 7865
+FM Titan551 folds
+MathisKcr collected 19965 from pot
+*** SUMMARY ***
+Total pot 19965 | No rake
+Board: [8h Qd 6s 6d]
+Seat 5: MathisKcr (button) won 19965
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-40-1774391814 - Holdem no limit (120/500/1000) - 2026/03/24 22:36:54 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #1 is the button
+Seat 1: AS_ALTOPR0 (95140)
+Seat 2: FM Titan551 (200886)
+Seat 3: capirex_RR (89240)
+Seat 4: Chechin777 (113862)
+Seat 5: MathisKcr (89818)
+Seat 6: Fireskill (100000)
+*** ANTE/BLINDS ***
+FM Titan551 posts ante 120
+capirex_RR posts ante 120
+AS_ALTOPR0 posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+Fireskill posts ante 120
+FM Titan551 posts small blind 500
+capirex_RR posts big blind 1000
+Dealt to MathisKcr [8s Js]
+*** PRE-FLOP *** 
+Chechin777 raises 1000 to 2000
+MathisKcr calls 2000
+Fireskill folds
+AS_ALTOPR0 folds
+FM Titan551 calls 1500
+capirex_RR folds
+*** FLOP *** [7d 8c Jh]
+FM Titan551 checks
+Chechin777 checks
+MathisKcr bets 1000
+FM Titan551 calls 1000
+Chechin777 raises 4000 to 5000
+MathisKcr calls 4000
+FM Titan551 folds
+*** TURN *** [7d 8c Jh][Ks]
+Chechin777 bets 6552
+MathisKcr calls 6552
+*** RIVER *** [7d 8c Jh Ks][4d]
+Chechin777 bets 31824
+MathisKcr calls 31824
+*** SHOW DOWN ***
+MathisKcr shows [8s Js] (Two pairs : Jacks and 8)
+Chechin777 shows [9s Ts] (Straight Jack high)
+Chechin777 collected 95472 from pot
+*** SUMMARY ***
+Total pot 95472 | No rake
+Board: [7d 8c Jh Ks 4d]
+Seat 4: Chechin777 showed [9s Ts] and won 95472 with Straight Jack high
+Seat 5: MathisKcr showed [8s Js] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-41-1774391899 - Holdem no limit (120/500/1000) - 2026/03/24 22:38:19 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #2 is the button
+Seat 1: AS_ALTOPR0 (95020)
+Seat 2: FM Titan551 (197766)
+Seat 3: capirex_RR (88120)
+Seat 4: Chechin777 (163838)
+Seat 5: MathisKcr (44322)
+Seat 6: Fireskill (99880)
+*** ANTE/BLINDS ***
+capirex_RR posts ante 120
+Chechin777 posts ante 120
+AS_ALTOPR0 posts ante 120
+FM Titan551 posts ante 120
+MathisKcr posts ante 120
+Fireskill posts ante 120
+capirex_RR posts small blind 500
+Chechin777 posts big blind 1000
+Dealt to MathisKcr [6c 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Fireskill folds
+AS_ALTOPR0 folds
+FM Titan551 folds
+capirex_RR folds
+Chechin777 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 4: Chechin777 (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-42-1774391919 - Holdem no limit (120/500/1000) - 2026/03/24 22:38:39 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #3 is the button
+Seat 1: AS_ALTOPR0 (94900)
+Seat 2: FM Titan551 (197646)
+Seat 3: capirex_RR (87500)
+Seat 4: Chechin777 (164938)
+Seat 5: MathisKcr (44202)
+Seat 6: Fireskill (99760)
+*** ANTE/BLINDS ***
+Chechin777 posts ante 120
+MathisKcr posts ante 120
+AS_ALTOPR0 posts ante 120
+FM Titan551 posts ante 120
+capirex_RR posts ante 120
+Fireskill posts ante 120
+Chechin777 posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [Ac 7d]
+*** PRE-FLOP *** 
+Fireskill folds
+AS_ALTOPR0 folds
+FM Titan551 raises 1000 to 2000
+capirex_RR folds
+Chechin777 folds
+MathisKcr calls 1000
+*** FLOP *** [9d 5h Kc]
+MathisKcr bets 1827
+FM Titan551 calls 1827
+*** TURN *** [9d 5h Kc][5d]
+MathisKcr checks
+FM Titan551 checks
+*** RIVER *** [9d 5h Kc 5d][3c]
+MathisKcr bets 6000
+FM Titan551 folds
+MathisKcr collected 14874 from pot
+*** SUMMARY ***
+Total pot 14874 | No rake
+Board: [9d 5h Kc 5d 3c]
+Seat 5: MathisKcr (big blind) won 14874
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4587591385040814081-43-1774391972 - Holdem no limit (120/500/1000) - 2026/03/24 22:39:32 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #4 is the button
+Seat 1: AS_ALTOPR0 (94780)
+Seat 2: FM Titan551 (193699)
+Seat 3: capirex_RR (87380)
+Seat 4: Chechin777 (164318)
+Seat 5: MathisKcr (49129)
+Seat 6: Fireskill (99640)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Fireskill posts ante 120
+AS_ALTOPR0 posts ante 120
+FM Titan551 posts ante 120
+capirex_RR posts ante 120
+Chechin777 posts ante 120
+MathisKcr posts small blind 500
+Fireskill posts big blind 1000
+Dealt to MathisKcr [3s Tc]
+*** PRE-FLOP *** 
+AS_ALTOPR0 folds
+FM Titan551 raises 1000 to 2000
+capirex_RR folds
+Chechin777 folds
+MathisKcr folds
+Fireskill folds
+FM Titan551 collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Seat 2: FM Titan551 won 4220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #4587591385040814081-44-1774392001 - Holdem no limit (140/600/1200) - 2026/03/24 22:40:01 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #5 is the button
+Seat 1: AS_ALTOPR0 (94660)
+Seat 2: FM Titan551 (195799)
+Seat 3: capirex_RR (87260)
+Seat 4: Chechin777 (164198)
+Seat 5: MathisKcr (48509)
+Seat 6: Fireskill (98520)
+*** ANTE/BLINDS ***
+Fireskill posts ante 140
+AS_ALTOPR0 posts ante 140
+FM Titan551 posts ante 140
+capirex_RR posts ante 140
+Chechin777 posts ante 140
+MathisKcr posts ante 140
+Fireskill posts small blind 600
+AS_ALTOPR0 posts big blind 1200
+Dealt to MathisKcr [3d Kd]
+*** PRE-FLOP *** 
+FM Titan551 raises 1200 to 2400
+capirex_RR folds
+Chechin777 folds
+MathisKcr calls 2400
+Fireskill folds
+AS_ALTOPR0 folds
+*** FLOP *** [Qd 9d Ts]
+FM Titan551 checks
+MathisKcr bets 3000
+FM Titan551 calls 3000
+*** TURN *** [Qd 9d Ts][4c]
+FM Titan551 checks
+MathisKcr bets 4704
+FM Titan551 calls 4704
+*** RIVER *** [Qd 9d Ts 4c][6d]
+FM Titan551 checks
+MathisKcr bets 11424
+FM Titan551 folds
+MathisKcr collected 34272 from pot
+*** SUMMARY ***
+Total pot 34272 | No rake
+Board: [Qd 9d Ts 4c 6d]
+Seat 5: MathisKcr (button) won 34272
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #4587591385040814081-45-1774392069 - Holdem no limit (140/600/1200) - 2026/03/24 22:41:09 UTC
+Table: 'Monster Stack(1068131855)#000' 6-max (real money) Seat #6 is the button
+Seat 1: AS_ALTOPR0 (93320)
+Seat 2: FM Titan551 (185555)
+Seat 3: capirex_RR (87120)
+Seat 4: Chechin777 (164058)
+Seat 5: MathisKcr (61113)
+Seat 6: Fireskill (97780)
+*** ANTE/BLINDS ***
+AS_ALTOPR0 posts ante 140
+FM Titan551 posts ante 140
+capirex_RR posts ante 140
+Chechin777 posts ante 140
+MathisKcr posts ante 140
+Fireskill posts ante 140
+AS_ALTOPR0 posts small blind 600
+FM Titan551 posts big blind 1200
+Dealt to MathisKcr [9c Qs]
+*** PRE-FLOP *** 
+capirex_RR folds
+Chechin777 raises 1200 to 2400
+MathisKcr calls 2400
+Fireskill calls 2400
+AS_ALTOPR0 folds
+FM Titan551 calls 1200
+*** FLOP *** [9s 6s 6c]
+FM Titan551 checks
+Chechin777 checks
+MathisKcr bets 3000
+Fireskill calls 3000
+FM Titan551 folds
+Chechin777 folds
+*** TURN *** [9s 6s 6c][5h]
+MathisKcr bets 5964
+Fireskill raises 20235 to 26199
+MathisKcr raises 29374 to 55573 and is all-in
+Fireskill calls 29374
+*** RIVER *** [9s 6s 6c 5h][2h]
+*** SHOW DOWN ***
+MathisKcr shows [9c Qs] (Two pairs : 9 and 6)
+Fireskill shows [8h 7h] (Straight 9 high)
+Fireskill collected 128186 from pot
+*** SUMMARY ***
+Total pot 128186 | No rake
+Board: [9s 6s 6c 5h 2h]
+Seat 5: MathisKcr showed [9c Qs] and lost with Two pairs : 9 and 6
+Seat 6: Fireskill (button) showed [8h 7h] and won 128186 with Straight 9 high
+
+

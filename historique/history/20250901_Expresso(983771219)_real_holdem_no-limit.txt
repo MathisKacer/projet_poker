@@ -1,0 +1,60 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4225265212351053825-1-1756735123 - Holdem no limit (10/20) - 2025/09/01 13:58:43 UTC
+Table: 'Expresso(983771219)#0' 3-max (real money) Seat #2 is the button
+Seat 1: vinzu (500)
+Seat 2: daichi83 (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+vinzu posts big blind 20
+Dealt to MathisKcr [9h Kd]
+*** PRE-FLOP *** 
+daichi83 calls 20
+MathisKcr calls 10
+vinzu checks
+*** FLOP *** [8c 5c 6d]
+MathisKcr checks
+vinzu checks
+daichi83 bets 480 and is all-in
+MathisKcr folds
+vinzu folds
+daichi83 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [8c 5c 6d]
+Seat 2: daichi83 (button) won 540
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4225265212351053825-2-1756735138 - Holdem no limit (10/20) - 2025/09/01 13:58:58 UTC
+Table: 'Expresso(983771219)#0' 3-max (real money) Seat #3 is the button
+Seat 1: vinzu (480)
+Seat 2: daichi83 (540)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+vinzu posts small blind 10
+daichi83 posts big blind 20
+Dealt to MathisKcr [Th Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+vinzu folds
+daichi83 calls 40
+*** FLOP *** [2d Ah Ad]
+daichi83 checks
+MathisKcr bets 80
+daichi83 calls 80
+*** TURN *** [2d Ah Ad][Ac]
+daichi83 checks
+MathisKcr bets 189
+daichi83 raises 211 to 400 and is all-in
+MathisKcr calls 151 and is all-in
+*** RIVER *** [2d Ah Ad Ac][9c]
+*** SHOW DOWN ***
+MathisKcr shows [Th Jh] (Trips of Aces)
+daichi83 shows [As 3d] (Quads of Aces)
+daichi83 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [2d Ah Ad Ac 9c]
+Seat 2: daichi83 (big blind) showed [As 3d] and won 1030 with Quads of Aces
+Seat 3: MathisKcr (button) showed [Th Jh] and lost with Trips of Aces
+
+

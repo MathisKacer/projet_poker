@@ -1,0 +1,627 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672345237413167105-1-1774946900 - Holdem no limit (10/20) - 2026/03/31 08:48:20 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Bonyk_OLD (300)
+Seat 3: PINOCCHIOooo (300)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 10
+PINOCCHIOooo posts big blind 20
+Dealt to MathisKcr [6h 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bonyk_OLD raises 280 to 300 and is all-in
+PINOCCHIOooo folds
+Bonyk_OLD collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: Bonyk_OLD (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672345237413167105-2-1774946911 - Holdem no limit (10/20) - 2026/03/31 08:48:31 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Bonyk_OLD (320)
+Seat 3: PINOCCHIOooo (280)
+*** ANTE/BLINDS ***
+PINOCCHIOooo posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4c 2c]
+*** PRE-FLOP *** 
+Bonyk_OLD raises 20 to 40
+PINOCCHIOooo folds
+MathisKcr calls 20
+*** FLOP *** [Td Kd 7d]
+MathisKcr checks
+Bonyk_OLD bets 20
+MathisKcr folds
+Bonyk_OLD collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [Td Kd 7d]
+Seat 2: Bonyk_OLD (button) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672345237413167105-3-1774946930 - Holdem no limit (10/20) - 2026/03/31 08:48:50 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (260)
+Seat 2: Bonyk_OLD (370)
+Seat 3: PINOCCHIOooo (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Bonyk_OLD posts big blind 20
+Dealt to MathisKcr [6c 4h]
+*** PRE-FLOP *** 
+PINOCCHIOooo folds
+MathisKcr folds
+Bonyk_OLD collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Bonyk_OLD (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4672345237413167105-4-1774946937 - Holdem no limit (10/20) - 2026/03/31 08:48:57 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (250)
+Seat 2: Bonyk_OLD (380)
+Seat 3: PINOCCHIOooo (270)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 10
+PINOCCHIOooo posts big blind 20
+Dealt to MathisKcr [7s 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bonyk_OLD raises 20 to 40
+PINOCCHIOooo calls 20
+*** FLOP *** [2h 4c 5s]
+Bonyk_OLD bets 20
+PINOCCHIOooo calls 20
+*** TURN *** [2h 4c 5s][8h]
+Bonyk_OLD bets 20
+PINOCCHIOooo calls 20
+*** RIVER *** [2h 4c 5s 8h][3d]
+Bonyk_OLD bets 53
+PINOCCHIOooo calls 53
+*** SHOW DOWN ***
+PINOCCHIOooo shows [Kc 4s] (One pair : 4)
+Bonyk_OLD shows [8s 4d] (Two pairs : 8 and 4)
+Bonyk_OLD collected 266 from pot
+*** SUMMARY ***
+Total pot 266 | No rake
+Board: [2h 4c 5s 8h 3d]
+Seat 2: Bonyk_OLD (small blind) showed [8s 4d] and won 266 with Two pairs : 8 and 4
+Seat 3: PINOCCHIOooo (big blind) showed [Kc 4s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672345237413167105-5-1774946976 - Holdem no limit (15/30) - 2026/03/31 08:49:36 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (250)
+Seat 2: Bonyk_OLD (513)
+Seat 3: PINOCCHIOooo (137)
+*** ANTE/BLINDS ***
+PINOCCHIOooo posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kc Ks]
+*** PRE-FLOP *** 
+Bonyk_OLD raises 483 to 513 and is all-in
+PINOCCHIOooo calls 122 and is all-in
+MathisKcr calls 220 and is all-in
+*** FLOP *** [Jh 4c 5s]
+*** TURN *** [Jh 4c 5s][Kh]
+*** RIVER *** [Jh 4c 5s Kh][Ah]
+*** SHOW DOWN ***
+PINOCCHIOooo shows [4s Qc] (One pair : 4)
+MathisKcr shows [Kc Ks] (Trips of Kings)
+Bonyk_OLD shows [Ac Jd] (Two pairs : Aces and Jacks)
+Bonyk_OLD collected 263 from side pot 1
+MathisKcr collected 637 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jh 4c 5s Kh Ah]
+Seat 1: MathisKcr (big blind) showed [Kc Ks] and won 637 with Trips of Kings
+Seat 2: Bonyk_OLD (button) showed [Ac Jd] and won 263 with Two pairs : Aces and Jacks
+Seat 3: PINOCCHIOooo (small blind) showed [4s Qc] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672345237413167105-6-1774946989 - Holdem no limit (15/30) - 2026/03/31 08:49:49 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (637)
+Seat 2: Bonyk_OLD (263)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Bonyk_OLD posts big blind 30
+Dealt to MathisKcr [Ad 4d]
+*** PRE-FLOP *** 
+MathisKcr raises 607 to 637 and is all-in
+Bonyk_OLD folds
+MathisKcr collected 667 from pot
+*** SUMMARY ***
+Total pot 667 | No rake
+Seat 1: MathisKcr (small blind) (button) won 667
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672345237413167105-7-1774946996 - Holdem no limit (15/30) - 2026/03/31 08:49:56 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (667)
+Seat 2: Bonyk_OLD (233)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qs 4s]
+*** PRE-FLOP *** 
+Bonyk_OLD raises 203 to 233 and is all-in
+MathisKcr calls 203
+*** FLOP *** [5h Tc 8d]
+*** TURN *** [5h Tc 8d][9c]
+*** RIVER *** [5h Tc 8d 9c][5d]
+*** SHOW DOWN ***
+MathisKcr shows [Qs 4s] (One pair : 5)
+Bonyk_OLD shows [9d Kc] (Two pairs : 9 and 5)
+Bonyk_OLD collected 466 from pot
+*** SUMMARY ***
+Total pot 466 | No rake
+Board: [5h Tc 8d 9c 5d]
+Seat 1: MathisKcr (big blind) showed [Qs 4s] and lost with One pair : 5
+Seat 2: Bonyk_OLD (small blind) (button) showed [9d Kc] and won 466 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4672345237413167105-8-1774947008 - Holdem no limit (15/30) - 2026/03/31 08:50:08 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (434)
+Seat 2: Bonyk_OLD (466)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Bonyk_OLD posts big blind 30
+Dealt to MathisKcr [9d Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 404 to 434 and is all-in
+Bonyk_OLD folds
+MathisKcr collected 464 from pot
+*** SUMMARY ***
+Total pot 464 | No rake
+Seat 1: MathisKcr (small blind) (button) won 464
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672345237413167105-9-1774947019 - Holdem no limit (20/40) - 2026/03/31 08:50:19 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (464)
+Seat 2: Bonyk_OLD (436)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3d Ah]
+*** PRE-FLOP *** 
+Bonyk_OLD raises 40 to 80
+MathisKcr raises 384 to 464 and is all-in
+Bonyk_OLD folds
+MathisKcr collected 544 from pot
+*** SUMMARY ***
+Total pot 544 | No rake
+Seat 1: MathisKcr (big blind) won 544
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672345237413167105-10-1774947026 - Holdem no limit (20/40) - 2026/03/31 08:50:26 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (544)
+Seat 2: Bonyk_OLD (356)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Bonyk_OLD posts big blind 40
+Dealt to MathisKcr [Ts 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bonyk_OLD collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Bonyk_OLD (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672345237413167105-11-1774947031 - Holdem no limit (20/40) - 2026/03/31 08:50:31 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (524)
+Seat 2: Bonyk_OLD (376)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7d Qc]
+*** PRE-FLOP *** 
+Bonyk_OLD calls 20
+MathisKcr raises 484 to 524 and is all-in
+Bonyk_OLD folds
+MathisKcr collected 564 from pot
+*** SUMMARY ***
+Total pot 564 | No rake
+Seat 1: MathisKcr (big blind) won 564
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672345237413167105-12-1774947041 - Holdem no limit (20/40) - 2026/03/31 08:50:41 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (564)
+Seat 2: Bonyk_OLD (336)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Bonyk_OLD posts big blind 40
+Dealt to MathisKcr [2h 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bonyk_OLD collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Bonyk_OLD (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672345237413167105-13-1774947045 - Holdem no limit (20/40) - 2026/03/31 08:50:45 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (544)
+Seat 2: Bonyk_OLD (356)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7h 7d]
+*** PRE-FLOP *** 
+Bonyk_OLD calls 20
+MathisKcr raises 504 to 544 and is all-in
+Bonyk_OLD folds
+MathisKcr collected 584 from pot
+*** SUMMARY ***
+Total pot 584 | No rake
+Seat 1: MathisKcr (big blind) won 584
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672345237413167105-14-1774947064 - Holdem no limit (20/40) - 2026/03/31 08:51:04 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (584)
+Seat 2: Bonyk_OLD (316)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Bonyk_OLD posts big blind 40
+Dealt to MathisKcr [4h 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bonyk_OLD collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Bonyk_OLD (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672345237413167105-15-1774947068 - Holdem no limit (20/40) - 2026/03/31 08:51:08 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (564)
+Seat 2: Bonyk_OLD (336)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3c Ah]
+*** PRE-FLOP *** 
+Bonyk_OLD folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4672345237413167105-16-1774947073 - Holdem no limit (20/40) - 2026/03/31 08:51:13 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (584)
+Seat 2: Bonyk_OLD (316)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Bonyk_OLD posts big blind 40
+Dealt to MathisKcr [9s 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bonyk_OLD collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Bonyk_OLD (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672345237413167105-17-1774947078 - Holdem no limit (30/60) - 2026/03/31 08:51:18 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (564)
+Seat 2: Bonyk_OLD (336)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [3h 6h]
+*** PRE-FLOP *** 
+Bonyk_OLD folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672345237413167105-18-1774947082 - Holdem no limit (30/60) - 2026/03/31 08:51:22 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (594)
+Seat 2: Bonyk_OLD (306)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Bonyk_OLD posts big blind 60
+Dealt to MathisKcr [Th Tc]
+*** PRE-FLOP *** 
+MathisKcr raises 534 to 594 and is all-in
+Bonyk_OLD folds
+MathisKcr collected 654 from pot
+*** SUMMARY ***
+Total pot 654 | No rake
+Seat 1: MathisKcr (small blind) (button) won 654
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672345237413167105-19-1774947089 - Holdem no limit (30/60) - 2026/03/31 08:51:29 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (654)
+Seat 2: Bonyk_OLD (246)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Jh 9h]
+*** PRE-FLOP *** 
+Bonyk_OLD raises 186 to 246 and is all-in
+MathisKcr calls 186
+*** FLOP *** [Tc 8c 5c]
+*** TURN *** [Tc 8c 5c][Ad]
+*** RIVER *** [Tc 8c 5c Ad][2h]
+*** SHOW DOWN ***
+MathisKcr shows [Jh 9h] (High card : Ace)
+Bonyk_OLD shows [Ts 6s] (One pair : Tens)
+Bonyk_OLD collected 492 from pot
+*** SUMMARY ***
+Total pot 492 | No rake
+Board: [Tc 8c 5c Ad 2h]
+Seat 1: MathisKcr (big blind) showed [Jh 9h] and lost with High card : Ace
+Seat 2: Bonyk_OLD (small blind) (button) showed [Ts 6s] and won 492 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672345237413167105-20-1774947102 - Holdem no limit (30/60) - 2026/03/31 08:51:42 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (408)
+Seat 2: Bonyk_OLD (492)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Bonyk_OLD posts big blind 60
+Dealt to MathisKcr [2h 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bonyk_OLD collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Bonyk_OLD (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672345237413167105-21-1774947108 - Holdem no limit (30/60) - 2026/03/31 08:51:48 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (378)
+Seat 2: Bonyk_OLD (522)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Qc Ks]
+*** PRE-FLOP *** 
+Bonyk_OLD raises 462 to 522 and is all-in
+MathisKcr calls 318 and is all-in
+*** FLOP *** [Ac 4h 4c]
+*** TURN *** [Ac 4h 4c][2h]
+*** RIVER *** [Ac 4h 4c 2h][Tc]
+*** SHOW DOWN ***
+MathisKcr shows [Qc Ks] (One pair : 4)
+Bonyk_OLD shows [Qd 8d] (One pair : 4)
+Bonyk_OLD collected 144 from side pot 1
+MathisKcr collected 756 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Ac 4h 4c 2h Tc]
+Seat 1: MathisKcr (big blind) showed [Qc Ks] and won 756 with One pair : 4
+Seat 2: Bonyk_OLD (small blind) (button) showed [Qd 8d] and won 144 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4672345237413167105-22-1774947120 - Holdem no limit (30/60) - 2026/03/31 08:52:00 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (756)
+Seat 2: Bonyk_OLD (144)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Bonyk_OLD posts big blind 60
+Dealt to MathisKcr [Ah 4c]
+*** PRE-FLOP *** 
+MathisKcr raises 696 to 756 and is all-in
+Bonyk_OLD calls 84 and is all-in
+*** FLOP *** [6d 7c 9d]
+*** TURN *** [6d 7c 9d][Qd]
+*** RIVER *** [6d 7c 9d Qd][4h]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 4c] (One pair : 4)
+Bonyk_OLD shows [Tc 8h] (Straight Ten high)
+Bonyk_OLD collected 288 from main pot
+MathisKcr collected 612 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d 7c 9d Qd 4h]
+Seat 1: MathisKcr (small blind) (button) showed [Ah 4c] and won 612 with One pair : 4
+Seat 2: Bonyk_OLD (big blind) showed [Tc 8h] and won 288 with Straight Ten high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672345237413167105-23-1774947141 - Holdem no limit (40/80) - 2026/03/31 08:52:21 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (612)
+Seat 2: Bonyk_OLD (288)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Js 8s]
+*** PRE-FLOP *** 
+Bonyk_OLD calls 40
+MathisKcr raises 532 to 612 and is all-in
+Bonyk_OLD folds
+MathisKcr collected 692 from pot
+*** SUMMARY ***
+Total pot 692 | No rake
+Seat 1: MathisKcr (big blind) won 692
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672345237413167105-24-1774947152 - Holdem no limit (40/80) - 2026/03/31 08:52:32 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (692)
+Seat 2: Bonyk_OLD (208)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Bonyk_OLD posts big blind 80
+Dealt to MathisKcr [3c Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 612 to 692 and is all-in
+Bonyk_OLD calls 128 and is all-in
+*** FLOP *** [Qc Th Ks]
+*** TURN *** [Qc Th Ks][3h]
+*** RIVER *** [Qc Th Ks 3h][Js]
+*** SHOW DOWN ***
+MathisKcr shows [3c Qs] (Two pairs : Queens and 3)
+Bonyk_OLD shows [Jd Jh] (Trips of Jacks)
+Bonyk_OLD collected 416 from main pot
+MathisKcr collected 484 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc Th Ks 3h Js]
+Seat 1: MathisKcr (small blind) (button) showed [3c Qs] and won 484 with Two pairs : Queens and 3
+Seat 2: Bonyk_OLD (big blind) showed [Jd Jh] and won 416 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672345237413167105-25-1774947165 - Holdem no limit (40/80) - 2026/03/31 08:52:45 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (484)
+Seat 2: Bonyk_OLD (416)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [5d 4c]
+*** PRE-FLOP *** 
+Bonyk_OLD folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672345237413167105-26-1774947170 - Holdem no limit (40/80) - 2026/03/31 08:52:50 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (524)
+Seat 2: Bonyk_OLD (376)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Bonyk_OLD posts big blind 80
+Dealt to MathisKcr [3s 9c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bonyk_OLD collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Bonyk_OLD (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672345237413167105-27-1774947176 - Holdem no limit (40/80) - 2026/03/31 08:52:56 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (484)
+Seat 2: Bonyk_OLD (416)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [4s 6s]
+*** PRE-FLOP *** 
+Bonyk_OLD raises 336 to 416 and is all-in
+MathisKcr folds
+Bonyk_OLD collected 496 from pot
+*** SUMMARY ***
+Total pot 496 | No rake
+Seat 2: Bonyk_OLD (small blind) (button) won 496
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672345237413167105-28-1774947183 - Holdem no limit (40/80) - 2026/03/31 08:53:03 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (404)
+Seat 2: Bonyk_OLD (496)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Bonyk_OLD posts big blind 80
+Dealt to MathisKcr [Td 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bonyk_OLD collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Bonyk_OLD (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672345237413167105-29-1774947190 - Holdem no limit (40/80) - 2026/03/31 08:53:10 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (364)
+Seat 2: Bonyk_OLD (536)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [As 8s]
+*** PRE-FLOP *** 
+Bonyk_OLD folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 5 - HandId: #4672345237413167105-30-1774947197 - Holdem no limit (40/80) - 2026/03/31 08:53:17 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (404)
+Seat 2: Bonyk_OLD (496)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Bonyk_OLD posts big blind 80
+Dealt to MathisKcr [Ac Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 324 to 404 and is all-in
+Bonyk_OLD folds
+MathisKcr collected 484 from pot
+*** SUMMARY ***
+Total pot 484 | No rake
+Seat 1: MathisKcr (small blind) (button) won 484
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4672345237413167105-31-1774947203 - Holdem no limit (50/100) - 2026/03/31 08:53:23 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (484)
+Seat 2: Bonyk_OLD (416)
+*** ANTE/BLINDS ***
+Bonyk_OLD posts small blind 50
+MathisKcr posts big blind 100
+Dealt to MathisKcr [5d 6s]
+*** PRE-FLOP *** 
+Bonyk_OLD raises 316 to 416 and is all-in
+MathisKcr folds
+Bonyk_OLD collected 516 from pot
+*** SUMMARY ***
+Total pot 516 | No rake
+Seat 2: Bonyk_OLD (small blind) (button) won 516
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 6 - HandId: #4672345237413167105-32-1774947209 - Holdem no limit (50/100) - 2026/03/31 08:53:29 UTC
+Table: 'Expresso Nitro(1087865149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (384)
+Seat 2: Bonyk_OLD (516)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 50
+Bonyk_OLD posts big blind 100
+Dealt to MathisKcr [3c Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 284 to 384 and is all-in
+Bonyk_OLD calls 284
+*** FLOP *** [4c 8s 6c]
+*** TURN *** [4c 8s 6c][9d]
+*** RIVER *** [4c 8s 6c 9d][6s]
+*** SHOW DOWN ***
+MathisKcr shows [3c Qc] (One pair : 6)
+Bonyk_OLD shows [5d Kc] (One pair : 6)
+Bonyk_OLD collected 768 from pot
+*** SUMMARY ***
+Total pot 768 | No rake
+Board: [4c 8s 6c 9d 6s]
+Seat 1: MathisKcr (small blind) (button) showed [3c Qc] and lost with One pair : 6
+Seat 2: Bonyk_OLD (big blind) showed [5d Kc] and won 768 with One pair : 6
+
+

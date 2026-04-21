@@ -1,0 +1,119 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606273483461099521-1-1772567144 - Holdem no limit (10/20) - 2026/03/03 19:45:44 UTC
+Table: 'Expresso Nitro(1072481620)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Jokkker14123 (300)
+Seat 3: Makymike (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Jokkker14123 posts big blind 20
+Dealt to MathisKcr [6s 8d]
+*** PRE-FLOP *** 
+Makymike folds
+MathisKcr calls 10
+Jokkker14123 checks
+*** FLOP *** [4c 3d Tc]
+MathisKcr checks
+Jokkker14123 bets 40
+MathisKcr folds
+Jokkker14123 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [4c 3d Tc]
+Seat 2: Jokkker14123 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606273483461099521-2-1772567161 - Holdem no limit (10/20) - 2026/03/03 19:46:01 UTC
+Table: 'Expresso Nitro(1072481620)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Jokkker14123 (320)
+Seat 3: Makymike (300)
+*** ANTE/BLINDS ***
+Jokkker14123 posts small blind 10
+Makymike posts big blind 20
+Dealt to MathisKcr [9s 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Jokkker14123 raises 40 to 60
+Makymike calls 40
+*** FLOP *** [7h Ah 2s]
+Jokkker14123 checks
+Makymike bets 240 and is all-in
+Jokkker14123 folds
+Makymike collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [7h Ah 2s]
+Seat 3: Makymike (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4606273483461099521-3-1772567182 - Holdem no limit (10/20) - 2026/03/03 19:46:22 UTC
+Table: 'Expresso Nitro(1072481620)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Jokkker14123 (260)
+Seat 3: Makymike (360)
+*** ANTE/BLINDS ***
+Makymike posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8h 8s]
+*** PRE-FLOP *** 
+Jokkker14123 calls 20
+Makymike calls 10
+MathisKcr raises 260 to 280 and is all-in
+Jokkker14123 calls 240 and is all-in
+Makymike folds
+*** FLOP *** [5d 9c 3c]
+*** TURN *** [5d 9c 3c][Jh]
+*** RIVER *** [5d 9c 3c Jh][5c]
+*** SHOW DOWN ***
+Jokkker14123 shows [3h As] (Two pairs : 5 and 3)
+MathisKcr shows [8h 8s] (Two pairs : 8 and 5)
+MathisKcr collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [5d 9c 3c Jh 5c]
+Seat 1: MathisKcr (big blind) showed [8h 8s] and won 560 with Two pairs : 8 and 5
+Seat 2: Jokkker14123 (button) showed [3h As] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606273483461099521-4-1772567207 - Holdem no limit (15/30) - 2026/03/03 19:46:47 UTC
+Table: 'Expresso Nitro(1072481620)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (560)
+Seat 3: Makymike (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Makymike posts big blind 30
+Dealt to MathisKcr [Ah Js]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Makymike folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4606273483461099521-5-1772567217 - Holdem no limit (15/30) - 2026/03/03 19:46:57 UTC
+Table: 'Expresso Nitro(1072481620)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (590)
+Seat 3: Makymike (310)
+*** ANTE/BLINDS ***
+Makymike posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ah 4s]
+*** PRE-FLOP *** 
+Makymike raises 280 to 310 and is all-in
+MathisKcr calls 280
+*** FLOP *** [As Kc 3s]
+*** TURN *** [As Kc 3s][6c]
+*** RIVER *** [As Kc 3s 6c][5h]
+*** SHOW DOWN ***
+Makymike shows [Ts Qc] (High card : Ace)
+MathisKcr shows [Ah 4s] (One pair : Aces)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [As Kc 3s 6c 5h]
+Seat 1: MathisKcr (big blind) showed [Ah 4s] and won 620 with One pair : Aces
+Seat 3: Makymike (small blind) (button) showed [Ts Qc] and lost with High card : Ace
+
+

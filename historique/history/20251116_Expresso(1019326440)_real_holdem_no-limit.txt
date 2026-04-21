@@ -1,0 +1,171 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4377973723748106241-1-1763318076 - Holdem no limit (10/20) - 2025/11/16 18:34:36 UTC
+Table: 'Expresso(1019326440)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ELBANDERO (500)
+Seat 2: MathisKcr (500)
+Seat 3: laulau9292 (500)
+*** ANTE/BLINDS ***
+ELBANDERO posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8h 4h]
+*** PRE-FLOP *** 
+laulau9292 folds
+ELBANDERO calls 10
+MathisKcr checks
+*** FLOP *** [Js 6s 5c]
+ELBANDERO checks
+MathisKcr bets 20
+ELBANDERO calls 20
+*** TURN *** [Js 6s 5c][2d]
+ELBANDERO checks
+MathisKcr checks
+*** RIVER *** [Js 6s 5c 2d][4s]
+ELBANDERO checks
+MathisKcr bets 30
+ELBANDERO folds
+MathisKcr collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Board: [Js 6s 5c 2d 4s]
+Seat 2: MathisKcr (big blind) won 110
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4377973723748106241-2-1763318102 - Holdem no limit (10/20) - 2025/11/16 18:35:02 UTC
+Table: 'Expresso(1019326440)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ELBANDERO (460)
+Seat 2: MathisKcr (540)
+Seat 3: laulau9292 (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+laulau9292 posts big blind 20
+Dealt to MathisKcr [7h Ah]
+*** PRE-FLOP *** 
+ELBANDERO calls 20
+MathisKcr raises 20 to 40
+laulau9292 calls 20
+ELBANDERO calls 20
+*** FLOP *** [3d Ad Qh]
+MathisKcr bets 40
+laulau9292 folds
+ELBANDERO folds
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [3d Ad Qh]
+Seat 2: MathisKcr (small blind) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4377973723748106241-3-1763318128 - Holdem no limit (10/20) - 2025/11/16 18:35:28 UTC
+Table: 'Expresso(1019326440)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ELBANDERO (420)
+Seat 2: MathisKcr (620)
+Seat 3: laulau9292 (460)
+*** ANTE/BLINDS ***
+laulau9292 posts small blind 10
+ELBANDERO posts big blind 20
+Dealt to MathisKcr [3h 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+laulau9292 raises 20 to 40
+ELBANDERO calls 20
+*** FLOP *** [Th 5d 2c]
+laulau9292 bets 20
+ELBANDERO raises 30 to 50
+laulau9292 calls 30
+*** TURN *** [Th 5d 2c][8h]
+laulau9292 bets 100
+ELBANDERO calls 100
+*** RIVER *** [Th 5d 2c 8h][5h]
+laulau9292 bets 270 and is all-in
+ELBANDERO folds
+laulau9292 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Th 5d 2c 8h 5h]
+Seat 3: laulau9292 (small blind) won 650
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4377973723748106241-4-1763318172 - Holdem no limit (15/30) - 2025/11/16 18:36:12 UTC
+Table: 'Expresso(1019326440)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ELBANDERO (230)
+Seat 2: MathisKcr (620)
+Seat 3: laulau9292 (650)
+*** ANTE/BLINDS ***
+ELBANDERO posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7s 8s]
+*** PRE-FLOP *** 
+laulau9292 folds
+ELBANDERO raises 30 to 60
+MathisKcr calls 30
+*** FLOP *** [4s 4h 2c]
+ELBANDERO bets 30
+MathisKcr folds
+ELBANDERO collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [4s 4h 2c]
+Seat 1: ELBANDERO (small blind) won 150
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4377973723748106241-5-1763318187 - Holdem no limit (15/30) - 2025/11/16 18:36:27 UTC
+Table: 'Expresso(1019326440)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ELBANDERO (290)
+Seat 2: MathisKcr (560)
+Seat 3: laulau9292 (650)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+laulau9292 posts big blind 30
+Dealt to MathisKcr [3s 4c]
+*** PRE-FLOP *** 
+ELBANDERO calls 30
+MathisKcr calls 15
+laulau9292 checks
+*** FLOP *** [8d Ad 3h]
+MathisKcr checks
+laulau9292 checks
+ELBANDERO checks
+*** TURN *** [8d Ad 3h][7d]
+MathisKcr checks
+laulau9292 bets 30
+ELBANDERO folds
+MathisKcr folds
+laulau9292 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8d Ad 3h 7d]
+Seat 3: laulau9292 (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4377973723748106241-6-1763318223 - Holdem no limit (15/30) - 2025/11/16 18:37:03 UTC
+Table: 'Expresso(1019326440)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ELBANDERO (260)
+Seat 2: MathisKcr (530)
+Seat 3: laulau9292 (710)
+*** ANTE/BLINDS ***
+laulau9292 posts small blind 15
+ELBANDERO posts big blind 30
+Dealt to MathisKcr [Ts Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+laulau9292 calls 45
+ELBANDERO calls 30
+*** FLOP *** [Qc 4h 9h]
+laulau9292 bets 30
+ELBANDERO raises 170 to 200 and is all-in
+MathisKcr raises 270 to 470 and is all-in
+laulau9292 calls 440
+*** TURN *** [Qc 4h 9h][Ks]
+*** RIVER *** [Qc 4h 9h Ks][Kd]
+*** SHOW DOWN ***
+ELBANDERO shows [Qd 2h] (Two pairs : Kings and Queens)
+MathisKcr shows [Ts Jh] (Straight King high)
+laulau9292 shows [Qs Kc] (Full of Kings and Queens)
+laulau9292 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [Qc 4h 9h Ks Kd]
+Seat 1: ELBANDERO (big blind) showed [Qd 2h] and lost with Two pairs : Kings and Queens
+Seat 2: MathisKcr (button) showed [Ts Jh] and lost with Straight King high
+Seat 3: laulau9292 (small blind) showed [Qs Kc] and won 1320 with Full of Kings and Queens
+
+

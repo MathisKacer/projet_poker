@@ -1,0 +1,401 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677138120267792385-1-1775123717 - Holdem no limit (10/20) - 2026/04/02 09:55:17 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Waiikz (300)
+Seat 2: MathisKcr (300)
+Seat 3: JOAOCOSTA (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+JOAOCOSTA posts big blind 20
+Dealt to MathisKcr [7d 2d]
+*** PRE-FLOP *** 
+Waiikz calls 20
+MathisKcr folds
+JOAOCOSTA raises 280 to 300 and is all-in
+Waiikz folds
+JOAOCOSTA collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: JOAOCOSTA (big blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677138120267792385-2-1775123727 - Holdem no limit (10/20) - 2026/04/02 09:55:27 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Waiikz (280)
+Seat 2: MathisKcr (290)
+Seat 3: JOAOCOSTA (330)
+*** ANTE/BLINDS ***
+JOAOCOSTA posts small blind 10
+Waiikz posts big blind 20
+Dealt to MathisKcr [Kd 5h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+JOAOCOSTA calls 30
+Waiikz calls 20
+*** FLOP *** [8c 8h 4c]
+JOAOCOSTA checks
+Waiikz checks
+MathisKcr checks
+*** TURN *** [8c 8h 4c][6h]
+JOAOCOSTA checks
+Waiikz checks
+MathisKcr checks
+*** RIVER *** [8c 8h 4c 6h][4h]
+JOAOCOSTA checks
+Waiikz checks
+MathisKcr checks
+*** SHOW DOWN ***
+Waiikz shows [Tc 9d] (Two pairs : 8 and 4)
+JOAOCOSTA shows [7s 9h] (Two pairs : 8 and 4)
+MathisKcr shows [Kd 5h] (Two pairs : 8 and 4)
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8c 8h 4c 6h 4h]
+Seat 1: Waiikz (big blind) showed [Tc 9d] and lost with Two pairs : 8 and 4
+Seat 2: MathisKcr (button) showed [Kd 5h] and won 120 with Two pairs : 8 and 4
+Seat 3: JOAOCOSTA (small blind) showed [7s 9h] and lost with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677138120267792385-3-1775123757 - Holdem no limit (10/20) - 2026/04/02 09:55:57 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Waiikz (240)
+Seat 2: MathisKcr (370)
+Seat 3: JOAOCOSTA (290)
+*** ANTE/BLINDS ***
+Waiikz posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Td Jh]
+*** PRE-FLOP *** 
+JOAOCOSTA raises 270 to 290 and is all-in
+Waiikz folds
+MathisKcr folds
+JOAOCOSTA collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: JOAOCOSTA (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677138120267792385-4-1775123765 - Holdem no limit (10/20) - 2026/04/02 09:56:05 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Waiikz (230)
+Seat 2: MathisKcr (350)
+Seat 3: JOAOCOSTA (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+JOAOCOSTA posts big blind 20
+Dealt to MathisKcr [As 5c]
+*** PRE-FLOP *** 
+Waiikz folds
+MathisKcr raises 330 to 350 and is all-in
+JOAOCOSTA calls 300 and is all-in
+*** FLOP *** [3s 2s 4c]
+*** TURN *** [3s 2s 4c][Ks]
+*** RIVER *** [3s 2s 4c Ks][3d]
+*** SHOW DOWN ***
+MathisKcr shows [As 5c] (Straight 5 high)
+JOAOCOSTA shows [5d Ah] (Straight 5 high)
+JOAOCOSTA collected 320 from main pot
+MathisKcr collected 350 from side pot 1
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [3s 2s 4c Ks 3d]
+Seat 2: MathisKcr (small blind) showed [As 5c] and won 350 with Straight 5 high
+Seat 3: JOAOCOSTA (big blind) showed [5d Ah] and won 320 with Straight 5 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677138120267792385-5-1775123780 - Holdem no limit (15/30) - 2026/04/02 09:56:20 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Waiikz (230)
+Seat 2: MathisKcr (350)
+Seat 3: JOAOCOSTA (320)
+*** ANTE/BLINDS ***
+JOAOCOSTA posts small blind 15
+Waiikz posts big blind 30
+Dealt to MathisKcr [9c 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+JOAOCOSTA raises 290 to 320 and is all-in
+Waiikz calls 200 and is all-in
+*** FLOP *** [Th 6s 8d]
+*** TURN *** [Th 6s 8d][8s]
+*** RIVER *** [Th 6s 8d 8s][Js]
+*** SHOW DOWN ***
+Waiikz shows [Ts Ks] (Flush King high)
+JOAOCOSTA shows [3h 3d] (Two pairs : 8 and 3)
+JOAOCOSTA collected 90 from side pot 1
+Waiikz collected 460 from main pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Th 6s 8d 8s Js]
+Seat 1: Waiikz (big blind) showed [Ts Ks] and won 460 with Flush King high
+Seat 3: JOAOCOSTA (small blind) showed [3h 3d] and won 90 with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677138120267792385-6-1775123796 - Holdem no limit (15/30) - 2026/04/02 09:56:36 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Waiikz (460)
+Seat 2: MathisKcr (350)
+Seat 3: JOAOCOSTA (90)
+*** ANTE/BLINDS ***
+Waiikz posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [As 3h]
+*** PRE-FLOP *** 
+JOAOCOSTA raises 60 to 90 and is all-in
+Waiikz calls 75
+MathisKcr raises 260 to 350 and is all-in
+Waiikz calls 260
+*** FLOP *** [9h Ts Qd]
+*** TURN *** [9h Ts Qd][7d]
+*** RIVER *** [9h Ts Qd 7d][5s]
+*** SHOW DOWN ***
+Waiikz shows [Ac 3d] (High card : Ace)
+MathisKcr shows [As 3h] (High card : Ace)
+JOAOCOSTA shows [6s 7c] (One pair : 7)
+JOAOCOSTA collected 270 from main pot
+MathisKcr collected 260 from side pot 1
+Waiikz collected 260 from side pot 1
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [9h Ts Qd 7d 5s]
+Seat 1: Waiikz (small blind) showed [Ac 3d] and won 260 with High card : Ace
+Seat 2: MathisKcr (big blind) showed [As 3h] and won 260 with High card : Ace
+Seat 3: JOAOCOSTA (button) showed [6s 7c] and won 270 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677138120267792385-7-1775123816 - Holdem no limit (15/30) - 2026/04/02 09:56:56 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Waiikz (370)
+Seat 2: MathisKcr (260)
+Seat 3: JOAOCOSTA (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+JOAOCOSTA posts big blind 30
+Dealt to MathisKcr [2d Js]
+*** PRE-FLOP *** 
+Waiikz calls 30
+MathisKcr folds
+JOAOCOSTA checks
+*** FLOP *** [Jd Td 9h]
+JOAOCOSTA checks
+Waiikz checks
+*** TURN *** [Jd Td 9h][8s]
+JOAOCOSTA checks
+Waiikz bets 340 and is all-in
+JOAOCOSTA folds
+Waiikz collected 415 from pot
+*** SUMMARY ***
+Total pot 415 | No rake
+Board: [Jd Td 9h 8s]
+Seat 1: Waiikz (button) won 415
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677138120267792385-8-1775123832 - Holdem no limit (15/30) - 2026/04/02 09:57:12 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Waiikz (415)
+Seat 2: MathisKcr (245)
+Seat 3: JOAOCOSTA (240)
+*** ANTE/BLINDS ***
+JOAOCOSTA posts small blind 15
+Waiikz posts big blind 30
+Dealt to MathisKcr [3d Tc]
+*** PRE-FLOP *** 
+MathisKcr folds
+JOAOCOSTA raises 210 to 240 and is all-in
+Waiikz calls 210
+*** FLOP *** [8s Th Ad]
+*** TURN *** [8s Th Ad][Ah]
+*** RIVER *** [8s Th Ad Ah][Qd]
+*** SHOW DOWN ***
+Waiikz shows [2d 2s] (Two pairs : Aces and 2)
+JOAOCOSTA shows [Kd Jd] (Straight Ace high)
+JOAOCOSTA collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [8s Th Ad Ah Qd]
+Seat 1: Waiikz (big blind) showed [2d 2s] and lost with Two pairs : Aces and 2
+Seat 3: JOAOCOSTA (small blind) showed [Kd Jd] and won 480 with Straight Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4677138120267792385-9-1775123844 - Holdem no limit (20/40) - 2026/04/02 09:57:24 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Waiikz (175)
+Seat 2: MathisKcr (245)
+Seat 3: JOAOCOSTA (480)
+*** ANTE/BLINDS ***
+Waiikz posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ts 4c]
+*** PRE-FLOP *** 
+JOAOCOSTA calls 40
+Waiikz raises 40 to 80
+MathisKcr folds
+JOAOCOSTA calls 40
+*** FLOP *** [3h Qc 2h]
+Waiikz bets 40
+JOAOCOSTA folds
+Waiikz collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [3h Qc 2h]
+Seat 1: Waiikz (small blind) won 240
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4677138120267792385-10-1775123859 - Holdem no limit (20/40) - 2026/04/02 09:57:39 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Waiikz (295)
+Seat 2: MathisKcr (205)
+Seat 3: JOAOCOSTA (400)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+JOAOCOSTA posts big blind 40
+Dealt to MathisKcr [9s 6c]
+*** PRE-FLOP *** 
+Waiikz folds
+MathisKcr folds
+JOAOCOSTA collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: JOAOCOSTA (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4677138120267792385-11-1775123867 - Holdem no limit (20/40) - 2026/04/02 09:57:47 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Waiikz (295)
+Seat 2: MathisKcr (185)
+Seat 3: JOAOCOSTA (420)
+*** ANTE/BLINDS ***
+JOAOCOSTA posts small blind 20
+Waiikz posts big blind 40
+Dealt to MathisKcr [Jd 3d]
+*** PRE-FLOP *** 
+MathisKcr folds
+JOAOCOSTA calls 20
+Waiikz checks
+*** FLOP *** [5c 7c Kh]
+JOAOCOSTA checks
+Waiikz checks
+*** TURN *** [5c 7c Kh][Kc]
+JOAOCOSTA checks
+Waiikz bets 40
+JOAOCOSTA folds
+Waiikz collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5c 7c Kh Kc]
+Seat 1: Waiikz (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4677138120267792385-12-1775123885 - Holdem no limit (20/40) - 2026/04/02 09:58:05 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Waiikz (335)
+Seat 2: MathisKcr (185)
+Seat 3: JOAOCOSTA (380)
+*** ANTE/BLINDS ***
+Waiikz posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3h 9d]
+*** PRE-FLOP *** 
+JOAOCOSTA folds
+Waiikz calls 20
+MathisKcr checks
+*** FLOP *** [Ac Kc 2d]
+Waiikz checks
+MathisKcr checks
+*** TURN *** [Ac Kc 2d][Kd]
+Waiikz checks
+MathisKcr checks
+*** RIVER *** [Ac Kc 2d Kd][2c]
+Waiikz bets 40
+MathisKcr folds
+Waiikz collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ac Kc 2d Kd 2c]
+Seat 1: Waiikz (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4677138120267792385-13-1775123919 - Holdem no limit (30/60) - 2026/04/02 09:58:39 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Waiikz (375)
+Seat 2: MathisKcr (145)
+Seat 3: JOAOCOSTA (380)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+JOAOCOSTA posts big blind 60
+Dealt to MathisKcr [8d Jd]
+*** PRE-FLOP *** 
+Waiikz folds
+MathisKcr raises 85 to 145 and is all-in
+JOAOCOSTA folds
+MathisKcr collected 205 from pot
+*** SUMMARY ***
+Total pot 205 | No rake
+Seat 2: MathisKcr (small blind) won 205
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4677138120267792385-14-1775123933 - Holdem no limit (30/60) - 2026/04/02 09:58:53 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Waiikz (375)
+Seat 2: MathisKcr (205)
+Seat 3: JOAOCOSTA (320)
+*** ANTE/BLINDS ***
+JOAOCOSTA posts small blind 30
+Waiikz posts big blind 60
+Dealt to MathisKcr [2c Ks]
+*** PRE-FLOP *** 
+MathisKcr folds
+JOAOCOSTA folds
+Waiikz collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Waiikz (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4677138120267792385-15-1775123940 - Holdem no limit (30/60) - 2026/04/02 09:59:00 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Waiikz (405)
+Seat 2: MathisKcr (205)
+Seat 3: JOAOCOSTA (290)
+*** ANTE/BLINDS ***
+Waiikz posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [6c Jh]
+*** PRE-FLOP *** 
+JOAOCOSTA raises 230 to 290 and is all-in
+Waiikz folds
+MathisKcr folds
+JOAOCOSTA collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: JOAOCOSTA (button) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4677138120267792385-16-1775123951 - Holdem no limit (30/60) - 2026/04/02 09:59:11 UTC
+Table: 'Expresso Nitro(1088981079)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Waiikz (375)
+Seat 2: MathisKcr (145)
+Seat 3: JOAOCOSTA (380)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+JOAOCOSTA posts big blind 60
+Dealt to MathisKcr [8h Jd]
+*** PRE-FLOP *** 
+Waiikz calls 60
+MathisKcr raises 85 to 145 and is all-in
+JOAOCOSTA folds
+Waiikz calls 85
+*** FLOP *** [Kd 9s Qh]
+*** TURN *** [Kd 9s Qh][Tc]
+*** RIVER *** [Kd 9s Qh Tc][Js]
+*** SHOW DOWN ***
+MathisKcr shows [8h Jd] (Straight King high)
+Waiikz shows [Ks Ad] (Straight Ace high)
+Waiikz collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [Kd 9s Qh Tc Js]
+Seat 1: Waiikz (button) showed [Ks Ad] and won 350 with Straight Ace high
+Seat 2: MathisKcr (small blind) showed [8h Jd] and lost with Straight King high
+
+

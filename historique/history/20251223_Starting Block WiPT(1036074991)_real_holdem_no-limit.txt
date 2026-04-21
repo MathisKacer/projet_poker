@@ -1,0 +1,528 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4449908202548494337-1-1766509375 - Holdem no limit (10/20) - 2025/12/23 17:02:55 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Mimi62575 (1500)
+Seat 2: Djedjou13 (1500)
+Seat 3: Brocajc67 (1500)
+Seat 4: Chabz22 (1500)
+Seat 5: lev setrakic (1500)
+Seat 6: MathisKcr (1500)
+*** ANTE/BLINDS ***
+Brocajc67 posts small blind 10
+Chabz22 posts big blind 20
+Dealt to MathisKcr [9h Jh]
+*** PRE-FLOP *** 
+lev setrakic calls 20
+MathisKcr raises 20 to 40
+Mimi62575 calls 40
+Djedjou13 folds
+Brocajc67 raises 1460 to 1500 and is all-in
+Chabz22 folds
+lev setrakic folds
+MathisKcr calls 1460 and is all-in
+Mimi62575 calls 1460 and is all-in
+*** FLOP *** [9s 2h 4c]
+*** TURN *** [9s 2h 4c][4d]
+*** RIVER *** [9s 2h 4c 4d][2d]
+*** SHOW DOWN ***
+Mimi62575 shows [5d 5h] (Two pairs : 5 and 4)
+Brocajc67 shows [Kh As] (Two pairs : 4 and 2)
+MathisKcr shows [9h Jh] (Two pairs : 9 and 4)
+MathisKcr collected 4540 from pot
+*** SUMMARY ***
+Total pot 4540 | No rake
+Board: [9s 2h 4c 4d 2d]
+Seat 1: Mimi62575 showed [5d 5h] and lost with Two pairs : 5 and 4
+Seat 3: Brocajc67 (small blind) showed [Kh As] and lost with Two pairs : 4 and 2
+Seat 6: MathisKcr showed [9h Jh] and won 4540 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4449908202548494337-2-1766509460 - Holdem no limit (10/20) - 2025/12/23 17:04:20 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Djedjou13 (1500)
+Seat 4: Chabz22 (1480)
+Seat 5: lev setrakic (1480)
+Seat 6: MathisKcr (4540)
+*** ANTE/BLINDS ***
+Chabz22 posts small blind 10
+lev setrakic posts big blind 20
+Dealt to MathisKcr [5d 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Djedjou13 calls 20
+Chabz22 folds
+lev setrakic checks
+*** FLOP *** [Qc 2d Js]
+lev setrakic bets 25
+Djedjou13 folds
+lev setrakic collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [Qc 2d Js]
+Seat 5: lev setrakic (big blind) won 75
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4449908202548494337-3-1766509481 - Holdem no limit (15/30) - 2025/12/23 17:04:41 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Djedjou13 (1480)
+Seat 4: Chabz22 (1470)
+Seat 5: lev setrakic (1510)
+Seat 6: MathisKcr (4540)
+*** ANTE/BLINDS ***
+lev setrakic posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6c 8s]
+*** PRE-FLOP *** 
+Djedjou13 calls 30
+Chabz22 folds
+lev setrakic folds
+MathisKcr checks
+*** FLOP *** [Kc 9h 2d]
+MathisKcr checks
+Djedjou13 bets 30
+MathisKcr folds
+Djedjou13 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [Kc 9h 2d]
+Seat 2: Djedjou13 won 105
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4449908202548494337-4-1766509495 - Holdem no limit (15/30) - 2025/12/23 17:04:55 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Djedjou13 (1525)
+Seat 4: Chabz22 (1470)
+Seat 5: lev setrakic (1495)
+Seat 6: MathisKcr (4510)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Djedjou13 posts big blind 30
+Dealt to MathisKcr [2s 4h]
+*** PRE-FLOP *** 
+Chabz22 folds
+lev setrakic folds
+MathisKcr raises 30 to 60
+Djedjou13 calls 30
+*** FLOP *** [8s Qc Qd]
+MathisKcr checks
+Djedjou13 bets 30
+MathisKcr calls 30
+*** TURN *** [8s Qc Qd][Kd]
+MathisKcr checks
+Djedjou13 bets 180
+MathisKcr folds
+Djedjou13 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [8s Qc Qd Kd]
+Seat 2: Djedjou13 (big blind) won 360
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4449908202548494337-5-1766509520 - Holdem no limit (15/30) - 2025/12/23 17:05:20 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Djedjou13 (1615)
+Seat 4: Chabz22 (1470)
+Seat 5: lev setrakic (1495)
+Seat 6: MathisKcr (4420)
+*** ANTE/BLINDS ***
+Djedjou13 posts small blind 15
+Chabz22 posts big blind 30
+Dealt to MathisKcr [Jc 5h]
+*** PRE-FLOP *** 
+lev setrakic folds
+MathisKcr raises 30 to 60
+Djedjou13 raises 90 to 150
+Chabz22 folds
+MathisKcr calls 90
+*** FLOP *** [Kd 3s 2s]
+Djedjou13 bets 1465 and is all-in
+MathisKcr folds
+Djedjou13 collected 1795 from pot
+*** SUMMARY ***
+Total pot 1795 | No rake
+Board: [Kd 3s 2s]
+Seat 2: Djedjou13 (small blind) won 1795
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4449908202548494337-6-1766509537 - Holdem no limit (15/30) - 2025/12/23 17:05:37 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Djedjou13 (1795)
+Seat 4: Chabz22 (1440)
+Seat 5: lev setrakic (1495)
+Seat 6: MathisKcr (4270)
+*** ANTE/BLINDS ***
+Chabz22 posts small blind 15
+lev setrakic posts big blind 30
+Dealt to MathisKcr [As Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Djedjou13 folds
+Chabz22 folds
+lev setrakic calls 30
+*** FLOP *** [Th 7d 2s]
+lev setrakic checks
+MathisKcr bets 60
+lev setrakic folds
+MathisKcr collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [Th 7d 2s]
+Seat 6: MathisKcr won 195
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4449908202548494337-7-1766509562 - Holdem no limit (20/40) - 2025/12/23 17:06:02 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Djedjou13 (1795)
+Seat 4: Chabz22 (1425)
+Seat 5: lev setrakic (1435)
+Seat 6: MathisKcr (4345)
+*** ANTE/BLINDS ***
+lev setrakic posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ks 2s]
+*** PRE-FLOP *** 
+Djedjou13 calls 40
+Chabz22 folds
+lev setrakic calls 20
+MathisKcr checks
+*** FLOP *** [7s 3s 8c]
+lev setrakic checks
+MathisKcr bets 80
+Djedjou13 calls 80
+lev setrakic folds
+*** TURN *** [7s 3s 8c][3c]
+MathisKcr checks
+Djedjou13 bets 1675 and is all-in
+MathisKcr folds
+Djedjou13 collected 1955 from pot
+*** SUMMARY ***
+Total pot 1955 | No rake
+Board: [7s 3s 8c 3c]
+Seat 2: Djedjou13 won 1955
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4449908202548494337-8-1766509598 - Holdem no limit (20/40) - 2025/12/23 17:06:38 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Djedjou13 (1955)
+Seat 4: Chabz22 (1425)
+Seat 5: lev setrakic (1395)
+Seat 6: MathisKcr (4225)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Djedjou13 posts big blind 40
+Dealt to MathisKcr [3h 8c]
+*** PRE-FLOP *** 
+Chabz22 folds
+lev setrakic folds
+MathisKcr folds
+Djedjou13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Djedjou13 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4449908202548494337-9-1766509608 - Holdem no limit (20/40) - 2025/12/23 17:06:48 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Djedjou13 (1975)
+Seat 4: Chabz22 (1425)
+Seat 5: lev setrakic (1395)
+Seat 6: MathisKcr (4205)
+*** ANTE/BLINDS ***
+Djedjou13 posts small blind 20
+Chabz22 posts big blind 40
+Dealt to MathisKcr [Kd Qs]
+*** PRE-FLOP *** 
+lev setrakic calls 40
+MathisKcr raises 80 to 120
+Djedjou13 calls 100
+Chabz22 folds
+lev setrakic calls 80
+*** FLOP *** [Qc Ac 5h]
+Djedjou13 bets 40
+lev setrakic calls 40
+MathisKcr calls 40
+*** TURN *** [Qc Ac 5h][2s]
+Djedjou13 bets 40
+lev setrakic calls 40
+MathisKcr raises 198 to 238
+Djedjou13 calls 198
+lev setrakic calls 198
+*** RIVER *** [Qc Ac 5h 2s][8h]
+Djedjou13 bets 1577 and is all-in
+lev setrakic calls 997 and is all-in
+MathisKcr calls 1577
+*** SHOW DOWN ***
+Djedjou13 shows [6d 4h] (High card : Ace)
+lev setrakic shows [5s As] (Two pairs : Aces and 5)
+MathisKcr shows [Kd Qs] (One pair : Queens)
+MathisKcr collected 1160 from side pot 1
+lev setrakic collected 4225 from main pot
+*** SUMMARY ***
+Total pot 5385 | No rake
+Board: [Qc Ac 5h 2s 8h]
+Seat 2: Djedjou13 (small blind) showed [6d 4h] and lost with High card : Ace
+Seat 5: lev setrakic showed [5s As] and won 4225 with Two pairs : Aces and 5
+Seat 6: MathisKcr (button) showed [Kd Qs] and won 1160 with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4449908202548494337-10-1766509677 - Holdem no limit (30/60) - 2025/12/23 17:07:57 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #2 is the button
+Seat 4: Chabz22 (1385)
+Seat 5: lev setrakic (4225)
+Seat 6: MathisKcr (3390)
+*** ANTE/BLINDS ***
+Chabz22 posts small blind 30
+lev setrakic posts big blind 60
+Dealt to MathisKcr [4c 5d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Chabz22 folds
+lev setrakic collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 5: lev setrakic (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4449908202548494337-11-1766509686 - Holdem no limit (30/60) - 2025/12/23 17:08:06 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #4 is the button
+Seat 4: Chabz22 (1355)
+Seat 5: lev setrakic (4255)
+Seat 6: MathisKcr (3390)
+*** ANTE/BLINDS ***
+lev setrakic posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [7c 4s]
+*** PRE-FLOP *** 
+Chabz22 folds
+lev setrakic raises 60 to 120
+MathisKcr calls 60
+*** FLOP *** [2c 3c 6s]
+lev setrakic checks
+MathisKcr bets 120
+lev setrakic calls 120
+*** TURN *** [2c 3c 6s][4h]
+lev setrakic checks
+MathisKcr bets 120
+lev setrakic calls 120
+*** RIVER *** [2c 3c 6s 4h][Kc]
+lev setrakic bets 576
+MathisKcr folds
+lev setrakic collected 1296 from pot
+*** SUMMARY ***
+Total pot 1296 | No rake
+Board: [2c 3c 6s 4h Kc]
+Seat 5: lev setrakic (small blind) won 1296
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4449908202548494337-12-1766509721 - Holdem no limit (30/60) - 2025/12/23 17:08:41 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #5 is the button
+Seat 4: Chabz22 (1355)
+Seat 5: lev setrakic (4615)
+Seat 6: MathisKcr (3030)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Chabz22 posts big blind 60
+Dealt to MathisKcr [5c 8s]
+*** PRE-FLOP *** 
+lev setrakic raises 60 to 120
+MathisKcr calls 90
+Chabz22 calls 60
+*** FLOP *** [8c 3s 4d]
+MathisKcr bets 2910 and is all-in
+Chabz22 folds
+lev setrakic folds
+MathisKcr collected 3270 from pot
+*** SUMMARY ***
+Total pot 3270 | No rake
+Board: [8c 3s 4d]
+Seat 6: MathisKcr (small blind) won 3270
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4449908202548494337-13-1766509745 - Holdem no limit (40/80) - 2025/12/23 17:09:05 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #6 is the button
+Seat 4: Chabz22 (1235)
+Seat 5: lev setrakic (4495)
+Seat 6: MathisKcr (3270)
+*** ANTE/BLINDS ***
+Chabz22 posts small blind 40
+lev setrakic posts big blind 80
+Dealt to MathisKcr [Ts 5s]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 160
+Chabz22 raises 1075 to 1235 and is all-in
+lev setrakic folds
+MathisKcr folds
+Chabz22 collected 1475 from pot
+*** SUMMARY ***
+Total pot 1475 | No rake
+Seat 4: Chabz22 (small blind) won 1475
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4449908202548494337-14-1766509759 - Holdem no limit (40/80) - 2025/12/23 17:09:19 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #4 is the button
+Seat 4: Chabz22 (1475)
+Seat 5: lev setrakic (4415)
+Seat 6: MathisKcr (3110)
+*** ANTE/BLINDS ***
+lev setrakic posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [9c 6s]
+*** PRE-FLOP *** 
+Chabz22 raises 1395 to 1475 and is all-in
+lev setrakic folds
+MathisKcr folds
+Chabz22 collected 1595 from pot
+*** SUMMARY ***
+Total pot 1595 | No rake
+Seat 4: Chabz22 (button) won 1595
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4449908202548494337-15-1766509768 - Holdem no limit (40/80) - 2025/12/23 17:09:28 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #5 is the button
+Seat 4: Chabz22 (1595)
+Seat 5: lev setrakic (4375)
+Seat 6: MathisKcr (3030)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Chabz22 posts big blind 80
+Dealt to MathisKcr [Ad 9s]
+*** PRE-FLOP *** 
+lev setrakic calls 80
+MathisKcr raises 80 to 160
+Chabz22 raises 320 to 480
+lev setrakic calls 400
+MathisKcr raises 2550 to 3030 and is all-in
+Chabz22 calls 1115 and is all-in
+lev setrakic folds
+*** FLOP *** [9d 3s Ah]
+*** TURN *** [9d 3s Ah][Th]
+*** RIVER *** [9d 3s Ah Th][6s]
+*** SHOW DOWN ***
+Chabz22 shows [Qh 5s] (High card : Ace)
+MathisKcr shows [Ad 9s] (Two pairs : Aces and 9)
+MathisKcr collected 5105 from pot
+*** SUMMARY ***
+Total pot 5105 | No rake
+Board: [9d 3s Ah Th 6s]
+Seat 4: Chabz22 (big blind) showed [Qh 5s] and lost with High card : Ace
+Seat 6: MathisKcr (small blind) showed [Ad 9s] and won 5105 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4449908202548494337-16-1766509804 - Holdem no limit (40/80) - 2025/12/23 17:10:04 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #5 is the button
+Seat 5: lev setrakic (3895)
+Seat 6: MathisKcr (5105)
+*** ANTE/BLINDS ***
+lev setrakic posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Ad Ks]
+*** PRE-FLOP *** 
+lev setrakic calls 40
+MathisKcr raises 80 to 160
+lev setrakic raises 320 to 480
+MathisKcr raises 4625 to 5105 and is all-in
+lev setrakic calls 3415 and is all-in
+*** FLOP *** [6d 3s Td]
+*** TURN *** [6d 3s Td][8s]
+*** RIVER *** [6d 3s Td 8s][7c]
+*** SHOW DOWN ***
+lev setrakic shows [Ac Kh] (High card : Ace)
+MathisKcr shows [Ad Ks] (High card : Ace)
+MathisKcr collected 5105 from side pot 1
+lev setrakic collected 3895 from main pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Board: [6d 3s Td 8s 7c]
+Seat 5: lev setrakic (small blind) (button) showed [Ac Kh] and won 3895 with High card : Ace
+Seat 6: MathisKcr (big blind) showed [Ad Ks] and won 5105 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4449908202548494337-17-1766509830 - Holdem no limit (60/120) - 2025/12/23 17:10:30 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #6 is the button
+Seat 5: lev setrakic (3895)
+Seat 6: MathisKcr (5105)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 60
+lev setrakic posts big blind 120
+Dealt to MathisKcr [Jd 4h]
+*** PRE-FLOP *** 
+MathisKcr raises 120 to 240
+lev setrakic calls 120
+*** FLOP *** [4d 7h 2h]
+lev setrakic checks
+MathisKcr bets 240
+lev setrakic calls 240
+*** TURN *** [4d 7h 2h][Ts]
+lev setrakic checks
+MathisKcr bets 240
+lev setrakic calls 240
+*** RIVER *** [4d 7h 2h Ts][4c]
+lev setrakic bets 504
+MathisKcr raises 3881 to 4385 and is all-in
+lev setrakic folds
+MathisKcr collected 6329 from pot
+*** SUMMARY ***
+Total pot 6329 | No rake
+Board: [4d 7h 2h Ts 4c]
+Seat 6: MathisKcr (small blind) (button) won 6329
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4449908202548494337-18-1766509880 - Holdem no limit (60/120) - 2025/12/23 17:11:20 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #5 is the button
+Seat 5: lev setrakic (2671)
+Seat 6: MathisKcr (6329)
+*** ANTE/BLINDS ***
+lev setrakic posts small blind 60
+MathisKcr posts big blind 120
+Dealt to MathisKcr [7s Ac]
+*** PRE-FLOP *** 
+lev setrakic calls 60
+MathisKcr raises 120 to 240
+lev setrakic calls 120
+*** FLOP *** [9d 2s 7c]
+MathisKcr bets 240
+lev setrakic calls 240
+*** TURN *** [9d 2s 7c][4d]
+MathisKcr checks
+lev setrakic checks
+*** RIVER *** [9d 2s 7c 4d][Jh]
+MathisKcr bets 360
+lev setrakic calls 360
+*** SHOW DOWN ***
+lev setrakic shows [3d Kc] (High card : King)
+MathisKcr shows [7s Ac] (One pair : 7)
+MathisKcr collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [9d 2s 7c 4d Jh]
+Seat 5: lev setrakic (small blind) (button) showed [3d Kc] and lost with High card : King
+Seat 6: MathisKcr (big blind) showed [7s Ac] and won 1680 with One pair : 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #4449908202548494337-19-1766509911 - Holdem no limit (60/120) - 2025/12/23 17:11:51 UTC
+Table: 'Starting Block WiPT(1036074991)#0' 6-max (real money) Seat #6 is the button
+Seat 5: lev setrakic (1831)
+Seat 6: MathisKcr (7169)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 60
+lev setrakic posts big blind 120
+Dealt to MathisKcr [Qs 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 120 to 240
+lev setrakic raises 360 to 600
+MathisKcr calls 360
+*** FLOP *** [Js 7c 9s]
+lev setrakic bets 1231 and is all-in
+MathisKcr calls 1231
+*** TURN *** [Js 7c 9s][Qh]
+*** RIVER *** [Js 7c 9s Qh][4d]
+*** SHOW DOWN ***
+lev setrakic shows [Ah 8d] (High card : Ace)
+MathisKcr shows [Qs 3s] (One pair : Queens)
+MathisKcr collected 3662 from pot
+*** SUMMARY ***
+Total pot 3662 | No rake
+Board: [Js 7c 9s Qh 4d]
+Seat 5: lev setrakic (big blind) showed [Ah 8d] and lost with High card : Ace
+Seat 6: MathisKcr (small blind) (button) showed [Qs 3s] and won 3662 with One pair : Queens
+
+

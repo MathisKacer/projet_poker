@@ -1,0 +1,151 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4110038352265216001-1-1750791514 - Holdem no limit (10/20) - 2025/06/24 18:58:34 UTC
+Table: 'Expresso(956942875)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Anna56310 (500)
+Seat 3: Lilymgt (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Anna56310 posts big blind 20
+Dealt to MathisKcr [Kc Ah]
+*** PRE-FLOP *** 
+Lilymgt folds
+MathisKcr calls 10
+Anna56310 checks
+*** FLOP *** [3s 7c 8d]
+MathisKcr checks
+Anna56310 checks
+*** TURN *** [3s 7c 8d][Jd]
+MathisKcr bets 40
+Anna56310 folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3s 7c 8d Jd]
+Seat 1: MathisKcr (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4110038352265216001-2-1750791539 - Holdem no limit (10/20) - 2025/06/24 18:58:59 UTC
+Table: 'Expresso(956942875)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (520)
+Seat 2: Anna56310 (480)
+Seat 3: Lilymgt (500)
+*** ANTE/BLINDS ***
+Anna56310 posts small blind 10
+Lilymgt posts big blind 20
+Dealt to MathisKcr [Td 7c]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Anna56310 calls 10
+Lilymgt checks
+*** FLOP *** [6h 5d 9s]
+Anna56310 checks
+Lilymgt checks
+MathisKcr bets 40
+Anna56310 folds
+Lilymgt calls 40
+*** TURN *** [6h 5d 9s][Tc]
+Lilymgt checks
+MathisKcr bets 60
+Lilymgt folds
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [6h 5d 9s Tc]
+Seat 1: MathisKcr (button) won 200
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4110038352265216001-3-1750791572 - Holdem no limit (10/20) - 2025/06/24 18:59:32 UTC
+Table: 'Expresso(956942875)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (600)
+Seat 2: Anna56310 (460)
+Seat 3: Lilymgt (440)
+*** ANTE/BLINDS ***
+Lilymgt posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c 6s]
+*** PRE-FLOP *** 
+Anna56310 raises 50 to 70
+Lilymgt calls 60
+MathisKcr folds
+*** FLOP *** [6c 9c 4d]
+Lilymgt checks
+Anna56310 checks
+*** TURN *** [6c 9c 4d][Ts]
+Lilymgt checks
+Anna56310 checks
+*** RIVER *** [6c 9c 4d Ts][As]
+Lilymgt checks
+Anna56310 bets 160
+Lilymgt folds
+Anna56310 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [6c 9c 4d Ts As]
+Seat 2: Anna56310 (button) won 320
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4110038352265216001-4-1750791617 - Holdem no limit (15/30) - 2025/06/24 19:00:17 UTC
+Table: 'Expresso(956942875)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (580)
+Seat 2: Anna56310 (550)
+Seat 3: Lilymgt (370)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Anna56310 posts big blind 30
+Dealt to MathisKcr [Qh 4d]
+*** PRE-FLOP *** 
+Lilymgt folds
+MathisKcr calls 15
+Anna56310 raises 60 to 90
+MathisKcr calls 60
+*** FLOP *** [4c 3h 7h]
+MathisKcr checks
+Anna56310 bets 144
+MathisKcr raises 346 to 490 and is all-in
+Anna56310 calls 316 and is all-in
+*** TURN *** [4c 3h 7h][Ks]
+*** RIVER *** [4c 3h 7h Ks][Qs]
+*** SHOW DOWN ***
+MathisKcr shows [Qh 4d] (Two pairs : Queens and 4)
+Anna56310 shows [Kc Kh] (Trips of Kings)
+Anna56310 collected 1100 from main pot
+MathisKcr collected 30 from side pot 1
+*** SUMMARY ***
+Total pot 1130 | No rake
+Board: [4c 3h 7h Ks Qs]
+Seat 1: MathisKcr (small blind) showed [Qh 4d] and won 30 with Two pairs : Queens and 4
+Seat 2: Anna56310 (big blind) showed [Kc Kh] and won 1100 with Trips of Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4110038352265216001-5-1750791652 - Holdem no limit (15/30) - 2025/06/24 19:00:52 UTC
+Table: 'Expresso(956942875)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (30)
+Seat 2: Anna56310 (1100)
+Seat 3: Lilymgt (370)
+*** ANTE/BLINDS ***
+Anna56310 posts small blind 15
+Lilymgt posts big blind 30
+Dealt to MathisKcr [Jc 8c]
+*** PRE-FLOP *** 
+MathisKcr calls 30 and is all-in
+Anna56310 calls 15
+Lilymgt checks
+*** FLOP *** [Js 9s 2s]
+Anna56310 checks
+Lilymgt checks
+*** TURN *** [Js 9s 2s][7s]
+Anna56310 checks
+Lilymgt bets 90
+Anna56310 folds
+*** RIVER *** [Js 9s 2s 7s][7c]
+*** SHOW DOWN ***
+MathisKcr shows [Jc 8c] (Two pairs : Jacks and 7)
+Lilymgt shows [Ts Tc] (Flush Jack high)
+Lilymgt collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Js 9s 2s 7s 7c]
+Seat 1: MathisKcr (button) showed [Jc 8c] and lost with Two pairs : Jacks and 7
+Seat 3: Lilymgt (big blind) showed [Ts Tc] and won 180 with Flush Jack high
+
+

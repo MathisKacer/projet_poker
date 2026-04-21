@@ -1,0 +1,492 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4539632221140549633-1-1770151658 - Holdem no limit (10/20) - 2026/02/03 20:47:38 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (500)
+Seat 2: SCSniper7154 (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+SCSniper7154 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9c 4d]
+*** PRE-FLOP *** 
+JB Crack1204 calls 20
+SCSniper7154 calls 10
+MathisKcr checks
+*** FLOP *** [7h 5s 5c]
+SCSniper7154 checks
+MathisKcr checks
+JB Crack1204 bets 21
+SCSniper7154 calls 21
+MathisKcr folds
+*** TURN *** [7h 5s 5c][3s]
+SCSniper7154 checks
+JB Crack1204 bets 66
+SCSniper7154 folds
+JB Crack1204 collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | No rake
+Board: [7h 5s 5c 3s]
+Seat 1: JB Crack1204 (button) won 168
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4539632221140549633-2-1770151718 - Holdem no limit (10/20) - 2026/02/03 20:48:38 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #2 is the button
+Seat 1: JB Crack1204 (561)
+Seat 2: SCSniper7154 (459)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+JB Crack1204 posts big blind 20
+Dealt to MathisKcr [5h 8s]
+*** PRE-FLOP *** 
+SCSniper7154 raises 50 to 70
+MathisKcr folds
+JB Crack1204 calls 50
+*** FLOP *** [Jd 9d 9s]
+JB Crack1204 checks
+SCSniper7154 bets 150
+JB Crack1204 raises 341 to 491 and is all-in
+SCSniper7154 calls 239 and is all-in
+*** TURN *** [Jd 9d 9s][2h]
+*** RIVER *** [Jd 9d 9s 2h][Th]
+*** SHOW DOWN ***
+SCSniper7154 shows [Qs 7d] (One pair : 9)
+JB Crack1204 shows [Jh Tc] (Two pairs : Jacks and Tens)
+JB Crack1204 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [Jd 9d 9s 2h Th]
+Seat 1: JB Crack1204 (big blind) showed [Jh Tc] and won 1030 with Two pairs : Jacks and Tens
+Seat 2: SCSniper7154 (button) showed [Qs 7d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4539632221140549633-3-1770151741 - Holdem no limit (10/20) - 2026/02/03 20:49:01 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1030)
+Seat 3: MathisKcr (470)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jh 4d]
+*** PRE-FLOP *** 
+JB Crack1204 raises 40 to 60
+MathisKcr folds
+JB Crack1204 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: JB Crack1204 (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4539632221140549633-4-1770151751 - Holdem no limit (15/30) - 2026/02/03 20:49:11 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1050)
+Seat 3: MathisKcr (450)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+JB Crack1204 posts big blind 30
+Dealt to MathisKcr [Ad 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+JB Crack1204 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: JB Crack1204 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4539632221140549633-5-1770151760 - Holdem no limit (15/30) - 2026/02/03 20:49:20 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1065)
+Seat 3: MathisKcr (435)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8d Ks]
+*** PRE-FLOP *** 
+JB Crack1204 raises 60 to 90
+MathisKcr folds
+JB Crack1204 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: JB Crack1204 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4539632221140549633-6-1770151770 - Holdem no limit (15/30) - 2026/02/03 20:49:30 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1095)
+Seat 3: MathisKcr (405)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+JB Crack1204 posts big blind 30
+Dealt to MathisKcr [9s Td]
+*** PRE-FLOP *** 
+MathisKcr folds
+JB Crack1204 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: JB Crack1204 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4539632221140549633-7-1770151778 - Holdem no limit (15/30) - 2026/02/03 20:49:38 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1110)
+Seat 3: MathisKcr (390)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ah 5d]
+*** PRE-FLOP *** 
+JB Crack1204 raises 60 to 90
+MathisKcr folds
+JB Crack1204 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: JB Crack1204 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4539632221140549633-8-1770151790 - Holdem no limit (15/30) - 2026/02/03 20:49:50 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1140)
+Seat 3: MathisKcr (360)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+JB Crack1204 posts big blind 30
+Dealt to MathisKcr [4s 4d]
+*** PRE-FLOP *** 
+MathisKcr folds
+JB Crack1204 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: JB Crack1204 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4539632221140549633-9-1770151798 - Holdem no limit (15/30) - 2026/02/03 20:49:58 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1155)
+Seat 3: MathisKcr (345)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3s Jc]
+*** PRE-FLOP *** 
+JB Crack1204 raises 60 to 90
+MathisKcr folds
+JB Crack1204 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: JB Crack1204 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4539632221140549633-10-1770151809 - Holdem no limit (15/30) - 2026/02/03 20:50:09 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1185)
+Seat 3: MathisKcr (315)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+JB Crack1204 posts big blind 30
+Dealt to MathisKcr [2s 9h]
+*** PRE-FLOP *** 
+MathisKcr folds
+JB Crack1204 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: JB Crack1204 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4539632221140549633-11-1770151818 - Holdem no limit (15/30) - 2026/02/03 20:50:18 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1200)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ad 9s]
+*** PRE-FLOP *** 
+JB Crack1204 calls 15
+MathisKcr checks
+*** FLOP *** [6c Js 7h]
+MathisKcr checks
+JB Crack1204 bets 39
+MathisKcr folds
+JB Crack1204 collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [6c Js 7h]
+Seat 1: JB Crack1204 (small blind) (button) won 99
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4539632221140549633-12-1770151843 - Holdem no limit (20/40) - 2026/02/03 20:50:43 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1230)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+JB Crack1204 posts big blind 40
+Dealt to MathisKcr [6h 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+JB Crack1204 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: JB Crack1204 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4539632221140549633-13-1770151851 - Holdem no limit (20/40) - 2026/02/03 20:50:51 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1250)
+Seat 3: MathisKcr (250)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [2s Kh]
+*** PRE-FLOP *** 
+JB Crack1204 raises 80 to 120
+MathisKcr folds
+JB Crack1204 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: JB Crack1204 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4539632221140549633-14-1770151861 - Holdem no limit (20/40) - 2026/02/03 20:51:01 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1290)
+Seat 3: MathisKcr (210)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+JB Crack1204 posts big blind 40
+Dealt to MathisKcr [8h Qc]
+*** PRE-FLOP *** 
+MathisKcr folds
+JB Crack1204 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: JB Crack1204 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4539632221140549633-15-1770151870 - Holdem no limit (20/40) - 2026/02/03 20:51:10 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1310)
+Seat 3: MathisKcr (190)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3s Qh]
+*** PRE-FLOP *** 
+JB Crack1204 raises 80 to 120
+MathisKcr folds
+JB Crack1204 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 1: JB Crack1204 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4539632221140549633-16-1770151880 - Holdem no limit (20/40) - 2026/02/03 20:51:20 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1350)
+Seat 3: MathisKcr (150)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+JB Crack1204 posts big blind 40
+Dealt to MathisKcr [8d Kh]
+*** PRE-FLOP *** 
+MathisKcr folds
+JB Crack1204 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: JB Crack1204 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4539632221140549633-17-1770151889 - Holdem no limit (20/40) - 2026/02/03 20:51:29 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1370)
+Seat 3: MathisKcr (130)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kh 8s]
+*** PRE-FLOP *** 
+JB Crack1204 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4539632221140549633-18-1770151902 - Holdem no limit (20/40) - 2026/02/03 20:51:42 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1350)
+Seat 3: MathisKcr (150)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+JB Crack1204 posts big blind 40
+Dealt to MathisKcr [9c 9s]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+JB Crack1204 raises 1310 to 1350 and is all-in
+MathisKcr calls 110 and is all-in
+*** FLOP *** [4d Ah As]
+*** TURN *** [4d Ah As][6d]
+*** RIVER *** [4d Ah As 6d][8h]
+*** SHOW DOWN ***
+JB Crack1204 shows [9d Kd] (One pair : Aces)
+MathisKcr shows [9c 9s] (Two pairs : Aces and 9)
+MathisKcr collected 300 from main pot
+JB Crack1204 collected 1200 from side pot 1
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [4d Ah As 6d 8h]
+Seat 1: JB Crack1204 (big blind) showed [9d Kd] and won 1200 with One pair : Aces
+Seat 3: MathisKcr (small blind) (button) showed [9c 9s] and won 300 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4539632221140549633-19-1770151919 - Holdem no limit (20/40) - 2026/02/03 20:51:59 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1200)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [8s 2h]
+*** PRE-FLOP *** 
+JB Crack1204 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4539632221140549633-20-1770151924 - Holdem no limit (20/40) - 2026/02/03 20:52:04 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1180)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+JB Crack1204 posts big blind 40
+Dealt to MathisKcr [Tc Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+JB Crack1204 calls 40
+*** FLOP *** [9s Ts 7s]
+JB Crack1204 checks
+MathisKcr bets 80
+JB Crack1204 folds
+MathisKcr collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9s Ts 7s]
+Seat 3: MathisKcr (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4539632221140549633-21-1770151940 - Holdem no limit (30/60) - 2026/02/03 20:52:20 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1100)
+Seat 3: MathisKcr (400)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [5h 9d]
+*** PRE-FLOP *** 
+JB Crack1204 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4539632221140549633-22-1770151946 - Holdem no limit (30/60) - 2026/02/03 20:52:26 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1070)
+Seat 3: MathisKcr (430)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+JB Crack1204 posts big blind 60
+Dealt to MathisKcr [5s Js]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+JB Crack1204 calls 60
+*** FLOP *** [9c 6d 2c]
+JB Crack1204 bets 950 and is all-in
+MathisKcr folds
+JB Crack1204 collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | No rake
+Board: [9c 6d 2c]
+Seat 1: JB Crack1204 (big blind) won 1190
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4539632221140549633-23-1770151958 - Holdem no limit (30/60) - 2026/02/03 20:52:38 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1190)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [As 7s]
+*** PRE-FLOP *** 
+JB Crack1204 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4539632221140549633-24-1770151964 - Holdem no limit (30/60) - 2026/02/03 20:52:44 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1160)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+JB Crack1204 posts big blind 60
+Dealt to MathisKcr [7h 7d]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 340 and is all-in
+JB Crack1204 folds
+MathisKcr collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 3: MathisKcr (small blind) (button) won 400
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4539632221140549633-25-1770151976 - Holdem no limit (30/60) - 2026/02/03 20:52:56 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JB Crack1204 (1100)
+Seat 3: MathisKcr (400)
+*** ANTE/BLINDS ***
+JB Crack1204 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Tc 9d]
+*** PRE-FLOP *** 
+JB Crack1204 raises 1040 to 1100 and is all-in
+MathisKcr folds
+JB Crack1204 collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | No rake
+Seat 1: JB Crack1204 (small blind) (button) won 1160
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4539632221140549633-26-1770151981 - Holdem no limit (30/60) - 2026/02/03 20:53:01 UTC
+Table: 'Expresso(1056965492)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JB Crack1204 (1160)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+JB Crack1204 posts big blind 60
+Dealt to MathisKcr [8h Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+JB Crack1204 calls 60
+*** FLOP *** [9c Qd 8d]
+JB Crack1204 bets 1040 and is all-in
+MathisKcr calls 220 and is all-in
+*** TURN *** [9c Qd 8d][Ad]
+*** RIVER *** [9c Qd 8d Ad][4d]
+*** SHOW DOWN ***
+MathisKcr shows [8h Ah] (Two pairs : Aces and 8)
+JB Crack1204 shows [Jh 9d] (Flush Ace high)
+JB Crack1204 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [9c Qd 8d Ad 4d]
+Seat 1: JB Crack1204 (big blind) showed [Jh 9d] and won 1500 with Flush Ace high
+Seat 3: MathisKcr (small blind) (button) showed [8h Ah] and lost with Two pairs : Aces and 8
+
+

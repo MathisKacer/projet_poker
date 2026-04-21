@@ -1,0 +1,136 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670082631461765121-1-1774862007 - Holdem no limit (10/20) - 2026/03/30 09:13:27 UTC
+Table: 'Expresso Nitro(1087338345)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SpermoQ (300)
+Seat 2: MathisKcr (300)
+Seat 3: Genki_sama (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Genki_sama posts big blind 20
+Dealt to MathisKcr [9s 8c]
+*** PRE-FLOP *** 
+SpermoQ raises 20 to 40
+MathisKcr folds
+Genki_sama calls 20
+*** FLOP *** [Ad 9c 6s]
+Genki_sama checks
+SpermoQ bets 31
+Genki_sama calls 31
+*** TURN *** [Ad 9c 6s][6d]
+Genki_sama checks
+SpermoQ bets 53
+Genki_sama raises 176 to 229 and is all-in
+SpermoQ folds
+Genki_sama collected 434 from pot
+*** SUMMARY ***
+Total pot 434 | No rake
+Board: [Ad 9c 6s 6d]
+Seat 3: Genki_sama (big blind) won 434
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670082631461765121-2-1774862023 - Holdem no limit (10/20) - 2026/03/30 09:13:43 UTC
+Table: 'Expresso Nitro(1087338345)#0' 3-max (real money) Seat #2 is the button
+Seat 1: SpermoQ (176)
+Seat 2: MathisKcr (290)
+Seat 3: Genki_sama (434)
+*** ANTE/BLINDS ***
+Genki_sama posts small blind 10
+SpermoQ posts big blind 20
+Dealt to MathisKcr [Kc Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Genki_sama folds
+SpermoQ calls 20
+*** FLOP *** [Td 7s Kh]
+SpermoQ checks
+MathisKcr bets 32
+SpermoQ raises 104 to 136 and is all-in
+MathisKcr calls 104
+*** TURN *** [Td 7s Kh][9h]
+*** RIVER *** [Td 7s Kh 9h][Qd]
+*** SHOW DOWN ***
+MathisKcr shows [Kc Ah] (One pair : Kings)
+SpermoQ shows [Jc 7c] (Straight King high)
+SpermoQ collected 362 from pot
+*** SUMMARY ***
+Total pot 362 | No rake
+Board: [Td 7s Kh 9h Qd]
+Seat 1: SpermoQ (big blind) showed [Jc 7c] and won 362 with Straight King high
+Seat 2: MathisKcr (button) showed [Kc Ah] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670082631461765121-3-1774862047 - Holdem no limit (10/20) - 2026/03/30 09:14:07 UTC
+Table: 'Expresso Nitro(1087338345)#0' 3-max (real money) Seat #3 is the button
+Seat 1: SpermoQ (362)
+Seat 2: MathisKcr (114)
+Seat 3: Genki_sama (424)
+*** ANTE/BLINDS ***
+SpermoQ posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8h Qh]
+*** PRE-FLOP *** 
+Genki_sama folds
+SpermoQ raises 342 to 362 and is all-in
+MathisKcr folds
+SpermoQ collected 382 from pot
+*** SUMMARY ***
+Total pot 382 | No rake
+Seat 1: SpermoQ (small blind) won 382
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4670082631461765121-4-1774862063 - Holdem no limit (10/20) - 2026/03/30 09:14:23 UTC
+Table: 'Expresso Nitro(1087338345)#0' 3-max (real money) Seat #1 is the button
+Seat 1: SpermoQ (382)
+Seat 2: MathisKcr (94)
+Seat 3: Genki_sama (424)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Genki_sama posts big blind 20
+Dealt to MathisKcr [Ac 8c]
+*** PRE-FLOP *** 
+SpermoQ calls 20
+MathisKcr raises 74 to 94 and is all-in
+Genki_sama calls 74
+SpermoQ folds
+*** FLOP *** [5d Kh Ks]
+*** TURN *** [5d Kh Ks][9d]
+*** RIVER *** [5d Kh Ks 9d][3h]
+*** SHOW DOWN ***
+Genki_sama shows [2c Ad] (One pair : Kings)
+MathisKcr shows [Ac 8c] (One pair : Kings)
+MathisKcr collected 208 from pot
+*** SUMMARY ***
+Total pot 208 | No rake
+Board: [5d Kh Ks 9d 3h]
+Seat 2: MathisKcr (small blind) showed [Ac 8c] and won 208 with One pair : Kings
+Seat 3: Genki_sama (big blind) showed [2c Ad] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4670082631461765121-5-1774862080 - Holdem no limit (15/30) - 2026/03/30 09:14:40 UTC
+Table: 'Expresso Nitro(1087338345)#0' 3-max (real money) Seat #2 is the button
+Seat 1: SpermoQ (362)
+Seat 2: MathisKcr (208)
+Seat 3: Genki_sama (330)
+*** ANTE/BLINDS ***
+Genki_sama posts small blind 15
+SpermoQ posts big blind 30
+Dealt to MathisKcr [Ad 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 178 to 208 and is all-in
+Genki_sama raises 122 to 330 and is all-in
+SpermoQ raises 32 to 362 and is all-in
+*** FLOP *** [Jd 4c 2d]
+*** TURN *** [Jd 4c 2d][7h]
+*** RIVER *** [Jd 4c 2d 7h][3h]
+*** SHOW DOWN ***
+MathisKcr shows [Ad 7s] (One pair : 7)
+Genki_sama shows [5s Qs] (High card : Queen)
+SpermoQ shows [Ac 5d] (Straight 5 high)
+SpermoQ collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Jd 4c 2d 7h 3h]
+Seat 1: SpermoQ (big blind) showed [Ac 5d] and won 900 with Straight 5 high
+Seat 2: MathisKcr (button) showed [Ad 7s] and lost with One pair : 7
+Seat 3: Genki_sama (small blind) showed [5s Qs] and lost with High card : Queen
+
+

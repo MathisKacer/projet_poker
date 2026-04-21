@@ -1,0 +1,192 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4599397249410138113-1-1772301935 - Holdem no limit (10/20) - 2026/02/28 18:05:35 UTC
+Table: 'Expresso Nitro(1070880622)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Zxlagrinta (300)
+Seat 3: Lagardaire (300)
+*** ANTE/BLINDS ***
+Lagardaire posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6d Tc]
+*** PRE-FLOP *** 
+Zxlagrinta calls 20
+Lagardaire calls 10
+MathisKcr checks
+*** FLOP *** [2d 4h 7d]
+Lagardaire checks
+MathisKcr checks
+Zxlagrinta checks
+*** TURN *** [2d 4h 7d][3s]
+Lagardaire checks
+MathisKcr checks
+Zxlagrinta checks
+*** RIVER *** [2d 4h 7d 3s][Jc]
+Lagardaire checks
+MathisKcr checks
+Zxlagrinta bets 60
+Lagardaire folds
+MathisKcr folds
+Zxlagrinta collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2d 4h 7d 3s Jc]
+Seat 2: Zxlagrinta (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4599397249410138113-2-1772301984 - Holdem no limit (10/20) - 2026/02/28 18:06:24 UTC
+Table: 'Expresso Nitro(1070880622)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Zxlagrinta (340)
+Seat 3: Lagardaire (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Zxlagrinta posts big blind 20
+Dealt to MathisKcr [7h Td]
+*** PRE-FLOP *** 
+Lagardaire folds
+MathisKcr raises 20 to 40
+Zxlagrinta calls 20
+*** FLOP *** [2h 4c 3s]
+MathisKcr checks
+Zxlagrinta checks
+*** TURN *** [2h 4c 3s][7s]
+MathisKcr bets 40
+Zxlagrinta calls 40
+*** RIVER *** [2h 4c 3s 7s][Qs]
+MathisKcr bets 200 and is all-in
+Zxlagrinta folds
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [2h 4c 3s 7s Qs]
+Seat 1: MathisKcr (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4599397249410138113-3-1772302019 - Holdem no limit (15/30) - 2026/02/28 18:06:59 UTC
+Table: 'Expresso Nitro(1070880622)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (360)
+Seat 2: Zxlagrinta (260)
+Seat 3: Lagardaire (280)
+*** ANTE/BLINDS ***
+Zxlagrinta posts small blind 15
+Lagardaire posts big blind 30
+Dealt to MathisKcr [Jc Tc]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Zxlagrinta folds
+Lagardaire raises 30 to 90
+MathisKcr raises 270 to 360 and is all-in
+Lagardaire calls 190 and is all-in
+*** FLOP *** [2s Qd Qs]
+*** TURN *** [2s Qd Qs][4d]
+*** RIVER *** [2s Qd Qs 4d][4c]
+*** SHOW DOWN ***
+MathisKcr shows [Jc Tc] (Two pairs : Queens and 4)
+Lagardaire shows [9c Qc] (Full of Queens and 4)
+Lagardaire collected 575 from main pot
+MathisKcr collected 80 from side pot 1
+*** SUMMARY ***
+Total pot 655 | No rake
+Board: [2s Qd Qs 4d 4c]
+Seat 1: MathisKcr (button) showed [Jc Tc] and won 80 with Two pairs : Queens and 4
+Seat 3: Lagardaire (big blind) showed [9c Qc] and won 575 with Full of Queens and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4599397249410138113-4-1772302043 - Holdem no limit (15/30) - 2026/02/28 18:07:23 UTC
+Table: 'Expresso Nitro(1070880622)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (80)
+Seat 2: Zxlagrinta (245)
+Seat 3: Lagardaire (575)
+*** ANTE/BLINDS ***
+Lagardaire posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2c 8h]
+*** PRE-FLOP *** 
+Zxlagrinta calls 30
+Lagardaire folds
+MathisKcr checks
+*** FLOP *** [8c 6d Th]
+MathisKcr bets 50 and is all-in
+Zxlagrinta calls 50
+*** TURN *** [8c 6d Th][7h]
+*** RIVER *** [8c 6d Th 7h][9h]
+*** SHOW DOWN ***
+MathisKcr shows [2c 8h] (Straight Ten high)
+Zxlagrinta shows [5s Tc] (Straight Ten high)
+Zxlagrinta collected 88 from pot
+MathisKcr collected 87 from pot
+*** SUMMARY ***
+Total pot 175 | No rake
+Board: [8c 6d Th 7h 9h]
+Seat 1: MathisKcr (big blind) showed [2c 8h] and won 87 with Straight Ten high
+Seat 2: Zxlagrinta (button) showed [5s Tc] and won 88 with Straight Ten high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4599397249410138113-5-1772302060 - Holdem no limit (20/40) - 2026/02/28 18:07:40 UTC
+Table: 'Expresso Nitro(1070880622)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (87)
+Seat 2: Zxlagrinta (253)
+Seat 3: Lagardaire (560)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Zxlagrinta posts big blind 40
+Dealt to MathisKcr [3c Td]
+*** PRE-FLOP *** 
+Lagardaire folds
+MathisKcr folds
+Zxlagrinta collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Zxlagrinta (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4599397249410138113-6-1772302066 - Holdem no limit (20/40) - 2026/02/28 18:07:46 UTC
+Table: 'Expresso Nitro(1070880622)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (67)
+Seat 2: Zxlagrinta (273)
+Seat 3: Lagardaire (560)
+*** ANTE/BLINDS ***
+Zxlagrinta posts small blind 20
+Lagardaire posts big blind 40
+Dealt to MathisKcr [7d 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Zxlagrinta calls 20
+Lagardaire raises 520 to 560 and is all-in
+Zxlagrinta folds
+Lagardaire collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 3: Lagardaire (big blind) won 600
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4599397249410138113-7-1772302075 - Holdem no limit (20/40) - 2026/02/28 18:07:55 UTC
+Table: 'Expresso Nitro(1070880622)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (67)
+Seat 2: Zxlagrinta (233)
+Seat 3: Lagardaire (600)
+*** ANTE/BLINDS ***
+Lagardaire posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [4h 6d]
+*** PRE-FLOP *** 
+Zxlagrinta calls 40
+Lagardaire raises 560 to 600 and is all-in
+MathisKcr calls 27 and is all-in
+Zxlagrinta calls 193 and is all-in
+*** FLOP *** [Kd 8c 7h]
+*** TURN *** [Kd 8c 7h][3c]
+*** RIVER *** [Kd 8c 7h 3c][2s]
+*** SHOW DOWN ***
+MathisKcr shows [4h 6d] (High card : King)
+Zxlagrinta shows [Ah 2d] (One pair : 2)
+Lagardaire shows [6h Ad] (High card : Ace)
+Lagardaire collected 367 from side pot 1
+Zxlagrinta collected 533 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kd 8c 7h 3c 2s]
+Seat 1: MathisKcr (big blind) showed [4h 6d] and lost with High card : King
+Seat 2: Zxlagrinta (button) showed [Ah 2d] and won 533 with One pair : 2
+Seat 3: Lagardaire (small blind) showed [6h Ad] and won 367 with High card : Ace
+
+

@@ -1,0 +1,94 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675951373559267329-1-1775074044 - Holdem no limit (10/20) - 2026/04/01 20:07:24 UTC
+Table: 'Expresso Nitro(1088704768)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Kibou57 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Dtoo (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Dtoo posts big blind 20
+Dealt to MathisKcr [8h 3d]
+*** PRE-FLOP *** 
+Kibou57 calls 20
+MathisKcr folds
+Dtoo checks
+*** FLOP *** [9s 4d Ts]
+Dtoo checks
+Kibou57 checks
+*** TURN *** [9s 4d Ts][Qs]
+Dtoo checks
+Kibou57 checks
+*** RIVER *** [9s 4d Ts Qs][Jc]
+Dtoo checks
+Kibou57 checks
+*** SHOW DOWN ***
+Dtoo shows [7h 2d] (High card : Queen)
+Kibou57 shows [Kh Kd] (Straight King high)
+Kibou57 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [9s 4d Ts Qs Jc]
+Seat 1: Kibou57 (button) showed [Kh Kd] and won 50 with Straight King high
+Seat 3: Dtoo (big blind) showed [7h 2d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675951373559267329-2-1775074079 - Holdem no limit (10/20) - 2026/04/01 20:07:59 UTC
+Table: 'Expresso Nitro(1088704768)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kibou57 (330)
+Seat 2: MathisKcr (290)
+Seat 3: Dtoo (280)
+*** ANTE/BLINDS ***
+Dtoo posts small blind 10
+Kibou57 posts big blind 20
+Dealt to MathisKcr [9c 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Dtoo calls 10
+Kibou57 checks
+*** FLOP *** [5s 8c Qs]
+Dtoo checks
+Kibou57 checks
+*** TURN *** [5s 8c Qs][3h]
+Dtoo checks
+Kibou57 checks
+*** RIVER *** [5s 8c Qs 3h][5h]
+Dtoo checks
+Kibou57 checks
+*** SHOW DOWN ***
+Dtoo shows [9d Th] (One pair : 5)
+Kibou57 shows [Td Kd] (One pair : 5)
+Kibou57 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [5s 8c Qs 3h 5h]
+Seat 1: Kibou57 (big blind) showed [Td Kd] and won 40 with One pair : 5
+Seat 3: Dtoo (small blind) showed [9d Th] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675951373559267329-3-1775074119 - Holdem no limit (15/30) - 2026/04/01 20:08:39 UTC
+Table: 'Expresso Nitro(1088704768)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Kibou57 (350)
+Seat 2: MathisKcr (290)
+Seat 3: Dtoo (260)
+*** ANTE/BLINDS ***
+Kibou57 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [As 4s]
+*** PRE-FLOP *** 
+Dtoo folds
+Kibou57 calls 15
+MathisKcr raises 260 to 290 and is all-in
+Kibou57 calls 260
+*** FLOP *** [8d 7h 3d]
+*** TURN *** [8d 7h 3d][5s]
+*** RIVER *** [8d 7h 3d 5s][Kc]
+*** SHOW DOWN ***
+MathisKcr shows [As 4s] (High card : Ace)
+Kibou57 shows [9h 9s] (One pair : 9)
+Kibou57 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [8d 7h 3d 5s Kc]
+Seat 1: Kibou57 (small blind) showed [9h 9s] and won 580 with One pair : 9
+Seat 2: MathisKcr (big blind) showed [As 4s] and lost with High card : Ace
+
+

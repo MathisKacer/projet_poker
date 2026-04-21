@@ -1,0 +1,265 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675956213987409921-1-1775074154 - Holdem no limit (10/20) - 2026/04/01 20:09:14 UTC
+Table: 'Expresso Nitro(1088705895)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Maman-ours (300)
+Seat 2: lalesque32 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Maman-ours posts small blind 10
+lalesque32 posts big blind 20
+Dealt to MathisKcr [Kh 2d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Maman-ours calls 30
+lalesque32 calls 20
+*** FLOP *** [Qd 8c 9s]
+Maman-ours checks
+lalesque32 checks
+MathisKcr checks
+*** TURN *** [Qd 8c 9s][2c]
+Maman-ours checks
+lalesque32 bets 40
+MathisKcr folds
+Maman-ours calls 40
+*** RIVER *** [Qd 8c 9s 2c][Qc]
+Maman-ours checks
+lalesque32 checks
+*** SHOW DOWN ***
+Maman-ours shows [Jd 9h] (Two pairs : Queens and 9)
+lalesque32 shows [Kc 9d] (Two pairs : Queens and 9)
+lalesque32 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Qd 8c 9s 2c Qc]
+Seat 1: Maman-ours (small blind) showed [Jd 9h] and lost with Two pairs : Queens and 9
+Seat 2: lalesque32 (big blind) showed [Kc 9d] and won 200 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4675956213987409921-2-1775074196 - Holdem no limit (10/20) - 2026/04/01 20:09:56 UTC
+Table: 'Expresso Nitro(1088705895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Maman-ours (220)
+Seat 2: lalesque32 (420)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+lalesque32 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7s Kh]
+*** PRE-FLOP *** 
+Maman-ours calls 20
+lalesque32 raises 40 to 60
+MathisKcr calls 40
+Maman-ours folds
+*** FLOP *** [Ks Qh 9s]
+lalesque32 bets 80
+MathisKcr raises 120 to 200 and is all-in
+lalesque32 calls 120
+*** TURN *** [Ks Qh 9s][2d]
+*** RIVER *** [Ks Qh 9s 2d][9d]
+*** SHOW DOWN ***
+lalesque32 shows [Jh Kd] (Two pairs : Kings and 9)
+MathisKcr shows [7s Kh] (Two pairs : Kings and 9)
+MathisKcr collected 270 from pot
+lalesque32 collected 270 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Ks Qh 9s 2d 9d]
+Seat 2: lalesque32 (small blind) showed [Jh Kd] and won 270 with Two pairs : Kings and 9
+Seat 3: MathisKcr (big blind) showed [7s Kh] and won 270 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675956213987409921-3-1775074232 - Holdem no limit (15/30) - 2026/04/01 20:10:32 UTC
+Table: 'Expresso Nitro(1088705895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Maman-ours (200)
+Seat 2: lalesque32 (430)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Maman-ours posts big blind 30
+Dealt to MathisKcr [3c Ac]
+*** PRE-FLOP *** 
+lalesque32 folds
+MathisKcr raises 240 to 270 and is all-in
+Maman-ours folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: MathisKcr (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4675956213987409921-4-1775074244 - Holdem no limit (15/30) - 2026/04/01 20:10:44 UTC
+Table: 'Expresso Nitro(1088705895)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Maman-ours (170)
+Seat 2: lalesque32 (430)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Maman-ours posts small blind 15
+lalesque32 posts big blind 30
+Dealt to MathisKcr [5c 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Maman-ours calls 15
+lalesque32 checks
+*** FLOP *** [Tc Jh 8c]
+Maman-ours checks
+lalesque32 checks
+*** TURN *** [Tc Jh 8c][Qd]
+Maman-ours checks
+lalesque32 checks
+*** RIVER *** [Tc Jh 8c Qd][Ks]
+Maman-ours checks
+lalesque32 checks
+*** SHOW DOWN ***
+lalesque32 shows [Qs 7s] (One pair : Queens)
+Maman-ours shows [Jc 9h] (Straight King high)
+Maman-ours collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Tc Jh 8c Qd Ks]
+Seat 1: Maman-ours (small blind) showed [Jc 9h] and won 60 with Straight King high
+Seat 2: lalesque32 (big blind) showed [Qs 7s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4675956213987409921-5-1775074286 - Holdem no limit (20/40) - 2026/04/01 20:11:26 UTC
+Table: 'Expresso Nitro(1088705895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Maman-ours (200)
+Seat 2: lalesque32 (400)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+lalesque32 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7s 6h]
+*** PRE-FLOP *** 
+Maman-ours folds
+lalesque32 raises 60 to 100
+MathisKcr folds
+lalesque32 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: lalesque32 (small blind) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4675956213987409921-6-1775074299 - Holdem no limit (20/40) - 2026/04/01 20:11:39 UTC
+Table: 'Expresso Nitro(1088705895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Maman-ours (200)
+Seat 2: lalesque32 (440)
+Seat 3: MathisKcr (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Maman-ours posts big blind 40
+Dealt to MathisKcr [2h 9h]
+*** PRE-FLOP *** 
+lalesque32 folds
+MathisKcr folds
+Maman-ours collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Maman-ours (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4675956213987409921-7-1775074310 - Holdem no limit (20/40) - 2026/04/01 20:11:50 UTC
+Table: 'Expresso Nitro(1088705895)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Maman-ours (220)
+Seat 2: lalesque32 (440)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+Maman-ours posts small blind 20
+lalesque32 posts big blind 40
+Dealt to MathisKcr [9c 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Maman-ours folds
+lalesque32 folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 3: MathisKcr (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4675956213987409921-8-1775074328 - Holdem no limit (20/40) - 2026/04/01 20:12:08 UTC
+Table: 'Expresso Nitro(1088705895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Maman-ours (200)
+Seat 2: lalesque32 (400)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+lalesque32 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [4h 9h]
+*** PRE-FLOP *** 
+Maman-ours folds
+lalesque32 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675956213987409921-9-1775074335 - Holdem no limit (30/60) - 2026/04/01 20:12:15 UTC
+Table: 'Expresso Nitro(1088705895)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Maman-ours (200)
+Seat 2: lalesque32 (380)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Maman-ours posts big blind 60
+Dealt to MathisKcr [Tc 8s]
+*** PRE-FLOP *** 
+lalesque32 folds
+MathisKcr folds
+Maman-ours collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Maman-ours (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675956213987409921-10-1775074340 - Holdem no limit (30/60) - 2026/04/01 20:12:20 UTC
+Table: 'Expresso Nitro(1088705895)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Maman-ours (230)
+Seat 2: lalesque32 (380)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+Maman-ours posts small blind 30
+lalesque32 posts big blind 60
+Dealt to MathisKcr [5h 8c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Maman-ours calls 30
+lalesque32 checks
+*** FLOP *** [Ts 6s Qh]
+Maman-ours checks
+lalesque32 checks
+*** TURN *** [Ts 6s Qh][5c]
+Maman-ours bets 60
+lalesque32 folds
+Maman-ours collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ts 6s Qh 5c]
+Seat 1: Maman-ours (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4675956213987409921-11-1775074370 - Holdem no limit (30/60) - 2026/04/01 20:12:50 UTC
+Table: 'Expresso Nitro(1088705895)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Maman-ours (290)
+Seat 2: lalesque32 (320)
+Seat 3: MathisKcr (290)
+*** ANTE/BLINDS ***
+lalesque32 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [8c Ks]
+*** PRE-FLOP *** 
+Maman-ours folds
+lalesque32 raises 260 to 320 and is all-in
+MathisKcr calls 230 and is all-in
+*** FLOP *** [7h As 7d]
+*** TURN *** [7h As 7d][5d]
+*** RIVER *** [7h As 7d 5d][7c]
+*** SHOW DOWN ***
+MathisKcr shows [8c Ks] (Trips of 7)
+lalesque32 shows [4c 4s] (Full of 7 and 4)
+lalesque32 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [7h As 7d 5d 7c]
+Seat 2: lalesque32 (small blind) showed [4c 4s] and won 610 with Full of 7 and 4
+Seat 3: MathisKcr (big blind) showed [8c Ks] and lost with Trips of 7
+
+

@@ -1,0 +1,93 @@
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4633101502754324481-1-1773525067 - Holdem no limit (10/20) - 2026/03/14 21:51:07 UTC
+Table: 'No Limit Hold'em(1078728005)#0' 2-max (real money) Seat #2 is the button
+Seat 1: Djo-6 (1500)
+Seat 2: MathisKcr (1500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Djo-6 posts big blind 20
+Dealt to MathisKcr [Th 4s]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+Djo-6 raises 40 to 60
+MathisKcr folds
+Djo-6 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: Djo-6 (big blind) won 80
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4633101502754324481-2-1773525079 - Holdem no limit (10/20) - 2026/03/14 21:51:19 UTC
+Table: 'No Limit Hold'em(1078728005)#0' 2-max (real money) Seat #1 is the button
+Seat 1: Djo-6 (1520)
+Seat 2: MathisKcr (1480)
+*** ANTE/BLINDS ***
+Djo-6 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9d 7c]
+*** PRE-FLOP *** 
+Djo-6 raises 40 to 60
+MathisKcr calls 40
+*** FLOP *** [Ad 8c 9h]
+MathisKcr bets 42
+Djo-6 calls 42
+*** TURN *** [Ad 8c 9h][2c]
+MathisKcr bets 102
+Djo-6 raises 408 to 510
+MathisKcr calls 408
+*** RIVER *** [Ad 8c 9h 2c][As]
+MathisKcr checks
+Djo-6 bets 908 and is all-in
+MathisKcr calls 868 and is all-in
+*** SHOW DOWN ***
+Djo-6 shows [2s 9s] (Two pairs : Aces and 9)
+MathisKcr shows [9d 7c] (Two pairs : Aces and 9)
+MathisKcr collected 1480 from main pot
+Djo-6 collected 1520 from side pot 1
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Ad 8c 9h 2c As]
+Seat 1: Djo-6 (small blind) (button) showed [2s 9s] and won 1520 with Two pairs : Aces and 9
+Seat 2: MathisKcr (big blind) showed [9d 7c] and won 1480 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4633101502754324481-3-1773525104 - Holdem no limit (10/20) - 2026/03/14 21:51:44 UTC
+Table: 'No Limit Hold'em(1078728005)#0' 2-max (real money) Seat #2 is the button
+Seat 1: Djo-6 (1520)
+Seat 2: MathisKcr (1480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Djo-6 posts big blind 20
+Dealt to MathisKcr [3d 9h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Djo-6 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Djo-6 (big blind) won 30
+
+
+Winamax Poker - Tournament "No Limit Hold'em" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4633101502754324481-4-1773525109 - Holdem no limit (10/20) - 2026/03/14 21:51:49 UTC
+Table: 'No Limit Hold'em(1078728005)#0' 2-max (real money) Seat #1 is the button
+Seat 1: Djo-6 (1530)
+Seat 2: MathisKcr (1470)
+*** ANTE/BLINDS ***
+Djo-6 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ah 4h]
+*** PRE-FLOP *** 
+Djo-6 raises 1510 to 1530 and is all-in
+MathisKcr calls 1450 and is all-in
+*** FLOP *** [6d Qd Qh]
+*** TURN *** [6d Qd Qh][3s]
+*** RIVER *** [6d Qd Qh 3s][Jh]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 4h] (One pair : Queens)
+Djo-6 shows [2s 2c] (Two pairs : Queens and 2)
+Djo-6 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [6d Qd Qh 3s Jh]
+Seat 1: Djo-6 (small blind) (button) showed [2s 2c] and won 3000 with Two pairs : Queens and 2
+Seat 2: MathisKcr (big blind) showed [Ah 4h] and lost with One pair : Queens
+
+

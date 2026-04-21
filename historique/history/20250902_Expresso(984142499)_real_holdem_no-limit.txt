@@ -1,0 +1,338 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226859847808712705-1-1756803365 - Holdem no limit (10/20) - 2025/09/02 08:56:05 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PAT.974 (500)
+Seat 2: MathisKcr (500)
+Seat 3: Stekito (500)
+*** ANTE/BLINDS ***
+PAT.974 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c Th]
+*** PRE-FLOP *** 
+Stekito calls 20
+PAT.974 calls 10
+MathisKcr checks
+*** FLOP *** [6d 8d 3s]
+PAT.974 bets 60
+MathisKcr folds
+Stekito calls 60
+*** TURN *** [6d 8d 3s][4c]
+PAT.974 bets 180
+Stekito folds
+PAT.974 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [6d 8d 3s 4c]
+Seat 1: PAT.974 (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226859847808712705-2-1756803383 - Holdem no limit (10/20) - 2025/09/02 08:56:23 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PAT.974 (600)
+Seat 2: MathisKcr (480)
+Seat 3: Stekito (420)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Stekito posts big blind 20
+Dealt to MathisKcr [6c Ks]
+*** PRE-FLOP *** 
+PAT.974 calls 20
+MathisKcr calls 10
+Stekito checks
+*** FLOP *** [8h Qh 2c]
+MathisKcr checks
+Stekito checks
+PAT.974 checks
+*** TURN *** [8h Qh 2c][Jd]
+MathisKcr checks
+Stekito checks
+PAT.974 checks
+*** RIVER *** [8h Qh 2c Jd][6d]
+MathisKcr checks
+Stekito checks
+PAT.974 checks
+*** SHOW DOWN ***
+PAT.974 shows [3h As] (High card : Ace)
+Stekito shows [5d 5c] (One pair : 5)
+MathisKcr shows [6c Ks] (One pair : 6)
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [8h Qh 2c Jd 6d]
+Seat 1: PAT.974 (button) showed [3h As] and lost with High card : Ace
+Seat 2: MathisKcr (small blind) showed [6c Ks] and won 60 with One pair : 6
+Seat 3: Stekito (big blind) showed [5d 5c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226859847808712705-3-1756803409 - Holdem no limit (10/20) - 2025/09/02 08:56:49 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PAT.974 (580)
+Seat 2: MathisKcr (520)
+Seat 3: Stekito (400)
+*** ANTE/BLINDS ***
+Stekito posts small blind 10
+PAT.974 posts big blind 20
+Dealt to MathisKcr [6s 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Stekito calls 10
+PAT.974 checks
+*** FLOP *** [7d 7h 8c]
+Stekito checks
+PAT.974 bets 40
+Stekito calls 40
+*** TURN *** [7d 7h 8c][Kc]
+Stekito checks
+PAT.974 bets 120
+Stekito calls 120
+*** RIVER *** [7d 7h 8c Kc][4d]
+Stekito checks
+PAT.974 bets 234
+Stekito folds
+PAT.974 collected 594 from pot
+*** SUMMARY ***
+Total pot 594 | No rake
+Board: [7d 7h 8c Kc 4d]
+Seat 1: PAT.974 (big blind) won 594
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226859847808712705-4-1756803447 - Holdem no limit (10/20) - 2025/09/02 08:57:27 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #3 is the button
+Seat 1: PAT.974 (760)
+Seat 2: MathisKcr (520)
+Seat 3: Stekito (220)
+*** ANTE/BLINDS ***
+PAT.974 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d 2s]
+*** PRE-FLOP *** 
+Stekito calls 20
+PAT.974 calls 10
+MathisKcr checks
+*** FLOP *** [4h 7h Tc]
+PAT.974 checks
+MathisKcr checks
+Stekito checks
+*** TURN *** [4h 7h Tc][2c]
+PAT.974 checks
+MathisKcr bets 60
+Stekito calls 60
+PAT.974 folds
+*** RIVER *** [4h 7h Tc 2c][Ts]
+MathisKcr bets 60
+Stekito calls 60
+*** SHOW DOWN ***
+Stekito shows [8h 8s] (Two pairs : Tens and 8)
+MathisKcr shows [2d 2s] (Full of 2 and Tens)
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [4h 7h Tc 2c Ts]
+Seat 2: MathisKcr (big blind) showed [2d 2s] and won 300 with Full of 2 and Tens
+Seat 3: Stekito (button) showed [8h 8s] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226859847808712705-5-1756803486 - Holdem no limit (15/30) - 2025/09/02 08:58:06 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PAT.974 (740)
+Seat 2: MathisKcr (680)
+Seat 3: Stekito (80)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Stekito posts big blind 30
+Dealt to MathisKcr [Tc Js]
+*** PRE-FLOP *** 
+PAT.974 calls 30
+MathisKcr calls 15
+Stekito checks
+*** FLOP *** [Ts 6d 7s]
+MathisKcr bets 90
+Stekito folds
+PAT.974 folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Ts 6d 7s]
+Seat 2: MathisKcr (small blind) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226859847808712705-6-1756803502 - Holdem no limit (15/30) - 2025/09/02 08:58:22 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PAT.974 (710)
+Seat 2: MathisKcr (740)
+Seat 3: Stekito (50)
+*** ANTE/BLINDS ***
+Stekito posts small blind 15
+PAT.974 posts big blind 30
+Dealt to MathisKcr [Kh 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Stekito calls 35 and is all-in
+PAT.974 calls 30
+*** FLOP *** [2h Js 3h]
+PAT.974 bets 170
+MathisKcr folds
+*** TURN *** [2h Js 3h][2d]
+*** RIVER *** [2h Js 3h 2d][5d]
+*** SHOW DOWN ***
+Stekito shows [Kc Th] (One pair : 2)
+PAT.974 shows [7s 7h] (Two pairs : 7 and 2)
+PAT.974 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [2h Js 3h 2d 5d]
+Seat 1: PAT.974 (big blind) showed [7s 7h] and won 340 with Two pairs : 7 and 2
+Seat 3: Stekito (small blind) showed [Kc Th] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226859847808712705-7-1756803521 - Holdem no limit (15/30) - 2025/09/02 08:58:41 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PAT.974 (820)
+Seat 2: MathisKcr (680)
+*** ANTE/BLINDS ***
+PAT.974 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jc Qs]
+*** PRE-FLOP *** 
+PAT.974 calls 15
+MathisKcr raises 60 to 90
+PAT.974 calls 60
+*** FLOP *** [9c Qh Ac]
+MathisKcr checks
+PAT.974 bets 180
+MathisKcr raises 410 to 590 and is all-in
+PAT.974 folds
+MathisKcr collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Board: [9c Qh Ac]
+Seat 2: MathisKcr (big blind) won 950
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4226859847808712705-8-1756803553 - Holdem no limit (20/40) - 2025/09/02 08:59:13 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PAT.974 (550)
+Seat 2: MathisKcr (950)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+PAT.974 posts big blind 40
+Dealt to MathisKcr [Kc 8h]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+PAT.974 calls 40
+*** FLOP *** [5s 5h 7s]
+PAT.974 checks
+MathisKcr bets 80
+PAT.974 calls 80
+*** TURN *** [5s 5h 7s][Jd]
+PAT.974 checks
+MathisKcr bets 120
+PAT.974 calls 120
+*** RIVER *** [5s 5h 7s Jd][9h]
+PAT.974 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Kc 8h] (One pair : 5)
+PAT.974 shows [5c 9c] (Full of 5 and 9)
+PAT.974 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [5s 5h 7s Jd 9h]
+Seat 1: PAT.974 (big blind) showed [5c 9c] and won 560 with Full of 5 and 9
+Seat 2: MathisKcr (small blind) (button) showed [Kc 8h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4226859847808712705-9-1756803584 - Holdem no limit (20/40) - 2025/09/02 08:59:44 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PAT.974 (830)
+Seat 2: MathisKcr (670)
+*** ANTE/BLINDS ***
+PAT.974 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kh 5s]
+*** PRE-FLOP *** 
+PAT.974 calls 20
+MathisKcr checks
+*** FLOP *** [5d 8d Kd]
+MathisKcr checks
+PAT.974 bets 80
+MathisKcr raises 550 to 630 and is all-in
+PAT.974 folds
+MathisKcr collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | No rake
+Board: [5d 8d Kd]
+Seat 2: MathisKcr (big blind) won 790
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4226859847808712705-10-1756803598 - Holdem no limit (20/40) - 2025/09/02 08:59:58 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PAT.974 (710)
+Seat 2: MathisKcr (790)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+PAT.974 posts big blind 40
+Dealt to MathisKcr [Ad 4d]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+PAT.974 calls 40
+*** FLOP *** [As 5s Jh]
+PAT.974 bets 160
+MathisKcr raises 160 to 320
+PAT.974 calls 160
+*** TURN *** [As 5s Jh][7c]
+PAT.974 bets 310 and is all-in
+MathisKcr raises 80 to 390 and is all-in
+*** RIVER *** [As 5s Jh 7c][8h]
+*** SHOW DOWN ***
+PAT.974 shows [7d 5d] (Two pairs : 7 and 5)
+MathisKcr shows [Ad 4d] (One pair : Aces)
+MathisKcr collected 80 from side pot 1
+PAT.974 collected 1420 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [As 5s Jh 7c 8h]
+Seat 1: PAT.974 (big blind) showed [7d 5d] and won 1420 with Two pairs : 7 and 5
+Seat 2: MathisKcr (small blind) (button) showed [Ad 4d] and won 80 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4226859847808712705-11-1756803619 - Holdem no limit (20/40) - 2025/09/02 09:00:19 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #1 is the button
+Seat 1: PAT.974 (1420)
+Seat 2: MathisKcr (80)
+*** ANTE/BLINDS ***
+PAT.974 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6s Td]
+*** PRE-FLOP *** 
+PAT.974 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4226859847808712705-12-1756803624 - Holdem no limit (20/40) - 2025/09/02 09:00:24 UTC
+Table: 'Expresso(984142499)#0' 3-max (real money) Seat #2 is the button
+Seat 1: PAT.974 (1400)
+Seat 2: MathisKcr (100)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+PAT.974 posts big blind 40
+Dealt to MathisKcr [6h 4d]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 100 and is all-in
+PAT.974 calls 60
+*** FLOP *** [Jd Js 2c]
+*** TURN *** [Jd Js 2c][5d]
+*** RIVER *** [Jd Js 2c 5d][Jc]
+*** SHOW DOWN ***
+MathisKcr shows [6h 4d] (Trips of Jacks)
+PAT.974 shows [8c Th] (Trips of Jacks)
+PAT.974 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Jd Js 2c 5d Jc]
+Seat 1: PAT.974 (big blind) showed [8c Th] and won 200 with Trips of Jacks
+Seat 2: MathisKcr (small blind) (button) showed [6h 4d] and lost with Trips of Jacks
+
+

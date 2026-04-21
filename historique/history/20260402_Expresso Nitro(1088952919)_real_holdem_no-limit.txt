@@ -1,0 +1,106 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677017173988737025-1-1775118783 - Holdem no limit (10/20) - 2026/04/02 08:33:03 UTC
+Table: 'Expresso Nitro(1088952919)#0' 3-max (real money) Seat #1 is the button
+Seat 1: tibo56670 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Gambas.63122 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Gambas.63122 posts big blind 20
+Dealt to MathisKcr [Jh 2c]
+*** PRE-FLOP *** 
+tibo56670 folds
+MathisKcr folds
+Gambas.63122 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Gambas.63122 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4677017173988737025-2-1775118793 - Holdem no limit (10/20) - 2026/04/02 08:33:13 UTC
+Table: 'Expresso Nitro(1088952919)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tibo56670 (300)
+Seat 2: MathisKcr (290)
+Seat 3: Gambas.63122 (310)
+*** ANTE/BLINDS ***
+Gambas.63122 posts small blind 10
+tibo56670 posts big blind 20
+Dealt to MathisKcr [Ts 8s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Gambas.63122 calls 30
+tibo56670 folds
+*** FLOP *** [2h 7s 4h]
+Gambas.63122 checks
+MathisKcr checks
+*** TURN *** [2h 7s 4h][9s]
+Gambas.63122 checks
+MathisKcr bets 50
+Gambas.63122 calls 50
+*** RIVER *** [2h 7s 4h 9s][3s]
+Gambas.63122 checks
+MathisKcr bets 130
+Gambas.63122 calls 130
+*** SHOW DOWN ***
+Gambas.63122 shows [5c Ks] (High card : King)
+MathisKcr shows [Ts 8s] (Flush Ten high)
+MathisKcr collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [2h 7s 4h 9s 3s]
+Seat 2: MathisKcr (button) showed [Ts 8s] and won 460 with Flush Ten high
+Seat 3: Gambas.63122 (small blind) showed [5c Ks] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677017173988737025-3-1775118848 - Holdem no limit (15/30) - 2026/04/02 08:34:08 UTC
+Table: 'Expresso Nitro(1088952919)#0' 3-max (real money) Seat #3 is the button
+Seat 1: tibo56670 (280)
+Seat 2: MathisKcr (530)
+Seat 3: Gambas.63122 (90)
+*** ANTE/BLINDS ***
+tibo56670 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [9c Qh]
+*** PRE-FLOP *** 
+Gambas.63122 calls 30
+tibo56670 raises 250 to 280 and is all-in
+MathisKcr folds
+Gambas.63122 calls 60 and is all-in
+*** FLOP *** [Jd 6d Ad]
+*** TURN *** [Jd 6d Ad][3h]
+*** RIVER *** [Jd 6d Ad 3h][Kc]
+*** SHOW DOWN ***
+Gambas.63122 shows [5c 3d] (One pair : 3)
+tibo56670 shows [9d Kh] (One pair : Kings)
+tibo56670 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [Jd 6d Ad 3h Kc]
+Seat 1: tibo56670 (small blind) showed [9d Kh] and won 400 with One pair : Kings
+Seat 3: Gambas.63122 (button) showed [5c 3d] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4677017173988737025-4-1775118869 - Holdem no limit (15/30) - 2026/04/02 08:34:29 UTC
+Table: 'Expresso Nitro(1088952919)#0' 3-max (real money) Seat #2 is the button
+Seat 1: tibo56670 (400)
+Seat 2: MathisKcr (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+tibo56670 posts big blind 30
+Dealt to MathisKcr [6h Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 470 to 500 and is all-in
+tibo56670 calls 370 and is all-in
+*** FLOP *** [4s 2h 5h]
+*** TURN *** [4s 2h 5h][5c]
+*** RIVER *** [4s 2h 5h 5c][Jh]
+*** SHOW DOWN ***
+tibo56670 shows [Ad Td] (One pair : 5)
+MathisKcr shows [6h Qh] (Flush Queen high)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 2h 5h 5c Jh]
+Seat 1: tibo56670 (big blind) showed [Ad Td] and lost with One pair : 5
+Seat 2: MathisKcr (small blind) (button) showed [6h Qh] and won 900 with Flush Queen high
+
+

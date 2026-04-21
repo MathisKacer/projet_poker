@@ -1,0 +1,276 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4383309859836133377-1-1763566187 - Holdem no limit (10/20) - 2025/11/19 15:29:47 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mohamed chri (500)
+Seat 2: tomtom0401 (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+Mohamed chri posts small blind 10
+tomtom0401 posts big blind 20
+Dealt to MathisKcr [5h 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Mohamed chri raises 480 to 500 and is all-in
+tomtom0401 calls 480 and is all-in
+*** FLOP *** [9s Td Js]
+*** TURN *** [9s Td Js][8h]
+*** RIVER *** [9s Td Js 8h][3c]
+*** SHOW DOWN ***
+tomtom0401 shows [6c 6s] (One pair : 6)
+Mohamed chri shows [Ad Qh] (Straight Queen high)
+Mohamed chri collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [9s Td Js 8h 3c]
+Seat 1: Mohamed chri (small blind) showed [Ad Qh] and won 1000 with Straight Queen high
+Seat 2: tomtom0401 (big blind) showed [6c 6s] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4383309859836133377-2-1763566212 - Holdem no limit (10/20) - 2025/11/19 15:30:12 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mohamed chri (1000)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Mohamed chri posts big blind 20
+Dealt to MathisKcr [2s 4h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Mohamed chri collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Mohamed chri (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4383309859836133377-3-1763566218 - Holdem no limit (10/20) - 2025/11/19 15:30:18 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mohamed chri (1010)
+Seat 3: MathisKcr (490)
+*** ANTE/BLINDS ***
+Mohamed chri posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4s 6c]
+*** PRE-FLOP *** 
+Mohamed chri calls 10
+MathisKcr checks
+*** FLOP *** [Th Ad 2h]
+MathisKcr checks
+Mohamed chri checks
+*** TURN *** [Th Ad 2h][6s]
+MathisKcr bets 20
+Mohamed chri folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Th Ad 2h 6s]
+Seat 3: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4383309859836133377-4-1763566231 - Holdem no limit (10/20) - 2025/11/19 15:30:31 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mohamed chri (990)
+Seat 3: MathisKcr (510)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Mohamed chri posts big blind 20
+Dealt to MathisKcr [7s Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Mohamed chri calls 20
+*** FLOP *** [8s 9c 2h]
+Mohamed chri bets 52
+MathisKcr folds
+Mohamed chri collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [8s 9c 2h]
+Seat 1: Mohamed chri (big blind) won 132
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4383309859836133377-5-1763566243 - Holdem no limit (10/20) - 2025/11/19 15:30:43 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mohamed chri (1030)
+Seat 3: MathisKcr (470)
+*** ANTE/BLINDS ***
+Mohamed chri posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Tc 9s]
+*** PRE-FLOP *** 
+Mohamed chri calls 10
+MathisKcr checks
+*** FLOP *** [Ts 2s 2h]
+MathisKcr bets 40
+Mohamed chri folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Ts 2s 2h]
+Seat 3: MathisKcr (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4383309859836133377-6-1763566261 - Holdem no limit (10/20) - 2025/11/19 15:31:01 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mohamed chri (1010)
+Seat 3: MathisKcr (490)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Mohamed chri posts big blind 20
+Dealt to MathisKcr [4h Th]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+Mohamed chri checks
+*** FLOP *** [3d 7h 2c]
+Mohamed chri bets 40
+MathisKcr folds
+Mohamed chri collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3d 7h 2c]
+Seat 1: Mohamed chri (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4383309859836133377-7-1763566270 - Holdem no limit (10/20) - 2025/11/19 15:31:10 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mohamed chri (1030)
+Seat 3: MathisKcr (470)
+*** ANTE/BLINDS ***
+Mohamed chri posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7s 3h]
+*** PRE-FLOP *** 
+Mohamed chri raises 30 to 50
+MathisKcr folds
+Mohamed chri collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: Mohamed chri (small blind) (button) won 70
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4383309859836133377-8-1763566275 - Holdem no limit (15/30) - 2025/11/19 15:31:15 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mohamed chri (1050)
+Seat 3: MathisKcr (450)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Mohamed chri posts big blind 30
+Dealt to MathisKcr [4s Td]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+Mohamed chri checks
+*** FLOP *** [6d 5h 8c]
+Mohamed chri checks
+MathisKcr bets 60
+Mohamed chri calls 60
+*** TURN *** [6d 5h 8c][Tc]
+Mohamed chri checks
+MathisKcr bets 90
+Mohamed chri calls 90
+*** RIVER *** [6d 5h 8c Tc][Jd]
+Mohamed chri bets 126
+MathisKcr calls 126
+*** SHOW DOWN ***
+Mohamed chri shows [3c 7h] (High card : Jack)
+MathisKcr shows [4s Td] (One pair : Tens)
+MathisKcr collected 612 from pot
+*** SUMMARY ***
+Total pot 612 | No rake
+Board: [6d 5h 8c Tc Jd]
+Seat 1: Mohamed chri (big blind) showed [3c 7h] and lost with High card : Jack
+Seat 3: MathisKcr (small blind) (button) showed [4s Td] and won 612 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4383309859836133377-9-1763566298 - Holdem no limit (15/30) - 2025/11/19 15:31:38 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mohamed chri (744)
+Seat 3: MathisKcr (756)
+*** ANTE/BLINDS ***
+Mohamed chri posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5s Kc]
+*** PRE-FLOP *** 
+Mohamed chri calls 15
+MathisKcr checks
+*** FLOP *** [7h 4d 8s]
+MathisKcr checks
+Mohamed chri checks
+*** TURN *** [7h 4d 8s][Kh]
+MathisKcr checks
+Mohamed chri bets 30
+MathisKcr raises 45 to 75
+Mohamed chri folds
+MathisKcr collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [7h 4d 8s Kh]
+Seat 3: MathisKcr (big blind) won 165
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4383309859836133377-10-1763566314 - Holdem no limit (15/30) - 2025/11/19 15:31:54 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mohamed chri (684)
+Seat 3: MathisKcr (816)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Mohamed chri posts big blind 30
+Dealt to MathisKcr [Jh Qd]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Mohamed chri calls 30
+*** FLOP *** [9d 6d 7s]
+Mohamed chri checks
+MathisKcr bets 60
+Mohamed chri folds
+MathisKcr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9d 6d 7s]
+Seat 3: MathisKcr (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4383309859836133377-11-1763566328 - Holdem no limit (15/30) - 2025/11/19 15:32:08 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Mohamed chri (624)
+Seat 3: MathisKcr (876)
+*** ANTE/BLINDS ***
+Mohamed chri posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8c Ks]
+*** PRE-FLOP *** 
+Mohamed chri calls 15
+MathisKcr checks
+*** FLOP *** [4d Ac Jh]
+MathisKcr checks
+Mohamed chri bets 30
+MathisKcr folds
+Mohamed chri collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [4d Ac Jh]
+Seat 1: Mohamed chri (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4383309859836133377-12-1763566336 - Holdem no limit (15/30) - 2025/11/19 15:32:16 UTC
+Table: 'Expresso(1020568856)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Mohamed chri (654)
+Seat 3: MathisKcr (846)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Mohamed chri posts big blind 30
+Dealt to MathisKcr [3d As]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Mohamed chri raises 594 to 654 and is all-in
+MathisKcr calls 594
+*** FLOP *** [Jc Td Kc]
+*** TURN *** [Jc Td Kc][Qs]
+*** RIVER *** [Jc Td Kc Qs][3h]
+*** SHOW DOWN ***
+Mohamed chri shows [7s 7c] (One pair : 7)
+MathisKcr shows [3d As] (Straight Ace high)
+MathisKcr collected 1308 from pot
+*** SUMMARY ***
+Total pot 1308 | No rake
+Board: [Jc Td Kc Qs 3h]
+Seat 1: Mohamed chri (big blind) showed [7s 7c] and lost with One pair : 7
+Seat 3: MathisKcr (small blind) (button) showed [3d As] and won 1308 with Straight Ace high
+
+

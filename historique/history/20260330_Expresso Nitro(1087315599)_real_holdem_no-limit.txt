@@ -1,0 +1,123 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669984938135650305-1-1774857573 - Holdem no limit (10/20) - 2026/03/30 07:59:33 UTC
+Table: 'Expresso Nitro(1087315599)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Totospoky62 (300)
+Seat 2: MathisKcr (300)
+Seat 3: bonsai66 (300)
+*** ANTE/BLINDS ***
+bonsai66 posts small blind 10
+Totospoky62 posts big blind 20
+Dealt to MathisKcr [Js 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+bonsai66 raises 40 to 60
+Totospoky62 calls 40
+*** FLOP *** [5d Jd Ks]
+bonsai66 bets 78
+Totospoky62 calls 78
+*** TURN *** [5d Jd Ks][5h]
+bonsai66 bets 162 and is all-in
+Totospoky62 calls 162 and is all-in
+*** RIVER *** [5d Jd Ks 5h][9h]
+*** SHOW DOWN ***
+Totospoky62 shows [4s 4c] (Two pairs : 5 and 4)
+bonsai66 shows [Tc Th] (Two pairs : Tens and 5)
+bonsai66 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [5d Jd Ks 5h 9h]
+Seat 1: Totospoky62 (big blind) showed [4s 4c] and lost with Two pairs : 5 and 4
+Seat 3: bonsai66 (small blind) showed [Tc Th] and won 600 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669984938135650305-2-1774857600 - Holdem no limit (10/20) - 2026/03/30 08:00:00 UTC
+Table: 'Expresso Nitro(1087315599)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (300)
+Seat 3: bonsai66 (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+bonsai66 posts big blind 20
+Dealt to MathisKcr [8c Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+bonsai66 folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: MathisKcr (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669984938135650305-3-1774857608 - Holdem no limit (10/20) - 2026/03/30 08:00:08 UTC
+Table: 'Expresso Nitro(1087315599)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (320)
+Seat 3: bonsai66 (580)
+*** ANTE/BLINDS ***
+bonsai66 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ah Td]
+*** PRE-FLOP *** 
+bonsai66 calls 10
+MathisKcr raises 300 to 320 and is all-in
+bonsai66 folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 2: MathisKcr (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669984938135650305-4-1774857618 - Holdem no limit (10/20) - 2026/03/30 08:00:18 UTC
+Table: 'Expresso Nitro(1087315599)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (340)
+Seat 3: bonsai66 (560)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+bonsai66 posts big blind 20
+Dealt to MathisKcr [8c 5s]
+*** PRE-FLOP *** 
+MathisKcr folds
+bonsai66 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: bonsai66 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669984938135650305-5-1774857626 - Holdem no limit (10/20) - 2026/03/30 08:00:26 UTC
+Table: 'Expresso Nitro(1087315599)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (330)
+Seat 3: bonsai66 (570)
+*** ANTE/BLINDS ***
+bonsai66 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ks 9d]
+*** PRE-FLOP *** 
+bonsai66 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4669984938135650305-6-1774857631 - Holdem no limit (15/30) - 2026/03/30 08:00:31 UTC
+Table: 'Expresso Nitro(1087315599)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (340)
+Seat 3: bonsai66 (560)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+bonsai66 posts big blind 30
+Dealt to MathisKcr [Tc Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 310 to 340 and is all-in
+bonsai66 calls 310
+*** FLOP *** [8s Kc 8c]
+*** TURN *** [8s Kc 8c][Qc]
+*** RIVER *** [8s Kc 8c Qc][5h]
+*** SHOW DOWN ***
+MathisKcr shows [Tc Jd] (One pair : 8)
+bonsai66 shows [8h Qd] (Full of 8 and Queens)
+bonsai66 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [8s Kc 8c Qc 5h]
+Seat 2: MathisKcr (small blind) (button) showed [Tc Jd] and lost with One pair : 8
+Seat 3: bonsai66 (big blind) showed [8h Qd] and won 680 with Full of 8 and Queens
+
+

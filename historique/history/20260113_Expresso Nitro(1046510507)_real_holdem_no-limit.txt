@@ -1,0 +1,111 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494728402485379073-1-1768318960 - Holdem no limit (10/20) - 2026/01/13 15:42:40 UTC
+Table: 'Expresso Nitro(1046510507)#0' 3-max (real money) Seat #3 is the button
+Seat 1: blandyne42 (300)
+Seat 2: stef_07 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+blandyne42 posts small blind 10
+stef_07 posts big blind 20
+Dealt to MathisKcr [6s Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+blandyne42 folds
+stef_07 folds
+MathisKcr collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: MathisKcr (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494728402485379073-2-1768318976 - Holdem no limit (10/20) - 2026/01/13 15:42:56 UTC
+Table: 'Expresso Nitro(1046510507)#0' 3-max (real money) Seat #1 is the button
+Seat 1: blandyne42 (290)
+Seat 2: stef_07 (280)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+stef_07 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jh 6d]
+*** PRE-FLOP *** 
+blandyne42 folds
+stef_07 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494728402485379073-3-1768318983 - Holdem no limit (10/20) - 2026/01/13 15:43:03 UTC
+Table: 'Expresso Nitro(1046510507)#0' 3-max (real money) Seat #2 is the button
+Seat 1: blandyne42 (290)
+Seat 2: stef_07 (270)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+blandyne42 posts big blind 20
+Dealt to MathisKcr [Kc Td]
+*** PRE-FLOP *** 
+stef_07 folds
+MathisKcr raises 20 to 40
+blandyne42 calls 20
+*** FLOP *** [6d 8h Ah]
+MathisKcr bets 40
+blandyne42 calls 40
+*** TURN *** [6d 8h Ah][3h]
+MathisKcr bets 104
+blandyne42 raises 104 to 208
+MathisKcr folds
+blandyne42 collected 472 from pot
+*** SUMMARY ***
+Total pot 472 | No rake
+Board: [6d 8h Ah 3h]
+Seat 1: blandyne42 (big blind) won 472
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4494728402485379073-4-1768319010 - Holdem no limit (10/20) - 2026/01/13 15:43:30 UTC
+Table: 'Expresso Nitro(1046510507)#0' 3-max (real money) Seat #3 is the button
+Seat 1: blandyne42 (474)
+Seat 2: stef_07 (270)
+Seat 3: MathisKcr (156)
+*** ANTE/BLINDS ***
+blandyne42 posts small blind 10
+stef_07 posts big blind 20
+Dealt to MathisKcr [9c Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 136 to 156 and is all-in
+blandyne42 folds
+stef_07 folds
+MathisKcr collected 186 from pot
+*** SUMMARY ***
+Total pot 186 | No rake
+Seat 3: MathisKcr (button) won 186
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4494728402485379073-5-1768319024 - Holdem no limit (15/30) - 2026/01/13 15:43:44 UTC
+Table: 'Expresso Nitro(1046510507)#0' 3-max (real money) Seat #1 is the button
+Seat 1: blandyne42 (464)
+Seat 2: stef_07 (250)
+Seat 3: MathisKcr (186)
+*** ANTE/BLINDS ***
+stef_07 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Kc Th]
+*** PRE-FLOP *** 
+blandyne42 raises 30 to 60
+stef_07 folds
+MathisKcr raises 126 to 186 and is all-in
+blandyne42 raises 126 to 312
+*** FLOP *** [Td 6d 5s]
+*** TURN *** [Td 6d 5s][5c]
+*** RIVER *** [Td 6d 5s 5c][6c]
+*** SHOW DOWN ***
+MathisKcr shows [Kc Th] (Two pairs : Tens and 6)
+blandyne42 shows [Ah Tc] (Two pairs : Tens and 6)
+blandyne42 collected 513 from pot
+*** SUMMARY ***
+Total pot 513 | No rake
+Board: [Td 6d 5s 5c 6c]
+Seat 1: blandyne42 (button) showed [Ah Tc] and won 513 with Two pairs : Tens and 6
+Seat 3: MathisKcr (big blind) showed [Kc Th] and lost with Two pairs : Tens and 6
+
+

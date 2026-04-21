@@ -1,0 +1,130 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4533746642771247105-1-1769970399 - Holdem no limit (10/20) - 2026/02/01 18:26:39 UTC
+Table: 'Expresso Nitro(1055595149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Rr308 (300)
+Seat 3: bibichounee (300)
+*** ANTE/BLINDS ***
+Rr308 posts small blind 10
+bibichounee posts big blind 20
+Dealt to MathisKcr [Js 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Rr308 folds
+bibichounee calls 20
+*** FLOP *** [Jd 6h Jh]
+bibichounee checks
+MathisKcr bets 20
+bibichounee calls 20
+*** TURN *** [Jd 6h Jh][As]
+bibichounee checks
+MathisKcr bets 40
+bibichounee calls 40
+*** RIVER *** [Jd 6h Jh As][Kd]
+bibichounee checks
+MathisKcr bets 60
+bibichounee calls 60
+*** SHOW DOWN ***
+bibichounee shows [Ac 6c] (Two pairs : Aces and Jacks)
+MathisKcr shows [Js 9d] (Trips of Jacks)
+MathisKcr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Jd 6h Jh As Kd]
+Seat 1: MathisKcr (button) showed [Js 9d] and won 330 with Trips of Jacks
+Seat 3: bibichounee (big blind) showed [Ac 6c] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4533746642771247105-2-1769970426 - Holdem no limit (10/20) - 2026/02/01 18:27:06 UTC
+Table: 'Expresso Nitro(1055595149)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (470)
+Seat 2: Rr308 (290)
+Seat 3: bibichounee (140)
+*** ANTE/BLINDS ***
+bibichounee posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4c Kh]
+*** PRE-FLOP *** 
+Rr308 raises 50 to 70
+bibichounee calls 60
+MathisKcr calls 50
+*** FLOP *** [8s Kc 9h]
+bibichounee checks
+MathisKcr bets 70
+Rr308 folds
+bibichounee calls 70 and is all-in
+*** TURN *** [8s Kc 9h][Js]
+*** RIVER *** [8s Kc 9h Js][8h]
+*** SHOW DOWN ***
+MathisKcr shows [4c Kh] (Two pairs : Kings and 8)
+bibichounee shows [Ts 8d] (Trips of 8)
+bibichounee collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [8s Kc 9h Js 8h]
+Seat 1: MathisKcr (big blind) showed [4c Kh] and lost with Two pairs : Kings and 8
+Seat 3: bibichounee (small blind) showed [Ts 8d] and won 350 with Trips of 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4533746642771247105-3-1769970448 - Holdem no limit (10/20) - 2026/02/01 18:27:28 UTC
+Table: 'Expresso Nitro(1055595149)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (330)
+Seat 2: Rr308 (220)
+Seat 3: bibichounee (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Rr308 posts big blind 20
+Dealt to MathisKcr [2c Ac]
+*** PRE-FLOP *** 
+bibichounee folds
+MathisKcr raises 310 to 330 and is all-in
+Rr308 calls 200 and is all-in
+*** FLOP *** [8s Qd Qh]
+*** TURN *** [8s Qd Qh][9c]
+*** RIVER *** [8s Qd Qh 9c][Jc]
+*** SHOW DOWN ***
+MathisKcr shows [2c Ac] (One pair : Queens)
+Rr308 shows [Kh 9h] (Two pairs : Queens and 9)
+Rr308 collected 440 from main pot
+MathisKcr collected 110 from side pot 1
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [8s Qd Qh 9c Jc]
+Seat 1: MathisKcr (small blind) showed [2c Ac] and won 110 with One pair : Queens
+Seat 2: Rr308 (big blind) showed [Kh 9h] and won 440 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4533746642771247105-4-1769970465 - Holdem no limit (15/30) - 2026/02/01 18:27:45 UTC
+Table: 'Expresso Nitro(1055595149)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (110)
+Seat 2: Rr308 (440)
+Seat 3: bibichounee (350)
+*** ANTE/BLINDS ***
+Rr308 posts small blind 15
+bibichounee posts big blind 30
+Dealt to MathisKcr [4h Jd]
+*** PRE-FLOP *** 
+MathisKcr raises 80 to 110 and is all-in
+Rr308 calls 95
+bibichounee calls 80
+*** FLOP *** [9h 4s 9c]
+Rr308 checks
+bibichounee checks
+*** TURN *** [9h 4s 9c][9s]
+Rr308 checks
+bibichounee checks
+*** RIVER *** [9h 4s 9c 9s][3s]
+Rr308 checks
+bibichounee checks
+*** SHOW DOWN ***
+MathisKcr shows [4h Jd] (Full of 9 and 4)
+Rr308 shows [7h Qs] (Trips of 9)
+bibichounee shows [6s 6c] (Full of 9 and 6)
+bibichounee collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [9h 4s 9c 9s 3s]
+Seat 1: MathisKcr (button) showed [4h Jd] and lost with Full of 9 and 4
+Seat 2: Rr308 (small blind) showed [7h Qs] and lost with Trips of 9
+Seat 3: bibichounee (big blind) showed [6s 6c] and won 330 with Full of 9 and 6
+
+

@@ -1,0 +1,169 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4087298708046086145-1-1749750976 - Holdem no limit (10/20) - 2025/06/12 17:56:16 UTC
+Table: 'Expresso(951648389)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Leo Ulrich (500)
+Seat 3: OhRey (500)
+*** ANTE/BLINDS ***
+Leo Ulrich posts small blind 10
+OhRey posts big blind 20
+Dealt to MathisKcr [2h 2d]
+*** PRE-FLOP *** 
+MathisKcr raises 480 to 500 and is all-in
+Leo Ulrich folds
+OhRey folds
+MathisKcr collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 1: MathisKcr (button) won 530
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4087298708046086145-2-1749750986 - Holdem no limit (10/20) - 2025/06/12 17:56:26 UTC
+Table: 'Expresso(951648389)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (530)
+Seat 2: Leo Ulrich (490)
+Seat 3: OhRey (480)
+*** ANTE/BLINDS ***
+OhRey posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th Kh]
+*** PRE-FLOP *** 
+Leo Ulrich calls 20
+OhRey folds
+MathisKcr raises 30 to 50
+Leo Ulrich calls 30
+*** FLOP *** [Qh 2d Ts]
+MathisKcr bets 80
+Leo Ulrich calls 80
+*** TURN *** [Qh 2d Ts][5c]
+MathisKcr bets 80
+Leo Ulrich raises 96 to 176
+MathisKcr calls 96
+*** RIVER *** [Qh 2d Ts 5c][As]
+MathisKcr checks
+Leo Ulrich checks
+*** SHOW DOWN ***
+MathisKcr shows [Th Kh] (One pair : Tens)
+Leo Ulrich shows [Kd Qd] (One pair : Queens)
+Leo Ulrich collected 622 from pot
+*** SUMMARY ***
+Total pot 622 | No rake
+Board: [Qh 2d Ts 5c As]
+Seat 1: MathisKcr (big blind) showed [Th Kh] and lost with One pair : Tens
+Seat 2: Leo Ulrich (button) showed [Kd Qd] and won 622 with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4087298708046086145-3-1749751032 - Holdem no limit (10/20) - 2025/06/12 17:57:12 UTC
+Table: 'Expresso(951648389)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (224)
+Seat 2: Leo Ulrich (806)
+Seat 3: OhRey (470)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Leo Ulrich posts big blind 20
+Dealt to MathisKcr [5h Kd]
+*** PRE-FLOP *** 
+OhRey folds
+MathisKcr raises 204 to 224 and is all-in
+Leo Ulrich folds
+MathisKcr collected 244 from pot
+*** SUMMARY ***
+Total pot 244 | No rake
+Seat 1: MathisKcr (small blind) won 244
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4087298708046086145-4-1749751042 - Holdem no limit (10/20) - 2025/06/12 17:57:22 UTC
+Table: 'Expresso(951648389)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (244)
+Seat 2: Leo Ulrich (786)
+Seat 3: OhRey (470)
+*** ANTE/BLINDS ***
+Leo Ulrich posts small blind 10
+OhRey posts big blind 20
+Dealt to MathisKcr [Qc 3d]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Leo Ulrich calls 10
+OhRey checks
+*** FLOP *** [Qd 9h 5h]
+Leo Ulrich checks
+OhRey bets 30
+MathisKcr raises 30 to 60
+Leo Ulrich folds
+OhRey calls 30
+*** TURN *** [Qd 9h 5h][9s]
+OhRey checks
+MathisKcr bets 60
+OhRey calls 60
+*** RIVER *** [Qd 9h 5h 9s][Js]
+OhRey bets 20
+MathisKcr raises 84 to 104 and is all-in
+OhRey folds
+MathisKcr collected 424 from pot
+*** SUMMARY ***
+Total pot 424 | No rake
+Board: [Qd 9h 5h 9s Js]
+Seat 1: MathisKcr (button) won 424
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4087298708046086145-5-1749751091 - Holdem no limit (15/30) - 2025/06/12 17:58:11 UTC
+Table: 'Expresso(951648389)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (424)
+Seat 2: Leo Ulrich (766)
+Seat 3: OhRey (310)
+*** ANTE/BLINDS ***
+OhRey posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2s 8c]
+*** PRE-FLOP *** 
+Leo Ulrich calls 30
+OhRey calls 15
+MathisKcr checks
+*** FLOP *** [8d 8s Jd]
+OhRey bets 30
+MathisKcr raises 60 to 90
+Leo Ulrich folds
+OhRey calls 60
+*** TURN *** [8d 8s Jd][5h]
+OhRey bets 95
+MathisKcr raises 95 to 190
+OhRey calls 95 and is all-in
+*** RIVER *** [8d 8s Jd 5h][Kd]
+*** SHOW DOWN ***
+MathisKcr shows [2s 8c] (Trips of 8)
+OhRey shows [6d Ad] (Flush Ace high)
+OhRey collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [8d 8s Jd 5h Kd]
+Seat 1: MathisKcr (big blind) showed [2s 8c] and lost with Trips of 8
+Seat 3: OhRey (small blind) showed [6d Ad] and won 650 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4087298708046086145-6-1749751134 - Holdem no limit (15/30) - 2025/06/12 17:58:54 UTC
+Table: 'Expresso(951648389)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (114)
+Seat 2: Leo Ulrich (736)
+Seat 3: OhRey (650)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Leo Ulrich posts big blind 30
+Dealt to MathisKcr [3h 9d]
+*** PRE-FLOP *** 
+OhRey raises 60 to 90
+MathisKcr raises 24 to 114 and is all-in
+Leo Ulrich folds
+OhRey calls 24
+*** FLOP *** [2c 7c Qc]
+*** TURN *** [2c 7c Qc][3c]
+*** RIVER *** [2c 7c Qc 3c][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [3h 9d] (One pair : 3)
+OhRey shows [Ad Qs] (One pair : Queens)
+OhRey collected 258 from pot
+*** SUMMARY ***
+Total pot 258 | No rake
+Board: [2c 7c Qc 3c Ts]
+Seat 1: MathisKcr (small blind) showed [3h 9d] and lost with One pair : 3
+Seat 3: OhRey (button) showed [Ad Qs] and won 258 with One pair : Queens
+
+

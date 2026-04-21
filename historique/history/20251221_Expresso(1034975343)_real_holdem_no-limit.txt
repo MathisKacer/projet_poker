@@ -1,0 +1,570 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445185250351382529-1-1766311291 - Holdem no limit (10/20) - 2025/12/21 10:01:31 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: coloss18 (500)
+Seat 3: Sale.Raton72 (500)
+*** ANTE/BLINDS ***
+coloss18 posts small blind 10
+Sale.Raton72 posts big blind 20
+Dealt to MathisKcr [Qh 3d]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+coloss18 folds
+Sale.Raton72 raises 480 to 500 and is all-in
+MathisKcr folds
+Sale.Raton72 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 3: Sale.Raton72 (big blind) won 530
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445185250351382529-2-1766311307 - Holdem no limit (10/20) - 2025/12/21 10:01:47 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (480)
+Seat 2: coloss18 (490)
+Seat 3: Sale.Raton72 (530)
+*** ANTE/BLINDS ***
+Sale.Raton72 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9d 3c]
+*** PRE-FLOP *** 
+coloss18 folds
+Sale.Raton72 calls 10
+MathisKcr checks
+*** FLOP *** [9c Kd 5h]
+Sale.Raton72 checks
+MathisKcr bets 40
+Sale.Raton72 folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9c Kd 5h]
+Seat 1: MathisKcr (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4445185250351382529-3-1766311333 - Holdem no limit (10/20) - 2025/12/21 10:02:13 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (500)
+Seat 2: coloss18 (490)
+Seat 3: Sale.Raton72 (510)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+coloss18 posts big blind 20
+Dealt to MathisKcr [8h Js]
+*** PRE-FLOP *** 
+Sale.Raton72 calls 20
+MathisKcr calls 10
+coloss18 checks
+*** FLOP *** [4h 5s 7d]
+MathisKcr checks
+coloss18 checks
+Sale.Raton72 checks
+*** TURN *** [4h 5s 7d][3h]
+MathisKcr bets 20
+coloss18 calls 20
+Sale.Raton72 calls 20
+*** RIVER *** [4h 5s 7d 3h][9c]
+MathisKcr checks
+coloss18 checks
+Sale.Raton72 checks
+*** SHOW DOWN ***
+MathisKcr shows [8h Js] (High card : Jack)
+Sale.Raton72 shows [8d 2h] (High card : 9)
+coloss18 shows [2d Qs] (High card : Queen)
+coloss18 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4h 5s 7d 3h 9c]
+Seat 1: MathisKcr (small blind) showed [8h Js] and lost with High card : Jack
+Seat 2: coloss18 (big blind) showed [2d Qs] and won 120 with High card : Queen
+Seat 3: Sale.Raton72 (button) showed [8d 2h] and lost with High card : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4445185250351382529-4-1766311392 - Holdem no limit (15/30) - 2025/12/21 10:03:12 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (460)
+Seat 2: coloss18 (570)
+Seat 3: Sale.Raton72 (470)
+*** ANTE/BLINDS ***
+coloss18 posts small blind 15
+Sale.Raton72 posts big blind 30
+Dealt to MathisKcr [8d As]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+coloss18 folds
+Sale.Raton72 calls 30
+*** FLOP *** [7h Ts Tc]
+Sale.Raton72 checks
+MathisKcr bets 30
+Sale.Raton72 calls 30
+*** TURN *** [7h Ts Tc][5s]
+Sale.Raton72 checks
+MathisKcr bets 30
+Sale.Raton72 folds
+MathisKcr collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [7h Ts Tc 5s]
+Seat 1: MathisKcr (button) won 225
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4445185250351382529-5-1766311433 - Holdem no limit (15/30) - 2025/12/21 10:03:53 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (565)
+Seat 2: coloss18 (555)
+Seat 3: Sale.Raton72 (380)
+*** ANTE/BLINDS ***
+Sale.Raton72 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ts Ad]
+*** PRE-FLOP *** 
+coloss18 folds
+Sale.Raton72 calls 15
+MathisKcr raises 30 to 60
+Sale.Raton72 calls 30
+*** FLOP *** [5d 7h 8d]
+Sale.Raton72 checks
+MathisKcr bets 30
+Sale.Raton72 calls 30
+*** TURN *** [5d 7h 8d][9d]
+Sale.Raton72 checks
+MathisKcr bets 60
+Sale.Raton72 calls 60
+*** RIVER *** [5d 7h 8d 9d][9s]
+Sale.Raton72 checks
+MathisKcr checks
+*** SHOW DOWN ***
+Sale.Raton72 shows [Kh Qd] (One pair : 9)
+MathisKcr shows [Ts Ad] (One pair : 9)
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [5d 7h 8d 9d 9s]
+Seat 1: MathisKcr (big blind) showed [Ts Ad] and won 300 with One pair : 9
+Seat 3: Sale.Raton72 (small blind) showed [Kh Qd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4445185250351382529-6-1766311472 - Holdem no limit (20/40) - 2025/12/21 10:04:32 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (715)
+Seat 2: coloss18 (555)
+Seat 3: Sale.Raton72 (230)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+coloss18 posts big blind 40
+Dealt to MathisKcr [7h Ad]
+*** PRE-FLOP *** 
+Sale.Raton72 folds
+MathisKcr raises 40 to 80
+coloss18 raises 475 to 555 and is all-in
+MathisKcr calls 475
+*** FLOP *** [8s 2c 3d]
+*** TURN *** [8s 2c 3d][9d]
+*** RIVER *** [8s 2c 3d 9d][3s]
+*** SHOW DOWN ***
+MathisKcr shows [7h Ad] (One pair : 3)
+coloss18 shows [5h 5s] (Two pairs : 5 and 3)
+coloss18 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Board: [8s 2c 3d 9d 3s]
+Seat 1: MathisKcr (small blind) showed [7h Ad] and lost with One pair : 3
+Seat 2: coloss18 (big blind) showed [5h 5s] and won 1110 with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4445185250351382529-7-1766311498 - Holdem no limit (20/40) - 2025/12/21 10:04:58 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (160)
+Seat 2: coloss18 (1110)
+Seat 3: Sale.Raton72 (230)
+*** ANTE/BLINDS ***
+coloss18 posts small blind 20
+Sale.Raton72 posts big blind 40
+Dealt to MathisKcr [7h 3c]
+*** PRE-FLOP *** 
+MathisKcr folds
+coloss18 folds
+Sale.Raton72 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Sale.Raton72 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4445185250351382529-8-1766311504 - Holdem no limit (20/40) - 2025/12/21 10:05:04 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (160)
+Seat 2: coloss18 (1090)
+Seat 3: Sale.Raton72 (250)
+*** ANTE/BLINDS ***
+Sale.Raton72 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3h 6h]
+*** PRE-FLOP *** 
+coloss18 raises 1050 to 1090 and is all-in
+Sale.Raton72 calls 230 and is all-in
+MathisKcr folds
+*** FLOP *** [3d 9c Kh]
+*** TURN *** [3d 9c Kh][2d]
+*** RIVER *** [3d 9c Kh 2d][Js]
+*** SHOW DOWN ***
+coloss18 shows [7s Jd] (One pair : Jacks)
+Sale.Raton72 shows [4h Kd] (One pair : Kings)
+Sale.Raton72 collected 540 from main pot
+coloss18 collected 840 from side pot 1
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [3d 9c Kh 2d Js]
+Seat 2: coloss18 (button) showed [7s Jd] and won 840 with One pair : Jacks
+Seat 3: Sale.Raton72 (small blind) showed [4h Kd] and won 540 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4445185250351382529-9-1766311519 - Holdem no limit (20/40) - 2025/12/21 10:05:19 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (120)
+Seat 2: coloss18 (840)
+Seat 3: Sale.Raton72 (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+coloss18 posts big blind 40
+Dealt to MathisKcr [Ad 7s]
+*** PRE-FLOP *** 
+Sale.Raton72 folds
+MathisKcr raises 40 to 80
+coloss18 folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: MathisKcr (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4445185250351382529-10-1766311538 - Holdem no limit (20/40) - 2025/12/21 10:05:38 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (160)
+Seat 2: coloss18 (800)
+Seat 3: Sale.Raton72 (540)
+*** ANTE/BLINDS ***
+coloss18 posts small blind 20
+Sale.Raton72 posts big blind 40
+Dealt to MathisKcr [6c 8s]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+coloss18 calls 20
+Sale.Raton72 checks
+*** FLOP *** [Ts 5d Jd]
+coloss18 bets 40
+Sale.Raton72 calls 40
+MathisKcr folds
+*** TURN *** [Ts 5d Jd][Kh]
+coloss18 bets 720 and is all-in
+Sale.Raton72 folds
+coloss18 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Board: [Ts 5d Jd Kh]
+Seat 2: coloss18 (small blind) won 920
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4445185250351382529-11-1766311564 - Holdem no limit (30/60) - 2025/12/21 10:06:04 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (120)
+Seat 2: coloss18 (920)
+Seat 3: Sale.Raton72 (460)
+*** ANTE/BLINDS ***
+Sale.Raton72 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Kd Jh]
+*** PRE-FLOP *** 
+coloss18 folds
+Sale.Raton72 calls 30
+MathisKcr raises 60 to 120 and is all-in
+Sale.Raton72 calls 60
+*** FLOP *** [Kh 7c 7s]
+*** TURN *** [Kh 7c 7s][Ts]
+*** RIVER *** [Kh 7c 7s Ts][Th]
+*** SHOW DOWN ***
+Sale.Raton72 shows [Qh 3h] (Two pairs : Tens and 7)
+MathisKcr shows [Kd Jh] (Two pairs : Kings and Tens)
+MathisKcr collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Kh 7c 7s Ts Th]
+Seat 1: MathisKcr (big blind) showed [Kd Jh] and won 240 with Two pairs : Kings and Tens
+Seat 3: Sale.Raton72 (small blind) showed [Qh 3h] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4445185250351382529-12-1766311579 - Holdem no limit (30/60) - 2025/12/21 10:06:19 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (240)
+Seat 2: coloss18 (920)
+Seat 3: Sale.Raton72 (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+coloss18 posts big blind 60
+Dealt to MathisKcr [4h 3d]
+*** PRE-FLOP *** 
+Sale.Raton72 raises 280 to 340 and is all-in
+MathisKcr folds
+coloss18 calls 280
+*** FLOP *** [Ts Jd 5d]
+*** TURN *** [Ts Jd 5d][6d]
+*** RIVER *** [Ts Jd 5d 6d][9s]
+*** SHOW DOWN ***
+coloss18 shows [Qc 9c] (One pair : 9)
+Sale.Raton72 shows [Jc Kc] (One pair : Jacks)
+Sale.Raton72 collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [Ts Jd 5d 6d 9s]
+Seat 2: coloss18 (big blind) showed [Qc 9c] and lost with One pair : 9
+Seat 3: Sale.Raton72 (button) showed [Jc Kc] and won 710 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4445185250351382529-13-1766311600 - Holdem no limit (30/60) - 2025/12/21 10:06:40 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (210)
+Seat 2: coloss18 (580)
+Seat 3: Sale.Raton72 (710)
+*** ANTE/BLINDS ***
+coloss18 posts small blind 30
+Sale.Raton72 posts big blind 60
+Dealt to MathisKcr [2d Qs]
+*** PRE-FLOP *** 
+MathisKcr calls 60
+coloss18 raises 520 to 580 and is all-in
+Sale.Raton72 folds
+MathisKcr calls 150 and is all-in
+*** FLOP *** [Qd Qh 7d]
+*** TURN *** [Qd Qh 7d][3c]
+*** RIVER *** [Qd Qh 7d 3c][Js]
+*** SHOW DOWN ***
+MathisKcr shows [2d Qs] (Trips of Queens)
+coloss18 shows [Jc Kd] (Two pairs : Queens and Jacks)
+coloss18 collected 370 from side pot 1
+MathisKcr collected 480 from main pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [Qd Qh 7d 3c Js]
+Seat 1: MathisKcr (button) showed [2d Qs] and won 480 with Trips of Queens
+Seat 2: coloss18 (small blind) showed [Jc Kd] and won 370 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4445185250351382529-14-1766311619 - Holdem no limit (30/60) - 2025/12/21 10:06:59 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (480)
+Seat 2: coloss18 (370)
+Seat 3: Sale.Raton72 (650)
+*** ANTE/BLINDS ***
+Sale.Raton72 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Jd 5h]
+*** PRE-FLOP *** 
+coloss18 folds
+Sale.Raton72 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4445185250351382529-15-1766311627 - Holdem no limit (30/60) - 2025/12/21 10:07:07 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (510)
+Seat 2: coloss18 (370)
+Seat 3: Sale.Raton72 (620)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+coloss18 posts big blind 60
+Dealt to MathisKcr [3h 9c]
+*** PRE-FLOP *** 
+Sale.Raton72 calls 60
+MathisKcr folds
+coloss18 checks
+*** FLOP *** [8s Ad 5d]
+coloss18 bets 60
+Sale.Raton72 calls 60
+*** TURN *** [8s Ad 5d][8d]
+coloss18 checks
+Sale.Raton72 checks
+*** RIVER *** [8s Ad 5d 8d][3c]
+coloss18 bets 60
+Sale.Raton72 raises 233 to 293
+coloss18 folds
+Sale.Raton72 collected 623 from pot
+*** SUMMARY ***
+Total pot 623 | No rake
+Board: [8s Ad 5d 8d 3c]
+Seat 3: Sale.Raton72 (button) won 623
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4445185250351382529-16-1766311656 - Holdem no limit (40/80) - 2025/12/21 10:07:36 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (480)
+Seat 2: coloss18 (190)
+Seat 3: Sale.Raton72 (830)
+*** ANTE/BLINDS ***
+coloss18 posts small blind 40
+Sale.Raton72 posts big blind 80
+Dealt to MathisKcr [Qd 8s]
+*** PRE-FLOP *** 
+MathisKcr raises 400 to 480 and is all-in
+coloss18 calls 150 and is all-in
+Sale.Raton72 calls 400
+*** FLOP *** [9s Ks As]
+*** TURN *** [9s Ks As][Ac]
+*** RIVER *** [9s Ks As Ac][Qs]
+*** SHOW DOWN ***
+coloss18 shows [7d Qc] (Two pairs : Aces and Queens)
+Sale.Raton72 shows [6c Kc] (Two pairs : Aces and Kings)
+MathisKcr shows [Qd 8s] (Flush Ace high)
+MathisKcr collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Board: [9s Ks As Ac Qs]
+Seat 1: MathisKcr (button) showed [Qd 8s] and won 1150 with Flush Ace high
+Seat 2: coloss18 (small blind) showed [7d Qc] and lost with Two pairs : Aces and Queens
+Seat 3: Sale.Raton72 (big blind) showed [6c Kc] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4445185250351382529-17-1766311674 - Holdem no limit (40/80) - 2025/12/21 10:07:54 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (1150)
+Seat 3: Sale.Raton72 (350)
+*** ANTE/BLINDS ***
+Sale.Raton72 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [5h 5d]
+*** PRE-FLOP *** 
+Sale.Raton72 raises 270 to 350 and is all-in
+MathisKcr calls 270
+*** FLOP *** [6s Qh Ts]
+*** TURN *** [6s Qh Ts][Js]
+*** RIVER *** [6s Qh Ts Js][Td]
+*** SHOW DOWN ***
+MathisKcr shows [5h 5d] (Two pairs : Tens and 5)
+Sale.Raton72 shows [6d Jd] (Two pairs : Jacks and Tens)
+Sale.Raton72 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [6s Qh Ts Js Td]
+Seat 1: MathisKcr (big blind) showed [5h 5d] and lost with Two pairs : Tens and 5
+Seat 3: Sale.Raton72 (small blind) (button) showed [6d Jd] and won 700 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4445185250351382529-18-1766311685 - Holdem no limit (40/80) - 2025/12/21 10:08:05 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (800)
+Seat 3: Sale.Raton72 (700)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Sale.Raton72 posts big blind 80
+Dealt to MathisKcr [Td 9c]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+Sale.Raton72 checks
+*** FLOP *** [4d Qh 5h]
+Sale.Raton72 bets 80
+MathisKcr calls 80
+*** TURN *** [4d Qh 5h][Ac]
+Sale.Raton72 bets 80
+MathisKcr folds
+Sale.Raton72 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [4d Qh 5h Ac]
+Seat 3: Sale.Raton72 (big blind) won 400
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4445185250351382529-19-1766311698 - Holdem no limit (40/80) - 2025/12/21 10:08:18 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (640)
+Seat 3: Sale.Raton72 (860)
+*** ANTE/BLINDS ***
+Sale.Raton72 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [3h 4h]
+*** PRE-FLOP *** 
+Sale.Raton72 calls 40
+MathisKcr checks
+*** FLOP *** [Kd 2c 5d]
+MathisKcr bets 80
+Sale.Raton72 calls 80
+*** TURN *** [Kd 2c 5d][Ks]
+MathisKcr checks
+Sale.Raton72 bets 80
+MathisKcr calls 80
+*** RIVER *** [Kd 2c 5d Ks][7h]
+MathisKcr checks
+Sale.Raton72 checks
+*** SHOW DOWN ***
+MathisKcr shows [3h 4h] (One pair : Kings)
+Sale.Raton72 shows [Ac 8c] (One pair : Kings)
+Sale.Raton72 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Kd 2c 5d Ks 7h]
+Seat 1: MathisKcr (big blind) showed [3h 4h] and lost with One pair : Kings
+Seat 3: Sale.Raton72 (small blind) (button) showed [Ac 8c] and won 480 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4445185250351382529-20-1766311719 - Holdem no limit (40/80) - 2025/12/21 10:08:39 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (400)
+Seat 3: Sale.Raton72 (1100)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Sale.Raton72 posts big blind 80
+Dealt to MathisKcr [Qd 8c]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+Sale.Raton72 checks
+*** FLOP *** [2d 6c 7s]
+Sale.Raton72 bets 80
+MathisKcr calls 80
+*** TURN *** [2d 6c 7s][Ah]
+Sale.Raton72 checks
+MathisKcr checks
+*** RIVER *** [2d 6c 7s Ah][9c]
+Sale.Raton72 checks
+MathisKcr checks
+*** SHOW DOWN ***
+Sale.Raton72 shows [Qc 5h] (High card : Ace)
+MathisKcr shows [Qd 8c] (High card : Ace)
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [2d 6c 7s Ah 9c]
+Seat 1: MathisKcr (small blind) (button) showed [Qd 8c] and won 320 with High card : Ace
+Seat 3: Sale.Raton72 (big blind) showed [Qc 5h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 5 - HandId: #4445185250351382529-21-1766311733 - Holdem no limit (40/80) - 2025/12/21 10:08:53 UTC
+Table: 'Expresso(1034975343)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (560)
+Seat 3: Sale.Raton72 (940)
+*** ANTE/BLINDS ***
+Sale.Raton72 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [5h Qd]
+*** PRE-FLOP *** 
+Sale.Raton72 calls 40
+MathisKcr checks
+*** FLOP *** [Kh 5s Ah]
+MathisKcr bets 80
+Sale.Raton72 calls 80
+*** TURN *** [Kh 5s Ah][6c]
+MathisKcr bets 160
+Sale.Raton72 calls 160
+*** RIVER *** [Kh 5s Ah 6c][Ad]
+MathisKcr bets 240 and is all-in
+Sale.Raton72 calls 240
+*** SHOW DOWN ***
+MathisKcr shows [5h Qd] (Two pairs : Aces and 5)
+Sale.Raton72 shows [Ac 8c] (Trips of Aces)
+Sale.Raton72 collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Board: [Kh 5s Ah 6c Ad]
+Seat 1: MathisKcr (big blind) showed [5h Qd] and lost with Two pairs : Aces and 5
+Seat 3: Sale.Raton72 (small blind) (button) showed [Ac 8c] and won 1120 with Trips of Aces
+
+

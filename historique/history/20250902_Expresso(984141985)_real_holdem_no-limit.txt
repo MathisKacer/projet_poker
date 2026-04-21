@@ -1,0 +1,56 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226857640195522561-1-1756803263 - Holdem no limit (10/20) - 2025/09/02 08:54:23 UTC
+Table: 'Expresso(984141985)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MiguelGV (500)
+Seat 2: MathisKcr (500)
+Seat 3: gourouna21 (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+gourouna21 posts big blind 20
+Dealt to MathisKcr [Jh 6c]
+*** PRE-FLOP *** 
+MiguelGV folds
+MathisKcr calls 10
+gourouna21 checks
+*** FLOP *** [5c Th 4c]
+MathisKcr bets 40
+gourouna21 calls 40
+*** TURN *** [5c Th 4c][9s]
+MathisKcr checks
+gourouna21 bets 120
+MathisKcr folds
+gourouna21 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [5c Th 4c 9s]
+Seat 3: gourouna21 (big blind) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226857640195522561-2-1756803303 - Holdem no limit (10/20) - 2025/09/02 08:55:03 UTC
+Table: 'Expresso(984141985)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MiguelGV (500)
+Seat 2: MathisKcr (440)
+Seat 3: gourouna21 (560)
+*** ANTE/BLINDS ***
+gourouna21 posts small blind 10
+MiguelGV posts big blind 20
+Dealt to MathisKcr [Kc Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+gourouna21 calls 50
+MiguelGV raises 440 to 500 and is all-in
+MathisKcr calls 380 and is all-in
+gourouna21 folds
+*** FLOP *** [7h 8c Td]
+*** TURN *** [7h 8c Td][Jh]
+*** RIVER *** [7h 8c Td Jh][4s]
+*** SHOW DOWN ***
+MathisKcr shows [Kc Ad] (High card : Ace)
+MiguelGV shows [6s 6h] (One pair : 6)
+MiguelGV collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [7h 8c Td Jh 4s]
+Seat 1: MiguelGV (big blind) showed [6s 6h] and won 1000 with One pair : 6
+Seat 2: MathisKcr (button) showed [Kc Ad] and lost with High card : Ace
+
+

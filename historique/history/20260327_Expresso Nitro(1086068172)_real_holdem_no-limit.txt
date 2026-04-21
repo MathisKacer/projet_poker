@@ -1,0 +1,55 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664627279966502913-1-1774636773 - Holdem no limit (10/20) - 2026/03/27 18:39:33 UTC
+Table: 'Expresso Nitro(1086068172)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: 4irva Ye-Bi (300)
+Seat 3: L0tS0 (300)
+*** ANTE/BLINDS ***
+4irva Ye-Bi posts small blind 10
+L0tS0 posts big blind 20
+Dealt to MathisKcr [9d Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+4irva Ye-Bi folds
+L0tS0 calls 20
+*** FLOP *** [2d Js 4d]
+L0tS0 checks
+MathisKcr bets 32
+L0tS0 raises 228 to 260 and is all-in
+MathisKcr folds
+L0tS0 collected 382 from pot
+*** SUMMARY ***
+Total pot 382 | No rake
+Board: [2d Js 4d]
+Seat 3: L0tS0 (big blind) won 382
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4664627279966502913-2-1774636793 - Holdem no limit (10/20) - 2026/03/27 18:39:53 UTC
+Table: 'Expresso Nitro(1086068172)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (228)
+Seat 2: 4irva Ye-Bi (290)
+Seat 3: L0tS0 (382)
+*** ANTE/BLINDS ***
+L0tS0 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd 3h]
+*** PRE-FLOP *** 
+4irva Ye-Bi raises 20 to 40
+L0tS0 folds
+MathisKcr calls 20
+*** FLOP *** [3c 6s Ts]
+MathisKcr bets 59
+4irva Ye-Bi raises 191 to 250 and is all-in
+MathisKcr calls 129 and is all-in
+*** TURN *** [3c 6s Ts][4h]
+*** RIVER *** [3c 6s Ts 4h][Tc]
+*** SHOW DOWN ***
+MathisKcr shows [Kd 3h] (Two pairs : Tens and 3)
+4irva Ye-Bi shows [9c Th] (Trips of Tens)
+4irva Ye-Bi collected 528 from pot
+*** SUMMARY ***
+Total pot 528 | No rake
+Board: [3c 6s Ts 4h Tc]
+Seat 1: MathisKcr (big blind) showed [Kd 3h] and lost with Two pairs : Tens and 3
+Seat 2: 4irva Ye-Bi (button) showed [9c Th] and won 528 with Trips of Tens
+
+

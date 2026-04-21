@@ -1,0 +1,76 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666220588279267329-1-1774702783 - Holdem no limit (10/20) - 2026/03/28 12:59:43 UTC
+Table: 'Expresso Nitro(1086439143)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Fish K1ller (300)
+Seat 2: AbR13 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Fish K1ller posts small blind 10
+AbR13 posts big blind 20
+Dealt to MathisKcr [Kd 3d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Fish K1ller folds
+AbR13 calls 20
+*** FLOP *** [Jc 5s Td]
+AbR13 checks
+MathisKcr bets 32
+AbR13 calls 32
+*** TURN *** [Jc 5s Td][Ad]
+AbR13 checks
+MathisKcr bets 100
+AbR13 folds
+MathisKcr collected 254 from pot
+*** SUMMARY ***
+Total pot 254 | No rake
+Board: [Jc 5s Td Ad]
+Seat 3: MathisKcr (button) won 254
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666220588279267329-2-1774702825 - Holdem no limit (10/20) - 2026/03/28 13:00:25 UTC
+Table: 'Expresso Nitro(1086439143)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Fish K1ller (290)
+Seat 2: AbR13 (228)
+Seat 3: MathisKcr (382)
+*** ANTE/BLINDS ***
+AbR13 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 5s]
+*** PRE-FLOP *** 
+Fish K1ller folds
+AbR13 folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666220588279267329-3-1774702830 - Holdem no limit (10/20) - 2026/03/28 13:00:30 UTC
+Table: 'Expresso Nitro(1086439143)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Fish K1ller (290)
+Seat 2: AbR13 (218)
+Seat 3: MathisKcr (392)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Fish K1ller posts big blind 20
+Dealt to MathisKcr [Kh Kd]
+*** PRE-FLOP *** 
+AbR13 raises 40 to 60
+MathisKcr raises 332 to 392 and is all-in
+Fish K1ller calls 270 and is all-in
+AbR13 calls 158 and is all-in
+*** FLOP *** [7d 8d 3c]
+*** TURN *** [7d 8d 3c][7h]
+*** RIVER *** [7d 8d 3c 7h][2s]
+*** SHOW DOWN ***
+Fish K1ller shows [Qd Kc] (One pair : 7)
+AbR13 shows [Ks 9h] (One pair : 7)
+MathisKcr shows [Kh Kd] (Two pairs : Kings and 7)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 8d 3c 7h 2s]
+Seat 1: Fish K1ller (big blind) showed [Qd Kc] and lost with One pair : 7
+Seat 2: AbR13 (button) showed [Ks 9h] and lost with One pair : 7
+Seat 3: MathisKcr (small blind) showed [Kh Kd] and won 900 with Two pairs : Kings and 7
+
+

@@ -1,0 +1,104 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4541582750473256961-1-1770212701 - Holdem no limit (10/20) - 2026/02/04 13:45:01 UTC
+Table: 'Expresso Nitro(1057419635)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Kandysex (300)
+Seat 2: MathisKcr (300)
+Seat 3: Benitezvirus (300)
+*** ANTE/BLINDS ***
+Benitezvirus posts small blind 10
+Kandysex posts big blind 20
+Dealt to MathisKcr [8c 5d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Benitezvirus raises 280 to 300 and is all-in
+Kandysex calls 280 and is all-in
+*** FLOP *** [Tc 3d 5h]
+*** TURN *** [Tc 3d 5h][3h]
+*** RIVER *** [Tc 3d 5h 3h][Qs]
+*** SHOW DOWN ***
+Kandysex shows [7s 8s] (One pair : 3)
+Benitezvirus shows [3s Ks] (Trips of 3)
+Benitezvirus collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Tc 3d 5h 3h Qs]
+Seat 1: Kandysex (big blind) showed [7s 8s] and lost with One pair : 3
+Seat 3: Benitezvirus (small blind) showed [3s Ks] and won 600 with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4541582750473256961-2-1770212726 - Holdem no limit (10/20) - 2026/02/04 13:45:26 UTC
+Table: 'Expresso Nitro(1057419635)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (300)
+Seat 3: Benitezvirus (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Benitezvirus posts big blind 20
+Dealt to MathisKcr [Qc 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+Benitezvirus folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 2: MathisKcr (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4541582750473256961-3-1770212740 - Holdem no limit (10/20) - 2026/02/04 13:45:40 UTC
+Table: 'Expresso Nitro(1057419635)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (320)
+Seat 3: Benitezvirus (580)
+*** ANTE/BLINDS ***
+Benitezvirus posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3s 9s]
+*** PRE-FLOP *** 
+Benitezvirus raises 560 to 580 and is all-in
+MathisKcr folds
+Benitezvirus collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 3: Benitezvirus (small blind) (button) won 600
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4541582750473256961-4-1770212748 - Holdem no limit (10/20) - 2026/02/04 13:45:48 UTC
+Table: 'Expresso Nitro(1057419635)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (300)
+Seat 3: Benitezvirus (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Benitezvirus posts big blind 20
+Dealt to MathisKcr [5d Th]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+Benitezvirus folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 2: MathisKcr (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4541582750473256961-5-1770212757 - Holdem no limit (10/20) - 2026/02/04 13:45:57 UTC
+Table: 'Expresso Nitro(1057419635)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (320)
+Seat 3: Benitezvirus (580)
+*** ANTE/BLINDS ***
+Benitezvirus posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ah Th]
+*** PRE-FLOP *** 
+Benitezvirus raises 40 to 60
+MathisKcr raises 260 to 320 and is all-in
+Benitezvirus calls 260
+*** FLOP *** [9c 7d 9h]
+*** TURN *** [9c 7d 9h][6c]
+*** RIVER *** [9c 7d 9h 6c][3s]
+*** SHOW DOWN ***
+MathisKcr shows [Ah Th] (One pair : 9)
+Benitezvirus shows [Ts Td] (Two pairs : Tens and 9)
+Benitezvirus collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [9c 7d 9h 6c 3s]
+Seat 2: MathisKcr (big blind) showed [Ah Th] and lost with One pair : 9
+Seat 3: Benitezvirus (small blind) (button) showed [Ts Td] and won 640 with Two pairs : Tens and 9
+
+

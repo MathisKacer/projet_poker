@@ -1,0 +1,169 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4654833105264181249-1-1774253904 - Holdem no limit (10/20) - 2026/03/23 08:18:24 UTC
+Table: 'Expresso Nitro(1083787788)#0' 3-max (real money) Seat #2 is the button
+Seat 1: las.pas.das (300)
+Seat 2: wmx-wf28w8fs (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+las.pas.das posts big blind 20
+Dealt to MathisKcr [Tc 3d]
+*** PRE-FLOP *** 
+wmx-wf28w8fs folds
+MathisKcr calls 10
+las.pas.das checks
+*** FLOP *** [7s 7c 2s]
+MathisKcr checks
+las.pas.das checks
+*** TURN *** [7s 7c 2s][6s]
+MathisKcr checks
+las.pas.das checks
+*** RIVER *** [7s 7c 2s 6s][Jc]
+MathisKcr checks
+las.pas.das checks
+*** SHOW DOWN ***
+MathisKcr shows [Tc 3d] (One pair : 7)
+las.pas.das shows [Qs 5d] (One pair : 7)
+las.pas.das collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [7s 7c 2s 6s Jc]
+Seat 1: las.pas.das (big blind) showed [Qs 5d] and won 40 with One pair : 7
+Seat 3: MathisKcr (small blind) showed [Tc 3d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4654833105264181249-2-1774253926 - Holdem no limit (10/20) - 2026/03/23 08:18:46 UTC
+Table: 'Expresso Nitro(1083787788)#0' 3-max (real money) Seat #3 is the button
+Seat 1: las.pas.das (320)
+Seat 2: wmx-wf28w8fs (300)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+las.pas.das posts small blind 10
+wmx-wf28w8fs posts big blind 20
+Dealt to MathisKcr [4d 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+las.pas.das raises 40 to 60
+wmx-wf28w8fs folds
+las.pas.das collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: las.pas.das (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4654833105264181249-3-1774253938 - Holdem no limit (10/20) - 2026/03/23 08:18:58 UTC
+Table: 'Expresso Nitro(1083787788)#0' 3-max (real money) Seat #1 is the button
+Seat 1: las.pas.das (340)
+Seat 2: wmx-wf28w8fs (280)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+wmx-wf28w8fs posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8h 7s]
+*** PRE-FLOP *** 
+las.pas.das calls 20
+wmx-wf28w8fs calls 10
+MathisKcr checks
+*** FLOP *** [8c 4s 9h]
+wmx-wf28w8fs checks
+MathisKcr bets 21
+las.pas.das calls 21
+wmx-wf28w8fs calls 21
+*** TURN *** [8c 4s 9h][6c]
+wmx-wf28w8fs checks
+MathisKcr bets 62
+las.pas.das folds
+wmx-wf28w8fs folds
+MathisKcr collected 185 from pot
+*** SUMMARY ***
+Total pot 185 | No rake
+Board: [8c 4s 9h 6c]
+Seat 3: MathisKcr (big blind) won 185
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4654833105264181249-4-1774253965 - Holdem no limit (15/30) - 2026/03/23 08:19:25 UTC
+Table: 'Expresso Nitro(1083787788)#0' 3-max (real money) Seat #2 is the button
+Seat 1: las.pas.das (299)
+Seat 2: wmx-wf28w8fs (239)
+Seat 3: MathisKcr (362)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+las.pas.das posts big blind 30
+Dealt to MathisKcr [4h 4c]
+*** PRE-FLOP *** 
+wmx-wf28w8fs raises 30 to 60
+MathisKcr raises 302 to 362 and is all-in
+las.pas.das calls 269 and is all-in
+wmx-wf28w8fs calls 179 and is all-in
+*** FLOP *** [As 8h 8c]
+*** TURN *** [As 8h 8c][2s]
+*** RIVER *** [As 8h 8c 2s][Td]
+*** SHOW DOWN ***
+las.pas.das shows [9s Ts] (Two pairs : Tens and 8)
+wmx-wf28w8fs shows [Qh Qs] (Two pairs : Queens and 8)
+MathisKcr shows [4h 4c] (Two pairs : 8 and 4)
+MathisKcr collected 63 from side pot 2
+wmx-wf28w8fs collected 717 from main pot
+las.pas.das collected 120 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [As 8h 8c 2s Td]
+Seat 1: las.pas.das (big blind) showed [9s Ts] and won 120 with Two pairs : Tens and 8
+Seat 2: wmx-wf28w8fs (button) showed [Qh Qs] and won 717 with Two pairs : Queens and 8
+Seat 3: MathisKcr (small blind) showed [4h 4c] and won 63 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4654833105264181249-5-1774253982 - Holdem no limit (15/30) - 2026/03/23 08:19:42 UTC
+Table: 'Expresso Nitro(1083787788)#0' 3-max (real money) Seat #3 is the button
+Seat 1: las.pas.das (120)
+Seat 2: wmx-wf28w8fs (717)
+Seat 3: MathisKcr (63)
+*** ANTE/BLINDS ***
+las.pas.das posts small blind 15
+wmx-wf28w8fs posts big blind 30
+Dealt to MathisKcr [6h 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+las.pas.das raises 90 to 120 and is all-in
+wmx-wf28w8fs calls 90
+*** FLOP *** [Td Ad 2h]
+*** TURN *** [Td Ad 2h][5c]
+*** RIVER *** [Td Ad 2h 5c][4s]
+*** SHOW DOWN ***
+wmx-wf28w8fs shows [Jh 4h] (One pair : 4)
+las.pas.das shows [Ac 5d] (Two pairs : Aces and 5)
+las.pas.das collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Td Ad 2h 5c 4s]
+Seat 1: las.pas.das (small blind) showed [Ac 5d] and won 240 with Two pairs : Aces and 5
+Seat 2: wmx-wf28w8fs (big blind) showed [Jh 4h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4654833105264181249-6-1774253999 - Holdem no limit (15/30) - 2026/03/23 08:19:59 UTC
+Table: 'Expresso Nitro(1083787788)#0' 3-max (real money) Seat #1 is the button
+Seat 1: las.pas.das (240)
+Seat 2: wmx-wf28w8fs (597)
+Seat 3: MathisKcr (63)
+*** ANTE/BLINDS ***
+wmx-wf28w8fs posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2s 2h]
+*** PRE-FLOP *** 
+las.pas.das calls 30
+wmx-wf28w8fs folds
+MathisKcr raises 33 to 63 and is all-in
+las.pas.das calls 33
+*** FLOP *** [As 3s 3h]
+*** TURN *** [As 3s 3h][Tc]
+*** RIVER *** [As 3s 3h Tc][Ad]
+*** SHOW DOWN ***
+MathisKcr shows [2s 2h] (Two pairs : Aces and 3)
+las.pas.das shows [Td 8c] (Two pairs : Aces and Tens)
+las.pas.das collected 141 from pot
+*** SUMMARY ***
+Total pot 141 | No rake
+Board: [As 3s 3h Tc Ad]
+Seat 1: las.pas.das (button) showed [Td 8c] and won 141 with Two pairs : Aces and Tens
+Seat 3: MathisKcr (big blind) showed [2s 2h] and lost with Two pairs : Aces and 3
+
+

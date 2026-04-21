@@ -1,0 +1,137 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659498071107829761-1-1774431100 - Holdem no limit (10/20) - 2026/03/25 09:31:40 UTC
+Table: 'Expresso Nitro(1084873935)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Sinifs (300)
+Seat 3: trisalex (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Sinifs posts big blind 20
+Dealt to MathisKcr [4c 3d]
+*** PRE-FLOP *** 
+trisalex calls 20
+MathisKcr calls 10
+Sinifs checks
+*** FLOP *** [5c 9h 3h]
+MathisKcr bets 40
+Sinifs raises 240 to 280 and is all-in
+trisalex folds
+MathisKcr calls 240 and is all-in
+*** TURN *** [5c 9h 3h][As]
+*** RIVER *** [5c 9h 3h As][4h]
+*** SHOW DOWN ***
+Sinifs shows [6c 9c] (One pair : 9)
+MathisKcr shows [4c 3d] (Two pairs : 4 and 3)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [5c 9h 3h As 4h]
+Seat 1: MathisKcr (small blind) showed [4c 3d] and won 620 with Two pairs : 4 and 3
+Seat 2: Sinifs (big blind) showed [6c 9c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659498071107829761-2-1774431134 - Holdem no limit (10/20) - 2026/03/25 09:32:14 UTC
+Table: 'Expresso Nitro(1084873935)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (620)
+Seat 3: trisalex (280)
+*** ANTE/BLINDS ***
+trisalex posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qd Tc]
+*** PRE-FLOP *** 
+trisalex calls 10
+MathisKcr raises 40 to 60
+trisalex folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: MathisKcr (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659498071107829761-3-1774431145 - Holdem no limit (10/20) - 2026/03/25 09:32:25 UTC
+Table: 'Expresso Nitro(1084873935)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (640)
+Seat 3: trisalex (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+trisalex posts big blind 20
+Dealt to MathisKcr [As 2s]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+trisalex folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: MathisKcr (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4659498071107829761-4-1774431154 - Holdem no limit (10/20) - 2026/03/25 09:32:34 UTC
+Table: 'Expresso Nitro(1084873935)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (660)
+Seat 3: trisalex (240)
+*** ANTE/BLINDS ***
+trisalex posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8s 4d]
+*** PRE-FLOP *** 
+trisalex calls 10
+MathisKcr checks
+*** FLOP *** [3d Td 2c]
+MathisKcr checks
+trisalex checks
+*** TURN *** [3d Td 2c][8d]
+MathisKcr bets 40
+trisalex folds
+MathisKcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [3d Td 2c 8d]
+Seat 1: MathisKcr (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4659498071107829761-5-1774431184 - Holdem no limit (15/30) - 2026/03/25 09:33:04 UTC
+Table: 'Expresso Nitro(1084873935)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (680)
+Seat 3: trisalex (220)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+trisalex posts big blind 30
+Dealt to MathisKcr [8c 7h]
+*** PRE-FLOP *** 
+MathisKcr calls 15
+trisalex checks
+*** FLOP *** [Qc Ac Ah]
+trisalex checks
+MathisKcr bets 60
+trisalex folds
+MathisKcr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Qc Ac Ah]
+Seat 1: MathisKcr (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4659498071107829761-6-1774431202 - Holdem no limit (15/30) - 2026/03/25 09:33:22 UTC
+Table: 'Expresso Nitro(1084873935)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (710)
+Seat 3: trisalex (190)
+*** ANTE/BLINDS ***
+trisalex posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7h 7d]
+*** PRE-FLOP *** 
+trisalex raises 160 to 190 and is all-in
+MathisKcr calls 160
+*** FLOP *** [8c 2d 6d]
+*** TURN *** [8c 2d 6d][6c]
+*** RIVER *** [8c 2d 6d 6c][3c]
+*** SHOW DOWN ***
+trisalex shows [Ah 9d] (One pair : 6)
+MathisKcr shows [7h 7d] (Two pairs : 7 and 6)
+MathisKcr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [8c 2d 6d 6c 3c]
+Seat 1: MathisKcr (big blind) showed [7h 7d] and won 380 with Two pairs : 7 and 6
+Seat 3: trisalex (small blind) (button) showed [Ah 9d] and lost with One pair : 6
+
+

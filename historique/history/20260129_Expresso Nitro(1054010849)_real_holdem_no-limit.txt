@@ -1,0 +1,175 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4526942126084194305-1-1769698101 - Holdem no limit (10/20) - 2026/01/29 14:48:21 UTC
+Table: 'Expresso Nitro(1054010849)#0' 3-max (real money) Seat #2 is the button
+Seat 1: nanynathan_ (300)
+Seat 2: MathisKcr (300)
+Seat 3: Iris607 (300)
+*** ANTE/BLINDS ***
+Iris607 posts small blind 10
+nanynathan_ posts big blind 20
+Dealt to MathisKcr [7c Jh]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+Iris607 calls 10
+nanynathan_ checks
+*** FLOP *** [6c Kd 3d]
+Iris607 checks
+nanynathan_ checks
+MathisKcr bets 40
+Iris607 folds
+nanynathan_ folds
+MathisKcr collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [6c Kd 3d]
+Seat 2: MathisKcr (button) won 100
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4526942126084194305-2-1769698120 - Holdem no limit (10/20) - 2026/01/29 14:48:40 UTC
+Table: 'Expresso Nitro(1054010849)#0' 3-max (real money) Seat #3 is the button
+Seat 1: nanynathan_ (280)
+Seat 2: MathisKcr (340)
+Seat 3: Iris607 (280)
+*** ANTE/BLINDS ***
+nanynathan_ posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kh 2h]
+*** PRE-FLOP *** 
+Iris607 calls 20
+nanynathan_ calls 10
+MathisKcr checks
+*** FLOP *** [5c 6s 4c]
+nanynathan_ checks
+MathisKcr bets 40
+Iris607 raises 40 to 80
+nanynathan_ raises 40 to 120
+MathisKcr calls 80
+Iris607 calls 40
+*** TURN *** [5c 6s 4c][3s]
+nanynathan_ bets 20
+MathisKcr raises 40 to 60
+Iris607 raises 80 to 140 and is all-in
+nanynathan_ calls 120 and is all-in
+MathisKcr calls 80
+*** RIVER *** [5c 6s 4c 3s][6c]
+*** SHOW DOWN ***
+nanynathan_ shows [6d Kd] (Trips of 6)
+MathisKcr shows [Kh 2h] (Straight 6 high)
+Iris607 shows [7s Kc] (Straight 7 high)
+Iris607 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Board: [5c 6s 4c 3s 6c]
+Seat 1: nanynathan_ (small blind) showed [6d Kd] and lost with Trips of 6
+Seat 2: MathisKcr (big blind) showed [Kh 2h] and lost with Straight 6 high
+Seat 3: Iris607 (button) showed [7s Kc] and won 840 with Straight 7 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4526942126084194305-3-1769698159 - Holdem no limit (15/30) - 2026/01/29 14:49:19 UTC
+Table: 'Expresso Nitro(1054010849)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (60)
+Seat 3: Iris607 (840)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Iris607 posts big blind 30
+Dealt to MathisKcr [9d 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Iris607 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Iris607 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4526942126084194305-4-1769698167 - Holdem no limit (15/30) - 2026/01/29 14:49:27 UTC
+Table: 'Expresso Nitro(1054010849)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (45)
+Seat 3: Iris607 (855)
+*** ANTE/BLINDS ***
+Iris607 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jd Jh]
+*** PRE-FLOP *** 
+Iris607 raises 825 to 855 and is all-in
+MathisKcr calls 15 and is all-in
+*** FLOP *** [Td 7c 8d]
+*** TURN *** [Td 7c 8d][4s]
+*** RIVER *** [Td 7c 8d 4s][9s]
+*** SHOW DOWN ***
+MathisKcr shows [Jd Jh] (Straight Jack high)
+Iris607 shows [4c Jc] (Straight Jack high)
+Iris607 collected 855 from side pot 1
+MathisKcr collected 45 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Td 7c 8d 4s 9s]
+Seat 2: MathisKcr (big blind) showed [Jd Jh] and won 45 with Straight Jack high
+Seat 3: Iris607 (small blind) (button) showed [4c Jc] and won 855 with Straight Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4526942126084194305-5-1769698179 - Holdem no limit (15/30) - 2026/01/29 14:49:39 UTC
+Table: 'Expresso Nitro(1054010849)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (45)
+Seat 3: Iris607 (855)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Iris607 posts big blind 30
+Dealt to MathisKcr [5d Kc]
+*** PRE-FLOP *** 
+MathisKcr raises 15 to 45 and is all-in
+Iris607 calls 15
+*** FLOP *** [9c 6s 3d]
+*** TURN *** [9c 6s 3d][8c]
+*** RIVER *** [9c 6s 3d 8c][Kh]
+*** SHOW DOWN ***
+Iris607 shows [4s 7h] (High card : King)
+MathisKcr shows [5d Kc] (One pair : Kings)
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9c 6s 3d 8c Kh]
+Seat 2: MathisKcr (small blind) (button) showed [5d Kc] and won 90 with One pair : Kings
+Seat 3: Iris607 (big blind) showed [4s 7h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4526942126084194305-6-1769698192 - Holdem no limit (15/30) - 2026/01/29 14:49:52 UTC
+Table: 'Expresso Nitro(1054010849)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (90)
+Seat 3: Iris607 (810)
+*** ANTE/BLINDS ***
+Iris607 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7s 3c]
+*** PRE-FLOP *** 
+Iris607 raises 30 to 60
+MathisKcr folds
+Iris607 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Iris607 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4526942126084194305-7-1769698200 - Holdem no limit (15/30) - 2026/01/29 14:50:00 UTC
+Table: 'Expresso Nitro(1054010849)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (60)
+Seat 3: Iris607 (840)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Iris607 posts big blind 30
+Dealt to MathisKcr [7h Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60 and is all-in
+Iris607 calls 30
+*** FLOP *** [4c 8d 7c]
+*** TURN *** [4c 8d 7c][Ks]
+*** RIVER *** [4c 8d 7c Ks][Ac]
+*** SHOW DOWN ***
+MathisKcr shows [7h Ad] (Two pairs : Aces and 7)
+Iris607 shows [8c 8s] (Trips of 8)
+Iris607 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4c 8d 7c Ks Ac]
+Seat 2: MathisKcr (small blind) (button) showed [7h Ad] and lost with Two pairs : Aces and 7
+Seat 3: Iris607 (big blind) showed [8c 8s] and won 120 with Trips of 8
+
+

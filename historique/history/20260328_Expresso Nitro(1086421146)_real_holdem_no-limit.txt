@@ -1,0 +1,52 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666143291752841217-1-1774699942 - Holdem no limit (10/20) - 2026/03/28 12:12:22 UTC
+Table: 'Expresso Nitro(1086421146)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Morsa_418301 (300)
+Seat 2: seb22150 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Morsa_418301 posts small blind 10
+seb22150 posts big blind 20
+Dealt to MathisKcr [3d Th]
+*** PRE-FLOP *** 
+MathisKcr folds
+Morsa_418301 calls 10
+seb22150 checks
+*** FLOP *** [7h 7c 2h]
+Morsa_418301 checks
+seb22150 bets 40
+Morsa_418301 folds
+seb22150 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [7h 7c 2h]
+Seat 2: seb22150 (big blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666143291752841217-2-1774699951 - Holdem no limit (10/20) - 2026/03/28 12:12:31 UTC
+Table: 'Expresso Nitro(1086421146)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Morsa_418301 (280)
+Seat 2: seb22150 (320)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+seb22150 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad Qd]
+*** PRE-FLOP *** 
+Morsa_418301 calls 20
+seb22150 raises 300 to 320 and is all-in
+MathisKcr calls 280 and is all-in
+Morsa_418301 folds
+*** FLOP *** [Jc 2s 9s]
+*** TURN *** [Jc 2s 9s][Ts]
+*** RIVER *** [Jc 2s 9s Ts][2d]
+*** SHOW DOWN ***
+MathisKcr shows [Ad Qd] (One pair : 2)
+seb22150 shows [6c 6s] (Two pairs : 6 and 2)
+seb22150 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Jc 2s 9s Ts 2d]
+Seat 2: seb22150 (small blind) showed [6c 6s] and won 640 with Two pairs : 6 and 2
+Seat 3: MathisKcr (big blind) showed [Ad Qd] and lost with One pair : 2
+
+

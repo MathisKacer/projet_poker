@@ -1,0 +1,179 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666782924052365313-1-1774721810 - Holdem no limit (10/20) - 2026/03/28 18:16:50 UTC
+Table: 'Expresso Nitro(1086570072)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Op_nails08 (300)
+Seat 3: SRsergio31 (300)
+*** ANTE/BLINDS ***
+Op_nails08 posts small blind 10
+SRsergio31 posts big blind 20
+Dealt to MathisKcr [6d 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Op_nails08 calls 10
+SRsergio31 checks
+*** FLOP *** [6c 7s Js]
+Op_nails08 checks
+SRsergio31 bets 26
+Op_nails08 calls 26
+*** TURN *** [6c 7s Js][7d]
+Op_nails08 checks
+SRsergio31 checks
+*** RIVER *** [6c 7s Js 7d][9c]
+Op_nails08 checks
+SRsergio31 bets 60
+Op_nails08 calls 60
+*** SHOW DOWN ***
+Op_nails08 shows [5d Kh] (One pair : 7)
+SRsergio31 shows [Tc 7c] (Trips of 7)
+SRsergio31 collected 212 from pot
+*** SUMMARY ***
+Total pot 212 | No rake
+Board: [6c 7s Js 7d 9c]
+Seat 2: Op_nails08 (small blind) showed [5d Kh] and lost with One pair : 7
+Seat 3: SRsergio31 (big blind) showed [Tc 7c] and won 212 with Trips of 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666782924052365313-2-1774721829 - Holdem no limit (10/20) - 2026/03/28 18:17:09 UTC
+Table: 'Expresso Nitro(1086570072)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Op_nails08 (194)
+Seat 3: SRsergio31 (406)
+*** ANTE/BLINDS ***
+SRsergio31 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7h Kd]
+*** PRE-FLOP *** 
+Op_nails08 folds
+SRsergio31 calls 10
+MathisKcr checks
+*** FLOP *** [Qc 5s 6h]
+SRsergio31 checks
+MathisKcr checks
+*** TURN *** [Qc 5s 6h][3d]
+SRsergio31 checks
+MathisKcr checks
+*** RIVER *** [Qc 5s 6h 3d][9c]
+SRsergio31 checks
+MathisKcr checks
+*** SHOW DOWN ***
+SRsergio31 shows [2d 7d] (High card : Queen)
+MathisKcr shows [7h Kd] (High card : King)
+MathisKcr collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Qc 5s 6h 3d 9c]
+Seat 1: MathisKcr (big blind) showed [7h Kd] and won 40 with High card : King
+Seat 3: SRsergio31 (small blind) showed [2d 7d] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666782924052365313-3-1774721849 - Holdem no limit (10/20) - 2026/03/28 18:17:29 UTC
+Table: 'Expresso Nitro(1086570072)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (320)
+Seat 2: Op_nails08 (194)
+Seat 3: SRsergio31 (386)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Op_nails08 posts big blind 20
+Dealt to MathisKcr [As 3h]
+*** PRE-FLOP *** 
+SRsergio31 folds
+MathisKcr raises 300 to 320 and is all-in
+Op_nails08 folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 1: MathisKcr (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666782924052365313-4-1774721866 - Holdem no limit (10/20) - 2026/03/28 18:17:46 UTC
+Table: 'Expresso Nitro(1086570072)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (340)
+Seat 2: Op_nails08 (174)
+Seat 3: SRsergio31 (386)
+*** ANTE/BLINDS ***
+Op_nails08 posts small blind 10
+SRsergio31 posts big blind 20
+Dealt to MathisKcr [3c 2h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Op_nails08 calls 10
+SRsergio31 checks
+*** FLOP *** [Kd As Qs]
+Op_nails08 bets 154 and is all-in
+SRsergio31 calls 154
+*** TURN *** [Kd As Qs][9d]
+*** RIVER *** [Kd As Qs 9d][Ad]
+*** SHOW DOWN ***
+SRsergio31 shows [3s 3d] (Two pairs : Aces and 3)
+Op_nails08 shows [9s Ah] (Full of Aces and 9)
+Op_nails08 collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | No rake
+Board: [Kd As Qs 9d Ad]
+Seat 2: Op_nails08 (small blind) showed [9s Ah] and won 348 with Full of Aces and 9
+Seat 3: SRsergio31 (big blind) showed [3s 3d] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666782924052365313-5-1774721919 - Holdem no limit (15/30) - 2026/03/28 18:18:39 UTC
+Table: 'Expresso Nitro(1086570072)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (340)
+Seat 2: Op_nails08 (348)
+Seat 3: SRsergio31 (212)
+*** ANTE/BLINDS ***
+SRsergio31 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7h 8c]
+*** PRE-FLOP *** 
+Op_nails08 folds
+SRsergio31 folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666782924052365313-6-1774721925 - Holdem no limit (15/30) - 2026/03/28 18:18:45 UTC
+Table: 'Expresso Nitro(1086570072)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (355)
+Seat 2: Op_nails08 (348)
+Seat 3: SRsergio31 (197)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Op_nails08 posts big blind 30
+Dealt to MathisKcr [6c 5d]
+*** PRE-FLOP *** 
+SRsergio31 folds
+MathisKcr folds
+Op_nails08 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Op_nails08 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666782924052365313-7-1774721930 - Holdem no limit (20/40) - 2026/03/28 18:18:50 UTC
+Table: 'Expresso Nitro(1086570072)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (340)
+Seat 2: Op_nails08 (363)
+Seat 3: SRsergio31 (197)
+*** ANTE/BLINDS ***
+Op_nails08 posts small blind 20
+SRsergio31 posts big blind 40
+Dealt to MathisKcr [As Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 300 to 340 and is all-in
+Op_nails08 calls 320
+SRsergio31 folds
+*** FLOP *** [5s 3d Js]
+*** TURN *** [5s 3d Js][4h]
+*** RIVER *** [5s 3d Js 4h][Jc]
+*** SHOW DOWN ***
+MathisKcr shows [As Ks] (One pair : Jacks)
+Op_nails08 shows [Ad Jd] (Trips of Jacks)
+Op_nails08 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [5s 3d Js 4h Jc]
+Seat 1: MathisKcr (button) showed [As Ks] and lost with One pair : Jacks
+Seat 2: Op_nails08 (small blind) showed [Ad Jd] and won 720 with Trips of Jacks
+
+

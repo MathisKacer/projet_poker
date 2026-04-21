@@ -1,0 +1,143 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668787634397511681-1-1774805441 - Holdem no limit (10/20) - 2026/03/29 17:30:41 UTC
+Table: 'Expresso Nitro(1087036830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: USAVB (300)
+Seat 2: Gustavoo1376 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Gustavoo1376 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6s 5h]
+*** PRE-FLOP *** 
+USAVB calls 20
+Gustavoo1376 folds
+MathisKcr checks
+*** FLOP *** [5d 9s Jd]
+MathisKcr bets 40
+USAVB folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5d 9s Jd]
+Seat 3: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668787634397511681-2-1774805464 - Holdem no limit (10/20) - 2026/03/29 17:31:04 UTC
+Table: 'Expresso Nitro(1087036830)#0' 3-max (real money) Seat #2 is the button
+Seat 1: USAVB (280)
+Seat 2: Gustavoo1376 (290)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+USAVB posts big blind 20
+Dealt to MathisKcr [Qc 3s]
+*** PRE-FLOP *** 
+Gustavoo1376 raises 35 to 55
+MathisKcr folds
+USAVB calls 35
+*** FLOP *** [Ks 5c Th]
+USAVB checks
+Gustavoo1376 bets 42
+USAVB folds
+Gustavoo1376 collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [Ks 5c Th]
+Seat 2: Gustavoo1376 (button) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668787634397511681-3-1774805478 - Holdem no limit (10/20) - 2026/03/29 17:31:18 UTC
+Table: 'Expresso Nitro(1087036830)#0' 3-max (real money) Seat #3 is the button
+Seat 1: USAVB (225)
+Seat 2: Gustavoo1376 (355)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+USAVB posts small blind 10
+Gustavoo1376 posts big blind 20
+Dealt to MathisKcr [9s Td]
+*** PRE-FLOP *** 
+MathisKcr folds
+USAVB calls 10
+Gustavoo1376 checks
+*** FLOP *** [Qd 4s Qs]
+USAVB bets 20
+Gustavoo1376 folds
+USAVB collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qd 4s Qs]
+Seat 1: USAVB (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668787634397511681-4-1774805490 - Holdem no limit (10/20) - 2026/03/29 17:31:30 UTC
+Table: 'Expresso Nitro(1087036830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: USAVB (245)
+Seat 2: Gustavoo1376 (335)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+Gustavoo1376 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd Qh]
+*** PRE-FLOP *** 
+USAVB folds
+Gustavoo1376 calls 10
+MathisKcr raises 300 to 320 and is all-in
+Gustavoo1376 folds
+MathisKcr collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: MathisKcr (big blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668787634397511681-5-1774805502 - Holdem no limit (15/30) - 2026/03/29 17:31:42 UTC
+Table: 'Expresso Nitro(1087036830)#0' 3-max (real money) Seat #2 is the button
+Seat 1: USAVB (245)
+Seat 2: Gustavoo1376 (315)
+Seat 3: MathisKcr (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+USAVB posts big blind 30
+Dealt to MathisKcr [Kd Js]
+*** PRE-FLOP *** 
+Gustavoo1376 folds
+MathisKcr raises 310 to 340 and is all-in
+USAVB calls 215 and is all-in
+*** FLOP *** [2h Qs Ks]
+*** TURN *** [2h Qs Ks][Jc]
+*** RIVER *** [2h Qs Ks Jc][3d]
+*** SHOW DOWN ***
+USAVB shows [Ad 3c] (One pair : 3)
+MathisKcr shows [Kd Js] (Two pairs : Kings and Jacks)
+MathisKcr collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Board: [2h Qs Ks Jc 3d]
+Seat 1: USAVB (big blind) showed [Ad 3c] and lost with One pair : 3
+Seat 3: MathisKcr (small blind) showed [Kd Js] and won 585 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668787634397511681-6-1774805516 - Holdem no limit (15/30) - 2026/03/29 17:31:56 UTC
+Table: 'Expresso Nitro(1087036830)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Gustavoo1376 (315)
+Seat 3: MathisKcr (585)
+*** ANTE/BLINDS ***
+Gustavoo1376 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qc Qs]
+*** PRE-FLOP *** 
+Gustavoo1376 calls 15
+MathisKcr raises 555 to 585 and is all-in
+Gustavoo1376 calls 285 and is all-in
+*** FLOP *** [7d 6h 5h]
+*** TURN *** [7d 6h 5h][Qh]
+*** RIVER *** [7d 6h 5h Qh][Jd]
+*** SHOW DOWN ***
+Gustavoo1376 shows [Js Td] (One pair : Jacks)
+MathisKcr shows [Qc Qs] (Trips of Queens)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7d 6h 5h Qh Jd]
+Seat 2: Gustavoo1376 (small blind) (button) showed [Js Td] and lost with One pair : Jacks
+Seat 3: MathisKcr (big blind) showed [Qc Qs] and won 900 with Trips of Queens
+
+

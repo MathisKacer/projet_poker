@@ -1,0 +1,196 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613632446066327553-1-1772867750 - Holdem no limit (10/20) - 2026/03/07 07:15:50 UTC
+Table: 'Expresso Nitro(1074195012)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ellenumae25 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Loirezer. (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Loirezer. posts big blind 20
+Dealt to MathisKcr [Tc Jc]
+*** PRE-FLOP *** 
+ellenumae25 calls 20
+MathisKcr calls 10
+Loirezer. raises 20 to 40
+ellenumae25 calls 20
+MathisKcr calls 20
+*** FLOP *** [Ts 5d Qs]
+MathisKcr bets 40
+Loirezer. calls 40
+ellenumae25 folds
+*** TURN *** [Ts 5d Qs][Td]
+MathisKcr bets 100
+Loirezer. folds
+MathisKcr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Ts 5d Qs Td]
+Seat 2: MathisKcr (small blind) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613632446066327553-2-1772867786 - Holdem no limit (10/20) - 2026/03/07 07:16:26 UTC
+Table: 'Expresso Nitro(1074195012)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ellenumae25 (260)
+Seat 2: MathisKcr (420)
+Seat 3: Loirezer. (220)
+*** ANTE/BLINDS ***
+Loirezer. posts small blind 10
+ellenumae25 posts big blind 20
+Dealt to MathisKcr [7d 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Loirezer. calls 10
+ellenumae25 checks
+*** FLOP *** [9d 9c 6h]
+Loirezer. checks
+ellenumae25 checks
+*** TURN *** [9d 9c 6h][Td]
+Loirezer. checks
+ellenumae25 checks
+*** RIVER *** [9d 9c 6h Td][Ac]
+Loirezer. checks
+ellenumae25 checks
+*** SHOW DOWN ***
+Loirezer. shows [3c 5d] (One pair : 9)
+ellenumae25 shows [8s 6s] (Two pairs : 9 and 6)
+ellenumae25 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [9d 9c 6h Td Ac]
+Seat 1: ellenumae25 (big blind) showed [8s 6s] and won 40 with Two pairs : 9 and 6
+Seat 3: Loirezer. (small blind) showed [3c 5d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4613632446066327553-3-1772867801 - Holdem no limit (10/20) - 2026/03/07 07:16:41 UTC
+Table: 'Expresso Nitro(1074195012)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ellenumae25 (280)
+Seat 2: MathisKcr (420)
+Seat 3: Loirezer. (200)
+*** ANTE/BLINDS ***
+ellenumae25 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7h Kc]
+*** PRE-FLOP *** 
+Loirezer. calls 20
+ellenumae25 folds
+MathisKcr checks
+*** FLOP *** [6h 4h 6c]
+MathisKcr checks
+Loirezer. checks
+*** TURN *** [6h 4h 6c][9c]
+MathisKcr checks
+Loirezer. bets 20
+MathisKcr calls 20
+*** RIVER *** [6h 4h 6c 9c][2c]
+MathisKcr checks
+Loirezer. checks
+*** SHOW DOWN ***
+MathisKcr shows [7h Kc] (One pair : 6)
+Loirezer. shows [Jc 4c] (Flush Jack high)
+Loirezer. collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6h 4h 6c 9c 2c]
+Seat 2: MathisKcr (big blind) showed [7h Kc] and lost with One pair : 6
+Seat 3: Loirezer. (button) showed [Jc 4c] and won 90 with Flush Jack high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4613632446066327553-4-1772867831 - Holdem no limit (15/30) - 2026/03/07 07:17:11 UTC
+Table: 'Expresso Nitro(1074195012)#0' 3-max (real money) Seat #1 is the button
+Seat 1: ellenumae25 (270)
+Seat 2: MathisKcr (380)
+Seat 3: Loirezer. (250)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Loirezer. posts big blind 30
+Dealt to MathisKcr [6d Qs]
+*** PRE-FLOP *** 
+ellenumae25 calls 30
+MathisKcr calls 15
+Loirezer. checks
+*** FLOP *** [5h 5c 2d]
+MathisKcr checks
+Loirezer. checks
+ellenumae25 checks
+*** TURN *** [5h 5c 2d][Kd]
+MathisKcr checks
+Loirezer. checks
+ellenumae25 checks
+*** RIVER *** [5h 5c 2d Kd][9s]
+MathisKcr checks
+Loirezer. bets 30
+ellenumae25 folds
+MathisKcr folds
+Loirezer. collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5h 5c 2d Kd 9s]
+Seat 3: Loirezer. (big blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4613632446066327553-5-1772867863 - Holdem no limit (15/30) - 2026/03/07 07:17:43 UTC
+Table: 'Expresso Nitro(1074195012)#0' 3-max (real money) Seat #2 is the button
+Seat 1: ellenumae25 (240)
+Seat 2: MathisKcr (350)
+Seat 3: Loirezer. (310)
+*** ANTE/BLINDS ***
+Loirezer. posts small blind 15
+ellenumae25 posts big blind 30
+Dealt to MathisKcr [Qs 4h]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Loirezer. calls 15
+ellenumae25 checks
+*** FLOP *** [7d 5c Qh]
+Loirezer. checks
+ellenumae25 bets 210 and is all-in
+MathisKcr calls 210
+Loirezer. folds
+*** TURN *** [7d 5c Qh][9h]
+*** RIVER *** [7d 5c Qh 9h][6d]
+*** SHOW DOWN ***
+MathisKcr shows [Qs 4h] (One pair : Queens)
+ellenumae25 shows [Qd 8h] (Straight 9 high)
+ellenumae25 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [7d 5c Qh 9h 6d]
+Seat 1: ellenumae25 (big blind) showed [Qd 8h] and won 510 with Straight 9 high
+Seat 2: MathisKcr (button) showed [Qs 4h] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4613632446066327553-6-1772867878 - Holdem no limit (20/40) - 2026/03/07 07:17:58 UTC
+Table: 'Expresso Nitro(1074195012)#0' 3-max (real money) Seat #3 is the button
+Seat 1: ellenumae25 (510)
+Seat 2: MathisKcr (110)
+Seat 3: Loirezer. (280)
+*** ANTE/BLINDS ***
+ellenumae25 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [8d 6s]
+*** PRE-FLOP *** 
+Loirezer. calls 40
+ellenumae25 calls 20
+MathisKcr checks
+*** FLOP *** [2h 4d 8h]
+ellenumae25 checks
+MathisKcr bets 70 and is all-in
+Loirezer. calls 70
+ellenumae25 calls 70
+*** TURN *** [2h 4d 8h][Td]
+ellenumae25 checks
+Loirezer. checks
+*** RIVER *** [2h 4d 8h Td][Qh]
+ellenumae25 checks
+Loirezer. bets 40
+ellenumae25 folds
+*** SHOW DOWN ***
+MathisKcr shows [8d 6s] (One pair : 8)
+Loirezer. shows [8s Qd] (Two pairs : Queens and 8)
+Loirezer. collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Board: [2h 4d 8h Td Qh]
+Seat 2: MathisKcr (big blind) showed [8d 6s] and lost with One pair : 8
+Seat 3: Loirezer. (button) showed [8s Qd] and won 370 with Two pairs : Queens and 8
+
+

@@ -1,0 +1,330 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4599050177397915649-1-1772289314 - Holdem no limit (10/20) - 2026/02/28 14:35:14 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MiMi-Sickuuu (300)
+Seat 2: MathisKcr (300)
+Seat 3: Sayok (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Sayok posts big blind 20
+Dealt to MathisKcr [9c Js]
+*** PRE-FLOP *** 
+MiMi-Sickuuu raises 20 to 40
+MathisKcr calls 30
+Sayok folds
+*** FLOP *** [Jd 5c 5h]
+MathisKcr bets 260 and is all-in
+MiMi-Sickuuu folds
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [Jd 5c 5h]
+Seat 2: MathisKcr (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4599050177397915649-2-1772289329 - Holdem no limit (10/20) - 2026/02/28 14:35:29 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MiMi-Sickuuu (260)
+Seat 2: MathisKcr (360)
+Seat 3: Sayok (280)
+*** ANTE/BLINDS ***
+Sayok posts small blind 10
+MiMi-Sickuuu posts big blind 20
+Dealt to MathisKcr [2c 2s]
+*** PRE-FLOP *** 
+MathisKcr raises 340 to 360 and is all-in
+Sayok folds
+MiMi-Sickuuu calls 240 and is all-in
+*** FLOP *** [Qc 3h Ts]
+*** TURN *** [Qc 3h Ts][4d]
+*** RIVER *** [Qc 3h Ts 4d][Th]
+*** SHOW DOWN ***
+MiMi-Sickuuu shows [Kd Kh] (Two pairs : Kings and Tens)
+MathisKcr shows [2c 2s] (Two pairs : Tens and 2)
+MathisKcr collected 100 from side pot 1
+MiMi-Sickuuu collected 530 from main pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Qc 3h Ts 4d Th]
+Seat 1: MiMi-Sickuuu (big blind) showed [Kd Kh] and won 530 with Two pairs : Kings and Tens
+Seat 2: MathisKcr (button) showed [2c 2s] and won 100 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4599050177397915649-3-1772289344 - Holdem no limit (10/20) - 2026/02/28 14:35:44 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MiMi-Sickuuu (530)
+Seat 2: MathisKcr (100)
+Seat 3: Sayok (270)
+*** ANTE/BLINDS ***
+MiMi-Sickuuu posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9s Qh]
+*** PRE-FLOP *** 
+Sayok folds
+MiMi-Sickuuu folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4599050177397915649-4-1772289352 - Holdem no limit (10/20) - 2026/02/28 14:35:52 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MiMi-Sickuuu (520)
+Seat 2: MathisKcr (110)
+Seat 3: Sayok (270)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Sayok posts big blind 20
+Dealt to MathisKcr [6c Ts]
+*** PRE-FLOP *** 
+MiMi-Sickuuu calls 20
+MathisKcr calls 10
+Sayok checks
+*** FLOP *** [Qs 8d Jh]
+MathisKcr checks
+Sayok checks
+MiMi-Sickuuu bets 30
+MathisKcr folds
+Sayok folds
+MiMi-Sickuuu collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Qs 8d Jh]
+Seat 1: MiMi-Sickuuu (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4599050177397915649-5-1772289373 - Holdem no limit (15/30) - 2026/02/28 14:36:13 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MiMi-Sickuuu (560)
+Seat 2: MathisKcr (90)
+Seat 3: Sayok (250)
+*** ANTE/BLINDS ***
+Sayok posts small blind 15
+MiMi-Sickuuu posts big blind 30
+Dealt to MathisKcr [8c Jh]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Sayok folds
+MiMi-Sickuuu checks
+*** FLOP *** [2c 2s 9d]
+MiMi-Sickuuu checks
+MathisKcr bets 60 and is all-in
+MiMi-Sickuuu folds
+MathisKcr collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [2c 2s 9d]
+Seat 2: MathisKcr (button) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4599050177397915649-6-1772289390 - Holdem no limit (15/30) - 2026/02/28 14:36:30 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MiMi-Sickuuu (530)
+Seat 2: MathisKcr (135)
+Seat 3: Sayok (235)
+*** ANTE/BLINDS ***
+MiMi-Sickuuu posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3d 9s]
+*** PRE-FLOP *** 
+Sayok folds
+MiMi-Sickuuu folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4599050177397915649-7-1772289396 - Holdem no limit (15/30) - 2026/02/28 14:36:36 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MiMi-Sickuuu (515)
+Seat 2: MathisKcr (150)
+Seat 3: Sayok (235)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Sayok posts big blind 30
+Dealt to MathisKcr [2s 2h]
+*** PRE-FLOP *** 
+MiMi-Sickuuu raises 485 to 515 and is all-in
+MathisKcr calls 135 and is all-in
+Sayok calls 205 and is all-in
+*** FLOP *** [5s 7s 7h]
+*** TURN *** [5s 7s 7h][Tc]
+*** RIVER *** [5s 7s 7h Tc][6h]
+*** SHOW DOWN ***
+MiMi-Sickuuu shows [Ac Jc] (One pair : 7)
+MathisKcr shows [2s 2h] (Two pairs : 7 and 2)
+Sayok shows [Qh As] (One pair : 7)
+Sayok collected 170 from side pot 1
+MathisKcr collected 450 from main pot
+MiMi-Sickuuu collected 280 from side pot 2
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [5s 7s 7h Tc 6h]
+Seat 1: MiMi-Sickuuu (button) showed [Ac Jc] and won 280 with One pair : 7
+Seat 2: MathisKcr (small blind) showed [2s 2h] and won 450 with Two pairs : 7 and 2
+Seat 3: Sayok (big blind) showed [Qh As] and won 170 with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4599050177397915649-8-1772289414 - Holdem no limit (15/30) - 2026/02/28 14:36:54 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MiMi-Sickuuu (280)
+Seat 2: MathisKcr (450)
+Seat 3: Sayok (170)
+*** ANTE/BLINDS ***
+Sayok posts small blind 15
+MiMi-Sickuuu posts big blind 30
+Dealt to MathisKcr [4h 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sayok raises 140 to 170 and is all-in
+MiMi-Sickuuu folds
+Sayok collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 3: Sayok (small blind) won 200
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4599050177397915649-9-1772289422 - Holdem no limit (15/30) - 2026/02/28 14:37:02 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MiMi-Sickuuu (250)
+Seat 2: MathisKcr (450)
+Seat 3: Sayok (200)
+*** ANTE/BLINDS ***
+MiMi-Sickuuu posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7s 8d]
+*** PRE-FLOP *** 
+Sayok folds
+MiMi-Sickuuu raises 220 to 250 and is all-in
+MathisKcr folds
+MiMi-Sickuuu collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 1: MiMi-Sickuuu (small blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4599050177397915649-10-1772289429 - Holdem no limit (15/30) - 2026/02/28 14:37:09 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MiMi-Sickuuu (280)
+Seat 2: MathisKcr (420)
+Seat 3: Sayok (200)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Sayok posts big blind 30
+Dealt to MathisKcr [8s 2s]
+*** PRE-FLOP *** 
+MiMi-Sickuuu folds
+MathisKcr raises 30 to 60
+Sayok raises 140 to 200 and is all-in
+MathisKcr folds
+Sayok collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 3: Sayok (big blind) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4599050177397915649-11-1772289440 - Holdem no limit (20/40) - 2026/02/28 14:37:20 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MiMi-Sickuuu (280)
+Seat 2: MathisKcr (360)
+Seat 3: Sayok (260)
+*** ANTE/BLINDS ***
+Sayok posts small blind 20
+MiMi-Sickuuu posts big blind 40
+Dealt to MathisKcr [9d 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 320 to 360 and is all-in
+Sayok folds
+MiMi-Sickuuu folds
+MathisKcr collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: MathisKcr (button) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4599050177397915649-12-1772289448 - Holdem no limit (20/40) - 2026/02/28 14:37:28 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MiMi-Sickuuu (240)
+Seat 2: MathisKcr (420)
+Seat 3: Sayok (240)
+*** ANTE/BLINDS ***
+MiMi-Sickuuu posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ks 7s]
+*** PRE-FLOP *** 
+Sayok folds
+MiMi-Sickuuu raises 200 to 240 and is all-in
+MathisKcr calls 200
+*** FLOP *** [8s 9s Js]
+*** TURN *** [8s 9s Js][3h]
+*** RIVER *** [8s 9s Js 3h][Kc]
+*** SHOW DOWN ***
+MiMi-Sickuuu shows [Jh 7d] (One pair : Jacks)
+MathisKcr shows [Ks 7s] (Flush King high)
+MathisKcr collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [8s 9s Js 3h Kc]
+Seat 1: MiMi-Sickuuu (small blind) showed [Jh 7d] and lost with One pair : Jacks
+Seat 2: MathisKcr (big blind) showed [Ks 7s] and won 480 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4599050177397915649-13-1772289461 - Holdem no limit (20/40) - 2026/02/28 14:37:41 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (660)
+Seat 3: Sayok (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Sayok posts big blind 40
+Dealt to MathisKcr [Jc 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 620 to 660 and is all-in
+Sayok folds
+MathisKcr collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 2: MathisKcr (small blind) (button) won 700
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4599050177397915649-14-1772289469 - Holdem no limit (20/40) - 2026/02/28 14:37:49 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (700)
+Seat 3: Sayok (200)
+*** ANTE/BLINDS ***
+Sayok posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Ac 9d]
+*** PRE-FLOP *** 
+Sayok folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4599050177397915649-15-1772289479 - Holdem no limit (20/40) - 2026/02/28 14:37:59 UTC
+Table: 'Expresso Nitro(1070799813)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (720)
+Seat 3: Sayok (180)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Sayok posts big blind 40
+Dealt to MathisKcr [7d Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 680 to 720 and is all-in
+Sayok calls 140 and is all-in
+*** FLOP *** [Qc Ah 5d]
+*** TURN *** [Qc Ah 5d][Th]
+*** RIVER *** [Qc Ah 5d Th][3s]
+*** SHOW DOWN ***
+Sayok shows [4d Kc] (High card : Ace)
+MathisKcr shows [7d Kd] (High card : Ace)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc Ah 5d Th 3s]
+Seat 2: MathisKcr (small blind) (button) showed [7d Kd] and won 900 with High card : Ace
+Seat 3: Sayok (big blind) showed [4d Kc] and lost with High card : Ace
+
+

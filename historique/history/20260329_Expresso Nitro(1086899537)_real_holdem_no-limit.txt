@@ -1,0 +1,158 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668197965452541953-1-1774784284 - Holdem no limit (10/20) - 2026/03/29 11:38:04 UTC
+Table: 'Expresso Nitro(1086899537)#0' 3-max (real money) Seat #2 is the button
+Seat 1: -Othelo- (300)
+Seat 2: MathisKcr (300)
+Seat 3: Tujeva (300)
+*** ANTE/BLINDS ***
+Tujeva posts small blind 10
+-Othelo- posts big blind 20
+Dealt to MathisKcr [3h Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Tujeva folds
+-Othelo- calls 20
+*** FLOP *** [6h Tc 2h]
+-Othelo- checks
+MathisKcr checks
+*** TURN *** [6h Tc 2h][2s]
+-Othelo- bets 68
+MathisKcr folds
+-Othelo- collected 158 from pot
+*** SUMMARY ***
+Total pot 158 | No rake
+Board: [6h Tc 2h 2s]
+Seat 1: -Othelo- (big blind) won 158
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668197965452541953-2-1774784311 - Holdem no limit (10/20) - 2026/03/29 11:38:31 UTC
+Table: 'Expresso Nitro(1086899537)#0' 3-max (real money) Seat #3 is the button
+Seat 1: -Othelo- (350)
+Seat 2: MathisKcr (260)
+Seat 3: Tujeva (290)
+*** ANTE/BLINDS ***
+-Othelo- posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [9h 9s]
+*** PRE-FLOP *** 
+Tujeva folds
+-Othelo- folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668197965452541953-3-1774784316 - Holdem no limit (10/20) - 2026/03/29 11:38:36 UTC
+Table: 'Expresso Nitro(1086899537)#0' 3-max (real money) Seat #1 is the button
+Seat 1: -Othelo- (340)
+Seat 2: MathisKcr (270)
+Seat 3: Tujeva (290)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Tujeva posts big blind 20
+Dealt to MathisKcr [Kh 4h]
+*** PRE-FLOP *** 
+-Othelo- raises 20 to 40
+MathisKcr raises 230 to 270 and is all-in
+Tujeva folds
+-Othelo- calls 230
+*** FLOP *** [Ah 5h 2c]
+*** TURN *** [Ah 5h 2c][Ac]
+*** RIVER *** [Ah 5h 2c Ac][Kc]
+*** SHOW DOWN ***
+-Othelo- shows [3h 3c] (Two pairs : Aces and 3)
+MathisKcr shows [Kh 4h] (Two pairs : Aces and Kings)
+MathisKcr collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [Ah 5h 2c Ac Kc]
+Seat 1: -Othelo- (button) showed [3h 3c] and lost with Two pairs : Aces and 3
+Seat 2: MathisKcr (small blind) showed [Kh 4h] and won 560 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668197965452541953-4-1774784333 - Holdem no limit (10/20) - 2026/03/29 11:38:53 UTC
+Table: 'Expresso Nitro(1086899537)#0' 3-max (real money) Seat #2 is the button
+Seat 1: -Othelo- (70)
+Seat 2: MathisKcr (560)
+Seat 3: Tujeva (270)
+*** ANTE/BLINDS ***
+Tujeva posts small blind 10
+-Othelo- posts big blind 20
+Dealt to MathisKcr [9h Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Tujeva folds
+-Othelo- raises 30 to 70 and is all-in
+MathisKcr calls 30
+*** FLOP *** [Kc 4d Jd]
+*** TURN *** [Kc 4d Jd][6h]
+*** RIVER *** [Kc 4d Jd 6h][Ad]
+*** SHOW DOWN ***
+-Othelo- shows [Qc 5d] (High card : Ace)
+MathisKcr shows [9h Kh] (One pair : Kings)
+MathisKcr collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Kc 4d Jd 6h Ad]
+Seat 1: -Othelo- (big blind) showed [Qc 5d] and lost with High card : Ace
+Seat 2: MathisKcr (button) showed [9h Kh] and won 150 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668197965452541953-5-1774784356 - Holdem no limit (15/30) - 2026/03/29 11:39:16 UTC
+Table: 'Expresso Nitro(1086899537)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (640)
+Seat 3: Tujeva (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Tujeva posts big blind 30
+Dealt to MathisKcr [2h Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 610 to 640 and is all-in
+Tujeva folds
+MathisKcr collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Seat 2: MathisKcr (small blind) (button) won 670
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668197965452541953-6-1774784362 - Holdem no limit (15/30) - 2026/03/29 11:39:22 UTC
+Table: 'Expresso Nitro(1086899537)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (670)
+Seat 3: Tujeva (230)
+*** ANTE/BLINDS ***
+Tujeva posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [2h 5c]
+*** PRE-FLOP *** 
+Tujeva folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668197965452541953-7-1774784367 - Holdem no limit (15/30) - 2026/03/29 11:39:27 UTC
+Table: 'Expresso Nitro(1086899537)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (685)
+Seat 3: Tujeva (215)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Tujeva posts big blind 30
+Dealt to MathisKcr [4h Js]
+*** PRE-FLOP *** 
+MathisKcr raises 655 to 685 and is all-in
+Tujeva calls 185 and is all-in
+*** FLOP *** [4s 2h 3h]
+*** TURN *** [4s 2h 3h][Jc]
+*** RIVER *** [4s 2h 3h Jc][2s]
+*** SHOW DOWN ***
+Tujeva shows [As 4d] (Two pairs : 4 and 2)
+MathisKcr shows [4h Js] (Two pairs : Jacks and 4)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [4s 2h 3h Jc 2s]
+Seat 2: MathisKcr (small blind) (button) showed [4h Js] and won 900 with Two pairs : Jacks and 4
+Seat 3: Tujeva (big blind) showed [As 4d] and lost with Two pairs : 4 and 2
+
+

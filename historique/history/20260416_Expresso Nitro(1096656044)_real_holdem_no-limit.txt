@@ -1,0 +1,75 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4710101843940737025-1-1776358210 - Holdem no limit (10/20) - 2026/04/16 16:50:10 UTC
+Table: 'Expresso Nitro(1096656044)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (300)
+Seat 2: DCSniper1492 (300)
+Seat 3: wmx-wf28w8fs (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+DCSniper1492 posts big blind 20
+Dealt to MathisKcr [6d 4c]
+*** PRE-FLOP *** 
+wmx-wf28w8fs raises 280 to 300 and is all-in
+MathisKcr folds
+DCSniper1492 folds
+wmx-wf28w8fs collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: wmx-wf28w8fs (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4710101843940737025-2-1776358218 - Holdem no limit (10/20) - 2026/04/16 16:50:18 UTC
+Table: 'Expresso Nitro(1096656044)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (290)
+Seat 2: DCSniper1492 (280)
+Seat 3: wmx-wf28w8fs (330)
+*** ANTE/BLINDS ***
+DCSniper1492 posts small blind 10
+wmx-wf28w8fs posts big blind 20
+Dealt to MathisKcr [7s Tc]
+*** PRE-FLOP *** 
+MathisKcr folds
+DCSniper1492 calls 10
+wmx-wf28w8fs raises 130 to 150
+DCSniper1492 folds
+wmx-wf28w8fs collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Seat 3: wmx-wf28w8fs (big blind) won 170
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4710101843940737025-3-1776358231 - Holdem no limit (10/20) - 2026/04/16 16:50:31 UTC
+Table: 'Expresso Nitro(1096656044)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (290)
+Seat 2: DCSniper1492 (260)
+Seat 3: wmx-wf28w8fs (350)
+*** ANTE/BLINDS ***
+wmx-wf28w8fs posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [4s Th]
+*** PRE-FLOP *** 
+DCSniper1492 calls 20
+wmx-wf28w8fs calls 10
+MathisKcr checks
+*** FLOP *** [4h Tc 6s]
+wmx-wf28w8fs checks
+MathisKcr bets 21
+DCSniper1492 folds
+wmx-wf28w8fs calls 21
+*** TURN *** [4h Tc 6s][Qd]
+wmx-wf28w8fs checks
+MathisKcr bets 36
+wmx-wf28w8fs calls 36
+*** RIVER *** [4h Tc 6s Qd][2c]
+wmx-wf28w8fs bets 273 and is all-in
+MathisKcr calls 213 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [4s Th] (Two pairs : Tens and 4)
+wmx-wf28w8fs shows [3s 5c] (Straight 6 high)
+wmx-wf28w8fs collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [4h Tc 6s Qd 2c]
+Seat 1: MathisKcr (big blind) showed [4s Th] and lost with Two pairs : Tens and 4
+Seat 3: wmx-wf28w8fs (small blind) showed [3s 5c] and won 660 with Straight 6 high
+
+

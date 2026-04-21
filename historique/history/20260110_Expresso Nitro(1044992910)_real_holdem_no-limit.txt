@@ -1,0 +1,183 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488210373001871361-1-1768060928 - Holdem no limit (10/20) - 2026/01/10 16:02:08 UTC
+Table: 'Expresso Nitro(1044992910)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Dexter2A (300)
+Seat 2: Cev2merde (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Dexter2A posts small blind 10
+Cev2merde posts big blind 20
+Dealt to MathisKcr [9d 7h]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Dexter2A folds
+Cev2merde folds
+MathisKcr collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: MathisKcr (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488210373001871361-2-1768060939 - Holdem no limit (10/20) - 2026/01/10 16:02:19 UTC
+Table: 'Expresso Nitro(1044992910)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dexter2A (290)
+Seat 2: Cev2merde (280)
+Seat 3: MathisKcr (330)
+*** ANTE/BLINDS ***
+Cev2merde posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ks Jh]
+*** PRE-FLOP *** 
+Dexter2A calls 20
+Cev2merde folds
+MathisKcr raises 20 to 40
+Dexter2A calls 20
+*** FLOP *** [Tc 2d 6s]
+MathisKcr bets 45
+Dexter2A raises 205 to 250 and is all-in
+MathisKcr calls 205
+*** TURN *** [Tc 2d 6s][Jc]
+*** RIVER *** [Tc 2d 6s Jc][9s]
+*** SHOW DOWN ***
+Dexter2A shows [4s Ts] (One pair : Tens)
+MathisKcr shows [Ks Jh] (One pair : Jacks)
+MathisKcr collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | No rake
+Board: [Tc 2d 6s Jc 9s]
+Seat 1: Dexter2A (button) showed [4s Ts] and lost with One pair : Tens
+Seat 3: MathisKcr (big blind) showed [Ks Jh] and won 590 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488210373001871361-3-1768060960 - Holdem no limit (10/20) - 2026/01/10 16:02:40 UTC
+Table: 'Expresso Nitro(1044992910)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Cev2merde (270)
+Seat 3: MathisKcr (630)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Cev2merde posts big blind 20
+Dealt to MathisKcr [Ks 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 610 to 630 and is all-in
+Cev2merde folds
+MathisKcr collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 3: MathisKcr (small blind) (button) won 650
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488210373001871361-4-1768060976 - Holdem no limit (10/20) - 2026/01/10 16:02:56 UTC
+Table: 'Expresso Nitro(1044992910)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Cev2merde (250)
+Seat 3: MathisKcr (650)
+*** ANTE/BLINDS ***
+Cev2merde posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d 3c]
+*** PRE-FLOP *** 
+Cev2merde folds
+MathisKcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: MathisKcr (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4488210373001871361-5-1768060983 - Holdem no limit (10/20) - 2026/01/10 16:03:03 UTC
+Table: 'Expresso Nitro(1044992910)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Cev2merde (240)
+Seat 3: MathisKcr (660)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Cev2merde posts big blind 20
+Dealt to MathisKcr [7c As]
+*** PRE-FLOP *** 
+MathisKcr raises 640 to 660 and is all-in
+Cev2merde calls 220 and is all-in
+*** FLOP *** [9s 6c 4d]
+*** TURN *** [9s 6c 4d][2h]
+*** RIVER *** [9s 6c 4d 2h][3h]
+*** SHOW DOWN ***
+Cev2merde shows [Ac 2d] (One pair : 2)
+MathisKcr shows [7c As] (High card : Ace)
+MathisKcr collected 420 from side pot 1
+Cev2merde collected 480 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s 6c 4d 2h 3h]
+Seat 2: Cev2merde (big blind) showed [Ac 2d] and won 480 with One pair : 2
+Seat 3: MathisKcr (small blind) (button) showed [7c As] and won 420 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488210373001871361-6-1768060999 - Holdem no limit (15/30) - 2026/01/10 16:03:19 UTC
+Table: 'Expresso Nitro(1044992910)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Cev2merde (480)
+Seat 3: MathisKcr (420)
+*** ANTE/BLINDS ***
+Cev2merde posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Jd 4d]
+*** PRE-FLOP *** 
+Cev2merde folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488210373001871361-7-1768061006 - Holdem no limit (15/30) - 2026/01/10 16:03:26 UTC
+Table: 'Expresso Nitro(1044992910)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Cev2merde (465)
+Seat 3: MathisKcr (435)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Cev2merde posts big blind 30
+Dealt to MathisKcr [Td Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 405 to 435 and is all-in
+Cev2merde folds
+MathisKcr collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Seat 3: MathisKcr (small blind) (button) won 465
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488210373001871361-8-1768061014 - Holdem no limit (15/30) - 2026/01/10 16:03:34 UTC
+Table: 'Expresso Nitro(1044992910)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Cev2merde (435)
+Seat 3: MathisKcr (465)
+*** ANTE/BLINDS ***
+Cev2merde posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [As 5h]
+*** PRE-FLOP *** 
+Cev2merde folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4488210373001871361-9-1768061021 - Holdem no limit (15/30) - 2026/01/10 16:03:41 UTC
+Table: 'Expresso Nitro(1044992910)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Cev2merde (420)
+Seat 3: MathisKcr (480)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Cev2merde posts big blind 30
+Dealt to MathisKcr [Ac 3s]
+*** PRE-FLOP *** 
+MathisKcr raises 450 to 480 and is all-in
+Cev2merde calls 390 and is all-in
+*** FLOP *** [9s Ad 5d]
+*** TURN *** [9s Ad 5d][Ah]
+*** RIVER *** [9s Ad 5d Ah][9d]
+*** SHOW DOWN ***
+Cev2merde shows [Tc 8s] (Two pairs : Aces and 9)
+MathisKcr shows [Ac 3s] (Full of Aces and 9)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s Ad 5d Ah 9d]
+Seat 2: Cev2merde (big blind) showed [Tc 8s] and lost with Two pairs : Aces and 9
+Seat 3: MathisKcr (small blind) (button) showed [Ac 3s] and won 900 with Full of Aces and 9
+
+

@@ -1,0 +1,185 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4227132238929592321-1-1756815325 - Holdem no limit (10/20) - 2025/09/02 12:15:25 UTC
+Table: 'Expresso(984205920)#0' 3-max (real money) Seat #1 is the button
+Seat 1: cool83 (500)
+Seat 2: MrBlonde807 (500)
+Seat 3: MathisKcr (500)
+*** ANTE/BLINDS ***
+MrBlonde807 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5s 7s]
+*** PRE-FLOP *** 
+cool83 calls 20
+MrBlonde807 calls 10
+MathisKcr checks
+*** FLOP *** [3h Tc 4s]
+MrBlonde807 bets 21
+MathisKcr calls 21
+cool83 calls 21
+*** TURN *** [3h Tc 4s][2c]
+MrBlonde807 checks
+MathisKcr checks
+cool83 checks
+*** RIVER *** [3h Tc 4s 2c][Kh]
+MrBlonde807 checks
+MathisKcr checks
+cool83 bets 123
+MrBlonde807 folds
+MathisKcr folds
+cool83 collected 246 from pot
+*** SUMMARY ***
+Total pot 246 | No rake
+Board: [3h Tc 4s 2c Kh]
+Seat 1: cool83 (button) won 246
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4227132238929592321-2-1756815345 - Holdem no limit (10/20) - 2025/09/02 12:15:45 UTC
+Table: 'Expresso(984205920)#0' 3-max (real money) Seat #2 is the button
+Seat 1: cool83 (582)
+Seat 2: MrBlonde807 (459)
+Seat 3: MathisKcr (459)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+cool83 posts big blind 20
+Dealt to MathisKcr [7d Jh]
+*** PRE-FLOP *** 
+MrBlonde807 calls 20
+MathisKcr calls 10
+cool83 checks
+*** FLOP *** [Ac 7h 6c]
+MathisKcr bets 40
+cool83 folds
+MrBlonde807 folds
+MathisKcr collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Ac 7h 6c]
+Seat 3: MathisKcr (small blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4227132238929592321-3-1756815361 - Holdem no limit (10/20) - 2025/09/02 12:16:01 UTC
+Table: 'Expresso(984205920)#0' 3-max (real money) Seat #3 is the button
+Seat 1: cool83 (562)
+Seat 2: MrBlonde807 (439)
+Seat 3: MathisKcr (499)
+*** ANTE/BLINDS ***
+cool83 posts small blind 10
+MrBlonde807 posts big blind 20
+Dealt to MathisKcr [5d Kh]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+cool83 folds
+MrBlonde807 raises 30 to 50
+MathisKcr calls 30
+*** FLOP *** [Jd 7s 4c]
+MrBlonde807 checks
+MathisKcr bets 40
+MrBlonde807 calls 40
+*** TURN *** [Jd 7s 4c][5h]
+MrBlonde807 checks
+MathisKcr bets 409 and is all-in
+MrBlonde807 folds
+MathisKcr collected 599 from pot
+*** SUMMARY ***
+Total pot 599 | No rake
+Board: [Jd 7s 4c 5h]
+Seat 3: MathisKcr (button) won 599
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4227132238929592321-4-1756815381 - Holdem no limit (10/20) - 2025/09/02 12:16:21 UTC
+Table: 'Expresso(984205920)#0' 3-max (real money) Seat #1 is the button
+Seat 1: cool83 (552)
+Seat 2: MrBlonde807 (349)
+Seat 3: MathisKcr (599)
+*** ANTE/BLINDS ***
+MrBlonde807 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 9h]
+*** PRE-FLOP *** 
+cool83 raises 20 to 40
+MrBlonde807 calls 30
+MathisKcr calls 20
+*** FLOP *** [Ah Qc Qd]
+MrBlonde807 checks
+MathisKcr bets 60
+cool83 calls 60
+MrBlonde807 folds
+*** TURN *** [Ah Qc Qd][6h]
+MathisKcr bets 80
+cool83 calls 80
+*** RIVER *** [Ah Qc Qd 6h][7h]
+MathisKcr bets 419 and is all-in
+cool83 calls 372 and is all-in
+*** SHOW DOWN ***
+cool83 shows [Qh Ad] (Full of Queens and Aces)
+MathisKcr shows [Qs 9h] (Trips of Queens)
+MathisKcr collected 47 from side pot 1
+cool83 collected 1144 from main pot
+*** SUMMARY ***
+Total pot 1191 | No rake
+Board: [Ah Qc Qd 6h 7h]
+Seat 1: cool83 (button) showed [Qh Ad] and won 1144 with Full of Queens and Aces
+Seat 3: MathisKcr (big blind) showed [Qs 9h] and won 47 with Trips of Queens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4227132238929592321-5-1756815412 - Holdem no limit (10/20) - 2025/09/02 12:16:52 UTC
+Table: 'Expresso(984205920)#0' 3-max (real money) Seat #2 is the button
+Seat 1: cool83 (1144)
+Seat 2: MrBlonde807 (309)
+Seat 3: MathisKcr (47)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+cool83 posts big blind 20
+Dealt to MathisKcr [2c 7s]
+*** PRE-FLOP *** 
+MrBlonde807 calls 20
+MathisKcr folds
+cool83 checks
+*** FLOP *** [8c 3d 6h]
+cool83 checks
+MrBlonde807 checks
+*** TURN *** [8c 3d 6h][As]
+cool83 checks
+MrBlonde807 checks
+*** RIVER *** [8c 3d 6h As][8d]
+cool83 checks
+MrBlonde807 checks
+*** SHOW DOWN ***
+cool83 shows [9d 5s] (One pair : 8)
+MrBlonde807 shows [Js Ts] (One pair : 8)
+MrBlonde807 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [8c 3d 6h As 8d]
+Seat 1: cool83 (big blind) showed [9d 5s] and lost with One pair : 8
+Seat 2: MrBlonde807 (button) showed [Js Ts] and won 50 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4227132238929592321-6-1756815436 - Holdem no limit (15/30) - 2025/09/02 12:17:16 UTC
+Table: 'Expresso(984205920)#0' 3-max (real money) Seat #3 is the button
+Seat 1: cool83 (1124)
+Seat 2: MrBlonde807 (339)
+Seat 3: MathisKcr (37)
+*** ANTE/BLINDS ***
+cool83 posts small blind 15
+MrBlonde807 posts big blind 30
+Dealt to MathisKcr [3d As]
+*** PRE-FLOP *** 
+MathisKcr raises 7 to 37 and is all-in
+cool83 calls 22
+MrBlonde807 calls 7
+*** FLOP *** [2d 6s 4d]
+cool83 bets 39
+MrBlonde807 folds
+*** TURN *** [2d 6s 4d][4s]
+*** RIVER *** [2d 6s 4d 4s][8s]
+*** SHOW DOWN ***
+MathisKcr shows [3d As] (One pair : 4)
+cool83 shows [4c Tc] (Trips of 4)
+cool83 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [2d 6s 4d 4s 8s]
+Seat 1: cool83 (small blind) showed [4c Tc] and won 150 with Trips of 4
+Seat 3: MathisKcr (button) showed [3d As] and lost with One pair : 4
+
+

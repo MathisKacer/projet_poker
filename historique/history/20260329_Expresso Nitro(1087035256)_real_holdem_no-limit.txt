@@ -1,0 +1,291 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668780874118987777-1-1774805223 - Holdem no limit (10/20) - 2026/03/29 17:27:03 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: MangeUnRadis (300)
+Seat 3: nolrnn92 (300)
+*** ANTE/BLINDS ***
+MangeUnRadis posts small blind 10
+nolrnn92 posts big blind 20
+Dealt to MathisKcr [8s 7s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+MangeUnRadis raises 260 to 300 and is all-in
+nolrnn92 folds
+MathisKcr folds
+MangeUnRadis collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: MangeUnRadis (small blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668780874118987777-2-1774805239 - Holdem no limit (10/20) - 2026/03/29 17:27:19 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (260)
+Seat 2: MangeUnRadis (360)
+Seat 3: nolrnn92 (280)
+*** ANTE/BLINDS ***
+nolrnn92 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6h 7h]
+*** PRE-FLOP *** 
+MangeUnRadis raises 20 to 40
+nolrnn92 calls 30
+MathisKcr calls 20
+*** FLOP *** [4s 4d Qc]
+nolrnn92 checks
+MathisKcr checks
+MangeUnRadis bets 40
+nolrnn92 folds
+MathisKcr folds
+MangeUnRadis collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [4s 4d Qc]
+Seat 2: MangeUnRadis (button) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668780874118987777-3-1774805261 - Holdem no limit (10/20) - 2026/03/29 17:27:41 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (220)
+Seat 2: MangeUnRadis (440)
+Seat 3: nolrnn92 (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+MangeUnRadis posts big blind 20
+Dealt to MathisKcr [8c 6c]
+*** PRE-FLOP *** 
+nolrnn92 raises 20 to 40
+MathisKcr folds
+MangeUnRadis calls 20
+*** FLOP *** [5d 3c Qh]
+MangeUnRadis checks
+nolrnn92 bets 59
+MangeUnRadis folds
+nolrnn92 collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [5d 3c Qh]
+Seat 3: nolrnn92 (button) won 149
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668780874118987777-4-1774805285 - Holdem no limit (15/30) - 2026/03/29 17:28:05 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (210)
+Seat 2: MangeUnRadis (400)
+Seat 3: nolrnn92 (290)
+*** ANTE/BLINDS ***
+MangeUnRadis posts small blind 15
+nolrnn92 posts big blind 30
+Dealt to MathisKcr [Ah As]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+MangeUnRadis folds
+nolrnn92 calls 30
+*** FLOP *** [7h 4d 5s]
+nolrnn92 checks
+MathisKcr bets 47
+nolrnn92 calls 47
+*** TURN *** [7h 4d 5s][2s]
+nolrnn92 checks
+MathisKcr bets 103 and is all-in
+nolrnn92 calls 103
+*** RIVER *** [7h 4d 5s 2s][3c]
+*** SHOW DOWN ***
+nolrnn92 shows [Tc 5d] (One pair : 5)
+MathisKcr shows [Ah As] (Straight 5 high)
+MathisKcr collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | No rake
+Board: [7h 4d 5s 2s 3c]
+Seat 1: MathisKcr (button) showed [Ah As] and won 435 with Straight 5 high
+Seat 3: nolrnn92 (big blind) showed [Tc 5d] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668780874118987777-5-1774805315 - Holdem no limit (15/30) - 2026/03/29 17:28:35 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (435)
+Seat 2: MangeUnRadis (385)
+Seat 3: nolrnn92 (80)
+*** ANTE/BLINDS ***
+nolrnn92 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5c 6s]
+*** PRE-FLOP *** 
+MangeUnRadis folds
+nolrnn92 raises 50 to 80 and is all-in
+MathisKcr folds
+nolrnn92 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | No rake
+Seat 3: nolrnn92 (small blind) won 110
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4668780874118987777-6-1774805336 - Holdem no limit (15/30) - 2026/03/29 17:28:56 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (405)
+Seat 2: MangeUnRadis (385)
+Seat 3: nolrnn92 (110)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+MangeUnRadis posts big blind 30
+Dealt to MathisKcr [Qs 5c]
+*** PRE-FLOP *** 
+nolrnn92 raises 80 to 110 and is all-in
+MathisKcr folds
+MangeUnRadis raises 80 to 190
+*** FLOP *** [6c 8s Js]
+*** TURN *** [6c 8s Js][7c]
+*** RIVER *** [6c 8s Js 7c][4h]
+*** SHOW DOWN ***
+nolrnn92 shows [9c 3c] (High card : Jack)
+MangeUnRadis shows [Kh Qd] (High card : King)
+MangeUnRadis collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | No rake
+Board: [6c 8s Js 7c 4h]
+Seat 2: MangeUnRadis (big blind) showed [Kh Qd] and won 315 with High card : King
+Seat 3: nolrnn92 (button) showed [9c 3c] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668780874118987777-7-1774805351 - Holdem no limit (20/40) - 2026/03/29 17:29:11 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (390)
+Seat 2: MangeUnRadis (510)
+*** ANTE/BLINDS ***
+MangeUnRadis posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6d Kd]
+*** PRE-FLOP *** 
+MangeUnRadis raises 470 to 510 and is all-in
+MathisKcr calls 350 and is all-in
+*** FLOP *** [2s 3h 5c]
+*** TURN *** [2s 3h 5c][Jh]
+*** RIVER *** [2s 3h 5c Jh][9d]
+*** SHOW DOWN ***
+MathisKcr shows [6d Kd] (High card : King)
+MangeUnRadis shows [Ks 4d] (High card : King)
+MangeUnRadis collected 120 from side pot 1
+MathisKcr collected 780 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2s 3h 5c Jh 9d]
+Seat 1: MathisKcr (big blind) showed [6d Kd] and won 780 with High card : King
+Seat 2: MangeUnRadis (small blind) (button) showed [Ks 4d] and won 120 with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668780874118987777-8-1774805366 - Holdem no limit (20/40) - 2026/03/29 17:29:26 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (780)
+Seat 2: MangeUnRadis (120)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+MangeUnRadis posts big blind 40
+Dealt to MathisKcr [6d 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+MangeUnRadis collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MangeUnRadis (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668780874118987777-9-1774805377 - Holdem no limit (20/40) - 2026/03/29 17:29:37 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (760)
+Seat 2: MangeUnRadis (140)
+*** ANTE/BLINDS ***
+MangeUnRadis posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [9c 3d]
+*** PRE-FLOP *** 
+MangeUnRadis raises 100 to 140 and is all-in
+MathisKcr folds
+MangeUnRadis collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: MangeUnRadis (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668780874118987777-10-1774805387 - Holdem no limit (20/40) - 2026/03/29 17:29:47 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (720)
+Seat 2: MangeUnRadis (180)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+MangeUnRadis posts big blind 40
+Dealt to MathisKcr [9d 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+MangeUnRadis collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MangeUnRadis (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4668780874118987777-11-1774805397 - Holdem no limit (20/40) - 2026/03/29 17:29:57 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (700)
+Seat 2: MangeUnRadis (200)
+*** ANTE/BLINDS ***
+MangeUnRadis posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Jh 2s]
+*** PRE-FLOP *** 
+MangeUnRadis folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4668780874118987777-12-1774805401 - Holdem no limit (30/60) - 2026/03/29 17:30:01 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (720)
+Seat 2: MangeUnRadis (180)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+MangeUnRadis posts big blind 60
+Dealt to MathisKcr [3s Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 660 to 720 and is all-in
+MangeUnRadis calls 120 and is all-in
+*** FLOP *** [Qc Th 2c]
+*** TURN *** [Qc Th 2c][3c]
+*** RIVER *** [Qc Th 2c 3c][6c]
+*** SHOW DOWN ***
+MathisKcr shows [3s Jc] (Flush Queen high)
+MangeUnRadis shows [3d Kc] (Flush King high)
+MangeUnRadis collected 360 from main pot
+MathisKcr collected 540 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qc Th 2c 3c 6c]
+Seat 1: MathisKcr (small blind) (button) showed [3s Jc] and won 540 with Flush Queen high
+Seat 2: MangeUnRadis (big blind) showed [3d Kc] and won 360 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4668780874118987777-13-1774805413 - Holdem no limit (30/60) - 2026/03/29 17:30:13 UTC
+Table: 'Expresso Nitro(1087035256)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (540)
+Seat 2: MangeUnRadis (360)
+*** ANTE/BLINDS ***
+MangeUnRadis posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Tc Qs]
+*** PRE-FLOP *** 
+MangeUnRadis raises 300 to 360 and is all-in
+MathisKcr calls 300
+*** FLOP *** [6c 6h 7d]
+*** TURN *** [6c 6h 7d][Jh]
+*** RIVER *** [6c 6h 7d Jh][Ad]
+*** SHOW DOWN ***
+MangeUnRadis shows [4s Th] (One pair : 6)
+MathisKcr shows [Tc Qs] (One pair : 6)
+MathisKcr collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [6c 6h 7d Jh Ad]
+Seat 1: MathisKcr (big blind) showed [Tc Qs] and won 720 with One pair : 6
+Seat 2: MangeUnRadis (small blind) (button) showed [4s Th] and lost with One pair : 6
+
+

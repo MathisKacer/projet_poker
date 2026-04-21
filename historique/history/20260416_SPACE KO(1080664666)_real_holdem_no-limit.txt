@@ -1,0 +1,66 @@
+Winamax Poker - Tournament "SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4641419398412763183-1-1776378400 - Holdem no limit (25/100/200) - 2026/04/16 22:26:40 UTC
+Table: 'SPACE KO(1080664666)#046' 6-max (real money) Seat #6 is the button
+Seat 2: Elturbinas16 (19775, 1€ bounty)
+Seat 3: FiSh0L0GiSTe (18700, 1€ bounty)
+Seat 4: Zext666 (20000, 1€ bounty)
+Seat 6: MathisKcr (20000, 1€ bounty)
+*** ANTE/BLINDS ***
+FiSh0L0GiSTe posts ante 25
+Zext666 posts ante 25
+MathisKcr posts ante 25
+FiSh0L0GiSTe posts small blind 100
+Zext666 posts big blind 200
+Dealt to MathisKcr [5s Ad]
+*** PRE-FLOP *** 
+MathisKcr raises 200 to 400
+FiSh0L0GiSTe folds
+Zext666 raises 975 to 1375
+MathisKcr calls 975
+*** FLOP *** [9s Jc 4h]
+Zext666 bets 1901
+MathisKcr folds
+Zext666 collected 4826 from pot
+*** SUMMARY ***
+Total pot 4826 | No rake
+Board: [9s Jc 4h]
+Seat 4: Zext666 (big blind) won 4826
+
+
+Winamax Poker - Tournament "SPACE KO" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4641419398412763183-2-1776378424 - Holdem no limit (25/100/200) - 2026/04/16 22:27:04 UTC
+Table: 'SPACE KO(1080664666)#046' 6-max (real money) Seat #3 is the button
+Seat 1: Labeubeu44 (12010, 1€ bounty)
+Seat 2: Elturbinas16 (19775, 1€ bounty)
+Seat 3: FiSh0L0GiSTe (18575, 1€ bounty)
+Seat 4: Zext666 (21525, 1€ bounty)
+Seat 6: MathisKcr (18600, 1€ bounty)
+*** ANTE/BLINDS ***
+Zext666 posts ante 25
+MathisKcr posts ante 25
+Labeubeu44 posts ante 25
+Elturbinas16 posts ante 25
+FiSh0L0GiSTe posts ante 25
+Zext666 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [6d 6h]
+*** PRE-FLOP *** 
+Labeubeu44 raises 11785 to 11985 and is all-in
+Elturbinas16 folds
+FiSh0L0GiSTe folds
+Zext666 raises 9515 to 21500 and is all-in
+MathisKcr calls 18375 and is all-in
+*** FLOP *** [2s Jc Td]
+*** TURN *** [2s Jc Td][8s]
+*** RIVER *** [2s Jc Td 8s][Ah]
+*** SHOW DOWN ***
+Labeubeu44 shows [4h 4d] (One pair : 4)
+MathisKcr shows [6d 6h] (One pair : 6)
+Zext666 shows [Ac As] (Trips of Aces)
+Zext666 collected 52185 from pot
+*** SUMMARY ***
+Total pot 52185 | No rake
+Board: [2s Jc Td 8s Ah]
+Seat 1: Labeubeu44 showed [4h 4d] and lost with One pair : 4
+Seat 4: Zext666 (small blind) showed [Ac As] and won 52185 with Trips of Aces
+Seat 6: MathisKcr (big blind) showed [6d 6h] and lost with One pair : 6
+
+

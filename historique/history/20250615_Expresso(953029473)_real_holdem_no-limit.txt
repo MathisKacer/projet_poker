@@ -1,0 +1,279 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4093230418659115009-1-1750018299 - Holdem no limit (10/20) - 2025/06/15 20:11:39 UTC
+Table: 'Expresso(953029473)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Sioo28 (500)
+Seat 3: AKYHA MATATA (500)
+*** ANTE/BLINDS ***
+Sioo28 posts small blind 10
+AKYHA MATATA posts big blind 20
+Dealt to MathisKcr [6c Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Sioo28 calls 30
+AKYHA MATATA calls 20
+*** FLOP *** [Kh 3h 7s]
+Sioo28 checks
+AKYHA MATATA checks
+MathisKcr bets 80
+Sioo28 folds
+AKYHA MATATA folds
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Kh 3h 7s]
+Seat 1: MathisKcr (button) won 200
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4093230418659115009-2-1750018334 - Holdem no limit (10/20) - 2025/06/15 20:12:14 UTC
+Table: 'Expresso(953029473)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (580)
+Seat 2: Sioo28 (460)
+Seat 3: AKYHA MATATA (460)
+*** ANTE/BLINDS ***
+AKYHA MATATA posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ad 3d]
+*** PRE-FLOP *** 
+Sioo28 folds
+AKYHA MATATA raises 20 to 40
+MathisKcr raises 20 to 60
+AKYHA MATATA calls 20
+*** FLOP *** [7h 6s Jh]
+AKYHA MATATA checks
+MathisKcr checks
+*** TURN *** [7h 6s Jh][3s]
+AKYHA MATATA bets 20
+MathisKcr calls 20
+*** RIVER *** [7h 6s Jh 3s][7s]
+AKYHA MATATA checks
+MathisKcr checks
+*** SHOW DOWN ***
+AKYHA MATATA shows [Kc 3c] (Two pairs : 7 and 3)
+MathisKcr shows [Ad 3d] (Two pairs : 7 and 3)
+MathisKcr collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [7h 6s Jh 3s 7s]
+Seat 1: MathisKcr (big blind) showed [Ad 3d] and won 160 with Two pairs : 7 and 3
+Seat 3: AKYHA MATATA (small blind) showed [Kc 3c] and lost with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4093230418659115009-3-1750018369 - Holdem no limit (10/20) - 2025/06/15 20:12:49 UTC
+Table: 'Expresso(953029473)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (660)
+Seat 2: Sioo28 (460)
+Seat 3: AKYHA MATATA (380)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Sioo28 posts big blind 20
+Dealt to MathisKcr [7s 6h]
+*** PRE-FLOP *** 
+AKYHA MATATA folds
+MathisKcr calls 10
+Sioo28 checks
+*** FLOP *** [Ks Qs Kd]
+MathisKcr checks
+Sioo28 checks
+*** TURN *** [Ks Qs Kd][4c]
+MathisKcr checks
+Sioo28 checks
+*** RIVER *** [Ks Qs Kd 4c][Jc]
+MathisKcr checks
+Sioo28 checks
+*** SHOW DOWN ***
+Sioo28 shows [2s 3h] (One pair : Kings)
+MathisKcr shows [7s 6h] (One pair : Kings)
+MathisKcr collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Ks Qs Kd 4c Jc]
+Seat 1: MathisKcr (small blind) showed [7s 6h] and won 40 with One pair : Kings
+Seat 2: Sioo28 (big blind) showed [2s 3h] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4093230418659115009-4-1750018387 - Holdem no limit (15/30) - 2025/06/15 20:13:07 UTC
+Table: 'Expresso(953029473)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (680)
+Seat 2: Sioo28 (440)
+Seat 3: AKYHA MATATA (380)
+*** ANTE/BLINDS ***
+Sioo28 posts small blind 15
+AKYHA MATATA posts big blind 30
+Dealt to MathisKcr [3s 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sioo28 calls 15
+AKYHA MATATA checks
+*** FLOP *** [Td 6c 6h]
+Sioo28 bets 60
+AKYHA MATATA folds
+Sioo28 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Td 6c 6h]
+Seat 2: Sioo28 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4093230418659115009-5-1750018402 - Holdem no limit (15/30) - 2025/06/15 20:13:22 UTC
+Table: 'Expresso(953029473)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (680)
+Seat 2: Sioo28 (470)
+Seat 3: AKYHA MATATA (350)
+*** ANTE/BLINDS ***
+AKYHA MATATA posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4d Ad]
+*** PRE-FLOP *** 
+Sioo28 folds
+AKYHA MATATA folds
+MathisKcr collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: MathisKcr (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4093230418659115009-6-1750018409 - Holdem no limit (15/30) - 2025/06/15 20:13:29 UTC
+Table: 'Expresso(953029473)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (695)
+Seat 2: Sioo28 (470)
+Seat 3: AKYHA MATATA (335)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Sioo28 posts big blind 30
+Dealt to MathisKcr [Ks 4s]
+*** PRE-FLOP *** 
+AKYHA MATATA folds
+MathisKcr raises 30 to 60
+Sioo28 raises 120 to 180
+MathisKcr calls 120
+*** FLOP *** [Qs 2d 3d]
+MathisKcr checks
+Sioo28 bets 234
+MathisKcr folds
+Sioo28 collected 594 from pot
+*** SUMMARY ***
+Total pot 594 | No rake
+Board: [Qs 2d 3d]
+Seat 2: Sioo28 (big blind) won 594
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4093230418659115009-7-1750018423 - Holdem no limit (15/30) - 2025/06/15 20:13:43 UTC
+Table: 'Expresso(953029473)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (515)
+Seat 2: Sioo28 (650)
+Seat 3: AKYHA MATATA (335)
+*** ANTE/BLINDS ***
+Sioo28 posts small blind 15
+AKYHA MATATA posts big blind 30
+Dealt to MathisKcr [7d 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sioo28 raises 60 to 90
+AKYHA MATATA folds
+Sioo28 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: Sioo28 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4093230418659115009-8-1750018431 - Holdem no limit (15/30) - 2025/06/15 20:13:51 UTC
+Table: 'Expresso(953029473)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (515)
+Seat 2: Sioo28 (680)
+Seat 3: AKYHA MATATA (305)
+*** ANTE/BLINDS ***
+AKYHA MATATA posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3s Qs]
+*** PRE-FLOP *** 
+Sioo28 raises 30 to 60
+AKYHA MATATA calls 45
+MathisKcr calls 30
+*** FLOP *** [Kc 7c 5h]
+AKYHA MATATA checks
+MathisKcr checks
+Sioo28 bets 63
+AKYHA MATATA calls 63
+MathisKcr folds
+*** TURN *** [Kc 7c 5h][Ad]
+AKYHA MATATA checks
+Sioo28 checks
+*** RIVER *** [Kc 7c 5h Ad][8c]
+AKYHA MATATA bets 77
+Sioo28 raises 77 to 154
+AKYHA MATATA raises 28 to 182 and is all-in
+Sioo28 calls 28
+*** SHOW DOWN ***
+Sioo28 shows [Ts As] (One pair : Aces)
+AKYHA MATATA shows [Tc Jc] (Flush King high)
+AKYHA MATATA collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | No rake
+Board: [Kc 7c 5h Ad 8c]
+Seat 2: Sioo28 (button) showed [Ts As] and lost with One pair : Aces
+Seat 3: AKYHA MATATA (small blind) showed [Tc Jc] and won 670 with Flush King high
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4093230418659115009-9-1750018464 - Holdem no limit (15/30) - 2025/06/15 20:14:24 UTC
+Table: 'Expresso(953029473)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (455)
+Seat 2: Sioo28 (375)
+Seat 3: AKYHA MATATA (670)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Sioo28 posts big blind 30
+Dealt to MathisKcr [6h 4s]
+*** PRE-FLOP *** 
+AKYHA MATATA folds
+MathisKcr calls 15
+Sioo28 checks
+*** FLOP *** [8d 3h 2d]
+MathisKcr checks
+Sioo28 checks
+*** TURN *** [8d 3h 2d][8s]
+MathisKcr checks
+Sioo28 checks
+*** RIVER *** [8d 3h 2d 8s][2c]
+MathisKcr checks
+Sioo28 bets 30
+MathisKcr calls 30
+*** SHOW DOWN ***
+MathisKcr shows [6h 4s] (Two pairs : 8 and 2)
+Sioo28 shows [7h 5h] (Two pairs : 8 and 2)
+Sioo28 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [8d 3h 2d 8s 2c]
+Seat 1: MathisKcr (small blind) showed [6h 4s] and lost with Two pairs : 8 and 2
+Seat 2: Sioo28 (big blind) showed [7h 5h] and won 120 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4093230418659115009-10-1750018483 - Holdem no limit (20/40) - 2025/06/15 20:14:43 UTC
+Table: 'Expresso(953029473)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (395)
+Seat 2: Sioo28 (435)
+Seat 3: AKYHA MATATA (670)
+*** ANTE/BLINDS ***
+Sioo28 posts small blind 20
+AKYHA MATATA posts big blind 40
+Dealt to MathisKcr [As 3h]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+Sioo28 raises 120 to 160
+AKYHA MATATA folds
+MathisKcr raises 235 to 395 and is all-in
+Sioo28 calls 235
+*** FLOP *** [9d Ac 8s]
+*** TURN *** [9d Ac 8s][6h]
+*** RIVER *** [9d Ac 8s 6h][2h]
+*** SHOW DOWN ***
+MathisKcr shows [As 3h] (One pair : Aces)
+Sioo28 shows [Ah 7c] (One pair : Aces)
+Sioo28 collected 830 from pot
+*** SUMMARY ***
+Total pot 830 | No rake
+Board: [9d Ac 8s 6h 2h]
+Seat 1: MathisKcr (button) showed [As 3h] and lost with One pair : Aces
+Seat 2: Sioo28 (small blind) showed [Ah 7c] and won 830 with One pair : Aces
+
+

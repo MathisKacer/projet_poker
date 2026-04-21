@@ -1,0 +1,71 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669476225029242881-1-1774824406 - Holdem no limit (10/20) - 2026/03/29 22:46:46 UTC
+Table: 'Expresso Nitro(1087197155)#0' 3-max (real money) Seat #2 is the button
+Seat 1: JeremInaya38 (300)
+Seat 2: MathisKcr (300)
+Seat 3: sepi97 (300)
+*** ANTE/BLINDS ***
+sepi97 posts small blind 10
+JeremInaya38 posts big blind 20
+Dealt to MathisKcr [Tc 2d]
+*** PRE-FLOP *** 
+MathisKcr folds
+sepi97 raises 280 to 300 and is all-in
+JeremInaya38 folds
+sepi97 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: sepi97 (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669476225029242881-2-1774824431 - Holdem no limit (10/20) - 2026/03/29 22:47:11 UTC
+Table: 'Expresso Nitro(1087197155)#0' 3-max (real money) Seat #3 is the button
+Seat 1: JeremInaya38 (280)
+Seat 2: MathisKcr (300)
+Seat 3: sepi97 (320)
+*** ANTE/BLINDS ***
+JeremInaya38 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5s Kc]
+*** PRE-FLOP *** 
+sepi97 folds
+JeremInaya38 calls 10
+MathisKcr checks
+*** FLOP *** [Qc Kd 2c]
+JeremInaya38 checks
+MathisKcr bets 26
+JeremInaya38 folds
+MathisKcr collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Qc Kd 2c]
+Seat 2: MathisKcr (big blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4669476225029242881-3-1774824462 - Holdem no limit (10/20) - 2026/03/29 22:47:42 UTC
+Table: 'Expresso Nitro(1087197155)#0' 3-max (real money) Seat #1 is the button
+Seat 1: JeremInaya38 (260)
+Seat 2: MathisKcr (320)
+Seat 3: sepi97 (320)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+sepi97 posts big blind 20
+Dealt to MathisKcr [7s Kc]
+*** PRE-FLOP *** 
+JeremInaya38 calls 20
+MathisKcr raises 300 to 320 and is all-in
+sepi97 calls 300 and is all-in
+JeremInaya38 folds
+*** FLOP *** [3c Ah Tc]
+*** TURN *** [3c Ah Tc][Qc]
+*** RIVER *** [3c Ah Tc Qc][8s]
+*** SHOW DOWN ***
+MathisKcr shows [7s Kc] (High card : Ace)
+sepi97 shows [Kh 3s] (One pair : 3)
+sepi97 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [3c Ah Tc Qc 8s]
+Seat 2: MathisKcr (small blind) showed [7s Kc] and lost with High card : Ace
+Seat 3: sepi97 (big blind) showed [Kh 3s] and won 660 with One pair : 3
+
+

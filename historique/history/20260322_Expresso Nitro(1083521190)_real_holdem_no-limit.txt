@@ -1,0 +1,195 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4653688075573002241-1-1774208465 - Holdem no limit (10/20) - 2026/03/22 19:41:05 UTC
+Table: 'Expresso Nitro(1083521190)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bdbg92 (300)
+Seat 2: Samupa10 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Samupa10 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jc 5d]
+*** PRE-FLOP *** 
+Bdbg92 calls 20
+Samupa10 calls 10
+MathisKcr checks
+*** FLOP *** [6c As Kd]
+Samupa10 checks
+MathisKcr checks
+Bdbg92 checks
+*** TURN *** [6c As Kd][2s]
+Samupa10 checks
+MathisKcr checks
+Bdbg92 checks
+*** RIVER *** [6c As Kd 2s][4h]
+Samupa10 checks
+MathisKcr checks
+Bdbg92 bets 20
+Samupa10 folds
+MathisKcr folds
+Bdbg92 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [6c As Kd 2s 4h]
+Seat 1: Bdbg92 (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4653688075573002241-2-1774208501 - Holdem no limit (10/20) - 2026/03/22 19:41:41 UTC
+Table: 'Expresso Nitro(1083521190)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bdbg92 (340)
+Seat 2: Samupa10 (280)
+Seat 3: MathisKcr (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Bdbg92 posts big blind 20
+Dealt to MathisKcr [8d 2d]
+*** PRE-FLOP *** 
+Samupa10 calls 20
+MathisKcr folds
+Bdbg92 checks
+*** FLOP *** [3c 8c Kh]
+Bdbg92 checks
+Samupa10 checks
+*** TURN *** [3c 8c Kh][Td]
+Bdbg92 checks
+Samupa10 checks
+*** RIVER *** [3c 8c Kh Td][8s]
+Bdbg92 bets 20
+Samupa10 calls 20
+*** SHOW DOWN ***
+Bdbg92 shows [9c 7h] (One pair : 8)
+Samupa10 shows [7c 7d] (Two pairs : 8 and 7)
+Samupa10 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [3c 8c Kh Td 8s]
+Seat 1: Bdbg92 (big blind) showed [9c 7h] and lost with One pair : 8
+Seat 2: Samupa10 (button) showed [7c 7d] and won 90 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4653688075573002241-3-1774208543 - Holdem no limit (15/30) - 2026/03/22 19:42:23 UTC
+Table: 'Expresso Nitro(1083521190)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bdbg92 (300)
+Seat 2: Samupa10 (330)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Bdbg92 posts small blind 15
+Samupa10 posts big blind 30
+Dealt to MathisKcr [7s 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bdbg92 calls 15
+Samupa10 checks
+*** FLOP *** [6d Qd Kc]
+Bdbg92 checks
+Samupa10 bets 30
+Bdbg92 folds
+Samupa10 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [6d Qd Kc]
+Seat 2: Samupa10 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4653688075573002241-4-1774208560 - Holdem no limit (15/30) - 2026/03/22 19:42:40 UTC
+Table: 'Expresso Nitro(1083521190)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bdbg92 (270)
+Seat 2: Samupa10 (360)
+Seat 3: MathisKcr (270)
+*** ANTE/BLINDS ***
+Samupa10 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5h Jh]
+*** PRE-FLOP *** 
+Bdbg92 folds
+Samupa10 calls 15
+MathisKcr checks
+*** FLOP *** [Tc 3d 8d]
+Samupa10 bets 30
+MathisKcr folds
+Samupa10 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [Tc 3d 8d]
+Seat 2: Samupa10 (small blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4653688075573002241-5-1774208587 - Holdem no limit (20/40) - 2026/03/22 19:43:07 UTC
+Table: 'Expresso Nitro(1083521190)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Bdbg92 (270)
+Seat 2: Samupa10 (390)
+Seat 3: MathisKcr (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Bdbg92 posts big blind 40
+Dealt to MathisKcr [4c 9h]
+*** PRE-FLOP *** 
+Samupa10 calls 40
+MathisKcr calls 20
+Bdbg92 checks
+*** FLOP *** [Js 8d 5s]
+MathisKcr checks
+Bdbg92 checks
+Samupa10 checks
+*** TURN *** [Js 8d 5s][Ad]
+MathisKcr checks
+Bdbg92 checks
+Samupa10 checks
+*** RIVER *** [Js 8d 5s Ad][6h]
+MathisKcr checks
+Bdbg92 bets 40
+Samupa10 folds
+MathisKcr folds
+Bdbg92 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Js 8d 5s Ad 6h]
+Seat 1: Bdbg92 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4653688075573002241-6-1774208651 - Holdem no limit (30/60) - 2026/03/22 19:44:11 UTC
+Table: 'Expresso Nitro(1083521190)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Bdbg92 (350)
+Seat 2: Samupa10 (350)
+Seat 3: MathisKcr (200)
+*** ANTE/BLINDS ***
+Bdbg92 posts small blind 30
+Samupa10 posts big blind 60
+Dealt to MathisKcr [6c 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bdbg92 folds
+Samupa10 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: Samupa10 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4653688075573002241-7-1774208661 - Holdem no limit (30/60) - 2026/03/22 19:44:21 UTC
+Table: 'Expresso Nitro(1083521190)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Bdbg92 (320)
+Seat 2: Samupa10 (380)
+Seat 3: MathisKcr (200)
+*** ANTE/BLINDS ***
+Samupa10 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Jc 6s]
+*** PRE-FLOP *** 
+Bdbg92 folds
+Samupa10 calls 30
+MathisKcr checks
+*** FLOP *** [5s Qd 8c]
+Samupa10 checks
+MathisKcr bets 140 and is all-in
+Samupa10 calls 140
+*** TURN *** [5s Qd 8c][Kc]
+*** RIVER *** [5s Qd 8c Kc][Td]
+*** SHOW DOWN ***
+MathisKcr shows [Jc 6s] (High card : King)
+Samupa10 shows [9c Ks] (One pair : Kings)
+Samupa10 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [5s Qd 8c Kc Td]
+Seat 2: Samupa10 (small blind) showed [9c Ks] and won 400 with One pair : Kings
+Seat 3: MathisKcr (big blind) showed [Jc 6s] and lost with High card : King
+
+

@@ -1,0 +1,92 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4576526445479723009-1-1771356417 - Holdem no limit (10/20) - 2026/02/17 19:26:57 UTC
+Table: 'Expresso Nitro(1065555598)#0' 3-max (real money) Seat #1 is the button
+Seat 1: pedrito53 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Amarpe01 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Amarpe01 posts big blind 20
+Dealt to MathisKcr [5c Jc]
+*** PRE-FLOP *** 
+pedrito53 raises 280 to 300 and is all-in
+MathisKcr folds
+Amarpe01 folds
+pedrito53 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: pedrito53 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4576526445479723009-2-1771356428 - Holdem no limit (10/20) - 2026/02/17 19:27:08 UTC
+Table: 'Expresso Nitro(1065555598)#0' 3-max (real money) Seat #2 is the button
+Seat 1: pedrito53 (330)
+Seat 2: MathisKcr (290)
+Seat 3: Amarpe01 (280)
+*** ANTE/BLINDS ***
+Amarpe01 posts small blind 10
+pedrito53 posts big blind 20
+Dealt to MathisKcr [2c Td]
+*** PRE-FLOP *** 
+MathisKcr folds
+Amarpe01 calls 10
+pedrito53 checks
+*** FLOP *** [4d 3s 2h]
+Amarpe01 checks
+pedrito53 bets 20
+Amarpe01 calls 20
+*** TURN *** [4d 3s 2h][5h]
+Amarpe01 checks
+pedrito53 bets 20
+Amarpe01 calls 20
+*** RIVER *** [4d 3s 2h 5h][9c]
+Amarpe01 checks
+pedrito53 checks
+*** SHOW DOWN ***
+Amarpe01 shows [7c 3d] (One pair : 3)
+pedrito53 shows [Tc 4c] (One pair : 4)
+pedrito53 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4d 3s 2h 5h 9c]
+Seat 1: pedrito53 (big blind) showed [Tc 4c] and won 120 with One pair : 4
+Seat 3: Amarpe01 (small blind) showed [7c 3d] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4576526445479723009-3-1771356457 - Holdem no limit (10/20) - 2026/02/17 19:27:37 UTC
+Table: 'Expresso Nitro(1065555598)#0' 3-max (real money) Seat #3 is the button
+Seat 1: pedrito53 (390)
+Seat 2: MathisKcr (290)
+Seat 3: Amarpe01 (220)
+*** ANTE/BLINDS ***
+pedrito53 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ks 2s]
+*** PRE-FLOP *** 
+Amarpe01 folds
+pedrito53 raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [6d Kd 4s]
+pedrito53 bets 20
+MathisKcr raises 20 to 40
+pedrito53 raises 20 to 60
+MathisKcr raises 20 to 80
+pedrito53 calls 20
+*** TURN *** [6d Kd 4s][5d]
+pedrito53 bets 20
+MathisKcr raises 20 to 40
+pedrito53 calls 20
+*** RIVER *** [6d Kd 4s 5d][Jh]
+pedrito53 bets 20
+MathisKcr raises 110 to 130 and is all-in
+pedrito53 calls 110
+*** SHOW DOWN ***
+MathisKcr shows [Ks 2s] (One pair : Kings)
+pedrito53 shows [8d Kh] (One pair : Kings)
+pedrito53 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [6d Kd 4s 5d Jh]
+Seat 1: pedrito53 (small blind) showed [8d Kh] and won 580 with One pair : Kings
+Seat 2: MathisKcr (big blind) showed [Ks 2s] and lost with One pair : Kings
+
+

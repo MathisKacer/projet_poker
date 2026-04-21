@@ -1,0 +1,97 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667144912486006785-1-1774733418 - Holdem no limit (10/20) - 2026/03/28 21:30:18 UTC
+Table: 'Expresso Nitro(1086654354)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Howly. (300)
+Seat 2: MathisKcr (300)
+Seat 3: Pinck Gers (300)
+*** ANTE/BLINDS ***
+Howly. posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6c 6d]
+*** PRE-FLOP *** 
+Pinck Gers calls 20
+Howly. raises 280 to 300 and is all-in
+MathisKcr calls 280 and is all-in
+Pinck Gers folds
+*** FLOP *** [8d Jh 9s]
+*** TURN *** [8d Jh 9s][Qd]
+*** RIVER *** [8d Jh 9s Qd][8h]
+*** SHOW DOWN ***
+Howly. shows [2c Ah] (One pair : 8)
+MathisKcr shows [6c 6d] (Two pairs : 8 and 6)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [8d Jh 9s Qd 8h]
+Seat 1: Howly. (small blind) showed [2c Ah] and lost with One pair : 8
+Seat 2: MathisKcr (big blind) showed [6c 6d] and won 620 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667144912486006785-2-1774733439 - Holdem no limit (10/20) - 2026/03/28 21:30:39 UTC
+Table: 'Expresso Nitro(1086654354)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (620)
+Seat 3: Pinck Gers (280)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Pinck Gers posts big blind 20
+Dealt to MathisKcr [8c Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 600 to 620 and is all-in
+Pinck Gers calls 260 and is all-in
+*** FLOP *** [6d Tc Ts]
+*** TURN *** [6d Tc Ts][Jh]
+*** RIVER *** [6d Tc Ts Jh][2c]
+*** SHOW DOWN ***
+MathisKcr shows [8c Qh] (One pair : Tens)
+Pinck Gers shows [9c 9s] (Two pairs : Tens and 9)
+Pinck Gers collected 560 from main pot
+MathisKcr collected 340 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6d Tc Ts Jh 2c]
+Seat 2: MathisKcr (small blind) (button) showed [8c Qh] and won 340 with One pair : Tens
+Seat 3: Pinck Gers (big blind) showed [9c 9s] and won 560 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667144912486006785-3-1774733453 - Holdem no limit (10/20) - 2026/03/28 21:30:53 UTC
+Table: 'Expresso Nitro(1086654354)#0' 3-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (340)
+Seat 3: Pinck Gers (560)
+*** ANTE/BLINDS ***
+Pinck Gers posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Jc Qs]
+*** PRE-FLOP *** 
+Pinck Gers calls 10
+MathisKcr raises 320 to 340 and is all-in
+Pinck Gers folds
+MathisKcr collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: MathisKcr (big blind) won 360
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4667144912486006785-4-1774733461 - Holdem no limit (10/20) - 2026/03/28 21:31:01 UTC
+Table: 'Expresso Nitro(1086654354)#0' 3-max (real money) Seat #2 is the button
+Seat 2: MathisKcr (360)
+Seat 3: Pinck Gers (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Pinck Gers posts big blind 20
+Dealt to MathisKcr [Qd 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 340 to 360 and is all-in
+Pinck Gers calls 340
+*** FLOP *** [Kc Tc 8c]
+*** TURN *** [Kc Tc 8c][As]
+*** RIVER *** [Kc Tc 8c As][Td]
+*** SHOW DOWN ***
+MathisKcr shows [Qd 6d] (One pair : Tens)
+Pinck Gers shows [Ad Kd] (Two pairs : Aces and Kings)
+Pinck Gers collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Kc Tc 8c As Td]
+Seat 2: MathisKcr (small blind) (button) showed [Qd 6d] and lost with One pair : Tens
+Seat 3: Pinck Gers (big blind) showed [Ad Kd] and won 720 with Two pairs : Aces and Kings
+
+

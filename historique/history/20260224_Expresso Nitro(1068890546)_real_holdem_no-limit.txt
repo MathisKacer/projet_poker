@@ -1,0 +1,168 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4590849938073583617-1-1771947165 - Holdem no limit (10/20) - 2026/02/24 15:32:45 UTC
+Table: 'Expresso Nitro(1068890546)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pedroruiz99 (300)
+Seat 2: -Mimibelle (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+-Mimibelle posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [6h 6c]
+*** PRE-FLOP *** 
+Pedroruiz99 calls 20
+-Mimibelle folds
+MathisKcr raises 20 to 40
+Pedroruiz99 calls 20
+*** FLOP *** [8s 8d 9d]
+MathisKcr bets 260 and is all-in
+Pedroruiz99 folds
+MathisKcr collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [8s 8d 9d]
+Seat 3: MathisKcr (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4590849938073583617-2-1771947187 - Holdem no limit (10/20) - 2026/02/24 15:33:07 UTC
+Table: 'Expresso Nitro(1068890546)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pedroruiz99 (260)
+Seat 2: -Mimibelle (290)
+Seat 3: MathisKcr (350)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Pedroruiz99 posts big blind 20
+Dealt to MathisKcr [6d Th]
+*** PRE-FLOP *** 
+-Mimibelle folds
+MathisKcr raises 20 to 40
+Pedroruiz99 calls 20
+*** FLOP *** [As Qh 7s]
+MathisKcr checks
+Pedroruiz99 bets 28
+MathisKcr folds
+Pedroruiz99 collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [As Qh 7s]
+Seat 1: Pedroruiz99 (big blind) won 108
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4590849938073583617-3-1771947203 - Holdem no limit (10/20) - 2026/02/24 15:33:23 UTC
+Table: 'Expresso Nitro(1068890546)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pedroruiz99 (300)
+Seat 2: -Mimibelle (290)
+Seat 3: MathisKcr (310)
+*** ANTE/BLINDS ***
+Pedroruiz99 posts small blind 10
+-Mimibelle posts big blind 20
+Dealt to MathisKcr [Jc 2c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Pedroruiz99 folds
+-Mimibelle calls 20
+*** FLOP *** [7d Ks 2d]
+-Mimibelle checks
+MathisKcr bets 40
+-Mimibelle calls 40
+*** TURN *** [7d Ks 2d][6h]
+-Mimibelle checks
+MathisKcr checks
+*** RIVER *** [7d Ks 2d 6h][Kh]
+-Mimibelle checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Jc 2c] (Two pairs : Kings and 2)
+-Mimibelle shows [Ad 7c] (Two pairs : Kings and 7)
+-Mimibelle collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [7d Ks 2d 6h Kh]
+Seat 2: -Mimibelle (big blind) showed [Ad 7c] and won 170 with Two pairs : Kings and 7
+Seat 3: MathisKcr (button) showed [Jc 2c] and lost with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4590849938073583617-4-1771947244 - Holdem no limit (15/30) - 2026/02/24 15:34:04 UTC
+Table: 'Expresso Nitro(1068890546)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pedroruiz99 (290)
+Seat 2: -Mimibelle (380)
+Seat 3: MathisKcr (230)
+*** ANTE/BLINDS ***
+-Mimibelle posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ac 3c]
+*** PRE-FLOP *** 
+Pedroruiz99 raises 75 to 105
+-Mimibelle folds
+MathisKcr raises 125 to 230 and is all-in
+Pedroruiz99 calls 125
+*** FLOP *** [4h 8s 4c]
+*** TURN *** [4h 8s 4c][2h]
+*** RIVER *** [4h 8s 4c 2h][2d]
+*** SHOW DOWN ***
+Pedroruiz99 shows [Qs As] (Two pairs : 4 and 2)
+MathisKcr shows [Ac 3c] (Two pairs : 4 and 2)
+MathisKcr collected 238 from pot
+Pedroruiz99 collected 237 from pot
+*** SUMMARY ***
+Total pot 475 | No rake
+Board: [4h 8s 4c 2h 2d]
+Seat 1: Pedroruiz99 (button) showed [Qs As] and won 237 with Two pairs : 4 and 2
+Seat 3: MathisKcr (big blind) showed [Ac 3c] and won 238 with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4590849938073583617-5-1771947270 - Holdem no limit (15/30) - 2026/02/24 15:34:30 UTC
+Table: 'Expresso Nitro(1068890546)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pedroruiz99 (297)
+Seat 2: -Mimibelle (365)
+Seat 3: MathisKcr (238)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Pedroruiz99 posts big blind 30
+Dealt to MathisKcr [Jc Th]
+*** PRE-FLOP *** 
+-Mimibelle folds
+MathisKcr raises 30 to 60
+Pedroruiz99 calls 30
+*** FLOP *** [3c 6d 4d]
+MathisKcr checks
+Pedroruiz99 bets 42
+MathisKcr calls 42
+*** TURN *** [3c 6d 4d][Ac]
+MathisKcr checks
+Pedroruiz99 bets 71
+MathisKcr folds
+Pedroruiz99 collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Board: [3c 6d 4d Ac]
+Seat 1: Pedroruiz99 (big blind) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4590849938073583617-6-1771947294 - Holdem no limit (20/40) - 2026/02/24 15:34:54 UTC
+Table: 'Expresso Nitro(1068890546)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pedroruiz99 (399)
+Seat 2: -Mimibelle (365)
+Seat 3: MathisKcr (136)
+*** ANTE/BLINDS ***
+Pedroruiz99 posts small blind 20
+-Mimibelle posts big blind 40
+Dealt to MathisKcr [2d Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+Pedroruiz99 calls 60
+-Mimibelle raises 285 to 365 and is all-in
+MathisKcr calls 56 and is all-in
+Pedroruiz99 folds
+*** FLOP *** [Kc 7d 2h]
+*** TURN *** [Kc 7d 2h][Jd]
+*** RIVER *** [Kc 7d 2h Jd][Js]
+*** SHOW DOWN ***
+MathisKcr shows [2d Ah] (Two pairs : Jacks and 2)
+-Mimibelle shows [Ts Tc] (Two pairs : Jacks and Tens)
+-Mimibelle collected 581 from pot
+*** SUMMARY ***
+Total pot 581 | No rake
+Board: [Kc 7d 2h Jd Js]
+Seat 2: -Mimibelle (big blind) showed [Ts Tc] and won 581 with Two pairs : Jacks and Tens
+Seat 3: MathisKcr (button) showed [2d Ah] and lost with Two pairs : Jacks and 2
+
+

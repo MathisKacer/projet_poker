@@ -1,0 +1,154 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666147492230856705-1-1774700103 - Holdem no limit (10/20) - 2026/03/28 12:15:03 UTC
+Table: 'Expresso Nitro(1086422124)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: You---kimy (300)
+Seat 3: Betopss (300)
+*** ANTE/BLINDS ***
+You---kimy posts small blind 10
+Betopss posts big blind 20
+Dealt to MathisKcr [9d 7d]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+You---kimy folds
+Betopss raises 260 to 300 and is all-in
+MathisKcr folds
+Betopss collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Seat 3: Betopss (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666147492230856705-2-1774700119 - Holdem no limit (10/20) - 2026/03/28 12:15:19 UTC
+Table: 'Expresso Nitro(1086422124)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (260)
+Seat 2: You---kimy (290)
+Seat 3: Betopss (350)
+*** ANTE/BLINDS ***
+Betopss posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c 9d]
+*** PRE-FLOP *** 
+You---kimy folds
+Betopss calls 10
+MathisKcr checks
+*** FLOP *** [2c As Jh]
+Betopss checks
+MathisKcr checks
+*** TURN *** [2c As Jh][4c]
+Betopss checks
+MathisKcr checks
+*** RIVER *** [2c As Jh 4c][Ts]
+Betopss checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [7c 9d] (High card : Ace)
+Betopss shows [Kh 6s] (High card : Ace)
+Betopss collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [2c As Jh 4c Ts]
+Seat 1: MathisKcr (big blind) showed [7c 9d] and lost with High card : Ace
+Seat 3: Betopss (small blind) showed [Kh 6s] and won 40 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666147492230856705-3-1774700144 - Holdem no limit (10/20) - 2026/03/28 12:15:44 UTC
+Table: 'Expresso Nitro(1086422124)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (240)
+Seat 2: You---kimy (290)
+Seat 3: Betopss (370)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+You---kimy posts big blind 20
+Dealt to MathisKcr [4c Qc]
+*** PRE-FLOP *** 
+Betopss folds
+MathisKcr raises 220 to 240 and is all-in
+You---kimy folds
+MathisKcr collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 1: MathisKcr (small blind) won 260
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666147492230856705-4-1774700155 - Holdem no limit (10/20) - 2026/03/28 12:15:55 UTC
+Table: 'Expresso Nitro(1086422124)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (260)
+Seat 2: You---kimy (270)
+Seat 3: Betopss (370)
+*** ANTE/BLINDS ***
+You---kimy posts small blind 10
+Betopss posts big blind 20
+Dealt to MathisKcr [Kc Ts]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+You---kimy folds
+Betopss calls 20
+*** FLOP *** [As Qs Kh]
+Betopss bets 90
+MathisKcr raises 130 to 220 and is all-in
+Betopss calls 130
+*** TURN *** [As Qs Kh][Kd]
+*** RIVER *** [As Qs Kh Kd][Ah]
+*** SHOW DOWN ***
+Betopss shows [6c Qc] (Two pairs : Aces and Kings)
+MathisKcr shows [Kc Ts] (Full of Kings and Aces)
+MathisKcr collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [As Qs Kh Kd Ah]
+Seat 1: MathisKcr (button) showed [Kc Ts] and won 530 with Full of Kings and Aces
+Seat 3: Betopss (big blind) showed [6c Qc] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666147492230856705-5-1774700179 - Holdem no limit (15/30) - 2026/03/28 12:16:19 UTC
+Table: 'Expresso Nitro(1086422124)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (530)
+Seat 2: You---kimy (260)
+Seat 3: Betopss (110)
+*** ANTE/BLINDS ***
+Betopss posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [5h Ad]
+*** PRE-FLOP *** 
+You---kimy folds
+Betopss raises 80 to 110 and is all-in
+MathisKcr calls 80
+*** FLOP *** [As Kd Jc]
+*** TURN *** [As Kd Jc][Qc]
+*** RIVER *** [As Kd Jc Qc][4h]
+*** SHOW DOWN ***
+Betopss shows [Ks 8h] (One pair : Kings)
+MathisKcr shows [5h Ad] (One pair : Aces)
+MathisKcr collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [As Kd Jc Qc 4h]
+Seat 1: MathisKcr (big blind) showed [5h Ad] and won 220 with One pair : Aces
+Seat 3: Betopss (small blind) showed [Ks 8h] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666147492230856705-6-1774700195 - Holdem no limit (15/30) - 2026/03/28 12:16:35 UTC
+Table: 'Expresso Nitro(1086422124)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (640)
+Seat 2: You---kimy (260)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+You---kimy posts big blind 30
+Dealt to MathisKcr [7s Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 610 to 640 and is all-in
+You---kimy calls 230 and is all-in
+*** FLOP *** [Qs 8d Jh]
+*** TURN *** [Qs 8d Jh][3c]
+*** RIVER *** [Qs 8d Jh 3c][2c]
+*** SHOW DOWN ***
+You---kimy shows [9s Ks] (High card : King)
+MathisKcr shows [7s Ac] (High card : Ace)
+MathisKcr collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qs 8d Jh 3c 2c]
+Seat 1: MathisKcr (small blind) (button) showed [7s Ac] and won 900 with High card : Ace
+Seat 2: You---kimy (big blind) showed [9s Ks] and lost with High card : King
+
+

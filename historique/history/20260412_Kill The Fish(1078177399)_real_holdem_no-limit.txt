@@ -1,0 +1,911 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-11-1775983819 - Holdem no limit (25/100/200) - 2026/04/12 08:50:19 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #1 is the button
+Seat 1: Sioknar (21405, 0.45€ bounty)
+Seat 2: totopiba15 (19415, 0.45€ bounty)
+Seat 3: MathisKcr (20000, 0.45€ bounty)
+Seat 5: Adrian_rs7.2 (19760, 0.45€ bounty)
+Seat 6: roseyann66 (19575, 0.45€ bounty)
+*** ANTE/BLINDS ***
+totopiba15 posts ante 25
+MathisKcr posts ante 25
+Sioknar posts ante 25
+Adrian_rs7.2 posts ante 25
+roseyann66 posts ante 25
+totopiba15 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [6h Jd]
+*** PRE-FLOP *** 
+Adrian_rs7.2 folds
+roseyann66 folds
+Sioknar folds
+totopiba15 folds
+MathisKcr collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 3: MathisKcr (big blind) won 425
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-12-1775983829 - Holdem no limit (25/100/200) - 2026/04/12 08:50:29 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #2 is the button
+Seat 1: Sioknar (21380, 0.45€ bounty)
+Seat 2: totopiba15 (19290, 0.45€ bounty)
+Seat 3: MathisKcr (20200, 0.45€ bounty)
+Seat 5: Adrian_rs7.2 (19735, 0.45€ bounty)
+Seat 6: roseyann66 (19550, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+Adrian_rs7.2 posts ante 25
+Sioknar posts ante 25
+totopiba15 posts ante 25
+roseyann66 posts ante 25
+MathisKcr posts small blind 100
+Adrian_rs7.2 posts big blind 200
+Dealt to MathisKcr [4s Jh]
+*** PRE-FLOP *** 
+roseyann66 raises 300 to 500
+Sioknar folds
+totopiba15 folds
+MathisKcr folds
+Adrian_rs7.2 folds
+roseyann66 collected 925 from pot
+*** SUMMARY ***
+Total pot 925 | No rake
+Seat 6: roseyann66 won 925
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-13-1775983843 - Holdem no limit (25/100/200) - 2026/04/12 08:50:43 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #3 is the button
+Seat 1: Sioknar (21355, 0.45€ bounty)
+Seat 2: totopiba15 (19265, 0.45€ bounty)
+Seat 3: MathisKcr (20075, 0.45€ bounty)
+Seat 5: Adrian_rs7.2 (19510, 0.45€ bounty)
+Seat 6: roseyann66 (19950, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Adrian_rs7.2 posts ante 25
+roseyann66 posts ante 25
+Sioknar posts ante 25
+totopiba15 posts ante 25
+MathisKcr posts ante 25
+Adrian_rs7.2 posts small blind 100
+roseyann66 posts big blind 200
+Dealt to MathisKcr [6c 3h]
+*** PRE-FLOP *** 
+Sioknar folds
+totopiba15 folds
+MathisKcr folds
+Adrian_rs7.2 folds
+roseyann66 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 6: roseyann66 (big blind) won 425
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-14-1775983854 - Holdem no limit (25/100/200) - 2026/04/12 08:50:54 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #5 is the button
+Seat 1: Sioknar (21330, 0.45€ bounty)
+Seat 2: totopiba15 (19240, 0.45€ bounty)
+Seat 3: MathisKcr (20050, 0.45€ bounty)
+Seat 5: Adrian_rs7.2 (19385, 0.45€ bounty)
+Seat 6: roseyann66 (20150, 0.45€ bounty)
+*** ANTE/BLINDS ***
+roseyann66 posts ante 25
+Sioknar posts ante 25
+totopiba15 posts ante 25
+MathisKcr posts ante 25
+Adrian_rs7.2 posts ante 25
+roseyann66 posts small blind 100
+Sioknar posts big blind 200
+Dealt to MathisKcr [4c Jh]
+*** PRE-FLOP *** 
+totopiba15 raises 200 to 400
+MathisKcr folds
+Adrian_rs7.2 calls 400
+roseyann66 calls 300
+Sioknar folds
+*** FLOP *** [2h Kc 9s]
+roseyann66 checks
+totopiba15 bets 634
+Adrian_rs7.2 calls 634
+roseyann66 folds
+*** TURN *** [2h Kc 9s][2d]
+totopiba15 bets 1397
+Adrian_rs7.2 calls 1397
+*** RIVER *** [2h Kc 9s 2d][5s]
+totopiba15 bets 3632
+Adrian_rs7.2 calls 3632
+*** SHOW DOWN ***
+Adrian_rs7.2 shows [Ks Jc] (Two pairs : Kings and 2)
+totopiba15 shows [9d Kd] (Two pairs : Kings and 9)
+totopiba15 collected 12851 from pot
+*** SUMMARY ***
+Total pot 12851 | No rake
+Board: [2h Kc 9s 2d 5s]
+Seat 2: totopiba15 showed [9d Kd] and won 12851 with Two pairs : Kings and 9
+Seat 5: Adrian_rs7.2 (button) showed [Ks Jc] and lost with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-15-1775983922 - Holdem no limit (25/100/200) - 2026/04/12 08:52:02 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #6 is the button
+Seat 1: Sioknar (21105, 0.45€ bounty)
+Seat 2: totopiba15 (26003, 0.45€ bounty)
+Seat 3: MathisKcr (20025, 0.45€ bounty)
+Seat 4: sagessdulion (20000, 0.45€ bounty)
+Seat 5: Adrian_rs7.2 (13297, 0.45€ bounty)
+Seat 6: roseyann66 (19725, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Sioknar posts ante 25
+totopiba15 posts ante 25
+MathisKcr posts ante 25
+sagessdulion posts ante 25
+Adrian_rs7.2 posts ante 25
+roseyann66 posts ante 25
+Sioknar posts small blind 100
+totopiba15 posts big blind 200
+Dealt to MathisKcr [Tc 8d]
+*** PRE-FLOP *** 
+MathisKcr folds
+sagessdulion calls 200
+Adrian_rs7.2 folds
+roseyann66 folds
+Sioknar folds
+totopiba15 checks
+*** FLOP *** [5h Kc 9c]
+totopiba15 checks
+sagessdulion checks
+*** TURN *** [5h Kc 9c][7d]
+totopiba15 checks
+sagessdulion bets 650
+totopiba15 calls 650
+*** RIVER *** [5h Kc 9c 7d][8s]
+totopiba15 checks
+sagessdulion checks
+*** SHOW DOWN ***
+totopiba15 shows [8c 7h] (Two pairs : 8 and 7)
+sagessdulion shows [5d 9d] (Two pairs : 9 and 5)
+sagessdulion collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [5h Kc 9c 7d 8s]
+Seat 2: totopiba15 (big blind) showed [8c 7h] and lost with Two pairs : 8 and 7
+Seat 4: sagessdulion showed [5d 9d] and won 1950 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-16-1775983956 - Holdem no limit (25/100/200) - 2026/04/12 08:52:36 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #1 is the button
+Seat 1: Sioknar (20980, 0.45€ bounty)
+Seat 2: totopiba15 (25128, 0.45€ bounty)
+Seat 3: MathisKcr (20000, 0.45€ bounty)
+Seat 4: sagessdulion (21075, 0.45€ bounty)
+Seat 5: Adrian_rs7.2 (13272, 0.45€ bounty)
+Seat 6: roseyann66 (19700, 0.45€ bounty)
+*** ANTE/BLINDS ***
+totopiba15 posts ante 25
+MathisKcr posts ante 25
+Sioknar posts ante 25
+sagessdulion posts ante 25
+Adrian_rs7.2 posts ante 25
+roseyann66 posts ante 25
+totopiba15 posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [Kh 8s]
+*** PRE-FLOP *** 
+sagessdulion raises 300 to 500
+Adrian_rs7.2 folds
+roseyann66 folds
+Sioknar folds
+totopiba15 folds
+MathisKcr calls 300
+*** FLOP *** [9c 9s 9h]
+MathisKcr checks
+sagessdulion bets 813
+MathisKcr calls 813
+*** TURN *** [9c 9s 9h][Th]
+MathisKcr checks
+sagessdulion bets 1007
+MathisKcr folds
+sagessdulion collected 3883 from pot
+*** SUMMARY ***
+Total pot 3883 | No rake
+Board: [9c 9s 9h Th]
+Seat 4: sagessdulion won 3883
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-17-1775983999 - Holdem no limit (25/100/200) - 2026/04/12 08:53:19 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #2 is the button
+Seat 1: Sioknar (20955, 0.45€ bounty)
+Seat 2: totopiba15 (25003, 0.45€ bounty)
+Seat 3: MathisKcr (18662, 0.45€ bounty)
+Seat 4: sagessdulion (22613, 0.45€ bounty)
+Seat 6: roseyann66 (19675, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+sagessdulion posts ante 25
+Sioknar posts ante 25
+totopiba15 posts ante 25
+roseyann66 posts ante 25
+MathisKcr posts small blind 100
+sagessdulion posts big blind 200
+Dealt to MathisKcr [Ks 9d]
+*** PRE-FLOP *** 
+roseyann66 folds
+Sioknar folds
+totopiba15 folds
+MathisKcr raises 200 to 400
+sagessdulion calls 200
+*** FLOP *** [7s Tc Jc]
+MathisKcr checks
+sagessdulion checks
+*** TURN *** [7s Tc Jc][8s]
+MathisKcr bets 324
+sagessdulion raises 21864 to 22188 and is all-in
+MathisKcr calls 17913 and is all-in
+*** RIVER *** [7s Tc Jc 8s][6d]
+*** SHOW DOWN ***
+MathisKcr shows [Ks 9d] (Straight Jack high)
+sagessdulion shows [5c 9c] (Straight Jack high)
+sagessdulion collected 22651 from side pot 1
+MathisKcr collected 18699 from main pot
+*** SUMMARY ***
+Total pot 41350 | No rake
+Board: [7s Tc Jc 8s 6d]
+Seat 3: MathisKcr (small blind) showed [Ks 9d] and won 18699 with Straight Jack high
+Seat 4: sagessdulion (big blind) showed [5c 9c] and won 22651 with Straight Jack high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-18-1775984050 - Holdem no limit (25/100/200) - 2026/04/12 08:54:10 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #3 is the button
+Seat 1: Sioknar (20930, 0.45€ bounty)
+Seat 2: totopiba15 (24978, 0.45€ bounty)
+Seat 3: MathisKcr (18699, 0.45€ bounty)
+Seat 4: sagessdulion (22651, 0.45€ bounty)
+Seat 5: monki_D_lufy (20000, 0.45€ bounty)
+Seat 6: roseyann66 (19650, 0.45€ bounty)
+*** ANTE/BLINDS ***
+sagessdulion posts ante 25
+monki_D_lufy posts ante 25
+Sioknar posts ante 25
+totopiba15 posts ante 25
+MathisKcr posts ante 25
+roseyann66 posts ante 25
+sagessdulion posts small blind 100
+monki_D_lufy posts big blind 200
+Dealt to MathisKcr [Kd Ac]
+*** PRE-FLOP *** 
+roseyann66 folds
+Sioknar folds
+totopiba15 raises 200 to 400
+MathisKcr raises 800 to 1200
+sagessdulion folds
+monki_D_lufy folds
+totopiba15 calls 800
+*** FLOP *** [2s 9c 8h]
+totopiba15 checks
+MathisKcr bets 998
+totopiba15 folds
+MathisKcr collected 3848 from pot
+*** SUMMARY ***
+Total pot 3848 | No rake
+Board: [2s 9c 8h]
+Seat 3: MathisKcr (button) won 3848
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-19-1775984461 - Holdem no limit (25/100/200) - 2026/04/12 09:01:01 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #4 is the button
+Seat 1: Sioknar (20905, 0.45€ bounty)
+Seat 2: totopiba15 (23753, 0.45€ bounty)
+Seat 3: MathisKcr (20324, 0.45€ bounty)
+Seat 4: sagessdulion (22526, 0.45€ bounty)
+Seat 5: monki_D_lufy (19775, 0.45€ bounty)
+Seat 6: roseyann66 (19625, 0.45€ bounty)
+*** ANTE/BLINDS ***
+monki_D_lufy posts ante 25
+roseyann66 posts ante 25
+Sioknar posts ante 25
+totopiba15 posts ante 25
+MathisKcr posts ante 25
+sagessdulion posts ante 25
+monki_D_lufy posts small blind 100
+roseyann66 posts big blind 200
+Dealt to MathisKcr [2s 9s]
+*** PRE-FLOP *** 
+Sioknar folds
+totopiba15 folds
+MathisKcr folds
+sagessdulion raises 200 to 400
+monki_D_lufy folds
+roseyann66 calls 200
+*** FLOP *** [Tc 5h Js]
+roseyann66 checks
+sagessdulion checks
+*** TURN *** [Tc 5h Js][Ac]
+roseyann66 checks
+sagessdulion bets 200
+roseyann66 calls 200
+*** RIVER *** [Tc 5h Js Ac][6c]
+roseyann66 checks
+sagessdulion checks
+*** SHOW DOWN ***
+sagessdulion shows [Kc 8h] (High card : Ace)
+roseyann66 shows [9d Ts] (One pair : Tens)
+roseyann66 collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Board: [Tc 5h Js Ac 6c]
+Seat 4: sagessdulion (button) showed [Kc 8h] and lost with High card : Ace
+Seat 6: roseyann66 (big blind) showed [9d Ts] and won 1450 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-20-1775984522 - Holdem no limit (25/100/200) - 2026/04/12 09:02:02 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #5 is the button
+Seat 1: Sioknar (20880, 0.45€ bounty)
+Seat 3: MathisKcr (20299, 0.45€ bounty)
+Seat 4: sagessdulion (21901, 0.45€ bounty)
+Seat 5: monki_D_lufy (19650, 0.45€ bounty)
+Seat 6: roseyann66 (20450, 0.45€ bounty)
+*** ANTE/BLINDS ***
+roseyann66 posts ante 25
+Sioknar posts ante 25
+MathisKcr posts ante 25
+sagessdulion posts ante 25
+monki_D_lufy posts ante 25
+roseyann66 posts small blind 100
+Sioknar posts big blind 200
+Dealt to MathisKcr [Ac 4s]
+*** PRE-FLOP *** 
+MathisKcr raises 200 to 400
+sagessdulion folds
+monki_D_lufy folds
+roseyann66 folds
+Sioknar calls 200
+*** FLOP *** [8d 7d 7c]
+Sioknar checks
+MathisKcr checks
+*** TURN *** [8d 7d 7c][Ks]
+Sioknar checks
+MathisKcr checks
+*** RIVER *** [8d 7d 7c Ks][3h]
+Sioknar checks
+MathisKcr bets 513
+Sioknar folds
+MathisKcr collected 1538 from pot
+*** SUMMARY ***
+Total pot 1538 | No rake
+Board: [8d 7d 7c Ks 3h]
+Seat 3: MathisKcr won 1538
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-21-1775984581 - Holdem no limit (25/100/200) - 2026/04/12 09:03:01 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #6 is the button
+Seat 1: Sioknar (20455, 0.45€ bounty)
+Seat 3: MathisKcr (20899, 0.45€ bounty)
+Seat 4: sagessdulion (21876, 0.45€ bounty)
+Seat 5: monki_D_lufy (19625, 0.45€ bounty)
+Seat 6: roseyann66 (20325, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Sioknar posts ante 25
+MathisKcr posts ante 25
+sagessdulion posts ante 25
+monki_D_lufy posts ante 25
+roseyann66 posts ante 25
+Sioknar posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [9s Jd]
+*** PRE-FLOP *** 
+sagessdulion raises 200 to 400
+monki_D_lufy folds
+roseyann66 folds
+Sioknar raises 1125 to 1525
+MathisKcr folds
+sagessdulion calls 1125
+*** FLOP *** [Kd As Qs]
+Sioknar bets 2194
+sagessdulion folds
+Sioknar collected 5569 from pot
+*** SUMMARY ***
+Total pot 5569 | No rake
+Board: [Kd As Qs]
+Seat 1: Sioknar (small blind) won 5569
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-22-1775984626 - Holdem no limit (25/100/200) - 2026/04/12 09:03:46 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #1 is the button
+Seat 1: Sioknar (22280, 0.45€ bounty)
+Seat 3: MathisKcr (20674, 0.45€ bounty)
+Seat 4: sagessdulion (20326, 0.45€ bounty)
+Seat 5: monki_D_lufy (19600, 0.45€ bounty)
+Seat 6: roseyann66 (20300, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+sagessdulion posts ante 25
+Sioknar posts ante 25
+monki_D_lufy posts ante 25
+roseyann66 posts ante 25
+MathisKcr posts small blind 100
+sagessdulion posts big blind 200
+Dealt to MathisKcr [Kc Jc]
+*** PRE-FLOP *** 
+monki_D_lufy folds
+roseyann66 folds
+Sioknar folds
+MathisKcr raises 200 to 400
+sagessdulion folds
+MathisKcr collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | No rake
+Seat 3: MathisKcr (small blind) won 725
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-23-1775984643 - Holdem no limit (25/100/200) - 2026/04/12 09:04:03 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #3 is the button
+Seat 1: Sioknar (22255, 0.45€ bounty)
+Seat 3: MathisKcr (20974, 0.45€ bounty)
+Seat 4: sagessdulion (20101, 0.45€ bounty)
+Seat 5: monki_D_lufy (19575, 0.45€ bounty)
+Seat 6: roseyann66 (20275, 0.45€ bounty)
+*** ANTE/BLINDS ***
+sagessdulion posts ante 25
+monki_D_lufy posts ante 25
+Sioknar posts ante 25
+MathisKcr posts ante 25
+roseyann66 posts ante 25
+sagessdulion posts small blind 100
+monki_D_lufy posts big blind 200
+Dealt to MathisKcr [3d 9s]
+*** PRE-FLOP *** 
+roseyann66 folds
+Sioknar folds
+MathisKcr folds
+sagessdulion folds
+monki_D_lufy collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 5: monki_D_lufy (big blind) won 425
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-24-1775984671 - Holdem no limit (25/100/200) - 2026/04/12 09:04:31 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #4 is the button
+Seat 1: Sioknar (22230, 0.45€ bounty)
+Seat 3: MathisKcr (20949, 0.45€ bounty)
+Seat 4: sagessdulion (19976, 0.45€ bounty)
+Seat 5: monki_D_lufy (19775, 0.45€ bounty)
+Seat 6: roseyann66 (20250, 0.45€ bounty)
+*** ANTE/BLINDS ***
+monki_D_lufy posts ante 25
+roseyann66 posts ante 25
+Sioknar posts ante 25
+MathisKcr posts ante 25
+sagessdulion posts ante 25
+monki_D_lufy posts small blind 100
+roseyann66 posts big blind 200
+Dealt to MathisKcr [9d Ad]
+*** PRE-FLOP *** 
+Sioknar raises 300 to 500
+MathisKcr calls 500
+sagessdulion folds
+monki_D_lufy folds
+roseyann66 folds
+*** FLOP *** [9s 7h 2h]
+Sioknar bets 499
+MathisKcr calls 499
+*** TURN *** [9s 7h 2h][Kd]
+Sioknar bets 848
+MathisKcr calls 848
+*** RIVER *** [9s 7h 2h Kd][5h]
+Sioknar bets 2677
+MathisKcr calls 2677
+*** SHOW DOWN ***
+MathisKcr shows [9d Ad] (One pair : 9)
+Sioknar shows [Qh Th] (Flush Queen high)
+Sioknar collected 9473 from pot
+*** SUMMARY ***
+Total pot 9473 | No rake
+Board: [9s 7h 2h Kd 5h]
+Seat 1: Sioknar showed [Qh Th] and won 9473 with Flush Queen high
+Seat 3: MathisKcr showed [9d Ad] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343107-25-1775984727 - Holdem no limit (25/100/200) - 2026/04/12 09:05:27 UTC
+Table: 'Kill The Fish(1078177399)#002' 6-max (real money) Seat #5 is the button
+Seat 1: Sioknar (27154, 0.45€ bounty)
+Seat 3: MathisKcr (16400, 0.45€ bounty)
+Seat 4: sagessdulion (19951, 0.45€ bounty)
+Seat 5: monki_D_lufy (19650, 0.45€ bounty)
+Seat 6: roseyann66 (20025, 0.45€ bounty)
+*** ANTE/BLINDS ***
+roseyann66 posts ante 25
+Sioknar posts ante 25
+MathisKcr posts ante 25
+sagessdulion posts ante 25
+monki_D_lufy posts ante 25
+roseyann66 posts small blind 100
+Sioknar posts big blind 200
+Dealt to MathisKcr [3h 9d]
+*** PRE-FLOP *** 
+MathisKcr folds
+sagessdulion folds
+monki_D_lufy raises 300 to 500
+roseyann66 raises 1000 to 1500
+Sioknar folds
+monki_D_lufy calls 1000
+*** FLOP *** [8c Qc Qd]
+roseyann66 bets 1663
+monki_D_lufy calls 1663
+*** TURN *** [8c Qc Qd][2s]
+roseyann66 checks
+monki_D_lufy checks
+*** RIVER *** [8c Qc Qd 2s][Jc]
+roseyann66 checks
+monki_D_lufy checks
+*** SHOW DOWN ***
+roseyann66 shows [Ad Kh] (One pair : Queens)
+monki_D_lufy shows [Ts Td] (Two pairs : Queens and Tens)
+monki_D_lufy collected 6651 from pot
+*** SUMMARY ***
+Total pot 6651 | No rake
+Board: [8c Qc Qd 2s Jc]
+Seat 5: monki_D_lufy (button) showed [Ts Td] and won 6651 with Two pairs : Queens and Tens
+Seat 6: roseyann66 (small blind) showed [Ad Kh] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343116-1-1775984802 - Holdem no limit (25/100/200) - 2026/04/12 09:06:42 UTC
+Table: 'Kill The Fish(1078177399)#011' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (16375, 0.45€ bounty)
+Seat 3: SEBUS77 (20000, 0.45€ bounty)
+Seat 6: LauQQa (19950, 0.45€ bounty)
+*** ANTE/BLINDS ***
+SEBUS77 posts ante 25
+LauQQa posts ante 25
+MathisKcr posts ante 25
+SEBUS77 posts small blind 100
+LauQQa posts big blind 200
+Dealt to MathisKcr [7s 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+SEBUS77 raises 400 to 600
+LauQQa raises 400 to 1000
+SEBUS77 calls 400
+*** FLOP *** [3d 5s Ts]
+SEBUS77 bets 1349
+LauQQa calls 1349
+*** TURN *** [3d 5s Ts][8h]
+SEBUS77 bets 1671
+LauQQa calls 1671
+*** RIVER *** [3d 5s Ts 8h][Qc]
+SEBUS77 bets 2840
+LauQQa raises 13065 to 15905 and is all-in
+SEBUS77 calls 13065
+*** SHOW DOWN ***
+LauQQa shows [Ah Jc] (High card : Ace)
+SEBUS77 shows [Qh Jh] (One pair : Queens)
+SEBUS77 collected 39925 from pot
+*** SUMMARY ***
+Total pot 39925 | No rake
+Board: [3d 5s Ts 8h Qc]
+Seat 3: SEBUS77 (small blind) showed [Qh Jh] and won 39925 with One pair : Queens
+Seat 6: LauQQa (big blind) showed [Ah Jc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343116-2-1775984888 - Holdem no limit (25/100/200) - 2026/04/12 09:08:08 UTC
+Table: 'Kill The Fish(1078177399)#011' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (16350, 0.45€ bounty)
+Seat 2: MetaClutch (20000, 0.45€ bounty)
+Seat 3: SEBUS77 (39975, 0.67€ bounty)
+Seat 4: JouissPieds (38549, 0.67€ bounty)
+Seat 5: MilleSaboard (20750, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+MetaClutch posts ante 25
+SEBUS77 posts ante 25
+MathisKcr posts big blind 200
+Dealt to MathisKcr [Qh Tc]
+*** PRE-FLOP *** 
+MetaClutch raises 300 to 500
+SEBUS77 folds
+MathisKcr calls 300
+*** FLOP *** [8c 9d 2d]
+MathisKcr checks
+MetaClutch checks
+*** TURN *** [8c 9d 2d][Qs]
+MathisKcr bets 376
+MetaClutch calls 376
+*** RIVER *** [8c 9d 2d Qs][6h]
+MathisKcr bets 1188
+MetaClutch folds
+MathisKcr collected 3015 from pot
+*** SUMMARY ***
+Total pot 3015 | No rake
+Board: [8c 9d 2d Qs 6h]
+Seat 1: MathisKcr (big blind) won 3015
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343116-3-1775984924 - Holdem no limit (25/100/200) - 2026/04/12 09:08:44 UTC
+Table: 'Kill The Fish(1078177399)#011' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (17276, 0.45€ bounty)
+Seat 2: MetaClutch (19099, 0.45€ bounty)
+Seat 3: SEBUS77 (39950, 0.67€ bounty)
+Seat 4: JouissPieds (38549, 0.67€ bounty)
+Seat 5: MilleSaboard (20750, 0.45€ bounty)
+Seat 6: Kidney.Poker (20000, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+MetaClutch posts ante 25
+SEBUS77 posts ante 25
+JouissPieds posts ante 25
+MilleSaboard posts ante 25
+MathisKcr posts small blind 100
+MetaClutch posts big blind 200
+Dealt to MathisKcr [4c 2c]
+*** PRE-FLOP *** 
+SEBUS77 raises 400 to 600
+JouissPieds folds
+MilleSaboard raises 1500 to 2100
+MathisKcr folds
+MetaClutch calls 1900
+SEBUS77 calls 1500
+*** FLOP *** [Ks 6d Ac]
+MetaClutch checks
+SEBUS77 bets 2284
+MilleSaboard calls 2284
+MetaClutch folds
+*** TURN *** [Ks 6d Ac][3c]
+SEBUS77 bets 3883
+MilleSaboard folds
+SEBUS77 collected 14976 from pot
+*** SUMMARY ***
+Total pot 14976 | No rake
+Board: [Ks 6d Ac 3c]
+Seat 3: SEBUS77 won 14976
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343116-4-1775984983 - Holdem no limit (25/100/200) - 2026/04/12 09:09:43 UTC
+Table: 'Kill The Fish(1078177399)#011' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (17151, 0.45€ bounty)
+Seat 2: MetaClutch (16974, 0.45€ bounty)
+Seat 3: SEBUS77 (46634, 0.67€ bounty)
+Seat 4: JouissPieds (38524, 0.67€ bounty)
+Seat 5: MilleSaboard (16341, 0.45€ bounty)
+Seat 6: Kidney.Poker (20000, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MetaClutch posts ante 25
+SEBUS77 posts ante 25
+MathisKcr posts ante 25
+JouissPieds posts ante 25
+MilleSaboard posts ante 25
+Kidney.Poker posts ante 25
+MetaClutch posts small blind 100
+SEBUS77 posts big blind 200
+Dealt to MathisKcr [9s 8d]
+*** PRE-FLOP *** 
+JouissPieds folds
+MilleSaboard folds
+Kidney.Poker folds
+MathisKcr folds
+MetaClutch calls 100
+SEBUS77 raises 300 to 500
+MetaClutch calls 300
+*** FLOP *** [2c Kh 7s]
+MetaClutch bets 575
+SEBUS77 calls 575
+*** TURN *** [2c Kh 7s][Th]
+MetaClutch bets 1600
+SEBUS77 calls 1600
+*** RIVER *** [2c Kh 7s Th][Ad]
+MetaClutch bets 1925
+SEBUS77 calls 1925
+*** SHOW DOWN ***
+SEBUS77 shows [Jd Js] (One pair : Jacks)
+MetaClutch shows [Jh Kc] (One pair : Kings)
+MetaClutch collected 9350 from pot
+*** SUMMARY ***
+Total pot 9350 | No rake
+Board: [2c Kh 7s Th Ad]
+Seat 2: MetaClutch (small blind) showed [Jh Kc] and won 9350 with One pair : Kings
+Seat 3: SEBUS77 (big blind) showed [Jd Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343116-5-1775985069 - Holdem no limit (25/100/200) - 2026/04/12 09:11:09 UTC
+Table: 'Kill The Fish(1078177399)#011' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (17126, 0.45€ bounty)
+Seat 2: MetaClutch (21699, 0.45€ bounty)
+Seat 3: SEBUS77 (42009, 0.67€ bounty)
+Seat 4: JouissPieds (38499, 0.67€ bounty)
+Seat 5: MilleSaboard (16316, 0.45€ bounty)
+Seat 6: Kidney.Poker (19975, 0.45€ bounty)
+*** ANTE/BLINDS ***
+SEBUS77 posts ante 25
+JouissPieds posts ante 25
+MathisKcr posts ante 25
+MetaClutch posts ante 25
+MilleSaboard posts ante 25
+Kidney.Poker posts ante 25
+SEBUS77 posts small blind 100
+JouissPieds posts big blind 200
+Dealt to MathisKcr [2d Qh]
+*** PRE-FLOP *** 
+MilleSaboard folds
+Kidney.Poker folds
+MathisKcr folds
+MetaClutch raises 300 to 500
+SEBUS77 calls 400
+JouissPieds folds
+*** FLOP *** [Jh 9h 2h]
+SEBUS77 checks
+MetaClutch checks
+*** TURN *** [Jh 9h 2h][9d]
+SEBUS77 checks
+MetaClutch checks
+*** RIVER *** [Jh 9h 2h 9d][8c]
+SEBUS77 checks
+MetaClutch checks
+*** SHOW DOWN ***
+SEBUS77 shows [7c Kd] (One pair : 9)
+MetaClutch shows [Kc Ac] (One pair : 9)
+MetaClutch collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [Jh 9h 2h 9d 8c]
+Seat 2: MetaClutch (button) showed [Kc Ac] and won 1350 with One pair : 9
+Seat 3: SEBUS77 (small blind) showed [7c Kd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343116-6-1775985144 - Holdem no limit (25/100/200) - 2026/04/12 09:12:24 UTC
+Table: 'Kill The Fish(1078177399)#011' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (17101, 0.45€ bounty)
+Seat 2: MetaClutch (22524, 0.45€ bounty)
+Seat 3: SEBUS77 (41484, 0.67€ bounty)
+Seat 4: JouissPieds (38274, 0.67€ bounty)
+Seat 5: MilleSaboard (16291, 0.45€ bounty)
+Seat 6: Kidney.Poker (19950, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JouissPieds posts ante 25
+MilleSaboard posts ante 25
+MathisKcr posts ante 25
+MetaClutch posts ante 25
+SEBUS77 posts ante 25
+Kidney.Poker posts ante 25
+JouissPieds posts small blind 100
+MilleSaboard posts big blind 200
+Dealt to MathisKcr [6c 8h]
+*** PRE-FLOP *** 
+Kidney.Poker folds
+MathisKcr folds
+MetaClutch folds
+SEBUS77 folds
+JouissPieds raises 400 to 600
+MilleSaboard calls 400
+*** FLOP *** [2h Tc 4c]
+JouissPieds bets 446
+MilleSaboard calls 446
+*** TURN *** [2h Tc 4c][9c]
+JouissPieds checks
+MilleSaboard bets 1121
+JouissPieds folds
+MilleSaboard collected 3363 from pot
+*** SUMMARY ***
+Total pot 3363 | No rake
+Board: [2h Tc 4c 9c]
+Seat 5: MilleSaboard (big blind) won 3363
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343116-7-1775985209 - Holdem no limit (25/100/200) - 2026/04/12 09:13:29 UTC
+Table: 'Kill The Fish(1078177399)#011' 6-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (17076, 0.45€ bounty)
+Seat 2: MetaClutch (22499, 0.45€ bounty)
+Seat 3: SEBUS77 (41459, 0.67€ bounty)
+Seat 4: JouissPieds (37203, 0.67€ bounty)
+Seat 5: MilleSaboard (17462, 0.45€ bounty)
+Seat 6: Kidney.Poker (19925, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MilleSaboard posts ante 25
+Kidney.Poker posts ante 25
+MathisKcr posts ante 25
+MetaClutch posts ante 25
+SEBUS77 posts ante 25
+JouissPieds posts ante 25
+MilleSaboard posts small blind 100
+Kidney.Poker posts big blind 200
+Dealt to MathisKcr [7s Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 200 to 400
+MetaClutch calls 400
+SEBUS77 folds
+JouissPieds folds
+MilleSaboard folds
+Kidney.Poker calls 200
+*** FLOP *** [7c Ac Jd]
+Kidney.Poker checks
+MathisKcr checks
+MetaClutch bets 725
+Kidney.Poker folds
+MathisKcr folds
+MetaClutch collected 2175 from pot
+*** SUMMARY ***
+Total pot 2175 | No rake
+Board: [7c Ac Jd]
+Seat 2: MetaClutch won 2175
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343116-8-1775985273 - Holdem no limit (25/100/200) - 2026/04/12 09:14:33 UTC
+Table: 'Kill The Fish(1078177399)#011' 6-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (16651, 0.45€ bounty)
+Seat 2: MetaClutch (23524, 0.45€ bounty)
+Seat 3: SEBUS77 (41434, 0.67€ bounty)
+Seat 4: JouissPieds (37178, 0.67€ bounty)
+Seat 5: MilleSaboard (17337, 0.45€ bounty)
+Seat 6: Kidney.Poker (19500, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Kidney.Poker posts ante 25
+MathisKcr posts ante 25
+MetaClutch posts ante 25
+SEBUS77 posts ante 25
+JouissPieds posts ante 25
+MilleSaboard posts ante 25
+Kidney.Poker posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [Qc 7d]
+*** PRE-FLOP *** 
+MetaClutch folds
+SEBUS77 raises 400 to 600
+JouissPieds folds
+MilleSaboard folds
+Kidney.Poker folds
+MathisKcr calls 400
+*** FLOP *** [Ac 5h 2d]
+MathisKcr checks
+SEBUS77 bets 943
+MathisKcr folds
+SEBUS77 collected 2393 from pot
+*** SUMMARY ***
+Total pot 2393 | No rake
+Board: [Ac 5h 2d]
+Seat 3: SEBUS77 won 2393
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4630736667991343116-9-1775985329 - Holdem no limit (25/100/200) - 2026/04/12 09:15:29 UTC
+Table: 'Kill The Fish(1078177399)#011' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (16026, 0.45€ bounty)
+Seat 2: MetaClutch (23499, 0.45€ bounty)
+Seat 3: SEBUS77 (42259, 0.67€ bounty)
+Seat 4: JouissPieds (37153, 0.67€ bounty)
+Seat 5: MilleSaboard (17312, 0.45€ bounty)
+Seat 6: Kidney.Poker (19375, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+MetaClutch posts ante 25
+SEBUS77 posts ante 25
+JouissPieds posts ante 25
+MilleSaboard posts ante 25
+Kidney.Poker posts ante 25
+MathisKcr posts small blind 100
+MetaClutch posts big blind 200
+Dealt to MathisKcr [Js 8d]
+*** PRE-FLOP *** 
+SEBUS77 folds
+JouissPieds folds
+MilleSaboard raises 200 to 400
+Kidney.Poker folds
+MathisKcr calls 300
+MetaClutch calls 200
+*** FLOP *** [5d 2h 7h]
+MathisKcr bets 473
+MetaClutch calls 473
+MilleSaboard calls 473
+*** TURN *** [5d 2h 7h][9s]
+MathisKcr bets 1385
+MetaClutch calls 1385
+MilleSaboard folds
+*** RIVER *** [5d 2h 7h 9s][Jc]
+MathisKcr bets 3600
+MetaClutch raises 17616 to 21216 and is all-in
+MathisKcr calls 10143 and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [Js 8d] (One pair : Jacks)
+MetaClutch shows [6s 8h] (Straight 9 high)
+MetaClutch collected 40498 from pot
+*** SUMMARY ***
+Total pot 40498 | No rake
+Board: [5d 2h 7h 9s Jc]
+Seat 1: MathisKcr (small blind) showed [Js 8d] and lost with One pair : Jacks
+Seat 2: MetaClutch (big blind) showed [6s 8h] and won 40498 with Straight 9 high
+
+

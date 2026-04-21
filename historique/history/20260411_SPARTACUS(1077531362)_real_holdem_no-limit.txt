@@ -1,0 +1,5445 @@
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-1-1775928609 - Holdem no limit (25/100/200) - 2026/04/11 17:30:09 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: KAASPAALEEK (20000, 0.90€ bounty)
+Seat 2: MathisKcr (20000, 0.90€ bounty)
+Seat 3: AAricoMagiKK (20000, 0.90€ bounty)
+Seat 4: MD_Kaiser639 (20000, 0.90€ bounty)
+Seat 5: LindOchin0i (20000, 0.90€ bounty)
+Seat 6: Matazer (20000, 0.90€ bounty)
+Seat 7: APS1977 (20000, 0.90€ bounty)
+Seat 8: KkOonKkOon (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AAricoMagiKK posts ante 25
+MD_Kaiser639 posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+LindOchin0i posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+AAricoMagiKK posts small blind 100
+MD_Kaiser639 posts big blind 200
+Dealt to MathisKcr [7s 9c]
+*** PRE-FLOP *** 
+LindOchin0i folds
+Matazer raises 300 to 500
+APS1977 folds
+KkOonKkOon folds
+KAASPAALEEK folds
+MathisKcr folds
+AAricoMagiKK calls 400
+MD_Kaiser639 raises 1000 to 1500
+Matazer calls 1000
+AAricoMagiKK calls 1000
+*** FLOP *** [Qs 4d Jc]
+AAricoMagiKK checks
+MD_Kaiser639 bets 1645
+Matazer calls 1645
+AAricoMagiKK folds
+*** TURN *** [Qs 4d Jc][6c]
+MD_Kaiser639 checks
+Matazer checks
+*** RIVER *** [Qs 4d Jc 6c][Qc]
+MD_Kaiser639 bets 2797
+Matazer calls 2797
+*** SHOW DOWN ***
+MD_Kaiser639 shows [5d 5c] (Two pairs : Queens and 5)
+Matazer shows [Js Ah] (Two pairs : Queens and Jacks)
+Matazer collected 13584 from pot
+*** SUMMARY ***
+Total pot 13584 | No rake
+Board: [Qs 4d Jc 6c Qc]
+Seat 4: MD_Kaiser639 (big blind) showed [5d 5c] and lost with Two pairs : Queens and 5
+Seat 6: Matazer showed [Js Ah] and won 13584 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-2-1775928667 - Holdem no limit (25/100/200) - 2026/04/11 17:31:07 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: KAASPAALEEK (19975, 0.90€ bounty)
+Seat 2: MathisKcr (19975, 0.90€ bounty)
+Seat 3: AAricoMagiKK (18475, 0.90€ bounty)
+Seat 4: MD_Kaiser639 (14033, 0.90€ bounty)
+Seat 5: LindOchin0i (19975, 0.90€ bounty)
+Seat 6: Matazer (27617, 0.90€ bounty)
+Seat 7: APS1977 (19975, 0.90€ bounty)
+Seat 8: KkOonKkOon (19975, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MD_Kaiser639 posts ante 25
+LindOchin0i posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+MD_Kaiser639 posts small blind 100
+LindOchin0i posts big blind 200
+Dealt to MathisKcr [8d 2s]
+*** PRE-FLOP *** 
+Matazer folds
+APS1977 raises 300 to 500
+KkOonKkOon folds
+KAASPAALEEK folds
+MathisKcr folds
+AAricoMagiKK folds
+MD_Kaiser639 calls 400
+LindOchin0i folds
+*** FLOP *** [Tc 4c 7d]
+MD_Kaiser639 checks
+APS1977 bets 910
+MD_Kaiser639 calls 910
+*** TURN *** [Tc 4c 7d][Qc]
+MD_Kaiser639 checks
+APS1977 checks
+*** RIVER *** [Tc 4c 7d Qc][Jh]
+MD_Kaiser639 bets 2093
+APS1977 calls 2093
+*** SHOW DOWN ***
+MD_Kaiser639 shows [3h 7h] (One pair : 7)
+APS1977 shows [Td Ad] (One pair : Tens)
+APS1977 collected 7406 from pot
+*** SUMMARY ***
+Total pot 7406 | No rake
+Board: [Tc 4c 7d Qc Jh]
+Seat 4: MD_Kaiser639 (small blind) showed [3h 7h] and lost with One pair : 7
+Seat 7: APS1977 showed [Td Ad] and won 7406 with One pair : Tens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-3-1775928737 - Holdem no limit (25/100/200) - 2026/04/11 17:32:17 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: KAASPAALEEK (19950, 0.90€ bounty)
+Seat 2: MathisKcr (19950, 0.90€ bounty)
+Seat 3: AAricoMagiKK (18450, 0.90€ bounty)
+Seat 4: MD_Kaiser639 (10505, 0.90€ bounty)
+Seat 5: LindOchin0i (19750, 0.90€ bounty)
+Seat 6: Matazer (27592, 0.90€ bounty)
+Seat 7: APS1977 (23853, 0.90€ bounty)
+Seat 8: KkOonKkOon (19950, 0.90€ bounty)
+*** ANTE/BLINDS ***
+LindOchin0i posts ante 25
+Matazer posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+MD_Kaiser639 posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+LindOchin0i posts small blind 100
+Matazer posts big blind 200
+Dealt to MathisKcr [7d Kh]
+*** PRE-FLOP *** 
+APS1977 folds
+KkOonKkOon folds
+KAASPAALEEK folds
+MathisKcr raises 200 to 400
+AAricoMagiKK folds
+MD_Kaiser639 folds
+LindOchin0i calls 300
+Matazer calls 200
+*** FLOP *** [6c 3h 6h]
+LindOchin0i checks
+Matazer checks
+MathisKcr bets 490
+LindOchin0i calls 490
+Matazer folds
+*** TURN *** [6c 3h 6h][8h]
+LindOchin0i checks
+MathisKcr bets 833
+LindOchin0i folds
+MathisKcr collected 3213 from pot
+*** SUMMARY ***
+Total pot 3213 | No rake
+Board: [6c 3h 6h 8h]
+Seat 2: MathisKcr won 3213
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-4-1775928814 - Holdem no limit (25/100/200) - 2026/04/11 17:33:34 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: KAASPAALEEK (19925, 0.90€ bounty)
+Seat 2: MathisKcr (21415, 0.90€ bounty)
+Seat 3: AAricoMagiKK (18425, 0.90€ bounty)
+Seat 4: MD_Kaiser639 (10480, 0.90€ bounty)
+Seat 5: LindOchin0i (18835, 0.90€ bounty)
+Seat 6: Matazer (27167, 0.90€ bounty)
+Seat 7: APS1977 (23828, 0.90€ bounty)
+Seat 8: KkOonKkOon (19925, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matazer posts ante 25
+APS1977 posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+MD_Kaiser639 posts ante 25
+LindOchin0i posts ante 25
+KkOonKkOon posts ante 25
+Matazer posts small blind 100
+APS1977 posts big blind 200
+Dealt to MathisKcr [2d Ks]
+*** PRE-FLOP *** 
+KkOonKkOon folds
+KAASPAALEEK folds
+MathisKcr raises 200 to 400
+AAricoMagiKK folds
+MD_Kaiser639 folds
+LindOchin0i raises 1300 to 1700
+Matazer folds
+APS1977 folds
+MathisKcr folds
+LindOchin0i collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Seat 5: LindOchin0i (button) won 2600
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-5-1775928854 - Holdem no limit (25/100/200) - 2026/04/11 17:34:14 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: KAASPAALEEK (19900, 0.90€ bounty)
+Seat 2: MathisKcr (20990, 0.90€ bounty)
+Seat 3: AAricoMagiKK (18400, 0.90€ bounty)
+Seat 4: MD_Kaiser639 (10455, 0.90€ bounty)
+Seat 5: LindOchin0i (19710, 0.90€ bounty)
+Seat 6: Matazer (27042, 0.90€ bounty)
+Seat 7: APS1977 (23603, 0.90€ bounty)
+Seat 8: KkOonKkOon (19900, 0.90€ bounty)
+*** ANTE/BLINDS ***
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+MD_Kaiser639 posts ante 25
+LindOchin0i posts ante 25
+Matazer posts ante 25
+APS1977 posts small blind 100
+KkOonKkOon posts big blind 200
+Dealt to MathisKcr [7s 5c]
+*** PRE-FLOP *** 
+KAASPAALEEK folds
+MathisKcr folds
+AAricoMagiKK raises 200 to 400
+MD_Kaiser639 folds
+LindOchin0i folds
+Matazer calls 400
+APS1977 folds
+KkOonKkOon calls 200
+*** FLOP *** [Ac 4d 4s]
+KkOonKkOon checks
+AAricoMagiKK checks
+Matazer bets 950
+KkOonKkOon folds
+AAricoMagiKK calls 950
+*** TURN *** [Ac 4d 4s][7h]
+AAricoMagiKK checks
+Matazer checks
+*** RIVER *** [Ac 4d 4s 7h][As]
+AAricoMagiKK bets 2720
+Matazer folds
+AAricoMagiKK collected 6120 from pot
+*** SUMMARY ***
+Total pot 6120 | No rake
+Board: [Ac 4d 4s 7h As]
+Seat 3: AAricoMagiKK won 6120
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-6-1775928929 - Holdem no limit (25/100/200) - 2026/04/11 17:35:29 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: KAASPAALEEK (19875, 0.90€ bounty)
+Seat 2: MathisKcr (20965, 0.90€ bounty)
+Seat 3: AAricoMagiKK (20425, 0.90€ bounty)
+Seat 4: MD_Kaiser639 (10430, 0.90€ bounty)
+Seat 5: LindOchin0i (19685, 0.90€ bounty)
+Seat 6: Matazer (25667, 0.90€ bounty)
+Seat 7: APS1977 (23478, 0.90€ bounty)
+Seat 8: KkOonKkOon (19475, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KkOonKkOon posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+MD_Kaiser639 posts ante 25
+LindOchin0i posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts small blind 100
+KAASPAALEEK posts big blind 200
+Dealt to MathisKcr [6d Ts]
+*** PRE-FLOP *** 
+MathisKcr folds
+AAricoMagiKK folds
+MD_Kaiser639 calls 200
+LindOchin0i folds
+Matazer folds
+APS1977 folds
+KkOonKkOon calls 100
+KAASPAALEEK checks
+*** FLOP *** [Qs 4h Th]
+KkOonKkOon bets 200
+KAASPAALEEK folds
+MD_Kaiser639 folds
+KkOonKkOon collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [Qs 4h Th]
+Seat 8: KkOonKkOon (small blind) won 1000
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-7-1775928955 - Holdem no limit (25/100/200) - 2026/04/11 17:35:55 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: KAASPAALEEK (19650, 0.90€ bounty)
+Seat 2: MathisKcr (20940, 0.90€ bounty)
+Seat 3: AAricoMagiKK (20400, 0.90€ bounty)
+Seat 4: MD_Kaiser639 (10205, 0.90€ bounty)
+Seat 5: LindOchin0i (19660, 0.90€ bounty)
+Seat 6: Matazer (25642, 0.90€ bounty)
+Seat 7: APS1977 (23453, 0.90€ bounty)
+Seat 8: KkOonKkOon (20050, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+MD_Kaiser639 posts ante 25
+LindOchin0i posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+KAASPAALEEK posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [9s 2d]
+*** PRE-FLOP *** 
+AAricoMagiKK folds
+MD_Kaiser639 calls 200
+LindOchin0i folds
+Matazer raises 400 to 600
+APS1977 folds
+KkOonKkOon calls 600
+KAASPAALEEK folds
+MathisKcr folds
+MD_Kaiser639 calls 400
+*** FLOP *** [3s 3h Ts]
+MD_Kaiser639 checks
+Matazer checks
+KkOonKkOon checks
+*** TURN *** [3s 3h Ts][Td]
+MD_Kaiser639 bets 1495
+Matazer folds
+KkOonKkOon folds
+MD_Kaiser639 collected 3795 from pot
+*** SUMMARY ***
+Total pot 3795 | No rake
+Board: [3s 3h Ts Td]
+Seat 4: MD_Kaiser639 won 3795
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-8-1775929015 - Holdem no limit (25/100/200) - 2026/04/11 17:36:55 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: KAASPAALEEK (19525, 0.90€ bounty)
+Seat 2: MathisKcr (20715, 0.90€ bounty)
+Seat 3: AAricoMagiKK (20375, 0.90€ bounty)
+Seat 5: LindOchin0i (19635, 0.90€ bounty)
+Seat 6: Matazer (25017, 0.90€ bounty)
+Seat 7: APS1977 (23428, 0.90€ bounty)
+Seat 8: KkOonKkOon (19425, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+KAASPAALEEK posts ante 25
+LindOchin0i posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+MathisKcr posts small blind 100
+AAricoMagiKK posts big blind 200
+Dealt to MathisKcr [5c Qs]
+*** PRE-FLOP *** 
+LindOchin0i raises 250 to 450
+Matazer folds
+APS1977 calls 450
+KkOonKkOon folds
+KAASPAALEEK folds
+MathisKcr calls 350
+AAricoMagiKK folds
+*** FLOP *** [As Jh 7s]
+MathisKcr checks
+LindOchin0i bets 1380
+APS1977 folds
+MathisKcr folds
+LindOchin0i collected 3105 from pot
+*** SUMMARY ***
+Total pot 3105 | No rake
+Board: [As Jh 7s]
+Seat 5: LindOchin0i won 3105
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-9-1775929070 - Holdem no limit (25/100/200) - 2026/04/11 17:37:50 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: KAASPAALEEK (19500, 0.90€ bounty)
+Seat 2: MathisKcr (20240, 0.90€ bounty)
+Seat 3: AAricoMagiKK (20150, 0.90€ bounty)
+Seat 4: firmin (20000, 0.90€ bounty)
+Seat 5: LindOchin0i (20885, 0.90€ bounty)
+Seat 6: Matazer (24992, 0.90€ bounty)
+Seat 7: APS1977 (22953, 0.90€ bounty)
+Seat 8: KkOonKkOon (19400, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AAricoMagiKK posts ante 25
+firmin posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+LindOchin0i posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+AAricoMagiKK posts small blind 100
+firmin posts big blind 200
+Dealt to MathisKcr [7s 3c]
+*** PRE-FLOP *** 
+LindOchin0i folds
+Matazer folds
+APS1977 raises 700 to 900
+KkOonKkOon folds
+KAASPAALEEK folds
+MathisKcr folds
+AAricoMagiKK folds
+firmin folds
+APS1977 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Seat 7: APS1977 won 1400
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-10-1775929107 - Holdem no limit (25/100/200) - 2026/04/11 17:38:27 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: KAASPAALEEK (19475, 0.90€ bounty)
+Seat 2: MathisKcr (20215, 0.90€ bounty)
+Seat 3: AAricoMagiKK (20025, 0.90€ bounty)
+Seat 4: firmin (19775, 0.90€ bounty)
+Seat 5: LindOchin0i (20860, 0.90€ bounty)
+Seat 6: Matazer (24967, 0.90€ bounty)
+Seat 7: APS1977 (23428, 0.90€ bounty)
+Seat 8: KkOonKkOon (19375, 0.90€ bounty)
+*** ANTE/BLINDS ***
+firmin posts ante 25
+LindOchin0i posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+firmin posts small blind 100
+LindOchin0i posts big blind 200
+Dealt to MathisKcr [Qc Ah]
+*** PRE-FLOP *** 
+Matazer raises 300 to 500
+APS1977 folds
+KkOonKkOon folds
+KAASPAALEEK folds
+MathisKcr calls 500
+AAricoMagiKK folds
+firmin calls 400
+LindOchin0i calls 300
+*** FLOP *** [5c As Jh]
+firmin checks
+LindOchin0i checks
+Matazer checks
+MathisKcr bets 770
+firmin folds
+LindOchin0i calls 770
+Matazer folds
+*** TURN *** [5c As Jh][5s]
+LindOchin0i checks
+MathisKcr bets 1309
+LindOchin0i calls 1309
+*** RIVER *** [5c As Jh 5s][6d]
+LindOchin0i checks
+MathisKcr bets 3179
+LindOchin0i folds
+MathisKcr collected 9537 from pot
+*** SUMMARY ***
+Total pot 9537 | No rake
+Board: [5c As Jh 5s 6d]
+Seat 2: MathisKcr won 9537
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-11-1775929240 - Holdem no limit (25/100/200) - 2026/04/11 17:40:40 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: KAASPAALEEK (19450, 0.90€ bounty)
+Seat 2: MathisKcr (23969, 0.90€ bounty)
+Seat 3: AAricoMagiKK (20000, 0.90€ bounty)
+Seat 4: firmin (19250, 0.90€ bounty)
+Seat 5: LindOchin0i (18256, 0.90€ bounty)
+Seat 6: Matazer (24442, 0.90€ bounty)
+Seat 7: APS1977 (23403, 0.90€ bounty)
+Seat 8: KkOonKkOon (19350, 0.90€ bounty)
+*** ANTE/BLINDS ***
+LindOchin0i posts ante 25
+Matazer posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+firmin posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+LindOchin0i posts small blind 100
+Matazer posts big blind 200
+Dealt to MathisKcr [4s 3s]
+*** PRE-FLOP *** 
+APS1977 folds
+KkOonKkOon folds
+KAASPAALEEK raises 300 to 500
+MathisKcr folds
+AAricoMagiKK folds
+firmin calls 500
+LindOchin0i folds
+Matazer calls 300
+*** FLOP *** [Qd Jc Qc]
+Matazer checks
+KAASPAALEEK checks
+firmin checks
+*** TURN *** [Qd Jc Qc][4h]
+Matazer checks
+KAASPAALEEK checks
+firmin bets 200
+Matazer folds
+KAASPAALEEK calls 200
+*** RIVER *** [Qd Jc Qc 4h][8h]
+KAASPAALEEK checks
+firmin bets 200
+KAASPAALEEK calls 200
+*** SHOW DOWN ***
+KAASPAALEEK shows [9c 9d] (Two pairs : Queens and 9)
+firmin shows [Jh As] (Two pairs : Queens and Jacks)
+firmin collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [Qd Jc Qc 4h 8h]
+Seat 1: KAASPAALEEK showed [9c 9d] and lost with Two pairs : Queens and 9
+Seat 4: firmin (button) showed [Jh As] and won 2600 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-12-1775929322 - Holdem no limit (25/100/200) - 2026/04/11 17:42:02 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: KAASPAALEEK (18525, 0.90€ bounty)
+Seat 2: MathisKcr (23944, 0.90€ bounty)
+Seat 3: AAricoMagiKK (19975, 0.90€ bounty)
+Seat 4: firmin (20925, 0.90€ bounty)
+Seat 5: LindOchin0i (18131, 0.90€ bounty)
+Seat 6: Matazer (23917, 0.90€ bounty)
+Seat 7: APS1977 (23378, 0.90€ bounty)
+Seat 8: KkOonKkOon (19325, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matazer posts ante 25
+APS1977 posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+firmin posts ante 25
+LindOchin0i posts ante 25
+KkOonKkOon posts ante 25
+Matazer posts small blind 100
+APS1977 posts big blind 200
+Dealt to MathisKcr [7s 4h]
+*** PRE-FLOP *** 
+KkOonKkOon folds
+KAASPAALEEK folds
+MathisKcr folds
+AAricoMagiKK raises 200 to 400
+firmin folds
+LindOchin0i folds
+Matazer calls 300
+APS1977 folds
+*** FLOP *** [6h 2h Qc]
+Matazer checks
+AAricoMagiKK checks
+*** TURN *** [6h 2h Qc][9h]
+Matazer checks
+AAricoMagiKK checks
+*** RIVER *** [6h 2h Qc 9h][Tc]
+Matazer checks
+AAricoMagiKK checks
+*** SHOW DOWN ***
+AAricoMagiKK shows [Ad 8d] (High card : Ace)
+Matazer shows [Td As] (One pair : Tens)
+Matazer collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [6h 2h Qc 9h Tc]
+Seat 3: AAricoMagiKK showed [Ad 8d] and lost with High card : Ace
+Seat 6: Matazer (small blind) showed [Td As] and won 1200 with One pair : Tens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-13-1775929372 - Holdem no limit (25/100/200) - 2026/04/11 17:42:52 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: KAASPAALEEK (18500, 0.90€ bounty)
+Seat 2: MathisKcr (23919, 0.90€ bounty)
+Seat 3: AAricoMagiKK (19550, 0.90€ bounty)
+Seat 4: firmin (20900, 0.90€ bounty)
+Seat 5: LindOchin0i (18106, 0.90€ bounty)
+Seat 6: Matazer (24692, 0.90€ bounty)
+Seat 7: APS1977 (23153, 0.90€ bounty)
+Seat 8: KkOonKkOon (19300, 0.90€ bounty)
+*** ANTE/BLINDS ***
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+firmin posts ante 25
+LindOchin0i posts ante 25
+Matazer posts ante 25
+APS1977 posts small blind 100
+KkOonKkOon posts big blind 200
+Dealt to MathisKcr [Jc 7c]
+*** PRE-FLOP *** 
+KAASPAALEEK folds
+MathisKcr folds
+AAricoMagiKK folds
+firmin calls 200
+LindOchin0i raises 900 to 1100
+Matazer folds
+APS1977 folds
+KkOonKkOon folds
+firmin calls 900
+*** FLOP *** [Ac 5c Qd]
+firmin checks
+LindOchin0i bets 1755
+firmin folds
+LindOchin0i collected 4455 from pot
+*** SUMMARY ***
+Total pot 4455 | No rake
+Board: [Ac 5c Qd]
+Seat 5: LindOchin0i won 4455
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-14-1775929443 - Holdem no limit (25/100/200) - 2026/04/11 17:44:03 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: KAASPAALEEK (18475, 0.90€ bounty)
+Seat 2: MathisKcr (23894, 0.90€ bounty)
+Seat 3: AAricoMagiKK (19525, 0.90€ bounty)
+Seat 4: firmin (19775, 0.90€ bounty)
+Seat 5: LindOchin0i (19681, 0.90€ bounty)
+Seat 6: Matazer (24667, 0.90€ bounty)
+Seat 7: APS1977 (23028, 0.90€ bounty)
+Seat 8: KkOonKkOon (19075, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KkOonKkOon posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+AAricoMagiKK posts ante 25
+firmin posts ante 25
+LindOchin0i posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts small blind 100
+KAASPAALEEK posts big blind 200
+Dealt to MathisKcr [3d Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 200 to 400
+AAricoMagiKK folds
+firmin calls 400
+LindOchin0i folds
+Matazer folds
+APS1977 calls 400
+KkOonKkOon folds
+KAASPAALEEK folds
+*** FLOP *** [Jh 4s Kd]
+MathisKcr checks
+firmin bets 200
+APS1977 folds
+MathisKcr folds
+firmin collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [Jh 4s Kd]
+Seat 4: firmin won 1900
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-15-1775929508 - Holdem no limit (25/100/200) - 2026/04/11 17:45:08 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: KAASPAALEEK (18250, 0.90€ bounty)
+Seat 2: MathisKcr (23469, 0.90€ bounty)
+Seat 4: firmin (21050, 0.90€ bounty)
+Seat 5: LindOchin0i (19656, 0.90€ bounty)
+Seat 6: Matazer (24642, 0.90€ bounty)
+Seat 7: APS1977 (22603, 0.90€ bounty)
+Seat 8: KkOonKkOon (18950, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+firmin posts ante 25
+LindOchin0i posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+KAASPAALEEK posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [3c As]
+*** PRE-FLOP *** 
+firmin calls 200
+LindOchin0i folds
+Matazer folds
+APS1977 folds
+KkOonKkOon raises 500 to 700
+KAASPAALEEK folds
+MathisKcr calls 500
+firmin calls 500
+*** FLOP *** [4h 8c 8h]
+MathisKcr checks
+firmin checks
+KkOonKkOon bets 1188
+MathisKcr folds
+firmin folds
+KkOonKkOon collected 3563 from pot
+*** SUMMARY ***
+Total pot 3563 | No rake
+Board: [4h 8c 8h]
+Seat 8: KkOonKkOon (button) won 3563
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-16-1775929570 - Holdem no limit (25/100/200) - 2026/04/11 17:46:10 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: KAASPAALEEK (18125, 0.90€ bounty)
+Seat 2: MathisKcr (22744, 0.90€ bounty)
+Seat 4: firmin (20325, 0.90€ bounty)
+Seat 5: LindOchin0i (19631, 0.90€ bounty)
+Seat 6: Matazer (24617, 0.90€ bounty)
+Seat 7: APS1977 (22578, 0.90€ bounty)
+Seat 8: KkOonKkOon (20600, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+firmin posts ante 25
+KAASPAALEEK posts ante 25
+LindOchin0i posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+MathisKcr posts small blind 100
+firmin posts big blind 200
+Dealt to MathisKcr [4h 5h]
+*** PRE-FLOP *** 
+LindOchin0i folds
+Matazer folds
+APS1977 folds
+KkOonKkOon raises 250 to 450
+KAASPAALEEK folds
+MathisKcr calls 350
+firmin calls 250
+*** FLOP *** [3d 2c Jc]
+MathisKcr bets 534
+firmin folds
+KkOonKkOon raises 734 to 1268
+MathisKcr calls 734
+*** TURN *** [3d 2c Jc][9c]
+MathisKcr checks
+KkOonKkOon bets 2031
+MathisKcr raises 4569 to 6600
+KkOonKkOon raises 12257 to 18857 and is all-in
+MathisKcr folds
+KkOonKkOon collected 29518 from pot
+*** SUMMARY ***
+Total pot 29518 | No rake
+Board: [3d 2c Jc 9c]
+Seat 8: KkOonKkOon won 29518
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-17-1775929695 - Holdem no limit (25/100/200) - 2026/04/11 17:48:15 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: KAASPAALEEK (18100, 0.90€ bounty)
+Seat 2: MathisKcr (14401, 0.90€ bounty)
+Seat 3: KIM CANNA (20000, 0.90€ bounty)
+Seat 4: firmin (19850, 0.90€ bounty)
+Seat 6: Matazer (24592, 0.90€ bounty)
+Seat 7: APS1977 (22553, 0.90€ bounty)
+Seat 8: KkOonKkOon (29518, 0.90€ bounty)
+*** ANTE/BLINDS ***
+firmin posts ante 25
+Matazer posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+firmin posts small blind 100
+Matazer posts big blind 200
+Dealt to MathisKcr [9d 3d]
+*** PRE-FLOP *** 
+APS1977 raises 200 to 400
+KkOonKkOon folds
+KAASPAALEEK folds
+MathisKcr folds
+firmin calls 300
+Matazer calls 200
+*** FLOP *** [2d Js 5h]
+firmin checks
+Matazer checks
+APS1977 checks
+*** TURN *** [2d Js 5h][7h]
+firmin checks
+Matazer checks
+APS1977 checks
+*** RIVER *** [2d Js 5h 7h][8s]
+firmin checks
+Matazer checks
+APS1977 checks
+*** SHOW DOWN ***
+Matazer shows [5s Ts] (One pair : 5)
+APS1977 shows [6h Ah] (High card : Ace)
+firmin shows [7s 9c] (One pair : 7)
+firmin collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [2d Js 5h 7h 8s]
+Seat 4: firmin (small blind) showed [7s 9c] and won 1350 with One pair : 7
+Seat 6: Matazer (big blind) showed [5s Ts] and lost with One pair : 5
+Seat 7: APS1977 showed [6h Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-18-1775929752 - Holdem no limit (25/100/200) - 2026/04/11 17:49:12 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: KAASPAALEEK (18075, 0.90€ bounty)
+Seat 2: MathisKcr (14376, 0.90€ bounty)
+Seat 3: KIM CANNA (20000, 0.90€ bounty)
+Seat 4: firmin (20775, 0.90€ bounty)
+Seat 5: FishBusterr (20000, 0.90€ bounty)
+Seat 6: Matazer (24167, 0.90€ bounty)
+Seat 7: APS1977 (22128, 0.90€ bounty)
+Seat 8: KkOonKkOon (29493, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matazer posts ante 25
+APS1977 posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+KIM CANNA posts ante 25
+firmin posts ante 25
+KkOonKkOon posts ante 25
+Matazer posts small blind 100
+APS1977 posts big blind 200
+Dealt to MathisKcr [2h 8h]
+*** PRE-FLOP *** 
+KkOonKkOon raises 250 to 450
+KAASPAALEEK folds
+MathisKcr folds
+KIM CANNA folds
+firmin calls 450
+Matazer folds
+APS1977 folds
+*** FLOP *** [5c Ks Ts]
+KkOonKkOon bets 688
+firmin calls 688
+*** TURN *** [5c Ks Ts][Tc]
+KkOonKkOon bets 2063
+firmin calls 2063
+*** RIVER *** [5c Ks Ts Tc][7h]
+KkOonKkOon bets 2820
+firmin folds
+KkOonKkOon collected 9697 from pot
+*** SUMMARY ***
+Total pot 9697 | No rake
+Board: [5c Ks Ts Tc 7h]
+Seat 8: KkOonKkOon won 9697
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-19-1775929824 - Holdem no limit (25/100/200) - 2026/04/11 17:50:24 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: KAASPAALEEK (18050, 0.90€ bounty)
+Seat 2: MathisKcr (14351, 0.90€ bounty)
+Seat 3: KIM CANNA (19975, 0.90€ bounty)
+Seat 4: firmin (17549, 0.90€ bounty)
+Seat 5: FishBusterr (20000, 0.90€ bounty)
+Seat 6: Matazer (24042, 0.90€ bounty)
+Seat 7: APS1977 (21903, 0.90€ bounty)
+Seat 8: KkOonKkOon (33144, 0.90€ bounty)
+*** ANTE/BLINDS ***
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+KIM CANNA posts ante 25
+firmin posts ante 25
+FishBusterr posts ante 25
+Matazer posts ante 25
+APS1977 posts small blind 100
+KkOonKkOon posts big blind 200
+Dealt to MathisKcr [8h Jh]
+*** PRE-FLOP *** 
+KAASPAALEEK folds
+MathisKcr folds
+KIM CANNA folds
+firmin folds
+FishBusterr folds
+Matazer raises 200 to 400
+APS1977 calls 300
+KkOonKkOon calls 200
+*** FLOP *** [3d 9h Th]
+APS1977 checks
+KkOonKkOon checks
+Matazer bets 500
+APS1977 folds
+KkOonKkOon folds
+Matazer collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [3d 9h Th]
+Seat 6: Matazer (button) won 1900
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-20-1775929892 - Holdem no limit (25/100/200) - 2026/04/11 17:51:32 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: KAASPAALEEK (18025, 0.90€ bounty)
+Seat 2: MathisKcr (14326, 0.90€ bounty)
+Seat 3: KIM CANNA (19950, 0.90€ bounty)
+Seat 4: firmin (17524, 0.90€ bounty)
+Seat 5: FishBusterr (19975, 0.90€ bounty)
+Seat 6: Matazer (25017, 0.90€ bounty)
+Seat 7: APS1977 (21478, 0.90€ bounty)
+Seat 8: KkOonKkOon (32719, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KkOonKkOon posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+KIM CANNA posts ante 25
+firmin posts ante 25
+FishBusterr posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts small blind 100
+KAASPAALEEK posts big blind 200
+Dealt to MathisKcr [Th 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+KIM CANNA folds
+firmin calls 200
+FishBusterr folds
+Matazer folds
+APS1977 folds
+KkOonKkOon calls 100
+KAASPAALEEK raises 900 to 1100
+firmin calls 900
+KkOonKkOon folds
+*** FLOP *** [6h 5s 8h]
+KAASPAALEEK bets 1716
+firmin calls 1716
+*** TURN *** [6h 5s 8h][Qd]
+KAASPAALEEK bets 3981
+firmin folds
+KAASPAALEEK collected 10013 from pot
+*** SUMMARY ***
+Total pot 10013 | No rake
+Board: [6h 5s 8h Qd]
+Seat 1: KAASPAALEEK (big blind) won 10013
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-21-1775929966 - Holdem no limit (25/100/200) - 2026/04/11 17:52:46 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: KAASPAALEEK (21216, 0.90€ bounty)
+Seat 2: MathisKcr (14301, 0.90€ bounty)
+Seat 3: KIM CANNA (19925, 0.90€ bounty)
+Seat 4: firmin (14683, 0.90€ bounty)
+Seat 5: FishBusterr (19950, 0.90€ bounty)
+Seat 6: Matazer (24992, 0.90€ bounty)
+Seat 7: APS1977 (21453, 0.90€ bounty)
+Seat 8: KkOonKkOon (32494, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+KIM CANNA posts ante 25
+firmin posts ante 25
+FishBusterr posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+KAASPAALEEK posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [3d 9s]
+*** PRE-FLOP *** 
+KIM CANNA folds
+firmin calls 200
+FishBusterr folds
+Matazer raises 500 to 700
+APS1977 folds
+KkOonKkOon folds
+KAASPAALEEK folds
+MathisKcr folds
+firmin calls 500
+*** FLOP *** [9c 4h 7d]
+firmin checks
+Matazer bets 500
+firmin calls 500
+*** TURN *** [9c 4h 7d][8s]
+firmin bets 200
+Matazer calls 200
+*** RIVER *** [9c 4h 7d 8s][6c]
+firmin bets 200
+Matazer calls 200
+*** SHOW DOWN ***
+Matazer shows [Qc Ad] (High card : Ace)
+firmin shows [Qh 9h] (One pair : 9)
+firmin collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Board: [9c 4h 7d 8s 6c]
+Seat 4: firmin showed [Qh 9h] and won 3700 with One pair : 9
+Seat 6: Matazer showed [Qc Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-22-1775930030 - Holdem no limit (25/100/200) - 2026/04/11 17:53:50 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: KAASPAALEEK (21091, 0.90€ bounty)
+Seat 2: MathisKcr (14076, 0.90€ bounty)
+Seat 3: KIM CANNA (19900, 0.90€ bounty)
+Seat 4: firmin (16758, 0.90€ bounty)
+Seat 5: FishBusterr (19925, 0.90€ bounty)
+Seat 6: Matazer (23367, 0.90€ bounty)
+Seat 7: APS1977 (21428, 0.90€ bounty)
+Seat 8: KkOonKkOon (32469, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+KIM CANNA posts ante 25
+KAASPAALEEK posts ante 25
+firmin posts ante 25
+FishBusterr posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+MathisKcr posts small blind 100
+KIM CANNA posts big blind 200
+Dealt to MathisKcr [3s 3h]
+*** PRE-FLOP *** 
+firmin calls 200
+FishBusterr folds
+Matazer folds
+APS1977 folds
+KkOonKkOon raises 500 to 700
+KAASPAALEEK folds
+MathisKcr calls 600
+KIM CANNA calls 500
+firmin calls 500
+*** FLOP *** [5d 7h 9s]
+MathisKcr bets 13351 and is all-in
+KIM CANNA folds
+firmin folds
+KkOonKkOon folds
+MathisKcr collected 16351 from pot
+*** SUMMARY ***
+Total pot 16351 | No rake
+Board: [5d 7h 9s]
+Seat 2: MathisKcr (small blind) won 16351
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #4627961960204337156-23-1775930089 - Holdem no limit (25/100/200) - 2026/04/11 17:54:49 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: KAASPAALEEK (21066, 0.90€ bounty)
+Seat 2: MathisKcr (16351, 0.90€ bounty)
+Seat 3: KIM CANNA (19175, 0.90€ bounty)
+Seat 4: firmin (16033, 0.90€ bounty)
+Seat 6: Matazer (23342, 0.90€ bounty)
+Seat 7: APS1977 (21403, 0.90€ bounty)
+Seat 8: KkOonKkOon (31744, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KIM CANNA posts ante 25
+firmin posts ante 25
+KAASPAALEEK posts ante 25
+MathisKcr posts ante 25
+Matazer posts ante 25
+APS1977 posts ante 25
+KkOonKkOon posts ante 25
+KIM CANNA posts small blind 100
+firmin posts big blind 200
+Dealt to MathisKcr [7s Js]
+*** PRE-FLOP *** 
+Matazer folds
+APS1977 folds
+KkOonKkOon raises 250 to 450
+KAASPAALEEK calls 450
+MathisKcr folds
+KIM CANNA raises 1750 to 2200
+firmin folds
+KkOonKkOon calls 1750
+KAASPAALEEK folds
+*** FLOP *** [3c Ah 8d]
+KIM CANNA bets 1777
+KkOonKkOon folds
+KIM CANNA collected 7002 from pot
+*** SUMMARY ***
+Total pot 7002 | No rake
+Board: [3c Ah 8d]
+Seat 3: KIM CANNA (small blind) won 7002
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #4627961960204337156-24-1775930460 - Holdem no limit (30/125/250) - 2026/04/11 18:01:00 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: KAASPAALEEK (20591, 0.90€ bounty)
+Seat 2: MathisKcr (16326, 0.90€ bounty)
+Seat 3: KIM CANNA (22175, 0.90€ bounty)
+Seat 4: firmin (15808, 0.90€ bounty)
+Seat 5: HITSHARD (20000, 0.90€ bounty)
+Seat 6: Matazer (23317, 0.90€ bounty)
+Seat 7: APS1977 (21378, 0.90€ bounty)
+Seat 8: KkOonKkOon (29519, 0.90€ bounty)
+*** ANTE/BLINDS ***
+firmin posts ante 30
+HITSHARD posts ante 30
+KAASPAALEEK posts ante 30
+MathisKcr posts ante 30
+KIM CANNA posts ante 30
+Matazer posts ante 30
+APS1977 posts ante 30
+KkOonKkOon posts ante 30
+firmin posts small blind 125
+HITSHARD posts big blind 250
+Dealt to MathisKcr [3h 9h]
+*** PRE-FLOP *** 
+Matazer folds
+APS1977 raises 375 to 625
+KkOonKkOon folds
+KAASPAALEEK raises 1563 to 2188
+MathisKcr folds
+KIM CANNA folds
+firmin folds
+HITSHARD folds
+APS1977 calls 1563
+*** FLOP *** [Td Jc Tc]
+APS1977 checks
+KAASPAALEEK checks
+*** TURN *** [Td Jc Tc][8h]
+APS1977 checks
+KAASPAALEEK checks
+*** RIVER *** [Td Jc Tc 8h][Jh]
+APS1977 checks
+KAASPAALEEK checks
+*** SHOW DOWN ***
+KAASPAALEEK shows [Ah Kh] (Two pairs : Jacks and Tens)
+APS1977 shows [6d Ad] (Two pairs : Jacks and Tens)
+APS1977 collected 2496 from pot
+KAASPAALEEK collected 2495 from pot
+*** SUMMARY ***
+Total pot 4991 | No rake
+Board: [Td Jc Tc 8h Jh]
+Seat 1: KAASPAALEEK showed [Ah Kh] and won 2495 with Two pairs : Jacks and Tens
+Seat 7: APS1977 showed [6d Ad] and won 2496 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #4627961960204337156-25-1775930553 - Holdem no limit (30/125/250) - 2026/04/11 18:02:33 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: KAASPAALEEK (20868, 0.90€ bounty)
+Seat 2: MathisKcr (16296, 0.90€ bounty)
+Seat 3: KIM CANNA (22145, 0.90€ bounty)
+Seat 4: firmin (15653, 0.90€ bounty)
+Seat 5: HITSHARD (19720, 0.90€ bounty)
+Seat 6: Matazer (23287, 0.90€ bounty)
+Seat 7: APS1977 (21656, 0.90€ bounty)
+Seat 8: KkOonKkOon (29489, 0.90€ bounty)
+*** ANTE/BLINDS ***
+HITSHARD posts ante 30
+Matazer posts ante 30
+KAASPAALEEK posts ante 30
+MathisKcr posts ante 30
+KIM CANNA posts ante 30
+firmin posts ante 30
+APS1977 posts ante 30
+KkOonKkOon posts ante 30
+HITSHARD posts small blind 125
+Matazer posts big blind 250
+Dealt to MathisKcr [6s Kd]
+*** PRE-FLOP *** 
+APS1977 raises 250 to 500
+KkOonKkOon folds
+KAASPAALEEK folds
+MathisKcr calls 500
+KIM CANNA folds
+firmin calls 500
+HITSHARD folds
+Matazer folds
+*** FLOP *** [5d 2d Qh]
+APS1977 checks
+MathisKcr checks
+firmin checks
+*** TURN *** [5d 2d Qh][4h]
+APS1977 bets 1375
+MathisKcr folds
+firmin folds
+APS1977 collected 3490 from pot
+*** SUMMARY ***
+Total pot 3490 | No rake
+Board: [5d 2d Qh 4h]
+Seat 7: APS1977 won 3490
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #4627961960204337156-26-1775930679 - Holdem no limit (30/125/250) - 2026/04/11 18:04:39 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: KAASPAALEEK (20838, 0.90€ bounty)
+Seat 2: MathisKcr (15766, 0.90€ bounty)
+Seat 3: KIM CANNA (22115, 0.90€ bounty)
+Seat 4: firmin (15123, 0.90€ bounty)
+Seat 5: HITSHARD (19565, 0.90€ bounty)
+Seat 6: Matazer (23007, 0.90€ bounty)
+Seat 7: APS1977 (23241, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matazer posts ante 30
+APS1977 posts ante 30
+KAASPAALEEK posts ante 30
+MathisKcr posts ante 30
+KIM CANNA posts ante 30
+firmin posts ante 30
+HITSHARD posts ante 30
+Matazer posts small blind 125
+APS1977 posts big blind 250
+Dealt to MathisKcr [5h 3s]
+*** PRE-FLOP *** 
+KAASPAALEEK folds
+MathisKcr folds
+KIM CANNA folds
+firmin folds
+HITSHARD folds
+Matazer folds
+APS1977 collected 585 from pot
+*** SUMMARY ***
+Total pot 585 | No rake
+Seat 7: APS1977 (big blind) won 585
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #4627961960204337156-27-1775930702 - Holdem no limit (30/125/250) - 2026/04/11 18:05:02 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: KAASPAALEEK (20808, 0.90€ bounty)
+Seat 2: MathisKcr (15736, 0.90€ bounty)
+Seat 3: KIM CANNA (22085, 0.90€ bounty)
+Seat 4: firmin (15093, 0.90€ bounty)
+Seat 5: HITSHARD (19535, 0.90€ bounty)
+Seat 6: Matazer (22852, 0.90€ bounty)
+Seat 7: APS1977 (23546, 0.90€ bounty)
+Seat 8: pedro8051 (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+APS1977 posts ante 30
+pedro8051 posts ante 30
+KAASPAALEEK posts ante 30
+MathisKcr posts ante 30
+KIM CANNA posts ante 30
+firmin posts ante 30
+HITSHARD posts ante 30
+Matazer posts ante 30
+APS1977 posts small blind 125
+pedro8051 posts big blind 250
+Dealt to MathisKcr [Th 9h]
+*** PRE-FLOP *** 
+KAASPAALEEK folds
+MathisKcr raises 250 to 500
+KIM CANNA folds
+firmin folds
+HITSHARD folds
+Matazer folds
+APS1977 folds
+pedro8051 calls 250
+*** FLOP *** [6c 4s Tc]
+pedro8051 checks
+MathisKcr bets 478
+pedro8051 folds
+MathisKcr collected 1843 from pot
+*** SUMMARY ***
+Total pot 1843 | No rake
+Board: [6c 4s Tc]
+Seat 2: MathisKcr won 1843
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #4627961960204337156-28-1775930747 - Holdem no limit (30/125/250) - 2026/04/11 18:05:47 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: KAASPAALEEK (20778, 0.90€ bounty)
+Seat 2: MathisKcr (16571, 0.90€ bounty)
+Seat 3: KIM CANNA (22055, 0.90€ bounty)
+Seat 4: firmin (15063, 0.90€ bounty)
+Seat 5: HITSHARD (19505, 0.90€ bounty)
+Seat 6: Matazer (22822, 0.90€ bounty)
+Seat 7: APS1977 (23391, 0.90€ bounty)
+Seat 8: pedro8051 (19470, 0.90€ bounty)
+*** ANTE/BLINDS ***
+pedro8051 posts ante 30
+KAASPAALEEK posts ante 30
+MathisKcr posts ante 30
+KIM CANNA posts ante 30
+firmin posts ante 30
+HITSHARD posts ante 30
+Matazer posts ante 30
+APS1977 posts ante 30
+pedro8051 posts small blind 125
+KAASPAALEEK posts big blind 250
+Dealt to MathisKcr [Th 7h]
+*** PRE-FLOP *** 
+MathisKcr folds
+KIM CANNA raises 313 to 563
+firmin folds
+HITSHARD folds
+Matazer folds
+APS1977 folds
+pedro8051 folds
+KAASPAALEEK folds
+KIM CANNA collected 1178 from pot
+*** SUMMARY ***
+Total pot 1178 | No rake
+Seat 3: KIM CANNA won 1178
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #4627961960204337156-29-1775930797 - Holdem no limit (35/150/300) - 2026/04/11 18:06:37 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: KAASPAALEEK (20498, 0.90€ bounty)
+Seat 2: MathisKcr (16541, 0.90€ bounty)
+Seat 3: KIM CANNA (22640, 0.90€ bounty)
+Seat 4: firmin (15033, 0.90€ bounty)
+Seat 5: HITSHARD (19475, 0.90€ bounty)
+Seat 6: Matazer (22792, 0.90€ bounty)
+Seat 7: APS1977 (23361, 0.90€ bounty)
+Seat 8: pedro8051 (19315, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KAASPAALEEK posts ante 35
+MathisKcr posts ante 35
+KIM CANNA posts ante 35
+firmin posts ante 35
+HITSHARD posts ante 35
+Matazer posts ante 35
+APS1977 posts ante 35
+pedro8051 posts ante 35
+KAASPAALEEK posts small blind 150
+MathisKcr posts big blind 300
+Dealt to MathisKcr [Jc 5s]
+*** PRE-FLOP *** 
+KIM CANNA folds
+firmin calls 300
+HITSHARD folds
+Matazer calls 300
+APS1977 raises 450 to 750
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr calls 450
+firmin calls 450
+Matazer calls 450
+*** FLOP *** [Td 4c Qs]
+MathisKcr checks
+firmin checks
+Matazer checks
+APS1977 checks
+*** TURN *** [Td 4c Qs][4d]
+MathisKcr checks
+firmin checks
+Matazer bets 1715
+APS1977 folds
+MathisKcr folds
+firmin calls 1715
+*** RIVER *** [Td 4c Qs 4d][6s]
+firmin checks
+Matazer checks
+*** SHOW DOWN ***
+firmin shows [Kh 9c] (One pair : 4)
+Matazer shows [Kd Jh] (One pair : 4)
+Matazer collected 6860 from pot
+*** SUMMARY ***
+Total pot 6860 | No rake
+Board: [Td 4c Qs 4d 6s]
+Seat 4: firmin showed [Kh 9c] and lost with One pair : 4
+Seat 6: Matazer showed [Kd Jh] and won 6860 with One pair : 4
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #4627961960204337156-30-1775930949 - Holdem no limit (35/150/300) - 2026/04/11 18:09:09 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: KAASPAALEEK (20313, 0.90€ bounty)
+Seat 2: MathisKcr (15756, 0.90€ bounty)
+Seat 3: KIM CANNA (22605, 0.90€ bounty)
+Seat 4: firmin (12533, 0.90€ bounty)
+Seat 5: HITSHARD (19440, 0.90€ bounty)
+Seat 6: Matazer (27152, 0.90€ bounty)
+Seat 7: APS1977 (22576, 0.90€ bounty)
+Seat 8: pedro8051 (19280, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 35
+KIM CANNA posts ante 35
+KAASPAALEEK posts ante 35
+firmin posts ante 35
+HITSHARD posts ante 35
+Matazer posts ante 35
+APS1977 posts ante 35
+pedro8051 posts ante 35
+MathisKcr posts small blind 150
+KIM CANNA posts big blind 300
+Dealt to MathisKcr [9h 4s]
+*** PRE-FLOP *** 
+firmin folds
+HITSHARD raises 300 to 600
+Matazer folds
+APS1977 folds
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr calls 450
+KIM CANNA folds
+*** FLOP *** [Ks 6h 5h]
+MathisKcr bets 900
+HITSHARD raises 1500 to 2400
+MathisKcr folds
+HITSHARD collected 5080 from pot
+*** SUMMARY ***
+Total pot 5080 | No rake
+Board: [Ks 6h 5h]
+Seat 5: HITSHARD won 5080
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #4627961960204337156-31-1775931034 - Holdem no limit (35/150/300) - 2026/04/11 18:10:34 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: KAASPAALEEK (20278, 0.90€ bounty)
+Seat 2: MathisKcr (14221, 0.90€ bounty)
+Seat 3: KIM CANNA (22270, 0.90€ bounty)
+Seat 4: firmin (12498, 0.90€ bounty)
+Seat 5: HITSHARD (21485, 0.90€ bounty)
+Seat 6: Matazer (27117, 0.90€ bounty)
+Seat 7: APS1977 (22541, 0.90€ bounty)
+Seat 8: pedro8051 (19245, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KIM CANNA posts ante 35
+firmin posts ante 35
+KAASPAALEEK posts ante 35
+MathisKcr posts ante 35
+HITSHARD posts ante 35
+Matazer posts ante 35
+APS1977 posts ante 35
+pedro8051 posts ante 35
+KIM CANNA posts small blind 150
+firmin posts big blind 300
+Dealt to MathisKcr [9c Js]
+*** PRE-FLOP *** 
+HITSHARD folds
+Matazer folds
+APS1977 raises 450 to 750
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr calls 750
+KIM CANNA folds
+firmin folds
+*** FLOP *** [7c 7h Ad]
+APS1977 checks
+MathisKcr checks
+*** TURN *** [7c 7h Ad][3h]
+APS1977 checks
+MathisKcr bets 781
+APS1977 calls 781
+*** RIVER *** [7c 7h Ad 3h][Qs]
+APS1977 checks
+MathisKcr bets 2465
+APS1977 folds
+MathisKcr collected 6257 from pot
+*** SUMMARY ***
+Total pot 6257 | No rake
+Board: [7c 7h Ad 3h Qs]
+Seat 2: MathisKcr (button) won 6257
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #4627961960204337156-32-1775931113 - Holdem no limit (40/175/350) - 2026/04/11 18:11:53 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: KAASPAALEEK (20243, 0.90€ bounty)
+Seat 2: MathisKcr (16447, 0.90€ bounty)
+Seat 3: KIM CANNA (22085, 0.90€ bounty)
+Seat 4: firmin (12163, 0.90€ bounty)
+Seat 5: HITSHARD (21450, 0.90€ bounty)
+Seat 6: Matazer (27082, 0.90€ bounty)
+Seat 7: APS1977 (20975, 0.90€ bounty)
+Seat 8: pedro8051 (19210, 0.90€ bounty)
+*** ANTE/BLINDS ***
+firmin posts ante 40
+HITSHARD posts ante 40
+KAASPAALEEK posts ante 40
+MathisKcr posts ante 40
+KIM CANNA posts ante 40
+Matazer posts ante 40
+APS1977 posts ante 40
+pedro8051 posts ante 40
+firmin posts small blind 175
+HITSHARD posts big blind 350
+Dealt to MathisKcr [3d Ad]
+*** PRE-FLOP *** 
+Matazer folds
+APS1977 raises 525 to 875
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr calls 875
+KIM CANNA folds
+firmin calls 700
+HITSHARD folds
+*** FLOP *** [Th 8h 4d]
+firmin checks
+APS1977 checks
+MathisKcr checks
+*** TURN *** [Th 8h 4d][3h]
+firmin checks
+APS1977 checks
+MathisKcr bets 1153
+firmin calls 1153
+APS1977 folds
+*** RIVER *** [Th 8h 4d 3h][6s]
+firmin checks
+MathisKcr checks
+*** SHOW DOWN ***
+firmin shows [Jc Qh] (High card : Queen)
+MathisKcr shows [3d Ad] (One pair : 3)
+MathisKcr collected 5601 from pot
+*** SUMMARY ***
+Total pot 5601 | No rake
+Board: [Th 8h 4d 3h 6s]
+Seat 2: MathisKcr showed [3d Ad] and won 5601 with One pair : 3
+Seat 4: firmin (small blind) showed [Jc Qh] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #4627961960204337156-33-1775931185 - Holdem no limit (40/175/350) - 2026/04/11 18:13:05 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: KAASPAALEEK (20203, 0.90€ bounty)
+Seat 2: MathisKcr (19980, 0.90€ bounty)
+Seat 3: KIM CANNA (22045, 0.90€ bounty)
+Seat 4: firmin (10095, 0.90€ bounty)
+Seat 5: HITSHARD (21060, 0.90€ bounty)
+Seat 6: Matazer (27042, 0.90€ bounty)
+Seat 7: APS1977 (20060, 0.90€ bounty)
+Seat 8: pedro8051 (19170, 0.90€ bounty)
+*** ANTE/BLINDS ***
+HITSHARD posts ante 40
+Matazer posts ante 40
+KAASPAALEEK posts ante 40
+MathisKcr posts ante 40
+KIM CANNA posts ante 40
+firmin posts ante 40
+APS1977 posts ante 40
+pedro8051 posts ante 40
+HITSHARD posts small blind 175
+Matazer posts big blind 350
+Dealt to MathisKcr [Tc Qs]
+*** PRE-FLOP *** 
+APS1977 folds
+pedro8051 calls 350
+KAASPAALEEK folds
+MathisKcr raises 350 to 700
+KIM CANNA folds
+firmin calls 700
+HITSHARD folds
+Matazer folds
+pedro8051 calls 350
+*** FLOP *** [7h Qh Qd]
+pedro8051 checks
+MathisKcr checks
+firmin checks
+*** TURN *** [7h Qh Qd][Qc]
+pedro8051 bets 350
+MathisKcr calls 350
+firmin calls 350
+*** RIVER *** [7h Qh Qd Qc][Jh]
+pedro8051 checks
+MathisKcr bets 1398
+firmin calls 1398
+pedro8051 folds
+*** SHOW DOWN ***
+firmin shows [Jc Kd] (Full of Queens and Jacks)
+MathisKcr shows [Tc Qs] (Quads of Queens)
+MathisKcr collected 6791 from pot
+*** SUMMARY ***
+Total pot 6791 | No rake
+Board: [7h Qh Qd Qc Jh]
+Seat 2: MathisKcr showed [Tc Qs] and won 6791 with Quads of Queens
+Seat 4: firmin (button) showed [Jc Kd] and lost with Full of Queens and Jacks
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #4627961960204337156-34-1775931271 - Holdem no limit (40/175/350) - 2026/04/11 18:14:31 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: KAASPAALEEK (20163, 0.90€ bounty)
+Seat 2: MathisKcr (24283, 0.90€ bounty)
+Seat 3: KIM CANNA (22005, 0.90€ bounty)
+Seat 4: firmin (7607, 0.90€ bounty)
+Seat 5: HITSHARD (20845, 0.90€ bounty)
+Seat 6: Matazer (26652, 0.90€ bounty)
+Seat 7: APS1977 (20020, 0.90€ bounty)
+Seat 8: pedro8051 (18080, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matazer posts ante 40
+APS1977 posts ante 40
+KAASPAALEEK posts ante 40
+MathisKcr posts ante 40
+KIM CANNA posts ante 40
+firmin posts ante 40
+HITSHARD posts ante 40
+pedro8051 posts ante 40
+Matazer posts small blind 175
+APS1977 posts big blind 350
+Dealt to MathisKcr [9d 7c]
+*** PRE-FLOP *** 
+pedro8051 calls 350
+KAASPAALEEK folds
+MathisKcr folds
+KIM CANNA folds
+firmin calls 350
+HITSHARD raises 1085 to 1435
+Matazer folds
+APS1977 folds
+pedro8051 calls 1085
+firmin calls 1085
+*** FLOP *** [Qs 5h 7s]
+pedro8051 checks
+firmin checks
+HITSHARD checks
+*** TURN *** [Qs 5h 7s][7h]
+pedro8051 bets 1802
+firmin calls 1802
+HITSHARD folds
+*** RIVER *** [Qs 5h 7s 7h][Ks]
+pedro8051 bets 14803 and is all-in
+firmin calls 4330 and is all-in
+*** SHOW DOWN ***
+firmin shows [5s Ts] (Flush King high)
+pedro8051 shows [Kc Qc] (Two pairs : Kings and Queens)
+pedro8051 collected 10473 from side pot 1
+firmin collected 17414 from main pot
+*** SUMMARY ***
+Total pot 27887 | No rake
+Board: [Qs 5h 7s 7h Ks]
+Seat 4: firmin showed [5s Ts] and won 17414 with Flush King high
+Seat 8: pedro8051 showed [Kc Qc] and won 10473 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #4627961960204337156-35-1775931358 - Holdem no limit (40/175/350) - 2026/04/11 18:15:58 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: KAASPAALEEK (20123, 0.90€ bounty)
+Seat 2: MathisKcr (24243, 0.90€ bounty)
+Seat 3: KIM CANNA (21965, 0.90€ bounty)
+Seat 4: firmin (17414, 0.90€ bounty)
+Seat 5: HITSHARD (19370, 0.90€ bounty)
+Seat 6: Matazer (26437, 0.90€ bounty)
+Seat 7: APS1977 (19630, 0.90€ bounty)
+Seat 8: pedro8051 (10473, 0.90€ bounty)
+*** ANTE/BLINDS ***
+APS1977 posts ante 40
+pedro8051 posts ante 40
+KAASPAALEEK posts ante 40
+MathisKcr posts ante 40
+KIM CANNA posts ante 40
+firmin posts ante 40
+HITSHARD posts ante 40
+Matazer posts ante 40
+APS1977 posts small blind 175
+pedro8051 posts big blind 350
+Dealt to MathisKcr [Jd 7c]
+*** PRE-FLOP *** 
+KAASPAALEEK folds
+MathisKcr folds
+KIM CANNA folds
+firmin calls 350
+HITSHARD folds
+Matazer folds
+APS1977 raises 700 to 1050
+pedro8051 folds
+firmin calls 700
+*** FLOP *** [Kc Th 7s]
+APS1977 bets 1801
+firmin calls 1801
+*** TURN *** [Kc Th 7s][8c]
+APS1977 checks
+firmin checks
+*** RIVER *** [Kc Th 7s 8c][2c]
+APS1977 checks
+firmin checks
+*** SHOW DOWN ***
+firmin shows [Qc Js] (High card : King)
+APS1977 shows [Qd Tc] (One pair : Tens)
+APS1977 collected 6372 from pot
+*** SUMMARY ***
+Total pot 6372 | No rake
+Board: [Kc Th 7s 8c 2c]
+Seat 4: firmin showed [Qc Js] and lost with High card : King
+Seat 7: APS1977 (small blind) showed [Qd Tc] and won 6372 with One pair : Tens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #4627961960204337156-36-1775931428 - Holdem no limit (50/200/400) - 2026/04/11 18:17:08 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: KAASPAALEEK (20083, 0.90€ bounty)
+Seat 2: MathisKcr (24203, 0.90€ bounty)
+Seat 3: KIM CANNA (21925, 0.90€ bounty)
+Seat 4: firmin (14523, 0.90€ bounty)
+Seat 5: HITSHARD (19330, 0.90€ bounty)
+Seat 6: Matazer (26397, 0.90€ bounty)
+Seat 7: APS1977 (23111, 0.90€ bounty)
+Seat 8: pedro8051 (10083, 0.90€ bounty)
+*** ANTE/BLINDS ***
+pedro8051 posts ante 50
+KAASPAALEEK posts ante 50
+MathisKcr posts ante 50
+KIM CANNA posts ante 50
+firmin posts ante 50
+HITSHARD posts ante 50
+Matazer posts ante 50
+APS1977 posts ante 50
+pedro8051 posts small blind 200
+KAASPAALEEK posts big blind 400
+Dealt to MathisKcr [Tc 8h]
+*** PRE-FLOP *** 
+MathisKcr folds
+KIM CANNA folds
+firmin folds
+HITSHARD folds
+Matazer folds
+APS1977 folds
+pedro8051 calls 200
+KAASPAALEEK checks
+*** FLOP *** [Jh Kd 4s]
+pedro8051 checks
+KAASPAALEEK checks
+*** TURN *** [Jh Kd 4s][6c]
+pedro8051 checks
+KAASPAALEEK checks
+*** RIVER *** [Jh Kd 4s 6c][Td]
+pedro8051 bets 400
+KAASPAALEEK folds
+pedro8051 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Board: [Jh Kd 4s 6c Td]
+Seat 8: pedro8051 (small blind) won 1600
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #4627961960204337156-37-1775931467 - Holdem no limit (50/200/400) - 2026/04/11 18:17:47 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: KAASPAALEEK (19633, 0.90€ bounty)
+Seat 2: MathisKcr (24153, 0.90€ bounty)
+Seat 3: KIM CANNA (21875, 0.90€ bounty)
+Seat 4: firmin (14473, 0.90€ bounty)
+Seat 5: HITSHARD (19280, 0.90€ bounty)
+Seat 6: Matazer (26347, 0.90€ bounty)
+Seat 7: APS1977 (23061, 0.90€ bounty)
+Seat 8: pedro8051 (10833, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KAASPAALEEK posts ante 50
+MathisKcr posts ante 50
+KIM CANNA posts ante 50
+firmin posts ante 50
+HITSHARD posts ante 50
+Matazer posts ante 50
+APS1977 posts ante 50
+pedro8051 posts ante 50
+KAASPAALEEK posts small blind 200
+MathisKcr posts big blind 400
+Dealt to MathisKcr [Th 3c]
+*** PRE-FLOP *** 
+KIM CANNA folds
+firmin calls 400
+HITSHARD folds
+Matazer folds
+APS1977 folds
+pedro8051 calls 400
+KAASPAALEEK folds
+MathisKcr checks
+*** FLOP *** [2s Ks Qc]
+MathisKcr checks
+firmin checks
+pedro8051 bets 630
+MathisKcr folds
+firmin calls 630
+*** TURN *** [2s Ks Qc][6d]
+firmin checks
+pedro8051 bets 1071
+firmin calls 1071
+*** RIVER *** [2s Ks Qc 6d][8c]
+firmin checks
+pedro8051 bets 8682 and is all-in
+firmin folds
+pedro8051 collected 13884 from pot
+*** SUMMARY ***
+Total pot 13884 | No rake
+Board: [2s Ks Qc 6d 8c]
+Seat 8: pedro8051 (button) won 13884
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #4627961960204337156-38-1775931569 - Holdem no limit (50/200/400) - 2026/04/11 18:19:29 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: KAASPAALEEK (19383, 0.90€ bounty)
+Seat 2: MathisKcr (23703, 0.90€ bounty)
+Seat 3: KIM CANNA (21825, 0.90€ bounty)
+Seat 4: firmin (12322, 0.90€ bounty)
+Seat 5: HITSHARD (19230, 0.90€ bounty)
+Seat 6: Matazer (26297, 0.90€ bounty)
+Seat 7: APS1977 (23011, 0.90€ bounty)
+Seat 8: pedro8051 (13884, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 50
+KIM CANNA posts ante 50
+KAASPAALEEK posts ante 50
+firmin posts ante 50
+HITSHARD posts ante 50
+Matazer posts ante 50
+APS1977 posts ante 50
+pedro8051 posts ante 50
+MathisKcr posts small blind 200
+KIM CANNA posts big blind 400
+Dealt to MathisKcr [5h 3s]
+*** PRE-FLOP *** 
+firmin folds
+HITSHARD folds
+Matazer folds
+APS1977 folds
+pedro8051 calls 400
+KAASPAALEEK folds
+MathisKcr folds
+KIM CANNA checks
+*** FLOP *** [2d 7d 8s]
+KIM CANNA checks
+pedro8051 checks
+*** TURN *** [2d 7d 8s][5s]
+KIM CANNA checks
+pedro8051 checks
+*** RIVER *** [2d 7d 8s 5s][8c]
+KIM CANNA checks
+pedro8051 checks
+*** SHOW DOWN ***
+KIM CANNA shows [4d 3h] (One pair : 8)
+pedro8051 shows [Ad 9h] (One pair : 8)
+pedro8051 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [2d 7d 8s 5s 8c]
+Seat 3: KIM CANNA (big blind) showed [4d 3h] and lost with One pair : 8
+Seat 8: pedro8051 showed [Ad 9h] and won 1400 with One pair : 8
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #4627961960204337156-39-1775931619 - Holdem no limit (50/200/400) - 2026/04/11 18:20:19 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: KAASPAALEEK (19333, 0.90€ bounty)
+Seat 2: MathisKcr (23453, 0.90€ bounty)
+Seat 3: KIM CANNA (21375, 0.90€ bounty)
+Seat 4: firmin (12272, 0.90€ bounty)
+Seat 5: HITSHARD (19180, 0.90€ bounty)
+Seat 6: Matazer (26247, 0.90€ bounty)
+Seat 7: APS1977 (22961, 0.90€ bounty)
+Seat 8: pedro8051 (14834, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KIM CANNA posts ante 50
+firmin posts ante 50
+KAASPAALEEK posts ante 50
+MathisKcr posts ante 50
+HITSHARD posts ante 50
+Matazer posts ante 50
+APS1977 posts ante 50
+pedro8051 posts ante 50
+KIM CANNA posts small blind 200
+firmin posts big blind 400
+Dealt to MathisKcr [3h Th]
+*** PRE-FLOP *** 
+HITSHARD folds
+Matazer folds
+APS1977 folds
+pedro8051 calls 400
+KAASPAALEEK folds
+MathisKcr folds
+KIM CANNA folds
+firmin checks
+*** FLOP *** [9h 3c Kc]
+firmin checks
+pedro8051 checks
+*** TURN *** [9h 3c Kc][7d]
+firmin checks
+pedro8051 checks
+*** RIVER *** [9h 3c Kc 7d][8c]
+firmin checks
+pedro8051 checks
+*** SHOW DOWN ***
+pedro8051 shows [Ad 2s] (High card : Ace)
+firmin shows [9s 6d] (One pair : 9)
+firmin collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [9h 3c Kc 7d 8c]
+Seat 4: firmin (big blind) showed [9s 6d] and won 1400 with One pair : 9
+Seat 8: pedro8051 showed [Ad 2s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #4627961960204337156-40-1775931688 - Holdem no limit (60/250/500) - 2026/04/11 18:21:28 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: KAASPAALEEK (19283, 0.90€ bounty)
+Seat 2: MathisKcr (23403, 0.90€ bounty)
+Seat 3: KIM CANNA (21125, 0.90€ bounty)
+Seat 4: firmin (13222, 0.90€ bounty)
+Seat 5: HITSHARD (19130, 0.90€ bounty)
+Seat 6: Matazer (26197, 0.90€ bounty)
+Seat 7: APS1977 (22911, 0.90€ bounty)
+Seat 8: pedro8051 (14384, 0.90€ bounty)
+*** ANTE/BLINDS ***
+firmin posts ante 60
+HITSHARD posts ante 60
+KAASPAALEEK posts ante 60
+MathisKcr posts ante 60
+KIM CANNA posts ante 60
+Matazer posts ante 60
+APS1977 posts ante 60
+pedro8051 posts ante 60
+firmin posts small blind 250
+HITSHARD posts big blind 500
+Dealt to MathisKcr [Kh 7h]
+*** PRE-FLOP *** 
+Matazer raises 750 to 1250
+APS1977 folds
+pedro8051 calls 1250
+KAASPAALEEK folds
+MathisKcr calls 1250
+KIM CANNA folds
+firmin calls 1000
+HITSHARD folds
+*** FLOP *** [4h 3s 5s]
+firmin checks
+Matazer checks
+pedro8051 checks
+MathisKcr checks
+*** TURN *** [4h 3s 5s][6c]
+firmin checks
+Matazer checks
+pedro8051 bets 500
+MathisKcr raises 1250 to 1750
+firmin folds
+Matazer folds
+pedro8051 folds
+MathisKcr collected 8230 from pot
+*** SUMMARY ***
+Total pot 8230 | No rake
+Board: [4h 3s 5s 6c]
+Seat 2: MathisKcr won 8230
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #4627961960204337156-41-1775931795 - Holdem no limit (60/250/500) - 2026/04/11 18:23:15 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: KAASPAALEEK (19223, 0.90€ bounty)
+Seat 2: MathisKcr (28573, 0.90€ bounty)
+Seat 3: KIM CANNA (21065, 0.90€ bounty)
+Seat 4: firmin (11912, 0.90€ bounty)
+Seat 5: HITSHARD (18570, 0.90€ bounty)
+Seat 6: Matazer (24887, 0.90€ bounty)
+Seat 7: APS1977 (22851, 0.90€ bounty)
+Seat 8: pedro8051 (12574, 0.90€ bounty)
+*** ANTE/BLINDS ***
+HITSHARD posts ante 60
+Matazer posts ante 60
+KAASPAALEEK posts ante 60
+MathisKcr posts ante 60
+KIM CANNA posts ante 60
+firmin posts ante 60
+APS1977 posts ante 60
+pedro8051 posts ante 60
+HITSHARD posts small blind 250
+Matazer posts big blind 500
+Dealt to MathisKcr [6d 4c]
+*** PRE-FLOP *** 
+APS1977 folds
+pedro8051 folds
+KAASPAALEEK raises 500 to 1000
+MathisKcr folds
+KIM CANNA folds
+firmin calls 1000
+HITSHARD raises 2250 to 3250
+Matazer folds
+KAASPAALEEK calls 2250
+firmin calls 2250
+*** FLOP *** [9d 2s Ah]
+HITSHARD checks
+KAASPAALEEK checks
+firmin checks
+*** TURN *** [9d 2s Ah][4d]
+HITSHARD checks
+KAASPAALEEK checks
+firmin checks
+*** RIVER *** [9d 2s Ah 4d][6c]
+HITSHARD checks
+KAASPAALEEK checks
+firmin checks
+*** SHOW DOWN ***
+firmin shows [Ks Qh] (High card : Ace)
+HITSHARD shows [Jd Kc] (High card : Ace)
+KAASPAALEEK shows [Th 9h] (One pair : 9)
+KAASPAALEEK collected 10730 from pot
+*** SUMMARY ***
+Total pot 10730 | No rake
+Board: [9d 2s Ah 4d 6c]
+Seat 1: KAASPAALEEK showed [Th 9h] and won 10730 with One pair : 9
+Seat 4: firmin (button) showed [Ks Qh] and lost with High card : Ace
+Seat 5: HITSHARD (small blind) showed [Jd Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #4627961960204337156-42-1775931918 - Holdem no limit (60/250/500) - 2026/04/11 18:25:18 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: KAASPAALEEK (26643, 0.90€ bounty)
+Seat 2: MathisKcr (28513, 0.90€ bounty)
+Seat 3: KIM CANNA (21005, 0.90€ bounty)
+Seat 4: firmin (8602, 0.90€ bounty)
+Seat 5: HITSHARD (15260, 0.90€ bounty)
+Seat 6: Matazer (24327, 0.90€ bounty)
+Seat 7: APS1977 (22791, 0.90€ bounty)
+Seat 8: pedro8051 (12514, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matazer posts ante 60
+APS1977 posts ante 60
+KAASPAALEEK posts ante 60
+MathisKcr posts ante 60
+KIM CANNA posts ante 60
+firmin posts ante 60
+HITSHARD posts ante 60
+pedro8051 posts ante 60
+Matazer posts small blind 250
+APS1977 posts big blind 500
+Dealt to MathisKcr [3h Kh]
+*** PRE-FLOP *** 
+pedro8051 calls 500
+KAASPAALEEK folds
+MathisKcr raises 500 to 1000
+KIM CANNA folds
+firmin calls 1000
+HITSHARD folds
+Matazer folds
+APS1977 calls 500
+pedro8051 calls 500
+*** FLOP *** [8h Jd Ts]
+APS1977 checks
+pedro8051 checks
+MathisKcr checks
+firmin checks
+*** TURN *** [8h Jd Ts][3c]
+APS1977 checks
+pedro8051 bets 1656
+MathisKcr folds
+firmin calls 1656
+APS1977 folds
+*** RIVER *** [8h Jd Ts 3c][8d]
+pedro8051 bets 9798 and is all-in
+firmin folds
+pedro8051 collected 17840 from pot
+*** SUMMARY ***
+Total pot 17840 | No rake
+Board: [8h Jd Ts 3c 8d]
+Seat 8: pedro8051 won 17840
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4627961960204337156-43-1775932026 - Holdem no limit (70/300/600) - 2026/04/11 18:27:06 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: KAASPAALEEK (26583, 0.90€ bounty)
+Seat 2: MathisKcr (27453, 0.90€ bounty)
+Seat 3: KIM CANNA (20945, 0.90€ bounty)
+Seat 4: firmin (5886, 0.90€ bounty)
+Seat 5: HITSHARD (15200, 0.90€ bounty)
+Seat 6: Matazer (24017, 0.90€ bounty)
+Seat 7: APS1977 (21731, 0.90€ bounty)
+Seat 8: pedro8051 (17840, 0.90€ bounty)
+*** ANTE/BLINDS ***
+APS1977 posts ante 70
+pedro8051 posts ante 70
+KAASPAALEEK posts ante 70
+MathisKcr posts ante 70
+KIM CANNA posts ante 70
+firmin posts ante 70
+HITSHARD posts ante 70
+Matazer posts ante 70
+APS1977 posts small blind 300
+pedro8051 posts big blind 600
+Dealt to MathisKcr [Kh Qs]
+*** PRE-FLOP *** 
+KAASPAALEEK folds
+MathisKcr raises 600 to 1200
+KIM CANNA folds
+firmin folds
+HITSHARD folds
+Matazer folds
+APS1977 folds
+pedro8051 calls 600
+*** FLOP *** [3c 9h 4d]
+pedro8051 checks
+MathisKcr bets 1141
+pedro8051 calls 1141
+*** TURN *** [3c 9h 4d][6s]
+pedro8051 checks
+MathisKcr bets 2771
+pedro8051 calls 2771
+*** RIVER *** [3c 9h 4d 6s][Ad]
+pedro8051 bets 12658 and is all-in
+MathisKcr folds
+pedro8051 collected 23742 from pot
+*** SUMMARY ***
+Total pot 23742 | No rake
+Board: [3c 9h 4d 6s Ad]
+Seat 8: pedro8051 (big blind) won 23742
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4627961960204337156-44-1775932084 - Holdem no limit (70/300/600) - 2026/04/11 18:28:04 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: KAASPAALEEK (26513, 0.90€ bounty)
+Seat 2: MathisKcr (22271, 0.90€ bounty)
+Seat 3: KIM CANNA (20875, 0.90€ bounty)
+Seat 4: firmin (5816, 0.90€ bounty)
+Seat 5: HITSHARD (15130, 0.90€ bounty)
+Seat 6: Matazer (23947, 0.90€ bounty)
+Seat 7: APS1977 (21361, 0.90€ bounty)
+Seat 8: pedro8051 (23742, 0.90€ bounty)
+*** ANTE/BLINDS ***
+pedro8051 posts ante 70
+KAASPAALEEK posts ante 70
+MathisKcr posts ante 70
+KIM CANNA posts ante 70
+firmin posts ante 70
+HITSHARD posts ante 70
+Matazer posts ante 70
+APS1977 posts ante 70
+pedro8051 posts small blind 300
+KAASPAALEEK posts big blind 600
+Dealt to MathisKcr [8c 7h]
+*** PRE-FLOP *** 
+MathisKcr folds
+KIM CANNA folds
+firmin calls 600
+HITSHARD calls 600
+Matazer calls 600
+APS1977 calls 600
+pedro8051 folds
+KAASPAALEEK checks
+*** FLOP *** [5c 5d 4h]
+KAASPAALEEK checks
+firmin checks
+HITSHARD checks
+Matazer checks
+APS1977 checks
+*** TURN *** [5c 5d 4h][6h]
+KAASPAALEEK checks
+firmin checks
+HITSHARD bets 1930
+Matazer folds
+APS1977 folds
+KAASPAALEEK folds
+firmin calls 1930
+*** RIVER *** [5c 5d 4h 6h][2h]
+firmin checks
+HITSHARD bets 12530 and is all-in
+firmin folds
+HITSHARD collected 20250 from pot
+*** SUMMARY ***
+Total pot 20250 | No rake
+Board: [5c 5d 4h 6h 2h]
+Seat 5: HITSHARD won 20250
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4627961960204337156-45-1775932252 - Holdem no limit (70/300/600) - 2026/04/11 18:30:52 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: KAASPAALEEK (25843, 0.90€ bounty)
+Seat 2: MathisKcr (22201, 0.90€ bounty)
+Seat 4: firmin (3216, 0.90€ bounty)
+Seat 5: HITSHARD (20250, 0.90€ bounty)
+Seat 6: Matazer (23277, 0.90€ bounty)
+Seat 7: APS1977 (20691, 0.90€ bounty)
+Seat 8: pedro8051 (23372, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KAASPAALEEK posts ante 70
+MathisKcr posts ante 70
+firmin posts ante 70
+HITSHARD posts ante 70
+Matazer posts ante 70
+APS1977 posts ante 70
+pedro8051 posts ante 70
+KAASPAALEEK posts small blind 300
+MathisKcr posts big blind 600
+Dealt to MathisKcr [Ks 4d]
+*** PRE-FLOP *** 
+firmin folds
+HITSHARD folds
+Matazer raises 900 to 1500
+APS1977 folds
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr calls 900
+*** FLOP *** [8c Ac 7h]
+MathisKcr checks
+Matazer bets 1327
+MathisKcr folds
+Matazer collected 5117 from pot
+*** SUMMARY ***
+Total pot 5117 | No rake
+Board: [8c Ac 7h]
+Seat 6: Matazer won 5117
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #4627961960204337156-46-1775932301 - Holdem no limit (80/350/700) - 2026/04/11 18:31:41 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: KAASPAALEEK (25473, 0.90€ bounty)
+Seat 2: MathisKcr (20631, 0.90€ bounty)
+Seat 3: Matofs (20000, 0.90€ bounty)
+Seat 4: firmin (3146, 0.90€ bounty)
+Seat 5: HITSHARD (20180, 0.90€ bounty)
+Seat 6: Matazer (25497, 0.90€ bounty)
+Seat 7: APS1977 (20621, 0.90€ bounty)
+Seat 8: pedro8051 (23302, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 80
+Matofs posts ante 80
+KAASPAALEEK posts ante 80
+firmin posts ante 80
+HITSHARD posts ante 80
+Matazer posts ante 80
+APS1977 posts ante 80
+pedro8051 posts ante 80
+MathisKcr posts small blind 350
+Matofs posts big blind 700
+Dealt to MathisKcr [6h 4c]
+*** PRE-FLOP *** 
+firmin folds
+HITSHARD folds
+Matazer folds
+APS1977 folds
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr raises 1400 to 2100
+Matofs calls 1400
+*** FLOP *** [9s 4d 9c]
+MathisKcr bets 1750
+Matofs folds
+MathisKcr collected 6590 from pot
+*** SUMMARY ***
+Total pot 6590 | No rake
+Board: [9s 4d 9c]
+Seat 2: MathisKcr (small blind) won 6590
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #4627961960204337156-47-1775932360 - Holdem no limit (80/350/700) - 2026/04/11 18:32:40 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: KAASPAALEEK (25393, 0.90€ bounty)
+Seat 2: MathisKcr (23291, 0.90€ bounty)
+Seat 3: Matofs (17820, 0.90€ bounty)
+Seat 4: firmin (3066, 0.90€ bounty)
+Seat 5: HITSHARD (20100, 0.90€ bounty)
+Seat 6: Matazer (25417, 0.90€ bounty)
+Seat 7: APS1977 (20541, 0.90€ bounty)
+Seat 8: pedro8051 (23222, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matofs posts ante 80
+firmin posts ante 80
+KAASPAALEEK posts ante 80
+MathisKcr posts ante 80
+HITSHARD posts ante 80
+Matazer posts ante 80
+APS1977 posts ante 80
+pedro8051 posts ante 80
+Matofs posts small blind 350
+firmin posts big blind 700
+Dealt to MathisKcr [Qh 5d]
+*** PRE-FLOP *** 
+HITSHARD folds
+Matazer folds
+APS1977 folds
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr raises 700 to 1400
+Matofs folds
+firmin folds
+MathisKcr collected 3090 from pot
+*** SUMMARY ***
+Total pot 3090 | No rake
+Seat 2: MathisKcr (button) won 3090
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #4627961960204337156-48-1775932403 - Holdem no limit (80/350/700) - 2026/04/11 18:33:23 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: KAASPAALEEK (25313, 0.90€ bounty)
+Seat 2: MathisKcr (24901, 0.90€ bounty)
+Seat 3: Matofs (17390, 0.90€ bounty)
+Seat 4: firmin (2286, 0.90€ bounty)
+Seat 5: HITSHARD (20020, 0.90€ bounty)
+Seat 6: Matazer (25337, 0.90€ bounty)
+Seat 7: APS1977 (20461, 0.90€ bounty)
+Seat 8: pedro8051 (23142, 0.90€ bounty)
+*** ANTE/BLINDS ***
+firmin posts ante 80
+HITSHARD posts ante 80
+KAASPAALEEK posts ante 80
+MathisKcr posts ante 80
+Matofs posts ante 80
+Matazer posts ante 80
+APS1977 posts ante 80
+pedro8051 posts ante 80
+firmin posts small blind 350
+HITSHARD posts big blind 700
+Dealt to MathisKcr [2c 6s]
+*** PRE-FLOP *** 
+Matazer folds
+APS1977 raises 700 to 1400
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr folds
+Matofs calls 1400
+firmin folds
+HITSHARD calls 700
+*** FLOP *** [As 2d 6d]
+HITSHARD checks
+APS1977 bets 3374
+Matofs folds
+HITSHARD folds
+APS1977 collected 8564 from pot
+*** SUMMARY ***
+Total pot 8564 | No rake
+Board: [As 2d 6d]
+Seat 7: APS1977 won 8564
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #4627961960204337156-49-1775932465 - Holdem no limit (80/350/700) - 2026/04/11 18:34:25 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: KAASPAALEEK (25233, 0.90€ bounty)
+Seat 2: MathisKcr (24821, 0.90€ bounty)
+Seat 3: Matofs (15910, 0.90€ bounty)
+Seat 4: firmin (1856, 0.90€ bounty)
+Seat 5: HITSHARD (18540, 0.90€ bounty)
+Seat 6: Matazer (25257, 0.90€ bounty)
+Seat 7: APS1977 (24171, 0.90€ bounty)
+Seat 8: pedro8051 (23062, 0.90€ bounty)
+*** ANTE/BLINDS ***
+HITSHARD posts ante 80
+Matazer posts ante 80
+KAASPAALEEK posts ante 80
+MathisKcr posts ante 80
+Matofs posts ante 80
+firmin posts ante 80
+APS1977 posts ante 80
+pedro8051 posts ante 80
+HITSHARD posts small blind 350
+Matazer posts big blind 700
+Dealt to MathisKcr [Jh 7s]
+*** PRE-FLOP *** 
+APS1977 folds
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr folds
+Matofs folds
+firmin calls 700
+HITSHARD folds
+Matazer checks
+*** FLOP *** [7c Ah 6s]
+Matazer checks
+firmin checks
+*** TURN *** [7c Ah 6s][4c]
+Matazer checks
+firmin checks
+*** RIVER *** [7c Ah 6s 4c][6c]
+Matazer bets 1750
+firmin folds
+Matazer collected 4140 from pot
+*** SUMMARY ***
+Total pot 4140 | No rake
+Board: [7c Ah 6s 4c 6c]
+Seat 6: Matazer (big blind) won 4140
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #4627961960204337156-50-1775932570 - Holdem no limit (100/400/800) - 2026/04/11 18:36:10 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: KAASPAALEEK (25153, 0.90€ bounty)
+Seat 2: MathisKcr (24741, 0.90€ bounty)
+Seat 3: Matofs (15830, 0.90€ bounty)
+Seat 4: firmin (1076, 0.90€ bounty)
+Seat 5: HITSHARD (18110, 0.90€ bounty)
+Seat 6: Matazer (26867, 0.90€ bounty)
+Seat 7: APS1977 (24091, 0.90€ bounty)
+Seat 8: pedro8051 (22982, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matazer posts ante 100
+APS1977 posts ante 100
+KAASPAALEEK posts ante 100
+MathisKcr posts ante 100
+Matofs posts ante 100
+firmin posts ante 100
+HITSHARD posts ante 100
+pedro8051 posts ante 100
+Matazer posts small blind 400
+APS1977 posts big blind 800
+Dealt to MathisKcr [2s 4d]
+*** PRE-FLOP *** 
+pedro8051 calls 800
+KAASPAALEEK folds
+MathisKcr folds
+Matofs folds
+firmin raises 176 to 976 and is all-in
+HITSHARD calls 976
+Matazer calls 576
+APS1977 calls 176
+pedro8051 calls 176
+*** FLOP *** [4c 6s Ac]
+Matazer checks
+APS1977 checks
+pedro8051 checks
+HITSHARD bets 1600
+Matazer folds
+APS1977 calls 1600
+pedro8051 folds
+*** TURN *** [4c 6s Ac][Qh]
+APS1977 checks
+HITSHARD checks
+*** RIVER *** [4c 6s Ac Qh][Ts]
+APS1977 checks
+HITSHARD checks
+*** SHOW DOWN ***
+firmin shows [Js 7s] (High card : Ace)
+HITSHARD shows [6c 8c] (One pair : 6)
+APS1977 shows [6d 2c] (One pair : 6)
+APS1977 collected 4440 from pot
+HITSHARD collected 4440 from pot
+*** SUMMARY ***
+Total pot 8880 | No rake
+Board: [4c 6s Ac Qh Ts]
+Seat 4: firmin showed [Js 7s] and lost with High card : Ace
+Seat 5: HITSHARD (button) showed [6c 8c] and won 4440 with One pair : 6
+Seat 7: APS1977 (big blind) showed [6d 2c] and won 4440 with One pair : 6
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #4627961960204337156-51-1775932666 - Holdem no limit (100/400/800) - 2026/04/11 18:37:46 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: KAASPAALEEK (25053, 0.90€ bounty)
+Seat 2: MathisKcr (24641, 0.90€ bounty)
+Seat 3: Matofs (15730, 0.90€ bounty)
+Seat 5: HITSHARD (19874, 1.12€ bounty)
+Seat 6: Matazer (25791, 0.90€ bounty)
+Seat 7: APS1977 (25855, 1.12€ bounty)
+Seat 8: pedro8051 (21906, 0.90€ bounty)
+*** ANTE/BLINDS ***
+APS1977 posts ante 100
+pedro8051 posts ante 100
+KAASPAALEEK posts ante 100
+MathisKcr posts ante 100
+Matofs posts ante 100
+HITSHARD posts ante 100
+Matazer posts ante 100
+APS1977 posts small blind 400
+pedro8051 posts big blind 800
+Dealt to MathisKcr [3h 7c]
+*** PRE-FLOP *** 
+KAASPAALEEK folds
+MathisKcr folds
+Matofs raises 800 to 1600
+HITSHARD folds
+Matazer folds
+APS1977 calls 1200
+pedro8051 calls 800
+*** FLOP *** [Kd Tc Js]
+APS1977 checks
+pedro8051 checks
+Matofs bets 2750
+APS1977 folds
+pedro8051 folds
+Matofs collected 8250 from pot
+*** SUMMARY ***
+Total pot 8250 | No rake
+Board: [Kd Tc Js]
+Seat 3: Matofs won 8250
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #4627961960204337156-52-1775932699 - Holdem no limit (100/400/800) - 2026/04/11 18:38:19 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: KAASPAALEEK (24953, 0.90€ bounty)
+Seat 2: MathisKcr (24541, 0.90€ bounty)
+Seat 3: Matofs (19530, 0.90€ bounty)
+Seat 5: HITSHARD (19774, 1.12€ bounty)
+Seat 6: Matazer (25691, 0.90€ bounty)
+Seat 7: APS1977 (24155, 1.12€ bounty)
+Seat 8: pedro8051 (20206, 0.90€ bounty)
+*** ANTE/BLINDS ***
+pedro8051 posts ante 100
+KAASPAALEEK posts ante 100
+MathisKcr posts ante 100
+Matofs posts ante 100
+HITSHARD posts ante 100
+Matazer posts ante 100
+APS1977 posts ante 100
+pedro8051 posts small blind 400
+KAASPAALEEK posts big blind 800
+Dealt to MathisKcr [6d 2c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Matofs raises 800 to 1600
+HITSHARD folds
+Matazer folds
+APS1977 folds
+pedro8051 folds
+KAASPAALEEK calls 800
+*** FLOP *** [Jd Ac 5h]
+KAASPAALEEK checks
+Matofs bets 2150
+KAASPAALEEK folds
+Matofs collected 6450 from pot
+*** SUMMARY ***
+Total pot 6450 | No rake
+Board: [Jd Ac 5h]
+Seat 3: Matofs won 6450
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #4627961960204337156-53-1775932731 - Holdem no limit (100/400/800) - 2026/04/11 18:38:51 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: KAASPAALEEK (23253, 0.90€ bounty)
+Seat 2: MathisKcr (24441, 0.90€ bounty)
+Seat 3: Matofs (22130, 0.90€ bounty)
+Seat 5: HITSHARD (19674, 1.12€ bounty)
+Seat 6: Matazer (25591, 0.90€ bounty)
+Seat 7: APS1977 (24055, 1.12€ bounty)
+Seat 8: pedro8051 (19706, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KAASPAALEEK posts ante 100
+MathisKcr posts ante 100
+Matofs posts ante 100
+HITSHARD posts ante 100
+Matazer posts ante 100
+APS1977 posts ante 100
+pedro8051 posts ante 100
+KAASPAALEEK posts small blind 400
+MathisKcr posts big blind 800
+Dealt to MathisKcr [2h Jd]
+*** PRE-FLOP *** 
+Matofs folds
+HITSHARD folds
+Matazer folds
+APS1977 raises 1600 to 2400
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr calls 1600
+*** FLOP *** [7d 5s 6d]
+MathisKcr checks
+APS1977 checks
+*** TURN *** [7d 5s 6d][4d]
+MathisKcr bets 2950
+APS1977 folds
+MathisKcr collected 8850 from pot
+*** SUMMARY ***
+Total pot 8850 | No rake
+Board: [7d 5s 6d 4d]
+Seat 2: MathisKcr (big blind) won 8850
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #4627961960204337156-54-1775932774 - Holdem no limit (100/400/800) - 2026/04/11 18:39:34 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: KAASPAALEEK (22753, 0.90€ bounty)
+Seat 2: MathisKcr (27841, 0.90€ bounty)
+Seat 3: Matofs (22030, 0.90€ bounty)
+Seat 5: HITSHARD (19574, 1.12€ bounty)
+Seat 6: Matazer (25491, 0.90€ bounty)
+Seat 7: APS1977 (21555, 1.12€ bounty)
+Seat 8: pedro8051 (19606, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 100
+Matofs posts ante 100
+KAASPAALEEK posts ante 100
+HITSHARD posts ante 100
+Matazer posts ante 100
+APS1977 posts ante 100
+pedro8051 posts ante 100
+MathisKcr posts small blind 400
+Matofs posts big blind 800
+Dealt to MathisKcr [2c Jh]
+*** PRE-FLOP *** 
+HITSHARD folds
+Matazer folds
+APS1977 folds
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr folds
+Matofs collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 3: Matofs (big blind) won 1900
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #4627961960204337156-55-1775932799 - Holdem no limit (100/400/800) - 2026/04/11 18:39:59 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: KAASPAALEEK (22653, 0.90€ bounty)
+Seat 2: MathisKcr (27341, 0.90€ bounty)
+Seat 3: Matofs (23030, 0.90€ bounty)
+Seat 5: HITSHARD (19474, 1.12€ bounty)
+Seat 6: Matazer (25391, 0.90€ bounty)
+Seat 7: APS1977 (21455, 1.12€ bounty)
+Seat 8: pedro8051 (19506, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matofs posts ante 100
+HITSHARD posts ante 100
+KAASPAALEEK posts ante 100
+MathisKcr posts ante 100
+Matazer posts ante 100
+APS1977 posts ante 100
+pedro8051 posts ante 100
+Matofs posts small blind 400
+HITSHARD posts big blind 800
+Dealt to MathisKcr [9c 8c]
+*** PRE-FLOP *** 
+Matazer folds
+APS1977 raises 800 to 1600
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr calls 1600
+Matofs folds
+HITSHARD folds
+*** FLOP *** [8h 5d 2c]
+APS1977 bets 4080
+MathisKcr raises 21561 to 25641 and is all-in
+APS1977 calls 15675 and is all-in
+*** TURN *** [8h 5d 2c][9s]
+*** RIVER *** [8h 5d 2c 9s][2h]
+*** SHOW DOWN ***
+APS1977 shows [3s As] (One pair : 2)
+MathisKcr shows [9c 8c] (Two pairs : 9 and 8)
+MathisKcr collected 50496 from pot
+*** SUMMARY ***
+Total pot 50496 | No rake
+Board: [8h 5d 2c 9s 2h]
+Seat 2: MathisKcr (button) showed [9c 8c] and won 50496 with Two pairs : 9 and 8
+Seat 7: APS1977 showed [3s As] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #4627961960204337156-56-1775932841 - Holdem no limit (100/400/800) - 2026/04/11 18:40:41 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: KAASPAALEEK (22553, 0.90€ bounty)
+Seat 2: MathisKcr (50496, 1.46€ bounty)
+Seat 3: Matofs (22530, 0.90€ bounty)
+Seat 5: HITSHARD (18574, 1.12€ bounty)
+Seat 6: Matazer (25291, 0.90€ bounty)
+Seat 8: pedro8051 (19406, 0.90€ bounty)
+*** ANTE/BLINDS ***
+HITSHARD posts ante 100
+Matazer posts ante 100
+KAASPAALEEK posts ante 100
+MathisKcr posts ante 100
+Matofs posts ante 100
+pedro8051 posts ante 100
+HITSHARD posts small blind 400
+Matazer posts big blind 800
+Dealt to MathisKcr [Js 6c]
+*** PRE-FLOP *** 
+pedro8051 calls 800
+KAASPAALEEK raises 2000 to 2800
+MathisKcr folds
+Matofs folds
+HITSHARD folds
+Matazer folds
+pedro8051 folds
+KAASPAALEEK collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | No rake
+Seat 1: KAASPAALEEK won 5400
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #4627961960204337156-57-1775932887 - Holdem no limit (120/500/1000) - 2026/04/11 18:41:27 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: KAASPAALEEK (25053, 0.90€ bounty)
+Seat 2: MathisKcr (50396, 1.46€ bounty)
+Seat 3: Matofs (22430, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (33317, 0.90€ bounty)
+Seat 5: HITSHARD (18074, 1.12€ bounty)
+Seat 6: Matazer (24391, 0.90€ bounty)
+Seat 7: capirex_RR (20000, 0.90€ bounty)
+Seat 8: pedro8051 (18506, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matazer posts ante 120
+capirex_RR posts ante 120
+KAASPAALEEK posts ante 120
+MathisKcr posts ante 120
+Matofs posts ante 120
+AnaisGOAT690 posts ante 120
+HITSHARD posts ante 120
+pedro8051 posts ante 120
+Matazer posts small blind 500
+capirex_RR posts big blind 1000
+Dealt to MathisKcr [6c 8d]
+*** PRE-FLOP *** 
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr folds
+Matofs folds
+AnaisGOAT690 folds
+HITSHARD raises 1000 to 2000
+Matazer folds
+capirex_RR folds
+HITSHARD collected 4460 from pot
+*** SUMMARY ***
+Total pot 4460 | No rake
+Seat 5: HITSHARD (button) won 4460
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #4627961960204337156-58-1775932927 - Holdem no limit (120/500/1000) - 2026/04/11 18:42:07 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: KAASPAALEEK (24933, 0.90€ bounty)
+Seat 2: MathisKcr (50276, 1.46€ bounty)
+Seat 3: Matofs (22310, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (33197, 0.90€ bounty)
+Seat 5: HITSHARD (20414, 1.12€ bounty)
+Seat 6: Matazer (23771, 0.90€ bounty)
+Seat 7: capirex_RR (18880, 0.90€ bounty)
+Seat 8: pedro8051 (18386, 0.90€ bounty)
+*** ANTE/BLINDS ***
+capirex_RR posts ante 120
+pedro8051 posts ante 120
+KAASPAALEEK posts ante 120
+MathisKcr posts ante 120
+Matofs posts ante 120
+AnaisGOAT690 posts ante 120
+HITSHARD posts ante 120
+Matazer posts ante 120
+capirex_RR posts small blind 500
+pedro8051 posts big blind 1000
+Dealt to MathisKcr [7d Jh]
+*** PRE-FLOP *** 
+KAASPAALEEK folds
+MathisKcr folds
+Matofs folds
+AnaisGOAT690 calls 1000
+HITSHARD folds
+Matazer folds
+capirex_RR calls 500
+pedro8051 checks
+*** FLOP *** [9d Qs 2c]
+capirex_RR checks
+pedro8051 checks
+AnaisGOAT690 checks
+*** TURN *** [9d Qs 2c][2h]
+capirex_RR bets 1386
+pedro8051 calls 1386
+AnaisGOAT690 calls 1386
+*** RIVER *** [9d Qs 2c 2h][5c]
+capirex_RR bets 5277
+pedro8051 folds
+AnaisGOAT690 folds
+capirex_RR collected 13395 from pot
+*** SUMMARY ***
+Total pot 13395 | No rake
+Board: [9d Qs 2c 2h 5c]
+Seat 7: capirex_RR (small blind) won 13395
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #4627961960204337156-59-1775933012 - Holdem no limit (120/500/1000) - 2026/04/11 18:43:32 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: KAASPAALEEK (24813, 0.90€ bounty)
+Seat 2: MathisKcr (50156, 1.46€ bounty)
+Seat 3: Matofs (22190, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (30691, 0.90€ bounty)
+Seat 5: HITSHARD (20294, 1.12€ bounty)
+Seat 6: Matazer (23651, 0.90€ bounty)
+Seat 7: capirex_RR (24492, 0.90€ bounty)
+Seat 8: pedro8051 (15880, 0.90€ bounty)
+*** ANTE/BLINDS ***
+pedro8051 posts ante 120
+KAASPAALEEK posts ante 120
+MathisKcr posts ante 120
+Matofs posts ante 120
+AnaisGOAT690 posts ante 120
+HITSHARD posts ante 120
+Matazer posts ante 120
+capirex_RR posts ante 120
+pedro8051 posts small blind 500
+KAASPAALEEK posts big blind 1000
+Dealt to MathisKcr [Qh 9c]
+*** PRE-FLOP *** 
+MathisKcr raises 1000 to 2000
+Matofs folds
+AnaisGOAT690 folds
+HITSHARD folds
+Matazer folds
+capirex_RR calls 2000
+pedro8051 folds
+KAASPAALEEK folds
+*** FLOP *** [Ah Js Jd]
+MathisKcr checks
+capirex_RR checks
+*** TURN *** [Ah Js Jd][7h]
+MathisKcr checks
+capirex_RR bets 1615
+MathisKcr folds
+capirex_RR collected 8075 from pot
+*** SUMMARY ***
+Total pot 8075 | No rake
+Board: [Ah Js Jd 7h]
+Seat 7: capirex_RR (button) won 8075
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #4627961960204337156-60-1775933068 - Holdem no limit (120/500/1000) - 2026/04/11 18:44:28 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: KAASPAALEEK (23693, 0.90€ bounty)
+Seat 2: MathisKcr (48036, 1.46€ bounty)
+Seat 3: Matofs (22070, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (30571, 0.90€ bounty)
+Seat 5: HITSHARD (20174, 1.12€ bounty)
+Seat 6: Matazer (23531, 0.90€ bounty)
+Seat 7: capirex_RR (28832, 0.90€ bounty)
+Seat 8: pedro8051 (15260, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KAASPAALEEK posts ante 120
+MathisKcr posts ante 120
+Matofs posts ante 120
+AnaisGOAT690 posts ante 120
+HITSHARD posts ante 120
+Matazer posts ante 120
+capirex_RR posts ante 120
+pedro8051 posts ante 120
+KAASPAALEEK posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [Td 3d]
+*** PRE-FLOP *** 
+Matofs folds
+AnaisGOAT690 folds
+HITSHARD folds
+Matazer folds
+capirex_RR folds
+pedro8051 calls 1000
+KAASPAALEEK folds
+MathisKcr checks
+*** FLOP *** [4h 7s Kc]
+MathisKcr checks
+pedro8051 bets 1000
+MathisKcr folds
+pedro8051 collected 4460 from pot
+*** SUMMARY ***
+Total pot 4460 | No rake
+Board: [4h 7s Kc]
+Seat 8: pedro8051 (button) won 4460
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #4627961960204337156-61-1775933132 - Holdem no limit (120/500/1000) - 2026/04/11 18:45:32 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: KAASPAALEEK (23073, 0.90€ bounty)
+Seat 2: MathisKcr (46916, 1.46€ bounty)
+Seat 3: Matofs (21950, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (30451, 0.90€ bounty)
+Seat 5: HITSHARD (20054, 1.12€ bounty)
+Seat 6: Matazer (23411, 0.90€ bounty)
+Seat 7: capirex_RR (28712, 0.90€ bounty)
+Seat 8: pedro8051 (17600, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Matofs posts ante 120
+KAASPAALEEK posts ante 120
+AnaisGOAT690 posts ante 120
+HITSHARD posts ante 120
+Matazer posts ante 120
+capirex_RR posts ante 120
+pedro8051 posts ante 120
+MathisKcr posts small blind 500
+Matofs posts big blind 1000
+Dealt to MathisKcr [4d 3c]
+*** PRE-FLOP *** 
+AnaisGOAT690 folds
+HITSHARD folds
+Matazer folds
+capirex_RR folds
+pedro8051 calls 1000
+KAASPAALEEK folds
+MathisKcr folds
+Matofs checks
+*** FLOP *** [Qs Ac Kh]
+Matofs checks
+pedro8051 bets 1000
+Matofs folds
+pedro8051 collected 4460 from pot
+*** SUMMARY ***
+Total pot 4460 | No rake
+Board: [Qs Ac Kh]
+Seat 8: pedro8051 won 4460
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #4627961960204337156-62-1775933185 - Holdem no limit (140/600/1200) - 2026/04/11 18:46:25 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: KAASPAALEEK (22953, 0.90€ bounty)
+Seat 2: MathisKcr (46296, 1.46€ bounty)
+Seat 3: Matofs (20830, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (30331, 0.90€ bounty)
+Seat 5: HITSHARD (19934, 1.12€ bounty)
+Seat 6: Matazer (23291, 0.90€ bounty)
+Seat 7: capirex_RR (28592, 0.90€ bounty)
+Seat 8: pedro8051 (19940, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matofs posts ante 140
+AnaisGOAT690 posts ante 140
+KAASPAALEEK posts ante 140
+MathisKcr posts ante 140
+HITSHARD posts ante 140
+Matazer posts ante 140
+capirex_RR posts ante 140
+pedro8051 posts ante 140
+Matofs posts small blind 600
+AnaisGOAT690 posts big blind 1200
+Dealt to MathisKcr [4s Qd]
+*** PRE-FLOP *** 
+HITSHARD folds
+Matazer folds
+capirex_RR raises 1200 to 2400
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr folds
+Matofs folds
+AnaisGOAT690 folds
+capirex_RR collected 5320 from pot
+*** SUMMARY ***
+Total pot 5320 | No rake
+Seat 7: capirex_RR won 5320
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #4627961960204337156-63-1775933227 - Holdem no limit (140/600/1200) - 2026/04/11 18:47:07 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: KAASPAALEEK (22813, 0.90€ bounty)
+Seat 2: MathisKcr (46156, 1.46€ bounty)
+Seat 3: Matofs (20090, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (28991, 0.90€ bounty)
+Seat 5: HITSHARD (19794, 1.12€ bounty)
+Seat 6: Matazer (23151, 0.90€ bounty)
+Seat 7: capirex_RR (31372, 0.90€ bounty)
+Seat 8: pedro8051 (19800, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AnaisGOAT690 posts ante 140
+HITSHARD posts ante 140
+KAASPAALEEK posts ante 140
+MathisKcr posts ante 140
+Matofs posts ante 140
+Matazer posts ante 140
+capirex_RR posts ante 140
+pedro8051 posts ante 140
+AnaisGOAT690 posts small blind 600
+HITSHARD posts big blind 1200
+Dealt to MathisKcr [9d Tc]
+*** PRE-FLOP *** 
+Matazer folds
+capirex_RR folds
+pedro8051 folds
+KAASPAALEEK raises 1200 to 2400
+MathisKcr folds
+Matofs calls 2400
+AnaisGOAT690 calls 1800
+HITSHARD folds
+*** FLOP *** [Th 4s 9c]
+AnaisGOAT690 bets 3332
+KAASPAALEEK folds
+Matofs calls 3332
+*** TURN *** [Th 4s 9c][Jh]
+AnaisGOAT690 bets 1200
+Matofs calls 1200
+*** RIVER *** [Th 4s 9c Jh][7h]
+AnaisGOAT690 bets 6504
+Matofs calls 6504
+*** SHOW DOWN ***
+Matofs shows [Ts Ad] (One pair : Tens)
+AnaisGOAT690 shows [Qc Qs] (One pair : Queens)
+AnaisGOAT690 collected 31592 from pot
+*** SUMMARY ***
+Total pot 31592 | No rake
+Board: [Th 4s 9c Jh 7h]
+Seat 3: Matofs (button) showed [Ts Ad] and lost with One pair : Tens
+Seat 4: AnaisGOAT690 (small blind) showed [Qc Qs] and won 31592 with One pair : Queens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #4627961960204337156-64-1775933328 - Holdem no limit (140/600/1200) - 2026/04/11 18:48:48 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: KAASPAALEEK (20273, 0.90€ bounty)
+Seat 2: MathisKcr (46016, 1.46€ bounty)
+Seat 3: Matofs (6514, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (47007, 0.90€ bounty)
+Seat 5: HITSHARD (18454, 1.12€ bounty)
+Seat 6: Matazer (23011, 0.90€ bounty)
+Seat 7: capirex_RR (31232, 0.90€ bounty)
+Seat 8: pedro8051 (19660, 0.90€ bounty)
+*** ANTE/BLINDS ***
+HITSHARD posts ante 140
+Matazer posts ante 140
+KAASPAALEEK posts ante 140
+MathisKcr posts ante 140
+Matofs posts ante 140
+AnaisGOAT690 posts ante 140
+capirex_RR posts ante 140
+pedro8051 posts ante 140
+HITSHARD posts small blind 600
+Matazer posts big blind 1200
+Dealt to MathisKcr [9c 2c]
+*** PRE-FLOP *** 
+capirex_RR raises 1800 to 3000
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr folds
+Matofs folds
+AnaisGOAT690 folds
+HITSHARD folds
+Matazer folds
+capirex_RR collected 5920 from pot
+*** SUMMARY ***
+Total pot 5920 | No rake
+Seat 7: capirex_RR won 5920
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #4627961960204337156-65-1775933358 - Holdem no limit (140/600/1200) - 2026/04/11 18:49:18 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: KAASPAALEEK (20133, 0.90€ bounty)
+Seat 2: MathisKcr (45876, 1.46€ bounty)
+Seat 3: Matofs (6374, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (46867, 0.90€ bounty)
+Seat 5: HITSHARD (17714, 1.12€ bounty)
+Seat 6: Matazer (21671, 0.90€ bounty)
+Seat 7: capirex_RR (34012, 0.90€ bounty)
+Seat 8: pedro8051 (19520, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matazer posts ante 140
+capirex_RR posts ante 140
+KAASPAALEEK posts ante 140
+MathisKcr posts ante 140
+Matofs posts ante 140
+AnaisGOAT690 posts ante 140
+HITSHARD posts ante 140
+pedro8051 posts ante 140
+Matazer posts small blind 600
+capirex_RR posts big blind 1200
+Dealt to MathisKcr [Jh Ah]
+*** PRE-FLOP *** 
+pedro8051 folds
+KAASPAALEEK folds
+MathisKcr raises 1200 to 2400
+Matofs folds
+AnaisGOAT690 folds
+HITSHARD folds
+Matazer folds
+capirex_RR folds
+MathisKcr collected 5320 from pot
+*** SUMMARY ***
+Total pot 5320 | No rake
+Seat 2: MathisKcr won 5320
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #4627961960204337156-66-1775933393 - Holdem no limit (140/600/1200) - 2026/04/11 18:49:53 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: KAASPAALEEK (19993, 0.90€ bounty)
+Seat 2: MathisKcr (48656, 1.46€ bounty)
+Seat 3: Matofs (6234, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (46727, 0.90€ bounty)
+Seat 5: HITSHARD (17574, 1.12€ bounty)
+Seat 6: Matazer (20931, 0.90€ bounty)
+Seat 7: capirex_RR (32672, 0.90€ bounty)
+Seat 8: pedro8051 (19380, 0.90€ bounty)
+*** ANTE/BLINDS ***
+capirex_RR posts ante 140
+pedro8051 posts ante 140
+KAASPAALEEK posts ante 140
+MathisKcr posts ante 140
+Matofs posts ante 140
+AnaisGOAT690 posts ante 140
+HITSHARD posts ante 140
+Matazer posts ante 140
+capirex_RR posts small blind 600
+pedro8051 posts big blind 1200
+Dealt to MathisKcr [3d 8d]
+*** PRE-FLOP *** 
+KAASPAALEEK folds
+MathisKcr folds
+Matofs raises 4894 to 6094 and is all-in
+AnaisGOAT690 folds
+HITSHARD raises 11340 to 17434 and is all-in
+Matazer folds
+capirex_RR folds
+pedro8051 folds
+*** FLOP *** [4d Td Kc]
+*** TURN *** [4d Td Kc][Ks]
+*** RIVER *** [4d Td Kc Ks][Ah]
+*** SHOW DOWN ***
+Matofs shows [6h Ad] (Two pairs : Aces and Kings)
+HITSHARD shows [Qd 9c] (One pair : Kings)
+HITSHARD collected 11340 from side pot 1
+Matofs collected 15108 from main pot
+*** SUMMARY ***
+Total pot 26448 | No rake
+Board: [4d Td Kc Ks Ah]
+Seat 3: Matofs showed [6h Ad] and won 15108 with Two pairs : Aces and Kings
+Seat 5: HITSHARD showed [Qd 9c] and won 11340 with One pair : Kings
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #4627961960204337156-67-1775933457 - Holdem no limit (140/600/1200) - 2026/04/11 18:50:57 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: KAASPAALEEK (19853, 0.90€ bounty)
+Seat 2: MathisKcr (48516, 1.46€ bounty)
+Seat 3: Matofs (15108, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (46587, 0.90€ bounty)
+Seat 5: HITSHARD (11340, 1.12€ bounty)
+Seat 6: Matazer (20791, 0.90€ bounty)
+Seat 7: capirex_RR (31932, 0.90€ bounty)
+Seat 8: pedro8051 (18040, 0.90€ bounty)
+*** ANTE/BLINDS ***
+pedro8051 posts ante 140
+KAASPAALEEK posts ante 140
+MathisKcr posts ante 140
+Matofs posts ante 140
+AnaisGOAT690 posts ante 140
+HITSHARD posts ante 140
+Matazer posts ante 140
+capirex_RR posts ante 140
+pedro8051 posts small blind 600
+KAASPAALEEK posts big blind 1200
+Dealt to MathisKcr [7d 9h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Matofs folds
+AnaisGOAT690 calls 1200
+HITSHARD folds
+Matazer folds
+capirex_RR folds
+pedro8051 calls 600
+KAASPAALEEK checks
+*** FLOP *** [Ah As 2d]
+pedro8051 checks
+KAASPAALEEK checks
+AnaisGOAT690 checks
+*** TURN *** [Ah As 2d][8h]
+pedro8051 checks
+KAASPAALEEK checks
+AnaisGOAT690 checks
+*** RIVER *** [Ah As 2d 8h][2s]
+pedro8051 checks
+KAASPAALEEK checks
+AnaisGOAT690 bets 4720
+pedro8051 folds
+KAASPAALEEK folds
+AnaisGOAT690 collected 9440 from pot
+*** SUMMARY ***
+Total pot 9440 | No rake
+Board: [Ah As 2d 8h 2s]
+Seat 4: AnaisGOAT690 won 9440
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #4627961960204337156-68-1775933562 - Holdem no limit (160/700/1400) - 2026/04/11 18:52:42 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: KAASPAALEEK (18513, 0.90€ bounty)
+Seat 2: MathisKcr (48376, 1.46€ bounty)
+Seat 3: Matofs (14968, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (49967, 0.90€ bounty)
+Seat 5: HITSHARD (11200, 1.12€ bounty)
+Seat 6: Matazer (20651, 0.90€ bounty)
+Seat 7: capirex_RR (31792, 0.90€ bounty)
+Seat 8: pedro8051 (16700, 0.90€ bounty)
+*** ANTE/BLINDS ***
+KAASPAALEEK posts ante 160
+MathisKcr posts ante 160
+Matofs posts ante 160
+AnaisGOAT690 posts ante 160
+HITSHARD posts ante 160
+Matazer posts ante 160
+capirex_RR posts ante 160
+pedro8051 posts ante 160
+KAASPAALEEK posts small blind 700
+MathisKcr posts big blind 1400
+Dealt to MathisKcr [2h 7h]
+*** PRE-FLOP *** 
+Matofs folds
+AnaisGOAT690 calls 1400
+HITSHARD folds
+Matazer calls 1400
+capirex_RR folds
+pedro8051 calls 1400
+KAASPAALEEK folds
+MathisKcr checks
+*** FLOP *** [7s 6c 5d]
+MathisKcr bets 4927
+AnaisGOAT690 folds
+Matazer folds
+pedro8051 folds
+MathisKcr collected 12507 from pot
+*** SUMMARY ***
+Total pot 12507 | No rake
+Board: [7s 6c 5d]
+Seat 2: MathisKcr (big blind) won 12507
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #4627961960204337156-69-1775933614 - Holdem no limit (160/700/1400) - 2026/04/11 18:53:34 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: KAASPAALEEK (17653, 0.90€ bounty)
+Seat 2: MathisKcr (54396, 1.46€ bounty)
+Seat 3: Matofs (14808, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (48407, 0.90€ bounty)
+Seat 5: HITSHARD (11040, 1.12€ bounty)
+Seat 6: Matazer (19091, 0.90€ bounty)
+Seat 7: capirex_RR (31632, 0.90€ bounty)
+Seat 8: pedro8051 (15140, 0.90€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 160
+Matofs posts ante 160
+KAASPAALEEK posts ante 160
+AnaisGOAT690 posts ante 160
+HITSHARD posts ante 160
+Matazer posts ante 160
+capirex_RR posts ante 160
+pedro8051 posts ante 160
+MathisKcr posts small blind 700
+Matofs posts big blind 1400
+Dealt to MathisKcr [2h 9h]
+*** PRE-FLOP *** 
+AnaisGOAT690 calls 1400
+HITSHARD folds
+Matazer folds
+capirex_RR folds
+pedro8051 calls 1400
+KAASPAALEEK folds
+MathisKcr folds
+Matofs checks
+*** FLOP *** [8d 8s 8c]
+Matofs checks
+AnaisGOAT690 checks
+pedro8051 checks
+*** TURN *** [8d 8s 8c][4s]
+Matofs checks
+AnaisGOAT690 checks
+pedro8051 checks
+*** RIVER *** [8d 8s 8c 4s][7h]
+Matofs checks
+AnaisGOAT690 checks
+pedro8051 checks
+*** SHOW DOWN ***
+Matofs shows [5s Qh] (Trips of 8)
+AnaisGOAT690 shows [Kd Td] (Trips of 8)
+pedro8051 shows [5c Ah] (Trips of 8)
+pedro8051 collected 6180 from pot
+*** SUMMARY ***
+Total pot 6180 | No rake
+Board: [8d 8s 8c 4s 7h]
+Seat 3: Matofs (big blind) showed [5s Qh] and lost with Trips of 8
+Seat 4: AnaisGOAT690 showed [Kd Td] and lost with Trips of 8
+Seat 8: pedro8051 showed [5c Ah] and won 6180 with Trips of 8
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #4627961960204337156-70-1775933669 - Holdem no limit (160/700/1400) - 2026/04/11 18:54:29 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: KAASPAALEEK (17493, 0.90€ bounty)
+Seat 2: MathisKcr (53536, 1.46€ bounty)
+Seat 3: Matofs (13248, 0.90€ bounty)
+Seat 4: AnaisGOAT690 (46847, 0.90€ bounty)
+Seat 5: HITSHARD (10880, 1.12€ bounty)
+Seat 6: Matazer (18931, 0.90€ bounty)
+Seat 7: capirex_RR (31472, 0.90€ bounty)
+Seat 8: pedro8051 (19760, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matofs posts ante 160
+AnaisGOAT690 posts ante 160
+KAASPAALEEK posts ante 160
+MathisKcr posts ante 160
+HITSHARD posts ante 160
+Matazer posts ante 160
+capirex_RR posts ante 160
+pedro8051 posts ante 160
+Matofs posts small blind 700
+AnaisGOAT690 posts big blind 1400
+Dealt to MathisKcr [Js Jd]
+*** PRE-FLOP *** 
+HITSHARD folds
+Matazer folds
+capirex_RR folds
+pedro8051 calls 1400
+KAASPAALEEK raises 15933 to 17333 and is all-in
+MathisKcr raises 36043 to 53376 and is all-in
+Matofs folds
+AnaisGOAT690 calls 45287 and is all-in
+pedro8051 folds
+*** FLOP *** [Td Kh Tc]
+*** TURN *** [Td Kh Tc][5d]
+*** RIVER *** [Td Kh Tc 5d][9c]
+*** SHOW DOWN ***
+KAASPAALEEK shows [Ah 2d] (One pair : Tens)
+AnaisGOAT690 shows [8d 8h] (Two pairs : Tens and 8)
+MathisKcr shows [Js Jd] (Two pairs : Jacks and Tens)
+MathisKcr collected 120776 from pot
+*** SUMMARY ***
+Total pot 120776 | No rake
+Board: [Td Kh Tc 5d 9c]
+Seat 1: KAASPAALEEK showed [Ah 2d] and lost with One pair : Tens
+Seat 2: MathisKcr (button) showed [Js Jd] and won 120776 with Two pairs : Jacks and Tens
+Seat 4: AnaisGOAT690 (big blind) showed [8d 8h] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #4627961960204337156-71-1775934060 - Holdem no limit (160/700/1400) - 2026/04/11 19:01:00 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 2: MathisKcr (120776, 2.36€ bounty)
+Seat 3: Matofs (12388, 0.90€ bounty)
+Seat 5: HITSHARD (10720, 1.12€ bounty)
+Seat 6: Matazer (18771, 0.90€ bounty)
+Seat 7: capirex_RR (31312, 0.90€ bounty)
+Seat 8: pedro8051 (18200, 0.90€ bounty)
+*** ANTE/BLINDS ***
+HITSHARD posts ante 160
+MathisKcr posts ante 160
+Matofs posts ante 160
+Matazer posts ante 160
+capirex_RR posts ante 160
+pedro8051 posts ante 160
+HITSHARD posts big blind 1400
+Dealt to MathisKcr [Jc Ad]
+*** PRE-FLOP *** 
+Matazer folds
+capirex_RR folds
+pedro8051 folds
+MathisKcr raises 1400 to 2800
+Matofs raises 9428 to 12228 and is all-in
+HITSHARD folds
+MathisKcr calls 9428
+*** FLOP *** [4h 8s 4c]
+*** TURN *** [4h 8s 4c][2h]
+*** RIVER *** [4h 8s 4c 2h][Kh]
+*** SHOW DOWN ***
+MathisKcr shows [Jc Ad] (One pair : 4)
+Matofs shows [8d Ac] (Two pairs : 8 and 4)
+Matofs collected 26816 from pot
+*** SUMMARY ***
+Total pot 26816 | No rake
+Board: [4h 8s 4c 2h Kh]
+Seat 2: MathisKcr showed [Jc Ad] and lost with One pair : 4
+Seat 3: Matofs (button) showed [8d Ac] and won 26816 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #4627961960204337156-72-1775934115 - Holdem no limit (160/700/1400) - 2026/04/11 19:01:55 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: 0nlyFOld-18 (74094, 1.35€ bounty)
+Seat 2: MathisKcr (108388, 2.36€ bounty)
+Seat 3: Matofs (26816, 0.90€ bounty)
+Seat 4: Estomac032 (68097, 1.57€ bounty)
+Seat 5: HITSHARD (9160, 1.12€ bounty)
+Seat 6: Matazer (18611, 0.90€ bounty)
+Seat 7: capirex_RR (31152, 0.90€ bounty)
+Seat 8: pedro8051 (18040, 0.90€ bounty)
+*** ANTE/BLINDS ***
+HITSHARD posts ante 160
+Matazer posts ante 160
+0nlyFOld-18 posts ante 160
+MathisKcr posts ante 160
+Matofs posts ante 160
+capirex_RR posts ante 160
+pedro8051 posts ante 160
+HITSHARD posts small blind 700
+Matazer posts big blind 1400
+Dealt to MathisKcr [Ac 6c]
+*** PRE-FLOP *** 
+capirex_RR folds
+pedro8051 folds
+0nlyFOld-18 folds
+MathisKcr raises 1400 to 2800
+Matofs folds
+HITSHARD folds
+Matazer folds
+MathisKcr collected 6020 from pot
+*** SUMMARY ***
+Total pot 6020 | No rake
+Seat 2: MathisKcr won 6020
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #4627961960204337156-73-1775934163 - Holdem no limit (200/800/1600) - 2026/04/11 19:02:43 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: 0nlyFOld-18 (73934, 1.35€ bounty)
+Seat 2: MathisKcr (111448, 2.36€ bounty)
+Seat 3: Matofs (26656, 0.90€ bounty)
+Seat 4: Estomac032 (68097, 1.57€ bounty)
+Seat 5: HITSHARD (8300, 1.12€ bounty)
+Seat 6: Matazer (17051, 0.90€ bounty)
+Seat 7: capirex_RR (30992, 0.90€ bounty)
+Seat 8: pedro8051 (17880, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Matazer posts ante 200
+capirex_RR posts ante 200
+0nlyFOld-18 posts ante 200
+MathisKcr posts ante 200
+Matofs posts ante 200
+Estomac032 posts ante 200
+HITSHARD posts ante 200
+pedro8051 posts ante 200
+Matazer posts small blind 800
+capirex_RR posts big blind 1600
+Dealt to MathisKcr [7h 3h]
+*** PRE-FLOP *** 
+pedro8051 folds
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs raises 24856 to 26456 and is all-in
+Estomac032 folds
+HITSHARD folds
+Matazer folds
+capirex_RR folds
+Matofs collected 30456 from pot
+*** SUMMARY ***
+Total pot 30456 | No rake
+Seat 3: Matofs won 30456
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #4627961960204337156-74-1775934212 - Holdem no limit (200/800/1600) - 2026/04/11 19:03:32 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: 0nlyFOld-18 (73734, 1.35€ bounty)
+Seat 2: MathisKcr (111248, 2.36€ bounty)
+Seat 3: Matofs (30456, 0.90€ bounty)
+Seat 4: Estomac032 (67897, 1.57€ bounty)
+Seat 5: HITSHARD (8100, 1.12€ bounty)
+Seat 6: Matazer (16051, 0.90€ bounty)
+Seat 7: capirex_RR (29192, 0.90€ bounty)
+Seat 8: pedro8051 (17680, 0.90€ bounty)
+*** ANTE/BLINDS ***
+capirex_RR posts ante 200
+pedro8051 posts ante 200
+0nlyFOld-18 posts ante 200
+MathisKcr posts ante 200
+Matofs posts ante 200
+Estomac032 posts ante 200
+HITSHARD posts ante 200
+Matazer posts ante 200
+capirex_RR posts small blind 800
+pedro8051 posts big blind 1600
+Dealt to MathisKcr [9s Qd]
+*** PRE-FLOP *** 
+0nlyFOld-18 folds
+MathisKcr raises 1600 to 3200
+Matofs raises 27056 to 30256 and is all-in
+Estomac032 folds
+HITSHARD folds
+Matazer folds
+capirex_RR folds
+pedro8051 folds
+MathisKcr folds
+Matofs collected 37456 from pot
+*** SUMMARY ***
+Total pot 37456 | No rake
+Seat 3: Matofs won 37456
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #4627961960204337156-75-1775934249 - Holdem no limit (200/800/1600) - 2026/04/11 19:04:09 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: 0nlyFOld-18 (73534, 1.35€ bounty)
+Seat 2: MathisKcr (107848, 2.36€ bounty)
+Seat 3: Matofs (37456, 0.90€ bounty)
+Seat 4: Estomac032 (67697, 1.57€ bounty)
+Seat 5: HITSHARD (7900, 1.12€ bounty)
+Seat 6: Matazer (15851, 0.90€ bounty)
+Seat 7: capirex_RR (28192, 0.90€ bounty)
+Seat 8: pedro8051 (15880, 0.90€ bounty)
+*** ANTE/BLINDS ***
+pedro8051 posts ante 200
+0nlyFOld-18 posts ante 200
+MathisKcr posts ante 200
+Matofs posts ante 200
+Estomac032 posts ante 200
+HITSHARD posts ante 200
+Matazer posts ante 200
+capirex_RR posts ante 200
+pedro8051 posts small blind 800
+0nlyFOld-18 posts big blind 1600
+Dealt to MathisKcr [Qc 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Matofs folds
+Estomac032 raises 3200 to 4800
+HITSHARD folds
+Matazer folds
+capirex_RR folds
+pedro8051 calls 4000
+0nlyFOld-18 folds
+*** FLOP *** [Ah 9h 3d]
+pedro8051 bets 10880 and is all-in
+Estomac032 calls 10880
+*** TURN *** [Ah 9h 3d][Tc]
+*** RIVER *** [Ah 9h 3d Tc][4d]
+*** SHOW DOWN ***
+pedro8051 shows [Jc 9d] (One pair : 9)
+Estomac032 shows [Jd Ts] (One pair : Tens)
+Estomac032 collected 34560 from pot
+*** SUMMARY ***
+Total pot 34560 | No rake
+Board: [Ah 9h 3d Tc 4d]
+Seat 4: Estomac032 showed [Jd Ts] and won 34560 with One pair : Tens
+Seat 8: pedro8051 (small blind) showed [Jc 9d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #4627961960204337156-76-1775934308 - Holdem no limit (200/800/1600) - 2026/04/11 19:05:08 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: 0nlyFOld-18 (71734, 1.35€ bounty)
+Seat 2: MathisKcr (107648, 2.36€ bounty)
+Seat 3: Matofs (37256, 0.90€ bounty)
+Seat 4: Estomac032 (86377, 2.02€ bounty)
+Seat 5: HITSHARD (7700, 1.12€ bounty)
+Seat 6: Matazer (15651, 0.90€ bounty)
+Seat 7: capirex_RR (27992, 0.90€ bounty)
+*** ANTE/BLINDS ***
+0nlyFOld-18 posts ante 200
+MathisKcr posts ante 200
+Matofs posts ante 200
+Estomac032 posts ante 200
+HITSHARD posts ante 200
+Matazer posts ante 200
+capirex_RR posts ante 200
+0nlyFOld-18 posts small blind 800
+MathisKcr posts big blind 1600
+Dealt to MathisKcr [2d 7c]
+*** PRE-FLOP *** 
+Matofs folds
+Estomac032 raises 2400 to 4000
+HITSHARD folds
+Matazer folds
+capirex_RR folds
+0nlyFOld-18 folds
+MathisKcr folds
+Estomac032 collected 7800 from pot
+*** SUMMARY ***
+Total pot 7800 | No rake
+Seat 4: Estomac032 won 7800
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #4627961960204337156-77-1775934341 - Holdem no limit (200/800/1600) - 2026/04/11 19:05:41 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: 0nlyFOld-18 (70734, 1.35€ bounty)
+Seat 2: MathisKcr (105848, 2.36€ bounty)
+Seat 3: Matofs (37056, 0.90€ bounty)
+Seat 4: Estomac032 (89977, 2.02€ bounty)
+Seat 5: HITSHARD (7500, 1.12€ bounty)
+Seat 6: Matazer (15451, 0.90€ bounty)
+Seat 7: capirex_RR (27792, 0.90€ bounty)
+Seat 8: PAPASIT0 (32735, 1.35€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 200
+Matofs posts ante 200
+0nlyFOld-18 posts ante 200
+Estomac032 posts ante 200
+HITSHARD posts ante 200
+Matazer posts ante 200
+capirex_RR posts ante 200
+PAPASIT0 posts ante 200
+MathisKcr posts small blind 800
+Matofs posts big blind 1600
+Dealt to MathisKcr [2c Jc]
+*** PRE-FLOP *** 
+Estomac032 folds
+HITSHARD raises 5700 to 7300 and is all-in
+Matazer folds
+capirex_RR folds
+PAPASIT0 folds
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+HITSHARD collected 11300 from pot
+*** SUMMARY ***
+Total pot 11300 | No rake
+Seat 5: HITSHARD won 11300
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #4627961960204337156-78-1775934366 - Holdem no limit (200/800/1600) - 2026/04/11 19:06:06 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: 0nlyFOld-18 (70534, 1.35€ bounty)
+Seat 2: MathisKcr (104848, 2.36€ bounty)
+Seat 3: Matofs (35256, 0.90€ bounty)
+Seat 4: Estomac032 (89777, 2.02€ bounty)
+Seat 5: HITSHARD (11300, 1.12€ bounty)
+Seat 6: Matazer (15251, 0.90€ bounty)
+Seat 7: capirex_RR (27592, 0.90€ bounty)
+Seat 8: PAPASIT0 (32535, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Matofs posts ante 200
+Estomac032 posts ante 200
+0nlyFOld-18 posts ante 200
+MathisKcr posts ante 200
+HITSHARD posts ante 200
+Matazer posts ante 200
+capirex_RR posts ante 200
+PAPASIT0 posts ante 200
+Matofs posts small blind 800
+Estomac032 posts big blind 1600
+Dealt to MathisKcr [9d 5d]
+*** PRE-FLOP *** 
+HITSHARD folds
+Matazer folds
+capirex_RR folds
+PAPASIT0 folds
+0nlyFOld-18 folds
+MathisKcr raises 1600 to 3200
+Matofs folds
+Estomac032 calls 1600
+*** FLOP *** [Td 4h 2d]
+Estomac032 checks
+MathisKcr checks
+*** TURN *** [Td 4h 2d][4s]
+Estomac032 checks
+MathisKcr bets 3080
+Estomac032 folds
+MathisKcr collected 11880 from pot
+*** SUMMARY ***
+Total pot 11880 | No rake
+Board: [Td 4h 2d 4s]
+Seat 2: MathisKcr (button) won 11880
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #4627961960204337156-79-1775934458 - Holdem no limit (250/1000/2000) - 2026/04/11 19:07:38 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: 0nlyFOld-18 (70334, 1.35€ bounty)
+Seat 2: MathisKcr (110248, 2.36€ bounty)
+Seat 3: Matofs (34256, 0.90€ bounty)
+Seat 4: Estomac032 (86377, 2.02€ bounty)
+Seat 5: HITSHARD (11100, 1.12€ bounty)
+Seat 6: Matazer (15051, 0.90€ bounty)
+Seat 7: capirex_RR (27392, 0.90€ bounty)
+Seat 8: PAPASIT0 (32335, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Estomac032 posts ante 250
+HITSHARD posts ante 250
+0nlyFOld-18 posts ante 250
+MathisKcr posts ante 250
+Matofs posts ante 250
+Matazer posts ante 250
+capirex_RR posts ante 250
+PAPASIT0 posts ante 250
+Estomac032 posts small blind 1000
+HITSHARD posts big blind 2000
+Dealt to MathisKcr [Th 8s]
+*** PRE-FLOP *** 
+Matazer folds
+capirex_RR folds
+PAPASIT0 folds
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 raises 2000 to 4000
+HITSHARD raises 6850 to 10850 and is all-in
+Estomac032 calls 6850
+*** FLOP *** [5s Jh 8c]
+*** TURN *** [5s Jh 8c][9h]
+*** RIVER *** [5s Jh 8c 9h][Qs]
+*** SHOW DOWN ***
+HITSHARD shows [3c Ks] (High card : King)
+Estomac032 shows [8d Js] (Two pairs : Jacks and 8)
+Estomac032 collected 23700 from pot
+*** SUMMARY ***
+Total pot 23700 | No rake
+Board: [5s Jh 8c 9h Qs]
+Seat 4: Estomac032 (small blind) showed [8d Js] and won 23700 with Two pairs : Jacks and 8
+Seat 5: HITSHARD (big blind) showed [3c Ks] and lost with High card : King
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #4627961960204337156-80-1775934515 - Holdem no limit (250/1000/2000) - 2026/04/11 19:08:35 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: 0nlyFOld-18 (70084, 1.35€ bounty)
+Seat 2: MathisKcr (109998, 2.36€ bounty)
+Seat 3: Matofs (34006, 0.90€ bounty)
+Seat 4: Estomac032 (98977, 2.58€ bounty)
+Seat 6: Matazer (14801, 0.90€ bounty)
+Seat 7: capirex_RR (27142, 0.90€ bounty)
+Seat 8: PAPASIT0 (32085, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Matazer posts ante 250
+0nlyFOld-18 posts ante 250
+MathisKcr posts ante 250
+Matofs posts ante 250
+Estomac032 posts ante 250
+capirex_RR posts ante 250
+PAPASIT0 posts ante 250
+Matazer posts big blind 2000
+Dealt to MathisKcr [6c 3d]
+*** PRE-FLOP *** 
+capirex_RR folds
+PAPASIT0 folds
+0nlyFOld-18 raises 2000 to 4000
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+Matazer raises 10551 to 14551 and is all-in
+0nlyFOld-18 calls 10551
+*** FLOP *** [3s 6h 8d]
+*** TURN *** [3s 6h 8d][2h]
+*** RIVER *** [3s 6h 8d 2h][Ts]
+*** SHOW DOWN ***
+Matazer shows [8c Ad] (One pair : 8)
+0nlyFOld-18 shows [9h 9d] (One pair : 9)
+0nlyFOld-18 collected 30852 from pot
+*** SUMMARY ***
+Total pot 30852 | No rake
+Board: [3s 6h 8d 2h Ts]
+Seat 1: 0nlyFOld-18 showed [9h 9d] and won 30852 with One pair : 9
+Seat 6: Matazer (big blind) showed [8c Ad] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #4627961960204337156-81-1775934557 - Holdem no limit (250/1000/2000) - 2026/04/11 19:09:17 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: 0nlyFOld-18 (86135, 1.80€ bounty)
+Seat 2: MathisKcr (109748, 2.36€ bounty)
+Seat 3: Matofs (33756, 0.90€ bounty)
+Seat 4: Estomac032 (98727, 2.58€ bounty)
+Seat 7: capirex_RR (26892, 0.90€ bounty)
+Seat 8: PAPASIT0 (31835, 1.35€ bounty)
+*** ANTE/BLINDS ***
+capirex_RR posts ante 250
+0nlyFOld-18 posts ante 250
+MathisKcr posts ante 250
+Matofs posts ante 250
+Estomac032 posts ante 250
+PAPASIT0 posts ante 250
+capirex_RR posts big blind 2000
+Dealt to MathisKcr [6s 9d]
+*** PRE-FLOP *** 
+PAPASIT0 folds
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+capirex_RR collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | No rake
+Seat 7: capirex_RR (big blind) won 3500
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #4627961960204337156-82-1775934617 - Holdem no limit (250/1000/2000) - 2026/04/11 19:10:17 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: 0nlyFOld-18 (85885, 1.80€ bounty)
+Seat 2: MathisKcr (109498, 2.36€ bounty)
+Seat 3: Matofs (33506, 0.90€ bounty)
+Seat 4: Estomac032 (98477, 2.58€ bounty)
+Seat 5: Muzeaux- (42230, 0.90€ bounty)
+Seat 6: moche33 (23720, 1.35€ bounty)
+Seat 7: capirex_RR (28142, 0.90€ bounty)
+Seat 8: PAPASIT0 (31585, 1.35€ bounty)
+*** ANTE/BLINDS ***
+capirex_RR posts ante 250
+PAPASIT0 posts ante 250
+0nlyFOld-18 posts ante 250
+MathisKcr posts ante 250
+Matofs posts ante 250
+Estomac032 posts ante 250
+Muzeaux- posts ante 250
+capirex_RR posts small blind 1000
+PAPASIT0 posts big blind 2000
+Dealt to MathisKcr [9s Td]
+*** PRE-FLOP *** 
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 calls 2000
+Muzeaux- raises 5000 to 7000
+capirex_RR folds
+PAPASIT0 folds
+Estomac032 calls 5000
+*** FLOP *** [7c 7d Qs]
+Estomac032 checks
+Muzeaux- bets 7000
+Estomac032 calls 7000
+*** TURN *** [7c 7d Qs][4s]
+Estomac032 checks
+Muzeaux- checks
+*** RIVER *** [7c 7d Qs 4s][2s]
+Estomac032 bets 28200
+Muzeaux- folds
+Estomac032 collected 60950 from pot
+*** SUMMARY ***
+Total pot 60950 | No rake
+Board: [7c 7d Qs 4s 2s]
+Seat 4: Estomac032 won 60950
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #4627961960204337156-83-1775934722 - Holdem no limit (300/1250/2500) - 2026/04/11 19:12:02 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: 0nlyFOld-18 (85635, 1.80€ bounty)
+Seat 2: MathisKcr (109248, 2.36€ bounty)
+Seat 3: Matofs (33256, 0.90€ bounty)
+Seat 4: Estomac032 (116977, 2.58€ bounty)
+Seat 5: Muzeaux- (27980, 0.90€ bounty)
+Seat 6: moche33 (23720, 1.35€ bounty)
+Seat 7: capirex_RR (26892, 0.90€ bounty)
+Seat 8: PAPASIT0 (29335, 1.35€ bounty)
+*** ANTE/BLINDS ***
+PAPASIT0 posts ante 300
+0nlyFOld-18 posts ante 300
+MathisKcr posts ante 300
+Matofs posts ante 300
+Estomac032 posts ante 300
+Muzeaux- posts ante 300
+moche33 posts ante 300
+capirex_RR posts ante 300
+PAPASIT0 posts small blind 1250
+0nlyFOld-18 posts big blind 2500
+Dealt to MathisKcr [Th Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 2500 to 5000
+Matofs folds
+Estomac032 folds
+Muzeaux- raises 22680 to 27680 and is all-in
+moche33 folds
+capirex_RR folds
+PAPASIT0 folds
+0nlyFOld-18 folds
+MathisKcr folds
+Muzeaux- collected 38830 from pot
+*** SUMMARY ***
+Total pot 38830 | No rake
+Seat 5: Muzeaux- won 38830
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #4627961960204337156-84-1775934777 - Holdem no limit (300/1250/2500) - 2026/04/11 19:12:57 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: 0nlyFOld-18 (82835, 1.80€ bounty)
+Seat 2: MathisKcr (103948, 2.36€ bounty)
+Seat 3: Matofs (32956, 0.90€ bounty)
+Seat 4: Estomac032 (116677, 2.58€ bounty)
+Seat 5: Muzeaux- (38830, 0.90€ bounty)
+Seat 6: moche33 (23420, 1.35€ bounty)
+Seat 7: capirex_RR (26592, 0.90€ bounty)
+Seat 8: PAPASIT0 (27785, 1.35€ bounty)
+*** ANTE/BLINDS ***
+0nlyFOld-18 posts ante 300
+MathisKcr posts ante 300
+Matofs posts ante 300
+Estomac032 posts ante 300
+Muzeaux- posts ante 300
+moche33 posts ante 300
+capirex_RR posts ante 300
+PAPASIT0 posts ante 300
+0nlyFOld-18 posts small blind 1250
+MathisKcr posts big blind 2500
+Dealt to MathisKcr [7s 4c]
+*** PRE-FLOP *** 
+Matofs folds
+Estomac032 raises 3750 to 6250
+Muzeaux- folds
+moche33 folds
+capirex_RR folds
+PAPASIT0 raises 21235 to 27485 and is all-in
+0nlyFOld-18 folds
+MathisKcr folds
+Estomac032 calls 21235
+*** FLOP *** [7h Kc 2c]
+*** TURN *** [7h Kc 2c][Kh]
+*** RIVER *** [7h Kc 2c Kh][5s]
+*** SHOW DOWN ***
+Estomac032 shows [Jh Qh] (One pair : Kings)
+PAPASIT0 shows [Kd Qs] (Trips of Kings)
+PAPASIT0 collected 61120 from pot
+*** SUMMARY ***
+Total pot 61120 | No rake
+Board: [7h Kc 2c Kh 5s]
+Seat 4: Estomac032 showed [Jh Qh] and lost with One pair : Kings
+Seat 8: PAPASIT0 (button) showed [Kd Qs] and won 61120 with Trips of Kings
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #4627961960204337156-85-1775934841 - Holdem no limit (300/1250/2500) - 2026/04/11 19:14:01 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: 0nlyFOld-18 (81285, 1.80€ bounty)
+Seat 2: MathisKcr (101148, 2.36€ bounty)
+Seat 3: Matofs (32656, 0.90€ bounty)
+Seat 4: Estomac032 (88892, 2.58€ bounty)
+Seat 5: Muzeaux- (38530, 0.90€ bounty)
+Seat 6: moche33 (23120, 1.35€ bounty)
+Seat 7: capirex_RR (26292, 0.90€ bounty)
+Seat 8: PAPASIT0 (61120, 1.35€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 300
+Matofs posts ante 300
+0nlyFOld-18 posts ante 300
+Estomac032 posts ante 300
+Muzeaux- posts ante 300
+moche33 posts ante 300
+capirex_RR posts ante 300
+PAPASIT0 posts ante 300
+MathisKcr posts small blind 1250
+Matofs posts big blind 2500
+Dealt to MathisKcr [6c 7h]
+*** PRE-FLOP *** 
+Estomac032 folds
+Muzeaux- folds
+moche33 folds
+capirex_RR folds
+PAPASIT0 raises 3125 to 5625
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs raises 26731 to 32356 and is all-in
+PAPASIT0 calls 26731
+*** FLOP *** [Qh 8d 8s]
+*** TURN *** [Qh 8d 8s][7s]
+*** RIVER *** [Qh 8d 8s 7s][7d]
+*** SHOW DOWN ***
+PAPASIT0 shows [5s 5c] (Two pairs : 8 and 7)
+Matofs shows [Jh Ac] (Two pairs : 8 and 7)
+Matofs collected 68362 from pot
+*** SUMMARY ***
+Total pot 68362 | No rake
+Board: [Qh 8d 8s 7s 7d]
+Seat 3: Matofs (big blind) showed [Jh Ac] and won 68362 with Two pairs : 8 and 7
+Seat 8: PAPASIT0 showed [5s 5c] and lost with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #4627961960204337156-86-1775934881 - Holdem no limit (300/1250/2500) - 2026/04/11 19:14:41 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: 0nlyFOld-18 (80985, 1.80€ bounty)
+Seat 2: MathisKcr (99598, 2.36€ bounty)
+Seat 3: Matofs (68362, 0.90€ bounty)
+Seat 4: Estomac032 (88592, 2.58€ bounty)
+Seat 5: Muzeaux- (38230, 0.90€ bounty)
+Seat 6: moche33 (22820, 1.35€ bounty)
+Seat 7: capirex_RR (25992, 0.90€ bounty)
+Seat 8: PAPASIT0 (28464, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Matofs posts ante 300
+Estomac032 posts ante 300
+0nlyFOld-18 posts ante 300
+MathisKcr posts ante 300
+Muzeaux- posts ante 300
+moche33 posts ante 300
+capirex_RR posts ante 300
+PAPASIT0 posts ante 300
+Matofs posts small blind 1250
+Estomac032 posts big blind 2500
+Dealt to MathisKcr [Ah Ac]
+*** PRE-FLOP *** 
+Muzeaux- folds
+moche33 folds
+capirex_RR folds
+PAPASIT0 folds
+0nlyFOld-18 folds
+MathisKcr raises 2500 to 5000
+Matofs folds
+Estomac032 calls 2500
+*** FLOP *** [Kh Ks 5c]
+Estomac032 checks
+MathisKcr bets 4778
+Estomac032 folds
+MathisKcr collected 18428 from pot
+*** SUMMARY ***
+Total pot 18428 | No rake
+Board: [Kh Ks 5c]
+Seat 2: MathisKcr (button) won 18428
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #4627961960204337156-87-1775934936 - Holdem no limit (300/1250/2500) - 2026/04/11 19:15:36 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: 0nlyFOld-18 (80685, 1.80€ bounty)
+Seat 2: MathisKcr (107948, 2.36€ bounty)
+Seat 3: Matofs (66812, 0.90€ bounty)
+Seat 4: Estomac032 (83292, 2.58€ bounty)
+Seat 5: Muzeaux- (37930, 0.90€ bounty)
+Seat 6: moche33 (22520, 1.35€ bounty)
+Seat 7: capirex_RR (25692, 0.90€ bounty)
+Seat 8: PAPASIT0 (28164, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Estomac032 posts ante 300
+Muzeaux- posts ante 300
+0nlyFOld-18 posts ante 300
+MathisKcr posts ante 300
+Matofs posts ante 300
+moche33 posts ante 300
+capirex_RR posts ante 300
+PAPASIT0 posts ante 300
+Estomac032 posts small blind 1250
+Muzeaux- posts big blind 2500
+Dealt to MathisKcr [Ks Qs]
+*** PRE-FLOP *** 
+moche33 folds
+capirex_RR folds
+PAPASIT0 folds
+0nlyFOld-18 folds
+MathisKcr raises 2500 to 5000
+Matofs calls 5000
+Estomac032 calls 3750
+Muzeaux- folds
+*** FLOP *** [3s 6d Kc]
+Estomac032 checks
+MathisKcr bets 6965
+Matofs folds
+Estomac032 folds
+MathisKcr collected 26865 from pot
+*** SUMMARY ***
+Total pot 26865 | No rake
+Board: [3s 6d Kc]
+Seat 2: MathisKcr won 26865
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #4627961960204337156-88-1775935035 - Holdem no limit (350/1500/3000) - 2026/04/11 19:17:15 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: 0nlyFOld-18 (80385, 1.80€ bounty)
+Seat 2: MathisKcr (122548, 2.36€ bounty)
+Seat 3: Matofs (61512, 0.90€ bounty)
+Seat 4: Estomac032 (77992, 2.58€ bounty)
+Seat 5: Muzeaux- (35130, 0.90€ bounty)
+Seat 6: moche33 (22220, 1.35€ bounty)
+Seat 8: PAPASIT0 (27864, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Muzeaux- posts ante 350
+moche33 posts ante 350
+0nlyFOld-18 posts ante 350
+MathisKcr posts ante 350
+Matofs posts ante 350
+Estomac032 posts ante 350
+PAPASIT0 posts ante 350
+Muzeaux- posts small blind 1500
+moche33 posts big blind 3000
+Dealt to MathisKcr [7h 3c]
+*** PRE-FLOP *** 
+PAPASIT0 folds
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+Muzeaux- raises 31780 to 34780 and is all-in
+moche33 folds
+Muzeaux- collected 40230 from pot
+*** SUMMARY ***
+Total pot 40230 | No rake
+Seat 5: Muzeaux- (small blind) won 40230
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #4627961960204337156-89-1775935095 - Holdem no limit (350/1500/3000) - 2026/04/11 19:18:15 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: 0nlyFOld-18 (80035, 1.80€ bounty)
+Seat 2: MathisKcr (122198, 2.36€ bounty)
+Seat 3: Matofs (61162, 0.90€ bounty)
+Seat 4: Estomac032 (77642, 2.58€ bounty)
+Seat 5: Muzeaux- (40230, 0.90€ bounty)
+Seat 6: moche33 (18870, 1.35€ bounty)
+Seat 8: PAPASIT0 (27514, 1.35€ bounty)
+*** ANTE/BLINDS ***
+moche33 posts ante 350
+PAPASIT0 posts ante 350
+0nlyFOld-18 posts ante 350
+MathisKcr posts ante 350
+Matofs posts ante 350
+Estomac032 posts ante 350
+Muzeaux- posts ante 350
+moche33 posts small blind 1500
+PAPASIT0 posts big blind 3000
+Dealt to MathisKcr [Qd 3d]
+*** PRE-FLOP *** 
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+Muzeaux- folds
+moche33 calls 1500
+PAPASIT0 checks
+*** FLOP *** [8s 2d 6c]
+moche33 bets 4225
+PAPASIT0 folds
+moche33 collected 12675 from pot
+*** SUMMARY ***
+Total pot 12675 | No rake
+Board: [8s 2d 6c]
+Seat 6: moche33 (small blind) won 12675
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #4627961960204337156-90-1775935153 - Holdem no limit (350/1500/3000) - 2026/04/11 19:19:13 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: 0nlyFOld-18 (79685, 1.80€ bounty)
+Seat 2: MathisKcr (121848, 2.36€ bounty)
+Seat 3: Matofs (60812, 0.90€ bounty)
+Seat 4: Estomac032 (77292, 2.58€ bounty)
+Seat 5: Muzeaux- (39880, 0.90€ bounty)
+Seat 6: moche33 (23970, 1.35€ bounty)
+Seat 7: Guluphatep (44832, 0.90€ bounty)
+Seat 8: PAPASIT0 (24164, 1.35€ bounty)
+*** ANTE/BLINDS ***
+PAPASIT0 posts ante 350
+0nlyFOld-18 posts ante 350
+MathisKcr posts ante 350
+Matofs posts ante 350
+Estomac032 posts ante 350
+Muzeaux- posts ante 350
+moche33 posts ante 350
+PAPASIT0 posts small blind 1500
+0nlyFOld-18 posts big blind 3000
+Dealt to MathisKcr [Th Jc]
+*** PRE-FLOP *** 
+MathisKcr raises 3000 to 6000
+Matofs calls 6000
+Estomac032 folds
+Muzeaux- folds
+moche33 folds
+PAPASIT0 folds
+0nlyFOld-18 folds
+*** FLOP *** [6h Qs 4s]
+MathisKcr checks
+Matofs bets 9000
+MathisKcr folds
+Matofs collected 27950 from pot
+*** SUMMARY ***
+Total pot 27950 | No rake
+Board: [6h Qs 4s]
+Seat 3: Matofs won 27950
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #4627961960204337156-91-1775935217 - Holdem no limit (350/1500/3000) - 2026/04/11 19:20:17 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: 0nlyFOld-18 (76335, 1.80€ bounty)
+Seat 2: MathisKcr (115498, 2.36€ bounty)
+Seat 3: Matofs (73412, 0.90€ bounty)
+Seat 4: Estomac032 (76942, 2.58€ bounty)
+Seat 5: Muzeaux- (39530, 0.90€ bounty)
+Seat 6: moche33 (23620, 1.35€ bounty)
+Seat 7: Guluphatep (44832, 0.90€ bounty)
+Seat 8: PAPASIT0 (22314, 1.35€ bounty)
+*** ANTE/BLINDS ***
+0nlyFOld-18 posts ante 350
+MathisKcr posts ante 350
+Matofs posts ante 350
+Estomac032 posts ante 350
+Muzeaux- posts ante 350
+moche33 posts ante 350
+Guluphatep posts ante 350
+PAPASIT0 posts ante 350
+0nlyFOld-18 posts small blind 1500
+MathisKcr posts big blind 3000
+Dealt to MathisKcr [4h Jh]
+*** PRE-FLOP *** 
+Matofs folds
+Estomac032 folds
+Muzeaux- calls 3000
+moche33 calls 3000
+Guluphatep folds
+PAPASIT0 folds
+0nlyFOld-18 calls 1500
+MathisKcr checks
+*** FLOP *** [9c Jd 9s]
+0nlyFOld-18 checks
+MathisKcr bets 5180
+Muzeaux- calls 5180
+moche33 folds
+0nlyFOld-18 folds
+*** TURN *** [9c Jd 9s][Js]
+MathisKcr bets 8806
+Muzeaux- calls 8806
+*** RIVER *** [9c Jd 9s Js][Qs]
+MathisKcr bets 98162 and is all-in
+Muzeaux- folds
+MathisKcr collected 140934 from pot
+*** SUMMARY ***
+Total pot 140934 | No rake
+Board: [9c Jd 9s Js Qs]
+Seat 2: MathisKcr (big blind) won 140934
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #4627961960204337156-92-1775935323 - Holdem no limit (400/1750/3500) - 2026/04/11 19:22:03 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: 0nlyFOld-18 (72985, 1.80€ bounty)
+Seat 2: MathisKcr (140934, 2.36€ bounty)
+Seat 3: Matofs (73062, 0.90€ bounty)
+Seat 4: Estomac032 (76592, 2.58€ bounty)
+Seat 5: Muzeaux- (22194, 0.90€ bounty)
+Seat 6: moche33 (20270, 1.35€ bounty)
+Seat 7: Guluphatep (44482, 0.90€ bounty)
+Seat 8: PAPASIT0 (21964, 1.35€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 400
+Matofs posts ante 400
+0nlyFOld-18 posts ante 400
+Estomac032 posts ante 400
+Muzeaux- posts ante 400
+moche33 posts ante 400
+Guluphatep posts ante 400
+PAPASIT0 posts ante 400
+MathisKcr posts small blind 1750
+Matofs posts big blind 3500
+Dealt to MathisKcr [2d Kh]
+*** PRE-FLOP *** 
+Estomac032 folds
+Muzeaux- folds
+moche33 raises 16370 to 19870 and is all-in
+Guluphatep folds
+PAPASIT0 folds
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs calls 16370
+*** FLOP *** [7h 6s Td]
+*** TURN *** [7h 6s Td][7c]
+*** RIVER *** [7h 6s Td 7c][9d]
+*** SHOW DOWN ***
+moche33 shows [3d 3h] (Two pairs : 7 and 3)
+Matofs shows [Ts Jc] (Two pairs : Tens and 7)
+Matofs collected 44690 from pot
+*** SUMMARY ***
+Total pot 44690 | No rake
+Board: [7h 6s Td 7c 9d]
+Seat 3: Matofs (big blind) showed [Ts Jc] and won 44690 with Two pairs : Tens and 7
+Seat 6: moche33 showed [3d 3h] and lost with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #4627961960204337156-93-1775935358 - Holdem no limit (400/1750/3500) - 2026/04/11 19:22:38 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: 0nlyFOld-18 (72585, 1.80€ bounty)
+Seat 2: MathisKcr (138784, 2.36€ bounty)
+Seat 3: Matofs (97482, 1.57€ bounty)
+Seat 4: Estomac032 (76192, 2.58€ bounty)
+Seat 5: Muzeaux- (21794, 0.90€ bounty)
+Seat 7: Guluphatep (44082, 0.90€ bounty)
+Seat 8: PAPASIT0 (21564, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Matofs posts ante 400
+Estomac032 posts ante 400
+0nlyFOld-18 posts ante 400
+MathisKcr posts ante 400
+Muzeaux- posts ante 400
+Guluphatep posts ante 400
+PAPASIT0 posts ante 400
+Matofs posts small blind 1750
+Estomac032 posts big blind 3500
+Dealt to MathisKcr [8c 2h]
+*** PRE-FLOP *** 
+Muzeaux- folds
+Guluphatep folds
+PAPASIT0 raises 17664 to 21164 and is all-in
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+PAPASIT0 collected 29214 from pot
+*** SUMMARY ***
+Total pot 29214 | No rake
+Seat 8: PAPASIT0 won 29214
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #4627961960204337156-94-1775935392 - Holdem no limit (400/1750/3500) - 2026/04/11 19:23:12 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: 0nlyFOld-18 (72185, 1.80€ bounty)
+Seat 2: MathisKcr (138384, 2.36€ bounty)
+Seat 3: Matofs (95332, 1.57€ bounty)
+Seat 4: Estomac032 (72292, 2.58€ bounty)
+Seat 5: Muzeaux- (21394, 0.90€ bounty)
+Seat 7: Guluphatep (43682, 0.90€ bounty)
+Seat 8: PAPASIT0 (29214, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Estomac032 posts ante 400
+Muzeaux- posts ante 400
+0nlyFOld-18 posts ante 400
+MathisKcr posts ante 400
+Matofs posts ante 400
+Guluphatep posts ante 400
+PAPASIT0 posts ante 400
+Estomac032 posts small blind 1750
+Muzeaux- posts big blind 3500
+Dealt to MathisKcr [Kd 3s]
+*** PRE-FLOP *** 
+Guluphatep folds
+PAPASIT0 folds
+0nlyFOld-18 raises 3500 to 7000
+MathisKcr folds
+Matofs folds
+Estomac032 raises 14000 to 21000
+Muzeaux- folds
+0nlyFOld-18 raises 50785 to 71785 and is all-in
+Estomac032 calls 50785
+*** FLOP *** [Qh Jc Kc]
+*** TURN *** [Qh Jc Kc][Jh]
+*** RIVER *** [Qh Jc Kc Jh][3d]
+*** SHOW DOWN ***
+0nlyFOld-18 shows [Qd Ah] (Two pairs : Queens and Jacks)
+Estomac032 shows [Qs As] (Two pairs : Queens and Jacks)
+Estomac032 collected 74935 from pot
+0nlyFOld-18 collected 74935 from pot
+*** SUMMARY ***
+Total pot 149870 | No rake
+Board: [Qh Jc Kc Jh 3d]
+Seat 1: 0nlyFOld-18 showed [Qd Ah] and won 74935 with Two pairs : Queens and Jacks
+Seat 4: Estomac032 (small blind) showed [Qs As] and won 74935 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #4627961960204337156-95-1775935459 - Holdem no limit (400/1750/3500) - 2026/04/11 19:24:19 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: 0nlyFOld-18 (74935, 1.80€ bounty)
+Seat 2: MathisKcr (137984, 2.36€ bounty)
+Seat 3: Matofs (94932, 1.57€ bounty)
+Seat 4: Estomac032 (75042, 2.58€ bounty)
+Seat 5: Muzeaux- (17494, 0.90€ bounty)
+Seat 7: Guluphatep (43282, 0.90€ bounty)
+Seat 8: PAPASIT0 (28814, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Muzeaux- posts ante 400
+Guluphatep posts ante 400
+0nlyFOld-18 posts ante 400
+MathisKcr posts ante 400
+Matofs posts ante 400
+Estomac032 posts ante 400
+PAPASIT0 posts ante 400
+Muzeaux- posts small blind 1750
+Guluphatep posts big blind 3500
+Dealt to MathisKcr [8h 7d]
+*** PRE-FLOP *** 
+PAPASIT0 folds
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+Muzeaux- raises 13594 to 17094 and is all-in
+Guluphatep calls 13594
+*** FLOP *** [2d 4s 7s]
+*** TURN *** [2d 4s 7s][Ac]
+*** RIVER *** [2d 4s 7s Ac][Kh]
+*** SHOW DOWN ***
+Guluphatep shows [9c 7c] (One pair : 7)
+Muzeaux- shows [6d Ks] (One pair : Kings)
+Muzeaux- collected 36988 from pot
+*** SUMMARY ***
+Total pot 36988 | No rake
+Board: [2d 4s 7s Ac Kh]
+Seat 5: Muzeaux- (small blind) showed [6d Ks] and won 36988 with One pair : Kings
+Seat 7: Guluphatep (big blind) showed [9c 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #4627961960204337156-96-1775935499 - Holdem no limit (400/1750/3500) - 2026/04/11 19:24:59 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: 0nlyFOld-18 (74535, 1.80€ bounty)
+Seat 2: MathisKcr (137584, 2.36€ bounty)
+Seat 3: Matofs (94532, 1.57€ bounty)
+Seat 4: Estomac032 (74642, 2.58€ bounty)
+Seat 5: Muzeaux- (36988, 0.90€ bounty)
+Seat 6: CALLSAUL (48334, 2.02€ bounty)
+Seat 7: Guluphatep (25788, 0.90€ bounty)
+Seat 8: PAPASIT0 (28414, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Guluphatep posts ante 400
+PAPASIT0 posts ante 400
+0nlyFOld-18 posts ante 400
+MathisKcr posts ante 400
+Matofs posts ante 400
+Estomac032 posts ante 400
+Muzeaux- posts ante 400
+Guluphatep posts small blind 1750
+PAPASIT0 posts big blind 3500
+Dealt to MathisKcr [Jc 7d]
+*** PRE-FLOP *** 
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs raises 3500 to 7000
+Estomac032 folds
+Muzeaux- folds
+Guluphatep folds
+PAPASIT0 calls 3500
+*** FLOP *** [5s 8d 2h]
+PAPASIT0 checks
+Matofs bets 9275
+PAPASIT0 folds
+Matofs collected 27825 from pot
+*** SUMMARY ***
+Total pot 27825 | No rake
+Board: [5s 8d 2h]
+Seat 3: Matofs won 27825
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #4627961960204337156-97-1775935555 - Holdem no limit (400/1750/3500) - 2026/04/11 19:25:55 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: 0nlyFOld-18 (74135, 1.80€ bounty)
+Seat 2: MathisKcr (137184, 2.36€ bounty)
+Seat 3: Matofs (105682, 1.57€ bounty)
+Seat 4: Estomac032 (74242, 2.58€ bounty)
+Seat 5: Muzeaux- (36588, 0.90€ bounty)
+Seat 6: CALLSAUL (48334, 2.02€ bounty)
+Seat 7: Guluphatep (23638, 0.90€ bounty)
+Seat 8: PAPASIT0 (21014, 1.35€ bounty)
+*** ANTE/BLINDS ***
+PAPASIT0 posts ante 400
+0nlyFOld-18 posts ante 400
+MathisKcr posts ante 400
+Matofs posts ante 400
+Estomac032 posts ante 400
+Muzeaux- posts ante 400
+CALLSAUL posts ante 400
+Guluphatep posts ante 400
+PAPASIT0 posts small blind 1750
+0nlyFOld-18 posts big blind 3500
+Dealt to MathisKcr [Kh 8s]
+*** PRE-FLOP *** 
+MathisKcr raises 3500 to 7000
+Matofs folds
+Estomac032 folds
+Muzeaux- folds
+CALLSAUL folds
+Guluphatep folds
+PAPASIT0 folds
+0nlyFOld-18 folds
+MathisKcr collected 15450 from pot
+*** SUMMARY ***
+Total pot 15450 | No rake
+Seat 2: MathisKcr won 15450
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #4627961960204337156-98-1775935614 - Holdem no limit (400/1750/3500) - 2026/04/11 19:26:54 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #8 is the button
+Seat 1: 0nlyFOld-18 (70235, 1.80€ bounty)
+Seat 2: MathisKcr (145234, 2.36€ bounty)
+Seat 3: Matofs (105282, 1.57€ bounty)
+Seat 4: Estomac032 (73842, 2.58€ bounty)
+Seat 5: Muzeaux- (36188, 0.90€ bounty)
+Seat 6: CALLSAUL (47934, 2.02€ bounty)
+Seat 7: Guluphatep (23238, 0.90€ bounty)
+Seat 8: PAPASIT0 (18864, 1.35€ bounty)
+*** ANTE/BLINDS ***
+0nlyFOld-18 posts ante 400
+MathisKcr posts ante 400
+Matofs posts ante 400
+Estomac032 posts ante 400
+Muzeaux- posts ante 400
+CALLSAUL posts ante 400
+Guluphatep posts ante 400
+PAPASIT0 posts ante 400
+0nlyFOld-18 posts small blind 1750
+MathisKcr posts big blind 3500
+Dealt to MathisKcr [4d 2s]
+*** PRE-FLOP *** 
+Matofs folds
+Estomac032 folds
+Muzeaux- folds
+CALLSAUL folds
+Guluphatep raises 19338 to 22838 and is all-in
+PAPASIT0 calls 18464 and is all-in
+0nlyFOld-18 folds
+MathisKcr folds
+*** FLOP *** [Jh 6h Qs]
+*** TURN *** [Jh 6h Qs][Th]
+*** RIVER *** [Jh 6h Qs Th][Js]
+*** SHOW DOWN ***
+PAPASIT0 shows [Ac 6c] (Two pairs : Jacks and 6)
+Guluphatep shows [Jd 9d] (Trips of Jacks)
+Guluphatep collected 49752 from pot
+*** SUMMARY ***
+Total pot 49752 | No rake
+Board: [Jh 6h Qs Th Js]
+Seat 7: Guluphatep showed [Jd 9d] and won 49752 with Trips of Jacks
+Seat 8: PAPASIT0 (button) showed [Ac 6c] and lost with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #4627961960204337156-99-1775935683 - Holdem no limit (500/2000/4000) - 2026/04/11 19:28:03 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: 0nlyFOld-18 (68085, 1.80€ bounty)
+Seat 2: MathisKcr (141334, 2.36€ bounty)
+Seat 3: Matofs (104882, 1.57€ bounty)
+Seat 4: Estomac032 (73442, 2.58€ bounty)
+Seat 5: Muzeaux- (35788, 0.90€ bounty)
+Seat 6: CALLSAUL (47534, 2.02€ bounty)
+Seat 7: Guluphatep (49752, 1.57€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 500
+Matofs posts ante 500
+0nlyFOld-18 posts ante 500
+Estomac032 posts ante 500
+Muzeaux- posts ante 500
+CALLSAUL posts ante 500
+Guluphatep posts ante 500
+MathisKcr posts small blind 2000
+Matofs posts big blind 4000
+Dealt to MathisKcr [4d Ks]
+*** PRE-FLOP *** 
+Estomac032 folds
+Muzeaux- folds
+CALLSAUL folds
+Guluphatep folds
+0nlyFOld-18 folds
+MathisKcr raises 4000 to 8000
+Matofs raises 96382 to 104382 and is all-in
+MathisKcr folds
+Matofs collected 115882 from pot
+*** SUMMARY ***
+Total pot 115882 | No rake
+Seat 3: Matofs (big blind) won 115882
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #4627961960204337156-100-1775935726 - Holdem no limit (500/2000/4000) - 2026/04/11 19:28:46 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: 0nlyFOld-18 (67585, 1.80€ bounty)
+Seat 2: MathisKcr (132834, 2.36€ bounty)
+Seat 3: Matofs (115882, 1.57€ bounty)
+Seat 4: Estomac032 (72942, 2.58€ bounty)
+Seat 5: Muzeaux- (35288, 0.90€ bounty)
+Seat 6: CALLSAUL (47034, 2.02€ bounty)
+Seat 7: Guluphatep (49252, 1.57€ bounty)
+*** ANTE/BLINDS ***
+Matofs posts ante 500
+Estomac032 posts ante 500
+0nlyFOld-18 posts ante 500
+MathisKcr posts ante 500
+Muzeaux- posts ante 500
+CALLSAUL posts ante 500
+Guluphatep posts ante 500
+Matofs posts small blind 2000
+Estomac032 posts big blind 4000
+Dealt to MathisKcr [Js 6h]
+*** PRE-FLOP *** 
+Muzeaux- folds
+CALLSAUL folds
+Guluphatep folds
+0nlyFOld-18 raises 63085 to 67085 and is all-in
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+0nlyFOld-18 collected 76585 from pot
+*** SUMMARY ***
+Total pot 76585 | No rake
+Seat 1: 0nlyFOld-18 won 76585
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #4627961960204337156-101-1775935772 - Holdem no limit (500/2000/4000) - 2026/04/11 19:29:32 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: 0nlyFOld-18 (76585, 1.80€ bounty)
+Seat 2: MathisKcr (132334, 2.36€ bounty)
+Seat 3: Matofs (113382, 1.57€ bounty)
+Seat 4: Estomac032 (68442, 2.58€ bounty)
+Seat 5: Muzeaux- (34788, 0.90€ bounty)
+Seat 6: CALLSAUL (46534, 2.02€ bounty)
+Seat 7: Guluphatep (48752, 1.57€ bounty)
+*** ANTE/BLINDS ***
+Estomac032 posts ante 500
+Muzeaux- posts ante 500
+0nlyFOld-18 posts ante 500
+MathisKcr posts ante 500
+Matofs posts ante 500
+CALLSAUL posts ante 500
+Guluphatep posts ante 500
+Estomac032 posts small blind 2000
+Muzeaux- posts big blind 4000
+Dealt to MathisKcr [Ad 6h]
+*** PRE-FLOP *** 
+CALLSAUL folds
+Guluphatep folds
+0nlyFOld-18 raises 4000 to 8000
+MathisKcr folds
+Matofs folds
+Estomac032 calls 6000
+Muzeaux- folds
+*** FLOP *** [Ah 8d 5h]
+Estomac032 checks
+0nlyFOld-18 bets 5875
+Estomac032 calls 5875
+*** TURN *** [Ah 8d 5h][7c]
+Estomac032 checks
+0nlyFOld-18 checks
+*** RIVER *** [Ah 8d 5h 7c][9d]
+Estomac032 checks
+0nlyFOld-18 checks
+*** SHOW DOWN ***
+0nlyFOld-18 shows [Kh Qc] (High card : Ace)
+Estomac032 shows [8s Kc] (One pair : 8)
+Estomac032 collected 35250 from pot
+*** SUMMARY ***
+Total pot 35250 | No rake
+Board: [Ah 8d 5h 7c 9d]
+Seat 1: 0nlyFOld-18 showed [Kh Qc] and lost with High card : Ace
+Seat 4: Estomac032 (small blind) showed [8s Kc] and won 35250 with One pair : 8
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #4627961960204337156-102-1775935829 - Holdem no limit (500/2000/4000) - 2026/04/11 19:30:29 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: 0nlyFOld-18 (62210, 1.80€ bounty)
+Seat 2: MathisKcr (131834, 2.36€ bounty)
+Seat 3: Matofs (112882, 1.57€ bounty)
+Seat 4: Estomac032 (89317, 2.58€ bounty)
+Seat 5: Muzeaux- (30288, 0.90€ bounty)
+Seat 6: CALLSAUL (46034, 2.02€ bounty)
+Seat 7: Guluphatep (48252, 1.57€ bounty)
+*** ANTE/BLINDS ***
+Muzeaux- posts ante 500
+CALLSAUL posts ante 500
+0nlyFOld-18 posts ante 500
+MathisKcr posts ante 500
+Matofs posts ante 500
+Estomac032 posts ante 500
+Guluphatep posts ante 500
+Muzeaux- posts small blind 2000
+CALLSAUL posts big blind 4000
+Dealt to MathisKcr [Jc 7c]
+*** PRE-FLOP *** 
+Guluphatep folds
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+Muzeaux- raises 25788 to 29788 and is all-in
+CALLSAUL folds
+Muzeaux- collected 37288 from pot
+*** SUMMARY ***
+Total pot 37288 | No rake
+Seat 5: Muzeaux- (small blind) won 37288
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #4627961960204337156-103-1775935867 - Holdem no limit (500/2000/4000) - 2026/04/11 19:31:07 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: 0nlyFOld-18 (61710, 1.80€ bounty)
+Seat 2: MathisKcr (131334, 2.36€ bounty)
+Seat 3: Matofs (112382, 1.57€ bounty)
+Seat 4: Estomac032 (88817, 2.58€ bounty)
+Seat 5: Muzeaux- (37288, 0.90€ bounty)
+Seat 6: CALLSAUL (41534, 2.02€ bounty)
+Seat 7: Guluphatep (47752, 1.57€ bounty)
+*** ANTE/BLINDS ***
+CALLSAUL posts ante 500
+Guluphatep posts ante 500
+0nlyFOld-18 posts ante 500
+MathisKcr posts ante 500
+Matofs posts ante 500
+Estomac032 posts ante 500
+Muzeaux- posts ante 500
+CALLSAUL posts small blind 2000
+Guluphatep posts big blind 4000
+Dealt to MathisKcr [6c Kc]
+*** PRE-FLOP *** 
+0nlyFOld-18 folds
+MathisKcr raises 4000 to 8000
+Matofs folds
+Estomac032 folds
+Muzeaux- folds
+CALLSAUL folds
+Guluphatep raises 39252 to 47252 and is all-in
+MathisKcr folds
+Guluphatep collected 60752 from pot
+*** SUMMARY ***
+Total pot 60752 | No rake
+Seat 7: Guluphatep (big blind) won 60752
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #4627961960204337156-104-1775935897 - Holdem no limit (500/2000/4000) - 2026/04/11 19:31:37 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: 0nlyFOld-18 (61210, 1.80€ bounty)
+Seat 2: MathisKcr (122834, 2.36€ bounty)
+Seat 3: Matofs (111882, 1.57€ bounty)
+Seat 4: Estomac032 (88317, 2.58€ bounty)
+Seat 5: Muzeaux- (36788, 0.90€ bounty)
+Seat 6: CALLSAUL (39034, 2.02€ bounty)
+Seat 7: Guluphatep (60752, 1.57€ bounty)
+*** ANTE/BLINDS ***
+Guluphatep posts ante 500
+0nlyFOld-18 posts ante 500
+MathisKcr posts ante 500
+Matofs posts ante 500
+Estomac032 posts ante 500
+Muzeaux- posts ante 500
+CALLSAUL posts ante 500
+Guluphatep posts small blind 2000
+0nlyFOld-18 posts big blind 4000
+Dealt to MathisKcr [Ks 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+Muzeaux- folds
+CALLSAUL folds
+Guluphatep folds
+0nlyFOld-18 collected 9500 from pot
+*** SUMMARY ***
+Total pot 9500 | No rake
+Seat 1: 0nlyFOld-18 (big blind) won 9500
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #4627961960204337156-105-1775935952 - Holdem no limit (600/2500/5000) - 2026/04/11 19:32:32 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #7 is the button
+Seat 1: 0nlyFOld-18 (66210, 1.80€ bounty)
+Seat 2: MathisKcr (122334, 2.36€ bounty)
+Seat 3: Matofs (111382, 1.57€ bounty)
+Seat 4: Estomac032 (87817, 2.58€ bounty)
+Seat 5: Muzeaux- (36288, 0.90€ bounty)
+Seat 6: CALLSAUL (38534, 2.02€ bounty)
+Seat 7: Guluphatep (58252, 1.57€ bounty)
+*** ANTE/BLINDS ***
+0nlyFOld-18 posts ante 600
+MathisKcr posts ante 600
+Matofs posts ante 600
+Estomac032 posts ante 600
+Muzeaux- posts ante 600
+CALLSAUL posts ante 600
+Guluphatep posts ante 600
+0nlyFOld-18 posts small blind 2500
+MathisKcr posts big blind 5000
+Dealt to MathisKcr [Ts 4c]
+*** PRE-FLOP *** 
+Matofs folds
+Estomac032 folds
+Muzeaux- raises 30688 to 35688 and is all-in
+CALLSAUL raises 2246 to 37934 and is all-in
+Guluphatep folds
+0nlyFOld-18 folds
+MathisKcr folds
+*** FLOP *** [2d 6c 7d]
+*** TURN *** [2d 6c 7d][8h]
+*** RIVER *** [2d 6c 7d 8h][2s]
+*** SHOW DOWN ***
+Muzeaux- shows [Ac Td] (One pair : 2)
+CALLSAUL shows [Ah Jc] (One pair : 2)
+CALLSAUL collected 85322 from pot
+*** SUMMARY ***
+Total pot 85322 | No rake
+Board: [2d 6c 7d 8h 2s]
+Seat 5: Muzeaux- showed [Ac Td] and lost with One pair : 2
+Seat 6: CALLSAUL showed [Ah Jc] and won 85322 with One pair : 2
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #4627961960204337156-106-1775935992 - Holdem no limit (600/2500/5000) - 2026/04/11 19:33:12 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #1 is the button
+Seat 1: 0nlyFOld-18 (63110, 1.80€ bounty)
+Seat 2: MathisKcr (116734, 2.36€ bounty)
+Seat 3: Matofs (110782, 1.57€ bounty)
+Seat 4: Estomac032 (87217, 2.58€ bounty)
+Seat 6: CALLSAUL (85322, 2.47€ bounty)
+Seat 7: Guluphatep (57652, 1.57€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 600
+Matofs posts ante 600
+0nlyFOld-18 posts ante 600
+Estomac032 posts ante 600
+CALLSAUL posts ante 600
+Guluphatep posts ante 600
+MathisKcr posts small blind 2500
+Matofs posts big blind 5000
+Dealt to MathisKcr [4s 3d]
+*** PRE-FLOP *** 
+Estomac032 folds
+CALLSAUL folds
+Guluphatep folds
+0nlyFOld-18 raises 57510 to 62510 and is all-in
+MathisKcr folds
+Matofs folds
+0nlyFOld-18 collected 73610 from pot
+*** SUMMARY ***
+Total pot 73610 | No rake
+Seat 1: 0nlyFOld-18 (button) won 73610
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #4627961960204337156-107-1775936028 - Holdem no limit (600/2500/5000) - 2026/04/11 19:33:48 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #2 is the button
+Seat 1: 0nlyFOld-18 (73610, 1.80€ bounty)
+Seat 2: MathisKcr (113634, 2.36€ bounty)
+Seat 3: Matofs (105182, 1.57€ bounty)
+Seat 4: Estomac032 (86617, 2.58€ bounty)
+Seat 6: CALLSAUL (84722, 2.47€ bounty)
+Seat 7: Guluphatep (57052, 1.57€ bounty)
+*** ANTE/BLINDS ***
+Matofs posts ante 600
+Estomac032 posts ante 600
+0nlyFOld-18 posts ante 600
+MathisKcr posts ante 600
+CALLSAUL posts ante 600
+Guluphatep posts ante 600
+Matofs posts small blind 2500
+Estomac032 posts big blind 5000
+Dealt to MathisKcr [Qd 9s]
+*** PRE-FLOP *** 
+CALLSAUL folds
+Guluphatep raises 51452 to 56452 and is all-in
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+Guluphatep collected 67552 from pot
+*** SUMMARY ***
+Total pot 67552 | No rake
+Seat 7: Guluphatep won 67552
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #4627961960204337156-108-1775936053 - Holdem no limit (600/2500/5000) - 2026/04/11 19:34:13 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #3 is the button
+Seat 1: 0nlyFOld-18 (73010, 1.80€ bounty)
+Seat 2: MathisKcr (113034, 2.36€ bounty)
+Seat 3: Matofs (102082, 1.57€ bounty)
+Seat 4: Estomac032 (81017, 2.58€ bounty)
+Seat 5: Degachix (196941, 2.69€ bounty)
+Seat 6: CALLSAUL (84122, 2.47€ bounty)
+Seat 7: Guluphatep (67552, 1.57€ bounty)
+Seat 8: Malo69999 (330300, 4.83€ bounty)
+*** ANTE/BLINDS ***
+Estomac032 posts ante 600
+Degachix posts ante 600
+0nlyFOld-18 posts ante 600
+MathisKcr posts ante 600
+Matofs posts ante 600
+CALLSAUL posts ante 600
+Guluphatep posts ante 600
+Malo69999 posts ante 600
+Estomac032 posts small blind 2500
+Degachix posts big blind 5000
+Dealt to MathisKcr [4c Jh]
+*** PRE-FLOP *** 
+CALLSAUL folds
+Guluphatep folds
+Malo69999 folds
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+Degachix collected 12300 from pot
+*** SUMMARY ***
+Total pot 12300 | No rake
+Seat 5: Degachix (big blind) won 12300
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #4627961960204337156-109-1775936085 - Holdem no limit (600/2500/5000) - 2026/04/11 19:34:45 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #4 is the button
+Seat 1: 0nlyFOld-18 (72410, 1.80€ bounty)
+Seat 2: MathisKcr (112434, 2.36€ bounty)
+Seat 3: Matofs (101482, 1.57€ bounty)
+Seat 4: Estomac032 (77917, 2.58€ bounty)
+Seat 5: Degachix (203641, 2.69€ bounty)
+Seat 6: CALLSAUL (83522, 2.47€ bounty)
+Seat 7: Guluphatep (66952, 1.57€ bounty)
+Seat 8: Malo69999 (329700, 4.83€ bounty)
+*** ANTE/BLINDS ***
+Degachix posts ante 600
+CALLSAUL posts ante 600
+0nlyFOld-18 posts ante 600
+MathisKcr posts ante 600
+Matofs posts ante 600
+Estomac032 posts ante 600
+Guluphatep posts ante 600
+Malo69999 posts ante 600
+Degachix posts small blind 2500
+CALLSAUL posts big blind 5000
+Dealt to MathisKcr [Th 5c]
+*** PRE-FLOP *** 
+Guluphatep calls 5000
+Malo69999 raises 22300 to 27300
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+Degachix folds
+CALLSAUL folds
+Guluphatep folds
+Malo69999 collected 44600 from pot
+*** SUMMARY ***
+Total pot 44600 | No rake
+Seat 8: Malo69999 won 44600
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #4627961960204337156-110-1775936144 - Holdem no limit (600/2500/5000) - 2026/04/11 19:35:44 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #5 is the button
+Seat 1: 0nlyFOld-18 (71810, 1.80€ bounty)
+Seat 2: MathisKcr (111834, 2.36€ bounty)
+Seat 3: Matofs (100882, 1.57€ bounty)
+Seat 4: Estomac032 (77317, 2.58€ bounty)
+Seat 5: Degachix (200541, 2.69€ bounty)
+Seat 6: CALLSAUL (77922, 2.47€ bounty)
+Seat 7: Guluphatep (61352, 1.57€ bounty)
+Seat 8: Malo69999 (346400, 4.83€ bounty)
+*** ANTE/BLINDS ***
+CALLSAUL posts ante 600
+Guluphatep posts ante 600
+0nlyFOld-18 posts ante 600
+MathisKcr posts ante 600
+Matofs posts ante 600
+Estomac032 posts ante 600
+Degachix posts ante 600
+Malo69999 posts ante 600
+CALLSAUL posts small blind 2500
+Guluphatep posts big blind 5000
+Dealt to MathisKcr [Jd Tc]
+*** PRE-FLOP *** 
+Malo69999 folds
+0nlyFOld-18 raises 66210 to 71210 and is all-in
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+Degachix folds
+CALLSAUL folds
+Guluphatep folds
+0nlyFOld-18 collected 83510 from pot
+*** SUMMARY ***
+Total pot 83510 | No rake
+Seat 1: 0nlyFOld-18 won 83510
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #4627961960204337156-111-1775936183 - Holdem no limit (600/2500/5000) - 2026/04/11 19:36:23 UTC
+Table: 'SPARTACUS(1077531362)#0003' 8-max (real money) Seat #6 is the button
+Seat 1: 0nlyFOld-18 (83510, 1.80€ bounty)
+Seat 2: MathisKcr (111234, 2.36€ bounty)
+Seat 3: Matofs (100282, 1.57€ bounty)
+Seat 4: Estomac032 (76717, 2.58€ bounty)
+Seat 5: Degachix (199941, 2.69€ bounty)
+Seat 6: CALLSAUL (74822, 2.47€ bounty)
+Seat 7: Guluphatep (55752, 1.57€ bounty)
+Seat 8: Malo69999 (345800, 4.83€ bounty)
+*** ANTE/BLINDS ***
+Guluphatep posts ante 600
+Malo69999 posts ante 600
+0nlyFOld-18 posts ante 600
+MathisKcr posts ante 600
+Matofs posts ante 600
+Estomac032 posts ante 600
+Degachix posts ante 600
+CALLSAUL posts ante 600
+Guluphatep posts small blind 2500
+Malo69999 posts big blind 5000
+Dealt to MathisKcr [5c 2d]
+*** PRE-FLOP *** 
+0nlyFOld-18 folds
+MathisKcr folds
+Matofs folds
+Estomac032 folds
+Degachix raises 5000 to 10000
+CALLSAUL folds
+Guluphatep folds
+Malo69999 calls 5000
+*** FLOP *** [9h 3h 9s]
+Malo69999 checks
+Degachix checks
+*** TURN *** [9h 3h 9s][2h]
+Malo69999 checks
+Degachix checks
+*** RIVER *** [9h 3h 9s 2h][6d]
+Malo69999 bets 9555
+Degachix calls 9555
+*** SHOW DOWN ***
+Malo69999 shows [Ts 5s] (One pair : 9)
+Degachix shows [As 6c] (Two pairs : 9 and 6)
+Degachix collected 46410 from pot
+*** SUMMARY ***
+Total pot 46410 | No rake
+Board: [9h 3h 9s 2h 6d]
+Seat 5: Degachix showed [As 6c] and won 46410 with Two pairs : 9 and 6
+Seat 8: Malo69999 (big blind) showed [Ts 5s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #4627961960204337157-119-1775936283 - Holdem no limit (700/3000/6000) - 2026/04/11 19:38:03 UTC
+Table: 'SPARTACUS(1077531362)#0004' 8-max (real money) Seat #8 is the button
+Seat 1: nunocastrom (58489, 2.47€ bounty)
+Seat 2: MathisKcr (110634, 2.36€ bounty)
+Seat 3: Toms13 (116980, 1.57€ bounty)
+Seat 5: MichelGauth (120733, 2.47€ bounty)
+Seat 6: HANNIBAL972 (289201, 5.39€ bounty)
+Seat 7: Ig22cs (50980, 0.90€ bounty)
+Seat 8: 45quiqui (202895, 4.38€ bounty)
+*** ANTE/BLINDS ***
+nunocastrom posts ante 700
+MathisKcr posts ante 700
+Toms13 posts ante 700
+MichelGauth posts ante 700
+HANNIBAL972 posts ante 700
+Ig22cs posts ante 700
+45quiqui posts ante 700
+nunocastrom posts small blind 3000
+MathisKcr posts big blind 6000
+Dealt to MathisKcr [8c 3c]
+*** PRE-FLOP *** 
+Toms13 folds
+MichelGauth raises 6000 to 12000
+HANNIBAL972 folds
+Ig22cs folds
+45quiqui raises 18000 to 30000
+nunocastrom folds
+MathisKcr folds
+MichelGauth folds
+45quiqui collected 55900 from pot
+*** SUMMARY ***
+Total pot 55900 | No rake
+Seat 8: 45quiqui (button) won 55900
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #4627961960204337157-120-1775936332 - Holdem no limit (700/3000/6000) - 2026/04/11 19:38:52 UTC
+Table: 'SPARTACUS(1077531362)#0004' 8-max (real money) Seat #1 is the button
+Seat 1: nunocastrom (54789, 2.47€ bounty)
+Seat 2: MathisKcr (103934, 2.36€ bounty)
+Seat 3: Toms13 (116280, 1.57€ bounty)
+Seat 5: MichelGauth (108033, 2.47€ bounty)
+Seat 6: HANNIBAL972 (288501, 5.39€ bounty)
+Seat 7: Ig22cs (50280, 0.90€ bounty)
+Seat 8: 45quiqui (228095, 4.38€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 700
+Toms13 posts ante 700
+nunocastrom posts ante 700
+MichelGauth posts ante 700
+HANNIBAL972 posts ante 700
+Ig22cs posts ante 700
+45quiqui posts ante 700
+MathisKcr posts small blind 3000
+Toms13 posts big blind 6000
+Dealt to MathisKcr [Kd 2c]
+*** PRE-FLOP *** 
+MichelGauth folds
+HANNIBAL972 calls 6000
+Ig22cs folds
+45quiqui calls 6000
+nunocastrom folds
+MathisKcr calls 3000
+Toms13 checks
+*** FLOP *** [Td Ah 5h]
+MathisKcr checks
+Toms13 checks
+HANNIBAL972 bets 6000
+45quiqui calls 6000
+MathisKcr folds
+Toms13 folds
+*** TURN *** [Td Ah 5h][9c]
+HANNIBAL972 bets 14315
+45quiqui calls 14315
+*** RIVER *** [Td Ah 5h 9c][4c]
+HANNIBAL972 bets 6000
+45quiqui calls 6000
+*** SHOW DOWN ***
+45quiqui shows [Kc Js] (High card : Ace)
+HANNIBAL972 shows [7s Ts] (One pair : Tens)
+HANNIBAL972 collected 81530 from pot
+*** SUMMARY ***
+Total pot 81530 | No rake
+Board: [Td Ah 5h 9c 4c]
+Seat 6: HANNIBAL972 showed [7s Ts] and won 81530 with One pair : Tens
+Seat 8: 45quiqui showed [Kc Js] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #4627961960204337157-121-1775936439 - Holdem no limit (700/3000/6000) - 2026/04/11 19:40:39 UTC
+Table: 'SPARTACUS(1077531362)#0004' 8-max (real money) Seat #2 is the button
+Seat 1: nunocastrom (54089, 2.47€ bounty)
+Seat 2: MathisKcr (97234, 2.36€ bounty)
+Seat 3: Toms13 (109580, 1.57€ bounty)
+Seat 5: MichelGauth (107333, 2.47€ bounty)
+Seat 6: HANNIBAL972 (337016, 5.39€ bounty)
+Seat 7: Ig22cs (49580, 0.90€ bounty)
+Seat 8: 45quiqui (195080, 4.38€ bounty)
+*** ANTE/BLINDS ***
+Toms13 posts ante 700
+MichelGauth posts ante 700
+nunocastrom posts ante 700
+MathisKcr posts ante 700
+HANNIBAL972 posts ante 700
+Ig22cs posts ante 700
+45quiqui posts ante 700
+Toms13 posts small blind 3000
+MichelGauth posts big blind 6000
+Dealt to MathisKcr [Kc 8d]
+*** PRE-FLOP *** 
+HANNIBAL972 calls 6000
+Ig22cs folds
+45quiqui raises 9000 to 15000
+nunocastrom folds
+MathisKcr calls 15000
+Toms13 folds
+MichelGauth folds
+HANNIBAL972 calls 9000
+*** FLOP *** [4h 9s 3h]
+HANNIBAL972 bets 6000
+45quiqui raises 20915 to 26915
+MathisKcr folds
+HANNIBAL972 calls 20915
+*** TURN *** [4h 9s 3h][Ts]
+HANNIBAL972 checks
+45quiqui bets 73275
+HANNIBAL972 calls 73275
+*** RIVER *** [4h 9s 3h Ts][6c]
+HANNIBAL972 checks
+45quiqui checks
+*** SHOW DOWN ***
+45quiqui shows [Jh Qh] (High card : Queen)
+HANNIBAL972 shows [Th Kd] (One pair : Tens)
+HANNIBAL972 collected 259280 from pot
+*** SUMMARY ***
+Total pot 259280 | No rake
+Board: [4h 9s 3h Ts 6c]
+Seat 6: HANNIBAL972 showed [Th Kd] and won 259280 with One pair : Tens
+Seat 8: 45quiqui showed [Jh Qh] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #4627961960204337157-122-1775936541 - Holdem no limit (800/3500/7000) - 2026/04/11 19:42:21 UTC
+Table: 'SPARTACUS(1077531362)#0004' 8-max (real money) Seat #3 is the button
+Seat 1: nunocastrom (53389, 2.47€ bounty)
+Seat 2: MathisKcr (81534, 2.36€ bounty)
+Seat 3: Toms13 (105880, 1.57€ bounty)
+Seat 5: MichelGauth (100633, 2.47€ bounty)
+Seat 6: HANNIBAL972 (480406, 5.39€ bounty)
+Seat 7: Ig22cs (48880, 0.90€ bounty)
+Seat 8: 45quiqui (79190, 4.38€ bounty)
+*** ANTE/BLINDS ***
+MichelGauth posts ante 800
+HANNIBAL972 posts ante 800
+nunocastrom posts ante 800
+MathisKcr posts ante 800
+Toms13 posts ante 800
+Ig22cs posts ante 800
+45quiqui posts ante 800
+MichelGauth posts small blind 3500
+HANNIBAL972 posts big blind 7000
+Dealt to MathisKcr [Qd 7s]
+*** PRE-FLOP *** 
+Ig22cs folds
+45quiqui folds
+nunocastrom raises 45589 to 52589 and is all-in
+MathisKcr folds
+Toms13 folds
+MichelGauth raises 47244 to 99833 and is all-in
+HANNIBAL972 raises 379773 to 479606 and is all-in
+*** FLOP *** [9s 7d 8s]
+*** TURN *** [9s 7d 8s][8c]
+*** RIVER *** [9s 7d 8s 8c][3d]
+*** SHOW DOWN ***
+nunocastrom shows [Ah Jc] (One pair : 8)
+MichelGauth shows [Ac Qc] (One pair : 8)
+HANNIBAL972 shows [Ad As] (Two pairs : Aces and 8)
+HANNIBAL972 collected 637628 from pot
+*** SUMMARY ***
+Total pot 637628 | No rake
+Board: [9s 7d 8s 8c 3d]
+Seat 1: nunocastrom showed [Ah Jc] and lost with One pair : 8
+Seat 5: MichelGauth (small blind) showed [Ac Qc] and lost with One pair : 8
+Seat 6: HANNIBAL972 (big blind) showed [Ad As] and won 637628 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #4627961960204337157-123-1775936639 - Holdem no limit (800/3500/7000) - 2026/04/11 19:43:59 UTC
+Table: 'SPARTACUS(1077531362)#0004' 8-max (real money) Seat #5 is the button
+Seat 2: MathisKcr (80734, 2.36€ bounty)
+Seat 3: Toms13 (105080, 1.57€ bounty)
+Seat 6: HANNIBAL972 (637628, 7.85€ bounty)
+Seat 7: Ig22cs (48080, 0.90€ bounty)
+Seat 8: 45quiqui (78390, 4.38€ bounty)
+*** ANTE/BLINDS ***
+HANNIBAL972 posts ante 800
+Ig22cs posts ante 800
+MathisKcr posts ante 800
+Toms13 posts ante 800
+45quiqui posts ante 800
+HANNIBAL972 posts small blind 3500
+Ig22cs posts big blind 7000
+Dealt to MathisKcr [Ah 7s]
+*** PRE-FLOP *** 
+45quiqui folds
+MathisKcr raises 72934 to 79934 and is all-in
+Toms13 folds
+HANNIBAL972 calls 76434
+Ig22cs folds
+*** FLOP *** [2d Qs Qd]
+*** TURN *** [2d Qs Qd][Qc]
+*** RIVER *** [2d Qs Qd Qc][8s]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 7s] (Trips of Queens)
+HANNIBAL972 shows [Ac 3c] (Trips of Queens)
+HANNIBAL972 collected 85434 from pot
+MathisKcr collected 85434 from pot
+*** SUMMARY ***
+Total pot 170868 | No rake
+Board: [2d Qs Qd Qc 8s]
+Seat 2: MathisKcr showed [Ah 7s] and won 85434 with Trips of Queens
+Seat 6: HANNIBAL972 (small blind) showed [Ac 3c] and won 85434 with Trips of Queens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #4627961960204337157-124-1775936672 - Holdem no limit (800/3500/7000) - 2026/04/11 19:44:32 UTC
+Table: 'SPARTACUS(1077531362)#0004' 8-max (real money) Seat #6 is the button
+Seat 1: lthar (70198, 1.57€ bounty)
+Seat 2: MathisKcr (85434, 2.36€ bounty)
+Seat 3: Toms13 (104280, 1.57€ bounty)
+Seat 6: HANNIBAL972 (642328, 7.85€ bounty)
+Seat 7: Ig22cs (40280, 0.90€ bounty)
+Seat 8: 45quiqui (77590, 4.38€ bounty)
+*** ANTE/BLINDS ***
+Ig22cs posts ante 800
+45quiqui posts ante 800
+lthar posts ante 800
+MathisKcr posts ante 800
+Toms13 posts ante 800
+HANNIBAL972 posts ante 800
+Ig22cs posts small blind 3500
+45quiqui posts big blind 7000
+Dealt to MathisKcr [Ac 2s]
+*** PRE-FLOP *** 
+lthar folds
+MathisKcr raises 77634 to 84634 and is all-in
+Toms13 folds
+HANNIBAL972 calls 84634
+Ig22cs folds
+45quiqui calls 69790 and is all-in
+*** FLOP *** [7d 8s 2h]
+*** TURN *** [7d 8s 2h][4d]
+*** RIVER *** [7d 8s 2h 4d][4s]
+*** SHOW DOWN ***
+HANNIBAL972 shows [Jc Kd] (One pair : 4)
+45quiqui shows [As Kc] (One pair : 4)
+MathisKcr shows [Ac 2s] (Two pairs : 4 and 2)
+MathisKcr collected 254358 from pot
+*** SUMMARY ***
+Total pot 254358 | No rake
+Board: [7d 8s 2h 4d 4s]
+Seat 2: MathisKcr showed [Ac 2s] and won 254358 with Two pairs : 4 and 2
+Seat 6: HANNIBAL972 (button) showed [Jc Kd] and lost with One pair : 4
+Seat 8: 45quiqui (big blind) showed [As Kc] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #4627961960204337157-125-1775936711 - Holdem no limit (800/3500/7000) - 2026/04/11 19:45:11 UTC
+Table: 'SPARTACUS(1077531362)#0004' 8-max (real money) Seat #7 is the button
+Seat 1: lthar (69398, 1.57€ bounty)
+Seat 2: MathisKcr (254358, 4.55€ bounty)
+Seat 3: Toms13 (103480, 1.57€ bounty)
+Seat 5: Matofs (84882, 1.57€ bounty)
+Seat 6: HANNIBAL972 (556894, 7.85€ bounty)
+Seat 7: Ig22cs (35980, 0.90€ bounty)
+*** ANTE/BLINDS ***
+lthar posts ante 800
+MathisKcr posts ante 800
+Toms13 posts ante 800
+Matofs posts ante 800
+HANNIBAL972 posts ante 800
+Ig22cs posts ante 800
+lthar posts big blind 7000
+Dealt to MathisKcr [3s 8s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Toms13 folds
+Matofs folds
+HANNIBAL972 calls 7000
+Ig22cs folds
+lthar checks
+*** FLOP *** [Ts Th Jc]
+lthar checks
+HANNIBAL972 checks
+*** TURN *** [Ts Th Jc][Ah]
+lthar checks
+HANNIBAL972 bets 7000
+lthar folds
+HANNIBAL972 collected 25800 from pot
+*** SUMMARY ***
+Total pot 25800 | No rake
+Board: [Ts Th Jc Ah]
+Seat 6: HANNIBAL972 won 25800
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #4627961960204337157-126-1775936796 - Holdem no limit (800/3500/7000) - 2026/04/11 19:46:36 UTC
+Table: 'SPARTACUS(1077531362)#0004' 8-max (real money) Seat #8 is the button
+Seat 1: lthar (61598, 1.57€ bounty)
+Seat 2: MathisKcr (253558, 4.55€ bounty)
+Seat 3: Toms13 (102680, 1.57€ bounty)
+Seat 5: Matofs (84082, 1.57€ bounty)
+Seat 6: HANNIBAL972 (567894, 7.85€ bounty)
+Seat 7: Ig22cs (35180, 0.90€ bounty)
+*** ANTE/BLINDS ***
+lthar posts ante 800
+MathisKcr posts ante 800
+Toms13 posts ante 800
+Matofs posts ante 800
+HANNIBAL972 posts ante 800
+Ig22cs posts ante 800
+lthar posts small blind 3500
+MathisKcr posts big blind 7000
+Dealt to MathisKcr [2c Qh]
+*** PRE-FLOP *** 
+Toms13 calls 7000
+Matofs raises 76282 to 83282 and is all-in
+HANNIBAL972 folds
+Ig22cs folds
+lthar folds
+MathisKcr folds
+Toms13 raises 18598 to 101880 and is all-in
+*** FLOP *** [9s 8s 9d]
+*** TURN *** [9s 8s 9d][9h]
+*** RIVER *** [9s 8s 9d 9h][6s]
+*** SHOW DOWN ***
+Matofs shows [Js As] (Flush Ace high)
+Toms13 shows [Kd Kc] (Full of 9 and Kings)
+Toms13 collected 200462 from pot
+*** SUMMARY ***
+Total pot 200462 | No rake
+Board: [9s 8s 9d 9h 6s]
+Seat 3: Toms13 showed [Kd Kc] and won 200462 with Full of 9 and Kings
+Seat 5: Matofs showed [Js As] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #4627961960204337155-147-1775936890 - Holdem no limit (1000/4000/8000) - 2026/04/11 19:48:10 UTC
+Table: 'SPARTACUS(1077531362)#0002' 8-max (real money) Seat #3 is the button
+Seat 1: Apo Calypso (324360, 5.16€ bounty)
+Seat 2: AAricoMagiKK (198807, 2.64€ bounty)
+Seat 3: 09iZoogataga (122037, 4.15€ bounty)
+Seat 5: Maledictis (87513, 1.80€ bounty)
+Seat 6: Tom121212121 (129957, 3.48€ bounty)
+Seat 7: MathisKcr (245758, 4.55€ bounty)
+Seat 8: tacot3 (107021, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Maledictis posts ante 1000
+Apo Calypso posts ante 1000
+AAricoMagiKK posts ante 1000
+09iZoogataga posts ante 1000
+Tom121212121 posts ante 1000
+MathisKcr posts ante 1000
+tacot3 posts ante 1000
+Maledictis posts big blind 8000
+Dealt to MathisKcr [Js 9s]
+*** PRE-FLOP *** 
+Tom121212121 folds
+MathisKcr raises 8000 to 16000
+tacot3 folds
+Apo Calypso folds
+AAricoMagiKK folds
+09iZoogataga folds
+Maledictis folds
+MathisKcr collected 31000 from pot
+*** SUMMARY ***
+Total pot 31000 | No rake
+Seat 7: MathisKcr won 31000
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #4627961960204337155-148-1775936905 - Holdem no limit (1000/4000/8000) - 2026/04/11 19:48:25 UTC
+Table: 'SPARTACUS(1077531362)#0002' 8-max (real money) Seat #4 is the button
+Seat 1: Apo Calypso (323360, 5.16€ bounty)
+Seat 2: AAricoMagiKK (197807, 2.64€ bounty)
+Seat 3: 09iZoogataga (121037, 4.15€ bounty)
+Seat 5: Maledictis (78513, 1.80€ bounty)
+Seat 6: Tom121212121 (128957, 3.48€ bounty)
+Seat 7: MathisKcr (259758, 4.55€ bounty)
+Seat 8: tacot3 (106021, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Maledictis posts ante 1000
+Tom121212121 posts ante 1000
+Apo Calypso posts ante 1000
+AAricoMagiKK posts ante 1000
+09iZoogataga posts ante 1000
+MathisKcr posts ante 1000
+tacot3 posts ante 1000
+Maledictis posts small blind 4000
+Tom121212121 posts big blind 8000
+Dealt to MathisKcr [9s Js]
+*** PRE-FLOP *** 
+MathisKcr raises 8000 to 16000
+tacot3 calls 16000
+Apo Calypso folds
+AAricoMagiKK folds
+09iZoogataga raises 104037 to 120037 and is all-in
+Maledictis folds
+Tom121212121 folds
+MathisKcr folds
+tacot3 calls 89021 and is all-in
+*** FLOP *** [9c Kh 9d]
+*** TURN *** [9c Kh 9d][7s]
+*** RIVER *** [9c Kh 9d 7s][5s]
+*** SHOW DOWN ***
+tacot3 shows [Ad Jh] (One pair : 9)
+09iZoogataga shows [8d 8c] (Two pairs : 9 and 8)
+09iZoogataga collected 260058 from pot
+*** SUMMARY ***
+Total pot 260058 | No rake
+Board: [9c Kh 9d 7s 5s]
+Seat 3: 09iZoogataga showed [8d 8c] and won 260058 with Two pairs : 9 and 8
+Seat 8: tacot3 showed [Ad Jh] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #4627961960204337155-149-1775936947 - Holdem no limit (1000/4000/8000) - 2026/04/11 19:49:07 UTC
+Table: 'SPARTACUS(1077531362)#0002' 8-max (real money) Seat #5 is the button
+Seat 1: Apo Calypso (322360, 5.16€ bounty)
+Seat 2: AAricoMagiKK (196807, 2.64€ bounty)
+Seat 3: 09iZoogataga (260058, 5.05€ bounty)
+Seat 5: Maledictis (73513, 1.80€ bounty)
+Seat 6: Tom121212121 (119957, 3.48€ bounty)
+Seat 7: MathisKcr (242758, 4.55€ bounty)
+*** ANTE/BLINDS ***
+Tom121212121 posts ante 1000
+MathisKcr posts ante 1000
+Apo Calypso posts ante 1000
+AAricoMagiKK posts ante 1000
+09iZoogataga posts ante 1000
+Maledictis posts ante 1000
+Tom121212121 posts small blind 4000
+MathisKcr posts big blind 8000
+Dealt to MathisKcr [Ts 9c]
+*** PRE-FLOP *** 
+Apo Calypso folds
+AAricoMagiKK folds
+09iZoogataga folds
+Maledictis folds
+Tom121212121 calls 4000
+MathisKcr checks
+*** FLOP *** [5c 3s Ks]
+Tom121212121 checks
+MathisKcr bets 14300
+Tom121212121 calls 14300
+*** TURN *** [5c 3s Ks][9s]
+Tom121212121 checks
+MathisKcr bets 219458 and is all-in
+Tom121212121 calls 96657 and is all-in
+*** RIVER *** [5c 3s Ks 9s][As]
+*** SHOW DOWN ***
+Tom121212121 shows [4s Js] (Flush Ace high)
+MathisKcr shows [Ts 9c] (Flush Ace high)
+MathisKcr collected 122801 from side pot 1
+Tom121212121 collected 243914 from main pot
+*** SUMMARY ***
+Total pot 366715 | No rake
+Board: [5c 3s Ks 9s As]
+Seat 6: Tom121212121 (small blind) showed [4s Js] and won 243914 with Flush Ace high
+Seat 7: MathisKcr (big blind) showed [Ts 9c] and won 122801 with Flush Ace high
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #4627961960204337155-150-1775936996 - Holdem no limit (1000/4000/8000) - 2026/04/11 19:49:56 UTC
+Table: 'SPARTACUS(1077531362)#0002' 8-max (real money) Seat #6 is the button
+Seat 1: Apo Calypso (321360, 5.16€ bounty)
+Seat 2: AAricoMagiKK (195807, 2.64€ bounty)
+Seat 3: 09iZoogataga (259058, 5.05€ bounty)
+Seat 5: Maledictis (72513, 1.80€ bounty)
+Seat 6: Tom121212121 (243914, 3.48€ bounty)
+Seat 7: MathisKcr (122801, 4.55€ bounty)
+Seat 8: dumbohaja (291744, 3.03€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 1000
+dumbohaja posts ante 1000
+Apo Calypso posts ante 1000
+AAricoMagiKK posts ante 1000
+09iZoogataga posts ante 1000
+Maledictis posts ante 1000
+Tom121212121 posts ante 1000
+MathisKcr posts small blind 4000
+dumbohaja posts big blind 8000
+Dealt to MathisKcr [Jc 7d]
+*** PRE-FLOP *** 
+Apo Calypso folds
+AAricoMagiKK folds
+09iZoogataga raises 10000 to 18000
+Maledictis folds
+Tom121212121 folds
+MathisKcr folds
+dumbohaja calls 10000
+*** FLOP *** [4h 8h 3s]
+dumbohaja checks
+09iZoogataga checks
+*** TURN *** [4h 8h 3s][9h]
+dumbohaja checks
+09iZoogataga bets 21150
+dumbohaja folds
+09iZoogataga collected 68150 from pot
+*** SUMMARY ***
+Total pot 68150 | No rake
+Board: [4h 8h 3s 9h]
+Seat 3: 09iZoogataga won 68150
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #4627961960204337155-151-1775937061 - Holdem no limit (1000/4000/8000) - 2026/04/11 19:51:01 UTC
+Table: 'SPARTACUS(1077531362)#0002' 8-max (real money) Seat #7 is the button
+Seat 1: Apo Calypso (320360, 5.16€ bounty)
+Seat 2: AAricoMagiKK (194807, 2.64€ bounty)
+Seat 3: 09iZoogataga (287058, 5.05€ bounty)
+Seat 5: Maledictis (71513, 1.80€ bounty)
+Seat 6: Tom121212121 (242914, 3.48€ bounty)
+Seat 7: MathisKcr (117801, 4.55€ bounty)
+Seat 8: dumbohaja (272744, 3.03€ bounty)
+*** ANTE/BLINDS ***
+dumbohaja posts ante 1000
+Apo Calypso posts ante 1000
+AAricoMagiKK posts ante 1000
+09iZoogataga posts ante 1000
+Maledictis posts ante 1000
+Tom121212121 posts ante 1000
+MathisKcr posts ante 1000
+dumbohaja posts small blind 4000
+Apo Calypso posts big blind 8000
+Dealt to MathisKcr [8h 8c]
+*** PRE-FLOP *** 
+AAricoMagiKK raises 8000 to 16000
+09iZoogataga folds
+Maledictis folds
+Tom121212121 folds
+MathisKcr raises 100801 to 116801 and is all-in
+dumbohaja folds
+Apo Calypso folds
+AAricoMagiKK folds
+MathisKcr collected 151801 from pot
+*** SUMMARY ***
+Total pot 151801 | No rake
+Seat 7: MathisKcr (button) won 151801
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #4627961960204337155-152-1775937097 - Holdem no limit (1000/4000/8000) - 2026/04/11 19:51:37 UTC
+Table: 'SPARTACUS(1077531362)#0002' 8-max (real money) Seat #8 is the button
+Seat 1: Apo Calypso (311360, 5.16€ bounty)
+Seat 2: AAricoMagiKK (177807, 2.64€ bounty)
+Seat 3: 09iZoogataga (286058, 5.05€ bounty)
+Seat 5: Maledictis (70513, 1.80€ bounty)
+Seat 6: Tom121212121 (241914, 3.48€ bounty)
+Seat 7: MathisKcr (151801, 4.55€ bounty)
+Seat 8: dumbohaja (267744, 3.03€ bounty)
+*** ANTE/BLINDS ***
+Apo Calypso posts ante 1000
+AAricoMagiKK posts ante 1000
+09iZoogataga posts ante 1000
+Maledictis posts ante 1000
+Tom121212121 posts ante 1000
+MathisKcr posts ante 1000
+dumbohaja posts ante 1000
+Apo Calypso posts small blind 4000
+AAricoMagiKK posts big blind 8000
+Dealt to MathisKcr [Ac Jd]
+*** PRE-FLOP *** 
+09iZoogataga folds
+Maledictis folds
+Tom121212121 folds
+MathisKcr raises 142801 to 150801 and is all-in
+dumbohaja folds
+Apo Calypso raises 159559 to 310360 and is all-in
+AAricoMagiKK folds
+*** FLOP *** [Tc 3c 4h]
+*** TURN *** [Tc 3c 4h][9d]
+*** RIVER *** [Tc 3c 4h 9d][9h]
+*** SHOW DOWN ***
+MathisKcr shows [Ac Jd] (One pair : 9)
+Apo Calypso shows [5s 5c] (Two pairs : 9 and 5)
+Apo Calypso collected 476161 from pot
+*** SUMMARY ***
+Total pot 476161 | No rake
+Board: [Tc 3c 4h 9d 9h]
+Seat 1: Apo Calypso (small blind) showed [5s 5c] and won 476161 with Two pairs : 9 and 5
+Seat 7: MathisKcr showed [Ac Jd] and lost with One pair : 9
+
+

@@ -1,0 +1,640 @@
+Winamax Poker - CashGame - HandId: #21508300-249-1759001462 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:31:02 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (2€)
+Seat 2: ..K5U (2.89€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (3.39€)
+Seat 5: Gilbert 75 (2€)
+*** ANTE/BLINDS ***
+Gilbert 75 posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [8h 9d]
+*** PRE-FLOP *** 
+..K5U folds
+Kraken_8 folds
+Melicendris raises 0.04€ to 0.06€
+Gilbert 75 raises 1.94€ to 2€ and is all-in
+MathisKcr folds
+Melicendris folds
+Gilbert 75 shows [5h 7s] (High card : 7)
+Gilbert 75 collected 2.08€ from pot
+*** SUMMARY ***
+Total pot 2.08€ | No rake
+Seat 5: Gilbert 75 (small blind) showed [5h 7s] and won 2.08€ with High card : 7
+
+
+Winamax Poker - CashGame - HandId: #21508300-250-1759001488 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:31:28 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (1.98€)
+Seat 2: ..K5U (2.89€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (3.33€)
+Seat 5: Gilbert 75 (2.08€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+..K5U posts big blind 0.02€
+Dealt to MathisKcr [3c Ad]
+*** PRE-FLOP *** 
+Kraken_8 folds
+Melicendris folds
+Gilbert 75 raises 0.04€ to 0.06€
+MathisKcr calls 0.05€
+..K5U calls 0.04€
+*** FLOP *** [4h 7s Ts]
+MathisKcr checks
+..K5U checks
+Gilbert 75 bets 0.14€
+MathisKcr folds
+..K5U calls 0.14€
+*** TURN *** [4h 7s Ts][4c]
+..K5U checks
+Gilbert 75 bets 0.39€
+..K5U calls 0.39€
+*** RIVER *** [4h 7s Ts 4c][Ah]
+..K5U checks
+Gilbert 75 bets 1.49€ and is all-in
+..K5U folds
+Gilbert 75 collected 2.66€ from pot
+*** SUMMARY ***
+Total pot 2.66€ | Rake 0.07€
+Board: [4h 7s Ts 4c Ah]
+Seat 5: Gilbert 75 (button) won 2.66€
+
+
+Winamax Poker - CashGame - HandId: #21508300-251-1759001541 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:32:21 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (1.92€)
+Seat 2: ..K5U (2.30€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (3.33€)
+Seat 5: Gilbert 75 (2.66€)
+*** ANTE/BLINDS ***
+..K5U posts small blind 0.01€
+Kraken_8 posts big blind 0.02€
+Dealt to MathisKcr [7s 9h]
+*** PRE-FLOP *** 
+Melicendris calls 0.02€
+Gilbert 75 folds
+MathisKcr calls 0.02€
+..K5U calls 0.01€
+Kraken_8 checks
+*** FLOP *** [5d Td Ad]
+..K5U bets 0.06€
+Kraken_8 folds
+Melicendris calls 0.06€
+MathisKcr folds
+*** TURN *** [5d Td Ad][Th]
+..K5U checks
+Melicendris bets 0.07€
+..K5U calls 0.07€
+*** RIVER *** [5d Td Ad Th][2d]
+..K5U checks
+Melicendris checks
+*** SHOW DOWN ***
+..K5U shows [3h As] (Two pairs : Aces and Tens)
+Melicendris shows [Kc Ac] (Two pairs : Aces and Tens)
+Melicendris collected 0.32€ from pot
+*** SUMMARY ***
+Total pot 0.32€ | Rake 0.02€
+Board: [5d Td Ad Th 2d]
+Seat 2: ..K5U (small blind) showed [3h As] and lost with Two pairs : Aces and Tens
+Seat 4: Melicendris showed [Kc Ac] and won 0.32€ with Two pairs : Aces and Tens
+
+
+Winamax Poker - CashGame - HandId: #21508300-252-1759001582 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:33:02 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (1.90€)
+Seat 2: ..K5U (2.15€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (3.50€)
+Seat 5: Gilbert 75 (2.66€)
+*** ANTE/BLINDS ***
+Kraken_8 posts small blind 0.01€
+Melicendris posts big blind 0.02€
+Dealt to MathisKcr [Jd 6h]
+*** PRE-FLOP *** 
+Gilbert 75 raises 0.04€ to 0.06€
+MathisKcr calls 0.06€
+..K5U folds
+Kraken_8 folds
+Melicendris calls 0.04€
+*** FLOP *** [8d 2d 7s]
+Melicendris checks
+Gilbert 75 bets 0.12€
+MathisKcr folds
+Melicendris calls 0.12€
+*** TURN *** [8d 2d 7s][As]
+Melicendris checks
+Gilbert 75 bets 0.34€
+Melicendris folds
+Gilbert 75 collected 0.75€ from pot
+*** SUMMARY ***
+Total pot 0.75€ | Rake 0.02€
+Board: [8d 2d 7s As]
+Seat 5: Gilbert 75 won 0.75€
+
+
+Winamax Poker - CashGame - HandId: #21508300-253-1759001613 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:33:33 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (1.84€)
+Seat 2: ..K5U (2.15€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (3.32€)
+Seat 5: Gilbert 75 (2.89€)
+*** ANTE/BLINDS ***
+Melicendris posts small blind 0.01€
+Gilbert 75 posts big blind 0.02€
+Dealt to MathisKcr [Td Kh]
+*** PRE-FLOP *** 
+MathisKcr calls 0.02€
+..K5U folds
+Kraken_8 raises 0.06€ to 0.08€
+Melicendris folds
+Gilbert 75 folds
+MathisKcr calls 0.06€
+*** FLOP *** [Th 6h 2d]
+MathisKcr bets 0.10€
+Kraken_8 calls 0.10€
+*** TURN *** [Th 6h 2d][9c]
+MathisKcr bets 0.20€
+Kraken_8 calls 0.20€
+*** RIVER *** [Th 6h 2d 9c][Qs]
+MathisKcr bets 0.51€
+Kraken_8 folds
+MathisKcr collected 1.25€ from pot
+*** SUMMARY ***
+Total pot 1.25€ | Rake 0.05€
+Board: [Th 6h 2d 9c Qs]
+Seat 1: MathisKcr won 1.25€
+
+
+Winamax Poker - CashGame - HandId: #21508300-254-1759001660 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:34:20 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (2.20€)
+Seat 2: ..K5U (2.15€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (3.31€)
+Seat 5: Gilbert 75 (2.87€)
+*** ANTE/BLINDS ***
+Gilbert 75 posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [Td 7h]
+*** PRE-FLOP *** 
+..K5U raises 0.04€ to 0.06€
+Kraken_8 folds
+Melicendris calls 0.06€
+Gilbert 75 raises 0.30€ to 0.36€
+MathisKcr folds
+..K5U folds
+Melicendris calls 0.30€
+*** FLOP *** [Ts 3s 5d]
+Gilbert 75 bets 0.80€
+Melicendris raises 2.15€ to 2.95€ and is all-in
+Gilbert 75 calls 1.71€ and is all-in
+*** TURN *** [Ts 3s 5d][2d]
+*** RIVER *** [Ts 3s 5d 2d][9d]
+*** SHOW DOWN ***
+Melicendris shows [9s 9c] (Trips of 9)
+Gilbert 75 shows [Ad 4d] (Flush Ace high)
+Gilbert 75 collected 5.49€ from main pot
+Melicendris collected 0.44€ from side pot 1
+*** SUMMARY ***
+Total pot 5.93€ | Rake 0.33€
+Board: [Ts 3s 5d 2d 9d]
+Seat 4: Melicendris (button) showed [9s 9c] and won 0.44€ with Trips of 9
+Seat 5: Gilbert 75 (small blind) showed [Ad 4d] and won 5.49€ with Flush Ace high
+
+
+Winamax Poker - CashGame - HandId: #21508300-255-1759001704 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:35:04 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (2.18€)
+Seat 2: ..K5U (2.09€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (0.44€)
+Seat 5: Gilbert 75 (5.49€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+..K5U posts big blind 0.02€
+Dealt to MathisKcr [5s Kh]
+*** PRE-FLOP *** 
+Kraken_8 folds
+Melicendris folds
+Gilbert 75 raises 0.04€ to 0.06€
+MathisKcr calls 0.05€
+..K5U calls 0.04€
+*** FLOP *** [Js 4c 9c]
+MathisKcr checks
+..K5U checks
+Gilbert 75 bets 0.14€
+MathisKcr folds
+..K5U folds
+Gilbert 75 collected 0.31€ from pot
+*** SUMMARY ***
+Total pot 0.31€ | Rake 0.01€
+Board: [Js 4c 9c]
+Seat 5: Gilbert 75 (button) won 0.31€
+
+
+Winamax Poker - CashGame - HandId: #21508300-256-1759001746 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:35:46 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (2.12€)
+Seat 2: ..K5U (2.03€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (2€)
+Seat 5: Gilbert 75 (5.60€)
+*** ANTE/BLINDS ***
+..K5U posts small blind 0.01€
+Kraken_8 posts big blind 0.02€
+Dealt to MathisKcr [6h 8s]
+*** PRE-FLOP *** 
+Melicendris calls 0.02€
+Gilbert 75 raises 0.22€ to 0.24€
+MathisKcr folds
+..K5U folds
+Kraken_8 folds
+Melicendris folds
+Gilbert 75 collected 0.29€ from pot
+*** SUMMARY ***
+Total pot 0.29€ | No rake
+Seat 5: Gilbert 75 won 0.29€
+
+
+Winamax Poker - CashGame - HandId: #21508300-257-1759001762 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:36:02 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (2.12€)
+Seat 2: ..K5U (2.02€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (1.98€)
+Seat 5: Gilbert 75 (5.65€)
+*** ANTE/BLINDS ***
+Kraken_8 posts small blind 0.01€
+Melicendris posts big blind 0.02€
+Dealt to MathisKcr [4c 6c]
+*** PRE-FLOP *** 
+Gilbert 75 raises 0.04€ to 0.06€
+MathisKcr folds
+..K5U folds
+Kraken_8 folds
+Melicendris calls 0.04€
+*** FLOP *** [3s 8d Kh]
+Melicendris checks
+Gilbert 75 bets 0.10€
+Melicendris folds
+Gilbert 75 collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [3s 8d Kh]
+Seat 5: Gilbert 75 won 0.22€
+
+
+Winamax Poker - CashGame - HandId: #21508300-258-1759001800 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:36:40 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (2.12€)
+Seat 2: ..K5U (2.02€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (1.92€)
+Seat 5: Gilbert 75 (5.71€)
+*** ANTE/BLINDS ***
+Melicendris posts small blind 0.01€
+Gilbert 75 posts big blind 0.02€
+Dealt to MathisKcr [8d 5h]
+*** PRE-FLOP *** 
+MathisKcr folds
+..K5U folds
+Kraken_8 folds
+Melicendris calls 0.01€
+Gilbert 75 checks
+*** FLOP *** [Qh Ks 7h]
+Melicendris bets 0.03€
+Gilbert 75 calls 0.03€
+*** TURN *** [Qh Ks 7h][8s]
+Melicendris checks
+Gilbert 75 checks
+*** RIVER *** [Qh Ks 7h 8s][4s]
+Melicendris checks
+Gilbert 75 checks
+*** SHOW DOWN ***
+Melicendris shows [6c 3c] (High card : King)
+Gilbert 75 shows [9c Jd] (High card : King)
+Gilbert 75 collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | Rake 0.01€
+Board: [Qh Ks 7h 8s 4s]
+Seat 4: Melicendris (small blind) showed [6c 3c] and lost with High card : King
+Seat 5: Gilbert 75 (big blind) showed [9c Jd] and won 0.09€ with High card : King
+
+
+Winamax Poker - CashGame - HandId: #21508300-259-1759001830 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:37:10 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (2.12€)
+Seat 2: ..K5U (2.02€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (1.87€)
+Seat 5: Gilbert 75 (5.75€)
+*** ANTE/BLINDS ***
+Gilbert 75 posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [5h 2s]
+*** PRE-FLOP *** 
+..K5U folds
+Kraken_8 folds
+Melicendris raises 0.04€ to 0.06€
+Gilbert 75 folds
+MathisKcr folds
+Melicendris collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 4: Melicendris (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #21508300-260-1759001870 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:37:50 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #5 is the button
+Seat 1: MathisKcr (2.10€)
+Seat 2: ..K5U (2.02€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (1.90€)
+Seat 5: Gilbert 75 (5.74€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+..K5U posts big blind 0.02€
+Dealt to MathisKcr [As 7h]
+*** PRE-FLOP *** 
+Kraken_8 folds
+Melicendris calls 0.02€
+Gilbert 75 raises 0.18€ to 0.20€
+MathisKcr calls 0.19€
+..K5U folds
+Melicendris folds
+*** FLOP *** [Ks 3h Js]
+MathisKcr checks
+Gilbert 75 checks
+*** TURN *** [Ks 3h Js][9c]
+MathisKcr bets 0.22€
+Gilbert 75 calls 0.22€
+*** RIVER *** [Ks 3h Js 9c][7d]
+MathisKcr bets 0.44€
+Gilbert 75 folds
+MathisKcr collected 1.27€ from pot
+*** SUMMARY ***
+Total pot 1.27€ | Rake 0.05€
+Board: [Ks 3h Js 9c 7d]
+Seat 1: MathisKcr (small blind) won 1.27€
+
+
+Winamax Poker - CashGame - HandId: #21508300-261-1759001920 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:38:40 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (2.51€)
+Seat 2: ..K5U (2€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (1.88€)
+Seat 5: Gilbert 75 (5.32€)
+*** ANTE/BLINDS ***
+..K5U posts small blind 0.01€
+Kraken_8 posts big blind 0.02€
+Dealt to MathisKcr [Qd 3c]
+*** PRE-FLOP *** 
+Melicendris raises 0.02€ to 0.04€
+Gilbert 75 calls 0.04€
+MathisKcr calls 0.04€
+..K5U folds
+Kraken_8 folds
+*** FLOP *** [5h 3h 4d]
+Melicendris bets 0.02€
+Gilbert 75 calls 0.02€
+MathisKcr calls 0.02€
+*** TURN *** [5h 3h 4d][Ac]
+Melicendris bets 0.02€
+Gilbert 75 folds
+MathisKcr calls 0.02€
+*** RIVER *** [5h 3h 4d Ac][4c]
+Melicendris bets 0.02€
+MathisKcr raises 0.06€ to 0.08€
+Melicendris calls 0.06€
+*** SHOW DOWN ***
+MathisKcr shows [Qd 3c] (Two pairs : 4 and 3)
+Melicendris shows [Kc Ad] (Two pairs : Aces and 4)
+Melicendris collected 0.39€ from pot
+*** SUMMARY ***
+Total pot 0.39€ | Rake 0.02€
+Board: [5h 3h 4d Ac 4c]
+Seat 1: MathisKcr (button) showed [Qd 3c] and lost with Two pairs : 4 and 3
+Seat 4: Melicendris showed [Kc Ad] and won 0.39€ with Two pairs : Aces and 4
+
+
+Winamax Poker - CashGame - HandId: #21508300-262-1759001960 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:39:20 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (2.35€)
+Seat 2: ..K5U (2€)
+Seat 3: Kraken_8 (2€)
+Seat 4: Melicendris (2.11€)
+Seat 5: Gilbert 75 (5.26€)
+*** ANTE/BLINDS ***
+Kraken_8 posts small blind 0.01€
+Melicendris posts big blind 0.02€
+Dealt to MathisKcr [Kh Ts]
+*** PRE-FLOP *** 
+Gilbert 75 folds
+MathisKcr raises 0.02€ to 0.04€
+..K5U folds
+Kraken_8 raises 0.12€ to 0.16€
+Melicendris folds
+MathisKcr calls 0.12€
+*** FLOP *** [Jc Jd Jh]
+Kraken_8 checks
+MathisKcr bets 0.12€
+Kraken_8 calls 0.12€
+*** TURN *** [Jc Jd Jh][7d]
+Kraken_8 checks
+MathisKcr bets 0.38€
+Kraken_8 raises 0.42€ to 0.80€
+MathisKcr calls 0.42€
+*** RIVER *** [Jc Jd Jh 7d][7s]
+Kraken_8 bets 0.92€ and is all-in
+MathisKcr raises 0.35€ to 1.27€ and is all-in
+*** SHOW DOWN ***
+MathisKcr shows [Kh Ts] (Full of Jacks and 7)
+Kraken_8 shows [Js Ah] (Quads of Jacks)
+Kraken_8 collected 3.79€ from main pot
+MathisKcr collected 0.35€ from side pot 1
+*** SUMMARY ***
+Total pot 4.14€ | Rake 0.23€
+Board: [Jc Jd Jh 7d 7s]
+Seat 1: MathisKcr showed [Kh Ts] and won 0.35€ with Full of Jacks and 7
+Seat 3: Kraken_8 (small blind) showed [Js Ah] and won 3.79€ with Quads of Jacks
+
+
+Winamax Poker - CashGame - HandId: #21508300-263-1759002045 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:40:45 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (0.35€)
+Seat 3: Kraken_8 (3.79€)
+Seat 4: Melicendris (2.09€)
+*** ANTE/BLINDS ***
+Melicendris posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [4d 2h]
+*** PRE-FLOP *** 
+Melicendris folds
+MathisKcr collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: MathisKcr (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #21508300-264-1759002056 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:40:56 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (0.36€)
+Seat 4: Melicendris (2.08€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+Melicendris posts big blind 0.02€
+Dealt to MathisKcr [Jh Kh]
+*** PRE-FLOP *** 
+MathisKcr calls 0.01€
+Melicendris checks
+*** FLOP *** [9s 3d Tc]
+Melicendris bets 0.02€
+MathisKcr raises 0.02€ to 0.04€
+Melicendris calls 0.02€
+*** TURN *** [9s 3d Tc][2d]
+Melicendris checks
+MathisKcr checks
+*** RIVER *** [9s 3d Tc 2d][Qd]
+Melicendris bets 0.04€
+MathisKcr raises 0.04€ to 0.08€
+Melicendris calls 0.04€
+*** SHOW DOWN ***
+Melicendris shows [9c 4h] (One pair : 9)
+MathisKcr shows [Jh Kh] (Straight King high)
+MathisKcr collected 0.26€ from pot
+*** SUMMARY ***
+Total pot 0.26€ | Rake 0.02€
+Board: [9s 3d Tc 2d Qd]
+Seat 1: MathisKcr (small blind) (button) showed [Jh Kh] and won 0.26€ with Straight King high
+Seat 4: Melicendris (big blind) showed [9c 4h] and lost with One pair : 9
+
+
+Winamax Poker - CashGame - HandId: #21508300-265-1759002084 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:41:24 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (0.48€)
+Seat 4: Melicendris (1.94€)
+*** ANTE/BLINDS ***
+Melicendris posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [Ks 8d]
+*** PRE-FLOP *** 
+Melicendris calls 0.01€
+MathisKcr checks
+*** FLOP *** [5d 6d Jd]
+MathisKcr bets 0.04€
+Melicendris calls 0.04€
+*** TURN *** [5d 6d Jd][4c]
+MathisKcr bets 0.08€
+Melicendris raises 0.28€ to 0.36€
+MathisKcr calls 0.28€
+*** RIVER *** [5d 6d Jd 4c][7s]
+MathisKcr bets 0.06€ and is all-in
+Melicendris calls 0.06€
+*** SHOW DOWN ***
+MathisKcr shows [Ks 8d] (Straight 8 high)
+Melicendris shows [8s 7h] (Straight 8 high)
+Melicendris collected 0.45€ from pot
+MathisKcr collected 0.45€ from pot
+*** SUMMARY ***
+Total pot 0.90€ | Rake 0.06€
+Board: [5d 6d Jd 4c 7s]
+Seat 1: MathisKcr (big blind) showed [Ks 8d] and won 0.45€ with Straight 8 high
+Seat 4: Melicendris (small blind) (button) showed [8s 7h] and won 0.45€ with Straight 8 high
+
+
+Winamax Poker - CashGame - HandId: #21508300-266-1759002115 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:41:55 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (0.45€)
+Seat 4: Melicendris (1.91€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+Melicendris posts big blind 0.02€
+Dealt to MathisKcr [4s 9c]
+*** PRE-FLOP *** 
+MathisKcr calls 0.01€
+Melicendris checks
+*** FLOP *** [3d Kc Qh]
+Melicendris checks
+MathisKcr checks
+*** TURN *** [3d Kc Qh][6h]
+Melicendris bets 0.04€
+MathisKcr folds
+Melicendris collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Board: [3d Kc Qh 6h]
+Seat 4: Melicendris (big blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #21508300-267-1759002128 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:42:08 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #4 is the button
+Seat 1: MathisKcr (0.43€)
+Seat 4: Melicendris (1.93€)
+*** ANTE/BLINDS ***
+Melicendris posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [4h 7c]
+*** PRE-FLOP *** 
+Melicendris raises 0.04€ to 0.06€
+MathisKcr calls 0.04€
+*** FLOP *** [7s Jc 9s]
+MathisKcr bets 0.37€ and is all-in
+Melicendris calls 0.37€
+*** TURN *** [7s Jc 9s][4c]
+*** RIVER *** [7s Jc 9s 4c][Th]
+*** SHOW DOWN ***
+Melicendris shows [Ah Js] (One pair : Jacks)
+MathisKcr shows [4h 7c] (Two pairs : 7 and 4)
+MathisKcr collected 0.81€ from pot
+*** SUMMARY ***
+Total pot 0.81€ | Rake 0.05€
+Board: [7s Jc 9s 4c Th]
+Seat 1: MathisKcr (big blind) showed [4h 7c] and won 0.81€ with Two pairs : 7 and 4
+Seat 4: Melicendris (small blind) (button) showed [Ah Js] and lost with One pair : Jacks
+
+
+Winamax Poker - CashGame - HandId: #21508300-268-1759002146 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:42:26 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (0.81€)
+Seat 4: Melicendris (1.50€)
+Seat 5: cram678 (2€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+Melicendris posts big blind 0.02€
+Dealt to MathisKcr [Kh 6c]
+*** PRE-FLOP *** 
+MathisKcr calls 0.01€
+Melicendris raises 0.04€ to 0.06€
+MathisKcr calls 0.04€
+*** FLOP *** [2d Tc 8d]
+Melicendris bets 1.44€ and is all-in
+MathisKcr folds
+Melicendris collected 1.55€ from pot
+*** SUMMARY ***
+Total pot 1.55€ | Rake 0.01€
+Board: [2d Tc 8d]
+Seat 4: Melicendris (big blind) won 1.55€
+
+
+Winamax Poker - CashGame - HandId: #21508300-269-1759002157 - Holdem no limit (0.01€/0.02€) - 2025/09/27 19:42:37 UTC
+Table: 'Aalen 18' 5-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (0.75€)
+Seat 4: Melicendris (1.55€)
+Seat 5: cram678 (2€)
+*** ANTE/BLINDS ***
+Melicendris posts small blind 0.01€
+cram678 posts big blind 0.02€
+Dealt to MathisKcr [4c 6s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Melicendris folds
+cram678 collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 5: cram678 (big blind) won 0.03€
+
+

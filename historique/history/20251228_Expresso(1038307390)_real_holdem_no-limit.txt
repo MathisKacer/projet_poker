@@ -1,0 +1,79 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4459496283245117441-1-1766933412 - Holdem no limit (10/20) - 2025/12/28 14:50:12 UTC
+Table: 'Expresso(1038307390)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (500)
+Seat 2: Leblond315 (500)
+Seat 3: shaolin x (500)
+*** ANTE/BLINDS ***
+shaolin x posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [8c 9s]
+*** PRE-FLOP *** 
+Leblond315 calls 20
+shaolin x raises 20 to 40
+MathisKcr calls 20
+Leblond315 calls 20
+*** FLOP *** [Jh Th 5s]
+shaolin x bets 20
+MathisKcr raises 20 to 40
+Leblond315 calls 40
+shaolin x calls 20
+*** TURN *** [Jh Th 5s][Kc]
+shaolin x checks
+MathisKcr bets 20
+Leblond315 calls 20
+shaolin x calls 20
+*** RIVER *** [Jh Th 5s Kc][8d]
+shaolin x checks
+MathisKcr checks
+Leblond315 bets 20
+shaolin x calls 20
+MathisKcr raises 227 to 247
+Leblond315 calls 227
+shaolin x folds
+*** SHOW DOWN ***
+MathisKcr shows [8c 9s] (One pair : 8)
+Leblond315 shows [6h Kd] (One pair : Kings)
+Leblond315 collected 814 from pot
+*** SUMMARY ***
+Total pot 814 | No rake
+Board: [Jh Th 5s Kc 8d]
+Seat 1: MathisKcr (big blind) showed [8c 9s] and lost with One pair : 8
+Seat 2: Leblond315 (button) showed [6h Kd] and won 814 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4459496283245117441-2-1766933455 - Holdem no limit (10/20) - 2025/12/28 14:50:55 UTC
+Table: 'Expresso(1038307390)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (153)
+Seat 2: Leblond315 (967)
+Seat 3: shaolin x (380)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Leblond315 posts big blind 20
+Dealt to MathisKcr [As Tc]
+*** PRE-FLOP *** 
+shaolin x calls 20
+MathisKcr raises 133 to 153 and is all-in
+Leblond315 calls 133
+shaolin x calls 133
+*** FLOP *** [Jd 7s 6s]
+Leblond315 checks
+shaolin x checks
+*** TURN *** [Jd 7s 6s][Qh]
+Leblond315 checks
+shaolin x checks
+*** RIVER *** [Jd 7s 6s Qh][9c]
+Leblond315 checks
+shaolin x checks
+*** SHOW DOWN ***
+MathisKcr shows [As Tc] (High card : Ace)
+shaolin x shows [Kh 3d] (High card : King)
+Leblond315 shows [Td 6c] (One pair : 6)
+Leblond315 collected 459 from pot
+*** SUMMARY ***
+Total pot 459 | No rake
+Board: [Jd 7s 6s Qh 9c]
+Seat 1: MathisKcr (small blind) showed [As Tc] and lost with High card : Ace
+Seat 2: Leblond315 (big blind) showed [Td 6c] and won 459 with One pair : 6
+Seat 3: shaolin x (button) showed [Kh 3d] and lost with High card : King
+
+

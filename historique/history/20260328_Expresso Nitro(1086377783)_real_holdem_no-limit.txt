@@ -1,0 +1,372 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4665957049085984769-1-1774692512 - Holdem no limit (10/20) - 2026/03/28 10:08:32 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Dozol (300)
+Seat 2: 2KID (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+Dozol posts small blind 10
+2KID posts big blind 20
+Dealt to MathisKcr [Jd 6c]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Dozol calls 30
+2KID folds
+*** FLOP *** [4s 2c 9c]
+Dozol checks
+MathisKcr checks
+*** TURN *** [4s 2c 9c][Ac]
+Dozol checks
+MathisKcr checks
+*** RIVER *** [4s 2c 9c Ac][5h]
+Dozol checks
+MathisKcr bets 40
+Dozol folds
+MathisKcr collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [4s 2c 9c Ac 5h]
+Seat 3: MathisKcr (button) won 140
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4665957049085984769-2-1774692546 - Holdem no limit (10/20) - 2026/03/28 10:09:06 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dozol (260)
+Seat 2: 2KID (280)
+Seat 3: MathisKcr (360)
+*** ANTE/BLINDS ***
+2KID posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Th Kh]
+*** PRE-FLOP *** 
+Dozol calls 20
+2KID folds
+MathisKcr raises 40 to 60
+Dozol raises 200 to 260 and is all-in
+MathisKcr calls 200
+*** FLOP *** [Ks 2s 3s]
+*** TURN *** [Ks 2s 3s][6s]
+*** RIVER *** [Ks 2s 3s 6s][8d]
+*** SHOW DOWN ***
+MathisKcr shows [Th Kh] (One pair : Kings)
+Dozol shows [Kc Ad] (One pair : Kings)
+Dozol collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Board: [Ks 2s 3s 6s 8d]
+Seat 1: Dozol (button) showed [Kc Ad] and won 530 with One pair : Kings
+Seat 3: MathisKcr (big blind) showed [Th Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4665957049085984769-3-1774692575 - Holdem no limit (15/30) - 2026/03/28 10:09:35 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dozol (530)
+Seat 2: 2KID (270)
+Seat 3: MathisKcr (100)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Dozol posts big blind 30
+Dealt to MathisKcr [8c 2s]
+*** PRE-FLOP *** 
+2KID folds
+MathisKcr raises 70 to 100 and is all-in
+Dozol calls 70
+*** FLOP *** [Jc 6c 6h]
+*** TURN *** [Jc 6c 6h][2h]
+*** RIVER *** [Jc 6c 6h 2h][Kc]
+*** SHOW DOWN ***
+Dozol shows [8d Ad] (One pair : 6)
+MathisKcr shows [8c 2s] (Two pairs : 6 and 2)
+MathisKcr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Jc 6c 6h 2h Kc]
+Seat 1: Dozol (big blind) showed [8d Ad] and lost with One pair : 6
+Seat 3: MathisKcr (small blind) showed [8c 2s] and won 200 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4665957049085984769-4-1774692588 - Holdem no limit (15/30) - 2026/03/28 10:09:48 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Dozol (430)
+Seat 2: 2KID (270)
+Seat 3: MathisKcr (200)
+*** ANTE/BLINDS ***
+Dozol posts small blind 15
+2KID posts big blind 30
+Dealt to MathisKcr [Qc 9d]
+*** PRE-FLOP *** 
+MathisKcr raises 170 to 200 and is all-in
+Dozol folds
+2KID folds
+MathisKcr collected 245 from pot
+*** SUMMARY ***
+Total pot 245 | No rake
+Seat 3: MathisKcr (button) won 245
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4665957049085984769-5-1774692597 - Holdem no limit (15/30) - 2026/03/28 10:09:57 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dozol (415)
+Seat 2: 2KID (240)
+Seat 3: MathisKcr (245)
+*** ANTE/BLINDS ***
+2KID posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4h 7h]
+*** PRE-FLOP *** 
+Dozol folds
+2KID raises 60 to 90
+MathisKcr folds
+2KID collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: 2KID (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4665957049085984769-6-1774692605 - Holdem no limit (15/30) - 2026/03/28 10:10:05 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dozol (415)
+Seat 2: 2KID (270)
+Seat 3: MathisKcr (215)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Dozol posts big blind 30
+Dealt to MathisKcr [Kh 7d]
+*** PRE-FLOP *** 
+2KID calls 30
+MathisKcr raises 185 to 215 and is all-in
+Dozol folds
+2KID folds
+MathisKcr collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | No rake
+Seat 3: MathisKcr (small blind) won 275
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4665957049085984769-7-1774692620 - Holdem no limit (15/30) - 2026/03/28 10:10:20 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Dozol (385)
+Seat 2: 2KID (240)
+Seat 3: MathisKcr (275)
+*** ANTE/BLINDS ***
+Dozol posts small blind 15
+2KID posts big blind 30
+Dealt to MathisKcr [Th 7d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Dozol calls 15
+2KID checks
+*** FLOP *** [9h Jd Jh]
+Dozol checks
+2KID bets 30
+Dozol calls 30
+*** TURN *** [9h Jd Jh][Td]
+Dozol checks
+2KID bets 30
+Dozol calls 30
+*** RIVER *** [9h Jd Jh Td][9c]
+Dozol checks
+2KID bets 30
+Dozol calls 30
+*** SHOW DOWN ***
+Dozol shows [7c As] (Two pairs : Jacks and 9)
+2KID shows [6s 9d] (Full of 9 and Jacks)
+2KID collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [9h Jd Jh Td 9c]
+Seat 1: Dozol (small blind) showed [7c As] and lost with Two pairs : Jacks and 9
+Seat 2: 2KID (big blind) showed [6s 9d] and won 240 with Full of 9 and Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4665957049085984769-8-1774692638 - Holdem no limit (20/40) - 2026/03/28 10:10:38 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dozol (265)
+Seat 2: 2KID (360)
+Seat 3: MathisKcr (275)
+*** ANTE/BLINDS ***
+2KID posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [6d Ac]
+*** PRE-FLOP *** 
+Dozol raises 225 to 265 and is all-in
+2KID folds
+MathisKcr folds
+Dozol collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | No rake
+Seat 1: Dozol (button) won 325
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4665957049085984769-9-1774692655 - Holdem no limit (20/40) - 2026/03/28 10:10:55 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dozol (325)
+Seat 2: 2KID (340)
+Seat 3: MathisKcr (235)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Dozol posts big blind 40
+Dealt to MathisKcr [9d 7c]
+*** PRE-FLOP *** 
+2KID raises 300 to 340 and is all-in
+MathisKcr folds
+Dozol folds
+2KID collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Seat 2: 2KID (button) won 400
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4665957049085984769-10-1774692662 - Holdem no limit (20/40) - 2026/03/28 10:11:02 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Dozol (285)
+Seat 2: 2KID (400)
+Seat 3: MathisKcr (215)
+*** ANTE/BLINDS ***
+Dozol posts small blind 20
+2KID posts big blind 40
+Dealt to MathisKcr [Tc 2s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Dozol folds
+2KID collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: 2KID (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4665957049085984769-11-1774692668 - Holdem no limit (20/40) - 2026/03/28 10:11:08 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dozol (265)
+Seat 2: 2KID (420)
+Seat 3: MathisKcr (215)
+*** ANTE/BLINDS ***
+2KID posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kc 4c]
+*** PRE-FLOP *** 
+Dozol calls 40
+2KID raises 380 to 420 and is all-in
+MathisKcr folds
+Dozol calls 225 and is all-in
+*** FLOP *** [Jd Ad 5d]
+*** TURN *** [Jd Ad 5d][6s]
+*** RIVER *** [Jd Ad 5d 6s][Qd]
+*** SHOW DOWN ***
+Dozol shows [Kd Jc] (Flush Ace high)
+2KID shows [4s As] (One pair : Aces)
+2KID collected 155 from side pot 1
+Dozol collected 570 from main pot
+*** SUMMARY ***
+Total pot 725 | No rake
+Board: [Jd Ad 5d 6s Qd]
+Seat 1: Dozol (button) showed [Kd Jc] and won 570 with Flush Ace high
+Seat 2: 2KID (small blind) showed [4s As] and won 155 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4665957049085984769-12-1774692685 - Holdem no limit (20/40) - 2026/03/28 10:11:25 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Dozol (570)
+Seat 2: 2KID (155)
+Seat 3: MathisKcr (175)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Dozol posts big blind 40
+Dealt to MathisKcr [3h Jc]
+*** PRE-FLOP *** 
+2KID folds
+MathisKcr calls 20
+Dozol checks
+*** FLOP *** [2h 3d Ad]
+MathisKcr bets 135 and is all-in
+Dozol calls 135
+*** TURN *** [2h 3d Ad][4s]
+*** RIVER *** [2h 3d Ad 4s][6s]
+*** SHOW DOWN ***
+Dozol shows [2c Td] (One pair : 2)
+MathisKcr shows [3h Jc] (One pair : 3)
+MathisKcr collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [2h 3d Ad 4s 6s]
+Seat 1: Dozol (big blind) showed [2c Td] and lost with One pair : 2
+Seat 3: MathisKcr (small blind) showed [3h Jc] and won 350 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4665957049085984769-13-1774692702 - Holdem no limit (30/60) - 2026/03/28 10:11:42 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Dozol (395)
+Seat 2: 2KID (155)
+Seat 3: MathisKcr (350)
+*** ANTE/BLINDS ***
+Dozol posts small blind 30
+2KID posts big blind 60
+Dealt to MathisKcr [6h Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 290 to 350 and is all-in
+Dozol calls 320
+2KID folds
+*** FLOP *** [5d Kd 2h]
+*** TURN *** [5d Kd 2h][9h]
+*** RIVER *** [5d Kd 2h 9h][3s]
+*** SHOW DOWN ***
+Dozol shows [3h Ac] (One pair : 3)
+MathisKcr shows [6h Ks] (One pair : Kings)
+MathisKcr collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [5d Kd 2h 9h 3s]
+Seat 1: Dozol (small blind) showed [3h Ac] and lost with One pair : 3
+Seat 3: MathisKcr (button) showed [6h Ks] and won 760 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4665957049085984769-14-1774692716 - Holdem no limit (30/60) - 2026/03/28 10:11:56 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Dozol (45)
+Seat 2: 2KID (95)
+Seat 3: MathisKcr (760)
+*** ANTE/BLINDS ***
+2KID posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [5s Ah]
+*** PRE-FLOP *** 
+Dozol folds
+2KID raises 35 to 95 and is all-in
+MathisKcr calls 35
+*** FLOP *** [Ts 3s Th]
+*** TURN *** [Ts 3s Th][5d]
+*** RIVER *** [Ts 3s Th 5d][7d]
+*** SHOW DOWN ***
+2KID shows [Ac 3c] (Two pairs : Tens and 3)
+MathisKcr shows [5s Ah] (Two pairs : Tens and 5)
+MathisKcr collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [Ts 3s Th 5d 7d]
+Seat 2: 2KID (small blind) showed [Ac 3c] and lost with Two pairs : Tens and 3
+Seat 3: MathisKcr (big blind) showed [5s Ah] and won 190 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4665957049085984769-15-1774692729 - Holdem no limit (30/60) - 2026/03/28 10:12:09 UTC
+Table: 'Expresso Nitro(1086377783)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Dozol (45)
+Seat 3: MathisKcr (855)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Dozol posts big blind 45 and is all-in
+Dealt to MathisKcr [Qc As]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+*** FLOP *** [Js Th Ad]
+*** TURN *** [Js Th Ad][2c]
+*** RIVER *** [Js Th Ad 2c][Jh]
+*** SHOW DOWN ***
+Dozol shows [5h 4s] (One pair : Jacks)
+MathisKcr shows [Qc As] (Two pairs : Aces and Jacks)
+MathisKcr collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [Js Th Ad 2c Jh]
+Seat 1: Dozol (big blind) showed [5h 4s] and lost with One pair : Jacks
+Seat 3: MathisKcr (small blind) (button) showed [Qc As] and won 105 with Two pairs : Aces and Jacks
+
+

@@ -1,0 +1,131 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4618248573836853249-1-1773065367 - Holdem no limit (10/20) - 2026/03/09 14:09:27 UTC
+Table: 'Expresso Nitro(1075269788)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AS&tDICK (300)
+Seat 2: MECrack71393 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+AS&tDICK posts big blind 20
+Dealt to MathisKcr [Qs 7h]
+*** PRE-FLOP *** 
+MECrack71393 folds
+MathisKcr calls 10
+AS&tDICK checks
+*** FLOP *** [Js 6s Kd]
+MathisKcr checks
+AS&tDICK checks
+*** TURN *** [Js 6s Kd][Ks]
+MathisKcr checks
+AS&tDICK checks
+*** RIVER *** [Js 6s Kd Ks][2h]
+MathisKcr bets 26
+AS&tDICK folds
+MathisKcr collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | No rake
+Board: [Js 6s Kd Ks 2h]
+Seat 3: MathisKcr (small blind) won 66
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4618248573836853249-2-1773065434 - Holdem no limit (15/30) - 2026/03/09 14:10:34 UTC
+Table: 'Expresso Nitro(1075269788)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AS&tDICK (280)
+Seat 2: MECrack71393 (300)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+AS&tDICK posts small blind 15
+MECrack71393 posts big blind 30
+Dealt to MathisKcr [2d Jh]
+*** PRE-FLOP *** 
+MathisKcr folds
+AS&tDICK raises 250 to 280 and is all-in
+MECrack71393 folds
+AS&tDICK collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 1: AS&tDICK (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4618248573836853249-3-1773065456 - Holdem no limit (15/30) - 2026/03/09 14:10:56 UTC
+Table: 'Expresso Nitro(1075269788)#0' 3-max (real money) Seat #1 is the button
+Seat 1: AS&tDICK (310)
+Seat 2: MECrack71393 (270)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+MECrack71393 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Qd 9h]
+*** PRE-FLOP *** 
+AS&tDICK folds
+MECrack71393 calls 15
+MathisKcr checks
+*** FLOP *** [2d Td Jc]
+MECrack71393 checks
+MathisKcr checks
+*** TURN *** [2d Td Jc][4c]
+MECrack71393 bets 30
+MathisKcr calls 30
+*** RIVER *** [2d Td Jc 4c][2c]
+MECrack71393 checks
+MathisKcr bets 96
+MECrack71393 calls 96
+*** SHOW DOWN ***
+MathisKcr shows [Qd 9h] (One pair : 2)
+MECrack71393 shows [4h Kh] (Two pairs : 4 and 2)
+MECrack71393 collected 312 from pot
+*** SUMMARY ***
+Total pot 312 | No rake
+Board: [2d Td Jc 4c 2c]
+Seat 2: MECrack71393 (small blind) showed [4h Kh] and won 312 with Two pairs : 4 and 2
+Seat 3: MathisKcr (big blind) showed [Qd 9h] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4618248573836853249-4-1773065501 - Holdem no limit (20/40) - 2026/03/09 14:11:41 UTC
+Table: 'Expresso Nitro(1075269788)#0' 3-max (real money) Seat #2 is the button
+Seat 1: AS&tDICK (310)
+Seat 2: MECrack71393 (426)
+Seat 3: MathisKcr (164)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+AS&tDICK posts big blind 40
+Dealt to MathisKcr [8h 8d]
+*** PRE-FLOP *** 
+MECrack71393 calls 40
+MathisKcr raises 124 to 164 and is all-in
+AS&tDICK folds
+MECrack71393 folds
+MathisKcr collected 244 from pot
+*** SUMMARY ***
+Total pot 244 | No rake
+Seat 3: MathisKcr (small blind) won 244
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4618248573836853249-5-1773065513 - Holdem no limit (20/40) - 2026/03/09 14:11:53 UTC
+Table: 'Expresso Nitro(1075269788)#0' 3-max (real money) Seat #3 is the button
+Seat 1: AS&tDICK (270)
+Seat 2: MECrack71393 (386)
+Seat 3: MathisKcr (244)
+*** ANTE/BLINDS ***
+AS&tDICK posts small blind 20
+MECrack71393 posts big blind 40
+Dealt to MathisKcr [Ah 7c]
+*** PRE-FLOP *** 
+MathisKcr raises 204 to 244 and is all-in
+AS&tDICK raises 26 to 270 and is all-in
+MECrack71393 calls 230
+*** FLOP *** [9s 4c 5d]
+*** TURN *** [9s 4c 5d][Jc]
+*** RIVER *** [9s 4c 5d Jc][9d]
+*** SHOW DOWN ***
+AS&tDICK shows [Qh Kc] (One pair : 9)
+MathisKcr shows [Ah 7c] (One pair : 9)
+MECrack71393 shows [Ts Td] (Two pairs : Tens and 9)
+MECrack71393 collected 784 from pot
+*** SUMMARY ***
+Total pot 784 | No rake
+Board: [9s 4c 5d Jc 9d]
+Seat 1: AS&tDICK (small blind) showed [Qh Kc] and lost with One pair : 9
+Seat 2: MECrack71393 (big blind) showed [Ts Td] and won 784 with Two pairs : Tens and 9
+Seat 3: MathisKcr (button) showed [Ah 7c] and lost with One pair : 9
+
+

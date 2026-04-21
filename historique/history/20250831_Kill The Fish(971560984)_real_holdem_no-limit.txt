@@ -1,0 +1,2421 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-1-1756665910 - Holdem no limit (25/100/200) - 2025/08/31 18:45:10 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #6 is the button
+Seat 1: shel (20000, 0.45€ bounty)
+Seat 2: Loonie (20000, 0.45€ bounty)
+Seat 3: Raul313 (20000, 0.45€ bounty)
+Seat 4: CoQueliC0T (20000, 0.45€ bounty)
+Seat 6: MathisKcr (20000, 0.45€ bounty)
+*** ANTE/BLINDS ***
+shel posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+MathisKcr posts ante 25
+shel posts small blind 100
+Loonie posts big blind 200
+Dealt to MathisKcr [8d 8c]
+*** PRE-FLOP *** 
+Raul313 folds
+CoQueliC0T folds
+MathisKcr raises 400 to 600
+shel folds
+Loonie folds
+MathisKcr collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | No rake
+Seat 6: MathisKcr (button) won 1025
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-2-1756665949 - Holdem no limit (25/100/200) - 2025/08/31 18:45:49 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #1 is the button
+Seat 1: shel (19875, 0.45€ bounty)
+Seat 2: Loonie (19775, 0.45€ bounty)
+Seat 3: Raul313 (19975, 0.45€ bounty)
+Seat 4: CoQueliC0T (19975, 0.45€ bounty)
+Seat 6: MathisKcr (20400, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Loonie posts ante 25
+Raul313 posts ante 25
+shel posts ante 25
+CoQueliC0T posts ante 25
+MathisKcr posts ante 25
+Loonie posts small blind 100
+Raul313 posts big blind 200
+Dealt to MathisKcr [8d 9s]
+*** PRE-FLOP *** 
+CoQueliC0T raises 400 to 600
+MathisKcr folds
+shel folds
+Loonie folds
+Raul313 folds
+CoQueliC0T collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | No rake
+Seat 4: CoQueliC0T won 1025
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-3-1756665972 - Holdem no limit (25/100/200) - 2025/08/31 18:46:12 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #2 is the button
+Seat 1: shel (19850, 0.45€ bounty)
+Seat 2: Loonie (19650, 0.45€ bounty)
+Seat 3: Raul313 (19750, 0.45€ bounty)
+Seat 4: CoQueliC0T (20375, 0.45€ bounty)
+Seat 6: MathisKcr (20375, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+shel posts ante 25
+Loonie posts ante 25
+MathisKcr posts ante 25
+Raul313 posts small blind 100
+CoQueliC0T posts big blind 200
+Dealt to MathisKcr [Qc 3c]
+*** PRE-FLOP *** 
+MathisKcr calls 200
+shel folds
+Loonie folds
+Raul313 folds
+CoQueliC0T checks
+*** FLOP *** [7d Ks 4d]
+CoQueliC0T checks
+MathisKcr bets 600
+CoQueliC0T raises 976 to 1576
+MathisKcr calls 976
+*** TURN *** [7d Ks 4d][9c]
+CoQueliC0T checks
+MathisKcr checks
+*** RIVER *** [7d Ks 4d 9c][7h]
+CoQueliC0T bets 1989
+MathisKcr folds
+CoQueliC0T collected 5766 from pot
+*** SUMMARY ***
+Total pot 5766 | No rake
+Board: [7d Ks 4d 9c 7h]
+Seat 4: CoQueliC0T (big blind) won 5766
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-4-1756666027 - Holdem no limit (25/100/200) - 2025/08/31 18:47:07 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #3 is the button
+Seat 1: shel (19825, 0.45€ bounty)
+Seat 2: Loonie (19625, 0.45€ bounty)
+Seat 3: Raul313 (19625, 0.45€ bounty)
+Seat 4: CoQueliC0T (22351, 0.45€ bounty)
+Seat 6: MathisKcr (18574, 0.45€ bounty)
+*** ANTE/BLINDS ***
+CoQueliC0T posts ante 25
+MathisKcr posts ante 25
+shel posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+CoQueliC0T posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [6c 6h]
+*** PRE-FLOP *** 
+shel folds
+Loonie folds
+Raul313 calls 200
+CoQueliC0T calls 100
+MathisKcr raises 600 to 800
+Raul313 calls 600
+CoQueliC0T calls 600
+*** FLOP *** [3s 9s Th]
+CoQueliC0T checks
+MathisKcr checks
+Raul313 checks
+*** TURN *** [3s 9s Th][6s]
+CoQueliC0T checks
+MathisKcr bets 1000
+Raul313 folds
+CoQueliC0T calls 1000
+*** RIVER *** [3s 9s Th 6s][4h]
+CoQueliC0T checks
+MathisKcr bets 2151
+CoQueliC0T calls 2151
+*** SHOW DOWN ***
+CoQueliC0T shows [9c Qc] (One pair : 9)
+MathisKcr shows [6c 6h] (Trips of 6)
+MathisKcr collected 8827 from pot
+*** SUMMARY ***
+Total pot 8827 | No rake
+Board: [3s 9s Th 6s 4h]
+Seat 4: CoQueliC0T (small blind) showed [9c Qc] and lost with One pair : 9
+Seat 6: MathisKcr (big blind) showed [6c 6h] and won 8827 with Trips of 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-5-1756666113 - Holdem no limit (25/100/200) - 2025/08/31 18:48:33 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #4 is the button
+Seat 1: shel (19800, 0.45€ bounty)
+Seat 2: Loonie (19600, 0.45€ bounty)
+Seat 3: Raul313 (18800, 0.45€ bounty)
+Seat 4: CoQueliC0T (18375, 0.45€ bounty)
+Seat 5: ASEdeKER (20000, 0.45€ bounty)
+Seat 6: MathisKcr (23425, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+shel posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+MathisKcr posts small blind 100
+shel posts big blind 200
+Dealt to MathisKcr [Kh 3s]
+*** PRE-FLOP *** 
+Loonie raises 300 to 500
+Raul313 folds
+CoQueliC0T folds
+MathisKcr calls 400
+shel folds
+*** FLOP *** [9d 6d Qd]
+MathisKcr checks
+Loonie bets 331
+MathisKcr folds
+Loonie collected 1656 from pot
+*** SUMMARY ***
+Total pot 1656 | No rake
+Board: [9d 6d Qd]
+Seat 2: Loonie won 1656
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-6-1756666144 - Holdem no limit (25/100/200) - 2025/08/31 18:49:04 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #6 is the button
+Seat 1: shel (19575, 0.45€ bounty)
+Seat 2: Loonie (20400, 0.45€ bounty)
+Seat 3: Raul313 (18775, 0.45€ bounty)
+Seat 4: CoQueliC0T (18350, 0.45€ bounty)
+Seat 5: ASEdeKER (20000, 0.45€ bounty)
+Seat 6: MathisKcr (22900, 0.45€ bounty)
+*** ANTE/BLINDS ***
+shel posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+shel posts small blind 100
+Loonie posts big blind 200
+Dealt to MathisKcr [5d Qh]
+*** PRE-FLOP *** 
+Raul313 raises 400 to 600
+CoQueliC0T folds
+ASEdeKER folds
+MathisKcr folds
+shel folds
+Loonie folds
+Raul313 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 3: Raul313 won 1050
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-7-1756666168 - Holdem no limit (25/100/200) - 2025/08/31 18:49:28 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #1 is the button
+Seat 1: shel (19450, 0.45€ bounty)
+Seat 2: Loonie (20175, 0.45€ bounty)
+Seat 3: Raul313 (19200, 0.45€ bounty)
+Seat 4: CoQueliC0T (18325, 0.45€ bounty)
+Seat 5: ASEdeKER (19975, 0.45€ bounty)
+Seat 6: MathisKcr (22875, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Loonie posts ante 25
+Raul313 posts ante 25
+shel posts ante 25
+CoQueliC0T posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+Loonie posts small blind 100
+Raul313 posts big blind 200
+Dealt to MathisKcr [8d Td]
+*** PRE-FLOP *** 
+CoQueliC0T folds
+ASEdeKER folds
+MathisKcr calls 200
+shel calls 200
+Loonie calls 100
+Raul313 checks
+*** FLOP *** [Qs 4h Qc]
+Loonie checks
+Raul313 checks
+MathisKcr checks
+shel checks
+*** TURN *** [Qs 4h Qc][Tc]
+Loonie checks
+Raul313 checks
+MathisKcr bets 600
+shel folds
+Loonie folds
+Raul313 folds
+MathisKcr collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [Qs 4h Qc Tc]
+Seat 6: MathisKcr won 1550
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-8-1756666237 - Holdem no limit (25/100/200) - 2025/08/31 18:50:37 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #2 is the button
+Seat 1: shel (19225, 0.45€ bounty)
+Seat 2: Loonie (19950, 0.45€ bounty)
+Seat 3: Raul313 (18975, 0.45€ bounty)
+Seat 4: CoQueliC0T (18300, 0.45€ bounty)
+Seat 5: ASEdeKER (19950, 0.45€ bounty)
+Seat 6: MathisKcr (23600, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+shel posts ante 25
+Loonie posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+Raul313 posts small blind 100
+CoQueliC0T posts big blind 200
+Dealt to MathisKcr [3d 4h]
+*** PRE-FLOP *** 
+ASEdeKER folds
+MathisKcr folds
+shel folds
+Loonie folds
+Raul313 raises 300 to 500
+CoQueliC0T raises 1100 to 1600
+Raul313 calls 1100
+*** FLOP *** [Ks 2c 4c]
+Raul313 checks
+CoQueliC0T bets 2178
+Raul313 folds
+CoQueliC0T collected 5528 from pot
+*** SUMMARY ***
+Total pot 5528 | No rake
+Board: [Ks 2c 4c]
+Seat 4: CoQueliC0T (big blind) won 5528
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-9-1756666287 - Holdem no limit (25/100/200) - 2025/08/31 18:51:27 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #3 is the button
+Seat 1: shel (19200, 0.45€ bounty)
+Seat 2: Loonie (19925, 0.45€ bounty)
+Seat 3: Raul313 (17350, 0.45€ bounty)
+Seat 4: CoQueliC0T (20025, 0.45€ bounty)
+Seat 5: ASEdeKER (19925, 0.45€ bounty)
+Seat 6: MathisKcr (23575, 0.45€ bounty)
+*** ANTE/BLINDS ***
+CoQueliC0T posts ante 25
+ASEdeKER posts ante 25
+shel posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+MathisKcr posts ante 25
+CoQueliC0T posts small blind 100
+ASEdeKER posts big blind 200
+Dealt to MathisKcr [Jc Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 400 to 600
+shel folds
+Loonie calls 600
+Raul313 folds
+CoQueliC0T folds
+ASEdeKER folds
+*** FLOP *** [4s 8c Kd]
+MathisKcr checks
+Loonie bets 825
+MathisKcr calls 825
+*** TURN *** [4s 8c Kd][7s]
+MathisKcr checks
+Loonie checks
+*** RIVER *** [4s 8c Kd 7s][Qd]
+MathisKcr checks
+Loonie checks
+*** SHOW DOWN ***
+Loonie shows [Ad 4h] (One pair : 4)
+MathisKcr shows [Jc Qc] (One pair : Queens)
+MathisKcr collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [4s 8c Kd 7s Qd]
+Seat 2: Loonie showed [Ad 4h] and lost with One pair : 4
+Seat 6: MathisKcr showed [Jc Qc] and won 3300 with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-10-1756666359 - Holdem no limit (25/100/200) - 2025/08/31 18:52:39 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #4 is the button
+Seat 2: Loonie (18475, 0.45€ bounty)
+Seat 3: Raul313 (17325, 0.45€ bounty)
+Seat 4: CoQueliC0T (19900, 0.45€ bounty)
+Seat 5: ASEdeKER (19700, 0.45€ bounty)
+Seat 6: MathisKcr (25425, 0.45€ bounty)
+*** ANTE/BLINDS ***
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+ASEdeKER posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [2c Kd]
+*** PRE-FLOP *** 
+Loonie folds
+Raul313 folds
+CoQueliC0T raises 400 to 600
+ASEdeKER folds
+MathisKcr calls 400
+*** FLOP *** [9c Ah 5c]
+MathisKcr checks
+CoQueliC0T bets 599
+MathisKcr folds
+CoQueliC0T collected 2024 from pot
+*** SUMMARY ***
+Total pot 2024 | No rake
+Board: [9c Ah 5c]
+Seat 4: CoQueliC0T (button) won 2024
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-11-1756666392 - Holdem no limit (25/100/200) - 2025/08/31 18:53:12 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #5 is the button
+Seat 1: superDeck249 (20000, 0.45€ bounty)
+Seat 2: Loonie (18450, 0.45€ bounty)
+Seat 3: Raul313 (17300, 0.45€ bounty)
+Seat 4: CoQueliC0T (20700, 0.45€ bounty)
+Seat 5: ASEdeKER (19575, 0.45€ bounty)
+Seat 6: MathisKcr (24800, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+superDeck249 posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts small blind 100
+superDeck249 posts big blind 200
+Dealt to MathisKcr [4d 4h]
+*** PRE-FLOP *** 
+Loonie raises 300 to 500
+Raul313 folds
+CoQueliC0T folds
+ASEdeKER calls 500
+MathisKcr folds
+superDeck249 calls 300
+*** FLOP *** [Ad Kc 4s]
+superDeck249 bets 613
+Loonie calls 613
+ASEdeKER calls 613
+*** TURN *** [Ad Kc 4s][5c]
+superDeck249 checks
+Loonie checks
+ASEdeKER bets 1795
+superDeck249 folds
+Loonie folds
+ASEdeKER collected 5384 from pot
+*** SUMMARY ***
+Total pot 5384 | No rake
+Board: [Ad Kc 4s 5c]
+Seat 5: ASEdeKER (button) won 5384
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-12-1756666489 - Holdem no limit (25/100/200) - 2025/08/31 18:54:49 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #6 is the button
+Seat 1: superDeck249 (18862, 0.45€ bounty)
+Seat 2: Loonie (17312, 0.45€ bounty)
+Seat 3: Raul313 (17275, 0.45€ bounty)
+Seat 4: CoQueliC0T (20675, 0.45€ bounty)
+Seat 5: ASEdeKER (22026, 0.45€ bounty)
+Seat 6: MathisKcr (24675, 0.45€ bounty)
+*** ANTE/BLINDS ***
+superDeck249 posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+superDeck249 posts small blind 100
+Loonie posts big blind 200
+Dealt to MathisKcr [6c Tc]
+*** PRE-FLOP *** 
+Raul313 folds
+CoQueliC0T folds
+ASEdeKER folds
+MathisKcr calls 200
+superDeck249 calls 100
+Loonie checks
+*** FLOP *** [Jc Js 3s]
+superDeck249 checks
+Loonie checks
+MathisKcr checks
+*** TURN *** [Jc Js 3s][Qh]
+superDeck249 bets 488
+Loonie calls 488
+MathisKcr folds
+*** RIVER *** [Jc Js 3s Qh][9h]
+superDeck249 checks
+Loonie bets 1381
+superDeck249 calls 1381
+*** SHOW DOWN ***
+superDeck249 shows [3h 9s] (Two pairs : Jacks and 9)
+Loonie shows [Ts Kc] (Straight King high)
+Loonie collected 4488 from pot
+*** SUMMARY ***
+Total pot 4488 | No rake
+Board: [Jc Js 3s Qh 9h]
+Seat 1: superDeck249 (small blind) showed [3h 9s] and lost with Two pairs : Jacks and 9
+Seat 2: Loonie (big blind) showed [Ts Kc] and won 4488 with Straight King high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-13-1756666863 - Holdem no limit (25/100/200) - 2025/08/31 19:01:03 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #1 is the button
+Seat 1: superDeck249 (16768, 0.45€ bounty)
+Seat 2: Loonie (19706, 0.45€ bounty)
+Seat 3: Raul313 (17250, 0.45€ bounty)
+Seat 4: CoQueliC0T (20650, 0.45€ bounty)
+Seat 5: ASEdeKER (22001, 0.45€ bounty)
+Seat 6: MathisKcr (24450, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Loonie posts ante 25
+Raul313 posts ante 25
+superDeck249 posts ante 25
+CoQueliC0T posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+Loonie posts small blind 100
+Raul313 posts big blind 200
+Dealt to MathisKcr [2c 7h]
+*** PRE-FLOP *** 
+CoQueliC0T folds
+ASEdeKER raises 200 to 400
+MathisKcr folds
+superDeck249 folds
+Loonie folds
+Raul313 folds
+ASEdeKER collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 5: ASEdeKER won 850
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-14-1756667001 - Holdem no limit (25/100/200) - 2025/08/31 19:03:21 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #2 is the button
+Seat 1: superDeck249 (16743, 0.45€ bounty)
+Seat 2: Loonie (19581, 0.45€ bounty)
+Seat 3: Raul313 (17025, 0.45€ bounty)
+Seat 4: CoQueliC0T (20625, 0.45€ bounty)
+Seat 5: ASEdeKER (22426, 0.45€ bounty)
+Seat 6: MathisKcr (24425, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+superDeck249 posts ante 25
+Loonie posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+Raul313 posts small blind 100
+CoQueliC0T posts big blind 200
+Dealt to MathisKcr [Js 2d]
+*** PRE-FLOP *** 
+ASEdeKER folds
+MathisKcr folds
+superDeck249 folds
+Loonie raises 300 to 500
+Raul313 folds
+CoQueliC0T folds
+Loonie collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 2: Loonie (button) won 950
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-15-1756667067 - Holdem no limit (25/100/200) - 2025/08/31 19:04:27 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #3 is the button
+Seat 1: superDeck249 (16718, 0.45€ bounty)
+Seat 2: Loonie (20006, 0.45€ bounty)
+Seat 3: Raul313 (16900, 0.45€ bounty)
+Seat 4: CoQueliC0T (20400, 0.45€ bounty)
+Seat 5: ASEdeKER (22401, 0.45€ bounty)
+Seat 6: MathisKcr (24400, 0.45€ bounty)
+*** ANTE/BLINDS ***
+CoQueliC0T posts ante 25
+ASEdeKER posts ante 25
+superDeck249 posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+MathisKcr posts ante 25
+CoQueliC0T posts small blind 100
+ASEdeKER posts big blind 200
+Dealt to MathisKcr [7s 4s]
+*** PRE-FLOP *** 
+MathisKcr folds
+superDeck249 folds
+Loonie raises 300 to 500
+Raul313 folds
+CoQueliC0T folds
+ASEdeKER folds
+Loonie collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 2: Loonie won 950
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-16-1756667088 - Holdem no limit (25/100/200) - 2025/08/31 19:04:48 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #4 is the button
+Seat 1: superDeck249 (16693, 0.45€ bounty)
+Seat 2: Loonie (20431, 0.45€ bounty)
+Seat 3: Raul313 (16875, 0.45€ bounty)
+Seat 4: CoQueliC0T (20275, 0.45€ bounty)
+Seat 5: ASEdeKER (22176, 0.45€ bounty)
+Seat 6: MathisKcr (24375, 0.45€ bounty)
+*** ANTE/BLINDS ***
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+superDeck249 posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+ASEdeKER posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [5h 3h]
+*** PRE-FLOP *** 
+superDeck249 folds
+Loonie folds
+Raul313 calls 200
+CoQueliC0T folds
+ASEdeKER calls 100
+MathisKcr checks
+*** FLOP *** [8h 3s 8d]
+ASEdeKER checks
+MathisKcr checks
+Raul313 checks
+*** TURN *** [8h 3s 8d][Qs]
+ASEdeKER checks
+MathisKcr checks
+Raul313 checks
+*** RIVER *** [8h 3s 8d Qs][Ts]
+ASEdeKER bets 400
+MathisKcr calls 400
+Raul313 calls 400
+*** SHOW DOWN ***
+MathisKcr shows [5h 3h] (Two pairs : 8 and 3)
+Raul313 shows [Kd Th] (Two pairs : Tens and 8)
+ASEdeKER shows [Kh Td] (Two pairs : Tens and 8)
+ASEdeKER collected 975 from pot
+Raul313 collected 975 from pot
+*** SUMMARY ***
+Total pot 1950 | No rake
+Board: [8h 3s 8d Qs Ts]
+Seat 3: Raul313 showed [Kd Th] and won 975 with Two pairs : Tens and 8
+Seat 5: ASEdeKER (small blind) showed [Kh Td] and won 975 with Two pairs : Tens and 8
+Seat 6: MathisKcr (big blind) showed [5h 3h] and lost with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-17-1756667198 - Holdem no limit (25/100/200) - 2025/08/31 19:06:38 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #5 is the button
+Seat 1: superDeck249 (16668, 0.45€ bounty)
+Seat 2: Loonie (20406, 0.45€ bounty)
+Seat 3: Raul313 (17225, 0.45€ bounty)
+Seat 4: CoQueliC0T (20250, 0.45€ bounty)
+Seat 5: ASEdeKER (22526, 0.45€ bounty)
+Seat 6: MathisKcr (23750, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+superDeck249 posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts small blind 100
+superDeck249 posts big blind 200
+Dealt to MathisKcr [Qd Qh]
+*** PRE-FLOP *** 
+Loonie folds
+Raul313 folds
+CoQueliC0T folds
+ASEdeKER raises 300 to 500
+MathisKcr raises 500 to 1000
+superDeck249 folds
+ASEdeKER calls 500
+*** FLOP *** [Jh Tc Ks]
+MathisKcr bets 1200
+ASEdeKER calls 1200
+*** TURN *** [Jh Tc Ks][4d]
+MathisKcr checks
+ASEdeKER bets 2375
+MathisKcr calls 2375
+*** RIVER *** [Jh Tc Ks 4d][9h]
+MathisKcr checks
+ASEdeKER checks
+*** SHOW DOWN ***
+ASEdeKER shows [6d Ad] (High card : Ace)
+MathisKcr shows [Qd Qh] (Straight King high)
+MathisKcr collected 9500 from pot
+*** SUMMARY ***
+Total pot 9500 | No rake
+Board: [Jh Tc Ks 4d 9h]
+Seat 5: ASEdeKER (button) showed [6d Ad] and lost with High card : Ace
+Seat 6: MathisKcr (small blind) showed [Qd Qh] and won 9500 with Straight King high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-18-1756667280 - Holdem no limit (25/100/200) - 2025/08/31 19:08:00 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #6 is the button
+Seat 1: superDeck249 (16443, 0.45€ bounty)
+Seat 2: Loonie (20381, 0.45€ bounty)
+Seat 3: Raul313 (17200, 0.45€ bounty)
+Seat 4: CoQueliC0T (20225, 0.45€ bounty)
+Seat 5: ASEdeKER (17926, 0.45€ bounty)
+Seat 6: MathisKcr (28650, 0.45€ bounty)
+*** ANTE/BLINDS ***
+superDeck249 posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+CoQueliC0T posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+superDeck249 posts small blind 100
+Loonie posts big blind 200
+Dealt to MathisKcr [Jh Jc]
+*** PRE-FLOP *** 
+Raul313 folds
+CoQueliC0T raises 400 to 600
+ASEdeKER folds
+MathisKcr raises 400 to 1000
+superDeck249 folds
+Loonie folds
+CoQueliC0T calls 400
+*** FLOP *** [3c 7h Th]
+CoQueliC0T checks
+MathisKcr bets 1400
+CoQueliC0T calls 1400
+*** TURN *** [3c 7h Th][Ac]
+CoQueliC0T checks
+MathisKcr bets 1838
+CoQueliC0T raises 3544 to 5382
+MathisKcr folds
+CoQueliC0T collected 12470 from pot
+*** SUMMARY ***
+Total pot 12470 | No rake
+Board: [3c 7h Th Ac]
+Seat 4: CoQueliC0T won 12470
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-19-1756667377 - Holdem no limit (25/100/200) - 2025/08/31 19:09:37 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #1 is the button
+Seat 1: superDeck249 (16318, 0.45€ bounty)
+Seat 2: Loonie (20156, 0.45€ bounty)
+Seat 3: Raul313 (17175, 0.45€ bounty)
+Seat 5: ASEdeKER (17901, 0.45€ bounty)
+Seat 6: MathisKcr (24387, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Loonie posts ante 25
+Raul313 posts ante 25
+superDeck249 posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+Loonie posts small blind 100
+Raul313 posts big blind 200
+Dealt to MathisKcr [5c Td]
+*** PRE-FLOP *** 
+ASEdeKER folds
+MathisKcr folds
+superDeck249 calls 200
+Loonie folds
+Raul313 checks
+*** FLOP *** [Ac 7d 5s]
+Raul313 checks
+superDeck249 bets 200
+Raul313 folds
+superDeck249 collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Board: [Ac 7d 5s]
+Seat 1: superDeck249 (button) won 825
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-20-1756667419 - Holdem no limit (25/100/200) - 2025/08/31 19:10:19 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #2 is the button
+Seat 1: superDeck249 (16718, 0.45€ bounty)
+Seat 2: Loonie (20031, 0.45€ bounty)
+Seat 3: Raul313 (16950, 0.45€ bounty)
+Seat 4: oliguid (20000, 0.45€ bounty)
+Seat 5: ASEdeKER (17876, 0.45€ bounty)
+Seat 6: MathisKcr (24362, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Raul313 posts ante 25
+oliguid posts ante 25
+superDeck249 posts ante 25
+Loonie posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+Raul313 posts small blind 100
+oliguid posts big blind 200
+Dealt to MathisKcr [6h 7h]
+*** PRE-FLOP *** 
+ASEdeKER folds
+MathisKcr calls 200
+superDeck249 calls 200
+Loonie raises 1050 to 1250
+Raul313 folds
+oliguid folds
+MathisKcr folds
+superDeck249 folds
+Loonie collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 2: Loonie (button) won 2100
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-21-1756667456 - Holdem no limit (25/100/200) - 2025/08/31 19:10:56 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #3 is the button
+Seat 1: superDeck249 (16493, 0.45€ bounty)
+Seat 2: Loonie (20856, 0.45€ bounty)
+Seat 3: Raul313 (16825, 0.45€ bounty)
+Seat 4: oliguid (19775, 0.45€ bounty)
+Seat 5: ASEdeKER (17851, 0.45€ bounty)
+Seat 6: MathisKcr (24137, 0.45€ bounty)
+*** ANTE/BLINDS ***
+oliguid posts ante 25
+ASEdeKER posts ante 25
+superDeck249 posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+MathisKcr posts ante 25
+oliguid posts small blind 100
+ASEdeKER posts big blind 200
+Dealt to MathisKcr [5c 7d]
+*** PRE-FLOP *** 
+MathisKcr folds
+superDeck249 calls 200
+Loonie raises 600 to 800
+Raul313 folds
+oliguid calls 700
+ASEdeKER folds
+superDeck249 folds
+*** FLOP *** [7c 8s 9d]
+oliguid checks
+Loonie bets 1075
+oliguid folds
+Loonie collected 3225 from pot
+*** SUMMARY ***
+Total pot 3225 | No rake
+Board: [7c 8s 9d]
+Seat 2: Loonie won 3225
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-22-1756667498 - Holdem no limit (25/100/200) - 2025/08/31 19:11:38 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #4 is the button
+Seat 1: superDeck249 (16268, 0.45€ bounty)
+Seat 2: Loonie (22181, 0.45€ bounty)
+Seat 3: Raul313 (16800, 0.45€ bounty)
+Seat 4: oliguid (18950, 0.45€ bounty)
+Seat 5: ASEdeKER (17626, 0.45€ bounty)
+Seat 6: MathisKcr (24112, 0.45€ bounty)
+*** ANTE/BLINDS ***
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+superDeck249 posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+oliguid posts ante 25
+ASEdeKER posts small blind 100
+MathisKcr posts big blind 200
+Dealt to MathisKcr [6h 2c]
+*** PRE-FLOP *** 
+superDeck249 folds
+Loonie folds
+Raul313 raises 400 to 600
+oliguid folds
+ASEdeKER calls 500
+MathisKcr folds
+*** FLOP *** [5d 4s 3c]
+ASEdeKER checks
+Raul313 checks
+*** TURN *** [5d 4s 3c][Qh]
+ASEdeKER checks
+Raul313 checks
+*** RIVER *** [5d 4s 3c Qh][9h]
+ASEdeKER checks
+Raul313 checks
+*** SHOW DOWN ***
+Raul313 shows [Ts Js] (High card : Queen)
+ASEdeKER shows [Jd As] (High card : Ace)
+ASEdeKER collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [5d 4s 3c Qh 9h]
+Seat 3: Raul313 showed [Ts Js] and lost with High card : Queen
+Seat 5: ASEdeKER (small blind) showed [Jd As] and won 1550 with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-23-1756667545 - Holdem no limit (25/100/200) - 2025/08/31 19:12:25 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #5 is the button
+Seat 1: superDeck249 (16243, 0.45€ bounty)
+Seat 2: Loonie (22156, 0.45€ bounty)
+Seat 3: Raul313 (16175, 0.45€ bounty)
+Seat 4: oliguid (18925, 0.45€ bounty)
+Seat 5: ASEdeKER (18551, 0.45€ bounty)
+Seat 6: MathisKcr (23887, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 25
+superDeck249 posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+oliguid posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts small blind 100
+superDeck249 posts big blind 200
+Dealt to MathisKcr [6h 2d]
+*** PRE-FLOP *** 
+Loonie folds
+Raul313 calls 200
+oliguid folds
+ASEdeKER folds
+MathisKcr folds
+superDeck249 checks
+*** FLOP *** [Kc Ac 6d]
+superDeck249 checks
+Raul313 checks
+*** TURN *** [Kc Ac 6d][4d]
+superDeck249 checks
+Raul313 checks
+*** RIVER *** [Kc Ac 6d 4d][As]
+superDeck249 checks
+Raul313 checks
+*** SHOW DOWN ***
+superDeck249 shows [3h 8c] (One pair : Aces)
+Raul313 shows [Qc 3c] (One pair : Aces)
+Raul313 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Board: [Kc Ac 6d 4d As]
+Seat 1: superDeck249 (big blind) showed [3h 8c] and lost with One pair : Aces
+Seat 3: Raul313 showed [Qc 3c] and won 650 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-24-1756667603 - Holdem no limit (25/100/200) - 2025/08/31 19:13:23 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #6 is the button
+Seat 1: superDeck249 (16018, 0.45€ bounty)
+Seat 2: Loonie (22131, 0.45€ bounty)
+Seat 3: Raul313 (16600, 0.45€ bounty)
+Seat 4: oliguid (18900, 0.45€ bounty)
+Seat 5: ASEdeKER (18526, 0.45€ bounty)
+Seat 6: MathisKcr (23762, 0.45€ bounty)
+*** ANTE/BLINDS ***
+superDeck249 posts ante 25
+Loonie posts ante 25
+Raul313 posts ante 25
+oliguid posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+superDeck249 posts small blind 100
+Loonie posts big blind 200
+Dealt to MathisKcr [9d 8c]
+*** PRE-FLOP *** 
+Raul313 calls 200
+oliguid calls 200
+ASEdeKER folds
+MathisKcr folds
+superDeck249 calls 100
+Loonie checks
+*** FLOP *** [3h Jh 9s]
+superDeck249 checks
+Loonie checks
+Raul313 checks
+oliguid checks
+*** TURN *** [3h Jh 9s][7c]
+superDeck249 checks
+Loonie bets 400
+Raul313 folds
+oliguid folds
+superDeck249 calls 400
+*** RIVER *** [3h Jh 9s 7c][Qd]
+superDeck249 checks
+Loonie checks
+*** SHOW DOWN ***
+superDeck249 shows [Ah 2h] (High card : Ace)
+Loonie shows [5s 7h] (One pair : 7)
+Loonie collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Board: [3h Jh 9s 7c Qd]
+Seat 1: superDeck249 (small blind) showed [Ah 2h] and lost with High card : Ace
+Seat 2: Loonie (big blind) showed [5s 7h] and won 1750 with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-25-1756667686 - Holdem no limit (25/100/200) - 2025/08/31 19:14:46 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #1 is the button
+Seat 1: superDeck249 (15393, 0.45€ bounty)
+Seat 2: Loonie (23256, 0.45€ bounty)
+Seat 3: Raul313 (16375, 0.45€ bounty)
+Seat 4: oliguid (18675, 0.45€ bounty)
+Seat 5: ASEdeKER (18501, 0.45€ bounty)
+Seat 6: MathisKcr (23737, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Loonie posts ante 25
+Raul313 posts ante 25
+superDeck249 posts ante 25
+oliguid posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+Loonie posts small blind 100
+Raul313 posts big blind 200
+Dealt to MathisKcr [3d Qs]
+*** PRE-FLOP *** 
+oliguid folds
+ASEdeKER folds
+MathisKcr calls 200
+superDeck249 calls 200
+Loonie folds
+Raul313 checks
+*** FLOP *** [7c 4c Td]
+Raul313 checks
+MathisKcr checks
+superDeck249 checks
+*** TURN *** [7c 4c Td][8c]
+Raul313 checks
+MathisKcr checks
+superDeck249 checks
+*** RIVER *** [7c 4c Td 8c][7d]
+Raul313 checks
+MathisKcr checks
+superDeck249 checks
+*** SHOW DOWN ***
+superDeck249 shows [Kh 2h] (One pair : 7)
+MathisKcr shows [3d Qs] (One pair : 7)
+Raul313 shows [4h 5c] (Two pairs : 7 and 4)
+Raul313 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Board: [7c 4c Td 8c 7d]
+Seat 1: superDeck249 (button) showed [Kh 2h] and lost with One pair : 7
+Seat 3: Raul313 (big blind) showed [4h 5c] and won 850 with Two pairs : 7 and 4
+Seat 6: MathisKcr showed [3d Qs] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #4172822652349579273-26-1756667754 - Holdem no limit (25/100/200) - 2025/08/31 19:15:54 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #2 is the button
+Seat 1: superDeck249 (15168, 0.45€ bounty)
+Seat 2: Loonie (23131, 0.45€ bounty)
+Seat 3: Raul313 (17000, 0.45€ bounty)
+Seat 4: oliguid (18650, 0.45€ bounty)
+Seat 5: ASEdeKER (18476, 0.45€ bounty)
+Seat 6: MathisKcr (23512, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Raul313 posts ante 25
+oliguid posts ante 25
+superDeck249 posts ante 25
+Loonie posts ante 25
+ASEdeKER posts ante 25
+MathisKcr posts ante 25
+Raul313 posts small blind 100
+oliguid posts big blind 200
+Dealt to MathisKcr [Qc 5d]
+*** PRE-FLOP *** 
+ASEdeKER folds
+MathisKcr calls 200
+superDeck249 folds
+Loonie folds
+Raul313 folds
+oliguid checks
+*** FLOP *** [6c Jh Kh]
+oliguid checks
+MathisKcr checks
+*** TURN *** [6c Jh Kh][As]
+oliguid bets 227
+MathisKcr calls 227
+*** RIVER *** [6c Jh Kh As][Js]
+oliguid bets 1104
+MathisKcr folds
+oliguid collected 2208 from pot
+*** SUMMARY ***
+Total pot 2208 | No rake
+Board: [6c Jh Kh As Js]
+Seat 4: oliguid (big blind) won 2208
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4172822652349579273-27-1756667826 - Holdem no limit (30/125/250) - 2025/08/31 19:17:06 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #3 is the button
+Seat 1: superDeck249 (15143, 0.45€ bounty)
+Seat 2: Loonie (23106, 0.45€ bounty)
+Seat 3: Raul313 (16875, 0.45€ bounty)
+Seat 4: oliguid (19302, 0.45€ bounty)
+Seat 5: ASEdeKER (18451, 0.45€ bounty)
+Seat 6: MathisKcr (23060, 0.45€ bounty)
+*** ANTE/BLINDS ***
+oliguid posts ante 30
+ASEdeKER posts ante 30
+superDeck249 posts ante 30
+Loonie posts ante 30
+Raul313 posts ante 30
+MathisKcr posts ante 30
+oliguid posts small blind 125
+ASEdeKER posts big blind 250
+Dealt to MathisKcr [Ks 3c]
+*** PRE-FLOP *** 
+MathisKcr calls 250
+superDeck249 calls 250
+Loonie folds
+Raul313 raises 500 to 750
+oliguid folds
+ASEdeKER folds
+MathisKcr calls 500
+superDeck249 folds
+*** FLOP *** [3h 7h Qh]
+MathisKcr checks
+Raul313 checks
+*** TURN *** [3h 7h Qh][3s]
+MathisKcr bets 750
+Raul313 folds
+MathisKcr collected 3055 from pot
+*** SUMMARY ***
+Total pot 3055 | No rake
+Board: [3h 7h Qh 3s]
+Seat 6: MathisKcr won 3055
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4172822652349579273-28-1756667899 - Holdem no limit (30/125/250) - 2025/08/31 19:18:19 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #4 is the button
+Seat 1: superDeck249 (14863, 0.45€ bounty)
+Seat 2: Loonie (23076, 0.45€ bounty)
+Seat 3: Raul313 (16095, 0.45€ bounty)
+Seat 4: oliguid (19147, 0.45€ bounty)
+Seat 5: ASEdeKER (18171, 0.45€ bounty)
+Seat 6: MathisKcr (24585, 0.45€ bounty)
+*** ANTE/BLINDS ***
+ASEdeKER posts ante 30
+MathisKcr posts ante 30
+superDeck249 posts ante 30
+Loonie posts ante 30
+Raul313 posts ante 30
+oliguid posts ante 30
+ASEdeKER posts small blind 125
+MathisKcr posts big blind 250
+Dealt to MathisKcr [9d Qs]
+*** PRE-FLOP *** 
+superDeck249 folds
+Loonie folds
+Raul313 raises 15815 to 16065 and is all-in
+oliguid folds
+ASEdeKER folds
+MathisKcr folds
+Raul313 collected 16620 from pot
+*** SUMMARY ***
+Total pot 16620 | No rake
+Seat 3: Raul313 won 16620
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4172822652349579273-29-1756667927 - Holdem no limit (30/125/250) - 2025/08/31 19:18:47 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #5 is the button
+Seat 1: superDeck249 (14833, 0.45€ bounty)
+Seat 2: Loonie (23046, 0.45€ bounty)
+Seat 3: Raul313 (16620, 0.45€ bounty)
+Seat 4: oliguid (19117, 0.45€ bounty)
+Seat 5: ASEdeKER (18016, 0.45€ bounty)
+Seat 6: MathisKcr (24305, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 30
+superDeck249 posts ante 30
+Loonie posts ante 30
+Raul313 posts ante 30
+oliguid posts ante 30
+ASEdeKER posts ante 30
+MathisKcr posts small blind 125
+superDeck249 posts big blind 250
+Dealt to MathisKcr [As 2d]
+*** PRE-FLOP *** 
+Loonie raises 250 to 500
+Raul313 folds
+oliguid calls 500
+ASEdeKER folds
+MathisKcr calls 375
+superDeck249 calls 250
+*** FLOP *** [6d Qd 5s]
+MathisKcr checks
+superDeck249 checks
+Loonie bets 545
+oliguid raises 790 to 1335
+MathisKcr folds
+superDeck249 folds
+Loonie calls 790
+*** TURN *** [6d Qd 5s][5d]
+Loonie checks
+oliguid bets 3153
+Loonie folds
+oliguid collected 8003 from pot
+*** SUMMARY ***
+Total pot 8003 | No rake
+Board: [6d Qd 5s 5d]
+Seat 4: oliguid won 8003
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #4172822652349579273-30-1756668000 - Holdem no limit (30/125/250) - 2025/08/31 19:20:00 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #6 is the button
+Seat 1: superDeck249 (14303, 0.45€ bounty)
+Seat 2: Loonie (21181, 0.45€ bounty)
+Seat 3: Raul313 (16590, 0.45€ bounty)
+Seat 4: oliguid (22102, 0.45€ bounty)
+Seat 5: ASEdeKER (17986, 0.45€ bounty)
+Seat 6: MathisKcr (23775, 0.45€ bounty)
+*** ANTE/BLINDS ***
+superDeck249 posts ante 30
+Loonie posts ante 30
+Raul313 posts ante 30
+oliguid posts ante 30
+ASEdeKER posts ante 30
+MathisKcr posts ante 30
+superDeck249 posts small blind 125
+Loonie posts big blind 250
+Dealt to MathisKcr [3h 5d]
+*** PRE-FLOP *** 
+Raul313 calls 250
+oliguid folds
+ASEdeKER raises 250 to 500
+MathisKcr folds
+superDeck249 calls 375
+Loonie raises 1500 to 2000
+Raul313 folds
+ASEdeKER calls 1500
+superDeck249 folds
+*** FLOP *** [7s Qc 8h]
+Loonie checks
+ASEdeKER bets 2465
+Loonie raises 16686 to 19151 and is all-in
+ASEdeKER calls 13491 and is all-in
+*** TURN *** [7s Qc 8h][2h]
+*** RIVER *** [7s Qc 8h 2h][Qd]
+*** SHOW DOWN ***
+ASEdeKER shows [Tc Ks] (One pair : Queens)
+Loonie shows [Ah Qh] (Trips of Queens)
+Loonie collected 40037 from pot
+*** SUMMARY ***
+Total pot 40037 | No rake
+Board: [7s Qc 8h 2h Qd]
+Seat 2: Loonie (big blind) showed [Ah Qh] and won 40037 with Trips of Queens
+Seat 5: ASEdeKER showed [Tc Ks] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4172822652349579273-31-1756668063 - Holdem no limit (35/150/300) - 2025/08/31 19:21:03 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #1 is the button
+Seat 1: superDeck249 (13773, 0.45€ bounty)
+Seat 2: Loonie (40037, 0.67€ bounty)
+Seat 3: Raul313 (16310, 0.45€ bounty)
+Seat 4: oliguid (22072, 0.45€ bounty)
+Seat 6: MathisKcr (23745, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Loonie posts ante 35
+Raul313 posts ante 35
+superDeck249 posts ante 35
+oliguid posts ante 35
+MathisKcr posts ante 35
+Loonie posts small blind 150
+Raul313 posts big blind 300
+Dealt to MathisKcr [7d 7s]
+*** PRE-FLOP *** 
+oliguid folds
+MathisKcr raises 600 to 900
+superDeck249 folds
+Loonie folds
+Raul313 folds
+MathisKcr collected 1525 from pot
+*** SUMMARY ***
+Total pot 1525 | No rake
+Seat 6: MathisKcr won 1525
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4172822652349579273-32-1756668099 - Holdem no limit (35/150/300) - 2025/08/31 19:21:39 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #2 is the button
+Seat 1: superDeck249 (13738, 0.45€ bounty)
+Seat 2: Loonie (39852, 0.67€ bounty)
+Seat 3: Raul313 (15975, 0.45€ bounty)
+Seat 4: oliguid (22037, 0.45€ bounty)
+Seat 6: MathisKcr (24335, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Raul313 posts ante 35
+oliguid posts ante 35
+superDeck249 posts ante 35
+Loonie posts ante 35
+MathisKcr posts ante 35
+Raul313 posts small blind 150
+oliguid posts big blind 300
+Dealt to MathisKcr [3d 7s]
+*** PRE-FLOP *** 
+MathisKcr folds
+superDeck249 folds
+Loonie folds
+Raul313 raises 600 to 900
+oliguid folds
+Raul313 collected 1375 from pot
+*** SUMMARY ***
+Total pot 1375 | No rake
+Seat 3: Raul313 (small blind) won 1375
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4172822652349579273-33-1756668123 - Holdem no limit (35/150/300) - 2025/08/31 19:22:03 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #3 is the button
+Seat 1: superDeck249 (13703, 0.45€ bounty)
+Seat 2: Loonie (39817, 0.67€ bounty)
+Seat 3: Raul313 (16415, 0.45€ bounty)
+Seat 4: oliguid (21702, 0.45€ bounty)
+Seat 5: OmarBer (20000, 0.45€ bounty)
+Seat 6: MathisKcr (24300, 0.45€ bounty)
+*** ANTE/BLINDS ***
+oliguid posts ante 35
+OmarBer posts ante 35
+superDeck249 posts ante 35
+Loonie posts ante 35
+Raul313 posts ante 35
+MathisKcr posts ante 35
+oliguid posts small blind 150
+OmarBer posts big blind 300
+Dealt to MathisKcr [9d Td]
+*** PRE-FLOP *** 
+MathisKcr calls 300
+superDeck249 raises 450 to 750
+Loonie calls 750
+Raul313 folds
+oliguid calls 600
+OmarBer raises 1500 to 2250
+MathisKcr calls 1950
+superDeck249 raises 11418 to 13668 and is all-in
+Loonie folds
+oliguid raises 7999 to 21667 and is all-in
+OmarBer calls 17715 and is all-in
+MathisKcr folds
+*** FLOP *** [5s 6c 8h]
+*** TURN *** [5s 6c 8h][3h]
+*** RIVER *** [5s 6c 8h 3h][2h]
+*** SHOW DOWN ***
+superDeck249 shows [Jd Jh] (One pair : Jacks)
+oliguid shows [Qc Ad] (High card : Ace)
+OmarBer shows [Ks Kc] (One pair : Kings)
+OmarBer collected 56808 from main pot
+oliguid collected 1702 from side pot 1
+*** SUMMARY ***
+Total pot 58510 | No rake
+Board: [5s 6c 8h 3h 2h]
+Seat 1: superDeck249 showed [Jd Jh] and lost with One pair : Jacks
+Seat 4: oliguid (small blind) showed [Qc Ad] and won 1702 with High card : Ace
+Seat 5: OmarBer (big blind) showed [Ks Kc] and won 56808 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4172822652349579273-34-1756668207 - Holdem no limit (35/150/300) - 2025/08/31 19:23:27 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #4 is the button
+Seat 2: Loonie (39032, 0.67€ bounty)
+Seat 3: Raul313 (16380, 0.45€ bounty)
+Seat 4: oliguid (1702, 0.45€ bounty)
+Seat 5: OmarBer (56808, 0.67€ bounty)
+Seat 6: MathisKcr (22015, 0.45€ bounty)
+*** ANTE/BLINDS ***
+OmarBer posts ante 35
+MathisKcr posts ante 35
+Loonie posts ante 35
+Raul313 posts ante 35
+oliguid posts ante 35
+OmarBer posts small blind 150
+MathisKcr posts big blind 300
+Dealt to MathisKcr [2c Jc]
+*** PRE-FLOP *** 
+Loonie folds
+Raul313 calls 300
+oliguid folds
+OmarBer calls 150
+MathisKcr checks
+*** FLOP *** [3d 4c Js]
+OmarBer checks
+MathisKcr bets 600
+Raul313 folds
+OmarBer folds
+MathisKcr collected 1675 from pot
+*** SUMMARY ***
+Total pot 1675 | No rake
+Board: [3d 4c Js]
+Seat 6: MathisKcr (big blind) won 1675
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4172822652349579273-35-1756668243 - Holdem no limit (35/150/300) - 2025/08/31 19:24:03 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #5 is the button
+Seat 1: IvreBandit18 (20000, 0.45€ bounty)
+Seat 2: Loonie (38997, 0.67€ bounty)
+Seat 3: Raul313 (16045, 0.45€ bounty)
+Seat 4: oliguid (1667, 0.45€ bounty)
+Seat 5: OmarBer (56473, 0.67€ bounty)
+Seat 6: MathisKcr (22755, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 35
+IvreBandit18 posts ante 35
+Loonie posts ante 35
+Raul313 posts ante 35
+oliguid posts ante 35
+OmarBer posts ante 35
+MathisKcr posts small blind 150
+IvreBandit18 posts big blind 300
+Dealt to MathisKcr [5h Td]
+*** PRE-FLOP *** 
+Loonie folds
+Raul313 folds
+oliguid raises 1332 to 1632 and is all-in
+OmarBer folds
+MathisKcr calls 1482
+IvreBandit18 calls 1332
+*** FLOP *** [Qs Jd 5c]
+MathisKcr checks
+IvreBandit18 bets 18333 and is all-in
+MathisKcr folds
+*** TURN *** [Qs Jd 5c][Qc]
+*** RIVER *** [Qs Jd 5c Qc][Js]
+*** SHOW DOWN ***
+oliguid shows [Ad 6d] (Two pairs : Queens and Jacks)
+IvreBandit18 shows [3s Jh] (Full of Jacks and Queens)
+IvreBandit18 collected 23439 from pot
+*** SUMMARY ***
+Total pot 23439 | No rake
+Board: [Qs Jd 5c Qc Js]
+Seat 1: IvreBandit18 (big blind) showed [3s Jh] and won 23439 with Full of Jacks and Queens
+Seat 4: oliguid showed [Ad 6d] and lost with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4172822652349579273-36-1756668292 - Holdem no limit (35/150/300) - 2025/08/31 19:24:52 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #6 is the button
+Seat 1: IvreBandit18 (23439, 0.67€ bounty)
+Seat 2: Loonie (38962, 0.67€ bounty)
+Seat 3: Raul313 (16010, 0.45€ bounty)
+Seat 5: OmarBer (56438, 0.67€ bounty)
+Seat 6: MathisKcr (21088, 0.45€ bounty)
+*** ANTE/BLINDS ***
+IvreBandit18 posts ante 35
+Loonie posts ante 35
+Raul313 posts ante 35
+OmarBer posts ante 35
+MathisKcr posts ante 35
+IvreBandit18 posts small blind 150
+Loonie posts big blind 300
+Dealt to MathisKcr [Qd Qs]
+*** PRE-FLOP *** 
+Raul313 folds
+OmarBer folds
+MathisKcr raises 600 to 900
+IvreBandit18 calls 750
+Loonie calls 600
+*** FLOP *** [2s 8h Td]
+IvreBandit18 checks
+Loonie checks
+MathisKcr bets 1500
+IvreBandit18 folds
+Loonie folds
+MathisKcr collected 4375 from pot
+*** SUMMARY ***
+Total pot 4375 | No rake
+Board: [2s 8h Td]
+Seat 6: MathisKcr (button) won 4375
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #4172822652349579273-37-1756668353 - Holdem no limit (35/150/300) - 2025/08/31 19:25:53 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #1 is the button
+Seat 1: IvreBandit18 (22504, 0.67€ bounty)
+Seat 2: Loonie (38027, 0.67€ bounty)
+Seat 3: Raul313 (15975, 0.45€ bounty)
+Seat 4: Gipsyking94 (20000, 0.45€ bounty)
+Seat 5: OmarBer (56403, 0.67€ bounty)
+Seat 6: MathisKcr (23028, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Loonie posts ante 35
+Raul313 posts ante 35
+IvreBandit18 posts ante 35
+Gipsyking94 posts ante 35
+OmarBer posts ante 35
+MathisKcr posts ante 35
+Loonie posts small blind 150
+Raul313 posts big blind 300
+Dealt to MathisKcr [5c Ts]
+*** PRE-FLOP *** 
+Gipsyking94 folds
+OmarBer folds
+MathisKcr folds
+IvreBandit18 folds
+Loonie folds
+Raul313 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 3: Raul313 (big blind) won 660
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4172822652349579273-38-1756668404 - Holdem no limit (40/175/350) - 2025/08/31 19:26:44 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #2 is the button
+Seat 1: IvreBandit18 (22469, 0.67€ bounty)
+Seat 2: Loonie (37842, 0.67€ bounty)
+Seat 3: Raul313 (16300, 0.45€ bounty)
+Seat 4: Gipsyking94 (19965, 0.45€ bounty)
+Seat 5: OmarBer (56368, 0.67€ bounty)
+Seat 6: MathisKcr (22993, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Raul313 posts ante 40
+Gipsyking94 posts ante 40
+IvreBandit18 posts ante 40
+Loonie posts ante 40
+OmarBer posts ante 40
+MathisKcr posts ante 40
+Raul313 posts small blind 175
+Gipsyking94 posts big blind 350
+Dealt to MathisKcr [2d 3s]
+*** PRE-FLOP *** 
+OmarBer raises 350 to 700
+MathisKcr folds
+IvreBandit18 folds
+Loonie folds
+Raul313 folds
+Gipsyking94 folds
+OmarBer collected 1465 from pot
+*** SUMMARY ***
+Total pot 1465 | No rake
+Seat 5: OmarBer won 1465
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4172822652349579273-39-1756668422 - Holdem no limit (40/175/350) - 2025/08/31 19:27:02 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #3 is the button
+Seat 1: IvreBandit18 (22429, 0.67€ bounty)
+Seat 2: Loonie (37802, 0.67€ bounty)
+Seat 3: Raul313 (16085, 0.45€ bounty)
+Seat 4: Gipsyking94 (19575, 0.45€ bounty)
+Seat 5: OmarBer (57093, 0.67€ bounty)
+Seat 6: MathisKcr (22953, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Gipsyking94 posts ante 40
+OmarBer posts ante 40
+IvreBandit18 posts ante 40
+Loonie posts ante 40
+Raul313 posts ante 40
+MathisKcr posts ante 40
+Gipsyking94 posts small blind 175
+OmarBer posts big blind 350
+Dealt to MathisKcr [6c 7d]
+*** PRE-FLOP *** 
+MathisKcr folds
+IvreBandit18 folds
+Loonie raises 385 to 735
+Raul313 folds
+Gipsyking94 folds
+OmarBer calls 385
+*** FLOP *** [Qc 4s Jh]
+OmarBer checks
+Loonie checks
+*** TURN *** [Qc 4s Jh][Jc]
+OmarBer checks
+Loonie checks
+*** RIVER *** [Qc 4s Jh Jc][8s]
+OmarBer checks
+Loonie checks
+*** SHOW DOWN ***
+OmarBer shows [2h 3c] (One pair : Jacks)
+Loonie shows [7c Kc] (One pair : Jacks)
+Loonie collected 1885 from pot
+*** SUMMARY ***
+Total pot 1885 | No rake
+Board: [Qc 4s Jh Jc 8s]
+Seat 2: Loonie showed [7c Kc] and won 1885 with One pair : Jacks
+Seat 5: OmarBer (big blind) showed [2h 3c] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4172822652349579273-40-1756668497 - Holdem no limit (40/175/350) - 2025/08/31 19:28:17 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #4 is the button
+Seat 2: Loonie (38912, 0.67€ bounty)
+Seat 3: Raul313 (16045, 0.45€ bounty)
+Seat 4: Gipsyking94 (19360, 0.45€ bounty)
+Seat 5: OmarBer (56318, 0.67€ bounty)
+Seat 6: MathisKcr (22913, 0.45€ bounty)
+*** ANTE/BLINDS ***
+OmarBer posts ante 40
+MathisKcr posts ante 40
+Loonie posts ante 40
+Raul313 posts ante 40
+Gipsyking94 posts ante 40
+OmarBer posts small blind 175
+MathisKcr posts big blind 350
+Dealt to MathisKcr [Jd 8h]
+*** PRE-FLOP *** 
+Loonie raises 350 to 700
+Raul313 folds
+Gipsyking94 folds
+OmarBer folds
+MathisKcr calls 350
+*** FLOP *** [3s Jh 6s]
+MathisKcr bets 1050
+Loonie folds
+MathisKcr collected 2825 from pot
+*** SUMMARY ***
+Total pot 2825 | No rake
+Board: [3s Jh 6s]
+Seat 6: MathisKcr (big blind) won 2825
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4172822652349579273-41-1756668532 - Holdem no limit (40/175/350) - 2025/08/31 19:28:52 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #5 is the button
+Seat 2: Loonie (38172, 0.67€ bounty)
+Seat 3: Raul313 (16005, 0.45€ bounty)
+Seat 4: Gipsyking94 (19320, 0.45€ bounty)
+Seat 5: OmarBer (56103, 0.67€ bounty)
+Seat 6: MathisKcr (23948, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 40
+Loonie posts ante 40
+Raul313 posts ante 40
+Gipsyking94 posts ante 40
+OmarBer posts ante 40
+MathisKcr posts small blind 175
+Loonie posts big blind 350
+Dealt to MathisKcr [8c 7h]
+*** PRE-FLOP *** 
+Raul313 raises 700 to 1050
+Gipsyking94 folds
+OmarBer folds
+MathisKcr folds
+Loonie raises 2475 to 3525
+Raul313 calls 2475
+*** FLOP *** [7s 6h Ts]
+Loonie checks
+Raul313 checks
+*** TURN *** [7s 6h Ts][2h]
+Loonie bets 34607 and is all-in
+Raul313 folds
+Loonie collected 42032 from pot
+*** SUMMARY ***
+Total pot 42032 | No rake
+Board: [7s 6h Ts 2h]
+Seat 2: Loonie (big blind) won 42032
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #4172822652349579273-42-1756668603 - Holdem no limit (40/175/350) - 2025/08/31 19:30:03 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #6 is the button
+Seat 1: Greg021084 (20000, 0.45€ bounty)
+Seat 2: Loonie (42032, 0.67€ bounty)
+Seat 3: Raul313 (12440, 0.45€ bounty)
+Seat 4: Gipsyking94 (19280, 0.45€ bounty)
+Seat 5: OmarBer (56063, 0.67€ bounty)
+Seat 6: MathisKcr (23733, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Loonie posts ante 40
+Raul313 posts ante 40
+Gipsyking94 posts ante 40
+OmarBer posts ante 40
+MathisKcr posts ante 40
+Loonie posts small blind 175
+Raul313 posts big blind 350
+Dealt to MathisKcr [9h Th]
+*** PRE-FLOP *** 
+Gipsyking94 folds
+OmarBer folds
+MathisKcr calls 350
+Loonie calls 175
+Raul313 checks
+*** FLOP *** [Jc 4s Ac]
+Loonie checks
+Raul313 checks
+MathisKcr checks
+*** TURN *** [Jc 4s Ac][Kh]
+Loonie checks
+Raul313 checks
+MathisKcr checks
+*** RIVER *** [Jc 4s Ac Kh][Qc]
+Loonie checks
+Raul313 checks
+MathisKcr bets 1050
+Loonie folds
+Raul313 folds
+MathisKcr collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Board: [Jc 4s Ac Kh Qc]
+Seat 6: MathisKcr (button) won 2300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4172822652349579273-43-1756668681 - Holdem no limit (50/200/400) - 2025/08/31 19:31:21 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #2 is the button
+Seat 1: Greg021084 (20000, 0.45€ bounty)
+Seat 2: Loonie (41642, 0.67€ bounty)
+Seat 3: Raul313 (12050, 0.45€ bounty)
+Seat 4: Gipsyking94 (19240, 0.45€ bounty)
+Seat 5: OmarBer (56023, 0.67€ bounty)
+Seat 6: MathisKcr (24593, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Raul313 posts ante 50
+Gipsyking94 posts ante 50
+Greg021084 posts ante 50
+Loonie posts ante 50
+OmarBer posts ante 50
+MathisKcr posts ante 50
+Raul313 posts small blind 200
+Gipsyking94 posts big blind 400
+Dealt to MathisKcr [9d Ac]
+*** PRE-FLOP *** 
+OmarBer folds
+MathisKcr raises 400 to 800
+Greg021084 raises 2500 to 3300
+Loonie folds
+Raul313 raises 8700 to 12000 and is all-in
+Gipsyking94 folds
+MathisKcr calls 11200
+Greg021084 raises 7950 to 19950 and is all-in
+MathisKcr calls 7950
+*** FLOP *** [Ad 9s 4h]
+*** TURN *** [Ad 9s 4h][Td]
+*** RIVER *** [Ad 9s 4h Td][9c]
+*** SHOW DOWN ***
+Greg021084 shows [Qc 2s] (One pair : 9)
+Raul313 shows [Qh Qs] (Two pairs : Queens and 9)
+MathisKcr shows [9d Ac] (Full of 9 and Aces)
+MathisKcr collected 52600 from pot
+*** SUMMARY ***
+Total pot 52600 | No rake
+Board: [Ad 9s 4h Td 9c]
+Seat 1: Greg021084 showed [Qc 2s] and lost with One pair : 9
+Seat 3: Raul313 (small blind) showed [Qh Qs] and lost with Two pairs : Queens and 9
+Seat 6: MathisKcr showed [9d Ac] and won 52600 with Full of 9 and Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4172822652349579273-44-1756668740 - Holdem no limit (50/200/400) - 2025/08/31 19:32:20 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #3 is the button
+Seat 2: Loonie (41592, 0.67€ bounty)
+Seat 4: Gipsyking94 (18790, 0.45€ bounty)
+Seat 5: OmarBer (55973, 0.67€ bounty)
+Seat 6: MathisKcr (57193, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Gipsyking94 posts ante 50
+OmarBer posts ante 50
+Loonie posts ante 50
+MathisKcr posts ante 50
+Gipsyking94 posts small blind 200
+OmarBer posts big blind 400
+Dealt to MathisKcr [Tc 3h]
+*** PRE-FLOP *** 
+MathisKcr folds
+Loonie folds
+Gipsyking94 raises 800 to 1200
+OmarBer calls 800
+*** FLOP *** [4c 8h 9h]
+Gipsyking94 bets 1400
+OmarBer calls 1400
+*** TURN *** [4c 8h 9h][7d]
+Gipsyking94 bets 2400
+OmarBer calls 2400
+*** RIVER *** [4c 8h 9h 7d][Ts]
+Gipsyking94 bets 13740 and is all-in
+OmarBer folds
+Gipsyking94 collected 23940 from pot
+*** SUMMARY ***
+Total pot 23940 | No rake
+Board: [4c 8h 9h 7d Ts]
+Seat 4: Gipsyking94 (small blind) won 23940
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4172822652349579273-45-1756668790 - Holdem no limit (50/200/400) - 2025/08/31 19:33:10 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #4 is the button
+Seat 1: SAYEN85 (20000, 0.45€ bounty)
+Seat 2: Loonie (41542, 0.67€ bounty)
+Seat 3: shel (36966, 0.67€ bounty)
+Seat 4: Gipsyking94 (23940, 0.45€ bounty)
+Seat 5: OmarBer (50923, 0.67€ bounty)
+Seat 6: MathisKcr (57143, 0.89€ bounty)
+*** ANTE/BLINDS ***
+OmarBer posts ante 50
+MathisKcr posts ante 50
+SAYEN85 posts ante 50
+Loonie posts ante 50
+shel posts ante 50
+Gipsyking94 posts ante 50
+OmarBer posts small blind 200
+MathisKcr posts big blind 400
+Dealt to MathisKcr [Th 5s]
+*** PRE-FLOP *** 
+SAYEN85 raises 1300 to 1700
+Loonie calls 1700
+shel folds
+Gipsyking94 folds
+OmarBer folds
+MathisKcr folds
+*** FLOP *** [Jh Kc Qs]
+SAYEN85 checks
+Loonie bets 1505
+SAYEN85 calls 1505
+*** TURN *** [Jh Kc Qs][8h]
+SAYEN85 checks
+Loonie bets 5848
+SAYEN85 folds
+Loonie collected 13158 from pot
+*** SUMMARY ***
+Total pot 13158 | No rake
+Board: [Jh Kc Qs 8h]
+Seat 2: Loonie won 13158
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4172822652349579273-46-1756668852 - Holdem no limit (50/200/400) - 2025/08/31 19:34:12 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #5 is the button
+Seat 1: SAYEN85 (16745, 0.45€ bounty)
+Seat 2: Loonie (45597, 0.67€ bounty)
+Seat 3: shel (36916, 0.67€ bounty)
+Seat 4: Gipsyking94 (23890, 0.45€ bounty)
+Seat 5: OmarBer (50673, 0.67€ bounty)
+Seat 6: MathisKcr (56693, 0.89€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 50
+SAYEN85 posts ante 50
+Loonie posts ante 50
+shel posts ante 50
+Gipsyking94 posts ante 50
+OmarBer posts ante 50
+MathisKcr posts small blind 200
+SAYEN85 posts big blind 400
+Dealt to MathisKcr [5s Kd]
+*** PRE-FLOP *** 
+Loonie folds
+shel folds
+Gipsyking94 raises 800 to 1200
+OmarBer calls 1200
+MathisKcr calls 1000
+SAYEN85 folds
+*** FLOP *** [2d 2s Kh]
+MathisKcr checks
+Gipsyking94 bets 1600
+OmarBer folds
+MathisKcr calls 1600
+*** TURN *** [2d 2s Kh][4s]
+MathisKcr checks
+Gipsyking94 bets 2800
+MathisKcr calls 2800
+*** RIVER *** [2d 2s Kh 4s][Qd]
+MathisKcr checks
+Gipsyking94 bets 5200
+MathisKcr calls 5200
+*** SHOW DOWN ***
+Gipsyking94 shows [7h Ad] (One pair : 2)
+MathisKcr shows [5s Kd] (Two pairs : Kings and 2)
+MathisKcr collected 23500 from pot
+*** SUMMARY ***
+Total pot 23500 | No rake
+Board: [2d 2s Kh 4s Qd]
+Seat 4: Gipsyking94 showed [7h Ad] and lost with One pair : 2
+Seat 6: MathisKcr (small blind) showed [5s Kd] and won 23500 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #4172822652349579273-47-1756668916 - Holdem no limit (50/200/400) - 2025/08/31 19:35:16 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #6 is the button
+Seat 1: SAYEN85 (16295, 0.45€ bounty)
+Seat 2: Loonie (45547, 0.67€ bounty)
+Seat 3: shel (36866, 0.67€ bounty)
+Seat 4: Gipsyking94 (13040, 0.45€ bounty)
+Seat 5: OmarBer (49423, 0.67€ bounty)
+Seat 6: MathisKcr (69343, 0.89€ bounty)
+*** ANTE/BLINDS ***
+SAYEN85 posts ante 50
+Loonie posts ante 50
+shel posts ante 50
+Gipsyking94 posts ante 50
+OmarBer posts ante 50
+MathisKcr posts ante 50
+SAYEN85 posts small blind 200
+Loonie posts big blind 400
+Dealt to MathisKcr [8s 6d]
+*** PRE-FLOP *** 
+shel folds
+Gipsyking94 raises 800 to 1200
+OmarBer folds
+MathisKcr folds
+SAYEN85 raises 3100 to 4300
+Loonie folds
+Gipsyking94 raises 8690 to 12990 and is all-in
+SAYEN85 calls 8690
+*** FLOP *** [8h 5s 7d]
+*** TURN *** [8h 5s 7d][9h]
+*** RIVER *** [8h 5s 7d 9h][Qc]
+*** SHOW DOWN ***
+SAYEN85 shows [As Th] (High card : Ace)
+Gipsyking94 shows [Jd Qd] (One pair : Queens)
+Gipsyking94 collected 26680 from pot
+*** SUMMARY ***
+Total pot 26680 | No rake
+Board: [8h 5s 7d 9h Qc]
+Seat 1: SAYEN85 (small blind) showed [As Th] and lost with High card : Ace
+Seat 4: Gipsyking94 showed [Jd Qd] and won 26680 with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4172822652349579273-48-1756668968 - Holdem no limit (60/250/500) - 2025/08/31 19:36:08 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #1 is the button
+Seat 1: SAYEN85 (3255, 0.45€ bounty)
+Seat 2: Loonie (45097, 0.67€ bounty)
+Seat 3: shel (36816, 0.67€ bounty)
+Seat 4: Gipsyking94 (26680, 0.45€ bounty)
+Seat 5: OmarBer (49373, 0.67€ bounty)
+Seat 6: MathisKcr (69293, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Loonie posts ante 60
+shel posts ante 60
+SAYEN85 posts ante 60
+Gipsyking94 posts ante 60
+OmarBer posts ante 60
+MathisKcr posts ante 60
+Loonie posts small blind 250
+shel posts big blind 500
+Dealt to MathisKcr [3c Qd]
+*** PRE-FLOP *** 
+Gipsyking94 folds
+OmarBer folds
+MathisKcr calls 500
+SAYEN85 raises 2695 to 3195 and is all-in
+Loonie raises 7750 to 10945
+shel folds
+MathisKcr folds
+*** FLOP *** [Ts 8c Js]
+*** TURN *** [Ts 8c Js][9s]
+*** RIVER *** [Ts 8c Js 9s][2d]
+*** SHOW DOWN ***
+SAYEN85 shows [6s 4d] (High card : Jack)
+Loonie shows [Ks Ah] (High card : Ace)
+Loonie collected 15500 from pot
+*** SUMMARY ***
+Total pot 15500 | No rake
+Board: [Ts 8c Js 9s 2d]
+Seat 1: SAYEN85 (button) showed [6s 4d] and lost with High card : Jack
+Seat 2: Loonie (small blind) showed [Ks Ah] and won 15500 with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4172822652349579273-49-1756669008 - Holdem no limit (60/250/500) - 2025/08/31 19:36:48 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #2 is the button
+Seat 2: Loonie (49592, 0.89€ bounty)
+Seat 3: shel (36256, 0.67€ bounty)
+Seat 4: Gipsyking94 (26620, 0.45€ bounty)
+Seat 5: OmarBer (49313, 0.67€ bounty)
+Seat 6: MathisKcr (68733, 0.89€ bounty)
+*** ANTE/BLINDS ***
+shel posts ante 60
+Gipsyking94 posts ante 60
+Loonie posts ante 60
+OmarBer posts ante 60
+MathisKcr posts ante 60
+shel posts small blind 250
+Gipsyking94 posts big blind 500
+Dealt to MathisKcr [9s 3c]
+*** PRE-FLOP *** 
+OmarBer folds
+MathisKcr folds
+Loonie folds
+shel raises 625 to 1125
+Gipsyking94 folds
+shel collected 1925 from pot
+*** SUMMARY ***
+Total pot 1925 | No rake
+Seat 3: shel (small blind) won 1925
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4172822652349579273-50-1756669033 - Holdem no limit (60/250/500) - 2025/08/31 19:37:13 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #3 is the button
+Seat 1: eligada (20000, 0.45€ bounty)
+Seat 2: Loonie (49532, 0.89€ bounty)
+Seat 3: shel (36996, 0.67€ bounty)
+Seat 4: Gipsyking94 (26060, 0.45€ bounty)
+Seat 5: OmarBer (49253, 0.67€ bounty)
+Seat 6: MathisKcr (68673, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Gipsyking94 posts ante 60
+OmarBer posts ante 60
+eligada posts ante 60
+Loonie posts ante 60
+shel posts ante 60
+MathisKcr posts ante 60
+Gipsyking94 posts small blind 250
+OmarBer posts big blind 500
+Dealt to MathisKcr [Kh Js]
+*** PRE-FLOP *** 
+MathisKcr folds
+eligada raises 1610 to 2110
+Loonie folds
+shel folds
+Gipsyking94 folds
+OmarBer folds
+eligada collected 3220 from pot
+*** SUMMARY ***
+Total pot 3220 | No rake
+Seat 1: eligada won 3220
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4172822652349579273-51-1756669082 - Holdem no limit (60/250/500) - 2025/08/31 19:38:02 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #4 is the button
+Seat 1: eligada (21050, 0.45€ bounty)
+Seat 2: Loonie (49472, 0.89€ bounty)
+Seat 3: shel (36936, 0.67€ bounty)
+Seat 4: Gipsyking94 (25750, 0.45€ bounty)
+Seat 5: OmarBer (48693, 0.67€ bounty)
+Seat 6: MathisKcr (68613, 0.89€ bounty)
+*** ANTE/BLINDS ***
+OmarBer posts ante 60
+MathisKcr posts ante 60
+eligada posts ante 60
+Loonie posts ante 60
+shel posts ante 60
+Gipsyking94 posts ante 60
+OmarBer posts small blind 250
+MathisKcr posts big blind 500
+Dealt to MathisKcr [6h Js]
+*** PRE-FLOP *** 
+eligada calls 500
+Loonie folds
+shel folds
+Gipsyking94 folds
+OmarBer calls 250
+MathisKcr checks
+*** FLOP *** [4d 3c 7h]
+OmarBer checks
+MathisKcr checks
+eligada checks
+*** TURN *** [4d 3c 7h][4s]
+OmarBer bets 1209
+MathisKcr calls 1209
+eligada calls 1209
+*** RIVER *** [4d 3c 7h 4s][Ks]
+OmarBer bets 2744
+MathisKcr folds
+eligada folds
+OmarBer collected 8231 from pot
+*** SUMMARY ***
+Total pot 8231 | No rake
+Board: [4d 3c 7h 4s Ks]
+Seat 5: OmarBer (small blind) won 8231
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4172822652349579273-52-1756669153 - Holdem no limit (60/250/500) - 2025/08/31 19:39:13 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #5 is the button
+Seat 1: eligada (19281, 0.45€ bounty)
+Seat 2: Loonie (49412, 0.89€ bounty)
+Seat 3: shel (36876, 0.67€ bounty)
+Seat 4: Gipsyking94 (25690, 0.45€ bounty)
+Seat 5: OmarBer (52411, 0.67€ bounty)
+Seat 6: MathisKcr (66844, 0.89€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 60
+eligada posts ante 60
+Loonie posts ante 60
+shel posts ante 60
+Gipsyking94 posts ante 60
+OmarBer posts ante 60
+MathisKcr posts small blind 250
+eligada posts big blind 500
+Dealt to MathisKcr [Qc 9h]
+*** PRE-FLOP *** 
+Loonie raises 750 to 1250
+shel folds
+Gipsyking94 folds
+OmarBer folds
+MathisKcr raises 750 to 2000
+eligada calls 1500
+Loonie calls 750
+*** FLOP *** [9d Ah Qh]
+MathisKcr bets 2000
+eligada calls 2000
+Loonie folds
+*** TURN *** [9d Ah Qh][4h]
+MathisKcr bets 5500
+eligada calls 5500
+*** RIVER *** [9d Ah Qh 4h][7d]
+MathisKcr checks
+eligada checks
+*** SHOW DOWN ***
+eligada shows [Kh Qd] (One pair : Queens)
+MathisKcr shows [Qc 9h] (Two pairs : Queens and 9)
+MathisKcr collected 21360 from pot
+*** SUMMARY ***
+Total pot 21360 | No rake
+Board: [9d Ah Qh 4h 7d]
+Seat 1: eligada (big blind) showed [Kh Qd] and lost with One pair : Queens
+Seat 6: MathisKcr (small blind) showed [Qc 9h] and won 21360 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #4172822652349579273-53-1756669237 - Holdem no limit (60/250/500) - 2025/08/31 19:40:37 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #6 is the button
+Seat 1: eligada (9721, 0.45€ bounty)
+Seat 2: Loonie (47352, 0.89€ bounty)
+Seat 3: shel (36816, 0.67€ bounty)
+Seat 4: Gipsyking94 (25630, 0.45€ bounty)
+Seat 5: OmarBer (52351, 0.67€ bounty)
+Seat 6: MathisKcr (78644, 0.89€ bounty)
+*** ANTE/BLINDS ***
+eligada posts ante 60
+Loonie posts ante 60
+shel posts ante 60
+Gipsyking94 posts ante 60
+OmarBer posts ante 60
+MathisKcr posts ante 60
+eligada posts small blind 250
+Loonie posts big blind 500
+Dealt to MathisKcr [Ks 7d]
+*** PRE-FLOP *** 
+shel folds
+Gipsyking94 folds
+OmarBer raises 750 to 1250
+MathisKcr calls 1250
+eligada calls 1000
+Loonie calls 750
+*** FLOP *** [Qs Ad 2s]
+eligada bets 8411 and is all-in
+Loonie folds
+OmarBer folds
+MathisKcr folds
+eligada collected 13771 from pot
+*** SUMMARY ***
+Total pot 13771 | No rake
+Board: [Qs Ad 2s]
+Seat 1: eligada (small blind) won 13771
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4172822652349579273-54-1756669278 - Holdem no limit (70/300/600) - 2025/08/31 19:41:18 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #1 is the button
+Seat 1: eligada (13771, 0.45€ bounty)
+Seat 2: Loonie (46042, 0.89€ bounty)
+Seat 3: shel (36756, 0.67€ bounty)
+Seat 4: Gipsyking94 (25570, 0.45€ bounty)
+Seat 5: OmarBer (51041, 0.67€ bounty)
+Seat 6: MathisKcr (77334, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Loonie posts ante 70
+shel posts ante 70
+eligada posts ante 70
+Gipsyking94 posts ante 70
+OmarBer posts ante 70
+MathisKcr posts ante 70
+Loonie posts small blind 300
+shel posts big blind 600
+Dealt to MathisKcr [Kd As]
+*** PRE-FLOP *** 
+Gipsyking94 folds
+OmarBer folds
+MathisKcr raises 1200 to 1800
+eligada calls 1800
+Loonie folds
+shel folds
+*** FLOP *** [Qh 3h 7s]
+MathisKcr bets 1800
+eligada calls 1800
+*** TURN *** [Qh 3h 7s][9h]
+MathisKcr bets 73664 and is all-in
+eligada calls 10101 and is all-in
+*** RIVER *** [Qh 3h 7s 9h][Ks]
+*** SHOW DOWN ***
+eligada shows [7c Kc] (Two pairs : Kings and 7)
+MathisKcr shows [Kd As] (One pair : Kings)
+MathisKcr collected 63563 from side pot 1
+eligada collected 28722 from main pot
+*** SUMMARY ***
+Total pot 92285 | No rake
+Board: [Qh 3h 7s 9h Ks]
+Seat 1: eligada (button) showed [7c Kc] and won 28722 with Two pairs : Kings and 7
+Seat 6: MathisKcr showed [Kd As] and won 63563 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4172822652349579273-55-1756669314 - Holdem no limit (70/300/600) - 2025/08/31 19:41:54 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #2 is the button
+Seat 1: eligada (28722, 0.45€ bounty)
+Seat 2: Loonie (45672, 0.89€ bounty)
+Seat 3: shel (36086, 0.67€ bounty)
+Seat 4: Gipsyking94 (25500, 0.45€ bounty)
+Seat 5: OmarBer (50971, 0.67€ bounty)
+Seat 6: MathisKcr (63563, 0.89€ bounty)
+*** ANTE/BLINDS ***
+shel posts ante 70
+Gipsyking94 posts ante 70
+eligada posts ante 70
+Loonie posts ante 70
+OmarBer posts ante 70
+MathisKcr posts ante 70
+shel posts small blind 300
+Gipsyking94 posts big blind 600
+Dealt to MathisKcr [2h Kd]
+*** PRE-FLOP *** 
+OmarBer raises 600 to 1200
+MathisKcr calls 1200
+eligada calls 1200
+Loonie folds
+shel folds
+Gipsyking94 folds
+*** FLOP *** [8d 9d Tc]
+OmarBer bets 2460
+MathisKcr folds
+eligada folds
+OmarBer collected 7380 from pot
+*** SUMMARY ***
+Total pot 7380 | No rake
+Board: [8d 9d Tc]
+Seat 5: OmarBer won 7380
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4172822652349579273-56-1756669355 - Holdem no limit (70/300/600) - 2025/08/31 19:42:35 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #3 is the button
+Seat 1: eligada (27452, 0.45€ bounty)
+Seat 2: Loonie (45602, 0.89€ bounty)
+Seat 3: shel (35716, 0.67€ bounty)
+Seat 4: Gipsyking94 (24830, 0.45€ bounty)
+Seat 5: OmarBer (54621, 0.67€ bounty)
+Seat 6: MathisKcr (62293, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Gipsyking94 posts ante 70
+OmarBer posts ante 70
+eligada posts ante 70
+Loonie posts ante 70
+shel posts ante 70
+MathisKcr posts ante 70
+Gipsyking94 posts small blind 300
+OmarBer posts big blind 600
+Dealt to MathisKcr [6d Td]
+*** PRE-FLOP *** 
+MathisKcr folds
+eligada folds
+Loonie folds
+shel raises 600 to 1200
+Gipsyking94 calls 900
+OmarBer calls 600
+*** FLOP *** [4h 8d 3h]
+Gipsyking94 bets 2613
+OmarBer folds
+shel folds
+Gipsyking94 collected 6633 from pot
+*** SUMMARY ***
+Total pot 6633 | No rake
+Board: [4h 8d 3h]
+Seat 4: Gipsyking94 (small blind) won 6633
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4172822652349579273-57-1756669424 - Holdem no limit (70/300/600) - 2025/08/31 19:43:44 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #4 is the button
+Seat 1: eligada (27382, 0.45€ bounty)
+Seat 2: Loonie (45532, 0.89€ bounty)
+Seat 3: shel (34446, 0.67€ bounty)
+Seat 4: Gipsyking94 (27580, 0.45€ bounty)
+Seat 5: OmarBer (53351, 0.67€ bounty)
+Seat 6: MathisKcr (62223, 0.89€ bounty)
+*** ANTE/BLINDS ***
+OmarBer posts ante 70
+MathisKcr posts ante 70
+eligada posts ante 70
+Loonie posts ante 70
+shel posts ante 70
+Gipsyking94 posts ante 70
+OmarBer posts small blind 300
+MathisKcr posts big blind 600
+Dealt to MathisKcr [Ts 3s]
+*** PRE-FLOP *** 
+eligada folds
+Loonie raises 600 to 1200
+shel calls 1200
+Gipsyking94 raises 26310 to 27510 and is all-in
+OmarBer folds
+MathisKcr folds
+Loonie folds
+shel folds
+Gipsyking94 collected 31230 from pot
+*** SUMMARY ***
+Total pot 31230 | No rake
+Seat 4: Gipsyking94 (button) won 31230
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4172822652349579273-58-1756669457 - Holdem no limit (70/300/600) - 2025/08/31 19:44:17 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #5 is the button
+Seat 1: eligada (27312, 0.45€ bounty)
+Seat 2: Loonie (44262, 0.89€ bounty)
+Seat 3: shel (33176, 0.67€ bounty)
+Seat 4: Gipsyking94 (31230, 0.45€ bounty)
+Seat 5: OmarBer (52981, 0.67€ bounty)
+Seat 6: MathisKcr (61553, 0.89€ bounty)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 70
+eligada posts ante 70
+Loonie posts ante 70
+shel posts ante 70
+Gipsyking94 posts ante 70
+OmarBer posts ante 70
+MathisKcr posts small blind 300
+eligada posts big blind 600
+Dealt to MathisKcr [Kd 9h]
+*** PRE-FLOP *** 
+Loonie folds
+shel folds
+Gipsyking94 folds
+OmarBer raises 1200 to 1800
+MathisKcr raises 1200 to 3000
+eligada calls 2400
+OmarBer calls 1200
+*** FLOP *** [3s Ks 3d]
+MathisKcr bets 4710
+eligada calls 4710
+OmarBer calls 4710
+*** TURN *** [3s Ks 3d][9s]
+MathisKcr bets 11775
+eligada folds
+OmarBer raises 33426 to 45201 and is all-in
+MathisKcr raises 8572 to 53773 and is all-in
+*** RIVER *** [3s Ks 3d 9s][5d]
+*** SHOW DOWN ***
+OmarBer shows [As 7s] (Flush Ace high)
+MathisKcr shows [Kd 9h] (Two pairs : Kings and 9)
+MathisKcr collected 8572 from side pot 1
+OmarBer collected 113952 from main pot
+*** SUMMARY ***
+Total pot 122524 | No rake
+Board: [3s Ks 3d 9s 5d]
+Seat 5: OmarBer (button) showed [As 7s] and won 113952 with Flush Ace high
+Seat 6: MathisKcr (small blind) showed [Kd 9h] and won 8572 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4172822652349579273-59-1756669518 - Holdem no limit (70/300/600) - 2025/08/31 19:45:18 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #6 is the button
+Seat 1: eligada (19532, 0.45€ bounty)
+Seat 2: Loonie (44192, 0.89€ bounty)
+Seat 3: shel (33106, 0.67€ bounty)
+Seat 4: Gipsyking94 (31160, 0.45€ bounty)
+Seat 5: OmarBer (113952, 0.67€ bounty)
+Seat 6: MathisKcr (8572, 0.89€ bounty)
+*** ANTE/BLINDS ***
+eligada posts ante 70
+Loonie posts ante 70
+shel posts ante 70
+Gipsyking94 posts ante 70
+OmarBer posts ante 70
+MathisKcr posts ante 70
+eligada posts small blind 300
+Loonie posts big blind 600
+Dealt to MathisKcr [Jd Js]
+*** PRE-FLOP *** 
+shel folds
+Gipsyking94 folds
+OmarBer folds
+MathisKcr raises 7902 to 8502 and is all-in
+eligada folds
+Loonie folds
+MathisKcr collected 9822 from pot
+*** SUMMARY ***
+Total pot 9822 | No rake
+Seat 6: MathisKcr (button) won 9822
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #4172822652349579273-60-1756669554 - Holdem no limit (70/300/600) - 2025/08/31 19:45:54 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #1 is the button
+Seat 1: eligada (19162, 0.45€ bounty)
+Seat 2: Loonie (43522, 0.89€ bounty)
+Seat 3: shel (33036, 0.67€ bounty)
+Seat 4: Gipsyking94 (31090, 0.45€ bounty)
+Seat 5: OmarBer (113882, 0.67€ bounty)
+Seat 6: MathisKcr (9822, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Loonie posts ante 70
+shel posts ante 70
+eligada posts ante 70
+Gipsyking94 posts ante 70
+OmarBer posts ante 70
+MathisKcr posts ante 70
+Loonie posts small blind 300
+shel posts big blind 600
+Dealt to MathisKcr [7c 2c]
+*** PRE-FLOP *** 
+Gipsyking94 folds
+OmarBer folds
+MathisKcr folds
+eligada calls 600
+Loonie folds
+shel checks
+*** FLOP *** [Qc 3c 9d]
+shel bets 1260
+eligada calls 1260
+*** TURN *** [Qc 3c 9d][Jh]
+shel checks
+eligada bets 600
+shel raises 900 to 1500
+eligada calls 900
+*** RIVER *** [Qc 3c 9d Jh][Kh]
+shel checks
+eligada bets 3720
+shel folds
+eligada collected 11160 from pot
+*** SUMMARY ***
+Total pot 11160 | No rake
+Board: [Qc 3c 9d Jh Kh]
+Seat 1: eligada (button) won 11160
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #4172822652349579273-61-1756669614 - Holdem no limit (80/350/700) - 2025/08/31 19:46:54 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #2 is the button
+Seat 1: eligada (23172, 0.45€ bounty)
+Seat 2: Loonie (43152, 0.89€ bounty)
+Seat 3: shel (29606, 0.67€ bounty)
+Seat 4: Gipsyking94 (31020, 0.45€ bounty)
+Seat 5: OmarBer (113812, 0.67€ bounty)
+Seat 6: MathisKcr (9752, 0.89€ bounty)
+*** ANTE/BLINDS ***
+shel posts ante 80
+Gipsyking94 posts ante 80
+eligada posts ante 80
+Loonie posts ante 80
+OmarBer posts ante 80
+MathisKcr posts ante 80
+shel posts small blind 350
+Gipsyking94 posts big blind 700
+Dealt to MathisKcr [6s 2h]
+*** PRE-FLOP *** 
+OmarBer folds
+MathisKcr folds
+eligada calls 700
+Loonie calls 700
+shel calls 350
+Gipsyking94 raises 700 to 1400
+eligada calls 700
+Loonie calls 700
+shel folds
+*** FLOP *** [2s 7s Qd]
+Gipsyking94 bets 1750
+eligada calls 1750
+Loonie folds
+*** TURN *** [2s 7s Qd][Qs]
+Gipsyking94 bets 3500
+eligada calls 3500
+*** RIVER *** [2s 7s Qd Qs][9s]
+Gipsyking94 bets 5250
+eligada folds
+Gipsyking94 collected 21130 from pot
+*** SUMMARY ***
+Total pot 21130 | No rake
+Board: [2s 7s Qd Qs 9s]
+Seat 4: Gipsyking94 (big blind) won 21130
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #4172822652349579273-62-1756669680 - Holdem no limit (80/350/700) - 2025/08/31 19:48:00 UTC
+Table: 'Kill The Fish(971560984)#008' 6-max (real money) Seat #3 is the button
+Seat 1: eligada (16442, 0.45€ bounty)
+Seat 2: Loonie (41672, 0.89€ bounty)
+Seat 3: shel (28826, 0.67€ bounty)
+Seat 4: Gipsyking94 (40170, 0.45€ bounty)
+Seat 5: OmarBer (113732, 0.67€ bounty)
+Seat 6: MathisKcr (9672, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Gipsyking94 posts ante 80
+OmarBer posts ante 80
+eligada posts ante 80
+Loonie posts ante 80
+shel posts ante 80
+MathisKcr posts ante 80
+Gipsyking94 posts small blind 350
+OmarBer posts big blind 700
+Dealt to MathisKcr [9h As]
+*** PRE-FLOP *** 
+MathisKcr raises 2800 to 3500
+eligada calls 3500
+Loonie folds
+shel calls 3500
+Gipsyking94 folds
+OmarBer folds
+*** FLOP *** [2h 8c 9d]
+MathisKcr bets 6092 and is all-in
+eligada calls 6092
+shel calls 6092
+*** TURN *** [2h 8c 9d][6h]
+eligada checks
+shel checks
+*** RIVER *** [2h 8c 9d 6h][Ks]
+eligada bets 6770 and is all-in
+shel calls 6770
+*** SHOW DOWN ***
+eligada shows [6s 7s] (One pair : 6)
+MathisKcr shows [9h As] (One pair : 9)
+shel shows [Jh Kh] (One pair : Kings)
+shel collected 43846 from pot
+*** SUMMARY ***
+Total pot 43846 | No rake
+Board: [2h 8c 9d 6h Ks]
+Seat 1: eligada showed [6s 7s] and lost with One pair : 6
+Seat 3: shel (button) showed [Jh Kh] and won 43846 with One pair : Kings
+Seat 6: MathisKcr showed [9h As] and lost with One pair : 9
+
+

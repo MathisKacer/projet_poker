@@ -1,0 +1,165 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4653398195345293313-1-1774200732 - Holdem no limit (10/20) - 2026/03/22 17:32:12 UTC
+Table: 'Expresso Nitro(1083453697)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Elasturiano1 (300)
+Seat 2: MathisKcr (300)
+Seat 3: AdlanoEnRmz (300)
+*** ANTE/BLINDS ***
+AdlanoEnRmz posts small blind 10
+Elasturiano1 posts big blind 20
+Dealt to MathisKcr [Kh 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+AdlanoEnRmz raises 240 to 300 and is all-in
+Elasturiano1 folds
+MathisKcr folds
+AdlanoEnRmz collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: AdlanoEnRmz (small blind) won 380
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4653398195345293313-2-1774200748 - Holdem no limit (10/20) - 2026/03/22 17:32:28 UTC
+Table: 'Expresso Nitro(1083453697)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Elasturiano1 (280)
+Seat 2: MathisKcr (240)
+Seat 3: AdlanoEnRmz (380)
+*** ANTE/BLINDS ***
+Elasturiano1 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3d Ad]
+*** PRE-FLOP *** 
+AdlanoEnRmz calls 20
+Elasturiano1 calls 10
+MathisKcr raises 220 to 240 and is all-in
+AdlanoEnRmz calls 220
+Elasturiano1 folds
+*** FLOP *** [Ac 7d 5h]
+*** TURN *** [Ac 7d 5h][Jd]
+*** RIVER *** [Ac 7d 5h Jd][Kd]
+*** SHOW DOWN ***
+AdlanoEnRmz shows [Qh 2h] (High card : Ace)
+MathisKcr shows [3d Ad] (Flush Ace high)
+MathisKcr collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Board: [Ac 7d 5h Jd Kd]
+Seat 2: MathisKcr (big blind) showed [3d Ad] and won 500 with Flush Ace high
+Seat 3: AdlanoEnRmz (button) showed [Qh 2h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4653398195345293313-3-1774200780 - Holdem no limit (10/20) - 2026/03/22 17:33:00 UTC
+Table: 'Expresso Nitro(1083453697)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Elasturiano1 (260)
+Seat 2: MathisKcr (500)
+Seat 3: AdlanoEnRmz (140)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+AdlanoEnRmz posts big blind 20
+Dealt to MathisKcr [2h 4c]
+*** PRE-FLOP *** 
+Elasturiano1 raises 40 to 60
+MathisKcr folds
+AdlanoEnRmz raises 80 to 140 and is all-in
+Elasturiano1 raises 120 to 260 and is all-in
+*** FLOP *** [6c 8s Qh]
+*** TURN *** [6c 8s Qh][Qd]
+*** RIVER *** [6c 8s Qh Qd][8d]
+*** SHOW DOWN ***
+AdlanoEnRmz shows [3d Jd] (Two pairs : Queens and 8)
+Elasturiano1 shows [6h Kh] (Two pairs : Queens and 8)
+Elasturiano1 collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Board: [6c 8s Qh Qd 8d]
+Seat 1: Elasturiano1 (button) showed [6h Kh] and won 410 with Two pairs : Queens and 8
+Seat 3: AdlanoEnRmz (big blind) showed [3d Jd] and lost with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4653398195345293313-4-1774200803 - Holdem no limit (15/30) - 2026/03/22 17:33:23 UTC
+Table: 'Expresso Nitro(1083453697)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Elasturiano1 (410)
+Seat 2: MathisKcr (490)
+*** ANTE/BLINDS ***
+Elasturiano1 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Ts 5c]
+*** PRE-FLOP *** 
+Elasturiano1 raises 380 to 410 and is all-in
+MathisKcr folds
+Elasturiano1 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 1: Elasturiano1 (small blind) (button) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4653398195345293313-5-1774200812 - Holdem no limit (15/30) - 2026/03/22 17:33:32 UTC
+Table: 'Expresso Nitro(1083453697)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Elasturiano1 (440)
+Seat 2: MathisKcr (460)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Elasturiano1 posts big blind 30
+Dealt to MathisKcr [Qd 2h]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Elasturiano1 calls 30
+*** FLOP *** [5h 5c Qc]
+Elasturiano1 checks
+MathisKcr bets 42
+Elasturiano1 folds
+MathisKcr collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [5h 5c Qc]
+Seat 2: MathisKcr (small blind) (button) won 162
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4653398195345293313-6-1774200835 - Holdem no limit (15/30) - 2026/03/22 17:33:55 UTC
+Table: 'Expresso Nitro(1083453697)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Elasturiano1 (380)
+Seat 2: MathisKcr (520)
+*** ANTE/BLINDS ***
+Elasturiano1 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [8h Jh]
+*** PRE-FLOP *** 
+Elasturiano1 calls 15
+MathisKcr checks
+*** FLOP *** [Kd 5s 4d]
+MathisKcr checks
+Elasturiano1 bets 39
+MathisKcr folds
+Elasturiano1 collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [Kd 5s 4d]
+Seat 1: Elasturiano1 (small blind) (button) won 99
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4653398195345293313-7-1774200849 - Holdem no limit (15/30) - 2026/03/22 17:34:09 UTC
+Table: 'Expresso Nitro(1083453697)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Elasturiano1 (410)
+Seat 2: MathisKcr (490)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Elasturiano1 posts big blind 30
+Dealt to MathisKcr [8d 5s]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+Elasturiano1 calls 30
+*** FLOP *** [9d 8h 5h]
+Elasturiano1 bets 350 and is all-in
+MathisKcr calls 350
+*** TURN *** [9d 8h 5h][Jd]
+*** RIVER *** [9d 8h 5h Jd][7s]
+*** SHOW DOWN ***
+Elasturiano1 shows [8c 2c] (One pair : 8)
+MathisKcr shows [8d 5s] (Two pairs : 8 and 5)
+MathisKcr collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [9d 8h 5h Jd 7s]
+Seat 1: Elasturiano1 (big blind) showed [8c 2c] and lost with One pair : 8
+Seat 2: MathisKcr (small blind) (button) showed [8d 5s] and won 820 with Two pairs : 8 and 5
+
+

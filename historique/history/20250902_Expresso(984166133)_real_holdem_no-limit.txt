@@ -1,0 +1,316 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226961355065786369-1-1756808393 - Holdem no limit (10/20) - 2025/09/02 10:19:53 UTC
+Table: 'Expresso(984166133)#0' 3-max (real money) Seat #2 is the button
+Seat 1: titasse2 (500)
+Seat 2: MathisKcr (500)
+Seat 3: gemeaux (500)
+*** ANTE/BLINDS ***
+gemeaux posts small blind 10
+titasse2 posts big blind 20
+Dealt to MathisKcr [Qd 4c]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+gemeaux calls 10
+titasse2 raises 480 to 500 and is all-in
+MathisKcr folds
+gemeaux folds
+titasse2 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 1: titasse2 (big blind) won 540
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226961355065786369-2-1756808406 - Holdem no limit (10/20) - 2025/09/02 10:20:06 UTC
+Table: 'Expresso(984166133)#0' 3-max (real money) Seat #3 is the button
+Seat 1: titasse2 (540)
+Seat 2: MathisKcr (480)
+Seat 3: gemeaux (480)
+*** ANTE/BLINDS ***
+titasse2 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [3c 2d]
+*** PRE-FLOP *** 
+gemeaux calls 20
+titasse2 calls 10
+MathisKcr checks
+*** FLOP *** [5h Td Tc]
+titasse2 checks
+MathisKcr checks
+gemeaux checks
+*** TURN *** [5h Td Tc][6s]
+titasse2 checks
+MathisKcr checks
+gemeaux checks
+*** RIVER *** [5h Td Tc 6s][9h]
+titasse2 checks
+MathisKcr checks
+gemeaux bets 20
+titasse2 calls 20
+MathisKcr folds
+*** SHOW DOWN ***
+titasse2 shows [6c Kd] (Two pairs : Tens and 6)
+gemeaux shows [Ts Kc] (Trips of Tens)
+gemeaux collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [5h Td Tc 6s 9h]
+Seat 1: titasse2 (small blind) showed [6c Kd] and lost with Two pairs : Tens and 6
+Seat 3: gemeaux (button) showed [Ts Kc] and won 100 with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226961355065786369-3-1756808436 - Holdem no limit (10/20) - 2025/09/02 10:20:36 UTC
+Table: 'Expresso(984166133)#0' 3-max (real money) Seat #1 is the button
+Seat 1: titasse2 (500)
+Seat 2: MathisKcr (460)
+Seat 3: gemeaux (540)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+gemeaux posts big blind 20
+Dealt to MathisKcr [Js 8h]
+*** PRE-FLOP *** 
+titasse2 folds
+MathisKcr raises 20 to 40
+gemeaux folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226961355065786369-4-1756808452 - Holdem no limit (10/20) - 2025/09/02 10:20:52 UTC
+Table: 'Expresso(984166133)#0' 3-max (real money) Seat #2 is the button
+Seat 1: titasse2 (500)
+Seat 2: MathisKcr (480)
+Seat 3: gemeaux (520)
+*** ANTE/BLINDS ***
+gemeaux posts small blind 10
+titasse2 posts big blind 20
+Dealt to MathisKcr [Tc As]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+gemeaux folds
+titasse2 calls 40
+*** FLOP *** [4d Qc 7s]
+titasse2 checks
+MathisKcr bets 60
+titasse2 calls 60
+*** TURN *** [4d Qc 7s][3s]
+titasse2 checks
+MathisKcr checks
+*** RIVER *** [4d Qc 7s 3s][Kh]
+titasse2 checks
+MathisKcr checks
+*** SHOW DOWN ***
+MathisKcr shows [Tc As] (High card : Ace)
+titasse2 shows [5d 5h] (One pair : 5)
+titasse2 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Board: [4d Qc 7s 3s Kh]
+Seat 1: titasse2 (big blind) showed [5d 5h] and won 250 with One pair : 5
+Seat 2: MathisKcr (button) showed [Tc As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4226961355065786369-5-1756808476 - Holdem no limit (10/20) - 2025/09/02 10:21:16 UTC
+Table: 'Expresso(984166133)#0' 3-max (real money) Seat #3 is the button
+Seat 1: titasse2 (630)
+Seat 2: MathisKcr (360)
+Seat 3: gemeaux (510)
+*** ANTE/BLINDS ***
+titasse2 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Ac Td]
+*** PRE-FLOP *** 
+gemeaux folds
+titasse2 calls 10
+MathisKcr raises 340 to 360 and is all-in
+titasse2 folds
+MathisKcr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 2: MathisKcr (big blind) won 380
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226961355065786369-6-1756808488 - Holdem no limit (15/30) - 2025/09/02 10:21:28 UTC
+Table: 'Expresso(984166133)#0' 3-max (real money) Seat #1 is the button
+Seat 1: titasse2 (610)
+Seat 2: MathisKcr (380)
+Seat 3: gemeaux (510)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+gemeaux posts big blind 30
+Dealt to MathisKcr [8d 2s]
+*** PRE-FLOP *** 
+titasse2 calls 30
+MathisKcr calls 15
+gemeaux checks
+*** FLOP *** [Qc 7c 6d]
+MathisKcr checks
+gemeaux checks
+titasse2 bets 90
+MathisKcr folds
+gemeaux folds
+titasse2 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Qc 7c 6d]
+Seat 1: titasse2 (button) won 180
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226961355065786369-7-1756808511 - Holdem no limit (15/30) - 2025/09/02 10:21:51 UTC
+Table: 'Expresso(984166133)#0' 3-max (real money) Seat #2 is the button
+Seat 1: titasse2 (670)
+Seat 2: MathisKcr (350)
+Seat 3: gemeaux (480)
+*** ANTE/BLINDS ***
+gemeaux posts small blind 15
+titasse2 posts big blind 30
+Dealt to MathisKcr [8s 2s]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+gemeaux raises 45 to 75
+titasse2 calls 45
+MathisKcr calls 45
+*** FLOP *** [Kh Jc 5d]
+gemeaux bets 146
+titasse2 folds
+MathisKcr folds
+gemeaux collected 371 from pot
+*** SUMMARY ***
+Total pot 371 | No rake
+Board: [Kh Jc 5d]
+Seat 3: gemeaux (small blind) won 371
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226961355065786369-8-1756808527 - Holdem no limit (15/30) - 2025/09/02 10:22:07 UTC
+Table: 'Expresso(984166133)#0' 3-max (real money) Seat #3 is the button
+Seat 1: titasse2 (595)
+Seat 2: MathisKcr (275)
+Seat 3: gemeaux (630)
+*** ANTE/BLINDS ***
+titasse2 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [3h 8d]
+*** PRE-FLOP *** 
+gemeaux calls 30
+titasse2 calls 15
+MathisKcr checks
+*** FLOP *** [Jh 9h 3d]
+titasse2 checks
+MathisKcr checks
+gemeaux bets 90
+titasse2 calls 90
+MathisKcr folds
+*** TURN *** [Jh 9h 3d][7c]
+titasse2 checks
+gemeaux checks
+*** RIVER *** [Jh 9h 3d 7c][5c]
+titasse2 checks
+gemeaux bets 95
+titasse2 calls 95
+*** SHOW DOWN ***
+titasse2 shows [9c Th] (One pair : 9)
+gemeaux shows [5s 5d] (Trips of 5)
+gemeaux collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [Jh 9h 3d 7c 5c]
+Seat 1: titasse2 (small blind) showed [9c Th] and lost with One pair : 9
+Seat 3: gemeaux (button) showed [5s 5d] and won 460 with Trips of 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4226961355065786369-9-1756808559 - Holdem no limit (15/30) - 2025/09/02 10:22:39 UTC
+Table: 'Expresso(984166133)#0' 3-max (real money) Seat #1 is the button
+Seat 1: titasse2 (380)
+Seat 2: MathisKcr (245)
+Seat 3: gemeaux (875)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+gemeaux posts big blind 30
+Dealt to MathisKcr [Jd 6c]
+*** PRE-FLOP *** 
+titasse2 folds
+MathisKcr calls 15
+gemeaux checks
+*** FLOP *** [9s Qd Qc]
+MathisKcr checks
+gemeaux checks
+*** TURN *** [9s Qd Qc][Jh]
+MathisKcr bets 60
+gemeaux calls 60
+*** RIVER *** [9s Qd Qc Jh][8c]
+MathisKcr checks
+gemeaux checks
+*** SHOW DOWN ***
+MathisKcr shows [Jd 6c] (Two pairs : Queens and Jacks)
+gemeaux shows [Js 3c] (Two pairs : Queens and Jacks)
+gemeaux collected 90 from pot
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9s Qd Qc Jh 8c]
+Seat 2: MathisKcr (small blind) showed [Jd 6c] and won 90 with Two pairs : Queens and Jacks
+Seat 3: gemeaux (big blind) showed [Js 3c] and won 90 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4226961355065786369-10-1756808583 - Holdem no limit (20/40) - 2025/09/02 10:23:03 UTC
+Table: 'Expresso(984166133)#0' 3-max (real money) Seat #2 is the button
+Seat 1: titasse2 (380)
+Seat 2: MathisKcr (245)
+Seat 3: gemeaux (875)
+*** ANTE/BLINDS ***
+gemeaux posts small blind 20
+titasse2 posts big blind 40
+Dealt to MathisKcr [6h Jd]
+*** PRE-FLOP *** 
+MathisKcr calls 40
+gemeaux calls 20
+titasse2 checks
+*** FLOP *** [7h 7c As]
+gemeaux checks
+titasse2 checks
+MathisKcr checks
+*** TURN *** [7h 7c As][5d]
+gemeaux bets 42
+titasse2 folds
+MathisKcr calls 42
+*** RIVER *** [7h 7c As 5d][5c]
+gemeaux bets 71
+MathisKcr calls 71
+*** SHOW DOWN ***
+MathisKcr shows [6h Jd] (Two pairs : 7 and 5)
+gemeaux shows [Ad Qc] (Two pairs : Aces and 7)
+gemeaux collected 346 from pot
+*** SUMMARY ***
+Total pot 346 | No rake
+Board: [7h 7c As 5d 5c]
+Seat 2: MathisKcr (button) showed [6h Jd] and lost with Two pairs : 7 and 5
+Seat 3: gemeaux (small blind) showed [Ad Qc] and won 346 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4226961355065786369-11-1756808609 - Holdem no limit (20/40) - 2025/09/02 10:23:29 UTC
+Table: 'Expresso(984166133)#0' 3-max (real money) Seat #3 is the button
+Seat 1: titasse2 (340)
+Seat 2: MathisKcr (92)
+Seat 3: gemeaux (1068)
+*** ANTE/BLINDS ***
+titasse2 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kh 2d]
+*** PRE-FLOP *** 
+gemeaux folds
+titasse2 raises 300 to 340 and is all-in
+MathisKcr calls 52 and is all-in
+*** FLOP *** [3s 9c 8s]
+*** TURN *** [3s 9c 8s][5s]
+*** RIVER *** [3s 9c 8s 5s][7h]
+*** SHOW DOWN ***
+MathisKcr shows [Kh 2d] (High card : King)
+titasse2 shows [Ac As] (One pair : Aces)
+titasse2 collected 432 from pot
+*** SUMMARY ***
+Total pot 432 | No rake
+Board: [3s 9c 8s 5s 7h]
+Seat 1: titasse2 (small blind) showed [Ac As] and won 432 with One pair : Aces
+Seat 2: MathisKcr (big blind) showed [Kh 2d] and lost with High card : King
+
+

@@ -1,0 +1,910 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3906467957680635905-1-1743357610 - Holdem no limit (120/500/1000) - 2025/03/30 18:00:10 UTC
+Table: 'Monster Stack(909545449)#000' 6-max (real money) Seat #6 is the button
+Seat 1: MathisKcr (100000)
+Seat 2: JJamBust (100000)
+Seat 3: ASKARKAPAK (100000)
+Seat 4: James6666666 (100000)
+Seat 5: jfaipipiassi (100000)
+Seat 6: JLTricheMan (100000)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+JJamBust posts ante 120
+ASKARKAPAK posts ante 120
+James6666666 posts ante 120
+jfaipipiassi posts ante 120
+JLTricheMan posts ante 120
+MathisKcr posts small blind 500
+JJamBust posts big blind 1000
+Dealt to MathisKcr [6s 7c]
+*** PRE-FLOP *** 
+ASKARKAPAK folds
+James6666666 folds
+jfaipipiassi folds
+JLTricheMan raises 1500 to 2500
+MathisKcr folds
+JJamBust folds
+JLTricheMan collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 6: JLTricheMan (button) won 4720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3906467957680635905-2-1743357647 - Holdem no limit (120/500/1000) - 2025/03/30 18:00:47 UTC
+Table: 'Monster Stack(909545449)#000' 6-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (99380)
+Seat 2: JJamBust (98880)
+Seat 3: ASKARKAPAK (99880)
+Seat 4: James6666666 (99880)
+Seat 5: jfaipipiassi (99880)
+Seat 6: JLTricheMan (102100)
+*** ANTE/BLINDS ***
+JJamBust posts ante 120
+ASKARKAPAK posts ante 120
+MathisKcr posts ante 120
+James6666666 posts ante 120
+jfaipipiassi posts ante 120
+JLTricheMan posts ante 120
+JJamBust posts small blind 500
+ASKARKAPAK posts big blind 1000
+Dealt to MathisKcr [Kh Jc]
+*** PRE-FLOP *** 
+James6666666 folds
+jfaipipiassi raises 1100 to 2100
+JLTricheMan folds
+MathisKcr calls 2100
+JJamBust folds
+ASKARKAPAK calls 1100
+*** FLOP *** [4c 7s 5s]
+ASKARKAPAK bets 6016
+jfaipipiassi calls 6016
+MathisKcr folds
+*** TURN *** [4c 7s 5s][Jh]
+ASKARKAPAK checks
+jfaipipiassi checks
+*** RIVER *** [4c 7s 5s Jh][3d]
+ASKARKAPAK checks
+jfaipipiassi bets 15000
+ASKARKAPAK folds
+jfaipipiassi collected 34552 from pot
+*** SUMMARY ***
+Total pot 34552 | No rake
+Board: [4c 7s 5s Jh 3d]
+Seat 5: jfaipipiassi won 34552
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3906467957680635905-3-1743357748 - Holdem no limit (120/500/1000) - 2025/03/30 18:02:28 UTC
+Table: 'Monster Stack(909545449)#000' 6-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (97160)
+Seat 2: JJamBust (98260)
+Seat 3: ASKARKAPAK (91644)
+Seat 4: James6666666 (99760)
+Seat 6: JLTricheMan (101980)
+*** ANTE/BLINDS ***
+ASKARKAPAK posts ante 120
+James6666666 posts ante 120
+MathisKcr posts ante 120
+JJamBust posts ante 120
+JLTricheMan posts ante 120
+ASKARKAPAK posts small blind 500
+James6666666 posts big blind 1000
+Dealt to MathisKcr [9d Ts]
+*** PRE-FLOP *** 
+JLTricheMan folds
+MathisKcr calls 1000
+JJamBust raises 3000 to 4000
+ASKARKAPAK folds
+James6666666 folds
+MathisKcr calls 3000
+*** FLOP *** [8s Td 2d]
+MathisKcr bets 5050
+JJamBust folds
+MathisKcr collected 15150 from pot
+*** SUMMARY ***
+Total pot 15150 | No rake
+Board: [8s Td 2d]
+Seat 1: MathisKcr won 15150
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3906467957680635905-4-1743357782 - Holdem no limit (120/500/1000) - 2025/03/30 18:03:02 UTC
+Table: 'Monster Stack(909545449)#000' 6-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (103140)
+Seat 2: JJamBust (94140)
+Seat 3: ASKARKAPAK (91024)
+Seat 4: James6666666 (98640)
+Seat 5: GingerAA (100000)
+Seat 6: JLTricheMan (101860)
+*** ANTE/BLINDS ***
+James6666666 posts ante 120
+GingerAA posts ante 120
+MathisKcr posts ante 120
+JJamBust posts ante 120
+ASKARKAPAK posts ante 120
+JLTricheMan posts ante 120
+James6666666 posts small blind 500
+GingerAA posts big blind 1000
+Dealt to MathisKcr [9d Ad]
+*** PRE-FLOP *** 
+JLTricheMan folds
+MathisKcr raises 2000 to 3000
+JJamBust folds
+ASKARKAPAK folds
+James6666666 folds
+GingerAA raises 7000 to 10000
+MathisKcr calls 7000
+*** FLOP *** [Jd 4c 4h]
+GingerAA bets 7427
+MathisKcr calls 7427
+*** TURN *** [Jd 4c 4h][5s]
+GingerAA bets 23448
+MathisKcr calls 23448
+*** RIVER *** [Jd 4c 4h 5s][9c]
+GingerAA bets 59005 and is all-in
+MathisKcr calls 59005
+*** SHOW DOWN ***
+MathisKcr shows [9d Ad] (Two pairs : 9 and 4)
+GingerAA shows [Ah Ac] (Two pairs : Aces and 4)
+GingerAA collected 200980 from pot
+*** SUMMARY ***
+Total pot 200980 | No rake
+Board: [Jd 4c 4h 5s 9c]
+Seat 1: MathisKcr showed [9d Ad] and lost with Two pairs : 9 and 4
+Seat 5: GingerAA (big blind) showed [Ah Ac] and won 200980 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-1-1743357863 - Holdem no limit (120/500/1000) - 2025/03/30 18:04:23 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #2 is the button
+Seat 1: FISHKEBAB13 (87460)
+Seat 2: MathisKcr (3140)
+Seat 3: Bluff_tannen (94613)
+Seat 5: MadBlackDog (100000)
+*** ANTE/BLINDS ***
+Bluff_tannen posts ante 120
+MadBlackDog posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts small blind 500
+MadBlackDog posts big blind 1000
+Dealt to MathisKcr [3h Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 2020 to 3020 and is all-in
+Bluff_tannen folds
+MadBlackDog folds
+MathisKcr collected 4880 from pot
+*** SUMMARY ***
+Total pot 4880 | No rake
+Seat 2: MathisKcr (button) won 4880
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-2-1743357894 - Holdem no limit (120/500/1000) - 2025/03/30 18:04:54 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #3 is the button
+Seat 1: FISHKEBAB13 (87460)
+Seat 2: MathisKcr (4880)
+Seat 3: Bluff_tannen (93993)
+Seat 4: FuLL-_FOC (100000)
+Seat 5: MadBlackDog (98880)
+Seat 6: Garagnas (100000)
+*** ANTE/BLINDS ***
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+FISHKEBAB13 posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+MadBlackDog posts small blind 500
+Garagnas posts big blind 1000
+Dealt to MathisKcr [2d Ks]
+*** PRE-FLOP *** 
+FISHKEBAB13 folds
+MathisKcr raises 3760 to 4760 and is all-in
+Bluff_tannen folds
+MadBlackDog folds
+Garagnas folds
+MathisKcr collected 6860 from pot
+*** SUMMARY ***
+Total pot 6860 | No rake
+Seat 2: MathisKcr won 6860
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-3-1743357925 - Holdem no limit (120/500/1000) - 2025/03/30 18:05:25 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #5 is the button
+Seat 2: MathisKcr (6860)
+Seat 3: Bluff_tannen (93873)
+Seat 4: FuLL-_FOC (100000)
+Seat 5: MadBlackDog (98260)
+Seat 6: Garagnas (98880)
+*** ANTE/BLINDS ***
+Garagnas posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [6c 9c]
+*** PRE-FLOP *** 
+Bluff_tannen raises 1500 to 2500
+FuLL-_FOC folds
+MadBlackDog raises 5000 to 7500
+Garagnas folds
+MathisKcr calls 5740 and is all-in
+Bluff_tannen calls 5000
+*** FLOP *** [2s 9s 9h]
+Bluff_tannen checks
+MadBlackDog checks
+*** TURN *** [2s 9s 9h][3s]
+Bluff_tannen checks
+MadBlackDog checks
+*** RIVER *** [2s 9s 9h 3s][5c]
+Bluff_tannen checks
+MadBlackDog checks
+*** SHOW DOWN ***
+MadBlackDog shows [Ad Kc] (One pair : 9)
+MathisKcr shows [6c 9c] (Trips of 9)
+Bluff_tannen shows [4d 4h] (Two pairs : 9 and 4)
+Bluff_tannen collected 1520 from side pot 1
+MathisKcr collected 21320 from main pot
+*** SUMMARY ***
+Total pot 22840 | No rake
+Board: [2s 9s 9h 3s 5c]
+Seat 2: MathisKcr (big blind) showed [6c 9c] and won 21320 with Trips of 9
+Seat 3: Bluff_tannen showed [4d 4h] and won 1520 with Two pairs : 9 and 4
+Seat 5: MadBlackDog (button) showed [Ad Kc] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-4-1743358039 - Holdem no limit (120/500/1000) - 2025/03/30 18:07:19 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #6 is the button
+Seat 1: Mac EKETTE (100000)
+Seat 2: MathisKcr (21320)
+Seat 3: Bluff_tannen (87773)
+Seat 4: FuLL-_FOC (99880)
+Seat 5: MadBlackDog (90640)
+Seat 6: Garagnas (98260)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+MathisKcr posts small blind 500
+Bluff_tannen posts big blind 1000
+Dealt to MathisKcr [7d Ts]
+*** PRE-FLOP *** 
+FuLL-_FOC folds
+MadBlackDog folds
+Garagnas folds
+MathisKcr calls 500
+Bluff_tannen checks
+*** FLOP *** [Qc Kd Qs]
+MathisKcr bets 5000
+Bluff_tannen folds
+MathisKcr collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Board: [Qc Kd Qs]
+Seat 2: MathisKcr (small blind) won 7600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-5-1743358083 - Holdem no limit (120/500/1000) - 2025/03/30 18:08:03 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #2 is the button
+Seat 1: Mac EKETTE (100000)
+Seat 2: MathisKcr (22800)
+Seat 3: Bluff_tannen (86653)
+Seat 4: FuLL-_FOC (99760)
+Seat 5: MadBlackDog (90520)
+Seat 6: Garagnas (98140)
+*** ANTE/BLINDS ***
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+Bluff_tannen posts small blind 500
+FuLL-_FOC posts big blind 1000
+Dealt to MathisKcr [5c As]
+*** PRE-FLOP *** 
+MadBlackDog folds
+Garagnas raises 1500 to 2500
+Mac EKETTE folds
+MathisKcr calls 2500
+Bluff_tannen folds
+FuLL-_FOC calls 1500
+*** FLOP *** [6h Ks 7h]
+FuLL-_FOC checks
+Garagnas bets 3052
+MathisKcr folds
+FuLL-_FOC folds
+Garagnas collected 11772 from pot
+*** SUMMARY ***
+Total pot 11772 | No rake
+Board: [6h Ks 7h]
+Seat 6: Garagnas won 11772
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-6-1743358118 - Holdem no limit (120/500/1000) - 2025/03/30 18:08:38 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #3 is the button
+Seat 1: Mac EKETTE (99880)
+Seat 2: MathisKcr (20180)
+Seat 3: Bluff_tannen (86033)
+Seat 4: FuLL-_FOC (97140)
+Seat 5: MadBlackDog (90400)
+Seat 6: Garagnas (104240)
+*** ANTE/BLINDS ***
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+Garagnas posts ante 120
+FuLL-_FOC posts small blind 500
+MadBlackDog posts big blind 1000
+Dealt to MathisKcr [5d 3h]
+*** PRE-FLOP *** 
+Garagnas folds
+Mac EKETTE folds
+MathisKcr folds
+Bluff_tannen folds
+FuLL-_FOC folds
+MadBlackDog collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 5: MadBlackDog (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-7-1743358152 - Holdem no limit (120/500/1000) - 2025/03/30 18:09:12 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #4 is the button
+Seat 1: Mac EKETTE (99760)
+Seat 2: MathisKcr (20060)
+Seat 3: Bluff_tannen (85913)
+Seat 4: FuLL-_FOC (96520)
+Seat 5: MadBlackDog (91500)
+Seat 6: Garagnas (104120)
+*** ANTE/BLINDS ***
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts small blind 500
+Garagnas posts big blind 1000
+Dealt to MathisKcr [Jd Jc]
+*** PRE-FLOP *** 
+Mac EKETTE folds
+MathisKcr raises 18940 to 19940 and is all-in
+Bluff_tannen folds
+FuLL-_FOC folds
+MadBlackDog folds
+Garagnas folds
+MathisKcr collected 22160 from pot
+*** SUMMARY ***
+Total pot 22160 | No rake
+Seat 2: MathisKcr won 22160
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-8-1743358199 - Holdem no limit (120/500/1000) - 2025/03/30 18:09:59 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #5 is the button
+Seat 1: Mac EKETTE (99640)
+Seat 2: MathisKcr (22160)
+Seat 3: Bluff_tannen (85793)
+Seat 4: FuLL-_FOC (96400)
+Seat 5: MadBlackDog (90880)
+Seat 6: Garagnas (103000)
+*** ANTE/BLINDS ***
+Garagnas posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts small blind 500
+Mac EKETTE posts big blind 1000
+Dealt to MathisKcr [4h 7c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Bluff_tannen folds
+FuLL-_FOC folds
+MadBlackDog raises 1500 to 2500
+Garagnas folds
+Mac EKETTE folds
+MadBlackDog collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 5: MadBlackDog (button) won 4720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-9-1743358250 - Holdem no limit (120/500/1000) - 2025/03/30 18:10:50 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #6 is the button
+Seat 1: Mac EKETTE (98520)
+Seat 2: MathisKcr (22040)
+Seat 3: Bluff_tannen (85673)
+Seat 4: FuLL-_FOC (96280)
+Seat 5: MadBlackDog (92980)
+Seat 6: Garagnas (102380)
+*** ANTE/BLINDS ***
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+Mac EKETTE posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [6s Ac]
+*** PRE-FLOP *** 
+Bluff_tannen folds
+FuLL-_FOC folds
+MadBlackDog folds
+Garagnas folds
+Mac EKETTE calls 500
+MathisKcr raises 20920 to 21920 and is all-in
+Mac EKETTE folds
+MathisKcr collected 23640 from pot
+*** SUMMARY ***
+Total pot 23640 | No rake
+Seat 2: MathisKcr (big blind) won 23640
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-10-1743358295 - Holdem no limit (120/500/1000) - 2025/03/30 18:11:35 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #1 is the button
+Seat 1: Mac EKETTE (97400)
+Seat 2: MathisKcr (23640)
+Seat 3: Bluff_tannen (85553)
+Seat 4: FuLL-_FOC (96160)
+Seat 5: MadBlackDog (92860)
+Seat 6: Garagnas (102260)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+Mac EKETTE posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+MathisKcr posts small blind 500
+Bluff_tannen posts big blind 1000
+Dealt to MathisKcr [4d Ks]
+*** PRE-FLOP *** 
+FuLL-_FOC folds
+MadBlackDog folds
+Garagnas raises 1500 to 2500
+Mac EKETTE folds
+MathisKcr calls 2000
+Bluff_tannen folds
+*** FLOP *** [3h Th 8d]
+MathisKcr checks
+Garagnas checks
+*** TURN *** [3h Th 8d][Tc]
+MathisKcr checks
+Garagnas bets 99640 and is all-in
+MathisKcr folds
+Garagnas collected 106360 from pot
+*** SUMMARY ***
+Total pot 106360 | No rake
+Board: [3h Th 8d Tc]
+Seat 6: Garagnas won 106360
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-11-1743358329 - Holdem no limit (120/500/1000) - 2025/03/30 18:12:09 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #2 is the button
+Seat 1: Mac EKETTE (97280)
+Seat 2: MathisKcr (21020)
+Seat 3: Bluff_tannen (84433)
+Seat 4: FuLL-_FOC (96040)
+Seat 5: MadBlackDog (92740)
+Seat 6: Garagnas (106360)
+*** ANTE/BLINDS ***
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+Bluff_tannen posts small blind 500
+FuLL-_FOC posts big blind 1000
+Dealt to MathisKcr [Qs Jd]
+*** PRE-FLOP *** 
+MadBlackDog folds
+Garagnas raises 1500 to 2500
+Mac EKETTE folds
+MathisKcr raises 18400 to 20900 and is all-in
+Bluff_tannen folds
+FuLL-_FOC folds
+Garagnas folds
+MathisKcr collected 25620 from pot
+*** SUMMARY ***
+Total pot 25620 | No rake
+Seat 2: MathisKcr (button) won 25620
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-12-1743358367 - Holdem no limit (120/500/1000) - 2025/03/30 18:12:47 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #3 is the button
+Seat 1: Mac EKETTE (97160)
+Seat 2: MathisKcr (25620)
+Seat 3: Bluff_tannen (83813)
+Seat 4: FuLL-_FOC (94920)
+Seat 5: MadBlackDog (92620)
+Seat 6: Garagnas (103740)
+*** ANTE/BLINDS ***
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+Garagnas posts ante 120
+FuLL-_FOC posts small blind 500
+MadBlackDog posts big blind 1000
+Dealt to MathisKcr [2s 8s]
+*** PRE-FLOP *** 
+Garagnas raises 1500 to 2500
+Mac EKETTE folds
+MathisKcr folds
+Bluff_tannen calls 2500
+FuLL-_FOC folds
+MadBlackDog folds
+*** FLOP *** [7c Ts 5s]
+Garagnas bets 2527
+Bluff_tannen calls 2527
+*** TURN *** [7c Ts 5s][Tc]
+Garagnas checks
+Bluff_tannen checks
+*** RIVER *** [7c Ts 5s Tc][Ad]
+Garagnas bets 7978
+Bluff_tannen calls 7978
+*** SHOW DOWN ***
+Bluff_tannen shows [As 9s] (Two pairs : Aces and Tens)
+Garagnas shows [Ac Jh] (Two pairs : Aces and Tens)
+Garagnas collected 28230 from pot
+*** SUMMARY ***
+Total pot 28230 | No rake
+Board: [7c Ts 5s Tc Ad]
+Seat 3: Bluff_tannen (button) showed [As 9s] and lost with Two pairs : Aces and Tens
+Seat 6: Garagnas showed [Ac Jh] and won 28230 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-13-1743358425 - Holdem no limit (120/500/1000) - 2025/03/30 18:13:45 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #4 is the button
+Seat 1: Mac EKETTE (97040)
+Seat 2: MathisKcr (25500)
+Seat 3: Bluff_tannen (70688)
+Seat 4: FuLL-_FOC (94300)
+Seat 5: MadBlackDog (91500)
+Seat 6: Garagnas (118845)
+*** ANTE/BLINDS ***
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts small blind 500
+Garagnas posts big blind 1000
+Dealt to MathisKcr [5c Qc]
+*** PRE-FLOP *** 
+Mac EKETTE folds
+MathisKcr calls 1000
+Bluff_tannen folds
+FuLL-_FOC folds
+MadBlackDog folds
+Garagnas checks
+*** FLOP *** [Ah 5h 6s]
+Garagnas checks
+MathisKcr checks
+*** TURN *** [Ah 5h 6s][9s]
+Garagnas bets 1127
+MathisKcr calls 1127
+*** RIVER *** [Ah 5h 6s 9s][Td]
+Garagnas bets 1916
+MathisKcr calls 1916
+*** SHOW DOWN ***
+MathisKcr shows [5c Qc] (One pair : 5)
+Garagnas shows [3s 9h] (One pair : 9)
+Garagnas collected 9306 from pot
+*** SUMMARY ***
+Total pot 9306 | No rake
+Board: [Ah 5h 6s 9s Td]
+Seat 2: MathisKcr showed [5c Qc] and lost with One pair : 5
+Seat 6: Garagnas (big blind) showed [3s 9h] and won 9306 with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-14-1743358462 - Holdem no limit (120/500/1000) - 2025/03/30 18:14:22 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #5 is the button
+Seat 1: Mac EKETTE (96920)
+Seat 2: MathisKcr (21337)
+Seat 3: Bluff_tannen (70568)
+Seat 4: FuLL-_FOC (94180)
+Seat 5: MadBlackDog (90880)
+Seat 6: Garagnas (123988)
+*** ANTE/BLINDS ***
+Garagnas posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts small blind 500
+Mac EKETTE posts big blind 1000
+Dealt to MathisKcr [Kh 5s]
+*** PRE-FLOP *** 
+MathisKcr calls 1000
+Bluff_tannen folds
+FuLL-_FOC folds
+MadBlackDog folds
+Garagnas folds
+Mac EKETTE checks
+*** FLOP *** [2s 9c Ac]
+Mac EKETTE checks
+MathisKcr checks
+*** TURN *** [2s 9c Ac][Qd]
+Mac EKETTE checks
+MathisKcr checks
+*** RIVER *** [2s 9c Ac Qd][9h]
+Mac EKETTE checks
+MathisKcr checks
+*** SHOW DOWN ***
+Mac EKETTE shows [4s Th] (One pair : 9)
+MathisKcr shows [Kh 5s] (One pair : 9)
+MathisKcr collected 3220 from pot
+*** SUMMARY ***
+Total pot 3220 | No rake
+Board: [2s 9c Ac Qd 9h]
+Seat 1: Mac EKETTE (big blind) showed [4s Th] and lost with One pair : 9
+Seat 2: MathisKcr showed [Kh 5s] and won 3220 with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-15-1743358502 - Holdem no limit (120/500/1000) - 2025/03/30 18:15:02 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #6 is the button
+Seat 1: Mac EKETTE (95800)
+Seat 2: MathisKcr (23437)
+Seat 3: Bluff_tannen (70448)
+Seat 4: FuLL-_FOC (94060)
+Seat 5: MadBlackDog (90760)
+Seat 6: Garagnas (123368)
+*** ANTE/BLINDS ***
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+Mac EKETTE posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [Td 4c]
+*** PRE-FLOP *** 
+Bluff_tannen folds
+FuLL-_FOC folds
+MadBlackDog folds
+Garagnas calls 1000
+Mac EKETTE folds
+MathisKcr checks
+*** FLOP *** [2c Qc Kd]
+MathisKcr checks
+Garagnas bets 2093
+MathisKcr folds
+Garagnas collected 5313 from pot
+*** SUMMARY ***
+Total pot 5313 | No rake
+Board: [2c Qc Kd]
+Seat 6: Garagnas (button) won 5313
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-16-1743358540 - Holdem no limit (120/500/1000) - 2025/03/30 18:15:40 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #1 is the button
+Seat 1: Mac EKETTE (95180)
+Seat 2: MathisKcr (22317)
+Seat 3: Bluff_tannen (70328)
+Seat 4: FuLL-_FOC (93940)
+Seat 5: MadBlackDog (90640)
+Seat 6: Garagnas (125468)
+*** ANTE/BLINDS ***
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+Mac EKETTE posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+MathisKcr posts small blind 500
+Bluff_tannen posts big blind 1000
+Dealt to MathisKcr [7d Jh]
+*** PRE-FLOP *** 
+FuLL-_FOC folds
+MadBlackDog folds
+Garagnas folds
+Mac EKETTE calls 1000
+MathisKcr calls 500
+Bluff_tannen checks
+*** FLOP *** [Qd 8s Ts]
+MathisKcr bets 3000
+Bluff_tannen folds
+Mac EKETTE calls 3000
+*** TURN *** [Qd 8s Ts][3c]
+MathisKcr checks
+Mac EKETTE bets 3402
+MathisKcr calls 3402
+*** RIVER *** [Qd 8s Ts 3c][5s]
+MathisKcr checks
+Mac EKETTE checks
+*** SHOW DOWN ***
+MathisKcr shows [7d Jh] (High card : Queen)
+Mac EKETTE shows [Kh Th] (One pair : Tens)
+Mac EKETTE collected 16524 from pot
+*** SUMMARY ***
+Total pot 16524 | No rake
+Board: [Qd 8s Ts 3c 5s]
+Seat 1: Mac EKETTE (button) showed [Kh Th] and won 16524 with One pair : Tens
+Seat 2: MathisKcr (small blind) showed [7d Jh] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-17-1743358595 - Holdem no limit (120/500/1000) - 2025/03/30 18:16:35 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #2 is the button
+Seat 1: Mac EKETTE (104182)
+Seat 2: MathisKcr (14795)
+Seat 3: Bluff_tannen (69208)
+Seat 4: FuLL-_FOC (93820)
+Seat 5: MadBlackDog (90520)
+Seat 6: Garagnas (125348)
+*** ANTE/BLINDS ***
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+Bluff_tannen posts small blind 500
+FuLL-_FOC posts big blind 1000
+Dealt to MathisKcr [Qs Tc]
+*** PRE-FLOP *** 
+MadBlackDog folds
+Garagnas folds
+Mac EKETTE folds
+MathisKcr raises 13675 to 14675 and is all-in
+Bluff_tannen folds
+FuLL-_FOC folds
+MathisKcr collected 16895 from pot
+*** SUMMARY ***
+Total pot 16895 | No rake
+Seat 2: MathisKcr (button) won 16895
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-18-1743358629 - Holdem no limit (120/500/1000) - 2025/03/30 18:17:09 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #3 is the button
+Seat 1: Mac EKETTE (104062)
+Seat 2: MathisKcr (16895)
+Seat 3: Bluff_tannen (68588)
+Seat 4: FuLL-_FOC (92700)
+Seat 5: MadBlackDog (90400)
+Seat 6: Garagnas (125228)
+*** ANTE/BLINDS ***
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+Garagnas posts ante 120
+FuLL-_FOC posts small blind 500
+MadBlackDog posts big blind 1000
+Dealt to MathisKcr [Qh Kc]
+*** PRE-FLOP *** 
+Garagnas folds
+Mac EKETTE folds
+MathisKcr raises 2000 to 3000
+Bluff_tannen folds
+FuLL-_FOC folds
+MadBlackDog folds
+MathisKcr collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Seat 2: MathisKcr won 5220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-19-1743358711 - Holdem no limit (120/500/1000) - 2025/03/30 18:18:31 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #4 is the button
+Seat 1: Mac EKETTE (103942)
+Seat 2: MathisKcr (18995)
+Seat 3: Bluff_tannen (68468)
+Seat 4: FuLL-_FOC (92080)
+Seat 5: MadBlackDog (89280)
+Seat 6: Garagnas (125108)
+*** ANTE/BLINDS ***
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts small blind 500
+Garagnas posts big blind 1000
+Dealt to MathisKcr [3h As]
+*** PRE-FLOP *** 
+Mac EKETTE folds
+MathisKcr calls 1000
+Bluff_tannen folds
+FuLL-_FOC folds
+MadBlackDog calls 500
+Garagnas checks
+*** FLOP *** [Jh Ad Js]
+MadBlackDog checks
+Garagnas bets 1302
+MathisKcr raises 16573 to 17875 and is all-in
+MadBlackDog folds
+Garagnas folds
+MathisKcr collected 22897 from pot
+*** SUMMARY ***
+Total pot 22897 | No rake
+Board: [Jh Ad Js]
+Seat 2: MathisKcr won 22897
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-20-1743358773 - Holdem no limit (120/500/1000) - 2025/03/30 18:19:33 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #5 is the button
+Seat 1: Mac EKETTE (103822)
+Seat 2: MathisKcr (22897)
+Seat 3: Bluff_tannen (68348)
+Seat 4: FuLL-_FOC (91960)
+Seat 5: MadBlackDog (88160)
+Seat 6: Garagnas (122686)
+*** ANTE/BLINDS ***
+Garagnas posts ante 120
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts small blind 500
+Mac EKETTE posts big blind 1000
+Dealt to MathisKcr [Kc 7d]
+*** PRE-FLOP *** 
+MathisKcr calls 1000
+Bluff_tannen raises 2500 to 3500
+FuLL-_FOC folds
+MadBlackDog folds
+Garagnas folds
+Mac EKETTE folds
+MathisKcr calls 2500
+*** FLOP *** [3s 7s 8s]
+MathisKcr bets 19277 and is all-in
+Bluff_tannen folds
+MathisKcr collected 28497 from pot
+*** SUMMARY ***
+Total pot 28497 | No rake
+Board: [3s 7s 8s]
+Seat 2: MathisKcr won 28497
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: -1114605759 - HandId: #3906467957680635920-21-1743358873 - Holdem no limit (120/500/1000) - 2025/03/30 18:21:13 UTC
+Table: 'Monster Stack(909545449)#015' 6-max (real money) Seat #6 is the button
+Seat 1: Mac EKETTE (102702)
+Seat 2: MathisKcr (28497)
+Seat 3: Bluff_tannen (64728)
+Seat 4: FuLL-_FOC (91840)
+Seat 5: MadBlackDog (88040)
+Seat 6: Garagnas (122066)
+*** ANTE/BLINDS ***
+Mac EKETTE posts ante 120
+MathisKcr posts ante 120
+Bluff_tannen posts ante 120
+FuLL-_FOC posts ante 120
+MadBlackDog posts ante 120
+Garagnas posts ante 120
+Mac EKETTE posts small blind 500
+MathisKcr posts big blind 1000
+Dealt to MathisKcr [5c Tc]
+*** PRE-FLOP *** 
+Bluff_tannen folds
+FuLL-_FOC folds
+MadBlackDog folds
+Garagnas calls 1000
+Mac EKETTE raises 101582 to 102582 and is all-in
+MathisKcr calls 27377 and is all-in
+Garagnas folds
+*** FLOP *** [As 4c 6c]
+*** TURN *** [As 4c 6c][Jh]
+*** RIVER *** [As 4c 6c Jh][Qh]
+*** SHOW DOWN ***
+MathisKcr shows [5c Tc] (High card : Ace)
+Mac EKETTE shows [Kd Ac] (One pair : Aces)
+Mac EKETTE collected 132679 from pot
+*** SUMMARY ***
+Total pot 132679 | No rake
+Board: [As 4c 6c Jh Qh]
+Seat 1: Mac EKETTE (small blind) showed [Kd Ac] and won 132679 with One pair : Aces
+Seat 2: MathisKcr (big blind) showed [5c Tc] and lost with High card : Ace
+
+

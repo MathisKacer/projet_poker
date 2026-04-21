@@ -1,0 +1,110 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666716601167380481-1-1774719638 - Holdem no limit (10/20) - 2026/03/28 17:40:38 UTC
+Table: 'Expresso Nitro(1086554630)#0' 3-max (real money) Seat #2 is the button
+Seat 1: WILOST (300)
+Seat 2: Babouu066 (300)
+Seat 3: MathisKcr (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+WILOST posts big blind 20
+Dealt to MathisKcr [5d Qd]
+*** PRE-FLOP *** 
+Babouu066 folds
+MathisKcr raises 280 to 300 and is all-in
+WILOST folds
+MathisKcr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 3: MathisKcr (small blind) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666716601167380481-2-1774719646 - Holdem no limit (10/20) - 2026/03/28 17:40:46 UTC
+Table: 'Expresso Nitro(1086554630)#0' 3-max (real money) Seat #3 is the button
+Seat 1: WILOST (280)
+Seat 2: Babouu066 (300)
+Seat 3: MathisKcr (320)
+*** ANTE/BLINDS ***
+WILOST posts small blind 10
+Babouu066 posts big blind 20
+Dealt to MathisKcr [Qc 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+WILOST calls 30
+Babouu066 calls 20
+*** FLOP *** [6d 5h 9d]
+WILOST checks
+Babouu066 checks
+MathisKcr bets 42
+WILOST calls 42
+Babouu066 calls 42
+*** TURN *** [6d 5h 9d][6h]
+WILOST checks
+Babouu066 checks
+MathisKcr bets 123
+WILOST calls 123
+Babouu066 raises 95 to 218 and is all-in
+MathisKcr calls 95
+WILOST calls 75 and is all-in
+*** RIVER *** [6d 5h 9d 6h][7h]
+*** SHOW DOWN ***
+WILOST shows [9h 8d] (Straight 9 high)
+MathisKcr shows [Qc 9s] (Two pairs : 9 and 6)
+Babouu066 shows [5s 6c] (Full of 6 and 5)
+Babouu066 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [6d 5h 9d 6h 7h]
+Seat 1: WILOST (small blind) showed [9h 8d] and lost with Straight 9 high
+Seat 2: Babouu066 (big blind) showed [5s 6c] and won 880 with Full of 6 and 5
+Seat 3: MathisKcr (button) showed [Qc 9s] and lost with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666716601167380481-3-1774719702 - Holdem no limit (15/30) - 2026/03/28 17:41:42 UTC
+Table: 'Expresso Nitro(1086554630)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Babouu066 (880)
+Seat 3: MathisKcr (20)
+*** ANTE/BLINDS ***
+Babouu066 posts small blind 15
+MathisKcr posts big blind 20 and is all-in
+Dealt to MathisKcr [9c 2h]
+*** PRE-FLOP *** 
+Babouu066 calls 15
+*** FLOP *** [6s Ac 4s]
+*** TURN *** [6s Ac 4s][9h]
+*** RIVER *** [6s Ac 4s 9h][5s]
+*** SHOW DOWN ***
+Babouu066 shows [7h 7d] (One pair : 7)
+MathisKcr shows [9c 2h] (One pair : 9)
+MathisKcr collected 40 from main pot
+Babouu066 collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 50 | No rake
+Board: [6s Ac 4s 9h 5s]
+Seat 2: Babouu066 (small blind) (button) showed [7h 7d] and won 10 with One pair : 7
+Seat 3: MathisKcr (big blind) showed [9c 2h] and won 40 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666716601167380481-4-1774719712 - Holdem no limit (15/30) - 2026/03/28 17:41:52 UTC
+Table: 'Expresso Nitro(1086554630)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Babouu066 (860)
+Seat 3: MathisKcr (40)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Babouu066 posts big blind 30
+Dealt to MathisKcr [7h Qs]
+*** PRE-FLOP *** 
+MathisKcr raises 10 to 40 and is all-in
+Babouu066 calls 10
+*** FLOP *** [Th 3s 9c]
+*** TURN *** [Th 3s 9c][Qc]
+*** RIVER *** [Th 3s 9c Qc][3h]
+*** SHOW DOWN ***
+MathisKcr shows [7h Qs] (Two pairs : Queens and 3)
+Babouu066 shows [Js Kh] (Straight King high)
+Babouu066 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Th 3s 9c Qc 3h]
+Seat 2: Babouu066 (big blind) showed [Js Kh] and won 80 with Straight King high
+Seat 3: MathisKcr (small blind) (button) showed [7h Qs] and lost with Two pairs : Queens and 3
+
+

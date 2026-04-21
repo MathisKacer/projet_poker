@@ -1,0 +1,84 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4653419988009353217-1-1774201329 - Holdem no limit (10/20) - 2026/03/22 17:42:09 UTC
+Table: 'Expresso Nitro(1083458771)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Wina8 (300)
+Seat 3: JM-Ghost6721 (300)
+*** ANTE/BLINDS ***
+JM-Ghost6721 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2d 5c]
+*** PRE-FLOP *** 
+Wina8 calls 20
+JM-Ghost6721 calls 10
+MathisKcr checks
+*** FLOP *** [7c Ks 9h]
+JM-Ghost6721 bets 20
+MathisKcr folds
+Wina8 folds
+JM-Ghost6721 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [7c Ks 9h]
+Seat 3: JM-Ghost6721 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4653419988009353217-2-1774201350 - Holdem no limit (10/20) - 2026/03/22 17:42:30 UTC
+Table: 'Expresso Nitro(1083458771)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Wina8 (280)
+Seat 3: JM-Ghost6721 (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Wina8 posts big blind 20
+Dealt to MathisKcr [Qc 3h]
+*** PRE-FLOP *** 
+JM-Ghost6721 folds
+MathisKcr calls 10
+Wina8 checks
+*** FLOP *** [Jh 5d 7c]
+MathisKcr checks
+Wina8 checks
+*** TURN *** [Jh 5d 7c][4c]
+MathisKcr checks
+Wina8 checks
+*** RIVER *** [Jh 5d 7c 4c][Ad]
+MathisKcr checks
+Wina8 checks
+*** SHOW DOWN ***
+Wina8 shows [3d 9c] (High card : Ace)
+MathisKcr shows [Qc 3h] (High card : Ace)
+MathisKcr collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | No rake
+Board: [Jh 5d 7c 4c Ad]
+Seat 1: MathisKcr (small blind) showed [Qc 3h] and won 40 with High card : Ace
+Seat 2: Wina8 (big blind) showed [3d 9c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4653419988009353217-3-1774201385 - Holdem no limit (10/20) - 2026/03/22 17:43:05 UTC
+Table: 'Expresso Nitro(1083458771)#0' 3-max (real money) Seat #1 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Wina8 (260)
+Seat 3: JM-Ghost6721 (340)
+*** ANTE/BLINDS ***
+Wina8 posts small blind 10
+JM-Ghost6721 posts big blind 20
+Dealt to MathisKcr [5d Kh]
+*** PRE-FLOP *** 
+MathisKcr raises 280 to 300 and is all-in
+Wina8 folds
+JM-Ghost6721 calls 280
+*** FLOP *** [Jd 7d Qh]
+*** TURN *** [Jd 7d Qh][9h]
+*** RIVER *** [Jd 7d Qh 9h][Ad]
+*** SHOW DOWN ***
+MathisKcr shows [5d Kh] (High card : Ace)
+JM-Ghost6721 shows [6c As] (One pair : Aces)
+JM-Ghost6721 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [Jd 7d Qh 9h Ad]
+Seat 1: MathisKcr (button) showed [5d Kh] and lost with High card : Ace
+Seat 3: JM-Ghost6721 (big blind) showed [6c As] and won 610 with One pair : Aces
+
+

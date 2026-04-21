@@ -1,0 +1,373 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345483661953466369-1-1761916426 - Holdem no limit (10/20) - 2025/10/31 13:13:46 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #1 is the button
+Seat 1: REMONT4D4 (500)
+Seat 2: MathisKcr (500)
+Seat 3: dadawah (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+dadawah posts big blind 20
+Dealt to MathisKcr [Ts 4d]
+*** PRE-FLOP *** 
+REMONT4D4 folds
+MathisKcr raises 20 to 40
+dadawah folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: MathisKcr (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345483661953466369-2-1761916440 - Holdem no limit (10/20) - 2025/10/31 13:14:00 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #2 is the button
+Seat 1: REMONT4D4 (500)
+Seat 2: MathisKcr (520)
+Seat 3: dadawah (480)
+*** ANTE/BLINDS ***
+dadawah posts small blind 10
+REMONT4D4 posts big blind 20
+Dealt to MathisKcr [8d As]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+dadawah raises 440 to 480 and is all-in
+REMONT4D4 folds
+MathisKcr calls 440
+*** FLOP *** [8h Ad Tc]
+*** TURN *** [8h Ad Tc][4d]
+*** RIVER *** [8h Ad Tc 4d][3c]
+*** SHOW DOWN ***
+dadawah shows [6s Js] (High card : Ace)
+MathisKcr shows [8d As] (Two pairs : Aces and 8)
+MathisKcr collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [8h Ad Tc 4d 3c]
+Seat 2: MathisKcr (button) showed [8d As] and won 980 with Two pairs : Aces and 8
+Seat 3: dadawah (small blind) showed [6s Js] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345483661953466369-3-1761916460 - Holdem no limit (10/20) - 2025/10/31 13:14:20 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #1 is the button
+Seat 1: REMONT4D4 (480)
+Seat 2: MathisKcr (1020)
+*** ANTE/BLINDS ***
+REMONT4D4 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Td 6d]
+*** PRE-FLOP *** 
+REMONT4D4 calls 10
+MathisKcr raises 20 to 40
+REMONT4D4 calls 20
+*** FLOP *** [Kh 7d 9d]
+MathisKcr bets 52
+REMONT4D4 folds
+MathisKcr collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [Kh 7d 9d]
+Seat 2: MathisKcr (big blind) won 132
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345483661953466369-4-1761916486 - Holdem no limit (10/20) - 2025/10/31 13:14:46 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #2 is the button
+Seat 1: REMONT4D4 (440)
+Seat 2: MathisKcr (1060)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+REMONT4D4 posts big blind 20
+Dealt to MathisKcr [4c 9h]
+*** PRE-FLOP *** 
+MathisKcr calls 10
+REMONT4D4 raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [Ah 3c 3s]
+REMONT4D4 bets 28
+MathisKcr folds
+REMONT4D4 collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | No rake
+Board: [Ah 3c 3s]
+Seat 1: REMONT4D4 (big blind) won 108
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4345483661953466369-5-1761916503 - Holdem no limit (10/20) - 2025/10/31 13:15:03 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #1 is the button
+Seat 1: REMONT4D4 (480)
+Seat 2: MathisKcr (1020)
+*** ANTE/BLINDS ***
+REMONT4D4 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Qs 5h]
+*** PRE-FLOP *** 
+REMONT4D4 raises 20 to 40
+MathisKcr calls 20
+*** FLOP *** [8d Tc 4c]
+MathisKcr checks
+REMONT4D4 bets 28
+MathisKcr calls 28
+*** TURN *** [8d Tc 4c][4h]
+MathisKcr checks
+REMONT4D4 checks
+*** RIVER *** [8d Tc 4c 4h][9h]
+MathisKcr checks
+REMONT4D4 bets 88
+MathisKcr folds
+REMONT4D4 collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | No rake
+Board: [8d Tc 4c 4h 9h]
+Seat 1: REMONT4D4 (small blind) (button) won 224
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4345483661953466369-6-1761916527 - Holdem no limit (15/30) - 2025/10/31 13:15:27 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #2 is the button
+Seat 1: REMONT4D4 (548)
+Seat 2: MathisKcr (952)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+REMONT4D4 posts big blind 30
+Dealt to MathisKcr [6c 6d]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 90
+REMONT4D4 calls 60
+*** FLOP *** [9c Ks Kh]
+REMONT4D4 checks
+MathisKcr bets 862 and is all-in
+REMONT4D4 calls 458 and is all-in
+*** TURN *** [9c Ks Kh][Kc]
+*** RIVER *** [9c Ks Kh Kc][5d]
+*** SHOW DOWN ***
+REMONT4D4 shows [4c Kd] (Quads of Kings)
+MathisKcr shows [6c 6d] (Full of Kings and 6)
+MathisKcr collected 404 from side pot 1
+REMONT4D4 collected 1096 from main pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [9c Ks Kh Kc 5d]
+Seat 1: REMONT4D4 (big blind) showed [4c Kd] and won 1096 with Quads of Kings
+Seat 2: MathisKcr (small blind) (button) showed [6c 6d] and won 404 with Full of Kings and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4345483661953466369-7-1761916546 - Holdem no limit (15/30) - 2025/10/31 13:15:46 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #1 is the button
+Seat 1: REMONT4D4 (1096)
+Seat 2: MathisKcr (404)
+*** ANTE/BLINDS ***
+REMONT4D4 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [6h Ac]
+*** PRE-FLOP *** 
+REMONT4D4 calls 15
+MathisKcr raises 60 to 90
+REMONT4D4 calls 60
+*** FLOP *** [Kd 5h 7s]
+MathisKcr bets 314 and is all-in
+REMONT4D4 folds
+MathisKcr collected 494 from pot
+*** SUMMARY ***
+Total pot 494 | No rake
+Board: [Kd 5h 7s]
+Seat 2: MathisKcr (big blind) won 494
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4345483661953466369-8-1761916566 - Holdem no limit (15/30) - 2025/10/31 13:16:06 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #2 is the button
+Seat 1: REMONT4D4 (1006)
+Seat 2: MathisKcr (494)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+REMONT4D4 posts big blind 30
+Dealt to MathisKcr [Jd 9s]
+*** PRE-FLOP *** 
+MathisKcr raises 30 to 60
+REMONT4D4 calls 30
+*** FLOP *** [9h 2s Jh]
+REMONT4D4 checks
+MathisKcr bets 90
+REMONT4D4 calls 90
+*** TURN *** [9h 2s Jh][Kd]
+REMONT4D4 checks
+MathisKcr bets 150
+REMONT4D4 folds
+MathisKcr collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [9h 2s Jh Kd]
+Seat 2: MathisKcr (small blind) (button) won 450
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4345483661953466369-9-1761916594 - Holdem no limit (15/30) - 2025/10/31 13:16:34 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #1 is the button
+Seat 1: REMONT4D4 (856)
+Seat 2: MathisKcr (644)
+*** ANTE/BLINDS ***
+REMONT4D4 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7c Kc]
+*** PRE-FLOP *** 
+REMONT4D4 raises 30 to 60
+MathisKcr calls 30
+*** FLOP *** [Th 6d Td]
+MathisKcr checks
+REMONT4D4 bets 30
+MathisKcr calls 30
+*** TURN *** [Th 6d Td][3c]
+MathisKcr checks
+REMONT4D4 bets 30
+MathisKcr calls 30
+*** RIVER *** [Th 6d Td 3c][2s]
+MathisKcr checks
+REMONT4D4 bets 240
+MathisKcr folds
+REMONT4D4 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Th 6d Td 3c 2s]
+Seat 1: REMONT4D4 (small blind) (button) won 480
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4345483661953466369-10-1761916621 - Holdem no limit (20/40) - 2025/10/31 13:17:01 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #2 is the button
+Seat 1: REMONT4D4 (976)
+Seat 2: MathisKcr (524)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+REMONT4D4 posts big blind 40
+Dealt to MathisKcr [8s 6s]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 80
+REMONT4D4 calls 40
+*** FLOP *** [Kd 5s 2c]
+REMONT4D4 checks
+MathisKcr bets 104
+REMONT4D4 folds
+MathisKcr collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | No rake
+Board: [Kd 5s 2c]
+Seat 2: MathisKcr (small blind) (button) won 264
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4345483661953466369-11-1761916643 - Holdem no limit (20/40) - 2025/10/31 13:17:23 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #1 is the button
+Seat 1: REMONT4D4 (896)
+Seat 2: MathisKcr (604)
+*** ANTE/BLINDS ***
+REMONT4D4 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [7c Kd]
+*** PRE-FLOP *** 
+REMONT4D4 raises 60 to 100
+MathisKcr folds
+REMONT4D4 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: REMONT4D4 (small blind) (button) won 140
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4345483661953466369-12-1761916650 - Holdem no limit (20/40) - 2025/10/31 13:17:30 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #2 is the button
+Seat 1: REMONT4D4 (936)
+Seat 2: MathisKcr (564)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+REMONT4D4 posts big blind 40
+Dealt to MathisKcr [2s 5c]
+*** PRE-FLOP *** 
+MathisKcr folds
+REMONT4D4 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: REMONT4D4 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4345483661953466369-13-1761916655 - Holdem no limit (20/40) - 2025/10/31 13:17:35 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #1 is the button
+Seat 1: REMONT4D4 (956)
+Seat 2: MathisKcr (544)
+*** ANTE/BLINDS ***
+REMONT4D4 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [2d Qc]
+*** PRE-FLOP *** 
+REMONT4D4 calls 20
+MathisKcr checks
+*** FLOP *** [3h 8d 4s]
+MathisKcr bets 80
+REMONT4D4 calls 80
+*** TURN *** [3h 8d 4s][Ts]
+MathisKcr bets 156
+REMONT4D4 folds
+MathisKcr collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [3h 8d 4s Ts]
+Seat 2: MathisKcr (big blind) won 396
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 3 - HandId: #4345483661953466369-14-1761916684 - Holdem no limit (20/40) - 2025/10/31 13:18:04 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #2 is the button
+Seat 1: REMONT4D4 (836)
+Seat 2: MathisKcr (664)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+REMONT4D4 posts big blind 40
+Dealt to MathisKcr [3h Qs]
+*** PRE-FLOP *** 
+MathisKcr calls 20
+REMONT4D4 raises 60 to 100
+MathisKcr calls 60
+*** FLOP *** [3c 7h 7d]
+REMONT4D4 bets 40
+MathisKcr raises 524 to 564 and is all-in
+REMONT4D4 folds
+MathisKcr collected 804 from pot
+*** SUMMARY ***
+Total pot 804 | No rake
+Board: [3c 7h 7d]
+Seat 2: MathisKcr (small blind) (button) won 804
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4345483661953466369-15-1761916704 - Holdem no limit (30/60) - 2025/10/31 13:18:24 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #1 is the button
+Seat 1: REMONT4D4 (696)
+Seat 2: MathisKcr (804)
+*** ANTE/BLINDS ***
+REMONT4D4 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [3d 2c]
+*** PRE-FLOP *** 
+REMONT4D4 raises 120 to 180
+MathisKcr folds
+REMONT4D4 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: REMONT4D4 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 4 - HandId: #4345483661953466369-16-1761916712 - Holdem no limit (30/60) - 2025/10/31 13:18:32 UTC
+Table: 'Expresso(1011761758)#0' 3-max (real money) Seat #2 is the button
+Seat 1: REMONT4D4 (756)
+Seat 2: MathisKcr (744)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+REMONT4D4 posts big blind 60
+Dealt to MathisKcr [Ad Qc]
+*** PRE-FLOP *** 
+MathisKcr raises 60 to 120
+REMONT4D4 raises 180 to 300
+MathisKcr raises 444 to 744 and is all-in
+REMONT4D4 calls 444
+*** FLOP *** [Kh Jd 9c]
+*** TURN *** [Kh Jd 9c][9h]
+*** RIVER *** [Kh Jd 9c 9h][Ks]
+*** SHOW DOWN ***
+MathisKcr shows [Ad Qc] (Two pairs : Kings and 9)
+REMONT4D4 shows [Jh Ts] (Two pairs : Kings and Jacks)
+REMONT4D4 collected 1488 from pot
+*** SUMMARY ***
+Total pot 1488 | No rake
+Board: [Kh Jd 9c 9h Ks]
+Seat 1: REMONT4D4 (big blind) showed [Jh Ts] and won 1488 with Two pairs : Kings and Jacks
+Seat 2: MathisKcr (small blind) (button) showed [Ad Qc] and lost with Two pairs : Kings and 9
+
+

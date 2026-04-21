@@ -1,0 +1,48 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668749087066030081-1-1774804191 - Holdem no limit (10/20) - 2026/03/29 17:09:51 UTC
+Table: 'Expresso Nitro(1087027855)#0' 3-max (real money) Seat #2 is the button
+Seat 1: MathisKcr (300)
+Seat 2: Brigada67551 (300)
+Seat 3: Captain 9518 (300)
+*** ANTE/BLINDS ***
+Captain 9518 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [5d 9c]
+*** PRE-FLOP *** 
+Brigada67551 calls 20
+Captain 9518 raises 280 to 300 and is all-in
+MathisKcr folds
+Brigada67551 folds
+Captain 9518 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: Captain 9518 (small blind) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4668749087066030081-2-1774804200 - Holdem no limit (10/20) - 2026/03/29 17:10:00 UTC
+Table: 'Expresso Nitro(1087027855)#0' 3-max (real money) Seat #3 is the button
+Seat 1: MathisKcr (280)
+Seat 2: Brigada67551 (280)
+Seat 3: Captain 9518 (340)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Brigada67551 posts big blind 20
+Dealt to MathisKcr [5h Qc]
+*** PRE-FLOP *** 
+Captain 9518 calls 20
+MathisKcr raises 260 to 280 and is all-in
+Brigada67551 folds
+Captain 9518 calls 260
+*** FLOP *** [Ks As 2c]
+*** TURN *** [Ks As 2c][3s]
+*** RIVER *** [Ks As 2c 3s][Ts]
+*** SHOW DOWN ***
+MathisKcr shows [5h Qc] (High card : Ace)
+Captain 9518 shows [6h 3d] (One pair : 3)
+Captain 9518 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Ks As 2c 3s Ts]
+Seat 1: MathisKcr (small blind) showed [5h Qc] and lost with High card : Ace
+Seat 3: Captain 9518 (button) showed [6h 3d] and won 580 with One pair : 3
+
+

@@ -1,0 +1,153 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671573032358117377-1-1774906184 - Holdem no limit (10/20) - 2026/03/30 21:29:44 UTC
+Table: 'Expresso Nitro(1087685356)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Canto1981 (300)
+Seat 2: MathisKcr (300)
+Seat 3: benjno56220 (300)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+benjno56220 posts big blind 20
+Dealt to MathisKcr [Jh 8s]
+*** PRE-FLOP *** 
+Canto1981 calls 20
+MathisKcr folds
+benjno56220 raises 20 to 40
+Canto1981 calls 20
+*** FLOP *** [Kh 8c 7c]
+benjno56220 bets 20
+Canto1981 calls 20
+*** TURN *** [Kh 8c 7c][Ad]
+benjno56220 bets 20
+Canto1981 calls 20
+*** RIVER *** [Kh 8c 7c Ad][8d]
+benjno56220 bets 111
+Canto1981 calls 111
+*** SHOW DOWN ***
+benjno56220 shows [Qc Tc] (One pair : 8)
+Canto1981 shows [Kd Jc] (Two pairs : Kings and 8)
+Canto1981 collected 392 from pot
+*** SUMMARY ***
+Total pot 392 | No rake
+Board: [Kh 8c 7c Ad 8d]
+Seat 1: Canto1981 (button) showed [Kd Jc] and won 392 with Two pairs : Kings and 8
+Seat 3: benjno56220 (big blind) showed [Qc Tc] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671573032358117377-2-1774906205 - Holdem no limit (10/20) - 2026/03/30 21:30:05 UTC
+Table: 'Expresso Nitro(1087685356)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Canto1981 (501)
+Seat 2: MathisKcr (290)
+Seat 3: benjno56220 (109)
+*** ANTE/BLINDS ***
+benjno56220 posts small blind 10
+Canto1981 posts big blind 20
+Dealt to MathisKcr [5c 8c]
+*** PRE-FLOP *** 
+MathisKcr folds
+benjno56220 folds
+Canto1981 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Canto1981 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671573032358117377-3-1774906210 - Holdem no limit (10/20) - 2026/03/30 21:30:10 UTC
+Table: 'Expresso Nitro(1087685356)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Canto1981 (511)
+Seat 2: MathisKcr (290)
+Seat 3: benjno56220 (99)
+*** ANTE/BLINDS ***
+Canto1981 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [2h 7h]
+*** PRE-FLOP *** 
+benjno56220 folds
+Canto1981 calls 10
+MathisKcr checks
+*** FLOP *** [Th 5d Jd]
+Canto1981 checks
+MathisKcr bets 20
+Canto1981 folds
+MathisKcr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Th 5d Jd]
+Seat 2: MathisKcr (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671573032358117377-4-1774906224 - Holdem no limit (10/20) - 2026/03/30 21:30:24 UTC
+Table: 'Expresso Nitro(1087685356)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Canto1981 (491)
+Seat 2: MathisKcr (310)
+Seat 3: benjno56220 (99)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+benjno56220 posts big blind 20
+Dealt to MathisKcr [Jh 3s]
+*** PRE-FLOP *** 
+Canto1981 folds
+MathisKcr folds
+benjno56220 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: benjno56220 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4671573032358117377-5-1774906235 - Holdem no limit (10/20) - 2026/03/30 21:30:35 UTC
+Table: 'Expresso Nitro(1087685356)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Canto1981 (491)
+Seat 2: MathisKcr (300)
+Seat 3: benjno56220 (109)
+*** ANTE/BLINDS ***
+benjno56220 posts small blind 10
+Canto1981 posts big blind 20
+Dealt to MathisKcr [Td 6h]
+*** PRE-FLOP *** 
+MathisKcr folds
+benjno56220 raises 30 to 50
+Canto1981 raises 441 to 491 and is all-in
+benjno56220 calls 59 and is all-in
+*** FLOP *** [7c 7d 9h]
+*** TURN *** [7c 7d 9h][4s]
+*** RIVER *** [7c 7d 9h 4s][Kh]
+*** SHOW DOWN ***
+benjno56220 shows [2h 2s] (Two pairs : 7 and 2)
+Canto1981 shows [As 7h] (Trips of 7)
+Canto1981 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7c 7d 9h 4s Kh]
+Seat 1: Canto1981 (big blind) showed [As 7h] and won 600 with Trips of 7
+Seat 3: benjno56220 (small blind) showed [2h 2s] and lost with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4671573032358117377-6-1774906250 - Holdem no limit (15/30) - 2026/03/30 21:30:50 UTC
+Table: 'Expresso Nitro(1087685356)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Canto1981 (600)
+Seat 2: MathisKcr (300)
+*** ANTE/BLINDS ***
+Canto1981 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [7s 5s]
+*** PRE-FLOP *** 
+Canto1981 calls 15
+MathisKcr checks
+*** FLOP *** [Ts 4h 6c]
+MathisKcr bets 60
+Canto1981 calls 60
+*** TURN *** [Ts 4h 6c][Qs]
+MathisKcr bets 63
+Canto1981 calls 63
+*** RIVER *** [Ts 4h 6c Qs][Ad]
+MathisKcr bets 147 and is all-in
+Canto1981 calls 147
+*** SHOW DOWN ***
+MathisKcr shows [7s 5s] (High card : Ace)
+Canto1981 shows [2s Th] (One pair : Tens)
+Canto1981 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Ts 4h 6c Qs Ad]
+Seat 1: Canto1981 (small blind) (button) showed [2s Th] and won 600 with One pair : Tens
+Seat 2: MathisKcr (big blind) showed [7s 5s] and lost with High card : Ace
+
+

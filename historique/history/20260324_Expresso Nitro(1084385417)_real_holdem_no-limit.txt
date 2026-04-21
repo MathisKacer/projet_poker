@@ -1,0 +1,74 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657399902274322433-1-1774343765 - Holdem no limit (10/20) - 2026/03/24 09:16:05 UTC
+Table: 'Expresso Nitro(1084385417)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jujube27 (300)
+Seat 2: MathisKcr (300)
+Seat 3: cayat78 (300)
+*** ANTE/BLINDS ***
+cayat78 posts small blind 10
+Jujube27 posts big blind 20
+Dealt to MathisKcr [Qc Qd]
+*** PRE-FLOP *** 
+MathisKcr raises 40 to 60
+cayat78 raises 240 to 300 and is all-in
+Jujube27 folds
+MathisKcr calls 240 and is all-in
+*** FLOP *** [4c Ac 5s]
+*** TURN *** [4c Ac 5s][Td]
+*** RIVER *** [4c Ac 5s Td][7s]
+*** SHOW DOWN ***
+cayat78 shows [8s Qs] (High card : Ace)
+MathisKcr shows [Qc Qd] (One pair : Queens)
+MathisKcr collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [4c Ac 5s Td 7s]
+Seat 2: MathisKcr (button) showed [Qc Qd] and won 620 with One pair : Queens
+Seat 3: cayat78 (small blind) showed [8s Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657399902274322433-2-1774343780 - Holdem no limit (10/20) - 2026/03/24 09:16:20 UTC
+Table: 'Expresso Nitro(1084385417)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Jujube27 (280)
+Seat 2: MathisKcr (620)
+*** ANTE/BLINDS ***
+Jujube27 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Tc 3d]
+*** PRE-FLOP *** 
+Jujube27 raises 260 to 280 and is all-in
+MathisKcr folds
+Jujube27 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: Jujube27 (small blind) (button) won 300
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4657399902274322433-3-1774343787 - Holdem no limit (10/20) - 2026/03/24 09:16:27 UTC
+Table: 'Expresso Nitro(1084385417)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Jujube27 (300)
+Seat 2: MathisKcr (600)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Jujube27 posts big blind 20
+Dealt to MathisKcr [Ac Ah]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Jujube27 calls 20
+*** FLOP *** [Th 2c Tc]
+Jujube27 checks
+MathisKcr bets 20
+Jujube27 raises 240 to 260 and is all-in
+MathisKcr calls 240
+*** TURN *** [Th 2c Tc][3s]
+*** RIVER *** [Th 2c Tc 3s][7c]
+*** SHOW DOWN ***
+Jujube27 shows [2h Jh] (Two pairs : Tens and 2)
+MathisKcr shows [Ac Ah] (Two pairs : Aces and Tens)
+MathisKcr collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Th 2c Tc 3s 7c]
+Seat 1: Jujube27 (big blind) showed [2h Jh] and lost with Two pairs : Tens and 2
+Seat 2: MathisKcr (small blind) (button) showed [Ac Ah] and won 600 with Two pairs : Aces and Tens
+
+

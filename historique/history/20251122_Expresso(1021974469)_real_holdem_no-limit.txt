@@ -1,0 +1,151 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4389346921701965825-1-1763852457 - Holdem no limit (10/20) - 2025/11/22 23:00:57 UTC
+Table: 'Expresso(1021974469)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gospp (500)
+Seat 2: MathisKcr (500)
+Seat 3: Jeytaj (500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Jeytaj posts big blind 20
+Dealt to MathisKcr [3h 9s]
+*** PRE-FLOP *** 
+Gospp calls 20
+MathisKcr folds
+Jeytaj raises 50 to 70
+Gospp folds
+Jeytaj collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 3: Jeytaj (big blind) won 100
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4389346921701965825-2-1763852478 - Holdem no limit (10/20) - 2025/11/22 23:01:18 UTC
+Table: 'Expresso(1021974469)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gospp (480)
+Seat 2: MathisKcr (490)
+Seat 3: Jeytaj (530)
+*** ANTE/BLINDS ***
+Jeytaj posts small blind 10
+Gospp posts big blind 20
+Dealt to MathisKcr [Jh Tc]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Jeytaj calls 30
+Gospp calls 20
+*** FLOP *** [Kc Ac 8h]
+Jeytaj checks
+Gospp checks
+MathisKcr bets 40
+Jeytaj calls 40
+Gospp calls 40
+*** TURN *** [Kc Ac 8h][2s]
+Jeytaj checks
+Gospp bets 20
+MathisKcr calls 20
+Jeytaj calls 20
+*** RIVER *** [Kc Ac 8h 2s][Kh]
+Jeytaj checks
+Gospp bets 195
+MathisKcr folds
+Jeytaj folds
+Gospp collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Board: [Kc Ac 8h 2s Kh]
+Seat 1: Gospp (big blind) won 495
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #4389346921701965825-3-1763852530 - Holdem no limit (10/20) - 2025/11/22 23:02:10 UTC
+Table: 'Expresso(1021974469)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gospp (680)
+Seat 2: MathisKcr (390)
+Seat 3: Jeytaj (430)
+*** ANTE/BLINDS ***
+Gospp posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [7c 3c]
+*** PRE-FLOP *** 
+Jeytaj calls 20
+Gospp raises 60 to 80
+MathisKcr folds
+Jeytaj raises 350 to 430 and is all-in
+Gospp raises 250 to 680 and is all-in
+*** FLOP *** [Th Jc 6s]
+*** TURN *** [Th Jc 6s][Qs]
+*** RIVER *** [Th Jc 6s Qs][Td]
+*** SHOW DOWN ***
+Gospp shows [Ks 6h] (Two pairs : Tens and 6)
+Jeytaj shows [Kd 6d] (Two pairs : Tens and 6)
+Jeytaj collected 440 from main pot
+Gospp collected 690 from side pot 1
+*** SUMMARY ***
+Total pot 1130 | No rake
+Board: [Th Jc 6s Qs Td]
+Seat 1: Gospp (small blind) showed [Ks 6h] and won 690 with Two pairs : Tens and 6
+Seat 3: Jeytaj (button) showed [Kd 6d] and won 440 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4389346921701965825-4-1763852550 - Holdem no limit (15/30) - 2025/11/22 23:02:30 UTC
+Table: 'Expresso(1021974469)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Gospp (690)
+Seat 2: MathisKcr (370)
+Seat 3: Jeytaj (440)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Jeytaj posts big blind 30
+Dealt to MathisKcr [5h 6c]
+*** PRE-FLOP *** 
+Gospp raises 660 to 690 and is all-in
+MathisKcr folds
+Jeytaj folds
+Gospp collected 735 from pot
+*** SUMMARY ***
+Total pot 735 | No rake
+Seat 1: Gospp (button) won 735
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4389346921701965825-5-1763852564 - Holdem no limit (15/30) - 2025/11/22 23:02:44 UTC
+Table: 'Expresso(1021974469)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Gospp (735)
+Seat 2: MathisKcr (355)
+Seat 3: Jeytaj (410)
+*** ANTE/BLINDS ***
+Jeytaj posts small blind 15
+Gospp posts big blind 30
+Dealt to MathisKcr [9d 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Jeytaj folds
+Gospp collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Gospp (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #4389346921701965825-6-1763852572 - Holdem no limit (15/30) - 2025/11/22 23:02:52 UTC
+Table: 'Expresso(1021974469)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Gospp (750)
+Seat 2: MathisKcr (355)
+Seat 3: Jeytaj (395)
+*** ANTE/BLINDS ***
+Gospp posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [Th Qh]
+*** PRE-FLOP *** 
+Jeytaj calls 30
+Gospp raises 720 to 750 and is all-in
+MathisKcr calls 325 and is all-in
+Jeytaj folds
+*** FLOP *** [Ks 4d Ad]
+*** TURN *** [Ks 4d Ad][Qs]
+*** RIVER *** [Ks 4d Ad Qs][5s]
+*** SHOW DOWN ***
+MathisKcr shows [Th Qh] (One pair : Queens)
+Gospp shows [As 4c] (Two pairs : Aces and 4)
+Gospp collected 1135 from pot
+*** SUMMARY ***
+Total pot 1135 | No rake
+Board: [Ks 4d Ad Qs 5s]
+Seat 1: Gospp (small blind) showed [As 4c] and won 1135 with Two pairs : Aces and 4
+Seat 2: MathisKcr (big blind) showed [Th Qh] and lost with One pair : Queens
+
+

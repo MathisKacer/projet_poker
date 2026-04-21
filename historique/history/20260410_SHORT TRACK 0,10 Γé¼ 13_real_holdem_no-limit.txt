@@ -1,0 +1,239 @@
+Winamax Poker - CashGame - HandId: #22298814-472-1775822883 - Holdem no limit (0.01€/0.02€) - 2026/04/10 12:08:03 UTC
+Table: 'SHORT TRACK 0,10 € 13' 5-max (real money) Seat #3 is the button
+Seat 1: LATRUITECHIC (0.59€)
+Seat 2: MathisKcr (0.10€)
+Seat 3: Linn1314 (0.08€)
+Seat 4: Hoc25 (0.15€)
+Seat 5: LALIEB (0.25€)
+*** ANTE/BLINDS ***
+Hoc25 posts small blind 0.01€
+LALIEB posts big blind 0.02€
+MathisKcr posts big blind 0.02€ out of position
+Dealt to MathisKcr [Ts 4c]
+*** PRE-FLOP *** 
+LATRUITECHIC calls 0.02€
+MathisKcr checks
+Linn1314 calls 0.02€
+Hoc25 calls 0.01€
+LALIEB raises 0.23€ to 0.25€ and is all-in
+LATRUITECHIC folds
+MathisKcr folds
+Linn1314 calls 0.06€ and is all-in
+Hoc25 calls 0.13€ and is all-in
+*** FLOP *** [Ks Qs 3h]
+*** TURN *** [Ks Qs 3h][9s]
+*** RIVER *** [Ks Qs 3h 9s][9d]
+*** SHOW DOWN ***
+Linn1314 shows [5d Ad] (One pair : 9)
+Hoc25 shows [Kc Js] (Two pairs : Kings and 9)
+LALIEB shows [Th Td] (Two pairs : Tens and 9)
+LALIEB collected 0.10€ from side pot 1
+Hoc25 collected 0.40€ from main pot
+*** SUMMARY ***
+Total pot 0.50€ | Rake 0.02€
+Board: [Ks Qs 3h 9s 9d]
+Seat 3: Linn1314 (button) showed [5d Ad] and lost with One pair : 9
+Seat 4: Hoc25 (small blind) showed [Kc Js] and won 0.40€ with Two pairs : Kings and 9
+Seat 5: LALIEB (big blind) showed [Th Td] and won 0.10€ with Two pairs : Tens and 9
+
+
+Winamax Poker - CashGame - HandId: #22298814-473-1775822922 - Holdem no limit (0.01€/0.02€) - 2026/04/10 12:08:42 UTC
+Table: 'SHORT TRACK 0,10 € 13' 5-max (real money) Seat #4 is the button
+Seat 1: LATRUITECHIC (0.57€)
+Seat 2: MathisKcr (0.08€)
+Seat 3: Linn1314 (0.10€)
+Seat 4: Hoc25 (0.40€)
+Seat 5: LALIEB (0.10€)
+*** ANTE/BLINDS ***
+LALIEB posts small blind 0.01€
+LATRUITECHIC posts big blind 0.02€
+Dealt to MathisKcr [Ks 3s]
+*** PRE-FLOP *** 
+MathisKcr folds
+Linn1314 folds
+Hoc25 calls 0.02€
+LALIEB folds
+LATRUITECHIC checks
+*** FLOP *** [3c 2h 7d]
+LATRUITECHIC bets 0.02€
+Hoc25 raises 0.05€ to 0.07€
+LATRUITECHIC calls 0.05€
+*** TURN *** [3c 2h 7d][Kc]
+LATRUITECHIC checks
+Hoc25 bets 0.31€ and is all-in
+LATRUITECHIC folds
+Hoc25 collected 0.49€ from pot
+*** SUMMARY ***
+Total pot 0.49€ | Rake 0.01€
+Board: [3c 2h 7d Kc]
+Seat 4: Hoc25 (button) won 0.49€
+
+
+Winamax Poker - CashGame - HandId: #22298814-474-1775822975 - Holdem no limit (0.01€/0.02€) - 2026/04/10 12:09:35 UTC
+Table: 'SHORT TRACK 0,10 € 13' 5-max (real money) Seat #5 is the button
+Seat 1: LATRUITECHIC (0.48€)
+Seat 2: MathisKcr (0.08€)
+Seat 3: Linn1314 (0.10€)
+Seat 4: Hoc25 (0.49€)
+Seat 5: LALIEB (0.10€)
+*** ANTE/BLINDS ***
+LATRUITECHIC posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [6s Jd]
+*** PRE-FLOP *** 
+Linn1314 folds
+Hoc25 calls 0.02€
+LALIEB raises 0.08€ to 0.10€ and is all-in
+LATRUITECHIC folds
+MathisKcr folds
+Hoc25 calls 0.08€
+*** FLOP *** [2d As Ac]
+*** TURN *** [2d As Ac][Js]
+*** RIVER *** [2d As Ac Js][8h]
+*** SHOW DOWN ***
+LALIEB shows [Qc Qh] (Two pairs : Aces and Queens)
+Hoc25 shows [Kc Ah] (Trips of Aces)
+Hoc25 collected 0.22€ from pot
+*** SUMMARY ***
+Total pot 0.22€ | Rake 0.01€
+Board: [2d As Ac Js 8h]
+Seat 4: Hoc25 showed [Kc Ah] and won 0.22€ with Trips of Aces
+Seat 5: LALIEB (button) showed [Qc Qh] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - CashGame - HandId: #22298814-475-1775823022 - Holdem no limit (0.01€/0.02€) - 2026/04/10 12:10:22 UTC
+Table: 'SHORT TRACK 0,10 € 13' 5-max (real money) Seat #1 is the button
+Seat 1: LATRUITECHIC (0.47€)
+Seat 2: MathisKcr (0.06€)
+Seat 3: Linn1314 (0.10€)
+Seat 4: Hoc25 (0.61€)
+Seat 5: LALIEB (0.10€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+Linn1314 posts big blind 0.02€
+Dealt to MathisKcr [Ks Qs]
+*** PRE-FLOP *** 
+Hoc25 folds
+LALIEB raises 0.08€ to 0.10€ and is all-in
+LATRUITECHIC folds
+MathisKcr calls 0.05€ and is all-in
+Linn1314 folds
+*** FLOP *** [4s 4d 5d]
+*** TURN *** [4s 4d 5d][2d]
+*** RIVER *** [4s 4d 5d 2d][7c]
+*** SHOW DOWN ***
+MathisKcr shows [Ks Qs] (One pair : 4)
+LALIEB shows [Ac As] (Two pairs : Aces and 4)
+LALIEB collected 0.17€ from pot
+*** SUMMARY ***
+Total pot 0.17€ | Rake 0.01€
+Board: [4s 4d 5d 2d 7c]
+Seat 2: MathisKcr (small blind) showed [Ks Qs] and lost with One pair : 4
+Seat 5: LALIEB showed [Ac As] and won 0.17€ with Two pairs : Aces and 4
+
+
+Winamax Poker - CashGame - HandId: #22298814-477-1775823061 - Holdem no limit (0.01€/0.02€) - 2026/04/10 12:11:01 UTC
+Table: 'SHORT TRACK 0,10 € 13' 5-max (real money) Seat #1 is the button
+Seat 1: LATRUITECHIC (0.54€)
+Seat 2: MathisKcr (0.10€)
+Seat 3: Linn1314 (0€)
+*** ANTE/BLINDS ***
+LATRUITECHIC posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [6s Ah]
+*** PRE-FLOP *** 
+LATRUITECHIC raises 0.02€ to 0.04€
+MathisKcr raises 0.06€ to 0.10€ and is all-in
+LATRUITECHIC calls 0.06€
+*** FLOP *** [As Kh 5s]
+*** TURN *** [As Kh 5s][9h]
+*** RIVER *** [As Kh 5s 9h][4s]
+*** SHOW DOWN ***
+MathisKcr shows [6s Ah] (One pair : Aces)
+LATRUITECHIC shows [9s Js] (Flush Ace high)
+LATRUITECHIC collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [As Kh 5s 9h 4s]
+Seat 1: LATRUITECHIC (small blind) (button) showed [9s Js] and won 0.19€ with Flush Ace high
+Seat 2: MathisKcr (big blind) showed [6s Ah] and lost with One pair : Aces
+
+
+Winamax Poker - CashGame - HandId: #22298814-478-1775823113 - Holdem no limit (0.01€/0.02€) - 2026/04/10 12:11:53 UTC
+Table: 'SHORT TRACK 0,10 € 13' 5-max (real money) Seat #2 is the button
+Seat 1: LATRUITECHIC (0.63€)
+Seat 2: MathisKcr (0.10€)
+Seat 3: Linn1314 (0€)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 0.01€
+LATRUITECHIC posts big blind 0.02€
+Dealt to MathisKcr [6s Qh]
+*** PRE-FLOP *** 
+MathisKcr raises 0.08€ to 0.10€ and is all-in
+LATRUITECHIC folds
+MathisKcr collected 0.12€ from pot
+*** SUMMARY ***
+Total pot 0.12€ | No rake
+Seat 2: MathisKcr (small blind) (button) won 0.12€
+
+
+Winamax Poker - CashGame - HandId: #22298814-479-1775823134 - Holdem no limit (0.01€/0.02€) - 2026/04/10 12:12:14 UTC
+Table: 'SHORT TRACK 0,10 € 13' 5-max (real money) Seat #1 is the button
+Seat 1: LATRUITECHIC (0.61€)
+Seat 2: MathisKcr (0.12€)
+Seat 3: Linn1314 (0€)
+Seat 5: Ugo42 (0.10€)
+*** ANTE/BLINDS ***
+LATRUITECHIC posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [Ah 5s]
+*** PRE-FLOP *** 
+LATRUITECHIC raises 0.02€ to 0.04€
+MathisKcr raises 0.08€ to 0.12€ and is all-in
+LATRUITECHIC calls 0.08€
+*** FLOP *** [9s 5d 8d]
+*** TURN *** [9s 5d 8d][6s]
+*** RIVER *** [9s 5d 8d 6s][Tc]
+*** SHOW DOWN ***
+MathisKcr shows [Ah 5s] (One pair : 5)
+LATRUITECHIC shows [Jc 9c] (One pair : 9)
+LATRUITECHIC collected 0.23€ from pot
+*** SUMMARY ***
+Total pot 0.23€ | Rake 0.01€
+Board: [9s 5d 8d 6s Tc]
+Seat 1: LATRUITECHIC (small blind) (button) showed [Jc 9c] and won 0.23€ with One pair : 9
+Seat 2: MathisKcr (big blind) showed [Ah 5s] and lost with One pair : 5
+
+
+Winamax Poker - CashGame - HandId: #22298814-483-1775823230 - Holdem no limit (0.01€/0.02€) - 2026/04/10 12:13:50 UTC
+Table: 'SHORT TRACK 0,10 € 13' 5-max (real money) Seat #3 is the button
+Seat 1: LATRUITECHIC (0.83€)
+Seat 2: MathisKcr (0.10€)
+Seat 3: sullivan6025 (0.08€)
+Seat 5: Ugo42 (0€)
+*** ANTE/BLINDS ***
+LATRUITECHIC posts small blind 0.01€
+MathisKcr posts big blind 0.02€
+Dealt to MathisKcr [As 3d]
+*** PRE-FLOP *** 
+sullivan6025 raises 0.03€ to 0.05€
+LATRUITECHIC calls 0.04€
+MathisKcr raises 0.05€ to 0.10€ and is all-in
+sullivan6025 calls 0.03€ and is all-in
+LATRUITECHIC calls 0.05€
+*** FLOP *** [Kh 7h 6h]
+*** TURN *** [Kh 7h 6h][Ts]
+*** RIVER *** [Kh 7h 6h Ts][4s]
+*** SHOW DOWN ***
+MathisKcr shows [As 3d] (High card : Ace)
+sullivan6025 shows [Qc Kc] (One pair : Kings)
+LATRUITECHIC shows [8c 9h] (Straight Ten high)
+LATRUITECHIC collected 0.26€ from pot
+*** SUMMARY ***
+Total pot 0.26€ | Rake 0.02€
+Board: [Kh 7h 6h Ts 4s]
+Seat 1: LATRUITECHIC (small blind) showed [8c 9h] and won 0.26€ with Straight Ten high
+Seat 2: MathisKcr (big blind) showed [As 3d] and lost with High card : Ace
+Seat 3: sullivan6025 (button) showed [Qc Kc] and lost with One pair : Kings
+
+

@@ -1,0 +1,471 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4266218382648410113-1-1758551650 - Holdem no limit (10/20) - 2025/09/22 14:34:10 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Lola1234 (1500)
+Seat 2: Ismax93270 (1500)
+Seat 3: PATDIL (1500)
+Seat 4: jordan69330 (1500)
+Seat 5: MathisKcr (1500)
+Seat 6: Momo0308H (1500)
+*** ANTE/BLINDS ***
+PATDIL posts small blind 10
+jordan69330 posts big blind 20
+Dealt to MathisKcr [7c 6d]
+*** PRE-FLOP *** 
+MathisKcr folds
+Momo0308H folds
+Lola1234 raises 20 to 40
+Ismax93270 calls 40
+PATDIL calls 30
+jordan69330 raises 1460 to 1500 and is all-in
+Lola1234 folds
+Ismax93270 calls 1460 and is all-in
+PATDIL folds
+*** FLOP *** [8h Ad 8s]
+*** TURN *** [8h Ad 8s][9h]
+*** RIVER *** [8h Ad 8s 9h][3c]
+*** SHOW DOWN ***
+Ismax93270 shows [6h 4h] (One pair : 8)
+jordan69330 shows [Jh Qd] (One pair : 8)
+jordan69330 collected 3080 from pot
+*** SUMMARY ***
+Total pot 3080 | No rake
+Board: [8h Ad 8s 9h 3c]
+Seat 2: Ismax93270 (button) showed [6h 4h] and lost with One pair : 8
+Seat 4: jordan69330 (big blind) showed [Jh Qd] and won 3080 with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4266218382648410113-2-1758551687 - Holdem no limit (10/20) - 2025/09/22 14:34:47 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Lola1234 (1460)
+Seat 3: PATDIL (1460)
+Seat 4: jordan69330 (3080)
+Seat 5: MathisKcr (1500)
+Seat 6: Momo0308H (1500)
+*** ANTE/BLINDS ***
+jordan69330 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd 7d]
+*** PRE-FLOP *** 
+Momo0308H folds
+Lola1234 folds
+PATDIL calls 20
+jordan69330 raises 3060 to 3080 and is all-in
+MathisKcr calls 1480 and is all-in
+PATDIL folds
+*** FLOP *** [Qc Tc Js]
+*** TURN *** [Qc Tc Js][4d]
+*** RIVER *** [Qc Tc Js 4d][5c]
+*** SHOW DOWN ***
+jordan69330 shows [Kc 6s] (High card : King)
+MathisKcr shows [Kd 7d] (High card : King)
+MathisKcr collected 3020 from main pot
+jordan69330 collected 1580 from side pot 1
+*** SUMMARY ***
+Total pot 4600 | No rake
+Board: [Qc Tc Js 4d 5c]
+Seat 4: jordan69330 (small blind) showed [Kc 6s] and won 1580 with High card : King
+Seat 5: MathisKcr (big blind) showed [Kd 7d] and won 3020 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #4266218382648410113-3-1758551717 - Holdem no limit (10/20) - 2025/09/22 14:35:17 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Lola1234 (1460)
+Seat 3: PATDIL (1440)
+Seat 4: jordan69330 (1580)
+Seat 5: MathisKcr (3020)
+Seat 6: Momo0308H (1500)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Momo0308H posts big blind 20
+Dealt to MathisKcr [Ac 8h]
+*** PRE-FLOP *** 
+Lola1234 folds
+PATDIL folds
+jordan69330 raises 1560 to 1580 and is all-in
+MathisKcr calls 1570
+Momo0308H folds
+*** FLOP *** [4d 9c 6d]
+*** TURN *** [4d 9c 6d][3h]
+*** RIVER *** [4d 9c 6d 3h][Td]
+*** SHOW DOWN ***
+MathisKcr shows [Ac 8h] (High card : Ace)
+jordan69330 shows [Th Jh] (One pair : Tens)
+jordan69330 collected 3180 from pot
+*** SUMMARY ***
+Total pot 3180 | No rake
+Board: [4d 9c 6d 3h Td]
+Seat 4: jordan69330 (button) showed [Th Jh] and won 3180 with One pair : Tens
+Seat 5: MathisKcr (small blind) showed [Ac 8h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4266218382648410113-4-1758551743 - Holdem no limit (15/30) - 2025/09/22 14:35:43 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Lola1234 (1460)
+Seat 3: PATDIL (1440)
+Seat 4: jordan69330 (3180)
+Seat 5: MathisKcr (1440)
+Seat 6: Momo0308H (1480)
+*** ANTE/BLINDS ***
+Momo0308H posts small blind 15
+Lola1234 posts big blind 30
+Dealt to MathisKcr [Tc Th]
+*** PRE-FLOP *** 
+PATDIL folds
+jordan69330 calls 30
+MathisKcr raises 30 to 60
+Momo0308H folds
+Lola1234 folds
+jordan69330 calls 30
+*** FLOP *** [7d Kd Jh]
+jordan69330 checks
+MathisKcr bets 90
+jordan69330 folds
+MathisKcr collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Board: [7d Kd Jh]
+Seat 5: MathisKcr (button) won 255
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4266218382648410113-5-1758551782 - Holdem no limit (15/30) - 2025/09/22 14:36:22 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Lola1234 (1430)
+Seat 3: PATDIL (1440)
+Seat 4: jordan69330 (3120)
+Seat 5: MathisKcr (1545)
+Seat 6: Momo0308H (1465)
+*** ANTE/BLINDS ***
+Lola1234 posts small blind 15
+PATDIL posts big blind 30
+Dealt to MathisKcr [Qs 3s]
+*** PRE-FLOP *** 
+jordan69330 raises 3090 to 3120 and is all-in
+MathisKcr folds
+Momo0308H folds
+Lola1234 folds
+PATDIL folds
+jordan69330 collected 3165 from pot
+*** SUMMARY ***
+Total pot 3165 | No rake
+Seat 4: jordan69330 won 3165
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #4266218382648410113-6-1758551796 - Holdem no limit (15/30) - 2025/09/22 14:36:36 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Lola1234 (1415)
+Seat 3: PATDIL (1410)
+Seat 4: jordan69330 (3165)
+Seat 5: MathisKcr (1545)
+Seat 6: Momo0308H (1465)
+*** ANTE/BLINDS ***
+PATDIL posts small blind 15
+jordan69330 posts big blind 30
+Dealt to MathisKcr [Td Ts]
+*** PRE-FLOP *** 
+MathisKcr calls 30
+Momo0308H folds
+Lola1234 raises 90 to 120
+PATDIL calls 105
+jordan69330 folds
+MathisKcr raises 1425 to 1545 and is all-in
+Lola1234 folds
+PATDIL folds
+MathisKcr collected 1815 from pot
+*** SUMMARY ***
+Total pot 1815 | No rake
+Seat 5: MathisKcr won 1815
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4266218382648410113-7-1758551835 - Holdem no limit (20/40) - 2025/09/22 14:37:15 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Lola1234 (1295)
+Seat 3: PATDIL (1290)
+Seat 4: jordan69330 (3135)
+Seat 5: MathisKcr (1815)
+Seat 6: Momo0308H (1465)
+*** ANTE/BLINDS ***
+jordan69330 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [3h Qd]
+*** PRE-FLOP *** 
+Momo0308H folds
+Lola1234 folds
+PATDIL calls 40
+jordan69330 raises 3095 to 3135 and is all-in
+MathisKcr folds
+PATDIL folds
+jordan69330 collected 3215 from pot
+*** SUMMARY ***
+Total pot 3215 | No rake
+Seat 4: jordan69330 (small blind) won 3215
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4266218382648410113-8-1758551859 - Holdem no limit (20/40) - 2025/09/22 14:37:39 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Lola1234 (1295)
+Seat 3: PATDIL (1250)
+Seat 4: jordan69330 (3215)
+Seat 5: MathisKcr (1775)
+Seat 6: Momo0308H (1465)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Momo0308H posts big blind 40
+Dealt to MathisKcr [2d Kh]
+*** PRE-FLOP *** 
+Lola1234 folds
+PATDIL calls 40
+jordan69330 raises 3175 to 3215 and is all-in
+MathisKcr folds
+Momo0308H folds
+PATDIL folds
+jordan69330 collected 3315 from pot
+*** SUMMARY ***
+Total pot 3315 | No rake
+Seat 4: jordan69330 (button) won 3315
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #4266218382648410113-9-1758551885 - Holdem no limit (20/40) - 2025/09/22 14:38:05 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Lola1234 (1295)
+Seat 3: PATDIL (1210)
+Seat 4: jordan69330 (3315)
+Seat 5: MathisKcr (1755)
+Seat 6: Momo0308H (1425)
+*** ANTE/BLINDS ***
+Momo0308H posts small blind 20
+Lola1234 posts big blind 40
+Dealt to MathisKcr [Ah 2s]
+*** PRE-FLOP *** 
+PATDIL calls 40
+jordan69330 folds
+MathisKcr calls 40
+Momo0308H calls 20
+Lola1234 checks
+*** FLOP *** [4s Ks 8h]
+Momo0308H bets 104
+Lola1234 folds
+PATDIL calls 104
+MathisKcr folds
+*** TURN *** [4s Ks 8h][4h]
+Momo0308H checks
+PATDIL bets 129
+Momo0308H calls 129
+*** RIVER *** [4s Ks 8h 4h][Kh]
+Momo0308H checks
+PATDIL bets 219
+Momo0308H raises 933 to 1152 and is all-in
+PATDIL calls 718 and is all-in
+*** SHOW DOWN ***
+PATDIL shows [5s Kc] (Full of Kings and 4)
+Momo0308H shows [Kd Td] (Full of Kings and 4)
+Momo0308H collected 1465 from side pot 1
+PATDIL collected 1250 from main pot
+*** SUMMARY ***
+Total pot 2715 | No rake
+Board: [4s Ks 8h 4h Kh]
+Seat 3: PATDIL showed [5s Kc] and won 1250 with Full of Kings and 4
+Seat 6: Momo0308H (small blind) showed [Kd Td] and won 1465 with Full of Kings and 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4266218382648410113-10-1758551920 - Holdem no limit (30/60) - 2025/09/22 14:38:40 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Lola1234 (1255)
+Seat 3: PATDIL (1250)
+Seat 4: jordan69330 (3315)
+Seat 5: MathisKcr (1715)
+Seat 6: Momo0308H (1465)
+*** ANTE/BLINDS ***
+Lola1234 posts small blind 30
+PATDIL posts big blind 60
+Dealt to MathisKcr [8h 4c]
+*** PRE-FLOP *** 
+jordan69330 folds
+MathisKcr folds
+Momo0308H raises 120 to 180
+Lola1234 folds
+PATDIL calls 120
+*** FLOP *** [6c 3h Qs]
+PATDIL checks
+Momo0308H bets 254
+PATDIL folds
+Momo0308H collected 644 from pot
+*** SUMMARY ***
+Total pot 644 | No rake
+Board: [6c 3h Qs]
+Seat 6: Momo0308H (button) won 644
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4266218382648410113-11-1758551942 - Holdem no limit (30/60) - 2025/09/22 14:39:02 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Lola1234 (1225)
+Seat 3: PATDIL (1070)
+Seat 4: jordan69330 (3315)
+Seat 5: MathisKcr (1715)
+Seat 6: Momo0308H (1675)
+*** ANTE/BLINDS ***
+PATDIL posts small blind 30
+jordan69330 posts big blind 60
+Dealt to MathisKcr [8h 9s]
+*** PRE-FLOP *** 
+MathisKcr calls 60
+Momo0308H calls 60
+Lola1234 folds
+PATDIL calls 30
+jordan69330 raises 3255 to 3315 and is all-in
+MathisKcr folds
+Momo0308H folds
+PATDIL folds
+jordan69330 collected 3495 from pot
+*** SUMMARY ***
+Total pot 3495 | No rake
+Seat 4: jordan69330 (big blind) won 3495
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #4266218382648410113-12-1758551971 - Holdem no limit (30/60) - 2025/09/22 14:39:31 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Lola1234 (1225)
+Seat 3: PATDIL (1010)
+Seat 4: jordan69330 (3495)
+Seat 5: MathisKcr (1655)
+Seat 6: Momo0308H (1615)
+*** ANTE/BLINDS ***
+jordan69330 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [8h 7d]
+*** PRE-FLOP *** 
+Momo0308H folds
+Lola1234 raises 90 to 150
+PATDIL folds
+jordan69330 folds
+MathisKcr calls 90
+*** FLOP *** [4c 9c Jc]
+MathisKcr checks
+Lola1234 bets 215
+MathisKcr calls 215
+*** TURN *** [4c 9c Jc][2c]
+MathisKcr checks
+Lola1234 checks
+*** RIVER *** [4c 9c Jc 2c][5d]
+MathisKcr checks
+Lola1234 checks
+*** SHOW DOWN ***
+MathisKcr shows [8h 7d] (High card : Jack)
+Lola1234 shows [As Ah] (One pair : Aces)
+Lola1234 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [4c 9c Jc 2c 5d]
+Seat 1: Lola1234 showed [As Ah] and won 760 with One pair : Aces
+Seat 5: MathisKcr (big blind) showed [8h 7d] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4266218382648410113-13-1758552014 - Holdem no limit (40/80) - 2025/09/22 14:40:14 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Lola1234 (1620)
+Seat 3: PATDIL (1010)
+Seat 4: jordan69330 (3465)
+Seat 5: MathisKcr (1290)
+Seat 6: Momo0308H (1615)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 40
+Momo0308H posts big blind 80
+Dealt to MathisKcr [8s 7h]
+*** PRE-FLOP *** 
+Lola1234 folds
+PATDIL calls 80
+jordan69330 raises 3385 to 3465 and is all-in
+MathisKcr folds
+Momo0308H folds
+PATDIL calls 930 and is all-in
+*** FLOP *** [Kh 9c 8h]
+*** TURN *** [Kh 9c 8h][Kd]
+*** RIVER *** [Kh 9c 8h Kd][5d]
+*** SHOW DOWN ***
+PATDIL shows [3h 4d] (One pair : Kings)
+jordan69330 shows [6s Qc] (One pair : Kings)
+jordan69330 collected 4595 from pot
+*** SUMMARY ***
+Total pot 4595 | No rake
+Board: [Kh 9c 8h Kd 5d]
+Seat 3: PATDIL showed [3h 4d] and lost with One pair : Kings
+Seat 4: jordan69330 (button) showed [6s Qc] and won 4595 with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4266218382648410113-14-1758552055 - Holdem no limit (40/80) - 2025/09/22 14:40:55 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Lola1234 (1620)
+Seat 4: jordan69330 (4595)
+Seat 5: MathisKcr (1250)
+Seat 6: Momo0308H (1535)
+*** ANTE/BLINDS ***
+Momo0308H posts small blind 40
+Lola1234 posts big blind 80
+Dealt to MathisKcr [6s 3d]
+*** PRE-FLOP *** 
+jordan69330 folds
+MathisKcr folds
+Momo0308H raises 160 to 240
+Lola1234 raises 1380 to 1620 and is all-in
+Momo0308H calls 1295 and is all-in
+*** FLOP *** [Ts 9c 2h]
+*** TURN *** [Ts 9c 2h][Ks]
+*** RIVER *** [Ts 9c 2h Ks][As]
+*** SHOW DOWN ***
+Momo0308H shows [Qd Kd] (One pair : Kings)
+Lola1234 shows [Jh Qh] (Straight Ace high)
+Lola1234 collected 3155 from pot
+*** SUMMARY ***
+Total pot 3155 | No rake
+Board: [Ts 9c 2h Ks As]
+Seat 1: Lola1234 (big blind) showed [Jh Qh] and won 3155 with Straight Ace high
+Seat 6: Momo0308H (small blind) showed [Qd Kd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4266218382648410113-15-1758552076 - Holdem no limit (40/80) - 2025/09/22 14:41:16 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Lola1234 (3155)
+Seat 4: jordan69330 (4595)
+Seat 5: MathisKcr (1250)
+*** ANTE/BLINDS ***
+Lola1234 posts small blind 40
+jordan69330 posts big blind 80
+Dealt to MathisKcr [7c 4c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Lola1234 raises 80 to 160
+jordan69330 raises 4435 to 4595 and is all-in
+Lola1234 folds
+jordan69330 collected 4755 from pot
+*** SUMMARY ***
+Total pot 4755 | No rake
+Seat 4: jordan69330 (big blind) won 4755
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #4266218382648410113-16-1758552093 - Holdem no limit (40/80) - 2025/09/22 14:41:33 UTC
+Table: 'Starting Block WiPT(993306372)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Lola1234 (2995)
+Seat 4: jordan69330 (4755)
+Seat 5: MathisKcr (1250)
+*** ANTE/BLINDS ***
+jordan69330 posts small blind 40
+MathisKcr posts big blind 80
+Dealt to MathisKcr [Ad Kd]
+*** PRE-FLOP *** 
+Lola1234 raises 80 to 160
+jordan69330 raises 4595 to 4755 and is all-in
+MathisKcr calls 1170 and is all-in
+Lola1234 folds
+*** FLOP *** [2h 8s 5c]
+*** TURN *** [2h 8s 5c][Jd]
+*** RIVER *** [2h 8s 5c Jd][Td]
+*** SHOW DOWN ***
+MathisKcr shows [Ad Kd] (High card : Ace)
+jordan69330 shows [6d Js] (One pair : Jacks)
+jordan69330 collected 6165 from pot
+*** SUMMARY ***
+Total pot 6165 | No rake
+Board: [2h 8s 5c Jd Td]
+Seat 4: jordan69330 (small blind) showed [6d Js] and won 6165 with One pair : Jacks
+Seat 5: MathisKcr (big blind) showed [Ad Kd] and lost with High card : Ace
+
+

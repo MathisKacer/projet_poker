@@ -1,0 +1,339 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666461024843464705-1-1774711400 - Holdem no limit (10/20) - 2026/03/28 15:23:20 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Nelsitoo1877 (300)
+Seat 2: MathisKcr (300)
+Seat 3: Sorsai (300)
+*** ANTE/BLINDS ***
+Sorsai posts small blind 10
+Nelsitoo1877 posts big blind 20
+Dealt to MathisKcr [Qc Ac]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Sorsai folds
+Nelsitoo1877 calls 20
+*** FLOP *** [Ks 2s As]
+Nelsitoo1877 checks
+MathisKcr bets 59
+Nelsitoo1877 folds
+MathisKcr collected 149 from pot
+*** SUMMARY ***
+Total pot 149 | No rake
+Board: [Ks 2s As]
+Seat 2: MathisKcr (button) won 149
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666461024843464705-2-1774711417 - Holdem no limit (10/20) - 2026/03/28 15:23:37 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Nelsitoo1877 (260)
+Seat 2: MathisKcr (350)
+Seat 3: Sorsai (290)
+*** ANTE/BLINDS ***
+Nelsitoo1877 posts small blind 10
+MathisKcr posts big blind 20
+Dealt to MathisKcr [Kd 9h]
+*** PRE-FLOP *** 
+Sorsai calls 20
+Nelsitoo1877 raises 60 to 80
+MathisKcr calls 60
+Sorsai calls 60
+*** FLOP *** [7d 3c 6c]
+Nelsitoo1877 bets 180 and is all-in
+MathisKcr folds
+Sorsai folds
+Nelsitoo1877 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [7d 3c 6c]
+Seat 1: Nelsitoo1877 (small blind) won 420
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666461024843464705-3-1774711448 - Holdem no limit (10/20) - 2026/03/28 15:24:08 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nelsitoo1877 (420)
+Seat 2: MathisKcr (270)
+Seat 3: Sorsai (210)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 10
+Sorsai posts big blind 20
+Dealt to MathisKcr [8d Ad]
+*** PRE-FLOP *** 
+Nelsitoo1877 calls 20
+MathisKcr raises 250 to 270 and is all-in
+Sorsai folds
+Nelsitoo1877 folds
+MathisKcr collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | No rake
+Seat 2: MathisKcr (small blind) won 310
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #4666461024843464705-4-1774711457 - Holdem no limit (10/20) - 2026/03/28 15:24:17 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Nelsitoo1877 (400)
+Seat 2: MathisKcr (310)
+Seat 3: Sorsai (190)
+*** ANTE/BLINDS ***
+Sorsai posts small blind 10
+Nelsitoo1877 posts big blind 20
+Dealt to MathisKcr [9c Kd]
+*** PRE-FLOP *** 
+MathisKcr raises 20 to 40
+Sorsai folds
+Nelsitoo1877 calls 20
+*** FLOP *** [4c Qs 6h]
+Nelsitoo1877 checks
+MathisKcr bets 32
+Nelsitoo1877 calls 32
+*** TURN *** [4c Qs 6h][5h]
+Nelsitoo1877 checks
+MathisKcr checks
+*** RIVER *** [4c Qs 6h 5h][Td]
+Nelsitoo1877 bets 20
+MathisKcr calls 20
+*** SHOW DOWN ***
+MathisKcr shows [9c Kd] (High card : King)
+Nelsitoo1877 shows [Ts Qh] (Two pairs : Queens and Tens)
+Nelsitoo1877 collected 194 from pot
+*** SUMMARY ***
+Total pot 194 | No rake
+Board: [4c Qs 6h 5h Td]
+Seat 1: Nelsitoo1877 (big blind) showed [Ts Qh] and won 194 with Two pairs : Queens and Tens
+Seat 2: MathisKcr (button) showed [9c Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666461024843464705-5-1774711479 - Holdem no limit (15/30) - 2026/03/28 15:24:39 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Nelsitoo1877 (502)
+Seat 2: MathisKcr (218)
+Seat 3: Sorsai (180)
+*** ANTE/BLINDS ***
+Nelsitoo1877 posts small blind 15
+MathisKcr posts big blind 30
+Dealt to MathisKcr [4c Ts]
+*** PRE-FLOP *** 
+Sorsai calls 30
+Nelsitoo1877 calls 15
+MathisKcr checks
+*** FLOP *** [3d 9d 9h]
+Nelsitoo1877 checks
+MathisKcr checks
+Sorsai checks
+*** TURN *** [3d 9d 9h][6d]
+Nelsitoo1877 checks
+MathisKcr checks
+Sorsai bets 90
+Nelsitoo1877 folds
+MathisKcr folds
+Sorsai collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [3d 9d 9h 6d]
+Seat 3: Sorsai (button) won 180
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666461024843464705-6-1774711497 - Holdem no limit (15/30) - 2026/03/28 15:24:57 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nelsitoo1877 (472)
+Seat 2: MathisKcr (188)
+Seat 3: Sorsai (240)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 15
+Sorsai posts big blind 30
+Dealt to MathisKcr [8h 5s]
+*** PRE-FLOP *** 
+Nelsitoo1877 calls 30
+MathisKcr folds
+Sorsai checks
+*** FLOP *** [7d 8d Jd]
+Sorsai checks
+Nelsitoo1877 checks
+*** TURN *** [7d 8d Jd][Kc]
+Sorsai checks
+Nelsitoo1877 checks
+*** RIVER *** [7d 8d Jd Kc][6c]
+Sorsai checks
+Nelsitoo1877 checks
+*** SHOW DOWN ***
+Nelsitoo1877 shows [Qh 9d] (High card : King)
+Sorsai shows [Ad 8c] (One pair : 8)
+Sorsai collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [7d 8d Jd Kc 6c]
+Seat 1: Nelsitoo1877 (button) showed [Qh 9d] and lost with High card : King
+Seat 3: Sorsai (big blind) showed [Ad 8c] and won 75 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #4666461024843464705-7-1774711516 - Holdem no limit (15/30) - 2026/03/28 15:25:16 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Nelsitoo1877 (442)
+Seat 2: MathisKcr (173)
+Seat 3: Sorsai (285)
+*** ANTE/BLINDS ***
+Sorsai posts small blind 15
+Nelsitoo1877 posts big blind 30
+Dealt to MathisKcr [5d 6c]
+*** PRE-FLOP *** 
+MathisKcr folds
+Sorsai calls 15
+Nelsitoo1877 checks
+*** FLOP *** [2h 3h 8h]
+Sorsai checks
+Nelsitoo1877 checks
+*** TURN *** [2h 3h 8h][Js]
+Sorsai checks
+Nelsitoo1877 bets 30
+Sorsai calls 30
+*** RIVER *** [2h 3h 8h Js][9d]
+Sorsai bets 225 and is all-in
+Nelsitoo1877 folds
+Sorsai collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | No rake
+Board: [2h 3h 8h Js 9d]
+Seat 3: Sorsai (small blind) won 345
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666461024843464705-8-1774711539 - Holdem no limit (20/40) - 2026/03/28 15:25:39 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Nelsitoo1877 (382)
+Seat 2: MathisKcr (173)
+Seat 3: Sorsai (345)
+*** ANTE/BLINDS ***
+Nelsitoo1877 posts small blind 20
+MathisKcr posts big blind 40
+Dealt to MathisKcr [Kc 2c]
+*** PRE-FLOP *** 
+Sorsai calls 40
+Nelsitoo1877 calls 20
+MathisKcr checks
+*** FLOP *** [5h Jc Ac]
+Nelsitoo1877 checks
+MathisKcr bets 42
+Sorsai calls 42
+Nelsitoo1877 folds
+*** TURN *** [5h Jc Ac][8c]
+MathisKcr bets 91 and is all-in
+Sorsai raises 172 to 263 and is all-in
+*** RIVER *** [5h Jc Ac 8c][4d]
+*** SHOW DOWN ***
+MathisKcr shows [Kc 2c] (Flush Ace high)
+Sorsai shows [Jh Qh] (One pair : Jacks)
+Sorsai collected 172 from side pot 1
+MathisKcr collected 386 from main pot
+*** SUMMARY ***
+Total pot 558 | No rake
+Board: [5h Jc Ac 8c 4d]
+Seat 2: MathisKcr (big blind) showed [Kc 2c] and won 386 with Flush Ace high
+Seat 3: Sorsai (button) showed [Jh Qh] and won 172 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #4666461024843464705-9-1774711570 - Holdem no limit (20/40) - 2026/03/28 15:26:10 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nelsitoo1877 (342)
+Seat 2: MathisKcr (386)
+Seat 3: Sorsai (172)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 20
+Sorsai posts big blind 40
+Dealt to MathisKcr [Jc 7d]
+*** PRE-FLOP *** 
+Nelsitoo1877 calls 40
+MathisKcr raises 346 to 386 and is all-in
+Sorsai folds
+Nelsitoo1877 folds
+MathisKcr collected 466 from pot
+*** SUMMARY ***
+Total pot 466 | No rake
+Seat 2: MathisKcr (small blind) won 466
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4666461024843464705-10-1774711592 - Holdem no limit (30/60) - 2026/03/28 15:26:32 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Nelsitoo1877 (302)
+Seat 2: MathisKcr (466)
+Seat 3: Sorsai (132)
+*** ANTE/BLINDS ***
+Sorsai posts small blind 30
+Nelsitoo1877 posts big blind 60
+Dealt to MathisKcr [4c Ks]
+*** PRE-FLOP *** 
+MathisKcr raises 406 to 466 and is all-in
+Sorsai calls 102 and is all-in
+Nelsitoo1877 calls 242 and is all-in
+*** FLOP *** [Qd 8d 9d]
+*** TURN *** [Qd 8d 9d][2d]
+*** RIVER *** [Qd 8d 9d 2d][9h]
+*** SHOW DOWN ***
+Sorsai shows [7h Jh] (One pair : 9)
+Nelsitoo1877 shows [As Tc] (One pair : 9)
+MathisKcr shows [4c Ks] (One pair : 9)
+MathisKcr collected 164 from side pot 1
+Nelsitoo1877 collected 736 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd 8d 9d 2d 9h]
+Seat 1: Nelsitoo1877 (big blind) showed [As Tc] and won 736 with One pair : 9
+Seat 2: MathisKcr (button) showed [4c Ks] and won 164 with One pair : 9
+Seat 3: Sorsai (small blind) showed [7h Jh] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4666461024843464705-11-1774711612 - Holdem no limit (30/60) - 2026/03/28 15:26:52 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nelsitoo1877 (736)
+Seat 2: MathisKcr (164)
+*** ANTE/BLINDS ***
+Nelsitoo1877 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [Tc Kd]
+*** PRE-FLOP *** 
+Nelsitoo1877 folds
+MathisKcr collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: MathisKcr (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4666461024843464705-12-1774711617 - Holdem no limit (30/60) - 2026/03/28 15:26:57 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Nelsitoo1877 (706)
+Seat 2: MathisKcr (194)
+*** ANTE/BLINDS ***
+MathisKcr posts small blind 30
+Nelsitoo1877 posts big blind 60
+Dealt to MathisKcr [Ts Jh]
+*** PRE-FLOP *** 
+MathisKcr raises 134 to 194 and is all-in
+Nelsitoo1877 folds
+MathisKcr collected 254 from pot
+*** SUMMARY ***
+Total pot 254 | No rake
+Seat 2: MathisKcr (small blind) (button) won 254
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #4666461024843464705-13-1774711623 - Holdem no limit (30/60) - 2026/03/28 15:27:03 UTC
+Table: 'Expresso Nitro(1086495124)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Nelsitoo1877 (646)
+Seat 2: MathisKcr (254)
+*** ANTE/BLINDS ***
+Nelsitoo1877 posts small blind 30
+MathisKcr posts big blind 60
+Dealt to MathisKcr [5h Ah]
+*** PRE-FLOP *** 
+Nelsitoo1877 calls 30
+MathisKcr raises 194 to 254 and is all-in
+Nelsitoo1877 calls 194
+*** FLOP *** [Ac 9c 9s]
+*** TURN *** [Ac 9c 9s][Kd]
+*** RIVER *** [Ac 9c 9s Kd][4c]
+*** SHOW DOWN ***
+MathisKcr shows [5h Ah] (Two pairs : Aces and 9)
+Nelsitoo1877 shows [Kc 6c] (Flush Ace high)
+Nelsitoo1877 collected 508 from pot
+*** SUMMARY ***
+Total pot 508 | No rake
+Board: [Ac 9c 9s Kd 4c]
+Seat 1: Nelsitoo1877 (small blind) (button) showed [Kc 6c] and won 508 with Flush Ace high
+Seat 2: MathisKcr (big blind) showed [5h Ah] and lost with Two pairs : Aces and 9
+
+
