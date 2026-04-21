@@ -1,9 +1,10 @@
-from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error, r2_score
+from sklearn.compose import ColumnTransformer
+
 
 
 def feature_engineering(df):
@@ -19,9 +20,6 @@ def feature_engineering(df):
     df['main_gagnante'] = (df['benefice bb'] > 0).astype(int)
 
     return df
-
-numeric_features = ['stack_bb', 'high_card', 'level']
-categorical_features = ['position', 'main']
 
 
 def regression(df, variables_numeriques, variables_categorielles):
