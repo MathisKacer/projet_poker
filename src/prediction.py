@@ -15,7 +15,7 @@ def feature_engineering(df):
 
     # Variables binaires (Booleans -> 0/1)
     df['est une paire'] = df['main'].apply(lambda x: 1 if x[0] == x[1] else 0)
-    df['est même signe'] = df['main'].apply(lambda x: 1 if 's' in x else 0)
+    df['est meme signe'] = df['main'].apply(lambda x: 1 if 's' in x else 0)
     df['se suivent'] = df.apply(lambda row: 1 if abs(row['carte haute'] - row['carte basse']) == 1 else 0, axis=1)
     df['main_gagnante'] = (df['benefice bb'] > 0).astype(int)
 
