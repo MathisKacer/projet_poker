@@ -9,7 +9,7 @@ Analyse de données issues d'historiques de parties de poker en ligne (format Wi
 - Construire une base de données structurée à partir de fichiers d'historiques bruts Winamax
 - Produire des statistiques descriptives sur les comportements de jeu
 - Analyser l'influence de la position et du stack sur les décisions et les résultats
-- Prédire le résultat d'une main à partir de features comportementales (ML)
+- Prédire le résultat d'une main
 
 ---
 
@@ -35,8 +35,7 @@ projet_poker/
 │   └── ecrire_main.py             # Notation et utilitaires sur les mains
 │
 ├── analyse_poker_final.ipynb      # Notebook de présentation des résultats
-├── execution.ipynb                # Notebook de développement
-├── requirements.txt               # Dépendances Python
+├── requirements.txt                # Dépendances Python
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -76,9 +75,9 @@ Ouvrir `analyse_poker_final.ipynb` et exécuter les cellules dans l'ordre. Le no
 
 Les données sont stockées sur un bucket S3 public (SSPCloud / Minio) et téléchargées automatiquement à l'exécution du notebook. Elles ne sont pas versionnées dans Git.
 
-- **Source** : historiques Winamax exportés par les membres du groupe et leurs proches
+- **Source** : historiques Winamax exportés
 - **Format** : fichiers `.txt` au format Winamax Hand History
-- **Tournois** : Expresso et Expresso Nitro (format Sit & Go 3 joueurs, winner-takes-all)
+- **Tournois** : Expresso et Expresso Nitro (format rapide à 3 joueurs, winner-takes-all)
 
 ---
 
@@ -99,7 +98,7 @@ Les données sont stockées sur un bucket S3 public (SSPCloud / Minio) et télé
 | `matplotlib` | Visualisations |
 | `seaborn` | Visualisations avancées |
 | `numpy` | Calculs numériques |
-| `scikit-learn` | Modèle de prédiction (Random Forest) |
+| `scikit-learn` | Modèle de prédiction  |
 | `s3fs` | Accès au stockage S3 |
 
 ---
