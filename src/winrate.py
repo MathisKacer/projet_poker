@@ -1,12 +1,13 @@
 import matplotlib.pyplot as plt
 
+
 def winrate_par_position(df):
     """
     Calcule et affiche le winrate moyen en BB par position (BTN, SB, BB).
     """
     stats = df.groupby('position').agg(
-        nb_mains     = ('hand_id', 'count'),
-        winrate_bb   = ('benefice bb', 'mean'),
+        nb_mains = ('hand_id', 'count'),
+        winrate_bb = ('benefice bb', 'mean'),
         net_bb_total = ('benefice bb', 'sum'),
     ).round(3)
 
