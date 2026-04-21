@@ -1,3 +1,6 @@
+import matplotlib.pyplot as plt
+import pandas as pd
+
 def comparer_bankroll_joueurs(df_tournois, liste_joueurs):
     """
     Compare l'évolution du profit cumulé de plusieurs joueurs.
@@ -7,14 +10,14 @@ def comparer_bankroll_joueurs(df_tournois, liste_joueurs):
     plt.figure(figsize=(14, 7))
 
     for joueur in liste_joueurs:
-        df_j = df_tournois[df_tournois['hero'] == joueur].sort_values('start_date').copy()
+        df_j = df_tournois[df_tournois['joueur'] == joueur].sort_values('start_date').copy()
 
         if len(df_j) == 0:
             print(f"Aucune donnée pour le joueur : {joueur}")
             continue
 
         # Calcul du profit net et cumulé
-        df_j['profit_net'] = df_j['prizepool'] - (df_j['Buy_in_rake'] + df_j['buy_in_price'])
+        df_j['profit_net'] = df_j['prizepool'] - (df_j['buy_in_rake'] + df_j['buy_in_price'])
         df_j['bankroll_cumulee'] = df_j['profit_net'].cumsum()
 
         # On utilise l'index de 0 à N pour comparer le volume de jeu

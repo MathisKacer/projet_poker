@@ -21,7 +21,7 @@ def parse_resume(fichier: str) -> dict:
     rank = re.search(r"You finished in (\d+)(?:st|nd|rd|th) place", content)
     start_date = re.search(r"Tournament started (\d{4}/\d{2}/\d{2} \d{2}:\d{2}:\d{2} UTC)", content)
     prizepool = re.search(r"Prizepool : (\d+)€", content)
-    joueur = re.search(r"Player : (.+)", texte)
+    joueur = re.search(r"Player : (.+)", content)
 
     summary_data = {
         "nom_tournament": tournoi.group(1).strip() if tournoi else None,
