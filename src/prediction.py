@@ -2,6 +2,8 @@ from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_absolute_error, r2_score
 
 
 def feature_engineering(df):
@@ -14,24 +16,39 @@ def feature_engineering(df):
     df['est une paire'] = df['main'].apply(lambda x: 1 if x[0] == x[1] else 0)
     df['est même signe'] = df['main'].apply(lambda x: 1 if 's' in x else 0)
     df['se suivent'] = df.apply(lambda row: 1 if abs(row['carte haute'] - row['carte basse']) == 1 else 0, axis=1)
+    df['main_gagnante'] = (df['benefice bb'] > 0).astype(int)
 
     return df
 
 numeric_features = ['stack_bb', 'high_card', 'level']
 categorical_features = ['position', 'main']
 
-def transfo_colonnes(df, colonnes_numeriques, colonnes_categorielles):
 
+def regression(df, variables_numeriques, variables_categorielles):
     preprocessor = ColumnTransformer(
         transformers=[
-            # StandardScaler : centre et réduit les variables numériques
-            ('num', StandardScaler(), colonnes_numeriques),
-            # OneHotEncoder : transforme les textes en colonnes 0/1
-            ('cat', OneHotEncoder(handle_unknown='ignore'), colonnes_categorielles)
+            ('num', StandardScaler(), variables_numeriques),
+            ('cat', OneHotEncoder(handle_unknown='ignore'), variables_categorielles)
         ])
 
-    # 3. On intègre cela dans un Pipeline (méthode Galiana)
-    poker_pipeline = Pipeline(steps=[
+    reg_pipeline = Pipeline(steps=[
         ('preprocessor', preprocessor),
         ('regressor', RandomForestRegressor(n_estimators=100, random_state=42))
     ])
+
+    # Pipeline de régression
+    reg_pipeline = Pipeline([
+        ('prepro', preprocessor),
+        ('regressor', RandomForestRegressor(n_estimators=100, random_state=42))
+    ])
+
+    X = df[variables_numeriques + variables_categorielles]
+    y_reg = df['benefice bb']
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y_reg, test_size=0.2, random_state=42)
+
+    reg_pipeline.fit(X_train, y_train)
+    y_pred_reg = reg_pipeline.predict(X_test)
+
+    print(f"R² Score: {r2_score(y_test, y_pred_reg):.4f}")
+    print(f"Erreur Moyenne (MAE): {mean_absolute_error(y_test, y_pred_reg):.2f} BB")
